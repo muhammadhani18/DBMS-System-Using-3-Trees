@@ -140,7 +140,7 @@ public:
     {
         if (root != NULL)
         {
-            root->search(k);
+            return root->search(k);
         }
     }
     void insert(Q k, string file)
@@ -151,22 +151,6 @@ public:
             root->key[0] = k;
             root->n = 1;
          
-            ofstream fout("./B_tree/root.dat", ios::out | ios::binary);
-            if (!fout)
-            {
-                cout << "Cannot open Bin file\n";
-                exit(1);
-            }
-            for (int i = 0; i < 6; i++){
-
-                fout.write((char *)&root[i], sizeof(root));
-            }
-            fout.close();
-            if (!fout.good())
-            {
-                cout << "Error occurred at writing time!" << endl;
-                return;
-            }
         }
         else
         {
@@ -191,3 +175,72 @@ public:
         }
     }
 };
+
+
+void CreateIndex(string index, int order, BTree<string> *t)
+{
+
+    ifstream fin;
+
+    string s, garbage;
+    string file_name;
+
+    int counter = 0;
+
+    for (int i = 1; i <= 10; i++)
+    {
+        file_name = "";
+        file_name = "NCHS_-_Leading_Causes_of_Death__United_States_";
+        file_name.append(to_string(i));
+        file_name.append(".csv");
+
+        fin.open(file_name, ios::out | ios::in);
+        if (!fin)
+        {
+            // cout << file_name << endl;
+            cout << "Cannot open file " << i << endl;
+        }
+        else
+        {
+
+            for (int i = 0; i < 6; i++)
+            {
+                getline(fin, garbage, ',');
+                if (garbage == index)
+                {
+                    counter = i;
+                    break;
+                }
+            }
+            while (!fin.eof())
+            {
+                getline(fin, garbage, '\n');
+
+                for (int i = 0; i < counter; i++)
+                {
+                    getline(fin, garbage, ',');
+                    // cout << garbage << endl;
+                }
+                getline(fin, s, ',');
+
+                t->insert(s, file_name);
+
+                getline(fin, garbage, '\n');
+
+                // break;
+            }
+
+            fin.close();
+        }
+    }
+    t->traverse();
+    // cout << "The B-tree is: ";
+}
+
+void PointSearch_BTree(BTree<string> *t, string key)
+{
+    Node<string>*temp;
+   
+    temp = t->search(key);
+    cout << (temp->filename) << endl;
+}
