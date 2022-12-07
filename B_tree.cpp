@@ -83,7 +83,7 @@ struct Node
         n = n + 1;
     }
 
-    void Traverse()
+    void Traverse(string keys)
     {
         int i = 0;
         for (; i < n; i++)
@@ -91,7 +91,9 @@ struct Node
             if (leaf == false)
                 C[i]->Traverse();
 
-            cout << key[i] << "   ";
+            cout << key[i] << " " << filename << "  ";
+            
+            
         }
 
         if (leaf == false)
@@ -107,8 +109,8 @@ struct Node
         }
 
         if (key[i] == k)
-            return this;
-
+            cout << this->filename << "  " << this->key[i] << endl;
+            
         if (leaf == true)
             return NULL;
 
@@ -141,6 +143,9 @@ public:
         if (root != NULL)
         {
             return root->search(k);
+        }
+        else { 
+            return NULL; 
         }
     }
     void insert(Q k, string file)
@@ -224,17 +229,18 @@ void CreateIndex(string index, int order, BTree<string> *t)
                 getline(fin, s, ',');
 
                 t->insert(s, file_name);
-
+                counter++;
                 getline(fin, garbage, '\n');
 
                 // break;
             }
-
+            cout << file_name << endl; 
             fin.close();
         }
     }
-    t->traverse();
+    //t->traverse();
     // cout << "The B-tree is: ";
+    cout << "\nCounter: " << counter << endl;
 }
 
 void PointSearch_BTree(BTree<string> *t, string key)
@@ -242,5 +248,13 @@ void PointSearch_BTree(BTree<string> *t, string key)
     Node<string>*temp;
    
     temp = t->search(key);
-    cout << (temp->filename) << endl;
+    if(temp != NULL) {
+
+        cout << (temp->filename) << endl;
+        return;
+    }
+    else{
+        cout << "Couldn't Locate the Index\n";
+        return; 
+    }
 }
