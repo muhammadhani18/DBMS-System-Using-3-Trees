@@ -83,7 +83,7 @@ struct Node
         n = n + 1;
     }
 
-    void Traverse(string keys)
+    void Traverse()
     {
         int i = 0;
         for (; i < n; i++)
@@ -91,7 +91,7 @@ struct Node
             if (leaf == false)
                 C[i]->Traverse();
 
-            cout << key[i] << " " << filename << "  ";
+            cout << key[i] << "  " << filename << endl;
             
             
         }
@@ -185,8 +185,6 @@ public:
 void CreateIndex(string index, int order, BTree<string> *t)
 {
 
-    ifstream fin;
-
     string s, garbage;
     string file_name;
 
@@ -194,16 +192,17 @@ void CreateIndex(string index, int order, BTree<string> *t)
 
     for (int i = 1; i <= 10; i++)
     {
+        ifstream fin;
         file_name = "";
         file_name = "NCHS_-_Leading_Causes_of_Death__United_States_";
         file_name.append(to_string(i));
         file_name.append(".csv");
 
-        fin.open(file_name, ios::out | ios::in);
+        fin.open(file_name);
         if (!fin)
         {
             // cout << file_name << endl;
-            cout << "Cannot open file " << i << endl;
+            cout << "Cannot open file " << endl;
         }
         else
         {
@@ -217,44 +216,93 @@ void CreateIndex(string index, int order, BTree<string> *t)
                     break;
                 }
             }
+            
             while (!fin.eof())
             {
+                garbage = "";
+                s= "";
+            
                 getline(fin, garbage, '\n');
 
                 for (int i = 0; i < counter; i++)
                 {
                     getline(fin, garbage, ',');
-                    // cout << garbage << endl;
                 }
-                getline(fin, s, ',');
 
+                getline(fin, s, ',');
+                cout << s << endl;   
                 t->insert(s, file_name);
-                counter++;
+                
                 getline(fin, garbage, '\n');
+                counter++;
 
                 // break;
+            
             }
-            cout << file_name << endl; 
+            
             fin.close();
+            break;
         }
     }
-    //t->traverse();
-    // cout << "The B-tree is: ";
-    cout << "\nCounter: " << counter << endl;
+ //   t->traverse();
+   
 }
+
+
+void IndexOnID(string index, int order, BTree<string> *t) {
+    string s, garbage;
+    string file_name;
+
+    int counter = 0;
+
+    for (int i = 1; i <= 10; i++)
+    {
+        ifstream fin;
+        file_name = "";
+        file_name = "NCHS_-_Leading_Causes_of_Death__United_States_";
+        file_name.append(to_string(i));
+        file_name.append(".csv");
+        fin.open(file_name);
+        if(!fin) {
+            cout << "File not opened\n";
+        }
+        else {
+            while(!fin.eof()) {
+                
+                getline(fin,garbage,'\n');
+                
+                getline(fin,s,',');
+                
+                getline(fin,garbage,'\n');
+                t->insert(s,file_name);
+                ofstream fw("./B_tree/bt"+s+".txt");
+                fw << garbage << endl;
+                fw.close();
+            }
+            fin.close(); 
+        }
+    }
+    //t->traverse();    
+} 
+
+
 
 void PointSearch_BTree(BTree<string> *t, string key)
 {
-    Node<string>*temp;
-   
-    temp = t->search(key);
-    if(temp != NULL) {
-
-        cout << (temp->filename) << endl;
+    
+    string data = "";
+    string filename = "./B_tree/bt"+key+".txt"; 
+    ifstream fin(filename);
+    if(!fin) {
+        cout << "ID with this key not found\n";
         return;
     }
-    else{
-        cout << "Couldn't Locate the Index\n";
-        return; 
-    }
+
+    getline(fin,data,'\n');
+    cout << "The data for " << key << " is: " << data << endl;
+
+    return;
+
 }
+
+

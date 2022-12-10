@@ -31,8 +31,7 @@ int main()
 
                 BTree<string> *tree = new BTree<string>(order);
 
-                CreateIndex(index, order, tree);
-
+                IndexOnID(index,order,tree);
                 while (1)
                 {
                     cout << endl;
@@ -63,3 +62,18 @@ int main()
 
     return 0;
 }
+
+// int main() {
+//     BTree<string> t(3);
+//     t.insert("13","f");
+//     t.insert("8","f");
+//     t.insert("5","f");
+//     t.insert("6","f");
+//     t.insert("11","f");
+//     t.insert("3","f");
+//     t.insert("7","f");
+//     t.insert("27","f");
+
+//     t.traverse();
+//     return 0;
+// }
