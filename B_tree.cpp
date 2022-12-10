@@ -527,3 +527,16 @@ void PointSearch_BTree(BTree<string> *t, string key)
     return;
 }
 
+void DeleteRecord(string key,BTree<string>*t) {
+    t->deletion(key);
+    string filename = "bt"+key+".txt";
+    string s = "rm "+filename;
+    
+    int length = s.length();
+    char char_array[length+1];
+    
+    strcpy(char_array, s.c_str());
+    
+    system("cd B_tree/ID");
+    system(char_array);
+}

@@ -1,0 +1,1 @@
+2000,Cerebrovascular diseases (I60-I69),Stroke,Wisconsin,3598,62.2

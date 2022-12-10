@@ -1,6 +1,7 @@
 #include <iostream>
 #include "B_tree.cpp"
 #include "Red_Black.cpp"
+#include  "AVL_Tree.cpp"
 
 using namespace std;
 
@@ -59,9 +60,44 @@ int main()
                         cin >> key;
                         PointSearch_BTree(tree,key);
                     } 
+                    if(choice == 5) {
+                        string key;
+                        cout << "Please enter the key you wana delete: ";
+                        cin >> key;
+                        DeleteRecord(key,tree); 
+                    }
                     cout << endl;
                 }
             }
+        }
+        else if(choice == 2) {
+            string index;
+            if (choice == 2)
+            {
+                cout << "Please enter on which data field you want to perform indexing\n";
+                cout << "(ID - Year - 113 Cause Name - Cause Name - State - Deaths - Age-adjusted Death Rate)\n";
+                cout << "Index: ";
+                cin >> index;
+
+
+                AVLTree<string> *avl_tree = new AVLTree<string>;
+                IndexOnIDAVL(index,avl_tree);
+                while(1) {
+                    Menu();
+                    cin >> choice;
+                    if (choice == 0){ 
+                            exit(0);
+                    }
+                    if (choice == 2) {
+                        string key;
+                        cout << "Please enter the "  << index << " : ";
+                        cin >> key;
+                        //PointSearch_BTree(tree,key);
+                    } 
+                    cout << endl;
+                }
+            }
+
         }
         else if(choice == 3) {
             string index;
@@ -95,17 +131,3 @@ int main()
     return 0;
 }
 
-// int main() {
-//     BTree<string> t(3);
-//     t.insert("13","f");
-//     t.insert("8","f");
-//     t.insert("5","f");
-//     t.insert("6","f");
-//     t.insert("11","f");
-//     t.insert("3","f");
-//     t.insert("7","f");
-//     t.insert("27","f");
-
-//     t.traverse();
-//     return 0;
-// }
