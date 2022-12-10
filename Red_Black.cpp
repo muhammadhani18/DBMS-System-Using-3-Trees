@@ -1,4 +1,5 @@
 #include <iostream>
+#include <fstream>
 using namespace std;
 
 template<class T>
@@ -493,19 +494,60 @@ public:
     }
 };
 
-int main()
-{
-    RedBlackTree<int> bst;
-    bst.insert(55);
-    bst.insert(40);
-    bst.insert(65);
-    bst.insert(60);
-    bst.insert(75);
-    bst.insert(57);
 
-    bst.printTree();
-    cout << endl
-         << "After deleting" << endl;
-    bst.deleteNode(40);
-    bst.printTree();
+void IndexOnIDRB(string index, RedBlackTree<string> *t)
+{
+    string s, garbage;
+    string file_name;
+
+    int counter = 0;
+
+    for (int i = 1; i <= 10; i++)
+    {
+        ifstream fin;
+        file_name = "";
+        file_name = "NCHS_-_Leading_Causes_of_Death__United_States_";
+        file_name.append(to_string(i));
+        file_name.append(".csv");
+        fin.open(file_name);
+        if (!fin)
+        {
+            cout << "File not opened\n";
+        }
+        else
+        {
+            while (!fin.eof())
+            {
+
+                getline(fin, garbage, '\n');
+
+                getline(fin, s, ',');
+
+                getline(fin, garbage, '\n');
+                t->insert(s);
+                ofstream fw("./RB_tree/ID/rb" + s + ".txt");
+                fw << garbage << endl;
+                fw.close();
+            }
+            fin.close();
+        }
+    }
+    t->inorder();
 }
+
+// int main()
+// {
+//     RedBlackTree<int> bst;
+//     bst.insert(55);
+//     bst.insert(40);
+//     bst.insert(65);
+//     bst.insert(60);
+//     bst.insert(75);
+//     bst.insert(57);
+
+//     bst.printTree();
+//     cout << endl
+//          << "After deleting" << endl;
+//     bst.deleteNode(40);
+//     bst.printTree();
+// }

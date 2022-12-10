@@ -5,26 +5,26 @@
 using namespace std;
 
 template <class T>
-struct Node
+struct BNode
 {
     T *key;
     int t;
-    Node<T> **C;
+    BNode<T> **C;
     int n;
     bool leaf;
     string filename;
 
-    Node<T>(int t1, string file, bool leaf1)
+    BNode<T>(int t1, string file, bool leaf1)
     {
         t = t1;
         leaf = leaf1;
 
         key = new T[2 * t - 1];
-        C = new Node *[2 * t];
+        C = new BNode *[2 * t];
         filename = file;
         n = 0;
     }
-    void insertIfNodeNotFull(T k, string file)
+    void insertIfBNodeNotFull(T k, string file)
     {
         int i = n - 1;
 
@@ -52,13 +52,13 @@ struct Node
                 if (key[i + 1] < k)
                     i++;
             }
-            C[i + 1]->insertIfNodeNotFull(k, file);
+            C[i + 1]->insertIfBNodeNotFull(k, file);
         }
     }
 
-    void SplitChild(int i, Node<T> *y)
+    void SplitChild(int i, BNode<T> *y)
     {
-        Node<T> *z = new Node<T>(y->t, y->filename, y->leaf);
+        BNode<T> *z = new BNode<T>(y->t, y->filename, y->leaf);
         z->n = t - 1;
 
         for (int j = 0; j < t - 1; j++)
@@ -91,16 +91,14 @@ struct Node
             if (leaf == false)
                 C[i]->Traverse();
 
-            cout << key[i] << "  " << filename << endl;
-            
-            
+            cout << key[i] << "  ";
         }
 
         if (leaf == false)
             C[i]->Traverse();
     }
 
-    Node<T> *search(T k)
+    BNode<T> *search(T k)
     {
         int i = 0;
         while (i < n && k > key[i])
@@ -110,18 +108,235 @@ struct Node
 
         if (key[i] == k)
             cout << this->filename << "  " << this->key[i] << endl;
-            
+
         if (leaf == true)
             return NULL;
 
         return C[i]->search(k);
     }
+
+    int findKey(T k) {
+        int idx = 0;
+        while (idx < n && key[idx] < k) {
+            ++idx;
+        }
+        return idx;
+    }
+
+    void Deletion(T k)
+    {
+        int idx = findKey(k);
+
+        if (idx < n && key[idx] == k)
+        {
+            if (leaf)
+                removeFromLeaf(idx);
+            else
+                removeFromNonLeaf(idx);
+        }
+        else
+        {
+            if (leaf)
+            {
+                cout << "ID DOES NOT EXIST TO BE DELETED\n";
+                return;
+            }
+
+            bool flag;// = ((idx == n) ? true : false);
+            if(idx == n) {
+                flag = true;
+            }
+            else{
+                flag = false;
+            }
+            if (C[idx]->n < t) {
+
+                fill(idx);
+            }
+
+            if (flag && idx > n) {
+
+                C[idx - 1]->Deletion(k);
+            }
+            else{
+
+                C[idx]->Deletion(k);
+            }
+        }
+        return;
+    }
+    void removeFromLeaf(int idx)
+    {
+        for (int i = idx + 1; i < n; ++i){
+
+            key[i - 1] = key[i];
+        }
+
+        n--;
+
+        return;
+    }
+    void removeFromNonLeaf(int idx)
+    {
+        T k = key[idx];
+
+        if (C[idx]->n >= t)
+        {
+            T pred = getPredecessor(idx);
+            key[idx] = pred;
+            C[idx]->Deletion(pred);
+        }
+
+        else if (C[idx + 1]->n >= t)
+        {
+            T succ = getSuccessor(idx);
+            key[idx] = succ;
+            C[idx + 1]->Deletion(succ);
+        }
+
+        else
+        {
+            merge(idx);
+            C[idx]->Deletion(k);
+        }
+        return;
+    }
+
+    T getPredecessor(int idx)
+    {
+        BNode *cur = C[idx];
+        while (!cur->leaf)
+            cur = cur->C[cur->n];
+
+        return cur->key[cur->n - 1];
+    }
+    T getSuccessor(int idx)
+    {
+        BNode *cur = C[idx + 1];
+        while (!cur->leaf)
+            cur = cur->C[0];
+
+        return cur->key[0];
+    }
+
+    void fill(int idx)
+    {
+        if (idx != 0 && C[idx - 1]->n >= t)
+            borrowFromPrev(idx);
+
+        else if (idx != n && C[idx + 1]->n >= t)
+            borrowFromNext(idx);
+
+        else
+        {
+            if (idx != n)
+                merge(idx);
+            else
+                merge(idx - 1);
+        }
+        return;
+    }
+
+    // Borrow from previous
+    void borrowFromPrev(int idx)
+    {
+        BNode<T> *child = C[idx];
+        BNode<T> *sibling = C[idx - 1];
+
+        for (int i = child->n - 1; i >= 0; --i)
+            child->key[i + 1] = child->key[i];
+
+        if (!child->leaf)
+        {
+            for (int i = child->n; i >= 0; --i)
+                child->C[i + 1] = child->C[i];
+        }
+
+        child->key[0] = key[idx - 1];
+
+        if (!child->leaf)
+            child->C[0] = sibling->C[sibling->n];
+
+        key[idx - 1] = sibling->key[sibling->n - 1];
+
+        child->n += 1;
+        sibling->n -= 1;
+
+        return;
+    }
+
+    // Borrow from the next
+    void borrowFromNext(int idx)
+    {
+        BNode *child = C[idx];
+        BNode *sibling = C[idx + 1];
+
+        child->key[(child->n)] = key[idx];
+
+        if (!(child->leaf))
+            child->C[(child->n) + 1] = sibling->C[0];
+
+        key[idx] = sibling->key[0];
+
+        for (int i = 1; i < sibling->n; ++i)
+            sibling->key[i - 1] = sibling->key[i];
+
+        if (!sibling->leaf)
+        {
+            for (int i = 1; i <= sibling->n; ++i)
+                sibling->C[i - 1] = sibling->C[i];
+        }
+
+        child->n += 1;
+        sibling->n -= 1;
+
+        return;
+    }
+
+    // Merge
+    void merge(int idx)
+    {
+        BNode *child = C[idx];
+        BNode *sibling = C[idx + 1];
+
+        child->key[t - 1] = key[idx];
+
+        for (int i = 0; i < sibling->n; ++i)
+            child->key[i + t] = sibling->key[i];
+
+        if (!child->leaf)
+        {
+            for (int i = 0; i <= sibling->n; ++i)
+                child->C[i + t] = sibling->C[i];
+        }
+
+        for (int i = idx + 1; i < n; ++i)
+            key[i - 1] = key[i];
+
+        for (int i = idx + 2; i <= n; ++i)
+            C[i - 1] = C[i];
+
+        child->n += sibling->n + 1;
+        n--;
+
+        delete (sibling);
+        return;
+    }
 };
+
+
+//-------------------------------------------------------------------------------------------------//
+//-------------------------------------------------------------------------------------------------//
+//-------------------------------------------------------------------------------------------------//
+//-------------------------------------------------------------------------------------------------//
+//-------------------------------------------------------------------------------------------------//
+//-------------------------------------------------------------------------------------------------//
+
 
 template <class Q>
 class BTree
 {
-    Node<Q> *root;
+    BNode<Q> *root;
     int t;
 
 public:
@@ -138,31 +353,31 @@ public:
         }
         root->Traverse();
     }
-    Node<Q> *search(Q k)
+    BNode<Q> *search(Q k)
     {
         if (root != NULL)
         {
             return root->search(k);
         }
-        else { 
-            return NULL; 
+        else
+        {
+            return NULL;
         }
     }
     void insert(Q k, string file)
     {
         if (root == NULL)
         {
-            root = new Node<Q>(t, file, true);
+            root = new BNode<Q>(t, file, true);
             root->key[0] = k;
             root->n = 1;
-         
         }
         else
         {
-            
+
             if (root->n == 2 * t - 1)
             {
-                Node<Q> *s = new Node<Q>(t, file, false);
+                BNode<Q> *s = new BNode<Q>(t, file, false);
 
                 s->C[0] = root;
 
@@ -171,16 +386,24 @@ public:
                 int i = 0;
                 if (s->key[0] < k)
                     i++;
-                s->C[i]->insertIfNodeNotFull(k, file);
+                s->C[i]->insertIfBNodeNotFull(k, file);
 
                 root = s;
             }
             else
-                root->insertIfNodeNotFull(k, file);
+                root->insertIfBNodeNotFull(k, file);
+        }
+    }
+    void deletion(Q k) {
+        if(root == NULL) {
+            cout << "Tree is empty.\n";
+            return;
+        }
+        else {
+            root->Deletion(k);
         }
     }
 };
-
 
 void CreateIndex(string index, int order, BTree<string> *t)
 {
@@ -216,12 +439,12 @@ void CreateIndex(string index, int order, BTree<string> *t)
                     break;
                 }
             }
-            
+
             while (!fin.eof())
             {
                 garbage = "";
-                s= "";
-            
+                s = "";
+
                 getline(fin, garbage, '\n');
 
                 for (int i = 0; i < counter; i++)
@@ -230,26 +453,24 @@ void CreateIndex(string index, int order, BTree<string> *t)
                 }
 
                 getline(fin, s, ',');
-                cout << s << endl;   
+                cout << s << endl;
                 t->insert(s, file_name);
-                
+
                 getline(fin, garbage, '\n');
                 counter++;
 
                 // break;
-            
             }
-            
+
             fin.close();
             break;
         }
     }
- //   t->traverse();
-   
+    //   t->traverse();
 }
 
-
-void IndexOnID(string index, int order, BTree<string> *t) {
+void IndexOnID(string index, int order, BTree<string> *t)
+{
     string s, garbage;
     string file_name;
 
@@ -263,46 +484,46 @@ void IndexOnID(string index, int order, BTree<string> *t) {
         file_name.append(to_string(i));
         file_name.append(".csv");
         fin.open(file_name);
-        if(!fin) {
+        if (!fin)
+        {
             cout << "File not opened\n";
         }
-        else {
-            while(!fin.eof()) {
-                
-                getline(fin,garbage,'\n');
-                
-                getline(fin,s,',');
-                
-                getline(fin,garbage,'\n');
-                t->insert(s,file_name);
-                ofstream fw("./B_tree/bt"+s+".txt");
+        else
+        {
+            getline(fin, garbage, '\n');
+            while (!fin.eof())
+            {
+
+
+                getline(fin, s, ',');
+
+                t->insert(s, file_name);
+                ofstream fw("./B_tree/ID/bt" + s + ".txt");
+                getline(fin, garbage, '\n');
                 fw << garbage << endl;
                 fw.close();
             }
-            fin.close(); 
+            fin.close();
         }
     }
-    //t->traverse();    
-} 
-
-
+    // t->traverse();
+}
 
 void PointSearch_BTree(BTree<string> *t, string key)
 {
-    
+
     string data = "";
-    string filename = "./B_tree/bt"+key+".txt"; 
+    string filename = "./B_tree/bt" + key + ".txt";
     ifstream fin(filename);
-    if(!fin) {
+    if (!fin)
+    {
         cout << "ID with this key not found\n";
         return;
     }
 
-    getline(fin,data,'\n');
+    getline(fin, data, '\n');
     cout << "The data for " << key << " is: " << data << endl;
 
     return;
-
 }
-
 
