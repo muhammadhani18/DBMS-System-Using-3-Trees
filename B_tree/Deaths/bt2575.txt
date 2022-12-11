@@ -1,0 +1,8 @@
+2910,2002,Chronic lower respiratory diseases (J40-J47),CLRD,Arizona,2575,48.4
+
+2950,2016,Chronic lower respiratory diseases (J40-J47),CLRD,Colorado,2575,46.4
+
+2910,2002,Chronic lower respiratory diseases (J40-J47),CLRD,Arizona,2575,48.4
+
+2950,2016,Chronic lower respiratory diseases (J40-J47),CLRD,Colorado,2575,46.4
+

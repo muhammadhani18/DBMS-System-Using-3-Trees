@@ -1,0 +1,8 @@
+1387,2013,Alzheimer's disease (G30),Alzheimer's disease,Michigan,3220,26.4
+
+9801,2000,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Michigan,3220,32.9
+
+1387,2013,Alzheimer's disease (G30),Alzheimer's disease,Michigan,3220,26.4
+
+9801,2000,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Michigan,3220,32.9
+

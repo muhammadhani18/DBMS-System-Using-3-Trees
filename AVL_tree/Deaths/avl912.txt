@@ -1,0 +1,8 @@
+1090,2004,Alzheimer's disease (G30),Alzheimer's disease,Colorado,912,26.1
+
+1287,2005,Alzheimer's disease (G30),Alzheimer's disease,Kansas,912,28.1
+
+5676,2008,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Alabama,912,18.7
+
+6921,2005,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Kentucky,912,21.9
+

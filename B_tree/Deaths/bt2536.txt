@@ -1,0 +1,12 @@
+1747,2013,Alzheimer's disease (G30),Alzheimer's disease,Tennessee,2536,36.9
+
+6847,2007,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Illinois,2536,19.5
+
+8443,2013,Cerebrovascular diseases (I60-I69),Stroke,Wisconsin,2536,36
+
+1747,2013,Alzheimer's disease (G30),Alzheimer's disease,Tennessee,2536,36.9
+
+6847,2007,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Illinois,2536,19.5
+
+8443,2013,Cerebrovascular diseases (I60-I69),Stroke,Wisconsin,2536,36
+

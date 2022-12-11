@@ -1,0 +1,8 @@
+6814,2004,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Hawaii,164,11.8
+
+8500,2010,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Alaska,164,22.8
+
+6814,2004,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Hawaii,164,11.8
+
+8500,2010,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Alaska,164,22.8
+

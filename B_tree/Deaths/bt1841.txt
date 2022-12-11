@@ -1,0 +1,4 @@
+7845,1999,Cerebrovascular diseases (I60-I69),Stroke,Kansas,1841,61.6
+
+7845,1999,Cerebrovascular diseases (I60-I69),Stroke,Kansas,1841,61.6
+

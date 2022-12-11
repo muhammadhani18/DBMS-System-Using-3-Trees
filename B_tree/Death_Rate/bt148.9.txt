@@ -1,0 +1,4 @@
+4843,2013,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Connecticut,7090,148.9
+
+5258,2013,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,New Hampshire,2434,148.9
+

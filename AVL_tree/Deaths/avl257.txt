@@ -1,0 +1,12 @@
+1821,2011,Alzheimer's disease (G30),Alzheimer's disease,Vermont,257,32.5
+
+5876,2006,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Hawaii,257,17.2
+
+6378,2008,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Rhode Island,257,18.2
+
+6950,2012,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Maine,257,14.3
+
+6951,2011,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Maine,257,14.8
+
+7697,2003,Cerebrovascular diseases (I60-I69),Stroke,District of Columbia,257,46
+

@@ -1,0 +1,6 @@
+2142,2014,Malignant neoplasms (C00-C97),Cancer,Idaho,2795,155.4
+
+2341,2013,Malignant neoplasms (C00-C97),Cancer,Minnesota,9601,155.4
+
+5475,2012,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,South Dakota,1668,155.4
+

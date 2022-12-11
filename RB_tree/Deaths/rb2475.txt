@@ -1,0 +1,4 @@
+7919,2015,Cerebrovascular diseases (I60-I69),Stroke,Massachusetts,2475,28.4
+
+9460,2001,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arizona,2475,47.6
+

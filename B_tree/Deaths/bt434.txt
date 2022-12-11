@@ -1,0 +1,24 @@
+1059,1999,Alzheimer's disease (G30),Alzheimer's disease,Arkansas,434,14.8
+
+1332,2014,Alzheimer's disease (G30),Alzheimer's disease,Maine,434,22.7
+
+1728,2014,Alzheimer's disease (G30),Alzheimer's disease,South Dakota,434,36.2
+
+7342,1999,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,South Carolina,434,11.8
+
+8993,2003,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Nevada,434,19.9
+
+10084,2006,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Rhode Island,434,36.5
+
+1059,1999,Alzheimer's disease (G30),Alzheimer's disease,Arkansas,434,14.8
+
+1332,2014,Alzheimer's disease (G30),Alzheimer's disease,Maine,434,22.7
+
+1728,2014,Alzheimer's disease (G30),Alzheimer's disease,South Dakota,434,36.2
+
+7342,1999,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,South Carolina,434,11.8
+
+8993,2003,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Nevada,434,19.9
+
+10084,2006,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Rhode Island,434,36.5
+

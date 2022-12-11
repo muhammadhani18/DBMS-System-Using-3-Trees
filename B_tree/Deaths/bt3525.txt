@@ -1,0 +1,8 @@
+7383,2012,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Texas,3525,15.6
+
+9988,2000,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,North Carolina,3525,44.7
+
+7383,2012,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Texas,3525,15.6
+
+9988,2000,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,North Carolina,3525,44.7
+

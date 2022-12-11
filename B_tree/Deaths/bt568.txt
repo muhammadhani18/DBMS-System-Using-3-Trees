@@ -1,0 +1,12 @@
+3093,1999,Chronic lower respiratory diseases (J40-J47),CLRD,Idaho,568,49.5
+
+5782,2010,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Connecticut,568,12.1
+
+9630,2001,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Idaho,568,44.2
+
+3093,1999,Chronic lower respiratory diseases (J40-J47),CLRD,Idaho,568,49.5
+
+5782,2010,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Connecticut,568,12.1
+
+9630,2001,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Idaho,568,44.2
+

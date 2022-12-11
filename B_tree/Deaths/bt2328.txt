@@ -1,0 +1,16 @@
+2639,2003,Malignant neoplasms (C00-C97),Cancer,Rhode Island,2328,192.1
+
+2874,2002,Chronic lower respiratory diseases (J40-J47),CLRD,Alabama,2328,50.7
+
+6852,2002,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Illinois,2328,19
+
+8218,2004,Cerebrovascular diseases (I60-I69),Stroke,Oregon,2328,59.5
+
+2639,2003,Malignant neoplasms (C00-C97),Cancer,Rhode Island,2328,192.1
+
+2874,2002,Chronic lower respiratory diseases (J40-J47),CLRD,Alabama,2328,50.7
+
+6852,2002,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Illinois,2328,19
+
+8218,2004,Cerebrovascular diseases (I60-I69),Stroke,Oregon,2328,59.5
+

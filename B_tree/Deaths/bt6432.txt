@@ -1,0 +1,8 @@
+2194,2016,Malignant neoplasms (C00-C97),Cancer,Iowa,6432,159.8
+
+3551,2009,Chronic lower respiratory diseases (J40-J47),CLRD,Pennsylvania,6432,39.6
+
+2194,2016,Malignant neoplasms (C00-C97),Cancer,Iowa,6432,159.8
+
+3551,2009,Chronic lower respiratory diseases (J40-J47),CLRD,Pennsylvania,6432,39.6
+

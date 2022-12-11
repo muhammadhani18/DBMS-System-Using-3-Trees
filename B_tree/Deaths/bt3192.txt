@@ -1,0 +1,8 @@
+1230,2008,Alzheimer's disease (G30),Alzheimer's disease,Illinois,3192,23.6
+
+10229,2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Washington,3192,41.9
+
+1230,2008,Alzheimer's disease (G30),Alzheimer's disease,Illinois,3192,23.6
+
+10229,2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Washington,3192,41.9
+

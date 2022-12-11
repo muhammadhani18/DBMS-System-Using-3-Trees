@@ -1,0 +1,4 @@
+3560,2000,Chronic lower respiratory diseases (J40-J47),CLRD,Pennsylvania,6079,40.3
+
+4834,2004,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Colorado,6079,163.6
+

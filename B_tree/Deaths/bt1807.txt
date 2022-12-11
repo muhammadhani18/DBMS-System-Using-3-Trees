@@ -1,0 +1,8 @@
+1839,2011,Alzheimer's disease (G30),Alzheimer's disease,Virginia,1807,23.1
+
+1893,2011,Alzheimer's disease (G30),Alzheimer's disease,Wisconsin,1807,25.3
+
+1839,2011,Alzheimer's disease (G30),Alzheimer's disease,Virginia,1807,23.1
+
+1893,2011,Alzheimer's disease (G30),Alzheimer's disease,Wisconsin,1807,25.3
+

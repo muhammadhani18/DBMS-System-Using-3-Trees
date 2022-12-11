@@ -1,0 +1,4 @@
+2917,2013,Chronic lower respiratory diseases (J40-J47),CLRD,Arkansas,2090,60.1
+
+9714,2002,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Kentucky,2090,51.3
+

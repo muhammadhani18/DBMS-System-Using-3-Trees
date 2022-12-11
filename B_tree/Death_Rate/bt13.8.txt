@@ -1,0 +1,32 @@
+4006,2004,Diabetes mellitus (E10-E14),Diabetes,Hawaii,194,13.8
+
+4306,2010,Diabetes mellitus (E10-E14),Diabetes,Nevada,350,13.8
+
+5796,2014,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Delaware,156,13.8
+
+5800,2010,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Delaware,138,13.8
+
+6217,2007,Influenza and pneumonia (J09-J18),Influenza and pneumonia,New Jersey,1343,13.8
+
+6320,2012,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Oklahoma,573,13.8
+
+6376,2010,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Rhode Island,197,13.8
+
+6570,2014,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wisconsin,1002,13.8
+
+7027,2007,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Minnesota,780,13.8
+
+7144,2016,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,New Jersey,1535,13.8
+
+7146,2014,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,New Jersey,1502,13.8
+
+8641,2013,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Florida,2928,13.8
+
+8676,2014,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Hawaii,204,13.8
+
+8769,2011,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Kansas,394,13.8
+
+8873,2015,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Michigan,1410,13.8
+
+9003,2011,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,New Hampshire,198,13.8
+

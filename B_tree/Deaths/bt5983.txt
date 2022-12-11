@@ -1,0 +1,8 @@
+2368,2004,Malignant neoplasms (C00-C97),Cancer,Mississippi,5983,209.8
+
+3506,2000,Chronic lower respiratory diseases (J40-J47),CLRD,Ohio,5983,50.6
+
+2368,2004,Malignant neoplasms (C00-C97),Cancer,Mississippi,5983,209.8
+
+3506,2000,Chronic lower respiratory diseases (J40-J47),CLRD,Ohio,5983,50.6
+

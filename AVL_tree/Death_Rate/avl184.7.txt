@@ -1,0 +1,6 @@
+2455,2007,Malignant neoplasms (C00-C97),Cancer,New Hampshire,2609,184.7
+
+2616,2008,Malignant neoplasms (C00-C97),Cancer,Pennsylvania,28964,184.7
+
+2836,2004,Malignant neoplasms (C00-C97),Cancer,Wisconsin,10861,184.7
+

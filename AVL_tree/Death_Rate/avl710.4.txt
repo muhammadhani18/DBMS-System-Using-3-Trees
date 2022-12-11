@@ -1,0 +1,8 @@
+415,2013,All Causes,All causes,Maryland,45689,710.4
+
+579,2011,All Causes,All causes,New Hampshire,10823,710.4
+
+792,2014,All Causes,All causes,South Dakota,7507,710.4
+
+865,2013,All Causes,All causes,Utah,16366,710.4
+

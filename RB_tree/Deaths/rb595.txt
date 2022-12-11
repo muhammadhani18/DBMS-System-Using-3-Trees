@@ -1,0 +1,12 @@
+3090,2002,Chronic lower respiratory diseases (J40-J47),CLRD,Idaho,595,48.7
+
+3682,2004,Chronic lower respiratory diseases (J40-J47),CLRD,Utah,595,35.6
+
+4365,2005,Diabetes mellitus (E10-E14),Diabetes,New Mexico,595,31.4
+
+6088,2010,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Minnesota,595,9.7
+
+7258,2010,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Oklahoma,595,15
+
+8025,1999,Cerebrovascular diseases (I60-I69),Stroke,Montana,595,62.2
+

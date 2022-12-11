@@ -1,0 +1,4 @@
+1943,2015,Malignant neoplasms (C00-C97),Cancer,Alaska,978,159.8
+
+2194,2016,Malignant neoplasms (C00-C97),Cancer,Iowa,6432,159.8
+

@@ -1,0 +1,8 @@
+3307,2001,Chronic lower respiratory diseases (J40-J47),CLRD,Mississippi,1333,49.1
+
+9688,2011,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Kansas,1333,43.8
+
+3307,2001,Chronic lower respiratory diseases (J40-J47),CLRD,Mississippi,1333,49.1
+
+9688,2011,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Kansas,1333,43.8
+

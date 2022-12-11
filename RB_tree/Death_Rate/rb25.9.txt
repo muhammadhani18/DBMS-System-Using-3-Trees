@@ -1,0 +1,36 @@
+1012,2010,Alzheimer's disease (G30),Alzheimer's disease,Alaska,85,25.9
+
+1016,2006,Alzheimer's disease (G30),Alzheimer's disease,Alaska,73,25.9
+
+1175,2009,Alzheimer's disease (G30),Alzheimer's disease,Georgia,1865,25.9
+
+1442,2012,Alzheimer's disease (G30),Alzheimer's disease,Missouri,1863,25.9
+
+1522,2004,Alzheimer's disease (G30),Alzheimer's disease,New Hampshire,331,25.9
+
+1692,2014,Alzheimer's disease (G30),Alzheimer's disease,Rhode Island,403,25.9
+
+1828,2004,Alzheimer's disease (G30),Alzheimer's disease,Vermont,173,25.9
+
+1829,2003,Alzheimer's disease (G30),Alzheimer's disease,Vermont,171,25.9
+
+3824,2006,Diabetes mellitus (E10-E14),Diabetes,Alaska,109,25.9
+
+4028,2000,Diabetes mellitus (E10-E14),Diabetes,Idaho,304,25.9
+
+4052,2012,Diabetes mellitus (E10-E14),Diabetes,Indiana,1860,25.9
+
+4058,2006,Diabetes mellitus (E10-E14),Diabetes,Indiana,1682,25.9
+
+4106,2012,Diabetes mellitus (E10-E14),Diabetes,Kentucky,1256,25.9
+
+4495,2001,Diabetes mellitus (E10-E14),Diabetes,Pennsylvania,3826,25.9
+
+5681,2003,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Alabama,1157,25.9
+
+5919,1999,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Illinois,3121,25.9
+
+8944,2016,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Montana,267,25.9
+
+9768,1999,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Maryland,1296,25.9
+

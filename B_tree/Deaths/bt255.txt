@@ -1,0 +1,8 @@
+6150,2002,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Montana,255,25.2
+
+9369,2005,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,West Virginia,255,13.2
+
+6150,2002,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Montana,255,25.2
+
+9369,2005,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,West Virginia,255,13.2
+

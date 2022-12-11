@@ -1,0 +1,8 @@
+6001,2007,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Louisiana,870,21.1
+
+8365,2001,Cerebrovascular diseases (I60-I69),Stroke,Utah,870,57.2
+
+6001,2007,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Louisiana,870,21.1
+
+8365,2001,Cerebrovascular diseases (I60-I69),Stroke,Utah,870,57.2
+

@@ -1,0 +1,12 @@
+5758,2016,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Colorado,533,9.6
+
+6892,2016,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Kansas,533,15
+
+8253,2005,Cerebrovascular diseases (I60-I69),Stroke,Rhode Island,533,39.9
+
+5758,2016,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Colorado,533,9.6
+
+6892,2016,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Kansas,533,15
+
+8253,2005,Cerebrovascular diseases (I60-I69),Stroke,Rhode Island,533,39.9
+

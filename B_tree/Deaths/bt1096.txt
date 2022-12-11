@@ -1,0 +1,12 @@
+1454,2000,Alzheimer's disease (G30),Alzheimer's disease,Missouri,1096,17.8
+
+8044,2016,Cerebrovascular diseases (I60-I69),Stroke,Nevada,1096,35.9
+
+8430,2008,Cerebrovascular diseases (I60-I69),Stroke,West Virginia,1096,48.3
+
+1454,2000,Alzheimer's disease (G30),Alzheimer's disease,Missouri,1096,17.8
+
+8044,2016,Cerebrovascular diseases (I60-I69),Stroke,Nevada,1096,35.9
+
+8430,2008,Cerebrovascular diseases (I60-I69),Stroke,West Virginia,1096,48.3
+

@@ -1,0 +1,8 @@
+2132,2006,Malignant neoplasms (C00-C97),Cancer,Hawaii,2171,147.8
+
+2626,2016,Malignant neoplasms (C00-C97),Cancer,Rhode Island,2171,158
+
+2132,2006,Malignant neoplasms (C00-C97),Cancer,Hawaii,2171,147.8
+
+2626,2016,Malignant neoplasms (C00-C97),Cancer,Rhode Island,2171,158
+

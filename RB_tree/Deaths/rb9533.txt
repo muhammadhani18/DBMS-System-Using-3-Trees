@@ -1,0 +1,4 @@
+2261,2003,Malignant neoplasms (C00-C97),Cancer,Louisiana,9533,221.8
+
+5164,1999,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Minnesota,9533,192.4
+

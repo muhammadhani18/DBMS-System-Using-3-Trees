@@ -1,0 +1,8 @@
+1026,2014,Alzheimer's disease (G30),Alzheimer's disease,Arizona,2485,31.6
+
+2459,2003,Malignant neoplasms (C00-C97),Cancer,New Hampshire,2485,193.7
+
+5904,2014,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Illinois,2485,16.8
+
+8201,2003,Cerebrovascular diseases (I60-I69),Stroke,Oklahoma,2485,68.9
+

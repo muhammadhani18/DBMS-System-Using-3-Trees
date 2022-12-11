@@ -1,0 +1,16 @@
+1958,2000,Malignant neoplasms (C00-C97),Cancer,Alaska,704,208.2
+
+6968,2012,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Maryland,704,11.3
+
+8740,2004,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Indiana,704,11.3
+
+9881,2005,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Nebraska,704,37.4
+
+1958,2000,Malignant neoplasms (C00-C97),Cancer,Alaska,704,208.2
+
+6968,2012,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Maryland,704,11.3
+
+8740,2004,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Indiana,704,11.3
+
+9881,2005,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Nebraska,704,37.4
+

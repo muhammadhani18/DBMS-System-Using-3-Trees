@@ -1,0 +1,4 @@
+2417,2009,Malignant neoplasms (C00-C97),Cancer,Nebraska,3336,165.1
+
+5638,2010,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Wisconsin,11115,165.1
+

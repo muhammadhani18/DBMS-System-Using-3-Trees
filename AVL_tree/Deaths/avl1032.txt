@@ -1,0 +1,8 @@
+3349,2013,Chronic lower respiratory diseases (J40-J47),CLRD,Nebraska,1032,47.7
+
+4475,2003,Diabetes mellitus (E10-E14),Diabetes,Oregon,1032,27.3
+
+5951,2003,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Iowa,1032,26.3
+
+6618,2002,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Alabama,1032,22.8
+

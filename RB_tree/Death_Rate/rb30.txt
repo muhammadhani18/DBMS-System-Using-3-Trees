@@ -1,0 +1,22 @@
+1028,2012,Alzheimer's disease (G30),Alzheimer's disease,Arizona,2160,30
+
+1063,2013,Alzheimer's disease (G30),Alzheimer's disease,California,11891,30
+
+1064,2012,Alzheimer's disease (G30),Alzheimer's disease,California,11649,30
+
+1325,2003,Alzheimer's disease (G30),Alzheimer's disease,Louisiana,1184,30
+
+1438,2016,Alzheimer's disease (G30),Alzheimer's disease,Missouri,2302,30
+
+1446,2008,Alzheimer's disease (G30),Alzheimer's disease,Missouri,2010,30
+
+1764,2014,Alzheimer's disease (G30),Alzheimer's disease,Texas,6772,30
+
+1871,2015,Alzheimer's disease (G30),Alzheimer's disease,West Virginia,738,30
+
+3813,1999,Diabetes mellitus (E10-E14),Diabetes,Alabama,1341,30
+
+6603,1999,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wyoming,130,30
+
+8101,2013,Cerebrovascular diseases (I60-I69),Stroke,New Mexico,689,30
+

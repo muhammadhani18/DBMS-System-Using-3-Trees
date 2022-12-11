@@ -1,0 +1,8 @@
+6035,2009,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Maryland,976,16.9
+
+8058,2002,Cerebrovascular diseases (I60-I69),Stroke,Nevada,976,57.7
+
+6035,2009,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Maryland,976,16.9
+
+8058,2002,Cerebrovascular diseases (I60-I69),Stroke,Nevada,976,57.7
+

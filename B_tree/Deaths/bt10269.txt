@@ -1,0 +1,8 @@
+2290,2010,Malignant neoplasms (C00-C97),Cancer,Maryland,10269,171.2
+
+7716,2002,Cerebrovascular diseases (I60-I69),Stroke,Florida,10269,46.9
+
+2290,2010,Malignant neoplasms (C00-C97),Cancer,Maryland,10269,171.2
+
+7716,2002,Cerebrovascular diseases (I60-I69),Stroke,Florida,10269,46.9
+

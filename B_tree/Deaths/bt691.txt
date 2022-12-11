@@ -1,0 +1,12 @@
+3336,2008,Chronic lower respiratory diseases (J40-J47),CLRD,Montana,691,61
+
+3867,1999,Diabetes mellitus (E10-E14),Diabetes,Arkansas,691,24.2
+
+3921,1999,Diabetes mellitus (E10-E14),Diabetes,Connecticut,691,18.5
+
+3336,2008,Chronic lower respiratory diseases (J40-J47),CLRD,Montana,691,61
+
+3867,1999,Diabetes mellitus (E10-E14),Diabetes,Arkansas,691,24.2
+
+3921,1999,Diabetes mellitus (E10-E14),Diabetes,Connecticut,691,18.5
+

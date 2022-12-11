@@ -1,0 +1,6 @@
+972,2014,All Causes,All causes,Wyoming,4666,742.4
+
+5617,2013,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,West Virginia,4666,193.7
+
+7937,2015,Cerebrovascular diseases (I60-I69),Stroke,Michigan,4666,37.6
+

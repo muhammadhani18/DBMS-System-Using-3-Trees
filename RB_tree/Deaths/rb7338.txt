@@ -1,0 +1,4 @@
+2585,2003,Malignant neoplasms (C00-C97),Cancer,Oklahoma,7338,199.8
+
+5750,2006,Influenza and pneumonia (J09-J18),Influenza and pneumonia,California,7338,22.7
+

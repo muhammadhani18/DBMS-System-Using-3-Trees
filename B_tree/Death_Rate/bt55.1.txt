@@ -1,0 +1,8 @@
+3297,2011,Chronic lower respiratory diseases (J40-J47),CLRD,Mississippi,1694,55.1
+
+8416,2004,Cerebrovascular diseases (I60-I69),Stroke,Washington,3243,55.1
+
+9707,2009,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Kentucky,2394,55.1
+
+10292,2003,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wyoming,273,55.1
+

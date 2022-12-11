@@ -1,0 +1,12 @@
+3231,2005,Chronic lower respiratory diseases (J40-J47),CLRD,Maryland,1908,36.5
+
+7711,2007,Cerebrovascular diseases (I60-I69),Stroke,Florida,8781,36.5
+
+7904,2012,Cerebrovascular diseases (I60-I69),Stroke,Maryland,2280,36.5
+
+8334,2014,Cerebrovascular diseases (I60-I69),Stroke,United States,133103,36.5
+
+9794,2007,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Michigan,3764,36.5
+
+10084,2006,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Rhode Island,434,36.5
+

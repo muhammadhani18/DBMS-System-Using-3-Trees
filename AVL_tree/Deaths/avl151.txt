@@ -1,0 +1,12 @@
+1907,2015,Alzheimer's disease (G30),Alzheimer's disease,Wyoming,151,24.2
+
+3009,2011,Chronic lower respiratory diseases (J40-J47),CLRD,District of Columbia,151,25.4
+
+4630,2010,Diabetes mellitus (E10-E14),Diabetes,Vermont,151,20.7
+
+4632,2008,Diabetes mellitus (E10-E14),Diabetes,Vermont,151,21.1
+
+7080,2008,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Montana,151,13.1
+
+9008,2006,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,New Hampshire,151,11.2
+

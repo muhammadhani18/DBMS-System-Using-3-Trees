@@ -1,0 +1,20 @@
+21,2016,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Maryland,2271,35.7
+
+1061,2015,Alzheimer's disease (G30),Alzheimer's disease,California,15065,35.7
+
+3286,2004,Chronic lower respiratory diseases (J40-J47),CLRD,Minnesota,1839,35.7
+
+8129,2003,Cerebrovascular diseases (I60-I69),Stroke,New York,7281,35.7
+
+9521,2008,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Connecticut,1386,35.7
+
+9563,2000,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,District of Columbia,204,35.7
+
+9581,1999,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Florida,5961,35.7
+
+9676,2006,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Iowa,1188,35.7
+
+9793,2008,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Michigan,3685,35.7
+
+10175,2001,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,United States,101537,35.7
+

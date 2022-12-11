@@ -1,0 +1,20 @@
+4080,2002,Diabetes mellitus (E10-E14),Diabetes,Iowa,734,20.8
+
+4695,1999,Diabetes mellitus (E10-E14),Diabetes,West Virginia,734,34.8
+
+5726,2012,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arkansas,734,21.9
+
+5731,2007,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arkansas,734,23.5
+
+6537,2011,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Washington,734,10.1
+
+4080,2002,Diabetes mellitus (E10-E14),Diabetes,Iowa,734,20.8
+
+4695,1999,Diabetes mellitus (E10-E14),Diabetes,West Virginia,734,34.8
+
+5726,2012,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arkansas,734,21.9
+
+5731,2007,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arkansas,734,23.5
+
+6537,2011,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Washington,734,10.1
+

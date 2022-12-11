@@ -1,0 +1,1151 @@
+10289,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wyoming,306,58.9
+37,All Causes,All causes,Alaska,3354,787.6
+63,All Causes,All causes,Alabama,46977,979.5
+98,All Causes,All causes,Arizona,46365,767.1
+116,All Causes,All causes,Arkansas,27901,909.5
+134,All Causes,All causes,California,237126,718.2
+152,All Causes,All causes,Colorado,29521,720.9
+170,All Causes,All causes,Connecticut,29260,704.6
+188,All Causes,All causes,Delaware,7204,795.7
+206,All Causes,All causes,District of Columbia,5344,951.7
+224,All Causes,All causes,Florida,170066,745.6
+242,All Causes,All causes,Georgia,67808,890.2
+260,All Causes,All causes,Hawaii,9432,643.4
+278,All Causes,All causes,Idaho,10613,756
+296,All Causes,All causes,Illinois,102171,794.4
+314,All Causes,All causes,Indiana,55622,856.8
+332,All Causes,All causes,Iowa,27362,736.1
+350,All Causes,All causes,Kansas,24553,802.2
+368,All Causes,All causes,Kentucky,40102,932.3
+386,All Causes,All causes,Louisiana,40045,960.5
+404,All Causes,All causes,Maine,12294,775.1
+422,All Causes,All causes,Maryland,43582,795.9
+440,All Causes,All causes,Massachusetts,53450,726.8
+458,All Causes,All causes,Michigan,86042,816
+476,All Causes,All causes,Minnesota,37028,675.6
+494,All Causes,All causes,Mississippi,28564,999.1
+512,All Causes,All causes,Missouri,54681,859
+530,All Causes,All causes,Montana,8472,782.2
+548,All Causes,All causes,Nebraska,14899,743.7
+566,All Causes,All causes,Nevada,18872,864.7
+584,All Causes,All causes,New Hampshire,10060,733.7
+602,All Causes,All causes,New Jersey,70356,744.9
+620,All Causes,All causes,New Mexico,15296,793.1
+638,All Causes,All causes,New York,148806,713.7
+656,All Causes,All causes,North Carolina,74716,849.3
+674,All Causes,All causes,North Dakota,5868,724.4
+692,All Causes,All causes,Ohio,106825,846.6
+710,All Causes,All causes,Oklahoma,35427,942.5
+728,All Causes,All causes,Oregon,31380,773.3
+746,All Causes,All causes,Pennsylvania,125539,808.4
+764,All Causes,All causes,Rhode Island,9690,749.1
+782,All Causes,All causes,South Carolina,38761,886.8
+800,All Causes,All causes,South Dakota,7084,752.5
+818,All Causes,All causes,Tennessee,56838,921.2
+836,All Causes,All causes,Texas,157150,807.7
+854,All Causes,All causes,United States,2426264,791.8
+872,All Causes,All causes,Utah,13764,733.7
+890,All Causes,All causes,Vermont,5048,728
+908,All Causes,All causes,Virginia,57690,795
+926,All Causes,All causes,Washington,46120,731.2
+944,All Causes,All causes,West Virginia,20672,947.5
+962,All Causes,All causes,Wisconsin,46153,745.3
+980,All Causes,All causes,Wyoming,4311,831.1
+998,Alzheimer's disease (G30),Alzheimer's disease,Alabama,1497,32.7
+1016,Alzheimer's disease (G30),Alzheimer's disease,Alaska,73,25.9
+1034,Alzheimer's disease (G30),Alzheimer's disease,Arizona,2066,35.8
+1052,Alzheimer's disease (G30),Alzheimer's disease,Arkansas,783,25.5
+1070,Alzheimer's disease (G30),Alzheimer's disease,California,8146,25.3
+1088,Alzheimer's disease (G30),Alzheimer's disease,Colorado,1058,28.1
+1106,Alzheimer's disease (G30),Alzheimer's disease,Connecticut,728,16
+1124,Alzheimer's disease (G30),Alzheimer's disease,Delaware,189,21.6
+1142,Alzheimer's disease (G30),Alzheimer's disease,District of Columbia,117,20.7
+1160,Alzheimer's disease (G30),Alzheimer's disease,Florida,4689,19.3
+1178,Alzheimer's disease (G30),Alzheimer's disease,Georgia,1820,27.5
+1196,Alzheimer's disease (G30),Alzheimer's disease,Hawaii,201,13.2
+1214,Alzheimer's disease (G30),Alzheimer's disease,Idaho,400,29
+1232,Alzheimer's disease (G30),Alzheimer's disease,Illinois,2794,21.3
+1250,Alzheimer's disease (G30),Alzheimer's disease,Indiana,1696,26.1
+1268,Alzheimer's disease (G30),Alzheimer's disease,Iowa,1121,27
+1286,Alzheimer's disease (G30),Alzheimer's disease,Kansas,830,25.1
+1304,Alzheimer's disease (G30),Alzheimer's disease,Kentucky,1153,28.1
+1322,Alzheimer's disease (G30),Alzheimer's disease,Louisiana,1282,32.9
+1340,Alzheimer's disease (G30),Alzheimer's disease,Maine,477,29.2
+1358,Alzheimer's disease (G30),Alzheimer's disease,Maryland,915,17.3
+1376,Alzheimer's disease (G30),Alzheimer's disease,Massachusetts,1560,19.8
+1394,Alzheimer's disease (G30),Alzheimer's disease,Michigan,2331,22
+1412,Alzheimer's disease (G30),Alzheimer's disease,Minnesota,1299,22.6
+1430,Alzheimer's disease (G30),Alzheimer's disease,Mississippi,744,27.4
+1448,Alzheimer's disease (G30),Alzheimer's disease,Missouri,1632,25.1
+1466,Alzheimer's disease (G30),Alzheimer's disease,Montana,226,20.1
+1484,Alzheimer's disease (G30),Alzheimer's disease,Nebraska,500,23.3
+1502,Alzheimer's disease (G30),Alzheimer's disease,Nevada,281,15.9
+1520,Alzheimer's disease (G30),Alzheimer's disease,New Hampshire,372,27.1
+1538,Alzheimer's disease (G30),Alzheimer's disease,New Jersey,1649,16.9
+1556,Alzheimer's disease (G30),Alzheimer's disease,New Mexico,348,19.3
+1574,Alzheimer's disease (G30),Alzheimer's disease,New York,2021,9.4
+1592,Alzheimer's disease (G30),Alzheimer's disease,North Carolina,2265,27.3
+1610,Alzheimer's disease (G30),Alzheimer's disease,North Dakota,318,34.4
+1628,Alzheimer's disease (G30),Alzheimer's disease,Ohio,3565,27.7
+1646,Alzheimer's disease (G30),Alzheimer's disease,Oklahoma,928,25.2
+1664,Alzheimer's disease (G30),Alzheimer's disease,Oregon,1231,29.4
+1682,Alzheimer's disease (G30),Alzheimer's disease,Pennsylvania,3311,19.6
+1700,Alzheimer's disease (G30),Alzheimer's disease,Rhode Island,297,20.4
+1718,Alzheimer's disease (G30),Alzheimer's disease,South Carolina,1364,34.1
+1736,Alzheimer's disease (G30),Alzheimer's disease,South Dakota,329,31
+1754,Alzheimer's disease (G30),Alzheimer's disease,Tennessee,2115,36.3
+1772,Alzheimer's disease (G30),Alzheimer's disease,Texas,4887,27.9
+1790,Alzheimer's disease (G30),Alzheimer's disease,United States,72432,23.7
+1808,Alzheimer's disease (G30),Alzheimer's disease,Utah,390,22.7
+1826,Alzheimer's disease (G30),Alzheimer's disease,Vermont,186,26.5
+1844,Alzheimer's disease (G30),Alzheimer's disease,Virginia,1574,23.2
+1862,Alzheimer's disease (G30),Alzheimer's disease,Washington,2470,39.3
+1880,Alzheimer's disease (G30),Alzheimer's disease,West Virginia,496,22.8
+1898,Alzheimer's disease (G30),Alzheimer's disease,Wisconsin,1596,24.4
+1916,Alzheimer's disease (G30),Alzheimer's disease,Wyoming,112,22.7
+1934,Malignant neoplasms (C00-C97),Cancer,Alabama,9899,199.4
+1952,Malignant neoplasms (C00-C97),Cancer,Alaska,790,177.8
+1970,Malignant neoplasms (C00-C97),Cancer,Arizona,9919,160
+1988,Malignant neoplasms (C00-C97),Cancer,Arkansas,6177,196.7
+2006,Malignant neoplasms (C00-C97),Cancer,California,54140,164.5
+2024,Malignant neoplasms (C00-C97),Cancer,Colorado,6550,157.5
+2042,Malignant neoplasms (C00-C97),Cancer,Connecticut,7044,175.5
+2060,Malignant neoplasms (C00-C97),Cancer,Delaware,1780,190.7
+2078,Malignant neoplasms (C00-C97),Cancer,District of Columbia,1178,210.5
+2096,Malignant neoplasms (C00-C97),Cancer,Florida,40415,174.6
+2114,Malignant neoplasms (C00-C97),Cancer,Georgia,14474,184
+2132,Malignant neoplasms (C00-C97),Cancer,Hawaii,2171,147.8
+2150,Malignant neoplasms (C00-C97),Cancer,Idaho,2306,163.2
+2168,Malignant neoplasms (C00-C97),Cancer,Illinois,24084,188.7
+2186,Malignant neoplasms (C00-C97),Cancer,Indiana,12903,197.5
+2204,Malignant neoplasms (C00-C97),Cancer,Iowa,6359,179
+2222,Malignant neoplasms (C00-C97),Cancer,Kansas,5343,180.1
+2240,Malignant neoplasms (C00-C97),Cancer,Kentucky,9394,212
+2258,Malignant neoplasms (C00-C97),Cancer,Louisiana,8853,206.1
+2276,Malignant neoplasms (C00-C97),Cancer,Maine,3089,192.7
+2294,Malignant neoplasms (C00-C97),Cancer,Maryland,10350,187
+2312,Malignant neoplasms (C00-C97),Cancer,Massachusetts,13407,187.5
+2330,Malignant neoplasms (C00-C97),Cancer,Michigan,20192,190.5
+2348,Malignant neoplasms (C00-C97),Cancer,Minnesota,9079,170.7
+2366,Malignant neoplasms (C00-C97),Cancer,Mississippi,6236,212.7
+2384,Malignant neoplasms (C00-C97),Cancer,Missouri,12519,195.8
+2402,Malignant neoplasms (C00-C97),Cancer,Montana,1943,177.9
+2420,Malignant neoplasms (C00-C97),Cancer,Nebraska,3430,176.6
+2438,Malignant neoplasms (C00-C97),Cancer,Nevada,4226,184.5
+2456,Malignant neoplasms (C00-C97),Cancer,New Hampshire,2534,183.9
+2474,Malignant neoplasms (C00-C97),Cancer,New Jersey,17180,183
+2492,Malignant neoplasms (C00-C97),Cancer,New Mexico,3147,158.5
+2510,Malignant neoplasms (C00-C97),Cancer,New York,35284,170.9
+2528,Malignant neoplasms (C00-C97),Cancer,North Carolina,17318,191.4
+2546,Malignant neoplasms (C00-C97),Cancer,North Dakota,1387,180.2
+2564,Malignant neoplasms (C00-C97),Cancer,Ohio,24975,197.3
+2582,Malignant neoplasms (C00-C97),Cancer,Oklahoma,7491,195.2
+2600,Malignant neoplasms (C00-C97),Cancer,Oregon,7309,180.9
+2618,Malignant neoplasms (C00-C97),Cancer,Pennsylvania,29172,190.5
+2636,Malignant neoplasms (C00-C97),Cancer,Rhode Island,2250,181.4
+2654,Malignant neoplasms (C00-C97),Cancer,South Carolina,8853,194.7
+2672,Malignant neoplasms (C00-C97),Cancer,South Dakota,1570,173.1
+2690,Malignant neoplasms (C00-C97),Cancer,Tennessee,13051,204.6
+2708,Malignant neoplasms (C00-C97),Cancer,Texas,34939,176.1
+2726,Malignant neoplasms (C00-C97),Cancer,United States,559888,181.8
+2744,Malignant neoplasms (C00-C97),Cancer,Utah,2615,139.9
+2762,Malignant neoplasms (C00-C97),Cancer,Vermont,1214,172.6
+2780,Malignant neoplasms (C00-C97),Cancer,Virginia,13829,185.3
+2798,Malignant neoplasms (C00-C97),Cancer,Washington,11055,175.3
+2816,Malignant neoplasms (C00-C97),Cancer,West Virginia,4613,203.6
+2834,Malignant neoplasms (C00-C97),Cancer,Wisconsin,10925,179.9
+2852,Malignant neoplasms (C00-C97),Cancer,Wyoming,927,174.6
+2870,Chronic lower respiratory diseases (J40-J47),CLRD,Alabama,2309,47.6
+2888,Chronic lower respiratory diseases (J40-J47),CLRD,Alaska,140,37.8
+2906,Chronic lower respiratory diseases (J40-J47),CLRD,Arizona,2799,46
+2924,Chronic lower respiratory diseases (J40-J47),CLRD,Arkansas,1498,48.1
+2942,Chronic lower respiratory diseases (J40-J47),CLRD,California,12829,40.1
+2960,Chronic lower respiratory diseases (J40-J47),CLRD,Colorado,1932,49.3
+2978,Chronic lower respiratory diseases (J40-J47),CLRD,Connecticut,1458,35
+2996,Chronic lower respiratory diseases (J40-J47),CLRD,Delaware,344,37.9
+3014,Chronic lower respiratory diseases (J40-J47),CLRD,District of Columbia,126,23.1
+3032,Chronic lower respiratory diseases (J40-J47),CLRD,Florida,8912,37.5
+3050,Chronic lower respiratory diseases (J40-J47),CLRD,Georgia,3387,46.3
+3068,Chronic lower respiratory diseases (J40-J47),CLRD,Hawaii,293,20
+3086,Chronic lower respiratory diseases (J40-J47),CLRD,Idaho,644,46.9
+3104,Chronic lower respiratory diseases (J40-J47),CLRD,Illinois,4731,37.3
+3122,Chronic lower respiratory diseases (J40-J47),CLRD,Indiana,3291,51
+3140,Chronic lower respiratory diseases (J40-J47),CLRD,Iowa,1655,45.2
+3158,Chronic lower respiratory diseases (J40-J47),CLRD,Kansas,1501,49.9
+3176,Chronic lower respiratory diseases (J40-J47),CLRD,Kentucky,2407,55.6
+3194,Chronic lower respiratory diseases (J40-J47),CLRD,Louisiana,1687,40.8
+3212,Chronic lower respiratory diseases (J40-J47),CLRD,Maine,783,49.1
+3230,Chronic lower respiratory diseases (J40-J47),CLRD,Maryland,1832,34.4
+3248,Chronic lower respiratory diseases (J40-J47),CLRD,Massachusetts,2535,34.8
+3266,Chronic lower respiratory diseases (J40-J47),CLRD,Michigan,4474,42.8
+3284,Chronic lower respiratory diseases (J40-J47),CLRD,Minnesota,1770,33.2
+3302,Chronic lower respiratory diseases (J40-J47),CLRD,Mississippi,1378,48.4
+3320,Chronic lower respiratory diseases (J40-J47),CLRD,Missouri,3017,47.4
+3338,Chronic lower respiratory diseases (J40-J47),CLRD,Montana,579,53.3
+3356,Chronic lower respiratory diseases (J40-J47),CLRD,Nebraska,878,44.4
+3374,Chronic lower respiratory diseases (J40-J47),CLRD,Nevada,1066,50.3
+3392,Chronic lower respiratory diseases (J40-J47),CLRD,New Hampshire,603,44.9
+3410,Chronic lower respiratory diseases (J40-J47),CLRD,New Jersey,2862,30.5
+3428,Chronic lower respiratory diseases (J40-J47),CLRD,New Mexico,888,46.5
+3446,Chronic lower respiratory diseases (J40-J47),CLRD,New York,6329,30.5
+3464,Chronic lower respiratory diseases (J40-J47),CLRD,North Carolina,4017,45.8
+3482,Chronic lower respiratory diseases (J40-J47),CLRD,North Dakota,283,34.4
+3500,Chronic lower respiratory diseases (J40-J47),CLRD,Ohio,6054,47.9
+3518,Chronic lower respiratory diseases (J40-J47),CLRD,Oklahoma,2192,57.6
+3536,Chronic lower respiratory diseases (J40-J47),CLRD,Oregon,1828,45.6
+3554,Chronic lower respiratory diseases (J40-J47),CLRD,Pennsylvania,5621,35.6
+3572,Chronic lower respiratory diseases (J40-J47),CLRD,Rhode Island,485,38.1
+3590,Chronic lower respiratory diseases (J40-J47),CLRD,South Carolina,1935,44
+3608,Chronic lower respiratory diseases (J40-J47),CLRD,South Dakota,376,40.1
+3626,Chronic lower respiratory diseases (J40-J47),CLRD,Tennessee,2980,48.1
+3644,Chronic lower respiratory diseases (J40-J47),CLRD,Texas,7639,40.8
+3662,Chronic lower respiratory diseases (J40-J47),CLRD,United States,124583,41
+3680,Chronic lower respiratory diseases (J40-J47),CLRD,Utah,591,32.9
+3698,Chronic lower respiratory diseases (J40-J47),CLRD,Vermont,320,46.5
+3716,Chronic lower respiratory diseases (J40-J47),CLRD,Virginia,2697,38
+3734,Chronic lower respiratory diseases (J40-J47),CLRD,Washington,2662,43.5
+3752,Chronic lower respiratory diseases (J40-J47),CLRD,West Virginia,1267,56.3
+3770,Chronic lower respiratory diseases (J40-J47),CLRD,Wisconsin,2354,38.5
+3788,Chronic lower respiratory diseases (J40-J47),CLRD,Wyoming,345,67.4
+3806,Diabetes mellitus (E10-E14),Diabetes,Alabama,1453,29.8
+3824,Diabetes mellitus (E10-E14),Diabetes,Alaska,109,25.9
+3842,Diabetes mellitus (E10-E14),Diabetes,Arizona,1206,19.6
+3860,Diabetes mellitus (E10-E14),Diabetes,Arkansas,839,27.2
+3878,Diabetes mellitus (E10-E14),Diabetes,California,7376,22.5
+3896,Diabetes mellitus (E10-E14),Diabetes,Colorado,677,16.7
+3914,Diabetes mellitus (E10-E14),Diabetes,Connecticut,782,19
+3932,Diabetes mellitus (E10-E14),Diabetes,Delaware,191,20.6
+3950,Diabetes mellitus (E10-E14),Diabetes,District of Columbia,184,33
+3968,Diabetes mellitus (E10-E14),Diabetes,Florida,5172,22.3
+3986,Diabetes mellitus (E10-E14),Diabetes,Georgia,1657,21.2
+4004,Diabetes mellitus (E10-E14),Diabetes,Hawaii,271,18.4
+4022,Diabetes mellitus (E10-E14),Diabetes,Idaho,320,23.1
+4040,Diabetes mellitus (E10-E14),Diabetes,Illinois,2795,21.9
+,
+4058,Diabetes mellitus (E10-E14),Diabetes,Indiana,1682,25.9
+4076,Diabetes mellitus (E10-E14),Diabetes,Iowa,804,22
+4094,Diabetes mellitus (E10-E14),Diabetes,Kansas,749,24.8
+4112,Diabetes mellitus (E10-E14),Diabetes,Kentucky,1141,26.2
+4130,Diabetes mellitus (E10-E14),Diabetes,Louisiana,1536,36.3
+4148,Diabetes mellitus (E10-E14),Diabetes,Maine,343,21.4
+4166,Diabetes mellitus (E10-E14),Diabetes,Maryland,1237,22.5
+4184,Diabetes mellitus (E10-E14),Diabetes,Massachusetts,1132,15.5
+4202,Diabetes mellitus (E10-E14),Diabetes,Michigan,2830,26.8
+4220,Diabetes mellitus (E10-E14),Diabetes,Minnesota,1158,21.4
+4238,Diabetes mellitus (E10-E14),Diabetes,Mississippi,707,24.5
+4256,Diabetes mellitus (E10-E14),Diabetes,Missouri,1493,23.5
+4274,Diabetes mellitus (E10-E14),Diabetes,Montana,249,22.8
+4292,Diabetes mellitus (E10-E14),Diabetes,Nebraska,437,22.2
+4310,Diabetes mellitus (E10-E14),Diabetes,Nevada,294,13
+4328,Diabetes mellitus (E10-E14),Diabetes,New Hampshire,296,21.4
+4346,Diabetes mellitus (E10-E14),Diabetes,New Jersey,2454,26.1
+4364,Diabetes mellitus (E10-E14),Diabetes,New Mexico,606,30.6
+4382,Diabetes mellitus (E10-E14),Diabetes,New York,3848,18.6
+4400,Diabetes mellitus (E10-E14),Diabetes,North Carolina,2234,24.9
+4418,Diabetes mellitus (E10-E14),Diabetes,North Dakota,208,26.1
+4436,Diabetes mellitus (E10-E14),Diabetes,Ohio,3761,29.6
+4454,Diabetes mellitus (E10-E14),Diabetes,Oklahoma,1166,30.6
+4472,Diabetes mellitus (E10-E14),Diabetes,Oregon,1139,28.2
+4490,Diabetes mellitus (E10-E14),Diabetes,Pennsylvania,3466,22.3
+4508,Diabetes mellitus (E10-E14),Diabetes,Rhode Island,206,16.2
+4526,Diabetes mellitus (E10-E14),Diabetes,South Carolina,1136,25.5
+4544,Diabetes mellitus (E10-E14),Diabetes,South Dakota,262,27.6
+4562,Diabetes mellitus (E10-E14),Diabetes,Tennessee,1715,27.4
+4580,Diabetes mellitus (E10-E14),Diabetes,Texas,5201,26.5
+4598,Diabetes mellitus (E10-E14),Diabetes,United States,72449,23.6
+4616,Diabetes mellitus (E10-E14),Diabetes,Utah,496,27
+4634,Diabetes mellitus (E10-E14),Diabetes,Vermont,175,25
+4652,Diabetes mellitus (E10-E14),Diabetes,Virginia,1632,22.1
+4670,Diabetes mellitus (E10-E14),Diabetes,Washington,1543,24.7
+4688,Diabetes mellitus (E10-E14),Diabetes,West Virginia,743,33
+4706,Diabetes mellitus (E10-E14),Diabetes,Wisconsin,1212,19.7
+4724,Diabetes mellitus (E10-E14),Diabetes,Wyoming,126,23.9
+4742,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Alabama,12583,263
+4760,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Alaska,645,170.6
+4778,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Arizona,10607,176.5
+4796,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Arkansas,7431,240.5
+4814,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,California,64871,198.8
+4832,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Colorado,6124,152.7
+4850,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Connecticut,7490,174.7
+4868,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Delaware,1866,206
+4886,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,District of Columbia,1566,280.9
+4904,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Florida,44305,187.9
+4922,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Georgia,16478,222.2
+4940,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Hawaii,2244,151.4
+4958,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Idaho,2399,171.3
+4976,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Illinois,27007,208.5
+4994,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Indiana,14375,220.8
+5012,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Iowa,7172,187.1
+5030,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Kansas,5849,186.3
+5048,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Kentucky,10353,241.4
+5066,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Louisiana,10026,241.4
+5084,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Maine,2815,174.3
+5102,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Maryland,11268,206.6
+5121,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Massachusetts,12947,171.7
+5139,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Michigan,24255,228.1
+5157,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Minnesota,7525,134.9
+5175,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Mississippi,8097,285.4
+5193,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Missouri,14749,228.8
+5211,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Montana,1869,169.4
+5229,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Nebraska,3445,168
+5247,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Nevada,5013,233.7
+5265,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,New Hampshire,2501,181.1
+5283,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,New Jersey,19548,203.9
+5301,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,New Mexico,3411,179.5
+5319,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,New York,50470,238.2
+5337,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,North Carolina,17271,197.6
+5355,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,North Dakota,1527,182
+5373,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Ohio,27886,218.5
+5391,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Oklahoma,9798,260.1
+5409,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Oregon,6620,160.9
+5427,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Pennsylvania,33744,210.4
+5445,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Rhode Island,2718,201.5
+5463,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,South Carolina,9030,206.8
+5481,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,South Dakota,1757,180.6
+5499,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Tennessee,14642,238
+5518,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Texas,38782,205.2
+5536,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,United States,631636,205.5
+5552,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Utah,2932,163.7
+5570,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Vermont,1244,177.2
+5588,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Virginia,14021,195.2
+5606,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Washington,10604,168.4
+5624,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,West Virginia,5311,240.5
+5642,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Wisconsin,11451,181.1
+5660,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Wyoming,994,192.9
+5678,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Alabama,918,19.5
+5696,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Alaska,49,14
+5714,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arizona,1166,19.6
+5732,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arkansas,772,25.1
+5750,Influenza and pneumonia (J09-J18),Influenza and pneumonia,California,7338,22.7
+5768,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Colorado,614,15.6
+5786,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Connecticut,800,18.2
+5804,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Delaware,138,15.6
+5822,Influenza and pneumonia (J09-J18),Influenza and pneumonia,District of Columbia,76,13.7
+5840,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Florida,2454,10.5
+5858,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Georgia,1463,20.8
+5876,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Hawaii,257,17.2
+5894,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Idaho,225,16.2
+5912,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Illinois,2668,20.6
+5930,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Indiana,1129,17.4
+5948,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Iowa,770,19.3
+5966,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Kansas,647,20
+5984,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Kentucky,927,22.1
+6002,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Louisiana,833,20.6
+6020,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Maine,269,16.8
+6038,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Maryland,1082,20.1
+6056,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Massachusetts,1750,22.8
+6074,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Michigan,1679,15.9
+6092,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Minnesota,630,11
+6110,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Mississippi,621,22.3
+,
+6128,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Missouri,1285,19.9
+6146,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Montana,169,15.2
+6164,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Nebraska,345,16.3
+6182,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Nevada,426,20.6
+6200,Influenza and pneumonia (J09-J18),Influenza and pneumonia,New Hampshire,212,15.4
+6218,Influenza and pneumonia (J09-J18),Influenza and pneumonia,New Jersey,1315,13.7
+6236,Influenza and pneumonia (J09-J18),Influenza and pneumonia,New Mexico,353,18.9
+6254,Influenza and pneumonia (J09-J18),Influenza and pneumonia,New York,4892,23
+6272,Influenza and pneumonia (J09-J18),Influenza and pneumonia,North Carolina,1705,20.1
+6290,Influenza and pneumonia (J09-J18),Influenza and pneumonia,North Dakota,138,15.3
+6308,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Ohio,1947,15.3
+6326,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Oklahoma,879,23.6
+6344,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Oregon,522,12.6
+6362,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Pennsylvania,2716,16.5
+6380,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Rhode Island,268,19.6
+6398,Influenza and pneumonia (J09-J18),Influenza and pneumonia,South Carolina,724,17.3
+6416,Influenza and pneumonia (J09-J18),Influenza and pneumonia,South Dakota,173,17
+6434,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Tennessee,1535,25.7
+6452,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Texas,3342,18.2
+6470,Influenza and pneumonia (J09-J18),Influenza and pneumonia,United States,56326,18.4
+6488,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Utah,343,19.2
+6506,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Vermont,77,10.9
+6524,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Virginia,1281,18.4
+6542,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Washington,814,12.9
+6560,Influenza and pneumonia (J09-J18),Influenza and pneumonia,West Virginia,459,21.1
+6578,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wisconsin,1014,15.8
+6596,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wyoming,117,23.5
+6614,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Alabama,1104,23
+6632,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Alaska,44,12.9
+6650,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arizona,565,9.3
+6668,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arkansas,616,20
+6686,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,California,2676,8.2
+6704,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Colorado,472,12.1
+6722,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Connecticut,567,13.5
+6740,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Delaware,152,16.9
+6759,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,District of Columbia,68,12.2
+6777,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Florida,2620,11.2
+6794,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Georgia,1668,22.5
+6812,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Hawaii,179,12.2
+6830,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Idaho,130,9.4
+6848,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Illinois,2502,19.5
+6866,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Indiana,1372,21.1
+6884,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Iowa,225,5.8
+6902,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Kansas,594,19
+6920,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Kentucky,922,21.6
+6938,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Louisiana,1074,26.1
+6956,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Maine,252,15.7
+6974,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Maryland,767,14.2
+6992,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Massachusetts,1406,18.7
+7010,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Michigan,1673,15.9
+7028,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Minnesota,711,12.9
+7046,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Mississippi,673,23.7
+7064,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Missouri,1118,17.4
+7082,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Montana,132,12
+7100,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Nebraska,249,12.3
+,
+7118,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Nevada,475,22.7
+7136,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,New Hampshire,160,11.8
+7154,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,New Jersey,1645,17.3
+7172,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,New Mexico,262,13.4
+7190,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,New York,2351,11.2
+7208,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,North Carolina,1661,19.1
+7226,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,North Dakota,59,6.6
+7244,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Ohio,1758,13.9
+7262,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Oklahoma,594,15.9
+7280,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Oregon,353,8.8
+7298,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Pennsylvania,3084,19.3
+7317,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Rhode Island,167,12.9
+7335,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,South Carolina,846,19.5
+7353,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,South Dakota,62,6.4
+7371,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Tennessee,768,12.6
+7389,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Texas,2995,15.8
+7407,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,United States,45344,14.8
+7425,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Utah,210,11.6
+7443,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Vermont,52,7.4
+7461,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Virginia,1400,19.6
+7479,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Washington,423,6.7
+7497,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,West Virginia,468,21
+7515,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wisconsin,962,15.4
+7533,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wyoming,58,11.6
+7551,Cerebrovascular diseases (I60-I69),Stroke,Alabama,2740,57.8
+7568,Cerebrovascular diseases (I60-I69),Stroke,Alaska,177,48.2
+7586,Cerebrovascular diseases (I60-I69),Stroke,Arizona,2226,37.5
+7604,Cerebrovascular diseases (I60-I69),Stroke,Arkansas,1884,61.2
+7622,Cerebrovascular diseases (I60-I69),Stroke,California,15039,46.4
+7640,Cerebrovascular diseases (I60-I69),Stroke,Colorado,1532,39.1
+7658,Cerebrovascular diseases (I60-I69),Stroke,Connecticut,1547,35.8
+7676,Cerebrovascular diseases (I60-I69),Stroke,Delaware,384,42.9
+7694,Cerebrovascular diseases (I60-I69),Stroke,District of Columbia,221,40
+7712,Cerebrovascular diseases (I60-I69),Stroke,Florida,8925,37.8
+7730,Cerebrovascular diseases (I60-I69),Stroke,Georgia,3889,53.5
+7748,Cerebrovascular diseases (I60-I69),Stroke,Hawaii,665,44.7
+7766,Cerebrovascular diseases (I60-I69),Stroke,Idaho,725,52.7
+7784,Cerebrovascular diseases (I60-I69),Stroke,Illinois,5989,46.3
+7802,Cerebrovascular diseases (I60-I69),Stroke,Indiana,3238,49.9
+7820,Cerebrovascular diseases (I60-I69),Stroke,Iowa,1718,43.6
+7838,Cerebrovascular diseases (I60-I69),Stroke,Kansas,1489,47.3
+7856,Cerebrovascular diseases (I60-I69),Stroke,Kentucky,2197,51.9
+7874,Cerebrovascular diseases (I60-I69),Stroke,Louisiana,2195,53.9
+7892,Cerebrovascular diseases (I60-I69),Stroke,Maine,670,41.5
+7910,Cerebrovascular diseases (I60-I69),Stroke,Maryland,2365,43.8
+7928,Cerebrovascular diseases (I60-I69),Stroke,Massachusetts,2880,38.1
+7946,Cerebrovascular diseases (I60-I69),Stroke,Michigan,4752,44.9
+7964,Cerebrovascular diseases (I60-I69),Stroke,Minnesota,2219,39.7
+7982,Cerebrovascular diseases (I60-I69),Stroke,Mississippi,1585,56.1
+8000,Cerebrovascular diseases (I60-I69),Stroke,Missouri,3247,50.5
+8018,Cerebrovascular diseases (I60-I69),Stroke,Montana,461,41.7
+8036,Cerebrovascular diseases (I60-I69),Stroke,Nebraska,922,44.7
+8054,Cerebrovascular diseases (I60-I69),Stroke,Nevada,847,41.3
+8072,Cerebrovascular diseases (I60-I69),Stroke,New Hampshire,494,36.1
+8090,Cerebrovascular diseases (I60-I69),Stroke,New Jersey,3468,36.3
+8108,Cerebrovascular diseases (I60-I69),Stroke,New Mexico,739,39.3
+8126,Cerebrovascular diseases (I60-I69),Stroke,New York,6398,30.4
+8144,Cerebrovascular diseases (I60-I69),Stroke,North Carolina,4572,53.2
+8162,Cerebrovascular diseases (I60-I69),Stroke,North Dakota,428,49.6
+8180,Cerebrovascular diseases (I60-I69),Stroke,Ohio,5828,45.7
+8198,Cerebrovascular diseases (I60-I69),Stroke,Oklahoma,2085,55.7
+8216,Cerebrovascular diseases (I60-I69),Stroke,Oregon,1978,48.2
+8234,Cerebrovascular diseases (I60-I69),Stroke,Pennsylvania,7151,44.2
+8252,Cerebrovascular diseases (I60-I69),Stroke,Rhode Island,421,31.2
+8270,Cerebrovascular diseases (I60-I69),Stroke,South Carolina,2291,53.8
+8288,Cerebrovascular diseases (I60-I69),Stroke,South Dakota,442,44
+8306,Cerebrovascular diseases (I60-I69),Stroke,Tennessee,3407,56.4
+8324,Cerebrovascular diseases (I60-I69),Stroke,Texas,9366,50.4
+8342,Cerebrovascular diseases (I60-I69),Stroke,United States,137119,44.8
+8360,Cerebrovascular diseases (I60-I69),Stroke,Utah,674,38.2
+8378,Cerebrovascular diseases (I60-I69),Stroke,Vermont,264,38.1
+8396,Cerebrovascular diseases (I60-I69),Stroke,Virginia,3523,50.1
+8414,Cerebrovascular diseases (I60-I69),Stroke,Washington,2725,43.6
+8432,Cerebrovascular diseases (I60-I69),Stroke,West Virginia,1072,48.5
+8450,Cerebrovascular diseases (I60-I69),Stroke,Wisconsin,2829,44.6
+8468,Cerebrovascular diseases (I60-I69),Stroke,Wyoming,236,46.5
+8486,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Alabama,580,12.4
+8504,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Alaska,135,19.9
+8522,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arizona,979,16.3
+8540,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arkansas,376,13.3
+8558,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,California,3334,9.3
+8576,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Colorado,730,15.3
+8594,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Connecticut,292,8
+8612,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Delaware,91,10.3
+8630,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,District of Columbia,30,5.2
+8648,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Florida,2440,12.6
+8666,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Georgia,923,10.3
+8684,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Hawaii,120,9
+8702,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Idaho,222,15.8
+8720,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Illinois,1010,7.9
+8738,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Indiana,824,13
+8756,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Iowa,334,11.2
+8774,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Kansas,379,13.9
+8792,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Kentucky,622,14.6
+8810,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Louisiana,492,11.5
+8828,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Maine,158,11
+8846,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Maryland,495,8.6
+8864,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Massachusetts,450,6.7
+8882,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Michigan,1139,11.2
+8900,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Minnesota,554,10.6
+8918,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Mississippi,325,11.4
+8936,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Missouri,799,13.5
+8954,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Montana,189,19.7
+8972,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Nebraska,202,11.2
+8990,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Nevada,486,19.3
+9008,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,New Hampshire,151,11.2
+9026,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,New Jersey,585,6.5
+9044,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,New Mexico,352,17.9
+9062,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,New York,1326,6.7
+9080,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,North Carolina,1106,12.2
+9098,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,North Dakota,90,13.3
+9116,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Ohio,1325,11.3
+9134,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Oklahoma,537,15
+9152,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Oregon,579,15.3
+9170,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Pennsylvania,1396,10.8
+9188,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Rhode Island,90,8.2
+9206,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,South Carolina,524,11.8
+9224,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,South Dakota,125,16
+9242,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Tennessee,874,14.1
+9260,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Texas,2347,10.3
+9278,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,United States,33300,11
+9296,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Utah,362,16
+9314,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Vermont,81,12.2
+9332,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Virginia,876,11.1
+9350,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Washington,809,12.3
+9368,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,West Virginia,269,14
+9386,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wisconsin,670,12
+9404,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wyoming,116,21.7
+9421,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Alabama,2506,54
+9438,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Alaska,316,52.3
+9455,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arizona,3352,56
+9472,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arkansas,1415,49.4
+9489,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,California,11375,32.1
+9506,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Colorado,1917,42.5
+9523,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Connecticut,1302,34.6
+9540,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Delaware,329,38
+9557,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,District of Columbia,224,39.4
+9574,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Florida,8917,46.5
+9591,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Georgia,3879,45.1
+9608,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Hawaii,441,31.7
+9625,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Idaho,682,47.5
+9642,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Illinois,4451,34.9
+9659,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Indiana,2480,38.9
+9676,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Iowa,1188,35.7
+9693,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Kansas,1198,41.7
+9710,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Kentucky,2446,57.9
+9727,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Louisiana,2422,56.8
+9744,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Maine,572,40.8
+9761,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Maryland,1456,26.1
+9778,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Massachusetts,2214,32.3
+9795,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Michigan,3590,35.2
+9812,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Minnesota,1919,35.4
+9829,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Mississippi,1856,64.7
+9846,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Missouri,3009,50.1
+9863,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Montana,558,55.7
+9880,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Nebraska,683,36.1
+9897,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Nevada,1091,44.3
+9914,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,New Hampshire,460,34.1
+9931,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,New Jersey,2590,29
+9948,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,New Mexico,1297,67.6
+9965,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,New York,5235,26.2
+9982,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,North Carolina,4156,46.9
+9999,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,North Dakota,275,38.9
+10016,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Ohio,4821,40.5
+10033,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Oklahoma,2039,56.6
+10050,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Oregon,1586,40.8
+10067,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Pennsylvania,5299,39.5
+10084,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Rhode Island,434,36.5
+10101,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,South Carolina,2315,53.3
+10118,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,South Dakota,452,53.4
+10135,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Tennessee,3307,54.3
+10152,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Texas,9140,41.6
+10170,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,United States,121599,40.2
+10187,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Utah,715,31.6
+10204,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Vermont,301,45.8
+10221,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Virginia,2703,35.8
+10238,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Washington,2679,41.5
+10255,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,West Virginia,1177,62.4
+10272,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wisconsin,2524,42.7
+10289,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wyoming,306,58.9
+37,All Causes,All causes,Alaska,3354,787.6
+63,All Causes,All causes,Alabama,46977,979.5
+98,All Causes,All causes,Arizona,46365,767.1
+116,All Causes,All causes,Arkansas,27901,909.5
+134,All Causes,All causes,California,237126,718.2
+152,All Causes,All causes,Colorado,29521,720.9
+170,All Causes,All causes,Connecticut,29260,704.6
+188,All Causes,All causes,Delaware,7204,795.7
+206,All Causes,All causes,District of Columbia,5344,951.7
+224,All Causes,All causes,Florida,170066,745.6
+242,All Causes,All causes,Georgia,67808,890.2
+260,All Causes,All causes,Hawaii,9432,643.4
+278,All Causes,All causes,Idaho,10613,756
+296,All Causes,All causes,Illinois,102171,794.4
+314,All Causes,All causes,Indiana,55622,856.8
+332,All Causes,All causes,Iowa,27362,736.1
+350,All Causes,All causes,Kansas,24553,802.2
+368,All Causes,All causes,Kentucky,40102,932.3
+386,All Causes,All causes,Louisiana,40045,960.5
+404,All Causes,All causes,Maine,12294,775.1
+422,All Causes,All causes,Maryland,43582,795.9
+440,All Causes,All causes,Massachusetts,53450,726.8
+458,All Causes,All causes,Michigan,86042,816
+476,All Causes,All causes,Minnesota,37028,675.6
+494,All Causes,All causes,Mississippi,28564,999.1
+512,All Causes,All causes,Missouri,54681,859
+530,All Causes,All causes,Montana,8472,782.2
+548,All Causes,All causes,Nebraska,14899,743.7
+566,All Causes,All causes,Nevada,18872,864.7
+584,All Causes,All causes,New Hampshire,10060,733.7
+602,All Causes,All causes,New Jersey,70356,744.9
+620,All Causes,All causes,New Mexico,15296,793.1
+638,All Causes,All causes,New York,148806,713.7
+656,All Causes,All causes,North Carolina,74716,849.3
+674,All Causes,All causes,North Dakota,5868,724.4
+692,All Causes,All causes,Ohio,106825,846.6
+710,All Causes,All causes,Oklahoma,35427,942.5
+728,All Causes,All causes,Oregon,31380,773.3
+746,All Causes,All causes,Pennsylvania,125539,808.4
+764,All Causes,All causes,Rhode Island,9690,749.1
+782,All Causes,All causes,South Carolina,38761,886.8
+800,All Causes,All causes,South Dakota,7084,752.5
+818,All Causes,All causes,Tennessee,56838,921.2
+836,All Causes,All causes,Texas,157150,807.7
+854,All Causes,All causes,United States,2426264,791.8
+872,All Causes,All causes,Utah,13764,733.7
+890,All Causes,All causes,Vermont,5048,728
+908,All Causes,All causes,Virginia,57690,795
+926,All Causes,All causes,Washington,46120,731.2
+944,All Causes,All causes,West Virginia,20672,947.5
+962,All Causes,All causes,Wisconsin,46153,745.3
+980,All Causes,All causes,Wyoming,4311,831.1
+998,Alzheimer's disease (G30),Alzheimer's disease,Alabama,1497,32.7
+1016,Alzheimer's disease (G30),Alzheimer's disease,Alaska,73,25.9
+1034,Alzheimer's disease (G30),Alzheimer's disease,Arizona,2066,35.8
+1052,Alzheimer's disease (G30),Alzheimer's disease,Arkansas,783,25.5
+1070,Alzheimer's disease (G30),Alzheimer's disease,California,8146,25.3
+1088,Alzheimer's disease (G30),Alzheimer's disease,Colorado,1058,28.1
+1106,Alzheimer's disease (G30),Alzheimer's disease,Connecticut,728,16
+1124,Alzheimer's disease (G30),Alzheimer's disease,Delaware,189,21.6
+1142,Alzheimer's disease (G30),Alzheimer's disease,District of Columbia,117,20.7
+1160,Alzheimer's disease (G30),Alzheimer's disease,Florida,4689,19.3
+1178,Alzheimer's disease (G30),Alzheimer's disease,Georgia,1820,27.5
+1196,Alzheimer's disease (G30),Alzheimer's disease,Hawaii,201,13.2
+1214,Alzheimer's disease (G30),Alzheimer's disease,Idaho,400,29
+1232,Alzheimer's disease (G30),Alzheimer's disease,Illinois,2794,21.3
+1250,Alzheimer's disease (G30),Alzheimer's disease,Indiana,1696,26.1
+1268,Alzheimer's disease (G30),Alzheimer's disease,Iowa,1121,27
+1286,Alzheimer's disease (G30),Alzheimer's disease,Kansas,830,25.1
+1304,Alzheimer's disease (G30),Alzheimer's disease,Kentucky,1153,28.1
+1322,Alzheimer's disease (G30),Alzheimer's disease,Louisiana,1282,32.9
+1340,Alzheimer's disease (G30),Alzheimer's disease,Maine,477,29.2
+1358,Alzheimer's disease (G30),Alzheimer's disease,Maryland,915,17.3
+1376,Alzheimer's disease (G30),Alzheimer's disease,Massachusetts,1560,19.8
+1394,Alzheimer's disease (G30),Alzheimer's disease,Michigan,2331,22
+1412,Alzheimer's disease (G30),Alzheimer's disease,Minnesota,1299,22.6
+1430,Alzheimer's disease (G30),Alzheimer's disease,Mississippi,744,27.4
+1448,Alzheimer's disease (G30),Alzheimer's disease,Missouri,1632,25.1
+1466,Alzheimer's disease (G30),Alzheimer's disease,Montana,226,20.1
+1484,Alzheimer's disease (G30),Alzheimer's disease,Nebraska,500,23.3
+1502,Alzheimer's disease (G30),Alzheimer's disease,Nevada,281,15.9
+1520,Alzheimer's disease (G30),Alzheimer's disease,New Hampshire,372,27.1
+1538,Alzheimer's disease (G30),Alzheimer's disease,New Jersey,1649,16.9
+1556,Alzheimer's disease (G30),Alzheimer's disease,New Mexico,348,19.3
+1574,Alzheimer's disease (G30),Alzheimer's disease,New York,2021,9.4
+1592,Alzheimer's disease (G30),Alzheimer's disease,North Carolina,2265,27.3
+1610,Alzheimer's disease (G30),Alzheimer's disease,North Dakota,318,34.4
+1628,Alzheimer's disease (G30),Alzheimer's disease,Ohio,3565,27.7
+1646,Alzheimer's disease (G30),Alzheimer's disease,Oklahoma,928,25.2
+1664,Alzheimer's disease (G30),Alzheimer's disease,Oregon,1231,29.4
+1682,Alzheimer's disease (G30),Alzheimer's disease,Pennsylvania,3311,19.6
+1700,Alzheimer's disease (G30),Alzheimer's disease,Rhode Island,297,20.4
+1718,Alzheimer's disease (G30),Alzheimer's disease,South Carolina,1364,34.1
+1736,Alzheimer's disease (G30),Alzheimer's disease,South Dakota,329,31
+1754,Alzheimer's disease (G30),Alzheimer's disease,Tennessee,2115,36.3
+1772,Alzheimer's disease (G30),Alzheimer's disease,Texas,4887,27.9
+1790,Alzheimer's disease (G30),Alzheimer's disease,United States,72432,23.7
+1808,Alzheimer's disease (G30),Alzheimer's disease,Utah,390,22.7
+1826,Alzheimer's disease (G30),Alzheimer's disease,Vermont,186,26.5
+1844,Alzheimer's disease (G30),Alzheimer's disease,Virginia,1574,23.2
+1862,Alzheimer's disease (G30),Alzheimer's disease,Washington,2470,39.3
+1880,Alzheimer's disease (G30),Alzheimer's disease,West Virginia,496,22.8
+1898,Alzheimer's disease (G30),Alzheimer's disease,Wisconsin,1596,24.4
+1916,Alzheimer's disease (G30),Alzheimer's disease,Wyoming,112,22.7
+1934,Malignant neoplasms (C00-C97),Cancer,Alabama,9899,199.4
+1952,Malignant neoplasms (C00-C97),Cancer,Alaska,790,177.8
+1970,Malignant neoplasms (C00-C97),Cancer,Arizona,9919,160
+1988,Malignant neoplasms (C00-C97),Cancer,Arkansas,6177,196.7
+2006,Malignant neoplasms (C00-C97),Cancer,California,54140,164.5
+2024,Malignant neoplasms (C00-C97),Cancer,Colorado,6550,157.5
+2042,Malignant neoplasms (C00-C97),Cancer,Connecticut,7044,175.5
+2060,Malignant neoplasms (C00-C97),Cancer,Delaware,1780,190.7
+2078,Malignant neoplasms (C00-C97),Cancer,District of Columbia,1178,210.5
+2096,Malignant neoplasms (C00-C97),Cancer,Florida,40415,174.6
+2114,Malignant neoplasms (C00-C97),Cancer,Georgia,14474,184
+2132,Malignant neoplasms (C00-C97),Cancer,Hawaii,2171,147.8
+2150,Malignant neoplasms (C00-C97),Cancer,Idaho,2306,163.2
+2168,Malignant neoplasms (C00-C97),Cancer,Illinois,24084,188.7
+2186,Malignant neoplasms (C00-C97),Cancer,Indiana,12903,197.5
+2204,Malignant neoplasms (C00-C97),Cancer,Iowa,6359,179
+2222,Malignant neoplasms (C00-C97),Cancer,Kansas,5343,180.1
+2240,Malignant neoplasms (C00-C97),Cancer,Kentucky,9394,212
+2258,Malignant neoplasms (C00-C97),Cancer,Louisiana,8853,206.1
+2276,Malignant neoplasms (C00-C97),Cancer,Maine,3089,192.7
+2294,Malignant neoplasms (C00-C97),Cancer,Maryland,10350,187
+2312,Malignant neoplasms (C00-C97),Cancer,Massachusetts,13407,187.5
+2330,Malignant neoplasms (C00-C97),Cancer,Michigan,20192,190.5
+2348,Malignant neoplasms (C00-C97),Cancer,Minnesota,9079,170.7
+2366,Malignant neoplasms (C00-C97),Cancer,Mississippi,6236,212.7
+2384,Malignant neoplasms (C00-C97),Cancer,Missouri,12519,195.8
+2402,Malignant neoplasms (C00-C97),Cancer,Montana,1943,177.9
+2420,Malignant neoplasms (C00-C97),Cancer,Nebraska,3430,176.6
+2438,Malignant neoplasms (C00-C97),Cancer,Nevada,4226,184.5
+2456,Malignant neoplasms (C00-C97),Cancer,New Hampshire,2534,183.9
+2474,Malignant neoplasms (C00-C97),Cancer,New Jersey,17180,183
+2492,Malignant neoplasms (C00-C97),Cancer,New Mexico,3147,158.5
+2510,Malignant neoplasms (C00-C97),Cancer,New York,35284,170.9
+2528,Malignant neoplasms (C00-C97),Cancer,North Carolina,17318,191.4
+2546,Malignant neoplasms (C00-C97),Cancer,North Dakota,1387,180.2
+2564,Malignant neoplasms (C00-C97),Cancer,Ohio,24975,197.3
+2582,Malignant neoplasms (C00-C97),Cancer,Oklahoma,7491,195.2
+2600,Malignant neoplasms (C00-C97),Cancer,Oregon,7309,180.9
+2618,Malignant neoplasms (C00-C97),Cancer,Pennsylvania,29172,190.5
+2636,Malignant neoplasms (C00-C97),Cancer,Rhode Island,2250,181.4
+2654,Malignant neoplasms (C00-C97),Cancer,South Carolina,8853,194.7
+2672,Malignant neoplasms (C00-C97),Cancer,South Dakota,1570,173.1
+2690,Malignant neoplasms (C00-C97),Cancer,Tennessee,13051,204.6
+2708,Malignant neoplasms (C00-C97),Cancer,Texas,34939,176.1
+2726,Malignant neoplasms (C00-C97),Cancer,United States,559888,181.8
+2744,Malignant neoplasms (C00-C97),Cancer,Utah,2615,139.9
+2762,Malignant neoplasms (C00-C97),Cancer,Vermont,1214,172.6
+2780,Malignant neoplasms (C00-C97),Cancer,Virginia,13829,185.3
+2798,Malignant neoplasms (C00-C97),Cancer,Washington,11055,175.3
+2816,Malignant neoplasms (C00-C97),Cancer,West Virginia,4613,203.6
+2834,Malignant neoplasms (C00-C97),Cancer,Wisconsin,10925,179.9
+2852,Malignant neoplasms (C00-C97),Cancer,Wyoming,927,174.6
+2870,Chronic lower respiratory diseases (J40-J47),CLRD,Alabama,2309,47.6
+2888,Chronic lower respiratory diseases (J40-J47),CLRD,Alaska,140,37.8
+2906,Chronic lower respiratory diseases (J40-J47),CLRD,Arizona,2799,46
+2924,Chronic lower respiratory diseases (J40-J47),CLRD,Arkansas,1498,48.1
+2942,Chronic lower respiratory diseases (J40-J47),CLRD,California,12829,40.1
+2960,Chronic lower respiratory diseases (J40-J47),CLRD,Colorado,1932,49.3
+2978,Chronic lower respiratory diseases (J40-J47),CLRD,Connecticut,1458,35
+2996,Chronic lower respiratory diseases (J40-J47),CLRD,Delaware,344,37.9
+3014,Chronic lower respiratory diseases (J40-J47),CLRD,District of Columbia,126,23.1
+3032,Chronic lower respiratory diseases (J40-J47),CLRD,Florida,8912,37.5
+3050,Chronic lower respiratory diseases (J40-J47),CLRD,Georgia,3387,46.3
+3068,Chronic lower respiratory diseases (J40-J47),CLRD,Hawaii,293,20
+3086,Chronic lower respiratory diseases (J40-J47),CLRD,Idaho,644,46.9
+3104,Chronic lower respiratory diseases (J40-J47),CLRD,Illinois,4731,37.3
+3122,Chronic lower respiratory diseases (J40-J47),CLRD,Indiana,3291,51
+3140,Chronic lower respiratory diseases (J40-J47),CLRD,Iowa,1655,45.2
+3158,Chronic lower respiratory diseases (J40-J47),CLRD,Kansas,1501,49.9
+3176,Chronic lower respiratory diseases (J40-J47),CLRD,Kentucky,2407,55.6
+3194,Chronic lower respiratory diseases (J40-J47),CLRD,Louisiana,1687,40.8
+3212,Chronic lower respiratory diseases (J40-J47),CLRD,Maine,783,49.1
+3230,Chronic lower respiratory diseases (J40-J47),CLRD,Maryland,1832,34.4
+3248,Chronic lower respiratory diseases (J40-J47),CLRD,Massachusetts,2535,34.8
+3266,Chronic lower respiratory diseases (J40-J47),CLRD,Michigan,4474,42.8
+3284,Chronic lower respiratory diseases (J40-J47),CLRD,Minnesota,1770,33.2
+3302,Chronic lower respiratory diseases (J40-J47),CLRD,Mississippi,1378,48.4
+3320,Chronic lower respiratory diseases (J40-J47),CLRD,Missouri,3017,47.4
+3338,Chronic lower respiratory diseases (J40-J47),CLRD,Montana,579,53.3
+3356,Chronic lower respiratory diseases (J40-J47),CLRD,Nebraska,878,44.4
+3374,Chronic lower respiratory diseases (J40-J47),CLRD,Nevada,1066,50.3
+3392,Chronic lower respiratory diseases (J40-J47),CLRD,New Hampshire,603,44.9
+3410,Chronic lower respiratory diseases (J40-J47),CLRD,New Jersey,2862,30.5
+3428,Chronic lower respiratory diseases (J40-J47),CLRD,New Mexico,888,46.5
+3446,Chronic lower respiratory diseases (J40-J47),CLRD,New York,6329,30.5
+3464,Chronic lower respiratory diseases (J40-J47),CLRD,North Carolina,4017,45.8
+3482,Chronic lower respiratory diseases (J40-J47),CLRD,North Dakota,283,34.4
+3500,Chronic lower respiratory diseases (J40-J47),CLRD,Ohio,6054,47.9
+3518,Chronic lower respiratory diseases (J40-J47),CLRD,Oklahoma,2192,57.6
+3536,Chronic lower respiratory diseases (J40-J47),CLRD,Oregon,1828,45.6
+3554,Chronic lower respiratory diseases (J40-J47),CLRD,Pennsylvania,5621,35.6
+3572,Chronic lower respiratory diseases (J40-J47),CLRD,Rhode Island,485,38.1
+3590,Chronic lower respiratory diseases (J40-J47),CLRD,South Carolina,1935,44
+3608,Chronic lower respiratory diseases (J40-J47),CLRD,South Dakota,376,40.1
+3626,Chronic lower respiratory diseases (J40-J47),CLRD,Tennessee,2980,48.1
+3644,Chronic lower respiratory diseases (J40-J47),CLRD,Texas,7639,40.8
+3662,Chronic lower respiratory diseases (J40-J47),CLRD,United States,124583,41
+3680,Chronic lower respiratory diseases (J40-J47),CLRD,Utah,591,32.9
+3698,Chronic lower respiratory diseases (J40-J47),CLRD,Vermont,320,46.5
+3716,Chronic lower respiratory diseases (J40-J47),CLRD,Virginia,2697,38
+3734,Chronic lower respiratory diseases (J40-J47),CLRD,Washington,2662,43.5
+3752,Chronic lower respiratory diseases (J40-J47),CLRD,West Virginia,1267,56.3
+3770,Chronic lower respiratory diseases (J40-J47),CLRD,Wisconsin,2354,38.5
+3788,Chronic lower respiratory diseases (J40-J47),CLRD,Wyoming,345,67.4
+3806,Diabetes mellitus (E10-E14),Diabetes,Alabama,1453,29.8
+3824,Diabetes mellitus (E10-E14),Diabetes,Alaska,109,25.9
+3842,Diabetes mellitus (E10-E14),Diabetes,Arizona,1206,19.6
+3860,Diabetes mellitus (E10-E14),Diabetes,Arkansas,839,27.2
+3878,Diabetes mellitus (E10-E14),Diabetes,California,7376,22.5
+3896,Diabetes mellitus (E10-E14),Diabetes,Colorado,677,16.7
+3914,Diabetes mellitus (E10-E14),Diabetes,Connecticut,782,19
+3932,Diabetes mellitus (E10-E14),Diabetes,Delaware,191,20.6
+3950,Diabetes mellitus (E10-E14),Diabetes,District of Columbia,184,33
+3968,Diabetes mellitus (E10-E14),Diabetes,Florida,5172,22.3
+3986,Diabetes mellitus (E10-E14),Diabetes,Georgia,1657,21.2
+4004,Diabetes mellitus (E10-E14),Diabetes,Hawaii,271,18.4
+4022,Diabetes mellitus (E10-E14),Diabetes,Idaho,320,23.1
+4040,Diabetes mellitus (E10-E14),Diabetes,Illinois,2795,21.9
+,
+4058,Diabetes mellitus (E10-E14),Diabetes,Indiana,1682,25.9
+4076,Diabetes mellitus (E10-E14),Diabetes,Iowa,804,22
+4094,Diabetes mellitus (E10-E14),Diabetes,Kansas,749,24.8
+4112,Diabetes mellitus (E10-E14),Diabetes,Kentucky,1141,26.2
+4130,Diabetes mellitus (E10-E14),Diabetes,Louisiana,1536,36.3
+4148,Diabetes mellitus (E10-E14),Diabetes,Maine,343,21.4
+4166,Diabetes mellitus (E10-E14),Diabetes,Maryland,1237,22.5
+4184,Diabetes mellitus (E10-E14),Diabetes,Massachusetts,1132,15.5
+4202,Diabetes mellitus (E10-E14),Diabetes,Michigan,2830,26.8
+4220,Diabetes mellitus (E10-E14),Diabetes,Minnesota,1158,21.4
+4238,Diabetes mellitus (E10-E14),Diabetes,Mississippi,707,24.5
+4256,Diabetes mellitus (E10-E14),Diabetes,Missouri,1493,23.5
+4274,Diabetes mellitus (E10-E14),Diabetes,Montana,249,22.8
+4292,Diabetes mellitus (E10-E14),Diabetes,Nebraska,437,22.2
+4310,Diabetes mellitus (E10-E14),Diabetes,Nevada,294,13
+4328,Diabetes mellitus (E10-E14),Diabetes,New Hampshire,296,21.4
+4346,Diabetes mellitus (E10-E14),Diabetes,New Jersey,2454,26.1
+4364,Diabetes mellitus (E10-E14),Diabetes,New Mexico,606,30.6
+4382,Diabetes mellitus (E10-E14),Diabetes,New York,3848,18.6
+4400,Diabetes mellitus (E10-E14),Diabetes,North Carolina,2234,24.9
+4418,Diabetes mellitus (E10-E14),Diabetes,North Dakota,208,26.1
+4436,Diabetes mellitus (E10-E14),Diabetes,Ohio,3761,29.6
+4454,Diabetes mellitus (E10-E14),Diabetes,Oklahoma,1166,30.6
+4472,Diabetes mellitus (E10-E14),Diabetes,Oregon,1139,28.2
+4490,Diabetes mellitus (E10-E14),Diabetes,Pennsylvania,3466,22.3
+4508,Diabetes mellitus (E10-E14),Diabetes,Rhode Island,206,16.2
+4526,Diabetes mellitus (E10-E14),Diabetes,South Carolina,1136,25.5
+4544,Diabetes mellitus (E10-E14),Diabetes,South Dakota,262,27.6
+4562,Diabetes mellitus (E10-E14),Diabetes,Tennessee,1715,27.4
+4580,Diabetes mellitus (E10-E14),Diabetes,Texas,5201,26.5
+4598,Diabetes mellitus (E10-E14),Diabetes,United States,72449,23.6
+4616,Diabetes mellitus (E10-E14),Diabetes,Utah,496,27
+4634,Diabetes mellitus (E10-E14),Diabetes,Vermont,175,25
+4652,Diabetes mellitus (E10-E14),Diabetes,Virginia,1632,22.1
+4670,Diabetes mellitus (E10-E14),Diabetes,Washington,1543,24.7
+4688,Diabetes mellitus (E10-E14),Diabetes,West Virginia,743,33
+4706,Diabetes mellitus (E10-E14),Diabetes,Wisconsin,1212,19.7
+4724,Diabetes mellitus (E10-E14),Diabetes,Wyoming,126,23.9
+4742,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Alabama,12583,263
+4760,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Alaska,645,170.6
+4778,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Arizona,10607,176.5
+4796,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Arkansas,7431,240.5
+4814,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,California,64871,198.8
+4832,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Colorado,6124,152.7
+4850,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Connecticut,7490,174.7
+4868,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Delaware,1866,206
+4886,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,District of Columbia,1566,280.9
+4904,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Florida,44305,187.9
+4922,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Georgia,16478,222.2
+4940,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Hawaii,2244,151.4
+4958,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Idaho,2399,171.3
+4976,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Illinois,27007,208.5
+4994,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Indiana,14375,220.8
+5012,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Iowa,7172,187.1
+5030,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Kansas,5849,186.3
+5048,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Kentucky,10353,241.4
+5066,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Louisiana,10026,241.4
+5084,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Maine,2815,174.3
+5102,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Maryland,11268,206.6
+5121,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Massachusetts,12947,171.7
+5139,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Michigan,24255,228.1
+5157,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Minnesota,7525,134.9
+5175,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Mississippi,8097,285.4
+5193,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Missouri,14749,228.8
+5211,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Montana,1869,169.4
+5229,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Nebraska,3445,168
+5247,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Nevada,5013,233.7
+5265,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,New Hampshire,2501,181.1
+5283,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,New Jersey,19548,203.9
+5301,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,New Mexico,3411,179.5
+5319,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,New York,50470,238.2
+5337,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,North Carolina,17271,197.6
+5355,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,North Dakota,1527,182
+5373,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Ohio,27886,218.5
+5391,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Oklahoma,9798,260.1
+5409,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Oregon,6620,160.9
+5427,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Pennsylvania,33744,210.4
+5445,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Rhode Island,2718,201.5
+5463,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,South Carolina,9030,206.8
+5481,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,South Dakota,1757,180.6
+5499,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Tennessee,14642,238
+5518,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Texas,38782,205.2
+5536,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,United States,631636,205.5
+5552,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Utah,2932,163.7
+5570,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Vermont,1244,177.2
+5588,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Virginia,14021,195.2
+5606,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Washington,10604,168.4
+5624,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,West Virginia,5311,240.5
+5642,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Wisconsin,11451,181.1
+5660,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Wyoming,994,192.9
+5678,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Alabama,918,19.5
+5696,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Alaska,49,14
+5714,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arizona,1166,19.6
+5732,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arkansas,772,25.1
+5750,Influenza and pneumonia (J09-J18),Influenza and pneumonia,California,7338,22.7
+5768,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Colorado,614,15.6
+5786,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Connecticut,800,18.2
+5804,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Delaware,138,15.6
+5822,Influenza and pneumonia (J09-J18),Influenza and pneumonia,District of Columbia,76,13.7
+5840,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Florida,2454,10.5
+5858,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Georgia,1463,20.8
+5876,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Hawaii,257,17.2
+5894,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Idaho,225,16.2
+5912,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Illinois,2668,20.6
+5930,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Indiana,1129,17.4
+5948,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Iowa,770,19.3
+5966,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Kansas,647,20
+5984,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Kentucky,927,22.1
+6002,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Louisiana,833,20.6
+6020,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Maine,269,16.8
+6038,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Maryland,1082,20.1
+6056,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Massachusetts,1750,22.8
+6074,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Michigan,1679,15.9
+6092,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Minnesota,630,11
+6110,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Mississippi,621,22.3
+,
+6128,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Missouri,1285,19.9
+6146,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Montana,169,15.2
+6164,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Nebraska,345,16.3
+6182,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Nevada,426,20.6
+6200,Influenza and pneumonia (J09-J18),Influenza and pneumonia,New Hampshire,212,15.4
+6218,Influenza and pneumonia (J09-J18),Influenza and pneumonia,New Jersey,1315,13.7
+6236,Influenza and pneumonia (J09-J18),Influenza and pneumonia,New Mexico,353,18.9
+6254,Influenza and pneumonia (J09-J18),Influenza and pneumonia,New York,4892,23
+6272,Influenza and pneumonia (J09-J18),Influenza and pneumonia,North Carolina,1705,20.1
+6290,Influenza and pneumonia (J09-J18),Influenza and pneumonia,North Dakota,138,15.3
+6308,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Ohio,1947,15.3
+6326,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Oklahoma,879,23.6
+6344,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Oregon,522,12.6
+6362,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Pennsylvania,2716,16.5
+6380,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Rhode Island,268,19.6
+6398,Influenza and pneumonia (J09-J18),Influenza and pneumonia,South Carolina,724,17.3
+6416,Influenza and pneumonia (J09-J18),Influenza and pneumonia,South Dakota,173,17
+6434,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Tennessee,1535,25.7
+6452,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Texas,3342,18.2
+6470,Influenza and pneumonia (J09-J18),Influenza and pneumonia,United States,56326,18.4
+6488,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Utah,343,19.2
+6506,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Vermont,77,10.9
+6524,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Virginia,1281,18.4
+6542,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Washington,814,12.9
+6560,Influenza and pneumonia (J09-J18),Influenza and pneumonia,West Virginia,459,21.1
+6578,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wisconsin,1014,15.8
+6596,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wyoming,117,23.5
+6614,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Alabama,1104,23
+6632,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Alaska,44,12.9
+6650,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arizona,565,9.3
+6668,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arkansas,616,20
+6686,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,California,2676,8.2
+6704,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Colorado,472,12.1
+6722,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Connecticut,567,13.5
+6740,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Delaware,152,16.9
+6759,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,District of Columbia,68,12.2
+6777,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Florida,2620,11.2
+6794,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Georgia,1668,22.5
+6812,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Hawaii,179,12.2
+6830,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Idaho,130,9.4
+6848,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Illinois,2502,19.5
+6866,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Indiana,1372,21.1
+6884,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Iowa,225,5.8
+6902,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Kansas,594,19
+6920,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Kentucky,922,21.6
+6938,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Louisiana,1074,26.1
+6956,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Maine,252,15.7
+6974,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Maryland,767,14.2
+6992,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Massachusetts,1406,18.7
+7010,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Michigan,1673,15.9
+7028,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Minnesota,711,12.9
+7046,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Mississippi,673,23.7
+7064,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Missouri,1118,17.4
+7082,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Montana,132,12
+7100,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Nebraska,249,12.3
+,
+7118,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Nevada,475,22.7
+7136,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,New Hampshire,160,11.8
+7154,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,New Jersey,1645,17.3
+7172,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,New Mexico,262,13.4
+7190,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,New York,2351,11.2
+7208,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,North Carolina,1661,19.1
+7226,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,North Dakota,59,6.6
+7244,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Ohio,1758,13.9
+7262,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Oklahoma,594,15.9
+7280,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Oregon,353,8.8
+7298,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Pennsylvania,3084,19.3
+7317,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Rhode Island,167,12.9
+7335,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,South Carolina,846,19.5
+7353,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,South Dakota,62,6.4
+7371,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Tennessee,768,12.6
+7389,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Texas,2995,15.8
+7407,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,United States,45344,14.8
+7425,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Utah,210,11.6
+7443,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Vermont,52,7.4
+7461,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Virginia,1400,19.6
+7479,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Washington,423,6.7
+7497,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,West Virginia,468,21
+7515,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wisconsin,962,15.4
+7533,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wyoming,58,11.6
+7551,Cerebrovascular diseases (I60-I69),Stroke,Alabama,2740,57.8
+7568,Cerebrovascular diseases (I60-I69),Stroke,Alaska,177,48.2
+7586,Cerebrovascular diseases (I60-I69),Stroke,Arizona,2226,37.5
+7604,Cerebrovascular diseases (I60-I69),Stroke,Arkansas,1884,61.2
+7622,Cerebrovascular diseases (I60-I69),Stroke,California,15039,46.4
+7640,Cerebrovascular diseases (I60-I69),Stroke,Colorado,1532,39.1
+7658,Cerebrovascular diseases (I60-I69),Stroke,Connecticut,1547,35.8
+7676,Cerebrovascular diseases (I60-I69),Stroke,Delaware,384,42.9
+7694,Cerebrovascular diseases (I60-I69),Stroke,District of Columbia,221,40
+7712,Cerebrovascular diseases (I60-I69),Stroke,Florida,8925,37.8
+7730,Cerebrovascular diseases (I60-I69),Stroke,Georgia,3889,53.5
+7748,Cerebrovascular diseases (I60-I69),Stroke,Hawaii,665,44.7
+7766,Cerebrovascular diseases (I60-I69),Stroke,Idaho,725,52.7
+7784,Cerebrovascular diseases (I60-I69),Stroke,Illinois,5989,46.3
+7802,Cerebrovascular diseases (I60-I69),Stroke,Indiana,3238,49.9
+7820,Cerebrovascular diseases (I60-I69),Stroke,Iowa,1718,43.6
+7838,Cerebrovascular diseases (I60-I69),Stroke,Kansas,1489,47.3
+7856,Cerebrovascular diseases (I60-I69),Stroke,Kentucky,2197,51.9
+7874,Cerebrovascular diseases (I60-I69),Stroke,Louisiana,2195,53.9
+7892,Cerebrovascular diseases (I60-I69),Stroke,Maine,670,41.5
+7910,Cerebrovascular diseases (I60-I69),Stroke,Maryland,2365,43.8
+7928,Cerebrovascular diseases (I60-I69),Stroke,Massachusetts,2880,38.1
+7946,Cerebrovascular diseases (I60-I69),Stroke,Michigan,4752,44.9
+7964,Cerebrovascular diseases (I60-I69),Stroke,Minnesota,2219,39.7
+7982,Cerebrovascular diseases (I60-I69),Stroke,Mississippi,1585,56.1
+8000,Cerebrovascular diseases (I60-I69),Stroke,Missouri,3247,50.5
+8018,Cerebrovascular diseases (I60-I69),Stroke,Montana,461,41.7
+8036,Cerebrovascular diseases (I60-I69),Stroke,Nebraska,922,44.7
+8054,Cerebrovascular diseases (I60-I69),Stroke,Nevada,847,41.3
+8072,Cerebrovascular diseases (I60-I69),Stroke,New Hampshire,494,36.1
+8090,Cerebrovascular diseases (I60-I69),Stroke,New Jersey,3468,36.3
+8108,Cerebrovascular diseases (I60-I69),Stroke,New Mexico,739,39.3
+8126,Cerebrovascular diseases (I60-I69),Stroke,New York,6398,30.4
+8144,Cerebrovascular diseases (I60-I69),Stroke,North Carolina,4572,53.2
+8162,Cerebrovascular diseases (I60-I69),Stroke,North Dakota,428,49.6
+8180,Cerebrovascular diseases (I60-I69),Stroke,Ohio,5828,45.7
+8198,Cerebrovascular diseases (I60-I69),Stroke,Oklahoma,2085,55.7
+8216,Cerebrovascular diseases (I60-I69),Stroke,Oregon,1978,48.2
+8234,Cerebrovascular diseases (I60-I69),Stroke,Pennsylvania,7151,44.2
+8252,Cerebrovascular diseases (I60-I69),Stroke,Rhode Island,421,31.2
+8270,Cerebrovascular diseases (I60-I69),Stroke,South Carolina,2291,53.8
+8288,Cerebrovascular diseases (I60-I69),Stroke,South Dakota,442,44
+8306,Cerebrovascular diseases (I60-I69),Stroke,Tennessee,3407,56.4
+8324,Cerebrovascular diseases (I60-I69),Stroke,Texas,9366,50.4
+8342,Cerebrovascular diseases (I60-I69),Stroke,United States,137119,44.8
+8360,Cerebrovascular diseases (I60-I69),Stroke,Utah,674,38.2
+8378,Cerebrovascular diseases (I60-I69),Stroke,Vermont,264,38.1
+8396,Cerebrovascular diseases (I60-I69),Stroke,Virginia,3523,50.1
+8414,Cerebrovascular diseases (I60-I69),Stroke,Washington,2725,43.6
+8432,Cerebrovascular diseases (I60-I69),Stroke,West Virginia,1072,48.5
+8450,Cerebrovascular diseases (I60-I69),Stroke,Wisconsin,2829,44.6
+8468,Cerebrovascular diseases (I60-I69),Stroke,Wyoming,236,46.5
+8486,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Alabama,580,12.4
+8504,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Alaska,135,19.9
+8522,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arizona,979,16.3
+8540,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arkansas,376,13.3
+8558,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,California,3334,9.3
+8576,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Colorado,730,15.3
+8594,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Connecticut,292,8
+8612,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Delaware,91,10.3
+8630,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,District of Columbia,30,5.2
+8648,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Florida,2440,12.6
+8666,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Georgia,923,10.3
+8684,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Hawaii,120,9
+8702,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Idaho,222,15.8
+8720,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Illinois,1010,7.9
+8738,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Indiana,824,13
+8756,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Iowa,334,11.2
+8774,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Kansas,379,13.9
+8792,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Kentucky,622,14.6
+8810,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Louisiana,492,11.5
+8828,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Maine,158,11
+8846,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Maryland,495,8.6
+8864,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Massachusetts,450,6.7
+8882,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Michigan,1139,11.2
+8900,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Minnesota,554,10.6
+8918,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Mississippi,325,11.4
+8936,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Missouri,799,13.5
+8954,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Montana,189,19.7
+8972,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Nebraska,202,11.2
+8990,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Nevada,486,19.3
+9008,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,New Hampshire,151,11.2
+9026,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,New Jersey,585,6.5
+9044,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,New Mexico,352,17.9
+9062,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,New York,1326,6.7
+9080,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,North Carolina,1106,12.2
+9098,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,North Dakota,90,13.3
+9116,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Ohio,1325,11.3
+9134,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Oklahoma,537,15
+9152,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Oregon,579,15.3
+9170,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Pennsylvania,1396,10.8
+9188,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Rhode Island,90,8.2
+9206,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,South Carolina,524,11.8
+9224,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,South Dakota,125,16
+9242,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Tennessee,874,14.1
+9260,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Texas,2347,10.3
+9278,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,United States,33300,11
+9296,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Utah,362,16
+9314,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Vermont,81,12.2
+9332,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Virginia,876,11.1
+9350,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Washington,809,12.3
+9368,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,West Virginia,269,14
+9386,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wisconsin,670,12
+9404,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wyoming,116,21.7
+9421,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Alabama,2506,54
+9438,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Alaska,316,52.3
+9455,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arizona,3352,56
+9472,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arkansas,1415,49.4
+9489,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,California,11375,32.1
+9506,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Colorado,1917,42.5
+9523,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Connecticut,1302,34.6
+9540,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Delaware,329,38
+9557,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,District of Columbia,224,39.4
+9574,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Florida,8917,46.5
+9591,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Georgia,3879,45.1
+9608,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Hawaii,441,31.7
+9625,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Idaho,682,47.5
+9642,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Illinois,4451,34.9
+9659,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Indiana,2480,38.9
+9676,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Iowa,1188,35.7
+9693,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Kansas,1198,41.7
+9710,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Kentucky,2446,57.9
+9727,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Louisiana,2422,56.8
+9744,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Maine,572,40.8
+9761,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Maryland,1456,26.1
+9778,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Massachusetts,2214,32.3
+9795,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Michigan,3590,35.2
+9812,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Minnesota,1919,35.4
+9829,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Mississippi,1856,64.7
+9846,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Missouri,3009,50.1
+9863,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Montana,558,55.7
+9880,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Nebraska,683,36.1
+9897,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Nevada,1091,44.3
+9914,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,New Hampshire,460,34.1
+9931,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,New Jersey,2590,29
+9948,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,New Mexico,1297,67.6
+9965,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,New York,5235,26.2
+9982,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,North Carolina,4156,46.9
+9999,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,North Dakota,275,38.9
+10016,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Ohio,4821,40.5
+10033,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Oklahoma,2039,56.6
+10050,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Oregon,1586,40.8
+10067,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Pennsylvania,5299,39.5
+10084,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Rhode Island,434,36.5
+10101,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,South Carolina,2315,53.3
+10118,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,South Dakota,452,53.4
+10135,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Tennessee,3307,54.3
+10152,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Texas,9140,41.6
+10170,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,United States,121599,40.2
+10187,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Utah,715,31.6
+10204,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Vermont,301,45.8
+10221,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Virginia,2703,35.8
+10238,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Washington,2679,41.5
+10255,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,West Virginia,1177,62.4
+10272,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wisconsin,2524,42.7
+10289,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wyoming,306,58.9

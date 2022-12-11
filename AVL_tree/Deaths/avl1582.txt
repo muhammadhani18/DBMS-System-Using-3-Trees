@@ -1,0 +1,6 @@
+3983,2009,Diabetes mellitus (E10-E14),Diabetes,Georgia,1582,18.7
+
+7145,2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,New Jersey,1582,14.4
+
+9516,2013,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Connecticut,1582,39.3
+

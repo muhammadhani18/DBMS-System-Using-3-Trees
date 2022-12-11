@@ -1,0 +1,10 @@
+1038,2002,Alzheimer's disease (G30),Alzheimer's disease,Arizona,1433,28.7
+
+1382,2000,Alzheimer's disease (G30),Alzheimer's disease,Massachusetts,1433,19.8
+
+7016,2000,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Michigan,1433,15
+
+7656,2008,Cerebrovascular diseases (I60-I69),Stroke,Connecticut,1433,32
+
+7812,2014,Cerebrovascular diseases (I60-I69),Stroke,Iowa,1433,34
+

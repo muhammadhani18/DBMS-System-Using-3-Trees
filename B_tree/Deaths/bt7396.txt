@@ -1,0 +1,4 @@
+9578,2002,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Florida,7396,42
+
+9578,2002,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Florida,7396,42
+

@@ -1,0 +1,12 @@
+3569,2009,Chronic lower respiratory diseases (J40-J47),CLRD,Rhode Island,511,39.8
+
+7929,2005,Cerebrovascular diseases (I60-I69),Stroke,Massachusetts,2977,39.8
+
+7943,2009,Cerebrovascular diseases (I60-I69),Stroke,Michigan,4435,39.8
+
+8053,2007,Cerebrovascular diseases (I60-I69),Stroke,Nevada,850,39.8
+
+8254,2004,Cerebrovascular diseases (I60-I69),Stroke,Rhode Island,522,39.8
+
+9874,2012,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Nebraska,792,39.8
+

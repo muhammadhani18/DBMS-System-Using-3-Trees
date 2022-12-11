@@ -1,0 +1,1584 @@
+5,2016,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,California,13213,32
+
+124,2016,All Causes,All causes,California,262240,616.9
+
+125,2015,All Causes,All causes,California,259206,621.6
+
+126,2014,All Causes,All causes,California,245929,605.7
+
+127,2013,All Causes,All causes,California,248359,630.1
+
+128,2012,All Causes,All causes,California,242554,630.4
+
+129,2011,All Causes,All causes,California,239942,641.3
+
+130,2010,All Causes,All causes,California,234012,646.7
+
+131,2009,All Causes,All causes,California,232736,655.5
+
+132,2008,All Causes,All causes,California,234766,677.9
+
+133,2007,All Causes,All causes,California,233720,691.7
+
+134,2006,All Causes,All causes,California,237126,718.2
+
+135,2005,All Causes,All causes,California,237037,730.7
+
+136,2004,All Causes,All causes,California,232525,734.3
+
+137,2003,All Causes,All causes,California,239371,768.4
+
+138,2002,All Causes,All causes,California,234565,770
+
+139,2001,All Causes,All causes,California,234044,783.2
+
+140,2000,All Causes,All causes,California,229551,787.9
+
+141,1999,All Causes,All causes,California,229380,802.3
+
+1060,2016,Alzheimer's disease (G30),Alzheimer's disease,California,15570,36.1
+
+1061,2015,Alzheimer's disease (G30),Alzheimer's disease,California,15065,35.7
+
+1062,2014,Alzheimer's disease (G30),Alzheimer's disease,California,12644,30.9
+
+1063,2013,Alzheimer's disease (G30),Alzheimer's disease,California,11891,30
+
+1064,2012,Alzheimer's disease (G30),Alzheimer's disease,California,11649,30
+
+1065,2011,Alzheimer's disease (G30),Alzheimer's disease,California,11555,30.7
+
+1066,2010,Alzheimer's disease (G30),Alzheimer's disease,California,10856,30.1
+
+1067,2009,Alzheimer's disease (G30),Alzheimer's disease,California,9905,28.1
+
+1068,2008,Alzheimer's disease (G30),Alzheimer's disease,California,10098,29.5
+
+1069,2007,Alzheimer's disease (G30),Alzheimer's disease,California,8497,25.6
+
+1070,2006,Alzheimer's disease (G30),Alzheimer's disease,California,8146,25.3
+
+1071,2005,Alzheimer's disease (G30),Alzheimer's disease,California,7706,24.6
+
+1072,2004,Alzheimer's disease (G30),Alzheimer's disease,California,6964,22.9
+
+1073,2003,Alzheimer's disease (G30),Alzheimer's disease,California,6585,22
+
+1074,2002,Alzheimer's disease (G30),Alzheimer's disease,California,5421,18.6
+
+1075,2001,Alzheimer's disease (G30),Alzheimer's disease,California,4935,17.2
+
+1076,2000,Alzheimer's disease (G30),Alzheimer's disease,California,4419,15.8
+
+1077,1999,Alzheimer's disease (G30),Alzheimer's disease,California,4532,16.6
+
+1996,2016,Malignant neoplasms (C00-C97),Cancer,California,59515,139.7
+
+1997,2015,Malignant neoplasms (C00-C97),Cancer,California,59629,142.8
+
+1998,2014,Malignant neoplasms (C00-C97),Cancer,California,58412,144.1
+
+1999,2013,Malignant neoplasms (C00-C97),Cancer,California,57714,147
+
+2000,2012,Malignant neoplasms (C00-C97),Cancer,California,57676,150.9
+
+2001,2011,Malignant neoplasms (C00-C97),Cancer,California,56449,152
+
+2002,2010,Malignant neoplasms (C00-C97),Cancer,California,56453,156.9
+
+2003,2009,Malignant neoplasms (C00-C97),Cancer,California,55991,158.8
+
+2004,2008,Malignant neoplasms (C00-C97),Cancer,California,54686,158.8
+
+2005,2007,Malignant neoplasms (C00-C97),Cancer,California,55011,163.8
+
+2006,2006,Malignant neoplasms (C00-C97),Cancer,California,54140,164.5
+
+2007,2005,Malignant neoplasms (C00-C97),Cancer,California,54732,168.9
+
+2008,2004,Malignant neoplasms (C00-C97),Cancer,California,53700,169.2
+
+2009,2003,Malignant neoplasms (C00-C97),Cancer,California,54319,174
+
+2010,2002,Malignant neoplasms (C00-C97),Cancer,California,54143,177.3
+
+2011,2001,Malignant neoplasms (C00-C97),Cancer,California,53924,180.2
+
+2012,2000,Malignant neoplasms (C00-C97),Cancer,California,53158,182.1
+
+2013,1999,Malignant neoplasms (C00-C97),Cancer,California,53067,184.9
+
+2932,2016,Chronic lower respiratory diseases (J40-J47),CLRD,California,13710,32.6
+
+2933,2015,Chronic lower respiratory diseases (J40-J47),CLRD,California,13621,33.1
+
+2934,2014,Chronic lower respiratory diseases (J40-J47),CLRD,California,12780,32
+
+2935,2013,Chronic lower respiratory diseases (J40-J47),CLRD,California,13598,35.3
+
+2936,2012,Chronic lower respiratory diseases (J40-J47),CLRD,California,12963,34.5
+
+2937,2011,Chronic lower respiratory diseases (J40-J47),CLRD,California,13357,36.7
+
+2938,2010,Chronic lower respiratory diseases (J40-J47),CLRD,California,12987,37
+
+2939,2009,Chronic lower respiratory diseases (J40-J47),CLRD,California,12936,37.5
+
+2940,2008,Chronic lower respiratory diseases (J40-J47),CLRD,California,13426,39.9
+
+2941,2007,Chronic lower respiratory diseases (J40-J47),CLRD,California,12532,38.3
+
+2942,2006,Chronic lower respiratory diseases (J40-J47),CLRD,California,12829,40.1
+
+2943,2005,Chronic lower respiratory diseases (J40-J47),CLRD,California,13188,41.8
+
+2944,2004,Chronic lower respiratory diseases (J40-J47),CLRD,California,12522,40.6
+
+2945,2003,Chronic lower respiratory diseases (J40-J47),CLRD,California,13448,44.2
+
+2946,2002,Chronic lower respiratory diseases (J40-J47),CLRD,California,12684,42.6
+
+2947,2001,Chronic lower respiratory diseases (J40-J47),CLRD,California,12965,44.4
+
+2948,2000,Chronic lower respiratory diseases (J40-J47),CLRD,California,12756,44.6
+
+2949,1999,Chronic lower respiratory diseases (J40-J47),CLRD,California,13165,46.9
+
+3868,2016,Diabetes mellitus (E10-E14),Diabetes,California,9124,21.4
+
+3869,2015,Diabetes mellitus (E10-E14),Diabetes,California,8845,21.2
+
+3870,2014,Diabetes mellitus (E10-E14),Diabetes,California,8249,20.4
+
+3871,2013,Diabetes mellitus (E10-E14),Diabetes,California,8057,20.6
+
+3872,2012,Diabetes mellitus (E10-E14),Diabetes,California,7895,20.7
+
+3873,2011,Diabetes mellitus (E10-E14),Diabetes,California,7695,20.7
+
+3874,2010,Diabetes mellitus (E10-E14),Diabetes,California,7061,19.7
+
+3875,2009,Diabetes mellitus (E10-E14),Diabetes,California,6979,19.8
+
+3876,2008,Diabetes mellitus (E10-E14),Diabetes,California,7375,21.5
+
+3877,2007,Diabetes mellitus (E10-E14),Diabetes,California,7413,22.2
+
+3878,2006,Diabetes mellitus (E10-E14),Diabetes,California,7376,22.5
+
+3879,2005,Diabetes mellitus (E10-E14),Diabetes,California,7697,23.8
+
+3880,2004,Diabetes mellitus (E10-E14),Diabetes,California,7117,22.6
+
+3881,2003,Diabetes mellitus (E10-E14),Diabetes,California,7093,22.8
+
+3882,2002,Diabetes mellitus (E10-E14),Diabetes,California,6807,22.5
+
+3883,2001,Diabetes mellitus (E10-E14),Diabetes,California,6395,21.5
+
+3884,2000,Diabetes mellitus (E10-E14),Diabetes,California,6190,21.3
+
+3885,1999,Diabetes mellitus (E10-E14),Diabetes,California,6401,22.5
+
+4804,2016,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,California,61573,143.1
+
+4805,2015,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,California,61289,145.6
+
+4806,2014,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,California,58189,142.2
+
+4807,2013,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,California,60299,151.8
+
+4808,2012,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,California,59371,153.3
+
+4809,2011,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,California,59772,159
+
+4810,2010,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,California,58641,161.9
+
+4811,2009,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,California,59206,166.9
+
+4812,2008,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,California,60709,176.2
+
+4813,2007,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,California,61690,183.9
+
+4814,2006,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,California,64871,198.8
+
+4815,2005,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,California,64916,203
+
+4816,2004,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,California,64999,209
+
+4817,2003,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,California,68864,225.1
+
+4818,2002,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,California,68797,230.4
+
+4819,2001,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,California,68234,233.6
+
+4820,2000,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,California,68426,239.9
+
+4821,1999,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,California,71930,257.3
+
+5740,2016,Influenza and pneumonia (J09-J18),Influenza and pneumonia,California,5981,14
+
+5741,2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,California,6188,14.8
+
+5742,2014,Influenza and pneumonia (J09-J18),Influenza and pneumonia,California,5970,14.7
+
+5743,2013,Influenza and pneumonia (J09-J18),Influenza and pneumonia,California,6551,16.6
+
+5744,2012,Influenza and pneumonia (J09-J18),Influenza and pneumonia,California,5849,15.2
+
+5745,2011,Influenza and pneumonia (J09-J18),Influenza and pneumonia,California,6200,16.6
+
+5746,2010,Influenza and pneumonia (J09-J18),Influenza and pneumonia,California,5882,16.4
+
+5747,2009,Influenza and pneumonia (J09-J18),Influenza and pneumonia,California,6394,18.1
+
+5748,2008,Influenza and pneumonia (J09-J18),Influenza and pneumonia,California,6560,19.2
+
+5749,2007,Influenza and pneumonia (J09-J18),Influenza and pneumonia,California,6546,19.7
+
+5750,2006,Influenza and pneumonia (J09-J18),Influenza and pneumonia,California,7338,22.7
+
+5751,2005,Influenza and pneumonia (J09-J18),Influenza and pneumonia,California,7553,23.8
+
+5752,2004,Influenza and pneumonia (J09-J18),Influenza and pneumonia,California,7323,23.8
+
+5753,2003,Influenza and pneumonia (J09-J18),Influenza and pneumonia,California,8185,27
+
+5754,2002,Influenza and pneumonia (J09-J18),Influenza and pneumonia,California,8128,27.5
+
+5755,2001,Influenza and pneumonia (J09-J18),Influenza and pneumonia,California,8129,28.1
+
+5756,2000,Influenza and pneumonia (J09-J18),Influenza and pneumonia,California,8324,29.5
+
+5757,1999,Influenza and pneumonia (J09-J18),Influenza and pneumonia,California,4560,16.5
+
+6676,2016,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,California,3640,8.6
+
+6677,2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,California,3557,8.6
+
+6678,2014,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,California,3119,7.7
+
+6679,2013,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,California,2840,7.2
+
+6680,2012,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,California,2728,7.2
+
+6681,2011,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,California,2599,7
+
+6682,2010,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,California,3112,8.7
+
+6683,2009,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,California,3033,8.6
+
+6684,2008,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,California,2854,8.3
+
+6685,2007,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,California,2835,8.5
+
+6686,2006,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,California,2676,8.2
+
+6687,2005,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,California,2482,7.7
+
+6688,2004,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,California,2373,7.6
+
+6689,2003,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,California,2334,7.6
+
+6690,2002,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,California,2164,7.2
+
+6691,2001,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,California,1994,6.8
+
+6692,2000,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,California,1785,6.2
+
+6693,1999,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,California,2261,8
+
+7612,2016,Cerebrovascular diseases (I60-I69),Stroke,California,15680,36.9
+
+7613,2015,Cerebrovascular diseases (I60-I69),Stroke,California,15065,36.2
+
+7614,2014,Cerebrovascular diseases (I60-I69),Stroke,California,13731,33.9
+
+7615,2013,Cerebrovascular diseases (I60-I69),Stroke,California,13698,34.9
+
+7616,2012,Cerebrovascular diseases (I60-I69),Stroke,California,13542,35.4
+
+7617,2011,Cerebrovascular diseases (I60-I69),Stroke,California,13503,36.4
+
+7618,2010,Cerebrovascular diseases (I60-I69),Stroke,California,13662,38.1
+
+7619,2009,Cerebrovascular diseases (I60-I69),Stroke,California,13506,38.5
+
+7620,2008,Cerebrovascular diseases (I60-I69),Stroke,California,14048,41.2
+
+7621,2007,Cerebrovascular diseases (I60-I69),Stroke,California,14557,43.7
+
+7622,2006,Cerebrovascular diseases (I60-I69),Stroke,California,15039,46.4
+
+7623,2005,Cerebrovascular diseases (I60-I69),Stroke,California,15585,49
+
+7624,2004,Cerebrovascular diseases (I60-I69),Stroke,California,16882,54.6
+
+7625,2003,Cerebrovascular diseases (I60-I69),Stroke,California,17692,58.2
+
+7626,2002,Cerebrovascular diseases (I60-I69),Stroke,California,17626,59.3
+
+7627,2001,Cerebrovascular diseases (I60-I69),Stroke,California,18088,62.1
+
+7628,2000,Cerebrovascular diseases (I60-I69),Stroke,California,18185,64
+
+7629,1999,Cerebrovascular diseases (I60-I69),Stroke,California,17962,64.5
+
+8548,2016,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,California,4294,10.5
+
+8549,2015,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,California,4167,10.3
+
+8550,2014,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,California,4214,10.5
+
+8551,2013,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,California,4025,10.2
+
+8552,2012,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,California,3893,10
+
+8553,2011,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,California,3996,10.4
+
+8554,2010,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,California,3913,10.3
+
+8555,2009,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,California,3823,10.2
+
+8556,2008,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,California,3775,10.3
+
+8557,2007,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,California,3602,9.9
+
+8558,2006,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,California,3334,9.3
+
+8559,2005,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,California,3206,9.1
+
+8560,2004,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,California,3368,9.7
+
+8561,2003,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,California,3397,9.9
+
+8562,2002,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,California,3228,9.6
+
+8563,2001,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,California,2831,8.5
+
+8564,2000,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,California,2969,9.1
+
+8565,1999,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,California,3077,9.6
+
+9480,2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,California,12544,30.6
+
+9481,2014,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,California,11804,29.2
+
+9482,2013,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,California,11538,29.2
+
+9483,2012,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,California,10906,28
+
+9484,2011,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,California,10824,28.3
+
+9485,2010,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,California,10435,27.8
+
+9486,2009,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,California,10860,29.4
+
+9487,2008,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,California,10761,29.5
+
+9488,2007,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,California,11614,32.3
+
+9489,2006,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,California,11375,32.1
+
+9490,2005,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,California,11129,31.7
+
+9491,2004,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,California,10633,30.8
+
+9492,2003,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,California,10471,30.7
+
+9493,2002,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,California,10107,30.1
+
+9494,2001,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,California,8132,24.5
+
+9495,2000,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,California,8577,26.5
+
+9496,1999,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,California,9198,28.7
+
+5,2016,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,California,13213,32
+
+124,2016,All Causes,All causes,California,262240,616.9
+
+125,2015,All Causes,All causes,California,259206,621.6
+
+126,2014,All Causes,All causes,California,245929,605.7
+
+127,2013,All Causes,All causes,California,248359,630.1
+
+128,2012,All Causes,All causes,California,242554,630.4
+
+129,2011,All Causes,All causes,California,239942,641.3
+
+130,2010,All Causes,All causes,California,234012,646.7
+
+131,2009,All Causes,All causes,California,232736,655.5
+
+132,2008,All Causes,All causes,California,234766,677.9
+
+133,2007,All Causes,All causes,California,233720,691.7
+
+134,2006,All Causes,All causes,California,237126,718.2
+
+135,2005,All Causes,All causes,California,237037,730.7
+
+136,2004,All Causes,All causes,California,232525,734.3
+
+137,2003,All Causes,All causes,California,239371,768.4
+
+138,2002,All Causes,All causes,California,234565,770
+
+139,2001,All Causes,All causes,California,234044,783.2
+
+140,2000,All Causes,All causes,California,229551,787.9
+
+141,1999,All Causes,All causes,California,229380,802.3
+
+1060,2016,Alzheimer's disease (G30),Alzheimer's disease,California,15570,36.1
+
+1061,2015,Alzheimer's disease (G30),Alzheimer's disease,California,15065,35.7
+
+1062,2014,Alzheimer's disease (G30),Alzheimer's disease,California,12644,30.9
+
+1063,2013,Alzheimer's disease (G30),Alzheimer's disease,California,11891,30
+
+1064,2012,Alzheimer's disease (G30),Alzheimer's disease,California,11649,30
+
+1065,2011,Alzheimer's disease (G30),Alzheimer's disease,California,11555,30.7
+
+1066,2010,Alzheimer's disease (G30),Alzheimer's disease,California,10856,30.1
+
+1067,2009,Alzheimer's disease (G30),Alzheimer's disease,California,9905,28.1
+
+1068,2008,Alzheimer's disease (G30),Alzheimer's disease,California,10098,29.5
+
+1069,2007,Alzheimer's disease (G30),Alzheimer's disease,California,8497,25.6
+
+1070,2006,Alzheimer's disease (G30),Alzheimer's disease,California,8146,25.3
+
+1071,2005,Alzheimer's disease (G30),Alzheimer's disease,California,7706,24.6
+
+1072,2004,Alzheimer's disease (G30),Alzheimer's disease,California,6964,22.9
+
+1073,2003,Alzheimer's disease (G30),Alzheimer's disease,California,6585,22
+
+1074,2002,Alzheimer's disease (G30),Alzheimer's disease,California,5421,18.6
+
+1075,2001,Alzheimer's disease (G30),Alzheimer's disease,California,4935,17.2
+
+1076,2000,Alzheimer's disease (G30),Alzheimer's disease,California,4419,15.8
+
+1077,1999,Alzheimer's disease (G30),Alzheimer's disease,California,4532,16.6
+
+1996,2016,Malignant neoplasms (C00-C97),Cancer,California,59515,139.7
+
+1997,2015,Malignant neoplasms (C00-C97),Cancer,California,59629,142.8
+
+1998,2014,Malignant neoplasms (C00-C97),Cancer,California,58412,144.1
+
+1999,2013,Malignant neoplasms (C00-C97),Cancer,California,57714,147
+
+2000,2012,Malignant neoplasms (C00-C97),Cancer,California,57676,150.9
+
+2001,2011,Malignant neoplasms (C00-C97),Cancer,California,56449,152
+
+2002,2010,Malignant neoplasms (C00-C97),Cancer,California,56453,156.9
+
+2003,2009,Malignant neoplasms (C00-C97),Cancer,California,55991,158.8
+
+2004,2008,Malignant neoplasms (C00-C97),Cancer,California,54686,158.8
+
+2005,2007,Malignant neoplasms (C00-C97),Cancer,California,55011,163.8
+
+2006,2006,Malignant neoplasms (C00-C97),Cancer,California,54140,164.5
+
+2007,2005,Malignant neoplasms (C00-C97),Cancer,California,54732,168.9
+
+2008,2004,Malignant neoplasms (C00-C97),Cancer,California,53700,169.2
+
+2009,2003,Malignant neoplasms (C00-C97),Cancer,California,54319,174
+
+2010,2002,Malignant neoplasms (C00-C97),Cancer,California,54143,177.3
+
+2011,2001,Malignant neoplasms (C00-C97),Cancer,California,53924,180.2
+
+2012,2000,Malignant neoplasms (C00-C97),Cancer,California,53158,182.1
+
+2013,1999,Malignant neoplasms (C00-C97),Cancer,California,53067,184.9
+
+2932,2016,Chronic lower respiratory diseases (J40-J47),CLRD,California,13710,32.6
+
+2933,2015,Chronic lower respiratory diseases (J40-J47),CLRD,California,13621,33.1
+
+2934,2014,Chronic lower respiratory diseases (J40-J47),CLRD,California,12780,32
+
+2935,2013,Chronic lower respiratory diseases (J40-J47),CLRD,California,13598,35.3
+
+2936,2012,Chronic lower respiratory diseases (J40-J47),CLRD,California,12963,34.5
+
+2937,2011,Chronic lower respiratory diseases (J40-J47),CLRD,California,13357,36.7
+
+2938,2010,Chronic lower respiratory diseases (J40-J47),CLRD,California,12987,37
+
+2939,2009,Chronic lower respiratory diseases (J40-J47),CLRD,California,12936,37.5
+
+2940,2008,Chronic lower respiratory diseases (J40-J47),CLRD,California,13426,39.9
+
+2941,2007,Chronic lower respiratory diseases (J40-J47),CLRD,California,12532,38.3
+
+2942,2006,Chronic lower respiratory diseases (J40-J47),CLRD,California,12829,40.1
+
+2943,2005,Chronic lower respiratory diseases (J40-J47),CLRD,California,13188,41.8
+
+2944,2004,Chronic lower respiratory diseases (J40-J47),CLRD,California,12522,40.6
+
+2945,2003,Chronic lower respiratory diseases (J40-J47),CLRD,California,13448,44.2
+
+2946,2002,Chronic lower respiratory diseases (J40-J47),CLRD,California,12684,42.6
+
+2947,2001,Chronic lower respiratory diseases (J40-J47),CLRD,California,12965,44.4
+
+2948,2000,Chronic lower respiratory diseases (J40-J47),CLRD,California,12756,44.6
+
+2949,1999,Chronic lower respiratory diseases (J40-J47),CLRD,California,13165,46.9
+
+3868,2016,Diabetes mellitus (E10-E14),Diabetes,California,9124,21.4
+
+3869,2015,Diabetes mellitus (E10-E14),Diabetes,California,8845,21.2
+
+3870,2014,Diabetes mellitus (E10-E14),Diabetes,California,8249,20.4
+
+3871,2013,Diabetes mellitus (E10-E14),Diabetes,California,8057,20.6
+
+3872,2012,Diabetes mellitus (E10-E14),Diabetes,California,7895,20.7
+
+3873,2011,Diabetes mellitus (E10-E14),Diabetes,California,7695,20.7
+
+3874,2010,Diabetes mellitus (E10-E14),Diabetes,California,7061,19.7
+
+3875,2009,Diabetes mellitus (E10-E14),Diabetes,California,6979,19.8
+
+3876,2008,Diabetes mellitus (E10-E14),Diabetes,California,7375,21.5
+
+3877,2007,Diabetes mellitus (E10-E14),Diabetes,California,7413,22.2
+
+3878,2006,Diabetes mellitus (E10-E14),Diabetes,California,7376,22.5
+
+3879,2005,Diabetes mellitus (E10-E14),Diabetes,California,7697,23.8
+
+3880,2004,Diabetes mellitus (E10-E14),Diabetes,California,7117,22.6
+
+3881,2003,Diabetes mellitus (E10-E14),Diabetes,California,7093,22.8
+
+3882,2002,Diabetes mellitus (E10-E14),Diabetes,California,6807,22.5
+
+3883,2001,Diabetes mellitus (E10-E14),Diabetes,California,6395,21.5
+
+3884,2000,Diabetes mellitus (E10-E14),Diabetes,California,6190,21.3
+
+3885,1999,Diabetes mellitus (E10-E14),Diabetes,California,6401,22.5
+
+4804,2016,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,California,61573,143.1
+
+4805,2015,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,California,61289,145.6
+
+4806,2014,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,California,58189,142.2
+
+4807,2013,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,California,60299,151.8
+
+4808,2012,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,California,59371,153.3
+
+4809,2011,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,California,59772,159
+
+4810,2010,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,California,58641,161.9
+
+4811,2009,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,California,59206,166.9
+
+4812,2008,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,California,60709,176.2
+
+4813,2007,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,California,61690,183.9
+
+4814,2006,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,California,64871,198.8
+
+4815,2005,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,California,64916,203
+
+4816,2004,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,California,64999,209
+
+4817,2003,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,California,68864,225.1
+
+4818,2002,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,California,68797,230.4
+
+4819,2001,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,California,68234,233.6
+
+4820,2000,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,California,68426,239.9
+
+4821,1999,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,California,71930,257.3
+
+5740,2016,Influenza and pneumonia (J09-J18),Influenza and pneumonia,California,5981,14
+
+5741,2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,California,6188,14.8
+
+5742,2014,Influenza and pneumonia (J09-J18),Influenza and pneumonia,California,5970,14.7
+
+5743,2013,Influenza and pneumonia (J09-J18),Influenza and pneumonia,California,6551,16.6
+
+5744,2012,Influenza and pneumonia (J09-J18),Influenza and pneumonia,California,5849,15.2
+
+5745,2011,Influenza and pneumonia (J09-J18),Influenza and pneumonia,California,6200,16.6
+
+5746,2010,Influenza and pneumonia (J09-J18),Influenza and pneumonia,California,5882,16.4
+
+5747,2009,Influenza and pneumonia (J09-J18),Influenza and pneumonia,California,6394,18.1
+
+5748,2008,Influenza and pneumonia (J09-J18),Influenza and pneumonia,California,6560,19.2
+
+5749,2007,Influenza and pneumonia (J09-J18),Influenza and pneumonia,California,6546,19.7
+
+5750,2006,Influenza and pneumonia (J09-J18),Influenza and pneumonia,California,7338,22.7
+
+5751,2005,Influenza and pneumonia (J09-J18),Influenza and pneumonia,California,7553,23.8
+
+5752,2004,Influenza and pneumonia (J09-J18),Influenza and pneumonia,California,7323,23.8
+
+5753,2003,Influenza and pneumonia (J09-J18),Influenza and pneumonia,California,8185,27
+
+5754,2002,Influenza and pneumonia (J09-J18),Influenza and pneumonia,California,8128,27.5
+
+5755,2001,Influenza and pneumonia (J09-J18),Influenza and pneumonia,California,8129,28.1
+
+5756,2000,Influenza and pneumonia (J09-J18),Influenza and pneumonia,California,8324,29.5
+
+5757,1999,Influenza and pneumonia (J09-J18),Influenza and pneumonia,California,4560,16.5
+
+6676,2016,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,California,3640,8.6
+
+6677,2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,California,3557,8.6
+
+6678,2014,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,California,3119,7.7
+
+6679,2013,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,California,2840,7.2
+
+6680,2012,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,California,2728,7.2
+
+6681,2011,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,California,2599,7
+
+6682,2010,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,California,3112,8.7
+
+6683,2009,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,California,3033,8.6
+
+6684,2008,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,California,2854,8.3
+
+6685,2007,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,California,2835,8.5
+
+6686,2006,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,California,2676,8.2
+
+6687,2005,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,California,2482,7.7
+
+6688,2004,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,California,2373,7.6
+
+6689,2003,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,California,2334,7.6
+
+6690,2002,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,California,2164,7.2
+
+6691,2001,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,California,1994,6.8
+
+6692,2000,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,California,1785,6.2
+
+6693,1999,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,California,2261,8
+
+7612,2016,Cerebrovascular diseases (I60-I69),Stroke,California,15680,36.9
+
+7613,2015,Cerebrovascular diseases (I60-I69),Stroke,California,15065,36.2
+
+7614,2014,Cerebrovascular diseases (I60-I69),Stroke,California,13731,33.9
+
+7615,2013,Cerebrovascular diseases (I60-I69),Stroke,California,13698,34.9
+
+7616,2012,Cerebrovascular diseases (I60-I69),Stroke,California,13542,35.4
+
+7617,2011,Cerebrovascular diseases (I60-I69),Stroke,California,13503,36.4
+
+7618,2010,Cerebrovascular diseases (I60-I69),Stroke,California,13662,38.1
+
+7619,2009,Cerebrovascular diseases (I60-I69),Stroke,California,13506,38.5
+
+7620,2008,Cerebrovascular diseases (I60-I69),Stroke,California,14048,41.2
+
+7621,2007,Cerebrovascular diseases (I60-I69),Stroke,California,14557,43.7
+
+7622,2006,Cerebrovascular diseases (I60-I69),Stroke,California,15039,46.4
+
+7623,2005,Cerebrovascular diseases (I60-I69),Stroke,California,15585,49
+
+7624,2004,Cerebrovascular diseases (I60-I69),Stroke,California,16882,54.6
+
+7625,2003,Cerebrovascular diseases (I60-I69),Stroke,California,17692,58.2
+
+7626,2002,Cerebrovascular diseases (I60-I69),Stroke,California,17626,59.3
+
+7627,2001,Cerebrovascular diseases (I60-I69),Stroke,California,18088,62.1
+
+7628,2000,Cerebrovascular diseases (I60-I69),Stroke,California,18185,64
+
+7629,1999,Cerebrovascular diseases (I60-I69),Stroke,California,17962,64.5
+
+8548,2016,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,California,4294,10.5
+
+8549,2015,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,California,4167,10.3
+
+8550,2014,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,California,4214,10.5
+
+8551,2013,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,California,4025,10.2
+
+8552,2012,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,California,3893,10
+
+8553,2011,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,California,3996,10.4
+
+8554,2010,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,California,3913,10.3
+
+8555,2009,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,California,3823,10.2
+
+8556,2008,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,California,3775,10.3
+
+8557,2007,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,California,3602,9.9
+
+8558,2006,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,California,3334,9.3
+
+8559,2005,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,California,3206,9.1
+
+8560,2004,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,California,3368,9.7
+
+8561,2003,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,California,3397,9.9
+
+8562,2002,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,California,3228,9.6
+
+8563,2001,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,California,2831,8.5
+
+8564,2000,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,California,2969,9.1
+
+8565,1999,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,California,3077,9.6
+
+9480,2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,California,12544,30.6
+
+9481,2014,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,California,11804,29.2
+
+9482,2013,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,California,11538,29.2
+
+9483,2012,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,California,10906,28
+
+9484,2011,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,California,10824,28.3
+
+9485,2010,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,California,10435,27.8
+
+9486,2009,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,California,10860,29.4
+
+9487,2008,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,California,10761,29.5
+
+9488,2007,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,California,11614,32.3
+
+9489,2006,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,California,11375,32.1
+
+9490,2005,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,California,11129,31.7
+
+9491,2004,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,California,10633,30.8
+
+9492,2003,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,California,10471,30.7
+
+9493,2002,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,California,10107,30.1
+
+9494,2001,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,California,8132,24.5
+
+9495,2000,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,California,8577,26.5
+
+9496,1999,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,California,9198,28.7
+
+5,2016,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,California,13213,32
+
+124,2016,All Causes,All causes,California,262240,616.9
+
+125,2015,All Causes,All causes,California,259206,621.6
+
+126,2014,All Causes,All causes,California,245929,605.7
+
+127,2013,All Causes,All causes,California,248359,630.1
+
+128,2012,All Causes,All causes,California,242554,630.4
+
+129,2011,All Causes,All causes,California,239942,641.3
+
+130,2010,All Causes,All causes,California,234012,646.7
+
+131,2009,All Causes,All causes,California,232736,655.5
+
+132,2008,All Causes,All causes,California,234766,677.9
+
+133,2007,All Causes,All causes,California,233720,691.7
+
+134,2006,All Causes,All causes,California,237126,718.2
+
+135,2005,All Causes,All causes,California,237037,730.7
+
+136,2004,All Causes,All causes,California,232525,734.3
+
+137,2003,All Causes,All causes,California,239371,768.4
+
+138,2002,All Causes,All causes,California,234565,770
+
+139,2001,All Causes,All causes,California,234044,783.2
+
+140,2000,All Causes,All causes,California,229551,787.9
+
+141,1999,All Causes,All causes,California,229380,802.3
+
+1060,2016,Alzheimer's disease (G30),Alzheimer's disease,California,15570,36.1
+
+1061,2015,Alzheimer's disease (G30),Alzheimer's disease,California,15065,35.7
+
+1062,2014,Alzheimer's disease (G30),Alzheimer's disease,California,12644,30.9
+
+1063,2013,Alzheimer's disease (G30),Alzheimer's disease,California,11891,30
+
+1064,2012,Alzheimer's disease (G30),Alzheimer's disease,California,11649,30
+
+1065,2011,Alzheimer's disease (G30),Alzheimer's disease,California,11555,30.7
+
+1066,2010,Alzheimer's disease (G30),Alzheimer's disease,California,10856,30.1
+
+1067,2009,Alzheimer's disease (G30),Alzheimer's disease,California,9905,28.1
+
+1068,2008,Alzheimer's disease (G30),Alzheimer's disease,California,10098,29.5
+
+1069,2007,Alzheimer's disease (G30),Alzheimer's disease,California,8497,25.6
+
+1070,2006,Alzheimer's disease (G30),Alzheimer's disease,California,8146,25.3
+
+1071,2005,Alzheimer's disease (G30),Alzheimer's disease,California,7706,24.6
+
+1072,2004,Alzheimer's disease (G30),Alzheimer's disease,California,6964,22.9
+
+1073,2003,Alzheimer's disease (G30),Alzheimer's disease,California,6585,22
+
+1074,2002,Alzheimer's disease (G30),Alzheimer's disease,California,5421,18.6
+
+1075,2001,Alzheimer's disease (G30),Alzheimer's disease,California,4935,17.2
+
+1076,2000,Alzheimer's disease (G30),Alzheimer's disease,California,4419,15.8
+
+1077,1999,Alzheimer's disease (G30),Alzheimer's disease,California,4532,16.6
+
+1996,2016,Malignant neoplasms (C00-C97),Cancer,California,59515,139.7
+
+1997,2015,Malignant neoplasms (C00-C97),Cancer,California,59629,142.8
+
+1998,2014,Malignant neoplasms (C00-C97),Cancer,California,58412,144.1
+
+1999,2013,Malignant neoplasms (C00-C97),Cancer,California,57714,147
+
+2000,2012,Malignant neoplasms (C00-C97),Cancer,California,57676,150.9
+
+2001,2011,Malignant neoplasms (C00-C97),Cancer,California,56449,152
+
+2002,2010,Malignant neoplasms (C00-C97),Cancer,California,56453,156.9
+
+2003,2009,Malignant neoplasms (C00-C97),Cancer,California,55991,158.8
+
+2004,2008,Malignant neoplasms (C00-C97),Cancer,California,54686,158.8
+
+2005,2007,Malignant neoplasms (C00-C97),Cancer,California,55011,163.8
+
+2006,2006,Malignant neoplasms (C00-C97),Cancer,California,54140,164.5
+
+2007,2005,Malignant neoplasms (C00-C97),Cancer,California,54732,168.9
+
+2008,2004,Malignant neoplasms (C00-C97),Cancer,California,53700,169.2
+
+2009,2003,Malignant neoplasms (C00-C97),Cancer,California,54319,174
+
+2010,2002,Malignant neoplasms (C00-C97),Cancer,California,54143,177.3
+
+2011,2001,Malignant neoplasms (C00-C97),Cancer,California,53924,180.2
+
+2012,2000,Malignant neoplasms (C00-C97),Cancer,California,53158,182.1
+
+2013,1999,Malignant neoplasms (C00-C97),Cancer,California,53067,184.9
+
+2932,2016,Chronic lower respiratory diseases (J40-J47),CLRD,California,13710,32.6
+
+2933,2015,Chronic lower respiratory diseases (J40-J47),CLRD,California,13621,33.1
+
+2934,2014,Chronic lower respiratory diseases (J40-J47),CLRD,California,12780,32
+
+2935,2013,Chronic lower respiratory diseases (J40-J47),CLRD,California,13598,35.3
+
+2936,2012,Chronic lower respiratory diseases (J40-J47),CLRD,California,12963,34.5
+
+2937,2011,Chronic lower respiratory diseases (J40-J47),CLRD,California,13357,36.7
+
+2938,2010,Chronic lower respiratory diseases (J40-J47),CLRD,California,12987,37
+
+2939,2009,Chronic lower respiratory diseases (J40-J47),CLRD,California,12936,37.5
+
+2940,2008,Chronic lower respiratory diseases (J40-J47),CLRD,California,13426,39.9
+
+2941,2007,Chronic lower respiratory diseases (J40-J47),CLRD,California,12532,38.3
+
+2942,2006,Chronic lower respiratory diseases (J40-J47),CLRD,California,12829,40.1
+
+2943,2005,Chronic lower respiratory diseases (J40-J47),CLRD,California,13188,41.8
+
+2944,2004,Chronic lower respiratory diseases (J40-J47),CLRD,California,12522,40.6
+
+2945,2003,Chronic lower respiratory diseases (J40-J47),CLRD,California,13448,44.2
+
+2946,2002,Chronic lower respiratory diseases (J40-J47),CLRD,California,12684,42.6
+
+2947,2001,Chronic lower respiratory diseases (J40-J47),CLRD,California,12965,44.4
+
+2948,2000,Chronic lower respiratory diseases (J40-J47),CLRD,California,12756,44.6
+
+2949,1999,Chronic lower respiratory diseases (J40-J47),CLRD,California,13165,46.9
+
+3868,2016,Diabetes mellitus (E10-E14),Diabetes,California,9124,21.4
+
+3869,2015,Diabetes mellitus (E10-E14),Diabetes,California,8845,21.2
+
+3870,2014,Diabetes mellitus (E10-E14),Diabetes,California,8249,20.4
+
+3871,2013,Diabetes mellitus (E10-E14),Diabetes,California,8057,20.6
+
+3872,2012,Diabetes mellitus (E10-E14),Diabetes,California,7895,20.7
+
+3873,2011,Diabetes mellitus (E10-E14),Diabetes,California,7695,20.7
+
+3874,2010,Diabetes mellitus (E10-E14),Diabetes,California,7061,19.7
+
+3875,2009,Diabetes mellitus (E10-E14),Diabetes,California,6979,19.8
+
+3876,2008,Diabetes mellitus (E10-E14),Diabetes,California,7375,21.5
+
+3877,2007,Diabetes mellitus (E10-E14),Diabetes,California,7413,22.2
+
+3878,2006,Diabetes mellitus (E10-E14),Diabetes,California,7376,22.5
+
+3879,2005,Diabetes mellitus (E10-E14),Diabetes,California,7697,23.8
+
+3880,2004,Diabetes mellitus (E10-E14),Diabetes,California,7117,22.6
+
+3881,2003,Diabetes mellitus (E10-E14),Diabetes,California,7093,22.8
+
+3882,2002,Diabetes mellitus (E10-E14),Diabetes,California,6807,22.5
+
+3883,2001,Diabetes mellitus (E10-E14),Diabetes,California,6395,21.5
+
+3884,2000,Diabetes mellitus (E10-E14),Diabetes,California,6190,21.3
+
+3885,1999,Diabetes mellitus (E10-E14),Diabetes,California,6401,22.5
+
+4804,2016,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,California,61573,143.1
+
+4805,2015,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,California,61289,145.6
+
+4806,2014,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,California,58189,142.2
+
+4807,2013,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,California,60299,151.8
+
+4808,2012,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,California,59371,153.3
+
+4809,2011,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,California,59772,159
+
+4810,2010,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,California,58641,161.9
+
+4811,2009,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,California,59206,166.9
+
+4812,2008,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,California,60709,176.2
+
+4813,2007,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,California,61690,183.9
+
+4814,2006,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,California,64871,198.8
+
+4815,2005,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,California,64916,203
+
+4816,2004,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,California,64999,209
+
+4817,2003,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,California,68864,225.1
+
+4818,2002,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,California,68797,230.4
+
+4819,2001,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,California,68234,233.6
+
+4820,2000,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,California,68426,239.9
+
+4821,1999,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,California,71930,257.3
+
+5740,2016,Influenza and pneumonia (J09-J18),Influenza and pneumonia,California,5981,14
+
+5741,2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,California,6188,14.8
+
+5742,2014,Influenza and pneumonia (J09-J18),Influenza and pneumonia,California,5970,14.7
+
+5743,2013,Influenza and pneumonia (J09-J18),Influenza and pneumonia,California,6551,16.6
+
+5744,2012,Influenza and pneumonia (J09-J18),Influenza and pneumonia,California,5849,15.2
+
+5745,2011,Influenza and pneumonia (J09-J18),Influenza and pneumonia,California,6200,16.6
+
+5746,2010,Influenza and pneumonia (J09-J18),Influenza and pneumonia,California,5882,16.4
+
+5747,2009,Influenza and pneumonia (J09-J18),Influenza and pneumonia,California,6394,18.1
+
+5748,2008,Influenza and pneumonia (J09-J18),Influenza and pneumonia,California,6560,19.2
+
+5749,2007,Influenza and pneumonia (J09-J18),Influenza and pneumonia,California,6546,19.7
+
+5750,2006,Influenza and pneumonia (J09-J18),Influenza and pneumonia,California,7338,22.7
+
+5751,2005,Influenza and pneumonia (J09-J18),Influenza and pneumonia,California,7553,23.8
+
+5752,2004,Influenza and pneumonia (J09-J18),Influenza and pneumonia,California,7323,23.8
+
+5753,2003,Influenza and pneumonia (J09-J18),Influenza and pneumonia,California,8185,27
+
+5754,2002,Influenza and pneumonia (J09-J18),Influenza and pneumonia,California,8128,27.5
+
+5755,2001,Influenza and pneumonia (J09-J18),Influenza and pneumonia,California,8129,28.1
+
+5756,2000,Influenza and pneumonia (J09-J18),Influenza and pneumonia,California,8324,29.5
+
+5757,1999,Influenza and pneumonia (J09-J18),Influenza and pneumonia,California,4560,16.5
+
+6676,2016,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,California,3640,8.6
+
+6677,2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,California,3557,8.6
+
+6678,2014,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,California,3119,7.7
+
+6679,2013,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,California,2840,7.2
+
+6680,2012,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,California,2728,7.2
+
+6681,2011,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,California,2599,7
+
+6682,2010,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,California,3112,8.7
+
+6683,2009,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,California,3033,8.6
+
+6684,2008,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,California,2854,8.3
+
+6685,2007,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,California,2835,8.5
+
+6686,2006,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,California,2676,8.2
+
+6687,2005,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,California,2482,7.7
+
+6688,2004,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,California,2373,7.6
+
+6689,2003,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,California,2334,7.6
+
+6690,2002,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,California,2164,7.2
+
+6691,2001,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,California,1994,6.8
+
+6692,2000,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,California,1785,6.2
+
+6693,1999,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,California,2261,8
+
+7612,2016,Cerebrovascular diseases (I60-I69),Stroke,California,15680,36.9
+
+7613,2015,Cerebrovascular diseases (I60-I69),Stroke,California,15065,36.2
+
+7614,2014,Cerebrovascular diseases (I60-I69),Stroke,California,13731,33.9
+
+7615,2013,Cerebrovascular diseases (I60-I69),Stroke,California,13698,34.9
+
+7616,2012,Cerebrovascular diseases (I60-I69),Stroke,California,13542,35.4
+
+7617,2011,Cerebrovascular diseases (I60-I69),Stroke,California,13503,36.4
+
+7618,2010,Cerebrovascular diseases (I60-I69),Stroke,California,13662,38.1
+
+7619,2009,Cerebrovascular diseases (I60-I69),Stroke,California,13506,38.5
+
+7620,2008,Cerebrovascular diseases (I60-I69),Stroke,California,14048,41.2
+
+7621,2007,Cerebrovascular diseases (I60-I69),Stroke,California,14557,43.7
+
+7622,2006,Cerebrovascular diseases (I60-I69),Stroke,California,15039,46.4
+
+7623,2005,Cerebrovascular diseases (I60-I69),Stroke,California,15585,49
+
+7624,2004,Cerebrovascular diseases (I60-I69),Stroke,California,16882,54.6
+
+7625,2003,Cerebrovascular diseases (I60-I69),Stroke,California,17692,58.2
+
+7626,2002,Cerebrovascular diseases (I60-I69),Stroke,California,17626,59.3
+
+7627,2001,Cerebrovascular diseases (I60-I69),Stroke,California,18088,62.1
+
+7628,2000,Cerebrovascular diseases (I60-I69),Stroke,California,18185,64
+
+7629,1999,Cerebrovascular diseases (I60-I69),Stroke,California,17962,64.5
+
+8548,2016,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,California,4294,10.5
+
+8549,2015,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,California,4167,10.3
+
+8550,2014,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,California,4214,10.5
+
+8551,2013,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,California,4025,10.2
+
+8552,2012,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,California,3893,10
+
+8553,2011,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,California,3996,10.4
+
+8554,2010,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,California,3913,10.3
+
+8555,2009,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,California,3823,10.2
+
+8556,2008,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,California,3775,10.3
+
+8557,2007,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,California,3602,9.9
+
+8558,2006,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,California,3334,9.3
+
+8559,2005,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,California,3206,9.1
+
+8560,2004,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,California,3368,9.7
+
+8561,2003,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,California,3397,9.9
+
+8562,2002,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,California,3228,9.6
+
+8563,2001,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,California,2831,8.5
+
+8564,2000,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,California,2969,9.1
+
+8565,1999,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,California,3077,9.6
+
+9480,2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,California,12544,30.6
+
+9481,2014,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,California,11804,29.2
+
+9482,2013,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,California,11538,29.2
+
+9483,2012,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,California,10906,28
+
+9484,2011,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,California,10824,28.3
+
+9485,2010,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,California,10435,27.8
+
+9486,2009,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,California,10860,29.4
+
+9487,2008,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,California,10761,29.5
+
+9488,2007,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,California,11614,32.3
+
+9489,2006,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,California,11375,32.1
+
+9490,2005,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,California,11129,31.7
+
+9491,2004,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,California,10633,30.8
+
+9492,2003,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,California,10471,30.7
+
+9493,2002,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,California,10107,30.1
+
+9494,2001,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,California,8132,24.5
+
+9495,2000,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,California,8577,26.5
+
+9496,1999,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,California,9198,28.7
+
+5,2016,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,California,13213,32
+
+124,2016,All Causes,All causes,California,262240,616.9
+
+125,2015,All Causes,All causes,California,259206,621.6
+
+126,2014,All Causes,All causes,California,245929,605.7
+
+127,2013,All Causes,All causes,California,248359,630.1
+
+128,2012,All Causes,All causes,California,242554,630.4
+
+129,2011,All Causes,All causes,California,239942,641.3
+
+130,2010,All Causes,All causes,California,234012,646.7
+
+131,2009,All Causes,All causes,California,232736,655.5
+
+132,2008,All Causes,All causes,California,234766,677.9
+
+133,2007,All Causes,All causes,California,233720,691.7
+
+134,2006,All Causes,All causes,California,237126,718.2
+
+135,2005,All Causes,All causes,California,237037,730.7
+
+136,2004,All Causes,All causes,California,232525,734.3
+
+137,2003,All Causes,All causes,California,239371,768.4
+
+138,2002,All Causes,All causes,California,234565,770
+
+139,2001,All Causes,All causes,California,234044,783.2
+
+140,2000,All Causes,All causes,California,229551,787.9
+
+141,1999,All Causes,All causes,California,229380,802.3
+
+1060,2016,Alzheimer's disease (G30),Alzheimer's disease,California,15570,36.1
+
+1061,2015,Alzheimer's disease (G30),Alzheimer's disease,California,15065,35.7
+
+1062,2014,Alzheimer's disease (G30),Alzheimer's disease,California,12644,30.9
+
+1063,2013,Alzheimer's disease (G30),Alzheimer's disease,California,11891,30
+
+1064,2012,Alzheimer's disease (G30),Alzheimer's disease,California,11649,30
+
+1065,2011,Alzheimer's disease (G30),Alzheimer's disease,California,11555,30.7
+
+1066,2010,Alzheimer's disease (G30),Alzheimer's disease,California,10856,30.1
+
+1067,2009,Alzheimer's disease (G30),Alzheimer's disease,California,9905,28.1
+
+1068,2008,Alzheimer's disease (G30),Alzheimer's disease,California,10098,29.5
+
+1069,2007,Alzheimer's disease (G30),Alzheimer's disease,California,8497,25.6
+
+1070,2006,Alzheimer's disease (G30),Alzheimer's disease,California,8146,25.3
+
+1071,2005,Alzheimer's disease (G30),Alzheimer's disease,California,7706,24.6
+
+1072,2004,Alzheimer's disease (G30),Alzheimer's disease,California,6964,22.9
+
+1073,2003,Alzheimer's disease (G30),Alzheimer's disease,California,6585,22
+
+1074,2002,Alzheimer's disease (G30),Alzheimer's disease,California,5421,18.6
+
+1075,2001,Alzheimer's disease (G30),Alzheimer's disease,California,4935,17.2
+
+1076,2000,Alzheimer's disease (G30),Alzheimer's disease,California,4419,15.8
+
+1077,1999,Alzheimer's disease (G30),Alzheimer's disease,California,4532,16.6
+
+1996,2016,Malignant neoplasms (C00-C97),Cancer,California,59515,139.7
+
+1997,2015,Malignant neoplasms (C00-C97),Cancer,California,59629,142.8
+
+1998,2014,Malignant neoplasms (C00-C97),Cancer,California,58412,144.1
+
+1999,2013,Malignant neoplasms (C00-C97),Cancer,California,57714,147
+
+2000,2012,Malignant neoplasms (C00-C97),Cancer,California,57676,150.9
+
+2001,2011,Malignant neoplasms (C00-C97),Cancer,California,56449,152
+
+2002,2010,Malignant neoplasms (C00-C97),Cancer,California,56453,156.9
+
+2003,2009,Malignant neoplasms (C00-C97),Cancer,California,55991,158.8
+
+2004,2008,Malignant neoplasms (C00-C97),Cancer,California,54686,158.8
+
+2005,2007,Malignant neoplasms (C00-C97),Cancer,California,55011,163.8
+
+2006,2006,Malignant neoplasms (C00-C97),Cancer,California,54140,164.5
+
+2007,2005,Malignant neoplasms (C00-C97),Cancer,California,54732,168.9
+
+2008,2004,Malignant neoplasms (C00-C97),Cancer,California,53700,169.2
+
+2009,2003,Malignant neoplasms (C00-C97),Cancer,California,54319,174
+
+2010,2002,Malignant neoplasms (C00-C97),Cancer,California,54143,177.3
+
+2011,2001,Malignant neoplasms (C00-C97),Cancer,California,53924,180.2
+
+2012,2000,Malignant neoplasms (C00-C97),Cancer,California,53158,182.1
+
+2013,1999,Malignant neoplasms (C00-C97),Cancer,California,53067,184.9
+
+2932,2016,Chronic lower respiratory diseases (J40-J47),CLRD,California,13710,32.6
+
+2933,2015,Chronic lower respiratory diseases (J40-J47),CLRD,California,13621,33.1
+
+2934,2014,Chronic lower respiratory diseases (J40-J47),CLRD,California,12780,32
+
+2935,2013,Chronic lower respiratory diseases (J40-J47),CLRD,California,13598,35.3
+
+2936,2012,Chronic lower respiratory diseases (J40-J47),CLRD,California,12963,34.5
+
+2937,2011,Chronic lower respiratory diseases (J40-J47),CLRD,California,13357,36.7
+
+2938,2010,Chronic lower respiratory diseases (J40-J47),CLRD,California,12987,37
+
+2939,2009,Chronic lower respiratory diseases (J40-J47),CLRD,California,12936,37.5
+
+2940,2008,Chronic lower respiratory diseases (J40-J47),CLRD,California,13426,39.9
+
+2941,2007,Chronic lower respiratory diseases (J40-J47),CLRD,California,12532,38.3
+
+2942,2006,Chronic lower respiratory diseases (J40-J47),CLRD,California,12829,40.1
+
+2943,2005,Chronic lower respiratory diseases (J40-J47),CLRD,California,13188,41.8
+
+2944,2004,Chronic lower respiratory diseases (J40-J47),CLRD,California,12522,40.6
+
+2945,2003,Chronic lower respiratory diseases (J40-J47),CLRD,California,13448,44.2
+
+2946,2002,Chronic lower respiratory diseases (J40-J47),CLRD,California,12684,42.6
+
+2947,2001,Chronic lower respiratory diseases (J40-J47),CLRD,California,12965,44.4
+
+2948,2000,Chronic lower respiratory diseases (J40-J47),CLRD,California,12756,44.6
+
+2949,1999,Chronic lower respiratory diseases (J40-J47),CLRD,California,13165,46.9
+
+3868,2016,Diabetes mellitus (E10-E14),Diabetes,California,9124,21.4
+
+3869,2015,Diabetes mellitus (E10-E14),Diabetes,California,8845,21.2
+
+3870,2014,Diabetes mellitus (E10-E14),Diabetes,California,8249,20.4
+
+3871,2013,Diabetes mellitus (E10-E14),Diabetes,California,8057,20.6
+
+3872,2012,Diabetes mellitus (E10-E14),Diabetes,California,7895,20.7
+
+3873,2011,Diabetes mellitus (E10-E14),Diabetes,California,7695,20.7
+
+3874,2010,Diabetes mellitus (E10-E14),Diabetes,California,7061,19.7
+
+3875,2009,Diabetes mellitus (E10-E14),Diabetes,California,6979,19.8
+
+3876,2008,Diabetes mellitus (E10-E14),Diabetes,California,7375,21.5
+
+3877,2007,Diabetes mellitus (E10-E14),Diabetes,California,7413,22.2
+
+3878,2006,Diabetes mellitus (E10-E14),Diabetes,California,7376,22.5
+
+3879,2005,Diabetes mellitus (E10-E14),Diabetes,California,7697,23.8
+
+3880,2004,Diabetes mellitus (E10-E14),Diabetes,California,7117,22.6
+
+3881,2003,Diabetes mellitus (E10-E14),Diabetes,California,7093,22.8
+
+3882,2002,Diabetes mellitus (E10-E14),Diabetes,California,6807,22.5
+
+3883,2001,Diabetes mellitus (E10-E14),Diabetes,California,6395,21.5
+
+3884,2000,Diabetes mellitus (E10-E14),Diabetes,California,6190,21.3
+
+3885,1999,Diabetes mellitus (E10-E14),Diabetes,California,6401,22.5
+
+4804,2016,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,California,61573,143.1
+
+4805,2015,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,California,61289,145.6
+
+4806,2014,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,California,58189,142.2
+
+4807,2013,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,California,60299,151.8
+
+4808,2012,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,California,59371,153.3
+
+4809,2011,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,California,59772,159
+
+4810,2010,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,California,58641,161.9
+
+4811,2009,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,California,59206,166.9
+
+4812,2008,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,California,60709,176.2
+
+4813,2007,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,California,61690,183.9
+
+4814,2006,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,California,64871,198.8
+
+4815,2005,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,California,64916,203
+
+4816,2004,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,California,64999,209
+
+4817,2003,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,California,68864,225.1
+
+4818,2002,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,California,68797,230.4
+
+4819,2001,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,California,68234,233.6
+
+4820,2000,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,California,68426,239.9
+
+4821,1999,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,California,71930,257.3
+
+5740,2016,Influenza and pneumonia (J09-J18),Influenza and pneumonia,California,5981,14
+
+5741,2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,California,6188,14.8
+
+5742,2014,Influenza and pneumonia (J09-J18),Influenza and pneumonia,California,5970,14.7
+
+5743,2013,Influenza and pneumonia (J09-J18),Influenza and pneumonia,California,6551,16.6
+
+5744,2012,Influenza and pneumonia (J09-J18),Influenza and pneumonia,California,5849,15.2
+
+5745,2011,Influenza and pneumonia (J09-J18),Influenza and pneumonia,California,6200,16.6
+
+5746,2010,Influenza and pneumonia (J09-J18),Influenza and pneumonia,California,5882,16.4
+
+5747,2009,Influenza and pneumonia (J09-J18),Influenza and pneumonia,California,6394,18.1
+
+5748,2008,Influenza and pneumonia (J09-J18),Influenza and pneumonia,California,6560,19.2
+
+5749,2007,Influenza and pneumonia (J09-J18),Influenza and pneumonia,California,6546,19.7
+
+5750,2006,Influenza and pneumonia (J09-J18),Influenza and pneumonia,California,7338,22.7
+
+5751,2005,Influenza and pneumonia (J09-J18),Influenza and pneumonia,California,7553,23.8
+
+5752,2004,Influenza and pneumonia (J09-J18),Influenza and pneumonia,California,7323,23.8
+
+5753,2003,Influenza and pneumonia (J09-J18),Influenza and pneumonia,California,8185,27
+
+5754,2002,Influenza and pneumonia (J09-J18),Influenza and pneumonia,California,8128,27.5
+
+5755,2001,Influenza and pneumonia (J09-J18),Influenza and pneumonia,California,8129,28.1
+
+5756,2000,Influenza and pneumonia (J09-J18),Influenza and pneumonia,California,8324,29.5
+
+5757,1999,Influenza and pneumonia (J09-J18),Influenza and pneumonia,California,4560,16.5
+
+6676,2016,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,California,3640,8.6
+
+6677,2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,California,3557,8.6
+
+6678,2014,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,California,3119,7.7
+
+6679,2013,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,California,2840,7.2
+
+6680,2012,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,California,2728,7.2
+
+6681,2011,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,California,2599,7
+
+6682,2010,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,California,3112,8.7
+
+6683,2009,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,California,3033,8.6
+
+6684,2008,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,California,2854,8.3
+
+6685,2007,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,California,2835,8.5
+
+6686,2006,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,California,2676,8.2
+
+6687,2005,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,California,2482,7.7
+
+6688,2004,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,California,2373,7.6
+
+6689,2003,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,California,2334,7.6
+
+6690,2002,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,California,2164,7.2
+
+6691,2001,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,California,1994,6.8
+
+6692,2000,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,California,1785,6.2
+
+6693,1999,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,California,2261,8
+
+7612,2016,Cerebrovascular diseases (I60-I69),Stroke,California,15680,36.9
+
+7613,2015,Cerebrovascular diseases (I60-I69),Stroke,California,15065,36.2
+
+7614,2014,Cerebrovascular diseases (I60-I69),Stroke,California,13731,33.9
+
+7615,2013,Cerebrovascular diseases (I60-I69),Stroke,California,13698,34.9
+
+7616,2012,Cerebrovascular diseases (I60-I69),Stroke,California,13542,35.4
+
+7617,2011,Cerebrovascular diseases (I60-I69),Stroke,California,13503,36.4
+
+7618,2010,Cerebrovascular diseases (I60-I69),Stroke,California,13662,38.1
+
+7619,2009,Cerebrovascular diseases (I60-I69),Stroke,California,13506,38.5
+
+7620,2008,Cerebrovascular diseases (I60-I69),Stroke,California,14048,41.2
+
+7621,2007,Cerebrovascular diseases (I60-I69),Stroke,California,14557,43.7
+
+7622,2006,Cerebrovascular diseases (I60-I69),Stroke,California,15039,46.4
+
+7623,2005,Cerebrovascular diseases (I60-I69),Stroke,California,15585,49
+
+7624,2004,Cerebrovascular diseases (I60-I69),Stroke,California,16882,54.6
+
+7625,2003,Cerebrovascular diseases (I60-I69),Stroke,California,17692,58.2
+
+7626,2002,Cerebrovascular diseases (I60-I69),Stroke,California,17626,59.3
+
+7627,2001,Cerebrovascular diseases (I60-I69),Stroke,California,18088,62.1
+
+7628,2000,Cerebrovascular diseases (I60-I69),Stroke,California,18185,64
+
+7629,1999,Cerebrovascular diseases (I60-I69),Stroke,California,17962,64.5
+
+8548,2016,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,California,4294,10.5
+
+8549,2015,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,California,4167,10.3
+
+8550,2014,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,California,4214,10.5
+
+8551,2013,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,California,4025,10.2
+
+8552,2012,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,California,3893,10
+
+8553,2011,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,California,3996,10.4
+
+8554,2010,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,California,3913,10.3
+
+8555,2009,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,California,3823,10.2
+
+8556,2008,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,California,3775,10.3
+
+8557,2007,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,California,3602,9.9
+
+8558,2006,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,California,3334,9.3
+
+8559,2005,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,California,3206,9.1
+
+8560,2004,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,California,3368,9.7
+
+8561,2003,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,California,3397,9.9
+
+8562,2002,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,California,3228,9.6
+
+8563,2001,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,California,2831,8.5
+
+8564,2000,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,California,2969,9.1
+
+8565,1999,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,California,3077,9.6
+
+9480,2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,California,12544,30.6
+
+9481,2014,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,California,11804,29.2
+
+9482,2013,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,California,11538,29.2
+
+9483,2012,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,California,10906,28
+
+9484,2011,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,California,10824,28.3
+
+9485,2010,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,California,10435,27.8
+
+9486,2009,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,California,10860,29.4
+
+9487,2008,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,California,10761,29.5
+
+9488,2007,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,California,11614,32.3
+
+9489,2006,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,California,11375,32.1
+
+9490,2005,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,California,11129,31.7
+
+9491,2004,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,California,10633,30.8
+
+9492,2003,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,California,10471,30.7
+
+9493,2002,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,California,10107,30.1
+
+9494,2001,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,California,8132,24.5
+
+9495,2000,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,California,8577,26.5
+
+9496,1999,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,California,9198,28.7
+

@@ -1,0 +1,6 @@
+2488,2010,Malignant neoplasms (C00-C97),Cancer,New Mexico,3358,152.4
+
+5435,2016,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Rhode Island,2256,152.4
+
+5653,2013,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Wyoming,939,152.4
+

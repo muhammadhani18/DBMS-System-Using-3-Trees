@@ -1,0 +1,6 @@
+2175,1999,Malignant neoplasms (C00-C97),Cancer,Illinois,25024,210.4
+
+5427,2006,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Pennsylvania,33744,210.4
+
+5590,2004,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Virginia,14284,210.4
+

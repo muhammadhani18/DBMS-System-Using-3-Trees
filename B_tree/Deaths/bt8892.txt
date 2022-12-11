@@ -1,0 +1,4 @@
+2355,1999,Malignant neoplasms (C00-C97),Cancer,Minnesota,8892,187
+
+2355,1999,Malignant neoplasms (C00-C97),Cancer,Minnesota,8892,187
+

@@ -1,0 +1,8 @@
+4170,2002,Diabetes mellitus (E10-E14),Diabetes,Maryland,1519,30.1
+
+9513,1999,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Colorado,1519,39
+
+4170,2002,Diabetes mellitus (E10-E14),Diabetes,Maryland,1519,30.1
+
+9513,1999,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Colorado,1519,39
+

@@ -1,0 +1,2 @@
+5667,1999,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Wyoming,1009,227.8
+

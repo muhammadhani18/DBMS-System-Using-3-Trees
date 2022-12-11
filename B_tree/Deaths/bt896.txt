@@ -1,0 +1,8 @@
+3204,2014,Chronic lower respiratory diseases (J40-J47),CLRD,Maine,896,48.1
+
+5949,2005,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Iowa,896,22.4
+
+3204,2014,Chronic lower respiratory diseases (J40-J47),CLRD,Maine,896,48.1
+
+5949,2005,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Iowa,896,22.4
+

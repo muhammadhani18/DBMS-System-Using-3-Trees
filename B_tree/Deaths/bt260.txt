@@ -1,0 +1,36 @@
+1189,2013,Alzheimer's disease (G30),Alzheimer's disease,Hawaii,260,12.6
+
+1465,2007,Alzheimer's disease (G30),Alzheimer's disease,Montana,260,22.6
+
+6382,2004,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Rhode Island,260,19.3
+
+7287,1999,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Oregon,260,7.3
+
+8371,2013,Cerebrovascular diseases (I60-I69),Stroke,Vermont,260,31.7
+
+8379,2005,Cerebrovascular diseases (I60-I69),Stroke,Vermont,260,38.2
+
+8473,2001,Cerebrovascular diseases (I60-I69),Stroke,Wyoming,260,56.7
+
+8474,2000,Cerebrovascular diseases (I60-I69),Stroke,Wyoming,260,58.3
+
+8598,2002,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Connecticut,260,7.3
+
+1189,2013,Alzheimer's disease (G30),Alzheimer's disease,Hawaii,260,12.6
+
+1465,2007,Alzheimer's disease (G30),Alzheimer's disease,Montana,260,22.6
+
+6382,2004,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Rhode Island,260,19.3
+
+7287,1999,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Oregon,260,7.3
+
+8371,2013,Cerebrovascular diseases (I60-I69),Stroke,Vermont,260,31.7
+
+8379,2005,Cerebrovascular diseases (I60-I69),Stroke,Vermont,260,38.2
+
+8473,2001,Cerebrovascular diseases (I60-I69),Stroke,Wyoming,260,56.7
+
+8474,2000,Cerebrovascular diseases (I60-I69),Stroke,Wyoming,260,58.3
+
+8598,2002,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Connecticut,260,7.3
+

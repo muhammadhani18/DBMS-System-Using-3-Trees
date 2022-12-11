@@ -1,0 +1,4 @@
+5534,2008,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,United States,616828,192.1
+
+5534,2008,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,United States,616828,192.1
+

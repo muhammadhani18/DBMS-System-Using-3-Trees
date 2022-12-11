@@ -1,0 +1,20 @@
+3392,2006,Chronic lower respiratory diseases (J40-J47),CLRD,New Hampshire,603,44.9
+
+3684,2002,Chronic lower respiratory diseases (J40-J47),CLRD,Utah,603,38.1
+
+4765,2001,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Alaska,603,189.1
+
+6091,2007,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Minnesota,603,10.4
+
+6105,2011,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Mississippi,603,20.2
+
+3392,2006,Chronic lower respiratory diseases (J40-J47),CLRD,New Hampshire,603,44.9
+
+3684,2002,Chronic lower respiratory diseases (J40-J47),CLRD,Utah,603,38.1
+
+4765,2001,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Alaska,603,189.1
+
+6091,2007,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Minnesota,603,10.4
+
+6105,2011,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Mississippi,603,20.2
+

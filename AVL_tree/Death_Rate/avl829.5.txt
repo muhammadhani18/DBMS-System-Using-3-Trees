@@ -1,0 +1,4 @@
+353,2003,All Causes,All causes,Kansas,24593,829.5
+
+625,2001,All Causes,All causes,New Mexico,14129,829.5
+

@@ -1,0 +1,8 @@
+5667,1999,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Wyoming,1009,227.8
+
+9081,2005,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,North Carolina,1009,11.5
+
+5667,1999,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Wyoming,1009,227.8
+
+9081,2005,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,North Carolina,1009,11.5
+

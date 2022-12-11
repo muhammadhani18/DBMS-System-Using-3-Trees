@@ -1,0 +1,8 @@
+1937,2003,Malignant neoplasms (C00-C97),Cancer,Alabama,9812,208.2
+
+1958,2000,Malignant neoplasms (C00-C97),Cancer,Alaska,704,208.2
+
+2077,2007,Malignant neoplasms (C00-C97),Cancer,District of Columbia,1169,208.2
+
+5042,2012,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Kentucky,10024,208.2
+

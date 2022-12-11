@@ -1,0 +1,10 @@
+3387,2011,Chronic lower respiratory diseases (J40-J47),CLRD,New Hampshire,650,43.1
+
+4101,1999,Diabetes mellitus (E10-E14),Diabetes,Kansas,650,23
+
+5773,2001,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Colorado,650,19.3
+
+8980,2016,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Nevada,650,21.4
+
+10194,1999,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Utah,650,33.4
+

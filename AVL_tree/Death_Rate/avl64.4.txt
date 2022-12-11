@@ -1,0 +1,4 @@
+7791,1999,Cerebrovascular diseases (I60-I69),Stroke,Illinois,7714,64.4
+
+9943,2011,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,New Mexico,1336,64.4
+

@@ -1,0 +1,4 @@
+3792,2002,Chronic lower respiratory diseases (J40-J47),CLRD,Wyoming,324,68.7
+
+9996,2009,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,North Dakota,324,44.1
+

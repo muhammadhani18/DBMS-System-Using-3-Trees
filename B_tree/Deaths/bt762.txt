@@ -1,0 +1,24 @@
+6661,2013,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arkansas,762,22
+
+7755,1999,Cerebrovascular diseases (I60-I69),Stroke,Hawaii,762,64.2
+
+7769,2003,Cerebrovascular diseases (I60-I69),Stroke,Idaho,762,60.5
+
+9143,2015,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Oregon,762,17.8
+
+9245,2003,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Tennessee,762,12.9
+
+9884,2002,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Nebraska,762,41.7
+
+6661,2013,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arkansas,762,22
+
+7755,1999,Cerebrovascular diseases (I60-I69),Stroke,Hawaii,762,64.2
+
+7769,2003,Cerebrovascular diseases (I60-I69),Stroke,Idaho,762,60.5
+
+9143,2015,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Oregon,762,17.8
+
+9245,2003,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Tennessee,762,12.9
+
+9884,2002,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Nebraska,762,41.7
+

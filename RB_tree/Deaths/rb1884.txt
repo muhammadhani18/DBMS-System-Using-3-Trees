@@ -1,0 +1,4 @@
+1247,2009,Alzheimer's disease (G30),Alzheimer's disease,Indiana,1884,27.4
+
+7604,2006,Cerebrovascular diseases (I60-I69),Stroke,Arkansas,1884,61.2
+

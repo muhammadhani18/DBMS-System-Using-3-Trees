@@ -1,0 +1,4 @@
+1358,2006,Alzheimer's disease (G30),Alzheimer's disease,Maryland,915,17.3
+
+6005,2003,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Louisiana,915,22.7
+

@@ -1,0 +1,8 @@
+6562,2004,Influenza and pneumonia (J09-J18),Influenza and pneumonia,West Virginia,474,22.2
+
+7470,2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Washington,474,5.9
+
+8064,2014,Cerebrovascular diseases (I60-I69),Stroke,New Hampshire,474,28.9
+
+8852,2000,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Maryland,474,9
+

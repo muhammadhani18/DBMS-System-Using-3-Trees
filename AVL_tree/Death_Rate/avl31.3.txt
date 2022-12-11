@@ -1,0 +1,22 @@
+1079,2015,Alzheimer's disease (G30),Alzheimer's disease,Colorado,1612,31.3
+
+1258,2016,Alzheimer's disease (G30),Alzheimer's disease,Iowa,1415,31.3
+
+1301,2009,Alzheimer's disease (G30),Alzheimer's disease,Kentucky,1345,31.3
+
+1345,2001,Alzheimer's disease (G30),Alzheimer's disease,Maine,471,31.3
+
+3020,2000,Chronic lower respiratory diseases (J40-J47),CLRD,District of Columbia,175,31.3
+
+3445,2007,Chronic lower respiratory diseases (J40-J47),CLRD,New York,6561,31.3
+
+3562,2016,Chronic lower respiratory diseases (J40-J47),CLRD,Rhode Island,445,31.3
+
+4172,2000,Diabetes mellitus (E10-E14),Diabetes,Maryland,1515,31.3
+
+5991,1999,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Kentucky,1198,31.3
+
+7924,2010,Cerebrovascular diseases (I60-I69),Stroke,Massachusetts,2516,31.3
+
+9551,2012,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,District of Columbia,194,31.3
+

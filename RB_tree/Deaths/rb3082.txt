@@ -1,0 +1,4 @@
+1024,2016,Alzheimer's disease (G30),Alzheimer's disease,Arizona,3082,35.8
+
+7798,2010,Cerebrovascular diseases (I60-I69),Stroke,Indiana,3082,44.5
+

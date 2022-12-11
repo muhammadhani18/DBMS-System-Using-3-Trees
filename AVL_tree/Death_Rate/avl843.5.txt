@@ -1,0 +1,4 @@
+83,2003,All Causes,All causes,Alaska,3180,843.5
+
+857,2003,All Causes,All causes,United States,2448288,843.5
+

@@ -1,0 +1,8 @@
+2128,2010,Malignant neoplasms (C00-C97),Cancer,Hawaii,2266,140.9
+
+2745,2005,Malignant neoplasms (C00-C97),Cancer,Utah,2520,140.9
+
+2842,2016,Malignant neoplasms (C00-C97),Cancer,Wyoming,962,140.9
+
+5345,2016,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,North Dakota,1338,140.9
+

@@ -1,0 +1,30 @@
+1151,2015,Alzheimer's disease (G30),Alzheimer's disease,Florida,7031,21.8
+
+1273,2001,Alzheimer's disease (G30),Alzheimer's disease,Iowa,863,21.8
+
+4144,2010,Diabetes mellitus (E10-E14),Diabetes,Maine,376,21.8
+
+4147,2007,Diabetes mellitus (E10-E14),Diabetes,Maine,355,21.8
+
+4289,2009,Diabetes mellitus (E10-E14),Diabetes,Nebraska,445,21.8
+
+4393,2013,Diabetes mellitus (E10-E14),Diabetes,North Carolina,2402,21.8
+
+4518,2014,Diabetes mellitus (E10-E14),Diabetes,South Carolina,1239,21.8
+
+5727,2011,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arkansas,727,21.8
+
+6170,2000,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Nebraska,433,21.8
+
+6222,2002,Influenza and pneumonia (J09-J18),Influenza and pneumonia,New Jersey,1973,21.8
+
+6595,2007,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wyoming,113,21.8
+
+7120,2004,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Nevada,425,21.8
+
+8950,2010,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Montana,227,21.8
+
+9286,2016,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Utah,620,21.8
+
+9407,2003,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wyoming,109,21.8
+

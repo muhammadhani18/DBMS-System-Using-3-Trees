@@ -1,0 +1,8 @@
+38,2016,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Oklahoma,2592,64.1
+
+3240,2014,Chronic lower respiratory diseases (J40-J47),CLRD,Massachusetts,2592,31.4
+
+38,2016,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Oklahoma,2592,64.1
+
+3240,2014,Chronic lower respiratory diseases (J40-J47),CLRD,Massachusetts,2592,31.4
+

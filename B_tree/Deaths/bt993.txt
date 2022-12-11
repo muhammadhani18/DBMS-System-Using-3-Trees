@@ -1,0 +1,16 @@
+1643,2009,Alzheimer's disease (G30),Alzheimer's disease,Oklahoma,993,25.8
+
+6918,2008,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Kentucky,993,22.6
+
+6943,2001,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Louisiana,993,24.3
+
+7508,2013,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wisconsin,993,14
+
+1643,2009,Alzheimer's disease (G30),Alzheimer's disease,Oklahoma,993,25.8
+
+6918,2008,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Kentucky,993,22.6
+
+6943,2001,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Louisiana,993,24.3
+
+7508,2013,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wisconsin,993,14
+

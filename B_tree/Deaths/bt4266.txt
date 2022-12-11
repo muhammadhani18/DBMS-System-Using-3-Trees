@@ -1,0 +1,12 @@
+979,2007,All Causes,All causes,Wyoming,4266,806.5
+
+3115,2013,Chronic lower respiratory diseases (J40-J47),CLRD,Indiana,4266,58.4
+
+8312,2000,Cerebrovascular diseases (I60-I69),Stroke,Tennessee,4266,78.5
+
+979,2007,All Causes,All causes,Wyoming,4266,806.5
+
+3115,2013,Chronic lower respiratory diseases (J40-J47),CLRD,Indiana,4266,58.4
+
+8312,2000,Cerebrovascular diseases (I60-I69),Stroke,Tennessee,4266,78.5
+

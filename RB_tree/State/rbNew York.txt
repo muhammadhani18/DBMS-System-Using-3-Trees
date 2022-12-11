@@ -1,0 +1,396 @@
+33,2016,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,New York,7354,34.2
+
+628,2016,All Causes,All causes,New York,154358,640.7
+
+629,2015,All Causes,All causes,New York,153628,644
+
+630,2014,All Causes,All causes,New York,149944,636.5
+
+631,2013,All Causes,All causes,New York,150919,649.3
+
+632,2012,All Causes,All causes,New York,148991,652.1
+
+633,2011,All Causes,All causes,New York,149174,665.4
+
+634,2010,All Causes,All causes,New York,146432,665.5
+
+635,2009,All Causes,All causes,New York,146475,674.6
+
+636,2008,All Causes,All causes,New York,148698,693.7
+
+637,2007,All Causes,All causes,New York,147680,698.9
+
+638,2006,All Causes,All causes,New York,148806,713.7
+
+639,2005,All Causes,All causes,New York,152427,738
+
+640,2004,All Causes,All causes,New York,152681,748.4
+
+641,2003,All Causes,All causes,New York,155877,771.1
+
+642,2002,All Causes,All causes,New York,158118,791.4
+
+643,2001,All Causes,All causes,New York,159240,806.6
+
+644,2000,All Causes,All causes,New York,158203,813.6
+
+645,1999,All Causes,All causes,New York,159927,833.4
+
+1564,2016,Alzheimer's disease (G30),Alzheimer's disease,New York,3349,13.1
+
+1565,2015,Alzheimer's disease (G30),Alzheimer's disease,New York,3174,12.6
+
+1566,2014,Alzheimer's disease (G30),Alzheimer's disease,New York,2639,10.7
+
+1567,2013,Alzheimer's disease (G30),Alzheimer's disease,New York,2556,10.4
+
+1568,2012,Alzheimer's disease (G30),Alzheimer's disease,New York,2640,10.9
+
+1569,2011,Alzheimer's disease (G30),Alzheimer's disease,New York,2563,10.8
+
+1570,2010,Alzheimer's disease (G30),Alzheimer's disease,New York,2616,11.3
+
+1571,2009,Alzheimer's disease (G30),Alzheimer's disease,New York,2396,10.5
+
+1572,2008,Alzheimer's disease (G30),Alzheimer's disease,New York,2303,10.3
+
+1573,2007,Alzheimer's disease (G30),Alzheimer's disease,New York,1999,9.1
+
+1574,2006,Alzheimer's disease (G30),Alzheimer's disease,New York,2021,9.4
+
+1575,2005,Alzheimer's disease (G30),Alzheimer's disease,New York,2065,9.7
+
+1576,2004,Alzheimer's disease (G30),Alzheimer's disease,New York,1989,9.5
+
+1577,2003,Alzheimer's disease (G30),Alzheimer's disease,New York,1866,9
+
+1578,2002,Alzheimer's disease (G30),Alzheimer's disease,New York,1803,8.9
+
+1579,2001,Alzheimer's disease (G30),Alzheimer's disease,New York,1705,8.5
+
+1580,2000,Alzheimer's disease (G30),Alzheimer's disease,New York,1539,7.8
+
+1581,1999,Alzheimer's disease (G30),Alzheimer's disease,New York,1357,7
+
+2500,2016,Malignant neoplasms (C00-C97),Cancer,New York,35368,147.5
+
+2501,2015,Malignant neoplasms (C00-C97),Cancer,New York,35089,148.4
+
+2502,2014,Malignant neoplasms (C00-C97),Cancer,New York,35392,151.8
+
+2503,2013,Malignant neoplasms (C00-C97),Cancer,New York,35738,155.9
+
+2504,2012,Malignant neoplasms (C00-C97),Cancer,New York,35882,159.4
+
+2505,2011,Malignant neoplasms (C00-C97),Cancer,New York,35469,160.6
+
+2506,2010,Malignant neoplasms (C00-C97),Cancer,New York,35431,163.1
+
+2507,2009,Malignant neoplasms (C00-C97),Cancer,New York,35216,164.2
+
+2508,2008,Malignant neoplasms (C00-C97),Cancer,New York,35351,166.9
+
+2509,2007,Malignant neoplasms (C00-C97),Cancer,New York,35485,169.8
+
+2510,2006,Malignant neoplasms (C00-C97),Cancer,New York,35284,170.9
+
+2511,2005,Malignant neoplasms (C00-C97),Cancer,New York,35556,173.4
+
+2512,2004,Malignant neoplasms (C00-C97),Cancer,New York,36100,177.8
+
+2513,2003,Malignant neoplasms (C00-C97),Cancer,New York,36238,180.2
+
+2514,2002,Malignant neoplasms (C00-C97),Cancer,New York,36661,184.4
+
+2515,2001,Malignant neoplasms (C00-C97),Cancer,New York,36975,188.4
+
+2516,2000,Malignant neoplasms (C00-C97),Cancer,New York,37198,192.2
+
+2517,1999,Malignant neoplasms (C00-C97),Cancer,New York,37609,196.6
+
+3436,2016,Chronic lower respiratory diseases (J40-J47),CLRD,New York,6860,28.4
+
+3437,2015,Chronic lower respiratory diseases (J40-J47),CLRD,New York,7109,29.9
+
+3438,2014,Chronic lower respiratory diseases (J40-J47),CLRD,New York,6806,29.1
+
+3439,2013,Chronic lower respiratory diseases (J40-J47),CLRD,New York,7110,30.7
+
+3440,2012,Chronic lower respiratory diseases (J40-J47),CLRD,New York,7034,31.1
+
+3441,2011,Chronic lower respiratory diseases (J40-J47),CLRD,New York,6963,31.5
+
+3442,2010,Chronic lower respiratory diseases (J40-J47),CLRD,New York,6847,31.4
+
+3443,2009,Chronic lower respiratory diseases (J40-J47),CLRD,New York,6740,31.4
+
+3444,2008,Chronic lower respiratory diseases (J40-J47),CLRD,New York,6919,32.6
+
+3445,2007,Chronic lower respiratory diseases (J40-J47),CLRD,New York,6561,31.3
+
+3446,2006,Chronic lower respiratory diseases (J40-J47),CLRD,New York,6329,30.5
+
+3447,2005,Chronic lower respiratory diseases (J40-J47),CLRD,New York,6818,33.2
+
+3448,2004,Chronic lower respiratory diseases (J40-J47),CLRD,New York,6786,33.4
+
+3449,2003,Chronic lower respiratory diseases (J40-J47),CLRD,New York,6709,33.3
+
+3450,2002,Chronic lower respiratory diseases (J40-J47),CLRD,New York,6966,34.9
+
+3451,2001,Chronic lower respiratory diseases (J40-J47),CLRD,New York,6906,35
+
+3452,2000,Chronic lower respiratory diseases (J40-J47),CLRD,New York,6784,34.9
+
+3453,1999,Chronic lower respiratory diseases (J40-J47),CLRD,New York,7086,36.9
+
+4372,2016,Diabetes mellitus (E10-E14),Diabetes,New York,4038,16.9
+
+4373,2015,Diabetes mellitus (E10-E14),Diabetes,New York,4045,17.1
+
+4374,2014,Diabetes mellitus (E10-E14),Diabetes,New York,4064,17.4
+
+4375,2013,Diabetes mellitus (E10-E14),Diabetes,New York,4094,17.8
+
+4376,2012,Diabetes mellitus (E10-E14),Diabetes,New York,4010,17.7
+
+4377,2011,Diabetes mellitus (E10-E14),Diabetes,New York,3988,18
+
+4378,2010,Diabetes mellitus (E10-E14),Diabetes,New York,3642,16.7
+
+4379,2009,Diabetes mellitus (E10-E14),Diabetes,New York,3723,17.3
+
+4380,2008,Diabetes mellitus (E10-E14),Diabetes,New York,3605,16.9
+
+4381,2007,Diabetes mellitus (E10-E14),Diabetes,New York,3715,17.7
+
+4382,2006,Diabetes mellitus (E10-E14),Diabetes,New York,3848,18.6
+
+4383,2005,Diabetes mellitus (E10-E14),Diabetes,New York,4051,19.7
+
+4384,2004,Diabetes mellitus (E10-E14),Diabetes,New York,3913,19.2
+
+4385,2003,Diabetes mellitus (E10-E14),Diabetes,New York,4227,21
+
+4386,2002,Diabetes mellitus (E10-E14),Diabetes,New York,3934,19.7
+
+4387,2001,Diabetes mellitus (E10-E14),Diabetes,New York,3844,19.5
+
+4388,2000,Diabetes mellitus (E10-E14),Diabetes,New York,3877,20
+
+4389,1999,Diabetes mellitus (E10-E14),Diabetes,New York,3799,19.8
+
+5309,2016,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,New York,44076,177.8
+
+5310,2015,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,New York,44450,181.6
+
+5311,2014,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,New York,43116,178.3
+
+5312,2013,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,New York,44039,184.8
+
+5313,2012,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,New York,43795,186.5
+
+5314,2011,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,New York,44501,193.8
+
+5315,2010,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,New York,44981,200
+
+5316,2009,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,New York,47283,213.2
+
+5317,2008,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,New York,49324,225.8
+
+5318,2007,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,New York,49528,230.4
+
+5319,2006,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,New York,50470,238.2
+
+5320,2005,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,New York,51985,248.3
+
+5321,2004,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,New York,52480,254.6
+
+5322,2003,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,New York,55276,270.9
+
+5323,2002,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,New York,56672,281.4
+
+5324,2001,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,New York,56643,284.9
+
+5325,2000,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,New York,57474,293.8
+
+5326,1999,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,New York,58987,306.1
+
+6244,2016,Influenza and pneumonia (J09-J18),Influenza and pneumonia,New York,4513,18.3
+
+6245,2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,New York,4881,20
+
+6246,2014,Influenza and pneumonia (J09-J18),Influenza and pneumonia,New York,4702,19.5
+
+6247,2013,Influenza and pneumonia (J09-J18),Influenza and pneumonia,New York,4892,20.5
+
+6248,2012,Influenza and pneumonia (J09-J18),Influenza and pneumonia,New York,4404,18.8
+
+6249,2011,Influenza and pneumonia (J09-J18),Influenza and pneumonia,New York,4915,21.4
+
+6250,2010,Influenza and pneumonia (J09-J18),Influenza and pneumonia,New York,4642,20.6
+
+6251,2009,Influenza and pneumonia (J09-J18),Influenza and pneumonia,New York,4527,20.5
+
+6252,2008,Influenza and pneumonia (J09-J18),Influenza and pneumonia,New York,4609,21
+
+6253,2007,Influenza and pneumonia (J09-J18),Influenza and pneumonia,New York,4431,20.5
+
+6254,2006,Influenza and pneumonia (J09-J18),Influenza and pneumonia,New York,4892,23
+
+6255,2005,Influenza and pneumonia (J09-J18),Influenza and pneumonia,New York,5521,26.3
+
+6256,2004,Influenza and pneumonia (J09-J18),Influenza and pneumonia,New York,5499,26.6
+
+6257,2003,Influenza and pneumonia (J09-J18),Influenza and pneumonia,New York,5335,26.1
+
+6258,2002,Influenza and pneumonia (J09-J18),Influenza and pneumonia,New York,5368,26.6
+
+6259,2001,Influenza and pneumonia (J09-J18),Influenza and pneumonia,New York,5085,25.5
+
+6260,2000,Influenza and pneumonia (J09-J18),Influenza and pneumonia,New York,5201,26.5
+
+6261,1999,Influenza and pneumonia (J09-J18),Influenza and pneumonia,New York,5482,28.4
+
+7180,2016,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,New York,2385,9.8
+
+7181,2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,New York,2245,9.3
+
+7182,2014,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,New York,2207,9.3
+
+7183,2013,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,New York,2285,9.7
+
+7184,2012,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,New York,2240,9.8
+
+7185,2011,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,New York,2197,9.7
+
+7186,2010,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,New York,2439,11
+
+7187,2009,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,New York,2426,11.1
+
+7188,2008,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,New York,2394,11.1
+
+7189,2007,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,New York,2387,11.2
+
+7190,2006,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,New York,2351,11.2
+
+7191,2005,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,New York,2360,11.4
+
+7192,2004,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,New York,2383,11.6
+
+7193,2003,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,New York,2415,11.9
+
+7194,2002,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,New York,2465,12.3
+
+7195,2001,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,New York,2421,12.2
+
+7196,2000,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,New York,2440,12.5
+
+7197,1999,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,New York,2302,12
+
+8116,2016,Cerebrovascular diseases (I60-I69),Stroke,New York,6258,25.5
+
+8117,2015,Cerebrovascular diseases (I60-I69),Stroke,New York,6292,26
+
+8118,2014,Cerebrovascular diseases (I60-I69),Stroke,New York,6212,26.1
+
+8119,2013,Cerebrovascular diseases (I60-I69),Stroke,New York,6176,26.3
+
+8120,2012,Cerebrovascular diseases (I60-I69),Stroke,New York,6139,26.6
+
+8121,2011,Cerebrovascular diseases (I60-I69),Stroke,New York,6254,27.6
+
+8122,2010,Cerebrovascular diseases (I60-I69),Stroke,New York,6213,27.9
+
+8123,2009,Cerebrovascular diseases (I60-I69),Stroke,New York,5950,27
+
+8124,2008,Cerebrovascular diseases (I60-I69),Stroke,New York,6123,28.2
+
+8125,2007,Cerebrovascular diseases (I60-I69),Stroke,New York,6160,28.8
+
+8126,2006,Cerebrovascular diseases (I60-I69),Stroke,New York,6398,30.4
+
+8127,2005,Cerebrovascular diseases (I60-I69),Stroke,New York,6622,31.7
+
+8128,2004,Cerebrovascular diseases (I60-I69),Stroke,New York,6927,33.7
+
+8129,2003,Cerebrovascular diseases (I60-I69),Stroke,New York,7281,35.7
+
+8130,2002,Cerebrovascular diseases (I60-I69),Stroke,New York,7625,37.9
+
+8131,2001,Cerebrovascular diseases (I60-I69),Stroke,New York,7706,38.8
+
+8132,2000,Cerebrovascular diseases (I60-I69),Stroke,New York,8006,40.9
+
+8133,1999,Cerebrovascular diseases (I60-I69),Stroke,New York,8124,42.2
+
+9052,2016,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,New York,1679,8.1
+
+9053,2015,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,New York,1652,7.8
+
+9054,2014,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,New York,1700,8.1
+
+9055,2013,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,New York,1687,8.1
+
+9056,2012,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,New York,1708,8.3
+
+9057,2011,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,New York,1658,8.2
+
+9058,2010,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,New York,1547,7.7
+
+9059,2009,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,New York,1417,7
+
+9060,2008,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,New York,1409,7.1
+
+9061,2007,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,New York,1396,7.1
+
+9062,2006,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,New York,1326,6.7
+
+9063,2005,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,New York,1189,6
+
+9064,2004,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,New York,1187,6
+
+9065,2003,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,New York,1169,5.9
+
+9066,2002,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,New York,1228,6.3
+
+9067,2001,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,New York,1253,6.5
+
+9068,2000,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,New York,1132,5.9
+
+9069,1999,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,New York,1196,6.3
+
+9956,2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,New York,6515,30.2
+
+9957,2014,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,New York,5945,27.6
+
+9958,2013,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,New York,5927,27.8
+
+9959,2012,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,New York,5786,27.4
+
+9960,2011,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,New York,5537,26.4
+
+9961,2010,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,New York,5004,24.2
+
+9962,2009,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,New York,4891,23.9
+
+9963,2008,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,New York,5042,24.8
+
+9964,2007,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,New York,5160,25.7
+
+9965,2006,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,New York,5235,26.2
+
+9966,2005,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,New York,4645,23.3
+
+9967,2004,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,New York,4530,22.9
+
+9968,2003,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,New York,4708,23.9
+
+9969,2002,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,New York,4663,23.9
+
+9970,2001,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,New York,4982,25.7
+
+9971,2000,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,New York,4244,22
+
+9972,1999,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,New York,4797,25.2
+

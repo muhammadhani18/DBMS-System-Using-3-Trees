@@ -1,0 +1,8 @@
+2169,2005,Malignant neoplasms (C00-C97),Cancer,Illinois,24250,192.1
+
+2639,2003,Malignant neoplasms (C00-C97),Cancer,Rhode Island,2328,192.1
+
+5183,2016,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Missouri,14579,192.1
+
+5534,2008,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,United States,616828,192.1
+

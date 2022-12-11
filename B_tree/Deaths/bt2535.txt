@@ -1,0 +1,8 @@
+3248,2006,Chronic lower respiratory diseases (J40-J47),CLRD,Massachusetts,2535,34.8
+
+7590,2002,Cerebrovascular diseases (I60-I69),Stroke,Arizona,2535,49.1
+
+3248,2006,Chronic lower respiratory diseases (J40-J47),CLRD,Massachusetts,2535,34.8
+
+7590,2002,Cerebrovascular diseases (I60-I69),Stroke,Arizona,2535,49.1
+

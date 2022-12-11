@@ -1,0 +1,16 @@
+1147,2001,Alzheimer's disease (G30),Alzheimer's disease,District of Columbia,99,17.5
+
+6586,2016,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wyoming,99,15
+
+6587,2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wyoming,99,16
+
+6837,1999,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Idaho,99,8.6
+
+1147,2001,Alzheimer's disease (G30),Alzheimer's disease,District of Columbia,99,17.5
+
+6586,2016,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wyoming,99,15
+
+6587,2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wyoming,99,16
+
+6837,1999,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Idaho,99,8.6
+

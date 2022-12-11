@@ -1,0 +1,12 @@
+4114,2004,Diabetes mellitus (E10-E14),Diabetes,Kentucky,1195,28.6
+
+6520,2010,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Virginia,1195,15.5
+
+6936,2008,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Louisiana,1195,27.7
+
+4114,2004,Diabetes mellitus (E10-E14),Diabetes,Kentucky,1195,28.6
+
+6520,2010,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Virginia,1195,15.5
+
+6936,2008,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Louisiana,1195,27.7
+

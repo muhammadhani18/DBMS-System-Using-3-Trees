@@ -1,0 +1,8 @@
+2381,2009,Malignant neoplasms (C00-C97),Cancer,Missouri,12472,185.7
+
+4735,2013,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Alabama,12472,228.4
+
+2381,2009,Malignant neoplasms (C00-C97),Cancer,Missouri,12472,185.7
+
+4735,2013,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Alabama,12472,228.4
+

@@ -1,0 +1,12 @@
+1300,2010,Alzheimer's disease (G30),Alzheimer's disease,Kentucky,1464,33.5
+
+2975,2009,Chronic lower respiratory diseases (J40-J47),CLRD,Connecticut,1448,33.5
+
+4129,2007,Diabetes mellitus (E10-E14),Diabetes,Louisiana,1437,33.5
+
+7955,2015,Cerebrovascular diseases (I60-I69),Stroke,Minnesota,2238,33.5
+
+8068,2010,Cerebrovascular diseases (I60-I69),Stroke,New Hampshire,500,33.5
+
+8103,2011,Cerebrovascular diseases (I60-I69),Stroke,New Mexico,727,33.5
+

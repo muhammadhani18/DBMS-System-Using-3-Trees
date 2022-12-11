@@ -1,0 +1,4 @@
+4663,2013,Diabetes mellitus (E10-E14),Diabetes,Washington,1616,21.3
+
+5477,2010,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,South Dakota,1616,155.2
+

@@ -1,0 +1,12 @@
+1427,2009,Alzheimer's disease (G30),Alzheimer's disease,Mississippi,900,32.1
+
+4235,2009,Diabetes mellitus (E10-E14),Diabetes,Mississippi,900,29.7
+
+6096,2002,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Minnesota,900,16.9
+
+1427,2009,Alzheimer's disease (G30),Alzheimer's disease,Mississippi,900,32.1
+
+4235,2009,Diabetes mellitus (E10-E14),Diabetes,Mississippi,900,29.7
+
+6096,2002,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Minnesota,900,16.9
+

@@ -1,0 +1,64 @@
+5686,2016,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Alaska,61,12.5
+
+5693,2009,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Alaska,51,12.5
+
+6090,2008,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Minnesota,745,12.5
+
+6209,2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,New Jersey,1402,12.5
+
+6230,2012,Influenza and pneumonia (J09-J18),Influenza and pneumonia,New Mexico,281,12.5
+
+6627,2011,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Alaska,53,12.5
+
+6655,2001,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arizona,644,12.5
+
+6705,2005,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Colorado,470,12.5
+
+6763,2002,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,District of Columbia,70,12.5
+
+6810,2008,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Hawaii,197,12.5
+
+7030,2004,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Minnesota,669,12.5
+
+7196,2000,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,New York,2440,12.5
+
+7217,2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,North Dakota,118,12.5
+
+7529,2010,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wyoming,69,12.5
+
+8493,1999,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Alabama,555,12.5
+
+8605,2013,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Delaware,122,12.5
+
+8649,2005,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Florida,2347,12.5
+
+8681,2009,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Hawaii,175,12.5
+
+8805,2011,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Louisiana,573,12.5
+
+8832,2002,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Maine,166,12.5
+
+8876,2012,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Michigan,1261,12.5
+
+8878,2010,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Michigan,1263,12.5
+
+8895,2011,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Minnesota,683,12.5
+
+8910,2014,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Mississippi,380,12.5
+
+8937,2005,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Missouri,727,12.5
+
+8942,2000,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Missouri,699,12.5
+
+8966,2012,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Nebraska,232,12.5
+
+9223,2007,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,South Dakota,102,12.5
+
+9251,2015,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Texas,3403,12.5
+
+9315,2005,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Vermont,78,12.5
+
+9325,2013,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Virginia,1072,12.5
+
+9383,2009,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wisconsin,724,12.5
+

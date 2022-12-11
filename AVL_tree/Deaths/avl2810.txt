@@ -1,0 +1,4 @@
+2740,2010,Malignant neoplasms (C00-C97),Cancer,Utah,2810,133.7
+
+3253,2001,Chronic lower respiratory diseases (J40-J47),CLRD,Massachusetts,2810,40.2
+

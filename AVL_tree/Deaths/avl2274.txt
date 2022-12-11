@@ -1,0 +1,6 @@
+3187,2013,Chronic lower respiratory diseases (J40-J47),CLRD,Louisiana,2274,47.3
+
+10097,2010,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,South Carolina,2274,48.9
+
+10276,2002,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wisconsin,2274,40.1
+

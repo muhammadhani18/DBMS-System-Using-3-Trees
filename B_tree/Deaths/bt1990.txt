@@ -1,0 +1,12 @@
+6275,2003,Influenza and pneumonia (J09-J18),Influenza and pneumonia,North Carolina,1990,25.6
+
+7849,2013,Cerebrovascular diseases (I60-I69),Stroke,Kentucky,1990,41.7
+
+9715,2001,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Kentucky,1990,49.1
+
+6275,2003,Influenza and pneumonia (J09-J18),Influenza and pneumonia,North Carolina,1990,25.6
+
+7849,2013,Cerebrovascular diseases (I60-I69),Stroke,Kentucky,1990,41.7
+
+9715,2001,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Kentucky,1990,49.1
+

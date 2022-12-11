@@ -1,0 +1,10 @@
+2088,2014,Malignant neoplasms (C00-C97),Cancer,Florida,43212,152.9
+
+2303,2015,Malignant neoplasms (C00-C97),Cancer,Massachusetts,12750,152.9
+
+2537,2015,Malignant neoplasms (C00-C97),Cancer,North Dakota,1320,152.9
+
+2700,2014,Malignant neoplasms (C00-C97),Cancer,Texas,38847,152.9
+
+5545,2015,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Utah,3598,152.9
+

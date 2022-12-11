@@ -1,0 +1,8 @@
+1622,2012,Alzheimer's disease (G30),Alzheimer's disease,Ohio,3935,27.4
+
+3311,2015,Chronic lower respiratory diseases (J40-J47),CLRD,Missouri,3935,52.8
+
+1622,2012,Alzheimer's disease (G30),Alzheimer's disease,Ohio,3935,27.4
+
+3311,2015,Chronic lower respiratory diseases (J40-J47),CLRD,Missouri,3935,52.8
+

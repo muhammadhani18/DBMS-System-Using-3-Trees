@@ -1,0 +1,8 @@
+7180,2016,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,New York,2385,9.8
+
+9804,2014,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Minnesota,2385,39.4
+
+7180,2016,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,New York,2385,9.8
+
+9804,2014,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Minnesota,2385,39.4
+

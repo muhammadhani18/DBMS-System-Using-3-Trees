@@ -1,0 +1,4 @@
+1402,2016,Alzheimer's disease (G30),Alzheimer's disease,Minnesota,2219,31.8
+
+7964,2006,Cerebrovascular diseases (I60-I69),Stroke,Minnesota,2219,39.7
+

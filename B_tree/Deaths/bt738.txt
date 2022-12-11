@@ -1,0 +1,20 @@
+1871,2015,Alzheimer's disease (G30),Alzheimer's disease,West Virginia,738,30
+
+6083,2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Minnesota,738,10.9
+
+6544,2004,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Washington,738,12.4
+
+7042,2010,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Mississippi,738,24.7
+
+8357,2009,Cerebrovascular diseases (I60-I69),Stroke,Utah,738,37.6
+
+1871,2015,Alzheimer's disease (G30),Alzheimer's disease,West Virginia,738,30
+
+6083,2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Minnesota,738,10.9
+
+6544,2004,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Washington,738,12.4
+
+7042,2010,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Mississippi,738,24.7
+
+8357,2009,Cerebrovascular diseases (I60-I69),Stroke,Utah,738,37.6
+

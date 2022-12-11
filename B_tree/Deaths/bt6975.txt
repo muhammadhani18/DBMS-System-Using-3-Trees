@@ -1,0 +1,4 @@
+5037,1999,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Kansas,6975,237
+
+5037,1999,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Kansas,6975,237
+

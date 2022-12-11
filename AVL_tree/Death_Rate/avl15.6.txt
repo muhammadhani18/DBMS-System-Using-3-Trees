@@ -1,0 +1,50 @@
+3061,2013,Chronic lower respiratory diseases (J40-J47),CLRD,Hawaii,279,15.6
+
+3999,2011,Diabetes mellitus (E10-E14),Diabetes,Hawaii,264,15.6
+
+4308,2008,Diabetes mellitus (E10-E14),Diabetes,Nevada,373,15.6
+
+5768,2006,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Colorado,614,15.6
+
+5804,2006,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Delaware,138,15.6
+
+5817,2011,Influenza and pneumonia (J09-J18),Influenza and pneumonia,District of Columbia,96,15.6
+
+5825,2003,Influenza and pneumonia (J09-J18),Influenza and pneumonia,District of Columbia,87,15.6
+
+5942,2012,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Iowa,664,15.6
+
+6018,2008,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Maine,263,15.6
+
+6030,2014,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Maryland,1019,15.6
+
+6359,2009,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Pennsylvania,2601,15.6
+
+6482,2012,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Utah,337,15.6
+
+6571,2013,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wisconsin,1125,15.6
+
+6743,2003,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Delaware,130,15.6
+
+6954,2008,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Maine,263,15.6
+
+7001,2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Michigan,1921,15.6
+
+7150,2010,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,New Jersey,1580,15.6
+
+7250,2000,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Ohio,1829,15.6
+
+7383,2012,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Texas,3525,15.6
+
+7416,2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Utah,363,15.6
+
+7514,2007,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wisconsin,1002,15.6
+
+8528,2000,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arizona,784,15.6
+
+8785,2013,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Kentucky,701,15.6
+
+8929,2013,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Missouri,960,15.6
+
+9094,2010,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,North Dakota,106,15.6
+

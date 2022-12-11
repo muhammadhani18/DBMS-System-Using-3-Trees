@@ -1,0 +1,4 @@
+2757,2011,Malignant neoplasms (C00-C97),Cancer,Vermont,1347,175.9
+
+4517,2015,Diabetes mellitus (E10-E14),Diabetes,South Carolina,1347,23.4
+

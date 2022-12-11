@@ -1,0 +1,6 @@
+4542,2008,Diabetes mellitus (E10-E14),Diabetes,South Dakota,216,22.3
+
+6205,2001,Influenza and pneumonia (J09-J18),Influenza and pneumonia,New Hampshire,216,18
+
+9550,2013,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,District of Columbia,216,33.6
+

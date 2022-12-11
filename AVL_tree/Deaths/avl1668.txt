@@ -1,0 +1,8 @@
+4662,2014,Diabetes mellitus (E10-E14),Diabetes,Washington,1668,21.2
+
+5475,2012,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,South Dakota,1668,155.4
+
+6792,2008,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Georgia,1668,21.3
+
+6794,2006,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Georgia,1668,22.5
+

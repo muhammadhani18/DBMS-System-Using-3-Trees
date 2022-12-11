@@ -1,0 +1,16 @@
+1120,2010,Alzheimer's disease (G30),Alzheimer's disease,Delaware,215,21.9
+
+3923,2015,Diabetes mellitus (E10-E14),Diabetes,Delaware,215,18.1
+
+3936,2002,Diabetes mellitus (E10-E14),Diabetes,Delaware,215,26.1
+
+6802,2016,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Hawaii,215,11.2
+
+1120,2010,Alzheimer's disease (G30),Alzheimer's disease,Delaware,215,21.9
+
+3923,2015,Diabetes mellitus (E10-E14),Diabetes,Delaware,215,18.1
+
+3936,2002,Diabetes mellitus (E10-E14),Diabetes,Delaware,215,26.1
+
+6802,2016,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Hawaii,215,11.2
+

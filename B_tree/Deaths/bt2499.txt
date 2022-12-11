@@ -1,0 +1,8 @@
+2911,2001,Chronic lower respiratory diseases (J40-J47),CLRD,Arizona,2499,47.7
+
+9658,2007,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Indiana,2499,38.8
+
+2911,2001,Chronic lower respiratory diseases (J40-J47),CLRD,Arizona,2499,47.7
+
+9658,2007,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Indiana,2499,38.8
+

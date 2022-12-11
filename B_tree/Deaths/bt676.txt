@@ -1,0 +1,20 @@
+4097,2003,Diabetes mellitus (E10-E14),Diabetes,Kansas,676,23.2
+
+4244,2000,Diabetes mellitus (E10-E14),Diabetes,Mississippi,676,24.9
+
+5973,1999,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Kansas,676,22.2
+
+7020,2014,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Minnesota,676,10.4
+
+7049,2003,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Mississippi,676,24.8
+
+4097,2003,Diabetes mellitus (E10-E14),Diabetes,Kansas,676,23.2
+
+4244,2000,Diabetes mellitus (E10-E14),Diabetes,Mississippi,676,24.9
+
+5973,1999,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Kansas,676,22.2
+
+7020,2014,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Minnesota,676,10.4
+
+7049,2003,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Mississippi,676,24.8
+

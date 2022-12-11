@@ -1,0 +1,6 @@
+29,2016,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Nevada,1395,46
+
+5351,2010,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,North Dakota,1395,158
+
+10248,2013,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,West Virginia,1395,71.7
+

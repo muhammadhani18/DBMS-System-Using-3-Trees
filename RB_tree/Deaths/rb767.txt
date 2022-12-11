@@ -1,0 +1,12 @@
+3434,2000,Chronic lower respiratory diseases (J40-J47),CLRD,New Mexico,767,46.9
+
+3894,2008,Diabetes mellitus (E10-E14),Diabetes,Colorado,767,17.6
+
+3916,2004,Diabetes mellitus (E10-E14),Diabetes,Connecticut,767,19.1
+
+4075,2007,Diabetes mellitus (E10-E14),Diabetes,Iowa,767,20.6
+
+6974,2006,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Maryland,767,14.2
+
+8527,2001,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arizona,767,14.8
+

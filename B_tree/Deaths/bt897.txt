@@ -1,0 +1,16 @@
+5983,2007,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Kentucky,897,21
+
+7024,2010,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Minnesota,897,15
+
+7325,2016,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,South Carolina,897,15.3
+
+8048,2012,Cerebrovascular diseases (I60-I69),Stroke,Nevada,897,34.3
+
+5983,2007,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Kentucky,897,21
+
+7024,2010,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Minnesota,897,15
+
+7325,2016,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,South Carolina,897,15.3
+
+8048,2012,Cerebrovascular diseases (I60-I69),Stroke,Nevada,897,34.3
+

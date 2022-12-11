@@ -1,0 +1,8 @@
+1377,2005,Alzheimer's disease (G30),Alzheimer's disease,Massachusetts,1638,21.1
+
+7642,2004,Cerebrovascular diseases (I60-I69),Stroke,Colorado,1638,44.9
+
+1377,2005,Alzheimer's disease (G30),Alzheimer's disease,Massachusetts,1638,21.1
+
+7642,2004,Cerebrovascular diseases (I60-I69),Stroke,Colorado,1638,44.9
+

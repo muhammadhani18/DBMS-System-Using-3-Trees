@@ -1,0 +1,4 @@
+3776,2000,Chronic lower respiratory diseases (J40-J47),CLRD,Wisconsin,2316,41.1
+
+3776,2000,Chronic lower respiratory diseases (J40-J47),CLRD,Wisconsin,2316,41.1
+

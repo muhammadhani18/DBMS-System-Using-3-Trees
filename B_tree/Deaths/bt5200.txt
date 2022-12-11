@@ -1,0 +1,4 @@
+10069,2004,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Pennsylvania,5200,39.1
+
+10069,2004,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Pennsylvania,5200,39.1
+

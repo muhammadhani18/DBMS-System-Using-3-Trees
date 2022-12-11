@@ -1,0 +1,12 @@
+2280,2002,Malignant neoplasms (C00-C97),Cancer,Maine,3206,214.9
+
+8559,2005,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,California,3206,9.1
+
+10263,2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wisconsin,3206,49.3
+
+2280,2002,Malignant neoplasms (C00-C97),Cancer,Maine,3206,214.9
+
+8559,2005,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,California,3206,9.1
+
+10263,2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wisconsin,3206,49.3
+

@@ -1,0 +1,20 @@
+2995,2007,Chronic lower respiratory diseases (J40-J47),CLRD,Delaware,379,40.5
+
+3611,2003,Chronic lower respiratory diseases (J40-J47),CLRD,South Dakota,379,42.9
+
+8586,2014,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Connecticut,379,9.8
+
+8774,2006,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Kansas,379,13.9
+
+9430,2014,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Alaska,379,55
+
+2995,2007,Chronic lower respiratory diseases (J40-J47),CLRD,Delaware,379,40.5
+
+3611,2003,Chronic lower respiratory diseases (J40-J47),CLRD,South Dakota,379,42.9
+
+8586,2014,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Connecticut,379,9.8
+
+8774,2006,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Kansas,379,13.9
+
+9430,2014,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Alaska,379,55
+

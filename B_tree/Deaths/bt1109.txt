@@ -1,0 +1,12 @@
+1087,2007,Alzheimer's disease (G30),Alzheimer's disease,Colorado,1109,28.3
+
+3419,2015,Chronic lower respiratory diseases (J40-J47),CLRD,New Mexico,1109,44.7
+
+4465,2013,Diabetes mellitus (E10-E14),Diabetes,Oregon,1109,23.4
+
+1087,2007,Alzheimer's disease (G30),Alzheimer's disease,Colorado,1109,28.3
+
+3419,2015,Chronic lower respiratory diseases (J40-J47),CLRD,New Mexico,1109,44.7
+
+4465,2013,Diabetes mellitus (E10-E14),Diabetes,Oregon,1109,23.4
+

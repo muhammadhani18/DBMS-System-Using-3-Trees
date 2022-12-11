@@ -1,0 +1,4 @@
+3432,2002,Chronic lower respiratory diseases (J40-J47),CLRD,New Mexico,857,49.7
+
+8033,2009,Cerebrovascular diseases (I60-I69),Stroke,Nebraska,857,40.1
+

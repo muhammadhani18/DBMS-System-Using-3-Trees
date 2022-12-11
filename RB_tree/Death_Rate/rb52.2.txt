@@ -1,0 +1,16 @@
+34,2016,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,North Carolina,5476,52.2
+
+3294,2014,Chronic lower respiratory diseases (J40-J47),CLRD,Mississippi,1738,52.2
+
+3347,2015,Chronic lower respiratory diseases (J40-J47),CLRD,Nebraska,1174,52.2
+
+3631,2001,Chronic lower respiratory diseases (J40-J47),CLRD,Tennessee,2941,52.2
+
+7542,2015,Cerebrovascular diseases (I60-I69),Stroke,Alabama,2937,52.2
+
+7840,2004,Cerebrovascular diseases (I60-I69),Stroke,Kansas,1611,52.2
+
+7895,2003,Cerebrovascular diseases (I60-I69),Stroke,Maine,802,52.2
+
+9428,1999,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Alabama,2313,52.2
+

@@ -1,0 +1,6 @@
+798,2008,All Causes,All causes,South Dakota,7083,731.9
+
+847,2013,All Causes,All causes,United States,2596993,731.9
+
+925,2007,All Causes,All causes,Washington,47323,731.9
+

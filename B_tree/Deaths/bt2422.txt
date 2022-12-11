@@ -1,0 +1,12 @@
+9499,2013,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Colorado,2422,46.4
+
+9727,2006,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Louisiana,2422,56.8
+
+10024,2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Oklahoma,2422,60.1
+
+9499,2013,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Colorado,2422,46.4
+
+9727,2006,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Louisiana,2422,56.8
+
+10024,2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Oklahoma,2422,60.1
+

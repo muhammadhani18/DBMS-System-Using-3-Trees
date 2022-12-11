@@ -1,0 +1,4 @@
+2588,2000,Malignant neoplasms (C00-C97),Cancer,Oklahoma,7402,207.4
+
+2817,2005,Malignant neoplasms (C00-C97),Cancer,West Virginia,4617,207.4
+

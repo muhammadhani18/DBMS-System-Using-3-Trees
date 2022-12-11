@@ -1,0 +1,4 @@
+200,2012,All Causes,All causes,District of Columbia,4650,757.2
+
+557,2015,All Causes,All causes,Nevada,22879,757.2
+

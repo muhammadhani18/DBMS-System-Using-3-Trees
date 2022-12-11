@@ -1,0 +1,4 @@
+3534,2008,Chronic lower respiratory diseases (J40-J47),CLRD,Oregon,1951,46.6
+
+3534,2008,Chronic lower respiratory diseases (J40-J47),CLRD,Oregon,1951,46.6
+

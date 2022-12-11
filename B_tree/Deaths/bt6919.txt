@@ -1,0 +1,4 @@
+3444,2008,Chronic lower respiratory diseases (J40-J47),CLRD,New York,6919,32.6
+
+3444,2008,Chronic lower respiratory diseases (J40-J47),CLRD,New York,6919,32.6
+

@@ -1,0 +1,8 @@
+3913,2007,Diabetes mellitus (E10-E14),Diabetes,Connecticut,646,15.5
+
+4357,2013,Diabetes mellitus (E10-E14),Diabetes,New Mexico,646,27.6
+
+3913,2007,Diabetes mellitus (E10-E14),Diabetes,Connecticut,646,15.5
+
+4357,2013,Diabetes mellitus (E10-E14),Diabetes,New Mexico,646,27.6
+

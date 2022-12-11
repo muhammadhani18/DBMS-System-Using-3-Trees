@@ -1,0 +1,4 @@
+5521,2003,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Texas,41779,241.2
+
+5521,2003,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Texas,41779,241.2
+

@@ -1,0 +1,36 @@
+1908,2014,Alzheimer's disease (G30),Alzheimer's disease,Wyoming,162,26.6
+
+3941,2015,Diabetes mellitus (E10-E14),Diabetes,District of Columbia,162,25.7
+
+5805,2005,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Delaware,162,18.8
+
+6294,2002,Influenza and pneumonia (J09-J18),Influenza and pneumonia,North Dakota,162,18.7
+
+6295,2001,Influenza and pneumonia (J09-J18),Influenza and pneumonia,North Dakota,162,18.9
+
+7179,1999,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,New Mexico,162,10.1
+
+7565,2009,Cerebrovascular diseases (I60-I69),Stroke,Alaska,162,41.8
+
+8961,1999,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Montana,162,17.7
+
+9009,2005,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,New Hampshire,162,12
+
+1908,2014,Alzheimer's disease (G30),Alzheimer's disease,Wyoming,162,26.6
+
+3941,2015,Diabetes mellitus (E10-E14),Diabetes,District of Columbia,162,25.7
+
+5805,2005,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Delaware,162,18.8
+
+6294,2002,Influenza and pneumonia (J09-J18),Influenza and pneumonia,North Dakota,162,18.7
+
+6295,2001,Influenza and pneumonia (J09-J18),Influenza and pneumonia,North Dakota,162,18.9
+
+7179,1999,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,New Mexico,162,10.1
+
+7565,2009,Cerebrovascular diseases (I60-I69),Stroke,Alaska,162,41.8
+
+8961,1999,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Montana,162,17.7
+
+9009,2005,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,New Hampshire,162,12
+

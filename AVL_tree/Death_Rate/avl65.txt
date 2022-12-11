@@ -1,0 +1,4 @@
+8329,2001,Cerebrovascular diseases (I60-I69),Stroke,Texas,10612,65
+
+9942,2012,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,New Mexico,1351,65
+

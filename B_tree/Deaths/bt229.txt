@@ -1,0 +1,20 @@
+4279,2001,Diabetes mellitus (E10-E14),Diabetes,Montana,229,23.3
+
+4546,2004,Diabetes mellitus (E10-E14),Diabetes,South Dakota,229,25.4
+
+5810,2000,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Delaware,229,31
+
+5883,1999,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Hawaii,229,19.6
+
+9375,1999,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,West Virginia,229,12.1
+
+4279,2001,Diabetes mellitus (E10-E14),Diabetes,Montana,229,23.3
+
+4546,2004,Diabetes mellitus (E10-E14),Diabetes,South Dakota,229,25.4
+
+5810,2000,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Delaware,229,31
+
+5883,1999,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Hawaii,229,19.6
+
+9375,1999,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,West Virginia,229,12.1
+

@@ -1,0 +1,8 @@
+19,2016,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Louisiana,2710,57.4
+
+7863,1999,Cerebrovascular diseases (I60-I69),Stroke,Kentucky,2710,70.4
+
+19,2016,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Louisiana,2710,57.4
+
+7863,1999,Cerebrovascular diseases (I60-I69),Stroke,Kentucky,2710,70.4
+

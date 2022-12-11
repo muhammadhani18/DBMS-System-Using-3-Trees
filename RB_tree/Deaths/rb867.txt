@@ -1,0 +1,4 @@
+1648,2004,Alzheimer's disease (G30),Alzheimer's disease,Oklahoma,867,24.2
+
+1950,2008,Malignant neoplasms (C00-C97),Cancer,Alaska,867,181.1
+

@@ -1,0 +1,12 @@
+3125,2003,Chronic lower respiratory diseases (J40-J47),CLRD,Indiana,3264,52.8
+
+5303,2004,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,New Mexico,3264,183.1
+
+8088,2008,Cerebrovascular diseases (I60-I69),Stroke,New Jersey,3264,33.1
+
+3125,2003,Chronic lower respiratory diseases (J40-J47),CLRD,Indiana,3264,52.8
+
+5303,2004,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,New Mexico,3264,183.1
+
+8088,2008,Cerebrovascular diseases (I60-I69),Stroke,New Jersey,3264,33.1
+

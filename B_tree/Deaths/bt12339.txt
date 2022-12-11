@@ -1,0 +1,4 @@
+2696,2000,Malignant neoplasms (C00-C97),Cancer,Tennessee,12339,218.8
+
+2696,2000,Malignant neoplasms (C00-C97),Cancer,Tennessee,12339,218.8
+

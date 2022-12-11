@@ -1,0 +1,4 @@
+4883,2009,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,District of Columbia,1288,224.1
+
+5575,2001,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Vermont,1429,224.1
+

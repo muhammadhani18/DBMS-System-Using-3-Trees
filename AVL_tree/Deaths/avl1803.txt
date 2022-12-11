@@ -1,0 +1,8 @@
+25,2016,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Mississippi,1803,59.2
+
+1399,2001,Alzheimer's disease (G30),Alzheimer's disease,Michigan,1803,18.8
+
+1578,2002,Alzheimer's disease (G30),Alzheimer's disease,New York,1803,8.9
+
+10042,2014,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Oregon,1803,41
+

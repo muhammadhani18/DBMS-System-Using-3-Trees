@@ -1,0 +1,18 @@
+2898,2014,Chronic lower respiratory diseases (J40-J47),CLRD,Arizona,3396,42.2
+
+3358,2004,Chronic lower respiratory diseases (J40-J47),CLRD,Nebraska,815,42.2
+
+3530,2012,Chronic lower respiratory diseases (J40-J47),CLRD,Oregon,1915,42.2
+
+3643,2007,Chronic lower respiratory diseases (J40-J47),CLRD,Texas,8107,42.2
+
+3658,2010,Chronic lower respiratory diseases (J40-J47),CLRD,United States,138080,42.2
+
+3720,2002,Chronic lower respiratory diseases (J40-J47),CLRD,Virginia,2752,42.2
+
+7994,2012,Cerebrovascular diseases (I60-I69),Stroke,Missouri,2989,42.2
+
+8112,2002,Cerebrovascular diseases (I60-I69),Stroke,New Mexico,715,42.2
+
+8133,1999,Cerebrovascular diseases (I60-I69),Stroke,New York,8124,42.2
+

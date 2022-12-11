@@ -1,0 +1,22 @@
+3108,2002,Chronic lower respiratory diseases (J40-J47),CLRD,Illinois,4827,39.6
+
+3477,2011,Chronic lower respiratory diseases (J40-J47),CLRD,North Dakota,342,39.6
+
+3487,2001,Chronic lower respiratory diseases (J40-J47),CLRD,North Dakota,308,39.6
+
+3551,2009,Chronic lower respiratory diseases (J40-J47),CLRD,Pennsylvania,6432,39.6
+
+3713,2009,Chronic lower respiratory diseases (J40-J47),CLRD,Virginia,3013,39.6
+
+3957,1999,Diabetes mellitus (E10-E14),Diabetes,District of Columbia,221,39.6
+
+8229,2011,Cerebrovascular diseases (I60-I69),Stroke,Pennsylvania,6825,39.6
+
+8339,2009,Cerebrovascular diseases (I60-I69),Stroke,United States,128842,39.6
+
+9538,2008,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Delaware,352,39.6
+
+9671,2011,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Iowa,1369,39.6
+
+10212,2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Virginia,3429,39.6
+

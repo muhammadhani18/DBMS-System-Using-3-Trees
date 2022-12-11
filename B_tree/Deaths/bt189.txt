@@ -1,0 +1,44 @@
+1124,2006,Alzheimer's disease (G30),Alzheimer's disease,Delaware,189,21.6
+
+1192,2010,Alzheimer's disease (G30),Alzheimer's disease,Hawaii,189,10.5
+
+2882,2012,Chronic lower respiratory diseases (J40-J47),CLRD,Alaska,189,40.9
+
+5795,2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Delaware,189,16.1
+
+5888,2012,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Idaho,189,11.3
+
+6293,2003,Influenza and pneumonia (J09-J18),Influenza and pneumonia,North Dakota,189,21.9
+
+6415,2007,Influenza and pneumonia (J09-J18),Influenza and pneumonia,South Dakota,189,18.7
+
+6738,2008,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Delaware,189,19.8
+
+7562,2013,Cerebrovascular diseases (I60-I69),Stroke,Alaska,189,40.7
+
+8460,2014,Cerebrovascular diseases (I60-I69),Stroke,Wyoming,189,30.2
+
+8954,2006,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Montana,189,19.7
+
+1124,2006,Alzheimer's disease (G30),Alzheimer's disease,Delaware,189,21.6
+
+1192,2010,Alzheimer's disease (G30),Alzheimer's disease,Hawaii,189,10.5
+
+2882,2012,Chronic lower respiratory diseases (J40-J47),CLRD,Alaska,189,40.9
+
+5795,2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Delaware,189,16.1
+
+5888,2012,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Idaho,189,11.3
+
+6293,2003,Influenza and pneumonia (J09-J18),Influenza and pneumonia,North Dakota,189,21.9
+
+6415,2007,Influenza and pneumonia (J09-J18),Influenza and pneumonia,South Dakota,189,18.7
+
+6738,2008,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Delaware,189,19.8
+
+7562,2013,Cerebrovascular diseases (I60-I69),Stroke,Alaska,189,40.7
+
+8460,2014,Cerebrovascular diseases (I60-I69),Stroke,Wyoming,189,30.2
+
+8954,2006,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Montana,189,19.7
+

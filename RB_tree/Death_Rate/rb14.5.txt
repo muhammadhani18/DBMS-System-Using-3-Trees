@@ -1,0 +1,66 @@
+1350,2014,Alzheimer's disease (G30),Alzheimer's disease,Maryland,934,14.5
+
+1500,2008,Alzheimer's disease (G30),Alzheimer's disease,Nevada,279,14.5
+
+1508,2000,Alzheimer's disease (G30),Alzheimer's disease,Nevada,195,14.5
+
+3911,2009,Diabetes mellitus (E10-E14),Diabetes,Connecticut,624,14.5
+
+3995,2015,Diabetes mellitus (E10-E14),Diabetes,Hawaii,263,14.5
+
+4176,2014,Diabetes mellitus (E10-E14),Diabetes,Massachusetts,1202,14.5
+
+4182,2008,Diabetes mellitus (E10-E14),Diabetes,Massachusetts,1079,14.5
+
+5767,2007,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Colorado,592,14.5
+
+5826,2002,Influenza and pneumonia (J09-J18),Influenza and pneumonia,District of Columbia,81,14.5
+
+5902,2016,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Illinois,2178,14.5
+
+6071,2009,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Michigan,1613,14.5
+
+6157,2013,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Nebraska,343,14.5
+
+6280,2016,Influenza and pneumonia (J09-J18),Influenza and pneumonia,North Dakota,134,14.5
+
+6464,2012,Influenza and pneumonia (J09-J18),Influenza and pneumonia,United States,50636,14.5
+
+6731,2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Delaware,174,14.5
+
+6744,2002,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Delaware,117,14.5
+
+6754,2010,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,District of Columbia,84,14.5
+
+6762,2003,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,District of Columbia,81,14.5
+
+6984,2014,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Massachusetts,1228,14.5
+
+7149,2011,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,New Jersey,1490,14.5
+
+7235,2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Ohio,2100,14.5
+
+7312,2010,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Rhode Island,199,14.5
+
+7341,2000,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,South Carolina,539,14.5
+
+7368,2009,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Tennessee,949,14.5
+
+7409,2004,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,United States,42480,14.5
+
+7518,2003,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wisconsin,873,14.5
+
+7519,2002,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wisconsin,852,14.5
+
+8478,2014,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Alabama,715,14.5
+
+8537,2009,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arkansas,422,14.5
+
+8822,2012,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Maine,209,14.5
+
+9150,2008,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Oregon,572,14.5
+
+9316,2004,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Vermont,93,14.5
+
+9344,2012,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Washington,1038,14.5
+

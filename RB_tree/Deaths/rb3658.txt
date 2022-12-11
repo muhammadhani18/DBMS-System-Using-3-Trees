@@ -1,0 +1,4 @@
+3621,2011,Chronic lower respiratory diseases (J40-J47),CLRD,Tennessee,3658,52.7
+
+8455,2001,Cerebrovascular diseases (I60-I69),Stroke,Wisconsin,3658,62.4
+

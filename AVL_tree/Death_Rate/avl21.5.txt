@@ -1,0 +1,58 @@
+1013,2009,Alzheimer's disease (G30),Alzheimer's disease,Alaska,67,21.5
+
+1022,2000,Alzheimer's disease (G30),Alzheimer's disease,Alaska,47,21.5
+
+1150,2016,Alzheimer's disease (G30),Alzheimer's disease,Florida,7155,21.5
+
+1405,2013,Alzheimer's disease (G30),Alzheimer's disease,Minnesota,1427,21.5
+
+1468,2004,Alzheimer's disease (G30),Alzheimer's disease,Montana,228,21.5
+
+1513,2013,Alzheimer's disease (G30),Alzheimer's disease,New Hampshire,351,21.5
+
+1910,2012,Alzheimer's disease (G30),Alzheimer's disease,Wyoming,123,21.5
+
+3849,1999,Diabetes mellitus (E10-E14),Diabetes,Arizona,1063,21.5
+
+3876,2008,Diabetes mellitus (E10-E14),Diabetes,California,7375,21.5
+
+3883,2001,Diabetes mellitus (E10-E14),Diabetes,California,6395,21.5
+
+3927,2011,Diabetes mellitus (E10-E14),Diabetes,Delaware,224,21.5
+
+3972,2002,Diabetes mellitus (E10-E14),Diabetes,Florida,4583,21.5
+
+3975,1999,Diabetes mellitus (E10-E14),Diabetes,Florida,4357,21.5
+
+4192,2016,Diabetes mellitus (E10-E14),Diabetes,Michigan,2672,21.5
+
+4284,2014,Diabetes mellitus (E10-E14),Diabetes,Nebraska,473,21.5
+
+4397,2009,Diabetes mellitus (E10-E14),Diabetes,North Carolina,2114,21.5
+
+4512,2002,Diabetes mellitus (E10-E14),Diabetes,Rhode Island,263,21.5
+
+4538,2012,Diabetes mellitus (E10-E14),Diabetes,South Dakota,218,21.5
+
+4629,2011,Diabetes mellitus (E10-E14),Diabetes,Vermont,168,21.5
+
+5790,2002,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Connecticut,888,21.5
+
+5895,2005,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Idaho,289,21.5
+
+6079,2001,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Michigan,2076,21.5
+
+6184,2004,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Nevada,402,21.5
+
+6188,2000,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Nevada,320,21.5
+
+6584,2000,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wisconsin,1258,21.5
+
+6667,2007,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arkansas,666,21.5
+
+8510,2000,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Alaska,137,21.5
+
+9397,2013,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wyoming,129,21.5
+
+10091,1999,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Rhode Island,243,21.5
+

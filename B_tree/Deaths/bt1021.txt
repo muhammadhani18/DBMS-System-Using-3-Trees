@@ -1,0 +1,16 @@
+4217,2009,Diabetes mellitus (E10-E14),Diabetes,Minnesota,1021,17.7
+
+5985,2005,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Kentucky,1021,24.9
+
+9345,2011,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Washington,1021,14.3
+
+9899,2004,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Nevada,1021,45.2
+
+4217,2009,Diabetes mellitus (E10-E14),Diabetes,Minnesota,1021,17.7
+
+5985,2005,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Kentucky,1021,24.9
+
+9345,2011,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Washington,1021,14.3
+
+9899,2004,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Nevada,1021,45.2
+

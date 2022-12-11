@@ -1,0 +1,48 @@
+1223,2015,Alzheimer's disease (G30),Alzheimer's disease,Illinois,3686,24.4
+
+1478,2012,Alzheimer's disease (G30),Alzheimer's disease,Nebraska,570,24.4
+
+1698,2008,Alzheimer's disease (G30),Alzheimer's disease,Rhode Island,359,24.4
+
+1843,2007,Alzheimer's disease (G30),Alzheimer's disease,Virginia,1703,24.4
+
+1896,2008,Alzheimer's disease (G30),Alzheimer's disease,Wisconsin,1655,24.4
+
+1898,2006,Alzheimer's disease (G30),Alzheimer's disease,Wisconsin,1596,24.4
+
+3803,2009,Diabetes mellitus (E10-E14),Diabetes,Alabama,1259,24.4
+
+3989,2003,Diabetes mellitus (E10-E14),Diabetes,Georgia,1717,24.4
+
+4050,2014,Diabetes mellitus (E10-E14),Diabetes,Indiana,1819,24.4
+
+4111,2007,Diabetes mellitus (E10-E14),Diabetes,Kentucky,1091,24.4
+
+4199,2009,Diabetes mellitus (E10-E14),Diabetes,Michigan,2705,24.4
+
+4225,2001,Diabetes mellitus (E10-E14),Diabetes,Minnesota,1213,24.4
+
+4241,2003,Diabetes mellitus (E10-E14),Diabetes,Mississippi,680,24.4
+
+4242,2002,Diabetes mellitus (E10-E14),Diabetes,Mississippi,671,24.4
+
+4345,2007,Diabetes mellitus (E10-E14),Diabetes,New Jersey,2329,24.4
+
+4549,2001,Diabetes mellitus (E10-E14),Diabetes,South Dakota,212,24.4
+
+4633,2007,Diabetes mellitus (E10-E14),Diabetes,Vermont,170,24.4
+
+4658,2000,Diabetes mellitus (E10-E14),Diabetes,Virginia,1564,24.4
+
+5863,2001,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Georgia,1515,24.4
+
+5866,2016,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Hawaii,507,24.4
+
+5952,2002,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Iowa,942,24.4
+
+6061,2001,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Massachusetts,1770,24.4
+
+6384,2002,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Rhode Island,319,24.4
+
+8502,2008,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Alaska,169,24.4
+

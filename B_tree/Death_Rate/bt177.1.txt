@@ -1,0 +1,4 @@
+2202,2008,Malignant neoplasms (C00-C97),Cancer,Iowa,6424,177.1
+
+2856,2002,Malignant neoplasms (C00-C97),Cancer,Wyoming,859,177.1
+

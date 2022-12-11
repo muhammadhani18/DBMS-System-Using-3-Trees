@@ -1,0 +1,4 @@
+2201,2009,Malignant neoplasms (C00-C97),Cancer,Iowa,6249,170.4
+
+2201,2009,Malignant neoplasms (C00-C97),Cancer,Iowa,6249,170.4
+

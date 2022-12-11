@@ -1,0 +1,4 @@
+10258,2003,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,West Virginia,1004,53.7
+
+10258,2003,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,West Virginia,1004,53.7
+

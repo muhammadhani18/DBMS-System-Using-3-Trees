@@ -1,0 +1,4 @@
+5307,2000,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,New Mexico,3191,196.6
+
+5307,2000,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,New Mexico,3191,196.6
+

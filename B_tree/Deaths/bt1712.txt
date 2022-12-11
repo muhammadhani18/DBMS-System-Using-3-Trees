@@ -1,0 +1,8 @@
+1838,2012,Alzheimer's disease (G30),Alzheimer's disease,Virginia,1712,21.2
+
+9821,2014,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Mississippi,1712,56.2
+
+1838,2012,Alzheimer's disease (G30),Alzheimer's disease,Virginia,1712,21.2
+
+9821,2014,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Mississippi,1712,56.2
+

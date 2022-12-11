@@ -1,0 +1,12 @@
+1665,2005,Alzheimer's disease (G30),Alzheimer's disease,Oregon,1239,30.5
+
+4164,2008,Diabetes mellitus (E10-E14),Diabetes,Maryland,1239,21.6
+
+4518,2014,Diabetes mellitus (E10-E14),Diabetes,South Carolina,1239,21.8
+
+1665,2005,Alzheimer's disease (G30),Alzheimer's disease,Oregon,1239,30.5
+
+4164,2008,Diabetes mellitus (E10-E14),Diabetes,Maryland,1239,21.6
+
+4518,2014,Diabetes mellitus (E10-E14),Diabetes,South Carolina,1239,21.8
+

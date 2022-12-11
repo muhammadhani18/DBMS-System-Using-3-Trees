@@ -1,0 +1,16 @@
+1678,2010,Alzheimer's disease (G30),Alzheimer's disease,Pennsylvania,3591,20
+
+2483,2015,Malignant neoplasms (C00-C97),Cancer,New Mexico,3591,143.3
+
+3471,1999,Chronic lower respiratory diseases (J40-J47),CLRD,North Carolina,3591,48
+
+5220,2015,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Nebraska,3591,154.5
+
+1678,2010,Alzheimer's disease (G30),Alzheimer's disease,Pennsylvania,3591,20
+
+2483,2015,Malignant neoplasms (C00-C97),Cancer,New Mexico,3591,143.3
+
+3471,1999,Chronic lower respiratory diseases (J40-J47),CLRD,North Carolina,3591,48
+
+5220,2015,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Nebraska,3591,154.5
+

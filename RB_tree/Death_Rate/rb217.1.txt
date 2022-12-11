@@ -1,0 +1,4 @@
+2371,2001,Malignant neoplasms (C00-C97),Cancer,Mississippi,5958,217.1
+
+5235,2000,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Nebraska,4197,217.1
+

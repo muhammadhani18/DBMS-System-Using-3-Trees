@@ -1,0 +1,4 @@
+9842,2010,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Missouri,2975,47.9
+
+9845,2007,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Missouri,2975,48.8
+

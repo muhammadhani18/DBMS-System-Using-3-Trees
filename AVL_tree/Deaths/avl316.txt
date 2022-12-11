@@ -1,0 +1,14 @@
+3697,2007,Chronic lower respiratory diseases (J40-J47),CLRD,Vermont,316,45
+
+4318,2016,Diabetes mellitus (E10-E14),Diabetes,New Hampshire,316,17.9
+
+6879,2011,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Iowa,316,7.8
+
+7163,2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,New Mexico,316,12.9
+
+7275,2011,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Oregon,316,6.8
+
+8591,2009,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Connecticut,316,8.5
+
+9438,2006,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Alaska,316,52.3
+

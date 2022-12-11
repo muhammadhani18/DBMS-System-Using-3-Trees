@@ -1,0 +1,6 @@
+1220,2000,Alzheimer's disease (G30),Alzheimer's disease,Idaho,262,22.6
+
+4544,2006,Diabetes mellitus (E10-E14),Diabetes,South Dakota,262,27.6
+
+7172,2006,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,New Mexico,262,13.4
+

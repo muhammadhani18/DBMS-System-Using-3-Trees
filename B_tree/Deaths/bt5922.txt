@@ -1,0 +1,4 @@
+2030,2000,Malignant neoplasms (C00-C97),Cancer,Colorado,5922,170
+
+2030,2000,Malignant neoplasms (C00-C97),Cancer,Colorado,5922,170
+

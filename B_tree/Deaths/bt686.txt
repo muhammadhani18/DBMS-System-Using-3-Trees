@@ -1,0 +1,12 @@
+1053,2005,Alzheimer's disease (G30),Alzheimer's disease,Arkansas,686,22.8
+
+1492,2016,Alzheimer's disease (G30),Alzheimer's disease,Nevada,686,24.6
+
+8892,2014,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Minnesota,686,12.2
+
+1053,2005,Alzheimer's disease (G30),Alzheimer's disease,Arkansas,686,22.8
+
+1492,2016,Alzheimer's disease (G30),Alzheimer's disease,Nevada,686,24.6
+
+8892,2014,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Minnesota,686,12.2
+

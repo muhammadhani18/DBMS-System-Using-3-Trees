@@ -1,0 +1,24 @@
+1831,2001,Alzheimer's disease (G30),Alzheimer's disease,Vermont,149,23.3
+
+6735,2011,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Delaware,149,14.2
+
+7135,2007,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,New Hampshire,149,10.8
+
+7309,2013,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Rhode Island,149,10.4
+
+7320,2003,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Rhode Island,149,11.5
+
+8503,2007,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Alaska,149,22.6
+
+1831,2001,Alzheimer's disease (G30),Alzheimer's disease,Vermont,149,23.3
+
+6735,2011,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Delaware,149,14.2
+
+7135,2007,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,New Hampshire,149,10.8
+
+7309,2013,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Rhode Island,149,10.4
+
+7320,2003,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Rhode Island,149,11.5
+
+8503,2007,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Alaska,149,22.6
+

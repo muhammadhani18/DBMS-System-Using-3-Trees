@@ -1,0 +1,8 @@
+2058,2008,Malignant neoplasms (C00-C97),Cancer,Delaware,1912,193.3
+
+7249,2001,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Ohio,1912,16.1
+
+8213,2009,Cerebrovascular diseases (I60-I69),Stroke,Oregon,1912,43.5
+
+9815,2003,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Minnesota,1912,36.7
+

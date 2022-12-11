@@ -1,0 +1,12 @@
+3513,2011,Chronic lower respiratory diseases (J40-J47),CLRD,Oklahoma,2637,63.8
+
+7862,2000,Cerebrovascular diseases (I60-I69),Stroke,Kentucky,2637,67.7
+
+10237,2007,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Washington,2637,40.2
+
+3513,2011,Chronic lower respiratory diseases (J40-J47),CLRD,Oklahoma,2637,63.8
+
+7862,2000,Cerebrovascular diseases (I60-I69),Stroke,Kentucky,2637,67.7
+
+10237,2007,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Washington,2637,40.2
+

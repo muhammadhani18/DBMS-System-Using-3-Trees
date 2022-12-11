@@ -1,0 +1,8 @@
+4690,2004,Diabetes mellitus (E10-E14),Diabetes,West Virginia,840,38.2
+
+8525,2003,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arizona,840,15.5
+
+4690,2004,Diabetes mellitus (E10-E14),Diabetes,West Virginia,840,38.2
+
+8525,2003,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arizona,840,15.5
+

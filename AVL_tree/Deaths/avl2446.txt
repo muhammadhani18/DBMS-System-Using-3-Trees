@@ -1,0 +1,4 @@
+7588,2004,Cerebrovascular diseases (I60-I69),Stroke,Arizona,2446,44.6
+
+9710,2006,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Kentucky,2446,57.9
+

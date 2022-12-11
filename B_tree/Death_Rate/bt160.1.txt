@@ -1,0 +1,4 @@
+2068,2016,Malignant neoplasms (C00-C97),Cancer,District of Columbia,1044,160.1
+
+4762,2004,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Alaska,589,160.1
+

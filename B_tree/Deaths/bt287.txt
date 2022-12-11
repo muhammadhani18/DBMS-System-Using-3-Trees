@@ -1,0 +1,28 @@
+1611,2005,Alzheimer's disease (G30),Alzheimer's disease,North Dakota,287,31.5
+
+3069,2005,Chronic lower respiratory diseases (J40-J47),CLRD,Hawaii,287,19.8
+
+3071,2003,Chronic lower respiratory diseases (J40-J47),CLRD,Hawaii,287,21.1
+
+6027,1999,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Maine,287,19.9
+
+7170,2008,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,New Mexico,287,14.1
+
+9543,2003,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Delaware,287,34.9
+
+10000,2005,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,North Dakota,287,39.7
+
+1611,2005,Alzheimer's disease (G30),Alzheimer's disease,North Dakota,287,31.5
+
+3069,2005,Chronic lower respiratory diseases (J40-J47),CLRD,Hawaii,287,19.8
+
+3071,2003,Chronic lower respiratory diseases (J40-J47),CLRD,Hawaii,287,21.1
+
+6027,1999,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Maine,287,19.9
+
+7170,2008,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,New Mexico,287,14.1
+
+9543,2003,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Delaware,287,34.9
+
+10000,2005,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,North Dakota,287,39.7
+

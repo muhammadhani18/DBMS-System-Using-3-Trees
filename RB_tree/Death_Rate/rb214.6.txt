@@ -1,0 +1,6 @@
+2283,1999,Malignant neoplasms (C00-C97),Cancer,Maine,3035,214.6
+
+2694,2002,Malignant neoplasms (C00-C97),Cancer,Tennessee,12518,214.6
+
+5218,1999,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Montana,2049,214.6
+

@@ -1,0 +1,8 @@
+4446,2014,Diabetes mellitus (E10-E14),Diabetes,Oklahoma,1261,29.1
+
+6985,2013,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Massachusetts,1261,15.1
+
+8876,2012,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Michigan,1261,12.5
+
+9525,2004,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Connecticut,1261,34
+

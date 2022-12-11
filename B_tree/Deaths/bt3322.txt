@@ -1,0 +1,8 @@
+5219,2016,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Nebraska,3322,140.3
+
+9447,2014,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arizona,3322,47
+
+5219,2016,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Nebraska,3322,140.3
+
+9447,2014,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arizona,3322,47
+

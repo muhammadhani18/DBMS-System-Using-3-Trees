@@ -1,0 +1,8 @@
+1674,2014,Alzheimer's disease (G30),Alzheimer's disease,Pennsylvania,3486,18.3
+
+3166,2016,Chronic lower respiratory diseases (J40-J47),CLRD,Kentucky,3486,66.3
+
+1674,2014,Alzheimer's disease (G30),Alzheimer's disease,Pennsylvania,3486,18.3
+
+3166,2016,Chronic lower respiratory diseases (J40-J47),CLRD,Kentucky,3486,66.3
+

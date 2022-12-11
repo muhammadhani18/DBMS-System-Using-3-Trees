@@ -1,0 +1,8 @@
+4104,2014,Diabetes mellitus (E10-E14),Diabetes,Kentucky,1175,23.4
+
+5926,2010,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Indiana,1175,16.9
+
+6041,2003,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Maryland,1175,23.6
+
+9529,2000,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Connecticut,1175,32.8
+

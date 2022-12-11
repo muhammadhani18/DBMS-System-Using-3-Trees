@@ -1,0 +1,4 @@
+2757,2011,Malignant neoplasms (C00-C97),Cancer,Vermont,1347,175.9
+
+2763,2005,Malignant neoplasms (C00-C97),Cancer,Vermont,1202,175.9
+

@@ -1,0 +1,12 @@
+5829,1999,Influenza and pneumonia (J09-J18),Influenza and pneumonia,District of Columbia,116,20.6
+
+6509,2003,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Vermont,116,17.7
+
+6591,2011,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wyoming,116,20.4
+
+7088,2000,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Montana,116,12
+
+8686,2004,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Hawaii,116,8.9
+
+9404,2006,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wyoming,116,21.7
+

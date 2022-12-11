@@ -1,0 +1,8 @@
+2747,2003,Malignant neoplasms (C00-C97),Cancer,Utah,2444,144.6
+
+6841,2013,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Illinois,2444,17.1
+
+2747,2003,Malignant neoplasms (C00-C97),Cancer,Utah,2444,144.6
+
+6841,2013,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Illinois,2444,17.1
+

@@ -1,0 +1,8 @@
+1942,2016,Malignant neoplasms (C00-C97),Cancer,Alaska,995,158.7
+
+9954,2000,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,New Mexico,995,56.8
+
+1942,2016,Malignant neoplasms (C00-C97),Cancer,Alaska,995,158.7
+
+9954,2000,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,New Mexico,995,56.8
+

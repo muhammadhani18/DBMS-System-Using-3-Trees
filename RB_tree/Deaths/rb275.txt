@@ -1,0 +1,8 @@
+1562,2000,Alzheimer's disease (G30),Alzheimer's disease,New Mexico,275,17.7
+
+4322,2012,Diabetes mellitus (E10-E14),Diabetes,New Hampshire,275,17.5
+
+6191,2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,New Hampshire,275,16.1
+
+9999,2006,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,North Dakota,275,38.9
+

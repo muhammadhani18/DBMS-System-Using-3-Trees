@@ -1,0 +1,12 @@
+2951,2015,Chronic lower respiratory diseases (J40-J47),CLRD,Colorado,2577,47.8
+
+9459,2002,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arizona,2577,48.6
+
+9656,2009,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Indiana,2577,39.3
+
+2951,2015,Chronic lower respiratory diseases (J40-J47),CLRD,Colorado,2577,47.8
+
+9459,2002,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arizona,2577,48.6
+
+9656,2009,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Indiana,2577,39.3
+

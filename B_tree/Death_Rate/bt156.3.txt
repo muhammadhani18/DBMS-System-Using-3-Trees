@@ -1,0 +1,4 @@
+2394,2014,Malignant neoplasms (C00-C97),Cancer,Montana,2066,156.3
+
+2543,2009,Malignant neoplasms (C00-C97),Cancer,North Dakota,1243,156.3
+

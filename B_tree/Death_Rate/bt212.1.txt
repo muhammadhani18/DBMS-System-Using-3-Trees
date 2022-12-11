@@ -1,0 +1,4 @@
+5057,2015,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Louisiana,10665,212.1
+
+5485,2002,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,South Dakota,1937,212.1
+

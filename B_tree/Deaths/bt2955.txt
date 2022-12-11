@@ -1,0 +1,8 @@
+3728,2012,Chronic lower respiratory diseases (J40-J47),CLRD,Washington,2955,41
+
+7916,2000,Cerebrovascular diseases (I60-I69),Stroke,Maryland,2955,63.4
+
+3728,2012,Chronic lower respiratory diseases (J40-J47),CLRD,Washington,2955,41
+
+7916,2000,Cerebrovascular diseases (I60-I69),Stroke,Maryland,2955,63.4
+

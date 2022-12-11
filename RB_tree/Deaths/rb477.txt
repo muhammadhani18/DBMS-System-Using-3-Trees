@@ -1,0 +1,10 @@
+1340,2006,Alzheimer's disease (G30),Alzheimer's disease,Maine,477,29.2
+
+6343,2007,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Oregon,477,11.2
+
+8765,2015,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Kansas,477,16.3
+
+8850,2002,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Maryland,477,8.8
+
+9915,2005,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,New Hampshire,477,36.3
+

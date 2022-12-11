@@ -1,0 +1,28 @@
+2883,2011,Chronic lower respiratory diseases (J40-J47),CLRD,Alaska,194,41.8
+
+4006,2004,Diabetes mellitus (E10-E14),Diabetes,Hawaii,194,13.8
+
+6192,2014,Influenza and pneumonia (J09-J18),Influenza and pneumonia,New Hampshire,194,11.5
+
+6197,2009,Influenza and pneumonia (J09-J18),Influenza and pneumonia,New Hampshire,194,13.1
+
+6206,2000,Influenza and pneumonia (J09-J18),Influenza and pneumonia,New Hampshire,194,16.5
+
+7127,2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,New Hampshire,194,11.4
+
+9551,2012,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,District of Columbia,194,31.3
+
+2883,2011,Chronic lower respiratory diseases (J40-J47),CLRD,Alaska,194,41.8
+
+4006,2004,Diabetes mellitus (E10-E14),Diabetes,Hawaii,194,13.8
+
+6192,2014,Influenza and pneumonia (J09-J18),Influenza and pneumonia,New Hampshire,194,11.5
+
+6197,2009,Influenza and pneumonia (J09-J18),Influenza and pneumonia,New Hampshire,194,13.1
+
+6206,2000,Influenza and pneumonia (J09-J18),Influenza and pneumonia,New Hampshire,194,16.5
+
+7127,2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,New Hampshire,194,11.4
+
+9551,2012,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,District of Columbia,194,31.3
+

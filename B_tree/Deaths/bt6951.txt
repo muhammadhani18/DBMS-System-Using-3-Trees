@@ -1,0 +1,4 @@
+2606,2000,Malignant neoplasms (C00-C97),Cancer,Oregon,6951,197.3
+
+2606,2000,Malignant neoplasms (C00-C97),Cancer,Oregon,6951,197.3
+

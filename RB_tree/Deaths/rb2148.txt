@@ -1,0 +1,6 @@
+2630,2012,Malignant neoplasms (C00-C97),Cancer,Rhode Island,2148,163.5
+
+7581,2011,Cerebrovascular diseases (I60-I69),Stroke,Arizona,2148,30.6
+
+9663,2002,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Indiana,2148,34.9
+

@@ -1,0 +1,28 @@
+3938,2000,Diabetes mellitus (E10-E14),Diabetes,Delaware,193,24.6
+
+6151,2001,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Montana,193,19.4
+
+8494,2016,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Alaska,193,25.8
+
+8967,2011,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Nebraska,193,10.5
+
+8968,2010,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Nebraska,193,10.4
+
+8978,2000,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Nebraska,193,11.3
+
+9556,2007,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,District of Columbia,193,33.7
+
+3938,2000,Diabetes mellitus (E10-E14),Diabetes,Delaware,193,24.6
+
+6151,2001,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Montana,193,19.4
+
+8494,2016,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Alaska,193,25.8
+
+8967,2011,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Nebraska,193,10.5
+
+8968,2010,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Nebraska,193,10.4
+
+8978,2000,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Nebraska,193,11.3
+
+9556,2007,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,District of Columbia,193,33.7
+

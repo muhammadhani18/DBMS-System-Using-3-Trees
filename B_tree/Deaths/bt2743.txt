@@ -1,0 +1,4 @@
+10141,2000,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Tennessee,2743,48.5
+
+10141,2000,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Tennessee,2743,48.5
+

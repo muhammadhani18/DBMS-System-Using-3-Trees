@@ -1,0 +1,16 @@
+2990,2012,Chronic lower respiratory diseases (J40-J47),CLRD,Delaware,420,39.1
+
+4301,2015,Diabetes mellitus (E10-E14),Diabetes,Nevada,420,13.4
+
+8278,2016,Cerebrovascular diseases (I60-I69),Stroke,South Dakota,420,35.8
+
+9039,2011,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,New Mexico,420,20.3
+
+2990,2012,Chronic lower respiratory diseases (J40-J47),CLRD,Delaware,420,39.1
+
+4301,2015,Diabetes mellitus (E10-E14),Diabetes,Nevada,420,13.4
+
+8278,2016,Cerebrovascular diseases (I60-I69),Stroke,South Dakota,420,35.8
+
+9039,2011,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,New Mexico,420,20.3
+

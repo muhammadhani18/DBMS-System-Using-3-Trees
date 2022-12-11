@@ -1,0 +1,12 @@
+1692,2014,Alzheimer's disease (G30),Alzheimer's disease,Rhode Island,403,25.9
+
+1733,2009,Alzheimer's disease (G30),Alzheimer's disease,South Dakota,403,36.8
+
+4013,2015,Diabetes mellitus (E10-E14),Diabetes,Idaho,403,22.1
+
+1692,2014,Alzheimer's disease (G30),Alzheimer's disease,Rhode Island,403,25.9
+
+1733,2009,Alzheimer's disease (G30),Alzheimer's disease,South Dakota,403,36.8
+
+4013,2015,Diabetes mellitus (E10-E14),Diabetes,Idaho,403,22.1
+

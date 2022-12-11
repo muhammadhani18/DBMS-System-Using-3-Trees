@@ -1,0 +1,8 @@
+1042,2016,Alzheimer's disease (G30),Alzheimer's disease,Arkansas,1475,41.3
+
+1254,2002,Alzheimer's disease (G30),Alzheimer's disease,Indiana,1475,24.3
+
+3991,2001,Diabetes mellitus (E10-E14),Diabetes,Georgia,1475,22.1
+
+9684,2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Kansas,1475,47.2
+

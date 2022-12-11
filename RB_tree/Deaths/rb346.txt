@@ -1,0 +1,10 @@
+1693,2013,Alzheimer's disease (G30),Alzheimer's disease,Rhode Island,346,22.3
+
+1735,2007,Alzheimer's disease (G30),Alzheimer's disease,South Dakota,346,32.1
+
+9442,2002,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Alaska,346,59.2
+
+10195,2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Vermont,346,48.4
+
+10285,2010,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wyoming,346,59.8
+

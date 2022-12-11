@@ -1,0 +1,50 @@
+1365,1999,Alzheimer's disease (G30),Alzheimer's disease,Maryland,681,15.4
+
+1401,1999,Alzheimer's disease (G30),Alzheimer's disease,Michigan,1431,15.4
+
+1653,1999,Alzheimer's disease (G30),Alzheimer's disease,Oklahoma,553,15.4
+
+3910,2010,Diabetes mellitus (E10-E14),Diabetes,Connecticut,662,15.4
+
+3996,2014,Diabetes mellitus (E10-E14),Diabetes,Hawaii,276,15.4
+
+4316,2000,Diabetes mellitus (E10-E14),Diabetes,Nevada,276,15.4
+
+5783,2009,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Connecticut,696,15.4
+
+6200,2006,Influenza and pneumonia (J09-J18),Influenza and pneumonia,New Hampshire,212,15.4
+
+6305,2009,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Ohio,2040,15.4
+
+6736,2010,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Delaware,158,15.4
+
+6960,2002,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Maine,232,15.4
+
+7215,1999,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,North Carolina,1138,15.4
+
+7234,2016,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Ohio,2262,15.4
+
+7240,2010,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Ohio,2066,15.4
+
+7246,2004,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Ohio,1896,15.4
+
+7384,2011,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Texas,3397,15.4
+
+7392,2003,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Texas,2678,15.4
+
+7515,2006,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wisconsin,962,15.4
+
+8728,2016,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Indiana,1034,15.4
+
+9225,2005,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,South Dakota,121,15.4
+
+9235,2013,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Tennessee,1030,15.4
+
+9297,2005,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Utah,348,15.4
+
+9299,2003,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Utah,336,15.4
+
+9341,2015,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Washington,1137,15.4
+
+9370,2004,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,West Virginia,285,15.4
+

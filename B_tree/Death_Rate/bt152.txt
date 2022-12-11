@@ -1,0 +1,8 @@
+1967,2009,Malignant neoplasms (C00-C97),Cancer,Arizona,10271,152
+
+2001,2011,Malignant neoplasms (C00-C97),Cancer,California,56449,152
+
+2036,2012,Malignant neoplasms (C00-C97),Cancer,Connecticut,6681,152
+
+2144,2012,Malignant neoplasms (C00-C97),Cancer,Idaho,2572,152
+

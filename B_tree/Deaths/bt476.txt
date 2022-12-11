@@ -1,0 +1,28 @@
+1341,2005,Alzheimer's disease (G30),Alzheimer's disease,Maine,476,29.9
+
+3565,2013,Chronic lower respiratory diseases (J40-J47),CLRD,Rhode Island,476,34.7
+
+8165,2003,Cerebrovascular diseases (I60-I69),Stroke,North Dakota,476,56.7
+
+8291,2003,Cerebrovascular diseases (I60-I69),Stroke,South Dakota,476,50.4
+
+9137,2003,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Oklahoma,476,13.7
+
+9209,2003,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,South Carolina,476,11.5
+
+9600,2014,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Hawaii,476,30.1
+
+1341,2005,Alzheimer's disease (G30),Alzheimer's disease,Maine,476,29.9
+
+3565,2013,Chronic lower respiratory diseases (J40-J47),CLRD,Rhode Island,476,34.7
+
+8165,2003,Cerebrovascular diseases (I60-I69),Stroke,North Dakota,476,56.7
+
+8291,2003,Cerebrovascular diseases (I60-I69),Stroke,South Dakota,476,50.4
+
+9137,2003,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Oklahoma,476,13.7
+
+9209,2003,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,South Carolina,476,11.5
+
+9600,2014,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Hawaii,476,30.1
+

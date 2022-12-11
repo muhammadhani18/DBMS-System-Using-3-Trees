@@ -1,0 +1,6 @@
+5259,2012,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,New Hampshire,2324,146.1
+
+6358,2010,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Pennsylvania,2324,13.6
+
+9933,2004,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,New Jersey,2324,26.3
+

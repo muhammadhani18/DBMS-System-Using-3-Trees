@@ -1,0 +1,16 @@
+1257,1999,Alzheimer's disease (G30),Alzheimer's disease,Indiana,1106,18.9
+
+1453,2001,Alzheimer's disease (G30),Alzheimer's disease,Missouri,1106,17.8
+
+8886,2002,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Michigan,1106,11.1
+
+9080,2006,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,North Carolina,1106,12.2
+
+1257,1999,Alzheimer's disease (G30),Alzheimer's disease,Indiana,1106,18.9
+
+1453,2001,Alzheimer's disease (G30),Alzheimer's disease,Missouri,1106,17.8
+
+8886,2002,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Michigan,1106,11.1
+
+9080,2006,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,North Carolina,1106,12.2
+

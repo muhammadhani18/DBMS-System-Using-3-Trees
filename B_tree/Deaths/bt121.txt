@@ -1,0 +1,12 @@
+5798,2012,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Delaware,121,11.3
+
+7073,2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Montana,121,9.3
+
+9225,2005,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,South Dakota,121,15.4
+
+5798,2012,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Delaware,121,11.3
+
+7073,2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Montana,121,9.3
+
+9225,2005,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,South Dakota,121,15.4
+

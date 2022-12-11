@@ -1,0 +1,10 @@
+2099,2003,Malignant neoplasms (C00-C97),Cancer,Florida,39404,181.7
+
+2351,2003,Malignant neoplasms (C00-C97),Cancer,Minnesota,9183,181.7
+
+2405,2003,Malignant neoplasms (C00-C97),Cancer,Montana,1847,181.7
+
+4945,2001,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Hawaii,2310,181.7
+
+4972,2010,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Illinois,24959,181.7
+

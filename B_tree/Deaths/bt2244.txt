@@ -1,0 +1,8 @@
+2129,2009,Malignant neoplasms (C00-C97),Cancer,Hawaii,2244,141.3
+
+4940,2006,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Hawaii,2244,151.4
+
+2129,2009,Malignant neoplasms (C00-C97),Cancer,Hawaii,2244,141.3
+
+4940,2006,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Hawaii,2244,151.4
+

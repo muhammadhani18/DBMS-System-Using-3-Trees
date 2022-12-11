@@ -1,0 +1,4 @@
+262,2004,All Causes,All causes,Hawaii,9030,652.9
+
+5463,2006,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,South Carolina,9030,206.8
+

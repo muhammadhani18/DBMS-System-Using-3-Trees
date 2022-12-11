@@ -1,0 +1,8 @@
+1050,2008,Alzheimer's disease (G30),Alzheimer's disease,Arkansas,893,28.4
+
+7332,2009,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,South Carolina,893,18.8
+
+1050,2008,Alzheimer's disease (G30),Alzheimer's disease,Arkansas,893,28.4
+
+7332,2009,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,South Carolina,893,18.8
+

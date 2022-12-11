@@ -1,0 +1,4 @@
+4345,2007,Diabetes mellitus (E10-E14),Diabetes,New Jersey,2329,24.4
+
+9414,2013,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Alabama,2329,47.2
+

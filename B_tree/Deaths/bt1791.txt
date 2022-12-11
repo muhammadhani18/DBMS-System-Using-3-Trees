@@ -1,0 +1,12 @@
+5862,2002,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Georgia,1791,28.5
+
+7000,2016,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Michigan,1791,14.3
+
+7200,2014,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,North Carolina,1791,16.3
+
+5862,2002,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Georgia,1791,28.5
+
+7000,2016,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Michigan,1791,14.3
+
+7200,2014,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,North Carolina,1791,16.3
+

@@ -1,0 +1,4 @@
+8726,2000,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Illinois,1003,8.1
+
+8726,2000,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Illinois,1003,8.1
+

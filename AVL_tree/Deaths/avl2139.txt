@@ -1,0 +1,4 @@
+9665,2000,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Indiana,2139,35.4
+
+9777,2007,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Massachusetts,2139,31
+

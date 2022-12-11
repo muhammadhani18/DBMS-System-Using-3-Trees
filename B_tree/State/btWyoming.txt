@@ -1,0 +1,1584 @@
+52,2016,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wyoming,371,61.9
+
+970,2016,All Causes,All causes,Wyoming,4722,720.9
+
+971,2015,All Causes,All causes,Wyoming,4778,748.3
+
+972,2014,All Causes,All causes,Wyoming,4666,742.4
+
+973,2013,All Causes,All causes,Wyoming,4516,731.7
+
+974,2012,All Causes,All causes,Wyoming,4481,748.3
+
+975,2011,All Causes,All causes,Wyoming,4387,754.6
+
+976,2010,All Causes,All causes,Wyoming,4438,778.8
+
+977,2009,All Causes,All causes,Wyoming,4283,769.6
+
+978,2008,All Causes,All causes,Wyoming,4227,778.9
+
+979,2007,All Causes,All causes,Wyoming,4266,806.5
+
+980,2006,All Causes,All causes,Wyoming,4311,831.1
+
+981,2005,All Causes,All causes,Wyoming,4099,806.5
+
+982,2004,All Causes,All causes,Wyoming,3955,794.8
+
+983,2003,All Causes,All causes,Wyoming,4172,857.7
+
+984,2002,All Causes,All causes,Wyoming,4174,878.2
+
+985,2001,All Causes,All causes,Wyoming,4029,858.8
+
+986,2000,All Causes,All causes,Wyoming,3920,851.8
+
+987,1999,All Causes,All causes,Wyoming,4042,895.4
+
+1906,2016,Alzheimer's disease (G30),Alzheimer's disease,Wyoming,138,21.2
+
+1907,2015,Alzheimer's disease (G30),Alzheimer's disease,Wyoming,151,24.2
+
+1908,2014,Alzheimer's disease (G30),Alzheimer's disease,Wyoming,162,26.6
+
+1909,2013,Alzheimer's disease (G30),Alzheimer's disease,Wyoming,126,21
+
+1910,2012,Alzheimer's disease (G30),Alzheimer's disease,Wyoming,123,21.5
+
+1911,2011,Alzheimer's disease (G30),Alzheimer's disease,Wyoming,153,27.7
+
+1912,2010,Alzheimer's disease (G30),Alzheimer's disease,Wyoming,146,27.2
+
+1913,2009,Alzheimer's disease (G30),Alzheimer's disease,Wyoming,136,25.8
+
+1914,2008,Alzheimer's disease (G30),Alzheimer's disease,Wyoming,125,24.3
+
+1915,2007,Alzheimer's disease (G30),Alzheimer's disease,Wyoming,110,22
+
+1916,2006,Alzheimer's disease (G30),Alzheimer's disease,Wyoming,112,22.7
+
+1917,2005,Alzheimer's disease (G30),Alzheimer's disease,Wyoming,110,22.8
+
+1918,2004,Alzheimer's disease (G30),Alzheimer's disease,Wyoming,105,22.4
+
+1919,2003,Alzheimer's disease (G30),Alzheimer's disease,Wyoming,142,30.9
+
+1920,2002,Alzheimer's disease (G30),Alzheimer's disease,Wyoming,122,27
+
+1921,2001,Alzheimer's disease (G30),Alzheimer's disease,Wyoming,114,25.4
+
+1922,2000,Alzheimer's disease (G30),Alzheimer's disease,Wyoming,102,23.1
+
+1923,1999,Alzheimer's disease (G30),Alzheimer's disease,Wyoming,103,23.9
+
+2842,2016,Malignant neoplasms (C00-C97),Cancer,Wyoming,962,140.9
+
+2843,2015,Malignant neoplasms (C00-C97),Cancer,Wyoming,931,139.4
+
+2844,2014,Malignant neoplasms (C00-C97),Cancer,Wyoming,922,140.7
+
+2845,2013,Malignant neoplasms (C00-C97),Cancer,Wyoming,946,148.2
+
+2846,2012,Malignant neoplasms (C00-C97),Cancer,Wyoming,955,154.2
+
+2847,2011,Malignant neoplasms (C00-C97),Cancer,Wyoming,936,156
+
+2848,2010,Malignant neoplasms (C00-C97),Cancer,Wyoming,1016,172.6
+
+2849,2009,Malignant neoplasms (C00-C97),Cancer,Wyoming,936,164.7
+
+2850,2008,Malignant neoplasms (C00-C97),Cancer,Wyoming,874,156.7
+
+2851,2007,Malignant neoplasms (C00-C97),Cancer,Wyoming,940,172.9
+
+2852,2006,Malignant neoplasms (C00-C97),Cancer,Wyoming,927,174.6
+
+2853,2005,Malignant neoplasms (C00-C97),Cancer,Wyoming,886,169.2
+
+2854,2004,Malignant neoplasms (C00-C97),Cancer,Wyoming,875,171.7
+
+2855,2003,Malignant neoplasms (C00-C97),Cancer,Wyoming,943,188.9
+
+2856,2002,Malignant neoplasms (C00-C97),Cancer,Wyoming,859,177.1
+
+2857,2001,Malignant neoplasms (C00-C97),Cancer,Wyoming,923,194
+
+2858,2000,Malignant neoplasms (C00-C97),Cancer,Wyoming,868,185.5
+
+2859,1999,Malignant neoplasms (C00-C97),Cancer,Wyoming,899,195.1
+
+3778,2016,Chronic lower respiratory diseases (J40-J47),CLRD,Wyoming,327,48.9
+
+3779,2015,Chronic lower respiratory diseases (J40-J47),CLRD,Wyoming,368,57.1
+
+3780,2014,Chronic lower respiratory diseases (J40-J47),CLRD,Wyoming,343,55
+
+3781,2013,Chronic lower respiratory diseases (J40-J47),CLRD,Wyoming,387,63.1
+
+3782,2012,Chronic lower respiratory diseases (J40-J47),CLRD,Wyoming,334,55.8
+
+3783,2011,Chronic lower respiratory diseases (J40-J47),CLRD,Wyoming,327,57
+
+3784,2010,Chronic lower respiratory diseases (J40-J47),CLRD,Wyoming,332,59.5
+
+3785,2009,Chronic lower respiratory diseases (J40-J47),CLRD,Wyoming,310,57.2
+
+3786,2008,Chronic lower respiratory diseases (J40-J47),CLRD,Wyoming,311,58.5
+
+3787,2007,Chronic lower respiratory diseases (J40-J47),CLRD,Wyoming,295,56.7
+
+3788,2006,Chronic lower respiratory diseases (J40-J47),CLRD,Wyoming,345,67.4
+
+3789,2005,Chronic lower respiratory diseases (J40-J47),CLRD,Wyoming,291,57.6
+
+3790,2004,Chronic lower respiratory diseases (J40-J47),CLRD,Wyoming,308,62.8
+
+3791,2003,Chronic lower respiratory diseases (J40-J47),CLRD,Wyoming,278,57.6
+
+3792,2002,Chronic lower respiratory diseases (J40-J47),CLRD,Wyoming,324,68.7
+
+3793,2001,Chronic lower respiratory diseases (J40-J47),CLRD,Wyoming,270,57.9
+
+3794,2000,Chronic lower respiratory diseases (J40-J47),CLRD,Wyoming,283,62.4
+
+3795,1999,Chronic lower respiratory diseases (J40-J47),CLRD,Wyoming,338,75.6
+
+4714,2016,Diabetes mellitus (E10-E14),Diabetes,Wyoming,112,16.6
+
+4715,2015,Diabetes mellitus (E10-E14),Diabetes,Wyoming,136,20.8
+
+4716,2014,Diabetes mellitus (E10-E14),Diabetes,Wyoming,110,17.6
+
+4717,2013,Diabetes mellitus (E10-E14),Diabetes,Wyoming,89,14.2
+
+4718,2012,Diabetes mellitus (E10-E14),Diabetes,Wyoming,97,15.9
+
+4719,2011,Diabetes mellitus (E10-E14),Diabetes,Wyoming,108,18.4
+
+4720,2010,Diabetes mellitus (E10-E14),Diabetes,Wyoming,105,18.5
+
+4721,2009,Diabetes mellitus (E10-E14),Diabetes,Wyoming,105,18.1
+
+4722,2008,Diabetes mellitus (E10-E14),Diabetes,Wyoming,130,24.1
+
+4723,2007,Diabetes mellitus (E10-E14),Diabetes,Wyoming,139,26.3
+
+4724,2006,Diabetes mellitus (E10-E14),Diabetes,Wyoming,126,23.9
+
+4725,2005,Diabetes mellitus (E10-E14),Diabetes,Wyoming,130,25.8
+
+4726,2004,Diabetes mellitus (E10-E14),Diabetes,Wyoming,110,22.2
+
+4727,2003,Diabetes mellitus (E10-E14),Diabetes,Wyoming,138,27.8
+
+4728,2002,Diabetes mellitus (E10-E14),Diabetes,Wyoming,145,30.5
+
+4729,2001,Diabetes mellitus (E10-E14),Diabetes,Wyoming,120,25.7
+
+4730,2000,Diabetes mellitus (E10-E14),Diabetes,Wyoming,111,24.1
+
+4731,1999,Diabetes mellitus (E10-E14),Diabetes,Wyoming,135,29.8
+
+5650,2016,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Wyoming,1051,157.8
+
+5651,2015,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Wyoming,1030,159.4
+
+5652,2014,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Wyoming,1035,162.2
+
+5653,2013,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Wyoming,939,152.4
+
+5654,2012,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Wyoming,1005,167.2
+
+5655,2011,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Wyoming,926,158.9
+
+5656,2010,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Wyoming,962,169.8
+
+5657,2009,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Wyoming,964,172.1
+
+5658,2008,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Wyoming,937,171.9
+
+5659,2007,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Wyoming,957,180.4
+
+5660,2006,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Wyoming,994,192.9
+
+5661,2005,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Wyoming,952,188.3
+
+5662,2004,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Wyoming,950,192.5
+
+5663,2003,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Wyoming,975,202.1
+
+5664,2002,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Wyoming,1005,214.5
+
+5665,2001,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Wyoming,985,211.9
+
+5666,2000,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Wyoming,992,217.4
+
+5667,1999,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Wyoming,1009,227.8
+
+6586,2016,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wyoming,99,15
+
+6587,2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wyoming,99,16
+
+6588,2014,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wyoming,113,18.1
+
+6589,2013,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wyoming,112,18.4
+
+6590,2012,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wyoming,91,15.7
+
+6591,2011,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wyoming,116,20.4
+
+6592,2010,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wyoming,109,19.5
+
+6593,2009,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wyoming,142,26.7
+
+6594,2008,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wyoming,123,23.4
+
+6595,2007,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wyoming,113,21.8
+
+6596,2006,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wyoming,117,23.5
+
+6597,2005,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wyoming,119,24.5
+
+6598,2004,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wyoming,109,22.7
+
+6599,2003,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wyoming,145,30.8
+
+6600,2002,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wyoming,135,29.4
+
+6601,2001,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wyoming,112,24.5
+
+6602,2000,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wyoming,126,28.3
+
+6603,1999,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wyoming,130,30
+
+7523,2016,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wyoming,66,10
+
+7524,2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wyoming,86,13.3
+
+7525,2014,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wyoming,78,12.2
+
+7526,2013,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wyoming,56,9.4
+
+7527,2012,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wyoming,72,12.3
+
+7528,2011,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wyoming,85,14.9
+
+7529,2010,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wyoming,69,12.5
+
+7530,2009,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wyoming,76,14
+
+7531,2008,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wyoming,56,10.8
+
+7532,2007,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wyoming,68,13.4
+
+7533,2006,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wyoming,58,11.6
+
+7534,2005,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wyoming,66,13.6
+
+7535,2004,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wyoming,45,9.3
+
+7536,2003,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wyoming,57,11.9
+
+7537,2002,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wyoming,43,9.2
+
+7538,2001,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wyoming,54,11.7
+
+7539,2000,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wyoming,45,9.9
+
+7540,1999,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wyoming,30,6.8
+
+8458,2016,Cerebrovascular diseases (I60-I69),Stroke,Wyoming,208,31.7
+
+8459,2015,Cerebrovascular diseases (I60-I69),Stroke,Wyoming,198,31.4
+
+8460,2014,Cerebrovascular diseases (I60-I69),Stroke,Wyoming,189,30.2
+
+8461,2013,Cerebrovascular diseases (I60-I69),Stroke,Wyoming,213,35.1
+
+8462,2012,Cerebrovascular diseases (I60-I69),Stroke,Wyoming,205,34.9
+
+8463,2011,Cerebrovascular diseases (I60-I69),Stroke,Wyoming,214,37.2
+
+8464,2010,Cerebrovascular diseases (I60-I69),Stroke,Wyoming,204,37.2
+
+8465,2009,Cerebrovascular diseases (I60-I69),Stroke,Wyoming,233,42.6
+
+8466,2008,Cerebrovascular diseases (I60-I69),Stroke,Wyoming,234,44.4
+
+8467,2007,Cerebrovascular diseases (I60-I69),Stroke,Wyoming,209,40.5
+
+8468,2006,Cerebrovascular diseases (I60-I69),Stroke,Wyoming,236,46.5
+
+8469,2005,Cerebrovascular diseases (I60-I69),Stroke,Wyoming,221,45.1
+
+8470,2004,Cerebrovascular diseases (I60-I69),Stroke,Wyoming,214,44.2
+
+8471,2003,Cerebrovascular diseases (I60-I69),Stroke,Wyoming,253,53.9
+
+8472,2002,Cerebrovascular diseases (I60-I69),Stroke,Wyoming,243,52.8
+
+8473,2001,Cerebrovascular diseases (I60-I69),Stroke,Wyoming,260,56.7
+
+8474,2000,Cerebrovascular diseases (I60-I69),Stroke,Wyoming,260,58.3
+
+8475,1999,Cerebrovascular diseases (I60-I69),Stroke,Wyoming,265,60.7
+
+9394,2016,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wyoming,144,25.2
+
+9395,2015,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wyoming,157,28
+
+9396,2014,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wyoming,120,20.6
+
+9397,2013,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wyoming,129,21.5
+
+9398,2012,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wyoming,171,29.6
+
+9399,2011,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wyoming,132,23.2
+
+9400,2010,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wyoming,131,22.4
+
+9401,2009,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wyoming,111,20.4
+
+9402,2008,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wyoming,124,22.6
+
+9403,2007,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wyoming,101,19.3
+
+9404,2006,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wyoming,116,21.7
+
+9405,2005,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wyoming,90,17.3
+
+9406,2004,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wyoming,88,17.5
+
+9407,2003,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wyoming,109,21.8
+
+9408,2002,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wyoming,105,20.8
+
+9409,2001,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wyoming,83,16.4
+
+9410,2000,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wyoming,83,16.8
+
+9411,1999,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wyoming,98,20.3
+
+10280,2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wyoming,400,65.8
+
+10281,2014,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wyoming,361,60.9
+
+10282,2013,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wyoming,325,55.2
+
+10283,2012,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wyoming,308,52.9
+
+10284,2011,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wyoming,317,56.2
+
+10285,2010,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wyoming,346,59.8
+
+10286,2009,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wyoming,299,53.7
+
+10287,2008,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wyoming,351,64.3
+
+10288,2007,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wyoming,299,56.5
+
+10289,2006,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wyoming,306,58.9
+
+10290,2005,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wyoming,302,58.7
+
+10291,2004,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wyoming,243,47.2
+
+10292,2003,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wyoming,273,55.1
+
+10293,2002,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wyoming,289,58.1
+
+10294,2001,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wyoming,272,55.5
+
+10295,2000,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wyoming,245,50.8
+
+10296,1999,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wyoming,258,52.8
+
+52,2016,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wyoming,371,61.9
+
+970,2016,All Causes,All causes,Wyoming,4722,720.9
+
+971,2015,All Causes,All causes,Wyoming,4778,748.3
+
+972,2014,All Causes,All causes,Wyoming,4666,742.4
+
+973,2013,All Causes,All causes,Wyoming,4516,731.7
+
+974,2012,All Causes,All causes,Wyoming,4481,748.3
+
+975,2011,All Causes,All causes,Wyoming,4387,754.6
+
+976,2010,All Causes,All causes,Wyoming,4438,778.8
+
+977,2009,All Causes,All causes,Wyoming,4283,769.6
+
+978,2008,All Causes,All causes,Wyoming,4227,778.9
+
+979,2007,All Causes,All causes,Wyoming,4266,806.5
+
+980,2006,All Causes,All causes,Wyoming,4311,831.1
+
+981,2005,All Causes,All causes,Wyoming,4099,806.5
+
+982,2004,All Causes,All causes,Wyoming,3955,794.8
+
+983,2003,All Causes,All causes,Wyoming,4172,857.7
+
+984,2002,All Causes,All causes,Wyoming,4174,878.2
+
+985,2001,All Causes,All causes,Wyoming,4029,858.8
+
+986,2000,All Causes,All causes,Wyoming,3920,851.8
+
+987,1999,All Causes,All causes,Wyoming,4042,895.4
+
+1906,2016,Alzheimer's disease (G30),Alzheimer's disease,Wyoming,138,21.2
+
+1907,2015,Alzheimer's disease (G30),Alzheimer's disease,Wyoming,151,24.2
+
+1908,2014,Alzheimer's disease (G30),Alzheimer's disease,Wyoming,162,26.6
+
+1909,2013,Alzheimer's disease (G30),Alzheimer's disease,Wyoming,126,21
+
+1910,2012,Alzheimer's disease (G30),Alzheimer's disease,Wyoming,123,21.5
+
+1911,2011,Alzheimer's disease (G30),Alzheimer's disease,Wyoming,153,27.7
+
+1912,2010,Alzheimer's disease (G30),Alzheimer's disease,Wyoming,146,27.2
+
+1913,2009,Alzheimer's disease (G30),Alzheimer's disease,Wyoming,136,25.8
+
+1914,2008,Alzheimer's disease (G30),Alzheimer's disease,Wyoming,125,24.3
+
+1915,2007,Alzheimer's disease (G30),Alzheimer's disease,Wyoming,110,22
+
+1916,2006,Alzheimer's disease (G30),Alzheimer's disease,Wyoming,112,22.7
+
+1917,2005,Alzheimer's disease (G30),Alzheimer's disease,Wyoming,110,22.8
+
+1918,2004,Alzheimer's disease (G30),Alzheimer's disease,Wyoming,105,22.4
+
+1919,2003,Alzheimer's disease (G30),Alzheimer's disease,Wyoming,142,30.9
+
+1920,2002,Alzheimer's disease (G30),Alzheimer's disease,Wyoming,122,27
+
+1921,2001,Alzheimer's disease (G30),Alzheimer's disease,Wyoming,114,25.4
+
+1922,2000,Alzheimer's disease (G30),Alzheimer's disease,Wyoming,102,23.1
+
+1923,1999,Alzheimer's disease (G30),Alzheimer's disease,Wyoming,103,23.9
+
+2842,2016,Malignant neoplasms (C00-C97),Cancer,Wyoming,962,140.9
+
+2843,2015,Malignant neoplasms (C00-C97),Cancer,Wyoming,931,139.4
+
+2844,2014,Malignant neoplasms (C00-C97),Cancer,Wyoming,922,140.7
+
+2845,2013,Malignant neoplasms (C00-C97),Cancer,Wyoming,946,148.2
+
+2846,2012,Malignant neoplasms (C00-C97),Cancer,Wyoming,955,154.2
+
+2847,2011,Malignant neoplasms (C00-C97),Cancer,Wyoming,936,156
+
+2848,2010,Malignant neoplasms (C00-C97),Cancer,Wyoming,1016,172.6
+
+2849,2009,Malignant neoplasms (C00-C97),Cancer,Wyoming,936,164.7
+
+2850,2008,Malignant neoplasms (C00-C97),Cancer,Wyoming,874,156.7
+
+2851,2007,Malignant neoplasms (C00-C97),Cancer,Wyoming,940,172.9
+
+2852,2006,Malignant neoplasms (C00-C97),Cancer,Wyoming,927,174.6
+
+2853,2005,Malignant neoplasms (C00-C97),Cancer,Wyoming,886,169.2
+
+2854,2004,Malignant neoplasms (C00-C97),Cancer,Wyoming,875,171.7
+
+2855,2003,Malignant neoplasms (C00-C97),Cancer,Wyoming,943,188.9
+
+2856,2002,Malignant neoplasms (C00-C97),Cancer,Wyoming,859,177.1
+
+2857,2001,Malignant neoplasms (C00-C97),Cancer,Wyoming,923,194
+
+2858,2000,Malignant neoplasms (C00-C97),Cancer,Wyoming,868,185.5
+
+2859,1999,Malignant neoplasms (C00-C97),Cancer,Wyoming,899,195.1
+
+3778,2016,Chronic lower respiratory diseases (J40-J47),CLRD,Wyoming,327,48.9
+
+3779,2015,Chronic lower respiratory diseases (J40-J47),CLRD,Wyoming,368,57.1
+
+3780,2014,Chronic lower respiratory diseases (J40-J47),CLRD,Wyoming,343,55
+
+3781,2013,Chronic lower respiratory diseases (J40-J47),CLRD,Wyoming,387,63.1
+
+3782,2012,Chronic lower respiratory diseases (J40-J47),CLRD,Wyoming,334,55.8
+
+3783,2011,Chronic lower respiratory diseases (J40-J47),CLRD,Wyoming,327,57
+
+3784,2010,Chronic lower respiratory diseases (J40-J47),CLRD,Wyoming,332,59.5
+
+3785,2009,Chronic lower respiratory diseases (J40-J47),CLRD,Wyoming,310,57.2
+
+3786,2008,Chronic lower respiratory diseases (J40-J47),CLRD,Wyoming,311,58.5
+
+3787,2007,Chronic lower respiratory diseases (J40-J47),CLRD,Wyoming,295,56.7
+
+3788,2006,Chronic lower respiratory diseases (J40-J47),CLRD,Wyoming,345,67.4
+
+3789,2005,Chronic lower respiratory diseases (J40-J47),CLRD,Wyoming,291,57.6
+
+3790,2004,Chronic lower respiratory diseases (J40-J47),CLRD,Wyoming,308,62.8
+
+3791,2003,Chronic lower respiratory diseases (J40-J47),CLRD,Wyoming,278,57.6
+
+3792,2002,Chronic lower respiratory diseases (J40-J47),CLRD,Wyoming,324,68.7
+
+3793,2001,Chronic lower respiratory diseases (J40-J47),CLRD,Wyoming,270,57.9
+
+3794,2000,Chronic lower respiratory diseases (J40-J47),CLRD,Wyoming,283,62.4
+
+3795,1999,Chronic lower respiratory diseases (J40-J47),CLRD,Wyoming,338,75.6
+
+4714,2016,Diabetes mellitus (E10-E14),Diabetes,Wyoming,112,16.6
+
+4715,2015,Diabetes mellitus (E10-E14),Diabetes,Wyoming,136,20.8
+
+4716,2014,Diabetes mellitus (E10-E14),Diabetes,Wyoming,110,17.6
+
+4717,2013,Diabetes mellitus (E10-E14),Diabetes,Wyoming,89,14.2
+
+4718,2012,Diabetes mellitus (E10-E14),Diabetes,Wyoming,97,15.9
+
+4719,2011,Diabetes mellitus (E10-E14),Diabetes,Wyoming,108,18.4
+
+4720,2010,Diabetes mellitus (E10-E14),Diabetes,Wyoming,105,18.5
+
+4721,2009,Diabetes mellitus (E10-E14),Diabetes,Wyoming,105,18.1
+
+4722,2008,Diabetes mellitus (E10-E14),Diabetes,Wyoming,130,24.1
+
+4723,2007,Diabetes mellitus (E10-E14),Diabetes,Wyoming,139,26.3
+
+4724,2006,Diabetes mellitus (E10-E14),Diabetes,Wyoming,126,23.9
+
+4725,2005,Diabetes mellitus (E10-E14),Diabetes,Wyoming,130,25.8
+
+4726,2004,Diabetes mellitus (E10-E14),Diabetes,Wyoming,110,22.2
+
+4727,2003,Diabetes mellitus (E10-E14),Diabetes,Wyoming,138,27.8
+
+4728,2002,Diabetes mellitus (E10-E14),Diabetes,Wyoming,145,30.5
+
+4729,2001,Diabetes mellitus (E10-E14),Diabetes,Wyoming,120,25.7
+
+4730,2000,Diabetes mellitus (E10-E14),Diabetes,Wyoming,111,24.1
+
+4731,1999,Diabetes mellitus (E10-E14),Diabetes,Wyoming,135,29.8
+
+5650,2016,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Wyoming,1051,157.8
+
+5651,2015,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Wyoming,1030,159.4
+
+5652,2014,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Wyoming,1035,162.2
+
+5653,2013,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Wyoming,939,152.4
+
+5654,2012,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Wyoming,1005,167.2
+
+5655,2011,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Wyoming,926,158.9
+
+5656,2010,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Wyoming,962,169.8
+
+5657,2009,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Wyoming,964,172.1
+
+5658,2008,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Wyoming,937,171.9
+
+5659,2007,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Wyoming,957,180.4
+
+5660,2006,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Wyoming,994,192.9
+
+5661,2005,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Wyoming,952,188.3
+
+5662,2004,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Wyoming,950,192.5
+
+5663,2003,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Wyoming,975,202.1
+
+5664,2002,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Wyoming,1005,214.5
+
+5665,2001,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Wyoming,985,211.9
+
+5666,2000,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Wyoming,992,217.4
+
+5667,1999,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Wyoming,1009,227.8
+
+6586,2016,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wyoming,99,15
+
+6587,2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wyoming,99,16
+
+6588,2014,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wyoming,113,18.1
+
+6589,2013,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wyoming,112,18.4
+
+6590,2012,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wyoming,91,15.7
+
+6591,2011,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wyoming,116,20.4
+
+6592,2010,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wyoming,109,19.5
+
+6593,2009,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wyoming,142,26.7
+
+6594,2008,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wyoming,123,23.4
+
+6595,2007,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wyoming,113,21.8
+
+6596,2006,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wyoming,117,23.5
+
+6597,2005,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wyoming,119,24.5
+
+6598,2004,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wyoming,109,22.7
+
+6599,2003,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wyoming,145,30.8
+
+6600,2002,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wyoming,135,29.4
+
+6601,2001,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wyoming,112,24.5
+
+6602,2000,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wyoming,126,28.3
+
+6603,1999,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wyoming,130,30
+
+7523,2016,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wyoming,66,10
+
+7524,2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wyoming,86,13.3
+
+7525,2014,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wyoming,78,12.2
+
+7526,2013,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wyoming,56,9.4
+
+7527,2012,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wyoming,72,12.3
+
+7528,2011,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wyoming,85,14.9
+
+7529,2010,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wyoming,69,12.5
+
+7530,2009,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wyoming,76,14
+
+7531,2008,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wyoming,56,10.8
+
+7532,2007,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wyoming,68,13.4
+
+7533,2006,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wyoming,58,11.6
+
+7534,2005,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wyoming,66,13.6
+
+7535,2004,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wyoming,45,9.3
+
+7536,2003,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wyoming,57,11.9
+
+7537,2002,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wyoming,43,9.2
+
+7538,2001,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wyoming,54,11.7
+
+7539,2000,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wyoming,45,9.9
+
+7540,1999,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wyoming,30,6.8
+
+8458,2016,Cerebrovascular diseases (I60-I69),Stroke,Wyoming,208,31.7
+
+8459,2015,Cerebrovascular diseases (I60-I69),Stroke,Wyoming,198,31.4
+
+8460,2014,Cerebrovascular diseases (I60-I69),Stroke,Wyoming,189,30.2
+
+8461,2013,Cerebrovascular diseases (I60-I69),Stroke,Wyoming,213,35.1
+
+8462,2012,Cerebrovascular diseases (I60-I69),Stroke,Wyoming,205,34.9
+
+8463,2011,Cerebrovascular diseases (I60-I69),Stroke,Wyoming,214,37.2
+
+8464,2010,Cerebrovascular diseases (I60-I69),Stroke,Wyoming,204,37.2
+
+8465,2009,Cerebrovascular diseases (I60-I69),Stroke,Wyoming,233,42.6
+
+8466,2008,Cerebrovascular diseases (I60-I69),Stroke,Wyoming,234,44.4
+
+8467,2007,Cerebrovascular diseases (I60-I69),Stroke,Wyoming,209,40.5
+
+8468,2006,Cerebrovascular diseases (I60-I69),Stroke,Wyoming,236,46.5
+
+8469,2005,Cerebrovascular diseases (I60-I69),Stroke,Wyoming,221,45.1
+
+8470,2004,Cerebrovascular diseases (I60-I69),Stroke,Wyoming,214,44.2
+
+8471,2003,Cerebrovascular diseases (I60-I69),Stroke,Wyoming,253,53.9
+
+8472,2002,Cerebrovascular diseases (I60-I69),Stroke,Wyoming,243,52.8
+
+8473,2001,Cerebrovascular diseases (I60-I69),Stroke,Wyoming,260,56.7
+
+8474,2000,Cerebrovascular diseases (I60-I69),Stroke,Wyoming,260,58.3
+
+8475,1999,Cerebrovascular diseases (I60-I69),Stroke,Wyoming,265,60.7
+
+9394,2016,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wyoming,144,25.2
+
+9395,2015,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wyoming,157,28
+
+9396,2014,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wyoming,120,20.6
+
+9397,2013,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wyoming,129,21.5
+
+9398,2012,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wyoming,171,29.6
+
+9399,2011,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wyoming,132,23.2
+
+9400,2010,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wyoming,131,22.4
+
+9401,2009,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wyoming,111,20.4
+
+9402,2008,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wyoming,124,22.6
+
+9403,2007,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wyoming,101,19.3
+
+9404,2006,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wyoming,116,21.7
+
+9405,2005,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wyoming,90,17.3
+
+9406,2004,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wyoming,88,17.5
+
+9407,2003,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wyoming,109,21.8
+
+9408,2002,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wyoming,105,20.8
+
+9409,2001,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wyoming,83,16.4
+
+9410,2000,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wyoming,83,16.8
+
+9411,1999,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wyoming,98,20.3
+
+10280,2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wyoming,400,65.8
+
+10281,2014,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wyoming,361,60.9
+
+10282,2013,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wyoming,325,55.2
+
+10283,2012,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wyoming,308,52.9
+
+10284,2011,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wyoming,317,56.2
+
+10285,2010,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wyoming,346,59.8
+
+10286,2009,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wyoming,299,53.7
+
+10287,2008,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wyoming,351,64.3
+
+10288,2007,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wyoming,299,56.5
+
+10289,2006,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wyoming,306,58.9
+
+10290,2005,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wyoming,302,58.7
+
+10291,2004,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wyoming,243,47.2
+
+10292,2003,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wyoming,273,55.1
+
+10293,2002,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wyoming,289,58.1
+
+10294,2001,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wyoming,272,55.5
+
+10295,2000,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wyoming,245,50.8
+
+10296,1999,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wyoming,258,52.8
+
+52,2016,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wyoming,371,61.9
+
+970,2016,All Causes,All causes,Wyoming,4722,720.9
+
+971,2015,All Causes,All causes,Wyoming,4778,748.3
+
+972,2014,All Causes,All causes,Wyoming,4666,742.4
+
+973,2013,All Causes,All causes,Wyoming,4516,731.7
+
+974,2012,All Causes,All causes,Wyoming,4481,748.3
+
+975,2011,All Causes,All causes,Wyoming,4387,754.6
+
+976,2010,All Causes,All causes,Wyoming,4438,778.8
+
+977,2009,All Causes,All causes,Wyoming,4283,769.6
+
+978,2008,All Causes,All causes,Wyoming,4227,778.9
+
+979,2007,All Causes,All causes,Wyoming,4266,806.5
+
+980,2006,All Causes,All causes,Wyoming,4311,831.1
+
+981,2005,All Causes,All causes,Wyoming,4099,806.5
+
+982,2004,All Causes,All causes,Wyoming,3955,794.8
+
+983,2003,All Causes,All causes,Wyoming,4172,857.7
+
+984,2002,All Causes,All causes,Wyoming,4174,878.2
+
+985,2001,All Causes,All causes,Wyoming,4029,858.8
+
+986,2000,All Causes,All causes,Wyoming,3920,851.8
+
+987,1999,All Causes,All causes,Wyoming,4042,895.4
+
+1906,2016,Alzheimer's disease (G30),Alzheimer's disease,Wyoming,138,21.2
+
+1907,2015,Alzheimer's disease (G30),Alzheimer's disease,Wyoming,151,24.2
+
+1908,2014,Alzheimer's disease (G30),Alzheimer's disease,Wyoming,162,26.6
+
+1909,2013,Alzheimer's disease (G30),Alzheimer's disease,Wyoming,126,21
+
+1910,2012,Alzheimer's disease (G30),Alzheimer's disease,Wyoming,123,21.5
+
+1911,2011,Alzheimer's disease (G30),Alzheimer's disease,Wyoming,153,27.7
+
+1912,2010,Alzheimer's disease (G30),Alzheimer's disease,Wyoming,146,27.2
+
+1913,2009,Alzheimer's disease (G30),Alzheimer's disease,Wyoming,136,25.8
+
+1914,2008,Alzheimer's disease (G30),Alzheimer's disease,Wyoming,125,24.3
+
+1915,2007,Alzheimer's disease (G30),Alzheimer's disease,Wyoming,110,22
+
+1916,2006,Alzheimer's disease (G30),Alzheimer's disease,Wyoming,112,22.7
+
+1917,2005,Alzheimer's disease (G30),Alzheimer's disease,Wyoming,110,22.8
+
+1918,2004,Alzheimer's disease (G30),Alzheimer's disease,Wyoming,105,22.4
+
+1919,2003,Alzheimer's disease (G30),Alzheimer's disease,Wyoming,142,30.9
+
+1920,2002,Alzheimer's disease (G30),Alzheimer's disease,Wyoming,122,27
+
+1921,2001,Alzheimer's disease (G30),Alzheimer's disease,Wyoming,114,25.4
+
+1922,2000,Alzheimer's disease (G30),Alzheimer's disease,Wyoming,102,23.1
+
+1923,1999,Alzheimer's disease (G30),Alzheimer's disease,Wyoming,103,23.9
+
+2842,2016,Malignant neoplasms (C00-C97),Cancer,Wyoming,962,140.9
+
+2843,2015,Malignant neoplasms (C00-C97),Cancer,Wyoming,931,139.4
+
+2844,2014,Malignant neoplasms (C00-C97),Cancer,Wyoming,922,140.7
+
+2845,2013,Malignant neoplasms (C00-C97),Cancer,Wyoming,946,148.2
+
+2846,2012,Malignant neoplasms (C00-C97),Cancer,Wyoming,955,154.2
+
+2847,2011,Malignant neoplasms (C00-C97),Cancer,Wyoming,936,156
+
+2848,2010,Malignant neoplasms (C00-C97),Cancer,Wyoming,1016,172.6
+
+2849,2009,Malignant neoplasms (C00-C97),Cancer,Wyoming,936,164.7
+
+2850,2008,Malignant neoplasms (C00-C97),Cancer,Wyoming,874,156.7
+
+2851,2007,Malignant neoplasms (C00-C97),Cancer,Wyoming,940,172.9
+
+2852,2006,Malignant neoplasms (C00-C97),Cancer,Wyoming,927,174.6
+
+2853,2005,Malignant neoplasms (C00-C97),Cancer,Wyoming,886,169.2
+
+2854,2004,Malignant neoplasms (C00-C97),Cancer,Wyoming,875,171.7
+
+2855,2003,Malignant neoplasms (C00-C97),Cancer,Wyoming,943,188.9
+
+2856,2002,Malignant neoplasms (C00-C97),Cancer,Wyoming,859,177.1
+
+2857,2001,Malignant neoplasms (C00-C97),Cancer,Wyoming,923,194
+
+2858,2000,Malignant neoplasms (C00-C97),Cancer,Wyoming,868,185.5
+
+2859,1999,Malignant neoplasms (C00-C97),Cancer,Wyoming,899,195.1
+
+3778,2016,Chronic lower respiratory diseases (J40-J47),CLRD,Wyoming,327,48.9
+
+3779,2015,Chronic lower respiratory diseases (J40-J47),CLRD,Wyoming,368,57.1
+
+3780,2014,Chronic lower respiratory diseases (J40-J47),CLRD,Wyoming,343,55
+
+3781,2013,Chronic lower respiratory diseases (J40-J47),CLRD,Wyoming,387,63.1
+
+3782,2012,Chronic lower respiratory diseases (J40-J47),CLRD,Wyoming,334,55.8
+
+3783,2011,Chronic lower respiratory diseases (J40-J47),CLRD,Wyoming,327,57
+
+3784,2010,Chronic lower respiratory diseases (J40-J47),CLRD,Wyoming,332,59.5
+
+3785,2009,Chronic lower respiratory diseases (J40-J47),CLRD,Wyoming,310,57.2
+
+3786,2008,Chronic lower respiratory diseases (J40-J47),CLRD,Wyoming,311,58.5
+
+3787,2007,Chronic lower respiratory diseases (J40-J47),CLRD,Wyoming,295,56.7
+
+3788,2006,Chronic lower respiratory diseases (J40-J47),CLRD,Wyoming,345,67.4
+
+3789,2005,Chronic lower respiratory diseases (J40-J47),CLRD,Wyoming,291,57.6
+
+3790,2004,Chronic lower respiratory diseases (J40-J47),CLRD,Wyoming,308,62.8
+
+3791,2003,Chronic lower respiratory diseases (J40-J47),CLRD,Wyoming,278,57.6
+
+3792,2002,Chronic lower respiratory diseases (J40-J47),CLRD,Wyoming,324,68.7
+
+3793,2001,Chronic lower respiratory diseases (J40-J47),CLRD,Wyoming,270,57.9
+
+3794,2000,Chronic lower respiratory diseases (J40-J47),CLRD,Wyoming,283,62.4
+
+3795,1999,Chronic lower respiratory diseases (J40-J47),CLRD,Wyoming,338,75.6
+
+4714,2016,Diabetes mellitus (E10-E14),Diabetes,Wyoming,112,16.6
+
+4715,2015,Diabetes mellitus (E10-E14),Diabetes,Wyoming,136,20.8
+
+4716,2014,Diabetes mellitus (E10-E14),Diabetes,Wyoming,110,17.6
+
+4717,2013,Diabetes mellitus (E10-E14),Diabetes,Wyoming,89,14.2
+
+4718,2012,Diabetes mellitus (E10-E14),Diabetes,Wyoming,97,15.9
+
+4719,2011,Diabetes mellitus (E10-E14),Diabetes,Wyoming,108,18.4
+
+4720,2010,Diabetes mellitus (E10-E14),Diabetes,Wyoming,105,18.5
+
+4721,2009,Diabetes mellitus (E10-E14),Diabetes,Wyoming,105,18.1
+
+4722,2008,Diabetes mellitus (E10-E14),Diabetes,Wyoming,130,24.1
+
+4723,2007,Diabetes mellitus (E10-E14),Diabetes,Wyoming,139,26.3
+
+4724,2006,Diabetes mellitus (E10-E14),Diabetes,Wyoming,126,23.9
+
+4725,2005,Diabetes mellitus (E10-E14),Diabetes,Wyoming,130,25.8
+
+4726,2004,Diabetes mellitus (E10-E14),Diabetes,Wyoming,110,22.2
+
+4727,2003,Diabetes mellitus (E10-E14),Diabetes,Wyoming,138,27.8
+
+4728,2002,Diabetes mellitus (E10-E14),Diabetes,Wyoming,145,30.5
+
+4729,2001,Diabetes mellitus (E10-E14),Diabetes,Wyoming,120,25.7
+
+4730,2000,Diabetes mellitus (E10-E14),Diabetes,Wyoming,111,24.1
+
+4731,1999,Diabetes mellitus (E10-E14),Diabetes,Wyoming,135,29.8
+
+5650,2016,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Wyoming,1051,157.8
+
+5651,2015,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Wyoming,1030,159.4
+
+5652,2014,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Wyoming,1035,162.2
+
+5653,2013,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Wyoming,939,152.4
+
+5654,2012,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Wyoming,1005,167.2
+
+5655,2011,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Wyoming,926,158.9
+
+5656,2010,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Wyoming,962,169.8
+
+5657,2009,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Wyoming,964,172.1
+
+5658,2008,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Wyoming,937,171.9
+
+5659,2007,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Wyoming,957,180.4
+
+5660,2006,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Wyoming,994,192.9
+
+5661,2005,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Wyoming,952,188.3
+
+5662,2004,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Wyoming,950,192.5
+
+5663,2003,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Wyoming,975,202.1
+
+5664,2002,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Wyoming,1005,214.5
+
+5665,2001,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Wyoming,985,211.9
+
+5666,2000,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Wyoming,992,217.4
+
+5667,1999,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Wyoming,1009,227.8
+
+6586,2016,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wyoming,99,15
+
+6587,2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wyoming,99,16
+
+6588,2014,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wyoming,113,18.1
+
+6589,2013,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wyoming,112,18.4
+
+6590,2012,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wyoming,91,15.7
+
+6591,2011,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wyoming,116,20.4
+
+6592,2010,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wyoming,109,19.5
+
+6593,2009,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wyoming,142,26.7
+
+6594,2008,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wyoming,123,23.4
+
+6595,2007,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wyoming,113,21.8
+
+6596,2006,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wyoming,117,23.5
+
+6597,2005,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wyoming,119,24.5
+
+6598,2004,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wyoming,109,22.7
+
+6599,2003,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wyoming,145,30.8
+
+6600,2002,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wyoming,135,29.4
+
+6601,2001,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wyoming,112,24.5
+
+6602,2000,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wyoming,126,28.3
+
+6603,1999,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wyoming,130,30
+
+7523,2016,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wyoming,66,10
+
+7524,2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wyoming,86,13.3
+
+7525,2014,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wyoming,78,12.2
+
+7526,2013,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wyoming,56,9.4
+
+7527,2012,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wyoming,72,12.3
+
+7528,2011,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wyoming,85,14.9
+
+7529,2010,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wyoming,69,12.5
+
+7530,2009,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wyoming,76,14
+
+7531,2008,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wyoming,56,10.8
+
+7532,2007,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wyoming,68,13.4
+
+7533,2006,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wyoming,58,11.6
+
+7534,2005,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wyoming,66,13.6
+
+7535,2004,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wyoming,45,9.3
+
+7536,2003,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wyoming,57,11.9
+
+7537,2002,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wyoming,43,9.2
+
+7538,2001,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wyoming,54,11.7
+
+7539,2000,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wyoming,45,9.9
+
+7540,1999,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wyoming,30,6.8
+
+8458,2016,Cerebrovascular diseases (I60-I69),Stroke,Wyoming,208,31.7
+
+8459,2015,Cerebrovascular diseases (I60-I69),Stroke,Wyoming,198,31.4
+
+8460,2014,Cerebrovascular diseases (I60-I69),Stroke,Wyoming,189,30.2
+
+8461,2013,Cerebrovascular diseases (I60-I69),Stroke,Wyoming,213,35.1
+
+8462,2012,Cerebrovascular diseases (I60-I69),Stroke,Wyoming,205,34.9
+
+8463,2011,Cerebrovascular diseases (I60-I69),Stroke,Wyoming,214,37.2
+
+8464,2010,Cerebrovascular diseases (I60-I69),Stroke,Wyoming,204,37.2
+
+8465,2009,Cerebrovascular diseases (I60-I69),Stroke,Wyoming,233,42.6
+
+8466,2008,Cerebrovascular diseases (I60-I69),Stroke,Wyoming,234,44.4
+
+8467,2007,Cerebrovascular diseases (I60-I69),Stroke,Wyoming,209,40.5
+
+8468,2006,Cerebrovascular diseases (I60-I69),Stroke,Wyoming,236,46.5
+
+8469,2005,Cerebrovascular diseases (I60-I69),Stroke,Wyoming,221,45.1
+
+8470,2004,Cerebrovascular diseases (I60-I69),Stroke,Wyoming,214,44.2
+
+8471,2003,Cerebrovascular diseases (I60-I69),Stroke,Wyoming,253,53.9
+
+8472,2002,Cerebrovascular diseases (I60-I69),Stroke,Wyoming,243,52.8
+
+8473,2001,Cerebrovascular diseases (I60-I69),Stroke,Wyoming,260,56.7
+
+8474,2000,Cerebrovascular diseases (I60-I69),Stroke,Wyoming,260,58.3
+
+8475,1999,Cerebrovascular diseases (I60-I69),Stroke,Wyoming,265,60.7
+
+9394,2016,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wyoming,144,25.2
+
+9395,2015,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wyoming,157,28
+
+9396,2014,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wyoming,120,20.6
+
+9397,2013,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wyoming,129,21.5
+
+9398,2012,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wyoming,171,29.6
+
+9399,2011,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wyoming,132,23.2
+
+9400,2010,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wyoming,131,22.4
+
+9401,2009,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wyoming,111,20.4
+
+9402,2008,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wyoming,124,22.6
+
+9403,2007,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wyoming,101,19.3
+
+9404,2006,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wyoming,116,21.7
+
+9405,2005,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wyoming,90,17.3
+
+9406,2004,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wyoming,88,17.5
+
+9407,2003,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wyoming,109,21.8
+
+9408,2002,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wyoming,105,20.8
+
+9409,2001,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wyoming,83,16.4
+
+9410,2000,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wyoming,83,16.8
+
+9411,1999,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wyoming,98,20.3
+
+10280,2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wyoming,400,65.8
+
+10281,2014,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wyoming,361,60.9
+
+10282,2013,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wyoming,325,55.2
+
+10283,2012,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wyoming,308,52.9
+
+10284,2011,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wyoming,317,56.2
+
+10285,2010,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wyoming,346,59.8
+
+10286,2009,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wyoming,299,53.7
+
+10287,2008,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wyoming,351,64.3
+
+10288,2007,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wyoming,299,56.5
+
+10289,2006,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wyoming,306,58.9
+
+10290,2005,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wyoming,302,58.7
+
+10291,2004,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wyoming,243,47.2
+
+10292,2003,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wyoming,273,55.1
+
+10293,2002,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wyoming,289,58.1
+
+10294,2001,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wyoming,272,55.5
+
+10295,2000,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wyoming,245,50.8
+
+10296,1999,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wyoming,258,52.8
+
+52,2016,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wyoming,371,61.9
+
+970,2016,All Causes,All causes,Wyoming,4722,720.9
+
+971,2015,All Causes,All causes,Wyoming,4778,748.3
+
+972,2014,All Causes,All causes,Wyoming,4666,742.4
+
+973,2013,All Causes,All causes,Wyoming,4516,731.7
+
+974,2012,All Causes,All causes,Wyoming,4481,748.3
+
+975,2011,All Causes,All causes,Wyoming,4387,754.6
+
+976,2010,All Causes,All causes,Wyoming,4438,778.8
+
+977,2009,All Causes,All causes,Wyoming,4283,769.6
+
+978,2008,All Causes,All causes,Wyoming,4227,778.9
+
+979,2007,All Causes,All causes,Wyoming,4266,806.5
+
+980,2006,All Causes,All causes,Wyoming,4311,831.1
+
+981,2005,All Causes,All causes,Wyoming,4099,806.5
+
+982,2004,All Causes,All causes,Wyoming,3955,794.8
+
+983,2003,All Causes,All causes,Wyoming,4172,857.7
+
+984,2002,All Causes,All causes,Wyoming,4174,878.2
+
+985,2001,All Causes,All causes,Wyoming,4029,858.8
+
+986,2000,All Causes,All causes,Wyoming,3920,851.8
+
+987,1999,All Causes,All causes,Wyoming,4042,895.4
+
+1906,2016,Alzheimer's disease (G30),Alzheimer's disease,Wyoming,138,21.2
+
+1907,2015,Alzheimer's disease (G30),Alzheimer's disease,Wyoming,151,24.2
+
+1908,2014,Alzheimer's disease (G30),Alzheimer's disease,Wyoming,162,26.6
+
+1909,2013,Alzheimer's disease (G30),Alzheimer's disease,Wyoming,126,21
+
+1910,2012,Alzheimer's disease (G30),Alzheimer's disease,Wyoming,123,21.5
+
+1911,2011,Alzheimer's disease (G30),Alzheimer's disease,Wyoming,153,27.7
+
+1912,2010,Alzheimer's disease (G30),Alzheimer's disease,Wyoming,146,27.2
+
+1913,2009,Alzheimer's disease (G30),Alzheimer's disease,Wyoming,136,25.8
+
+1914,2008,Alzheimer's disease (G30),Alzheimer's disease,Wyoming,125,24.3
+
+1915,2007,Alzheimer's disease (G30),Alzheimer's disease,Wyoming,110,22
+
+1916,2006,Alzheimer's disease (G30),Alzheimer's disease,Wyoming,112,22.7
+
+1917,2005,Alzheimer's disease (G30),Alzheimer's disease,Wyoming,110,22.8
+
+1918,2004,Alzheimer's disease (G30),Alzheimer's disease,Wyoming,105,22.4
+
+1919,2003,Alzheimer's disease (G30),Alzheimer's disease,Wyoming,142,30.9
+
+1920,2002,Alzheimer's disease (G30),Alzheimer's disease,Wyoming,122,27
+
+1921,2001,Alzheimer's disease (G30),Alzheimer's disease,Wyoming,114,25.4
+
+1922,2000,Alzheimer's disease (G30),Alzheimer's disease,Wyoming,102,23.1
+
+1923,1999,Alzheimer's disease (G30),Alzheimer's disease,Wyoming,103,23.9
+
+2842,2016,Malignant neoplasms (C00-C97),Cancer,Wyoming,962,140.9
+
+2843,2015,Malignant neoplasms (C00-C97),Cancer,Wyoming,931,139.4
+
+2844,2014,Malignant neoplasms (C00-C97),Cancer,Wyoming,922,140.7
+
+2845,2013,Malignant neoplasms (C00-C97),Cancer,Wyoming,946,148.2
+
+2846,2012,Malignant neoplasms (C00-C97),Cancer,Wyoming,955,154.2
+
+2847,2011,Malignant neoplasms (C00-C97),Cancer,Wyoming,936,156
+
+2848,2010,Malignant neoplasms (C00-C97),Cancer,Wyoming,1016,172.6
+
+2849,2009,Malignant neoplasms (C00-C97),Cancer,Wyoming,936,164.7
+
+2850,2008,Malignant neoplasms (C00-C97),Cancer,Wyoming,874,156.7
+
+2851,2007,Malignant neoplasms (C00-C97),Cancer,Wyoming,940,172.9
+
+2852,2006,Malignant neoplasms (C00-C97),Cancer,Wyoming,927,174.6
+
+2853,2005,Malignant neoplasms (C00-C97),Cancer,Wyoming,886,169.2
+
+2854,2004,Malignant neoplasms (C00-C97),Cancer,Wyoming,875,171.7
+
+2855,2003,Malignant neoplasms (C00-C97),Cancer,Wyoming,943,188.9
+
+2856,2002,Malignant neoplasms (C00-C97),Cancer,Wyoming,859,177.1
+
+2857,2001,Malignant neoplasms (C00-C97),Cancer,Wyoming,923,194
+
+2858,2000,Malignant neoplasms (C00-C97),Cancer,Wyoming,868,185.5
+
+2859,1999,Malignant neoplasms (C00-C97),Cancer,Wyoming,899,195.1
+
+3778,2016,Chronic lower respiratory diseases (J40-J47),CLRD,Wyoming,327,48.9
+
+3779,2015,Chronic lower respiratory diseases (J40-J47),CLRD,Wyoming,368,57.1
+
+3780,2014,Chronic lower respiratory diseases (J40-J47),CLRD,Wyoming,343,55
+
+3781,2013,Chronic lower respiratory diseases (J40-J47),CLRD,Wyoming,387,63.1
+
+3782,2012,Chronic lower respiratory diseases (J40-J47),CLRD,Wyoming,334,55.8
+
+3783,2011,Chronic lower respiratory diseases (J40-J47),CLRD,Wyoming,327,57
+
+3784,2010,Chronic lower respiratory diseases (J40-J47),CLRD,Wyoming,332,59.5
+
+3785,2009,Chronic lower respiratory diseases (J40-J47),CLRD,Wyoming,310,57.2
+
+3786,2008,Chronic lower respiratory diseases (J40-J47),CLRD,Wyoming,311,58.5
+
+3787,2007,Chronic lower respiratory diseases (J40-J47),CLRD,Wyoming,295,56.7
+
+3788,2006,Chronic lower respiratory diseases (J40-J47),CLRD,Wyoming,345,67.4
+
+3789,2005,Chronic lower respiratory diseases (J40-J47),CLRD,Wyoming,291,57.6
+
+3790,2004,Chronic lower respiratory diseases (J40-J47),CLRD,Wyoming,308,62.8
+
+3791,2003,Chronic lower respiratory diseases (J40-J47),CLRD,Wyoming,278,57.6
+
+3792,2002,Chronic lower respiratory diseases (J40-J47),CLRD,Wyoming,324,68.7
+
+3793,2001,Chronic lower respiratory diseases (J40-J47),CLRD,Wyoming,270,57.9
+
+3794,2000,Chronic lower respiratory diseases (J40-J47),CLRD,Wyoming,283,62.4
+
+3795,1999,Chronic lower respiratory diseases (J40-J47),CLRD,Wyoming,338,75.6
+
+4714,2016,Diabetes mellitus (E10-E14),Diabetes,Wyoming,112,16.6
+
+4715,2015,Diabetes mellitus (E10-E14),Diabetes,Wyoming,136,20.8
+
+4716,2014,Diabetes mellitus (E10-E14),Diabetes,Wyoming,110,17.6
+
+4717,2013,Diabetes mellitus (E10-E14),Diabetes,Wyoming,89,14.2
+
+4718,2012,Diabetes mellitus (E10-E14),Diabetes,Wyoming,97,15.9
+
+4719,2011,Diabetes mellitus (E10-E14),Diabetes,Wyoming,108,18.4
+
+4720,2010,Diabetes mellitus (E10-E14),Diabetes,Wyoming,105,18.5
+
+4721,2009,Diabetes mellitus (E10-E14),Diabetes,Wyoming,105,18.1
+
+4722,2008,Diabetes mellitus (E10-E14),Diabetes,Wyoming,130,24.1
+
+4723,2007,Diabetes mellitus (E10-E14),Diabetes,Wyoming,139,26.3
+
+4724,2006,Diabetes mellitus (E10-E14),Diabetes,Wyoming,126,23.9
+
+4725,2005,Diabetes mellitus (E10-E14),Diabetes,Wyoming,130,25.8
+
+4726,2004,Diabetes mellitus (E10-E14),Diabetes,Wyoming,110,22.2
+
+4727,2003,Diabetes mellitus (E10-E14),Diabetes,Wyoming,138,27.8
+
+4728,2002,Diabetes mellitus (E10-E14),Diabetes,Wyoming,145,30.5
+
+4729,2001,Diabetes mellitus (E10-E14),Diabetes,Wyoming,120,25.7
+
+4730,2000,Diabetes mellitus (E10-E14),Diabetes,Wyoming,111,24.1
+
+4731,1999,Diabetes mellitus (E10-E14),Diabetes,Wyoming,135,29.8
+
+5650,2016,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Wyoming,1051,157.8
+
+5651,2015,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Wyoming,1030,159.4
+
+5652,2014,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Wyoming,1035,162.2
+
+5653,2013,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Wyoming,939,152.4
+
+5654,2012,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Wyoming,1005,167.2
+
+5655,2011,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Wyoming,926,158.9
+
+5656,2010,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Wyoming,962,169.8
+
+5657,2009,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Wyoming,964,172.1
+
+5658,2008,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Wyoming,937,171.9
+
+5659,2007,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Wyoming,957,180.4
+
+5660,2006,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Wyoming,994,192.9
+
+5661,2005,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Wyoming,952,188.3
+
+5662,2004,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Wyoming,950,192.5
+
+5663,2003,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Wyoming,975,202.1
+
+5664,2002,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Wyoming,1005,214.5
+
+5665,2001,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Wyoming,985,211.9
+
+5666,2000,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Wyoming,992,217.4
+
+5667,1999,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Wyoming,1009,227.8
+
+6586,2016,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wyoming,99,15
+
+6587,2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wyoming,99,16
+
+6588,2014,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wyoming,113,18.1
+
+6589,2013,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wyoming,112,18.4
+
+6590,2012,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wyoming,91,15.7
+
+6591,2011,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wyoming,116,20.4
+
+6592,2010,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wyoming,109,19.5
+
+6593,2009,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wyoming,142,26.7
+
+6594,2008,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wyoming,123,23.4
+
+6595,2007,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wyoming,113,21.8
+
+6596,2006,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wyoming,117,23.5
+
+6597,2005,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wyoming,119,24.5
+
+6598,2004,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wyoming,109,22.7
+
+6599,2003,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wyoming,145,30.8
+
+6600,2002,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wyoming,135,29.4
+
+6601,2001,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wyoming,112,24.5
+
+6602,2000,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wyoming,126,28.3
+
+6603,1999,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wyoming,130,30
+
+7523,2016,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wyoming,66,10
+
+7524,2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wyoming,86,13.3
+
+7525,2014,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wyoming,78,12.2
+
+7526,2013,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wyoming,56,9.4
+
+7527,2012,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wyoming,72,12.3
+
+7528,2011,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wyoming,85,14.9
+
+7529,2010,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wyoming,69,12.5
+
+7530,2009,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wyoming,76,14
+
+7531,2008,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wyoming,56,10.8
+
+7532,2007,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wyoming,68,13.4
+
+7533,2006,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wyoming,58,11.6
+
+7534,2005,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wyoming,66,13.6
+
+7535,2004,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wyoming,45,9.3
+
+7536,2003,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wyoming,57,11.9
+
+7537,2002,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wyoming,43,9.2
+
+7538,2001,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wyoming,54,11.7
+
+7539,2000,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wyoming,45,9.9
+
+7540,1999,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wyoming,30,6.8
+
+8458,2016,Cerebrovascular diseases (I60-I69),Stroke,Wyoming,208,31.7
+
+8459,2015,Cerebrovascular diseases (I60-I69),Stroke,Wyoming,198,31.4
+
+8460,2014,Cerebrovascular diseases (I60-I69),Stroke,Wyoming,189,30.2
+
+8461,2013,Cerebrovascular diseases (I60-I69),Stroke,Wyoming,213,35.1
+
+8462,2012,Cerebrovascular diseases (I60-I69),Stroke,Wyoming,205,34.9
+
+8463,2011,Cerebrovascular diseases (I60-I69),Stroke,Wyoming,214,37.2
+
+8464,2010,Cerebrovascular diseases (I60-I69),Stroke,Wyoming,204,37.2
+
+8465,2009,Cerebrovascular diseases (I60-I69),Stroke,Wyoming,233,42.6
+
+8466,2008,Cerebrovascular diseases (I60-I69),Stroke,Wyoming,234,44.4
+
+8467,2007,Cerebrovascular diseases (I60-I69),Stroke,Wyoming,209,40.5
+
+8468,2006,Cerebrovascular diseases (I60-I69),Stroke,Wyoming,236,46.5
+
+8469,2005,Cerebrovascular diseases (I60-I69),Stroke,Wyoming,221,45.1
+
+8470,2004,Cerebrovascular diseases (I60-I69),Stroke,Wyoming,214,44.2
+
+8471,2003,Cerebrovascular diseases (I60-I69),Stroke,Wyoming,253,53.9
+
+8472,2002,Cerebrovascular diseases (I60-I69),Stroke,Wyoming,243,52.8
+
+8473,2001,Cerebrovascular diseases (I60-I69),Stroke,Wyoming,260,56.7
+
+8474,2000,Cerebrovascular diseases (I60-I69),Stroke,Wyoming,260,58.3
+
+8475,1999,Cerebrovascular diseases (I60-I69),Stroke,Wyoming,265,60.7
+
+9394,2016,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wyoming,144,25.2
+
+9395,2015,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wyoming,157,28
+
+9396,2014,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wyoming,120,20.6
+
+9397,2013,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wyoming,129,21.5
+
+9398,2012,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wyoming,171,29.6
+
+9399,2011,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wyoming,132,23.2
+
+9400,2010,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wyoming,131,22.4
+
+9401,2009,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wyoming,111,20.4
+
+9402,2008,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wyoming,124,22.6
+
+9403,2007,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wyoming,101,19.3
+
+9404,2006,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wyoming,116,21.7
+
+9405,2005,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wyoming,90,17.3
+
+9406,2004,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wyoming,88,17.5
+
+9407,2003,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wyoming,109,21.8
+
+9408,2002,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wyoming,105,20.8
+
+9409,2001,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wyoming,83,16.4
+
+9410,2000,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wyoming,83,16.8
+
+9411,1999,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wyoming,98,20.3
+
+10280,2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wyoming,400,65.8
+
+10281,2014,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wyoming,361,60.9
+
+10282,2013,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wyoming,325,55.2
+
+10283,2012,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wyoming,308,52.9
+
+10284,2011,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wyoming,317,56.2
+
+10285,2010,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wyoming,346,59.8
+
+10286,2009,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wyoming,299,53.7
+
+10287,2008,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wyoming,351,64.3
+
+10288,2007,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wyoming,299,56.5
+
+10289,2006,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wyoming,306,58.9
+
+10290,2005,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wyoming,302,58.7
+
+10291,2004,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wyoming,243,47.2
+
+10292,2003,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wyoming,273,55.1
+
+10293,2002,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wyoming,289,58.1
+
+10294,2001,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wyoming,272,55.5
+
+10295,2000,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wyoming,245,50.8
+
+10296,1999,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wyoming,258,52.8
+

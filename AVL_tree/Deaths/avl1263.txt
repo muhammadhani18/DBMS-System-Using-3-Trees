@@ -1,0 +1,4 @@
+6800,2000,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Georgia,1263,20
+
+8878,2010,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Michigan,1263,12.5
+

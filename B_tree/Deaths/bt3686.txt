@@ -1,0 +1,8 @@
+1223,2015,Alzheimer's disease (G30),Alzheimer's disease,Illinois,3686,24.4
+
+10127,2014,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Tennessee,3686,54.2
+
+1223,2015,Alzheimer's disease (G30),Alzheimer's disease,Illinois,3686,24.4
+
+10127,2014,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Tennessee,3686,54.2
+

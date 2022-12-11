@@ -1,0 +1,6 @@
+3131,2015,Chronic lower respiratory diseases (J40-J47),CLRD,Iowa,2011,49.1
+
+4875,1999,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Delaware,2011,269.2
+
+7664,2000,Cerebrovascular diseases (I60-I69),Stroke,Connecticut,2011,51.4
+

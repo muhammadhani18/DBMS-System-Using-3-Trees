@@ -1,0 +1,4 @@
+5308,1999,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,New Mexico,3452,218
+
+6444,2014,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Texas,3452,14.2
+

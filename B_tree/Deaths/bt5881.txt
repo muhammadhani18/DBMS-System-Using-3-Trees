@@ -1,0 +1,4 @@
+3505,2001,Chronic lower respiratory diseases (J40-J47),CLRD,Ohio,5881,49.3
+
+3505,2001,Chronic lower respiratory diseases (J40-J47),CLRD,Ohio,5881,49.3
+

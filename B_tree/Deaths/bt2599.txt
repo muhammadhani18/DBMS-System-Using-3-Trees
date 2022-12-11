@@ -1,0 +1,12 @@
+1632,2002,Alzheimer's disease (G30),Alzheimer's disease,Ohio,2599,21.7
+
+6681,2011,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,California,2599,7
+
+9935,2002,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,New Jersey,2599,29.8
+
+1632,2002,Alzheimer's disease (G30),Alzheimer's disease,Ohio,2599,21.7
+
+6681,2011,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,California,2599,7
+
+9935,2002,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,New Jersey,2599,29.8
+

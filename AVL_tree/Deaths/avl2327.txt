@@ -1,0 +1,4 @@
+1030,2010,Alzheimer's disease (G30),Alzheimer's disease,Arizona,2327,35.3
+
+3183,1999,Chronic lower respiratory diseases (J40-J47),CLRD,Kentucky,2327,59
+

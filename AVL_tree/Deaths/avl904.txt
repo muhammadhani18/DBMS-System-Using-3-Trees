@@ -1,0 +1,4 @@
+1798,2016,Alzheimer's disease (G30),Alzheimer's disease,Utah,904,39.3
+
+6574,2010,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wisconsin,904,13.3
+

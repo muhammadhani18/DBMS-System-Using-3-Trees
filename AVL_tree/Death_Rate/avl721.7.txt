@@ -1,0 +1,4 @@
+328,2010,All Causes,All causes,Iowa,27745,721.7
+
+760,2010,All Causes,All causes,Rhode Island,9579,721.7
+

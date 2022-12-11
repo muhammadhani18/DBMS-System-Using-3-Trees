@@ -1,0 +1,6 @@
+2267,2015,Malignant neoplasms (C00-C97),Cancer,Maine,3398,178
+
+2613,2011,Malignant neoplasms (C00-C97),Cancer,Pennsylvania,28895,178
+
+5357,2004,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,North Dakota,1470,178
+

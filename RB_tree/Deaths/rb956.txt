@@ -1,0 +1,6 @@
+5787,2005,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Connecticut,956,21.9
+
+6006,2002,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Louisiana,956,24
+
+10259,2002,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,West Virginia,956,50.9
+

@@ -1,0 +1,8 @@
+3394,2004,Chronic lower respiratory diseases (J40-J47),CLRD,New Hampshire,600,46.7
+
+6896,2012,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Kansas,600,17.7
+
+3394,2004,Chronic lower respiratory diseases (J40-J47),CLRD,New Hampshire,600,46.7
+
+6896,2012,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Kansas,600,17.7
+

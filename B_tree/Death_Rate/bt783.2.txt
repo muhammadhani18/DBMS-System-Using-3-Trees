@@ -1,0 +1,4 @@
+139,2001,All Causes,All causes,California,234044,783.2
+
+177,1999,All Causes,All causes,Connecticut,29446,783.2
+

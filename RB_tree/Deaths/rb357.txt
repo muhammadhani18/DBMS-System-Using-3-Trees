@@ -1,0 +1,10 @@
+3689,2015,Chronic lower respiratory diseases (J40-J47),CLRD,Vermont,357,42.3
+
+4154,2000,Diabetes mellitus (E10-E14),Diabetes,Maine,357,24.8
+
+6710,2000,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Colorado,357,10.8
+
+9536,2010,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Delaware,357,39.2
+
+9918,2002,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,New Hampshire,357,28.5
+

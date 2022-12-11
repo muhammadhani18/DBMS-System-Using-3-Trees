@@ -1,0 +1,24 @@
+3932,2006,Diabetes mellitus (E10-E14),Diabetes,Delaware,191,20.6
+
+3954,2002,Diabetes mellitus (E10-E14),Diabetes,District of Columbia,191,34.1
+
+6196,2010,Influenza and pneumonia (J09-J18),Influenza and pneumonia,New Hampshire,191,12.6
+
+6963,1999,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Maine,191,13.4
+
+8827,2007,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Maine,191,13.6
+
+8970,2008,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Nebraska,191,10.6
+
+3932,2006,Diabetes mellitus (E10-E14),Diabetes,Delaware,191,20.6
+
+3954,2002,Diabetes mellitus (E10-E14),Diabetes,District of Columbia,191,34.1
+
+6196,2010,Influenza and pneumonia (J09-J18),Influenza and pneumonia,New Hampshire,191,12.6
+
+6963,1999,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Maine,191,13.4
+
+8827,2007,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Maine,191,13.6
+
+8970,2008,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Nebraska,191,10.6
+

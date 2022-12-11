@@ -1,0 +1,6 @@
+1925,2015,Malignant neoplasms (C00-C97),Cancer,Alabama,10354,175.6
+
+2111,2009,Malignant neoplasms (C00-C97),Cancer,Georgia,15143,175.6
+
+2162,2012,Malignant neoplasms (C00-C97),Cancer,Illinois,24562,175.6
+

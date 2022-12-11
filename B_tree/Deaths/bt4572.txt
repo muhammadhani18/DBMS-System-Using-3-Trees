@@ -1,0 +1,8 @@
+3462,2008,Chronic lower respiratory diseases (J40-J47),CLRD,North Carolina,4572,49.3
+
+8144,2006,Cerebrovascular diseases (I60-I69),Stroke,North Carolina,4572,53.2
+
+3462,2008,Chronic lower respiratory diseases (J40-J47),CLRD,North Carolina,4572,49.3
+
+8144,2006,Cerebrovascular diseases (I60-I69),Stroke,North Carolina,4572,53.2
+

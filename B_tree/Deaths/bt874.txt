@@ -1,0 +1,16 @@
+1493,2015,Alzheimer's disease (G30),Alzheimer's disease,Nevada,874,32.9
+
+1724,2000,Alzheimer's disease (G30),Alzheimer's disease,South Carolina,874,25.1
+
+2850,2008,Malignant neoplasms (C00-C97),Cancer,Wyoming,874,156.7
+
+9242,2006,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Tennessee,874,14.1
+
+1493,2015,Alzheimer's disease (G30),Alzheimer's disease,Nevada,874,32.9
+
+1724,2000,Alzheimer's disease (G30),Alzheimer's disease,South Carolina,874,25.1
+
+2850,2008,Malignant neoplasms (C00-C97),Cancer,Wyoming,874,156.7
+
+9242,2006,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Tennessee,874,14.1
+

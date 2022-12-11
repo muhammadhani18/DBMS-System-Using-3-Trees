@@ -1,0 +1,8 @@
+1652,2000,Alzheimer's disease (G30),Alzheimer's disease,Oklahoma,638,17.7
+
+3678,2008,Chronic lower respiratory diseases (J40-J47),CLRD,Utah,638,33.3
+
+6084,2014,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Minnesota,638,9.8
+
+6666,2008,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arkansas,638,20.1
+

@@ -1,0 +1,6 @@
+4473,2005,Diabetes mellitus (E10-E14),Diabetes,Oregon,1149,29.3
+
+6871,2001,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Indiana,1149,19.1
+
+9694,2005,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Kansas,1149,40.6
+

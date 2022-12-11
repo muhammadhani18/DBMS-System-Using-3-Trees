@@ -1,0 +1,28 @@
+1499,2009,Alzheimer's disease (G30),Alzheimer's disease,Nevada,312,15.5
+
+1608,2008,Alzheimer's disease (G30),Alzheimer's disease,North Dakota,312,33.1
+
+3062,2012,Chronic lower respiratory diseases (J40-J47),CLRD,Hawaii,312,17.7
+
+3704,2000,Chronic lower respiratory diseases (J40-J47),CLRD,Vermont,312,50.5
+
+4309,2007,Diabetes mellitus (E10-E14),Diabetes,Nevada,312,13
+
+6711,1999,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Colorado,312,9.6
+
+7418,2013,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Utah,312,14.1
+
+1499,2009,Alzheimer's disease (G30),Alzheimer's disease,Nevada,312,15.5
+
+1608,2008,Alzheimer's disease (G30),Alzheimer's disease,North Dakota,312,33.1
+
+3062,2012,Chronic lower respiratory diseases (J40-J47),CLRD,Hawaii,312,17.7
+
+3704,2000,Chronic lower respiratory diseases (J40-J47),CLRD,Vermont,312,50.5
+
+4309,2007,Diabetes mellitus (E10-E14),Diabetes,Nevada,312,13
+
+6711,1999,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Colorado,312,9.6
+
+7418,2013,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Utah,312,14.1
+

@@ -1,0 +1,28 @@
+2886,2008,Chronic lower respiratory diseases (J40-J47),CLRD,Alaska,181,44.6
+
+5809,2001,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Delaware,181,23.8
+
+6408,2014,Influenza and pneumonia (J09-J18),Influenza and pneumonia,South Dakota,181,16.2
+
+8679,2011,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Hawaii,181,12.8
+
+8709,1999,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Idaho,181,14.8
+
+8826,2008,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Maine,181,12.7
+
+8971,2007,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Nebraska,181,10.1
+
+2886,2008,Chronic lower respiratory diseases (J40-J47),CLRD,Alaska,181,44.6
+
+5809,2001,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Delaware,181,23.8
+
+6408,2014,Influenza and pneumonia (J09-J18),Influenza and pneumonia,South Dakota,181,16.2
+
+8679,2011,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Hawaii,181,12.8
+
+8709,1999,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Idaho,181,14.8
+
+8826,2008,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Maine,181,12.7
+
+8971,2007,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Nebraska,181,10.1
+

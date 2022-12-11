@@ -1,0 +1,14 @@
+3639,2011,Chronic lower respiratory diseases (J40-J47),CLRD,Texas,9097,42.3
+
+3689,2015,Chronic lower respiratory diseases (J40-J47),CLRD,Vermont,357,42.3
+
+4134,2002,Diabetes mellitus (E10-E14),Diabetes,Louisiana,1774,42.3
+
+8283,2011,Cerebrovascular diseases (I60-I69),Stroke,South Dakota,444,42.3
+
+8412,2008,Cerebrovascular diseases (I60-I69),Stroke,Washington,2773,42.3
+
+9595,2002,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Georgia,3333,42.3
+
+10014,2008,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Ohio,5093,42.3
+

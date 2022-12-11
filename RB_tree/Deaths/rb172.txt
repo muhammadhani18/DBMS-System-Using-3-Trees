@@ -1,0 +1,12 @@
+6281,2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,North Dakota,172,17.7
+
+6291,2005,Influenza and pneumonia (J09-J18),Influenza and pneumonia,North Dakota,172,19.5
+
+7131,2011,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,New Hampshire,172,11.3
+
+7177,2001,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,New Mexico,172,10.3
+
+7566,2008,Cerebrovascular diseases (I60-I69),Stroke,Alaska,172,44.5
+
+7570,2004,Cerebrovascular diseases (I60-I69),Stroke,Alaska,172,52.8
+

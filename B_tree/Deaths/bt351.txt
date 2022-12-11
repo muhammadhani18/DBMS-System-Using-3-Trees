@@ -1,0 +1,28 @@
+1513,2013,Alzheimer's disease (G30),Alzheimer's disease,New Hampshire,351,21.5
+
+3473,2015,Chronic lower respiratory diseases (J40-J47),CLRD,North Dakota,351,40
+
+6156,2014,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Nebraska,351,15.1
+
+6234,2008,Influenza and pneumonia (J09-J18),Influenza and pneumonia,New Mexico,351,17.5
+
+8692,2016,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Idaho,351,21.4
+
+10125,1999,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,South Dakota,351,44.8
+
+10287,2008,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wyoming,351,64.3
+
+1513,2013,Alzheimer's disease (G30),Alzheimer's disease,New Hampshire,351,21.5
+
+3473,2015,Chronic lower respiratory diseases (J40-J47),CLRD,North Dakota,351,40
+
+6156,2014,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Nebraska,351,15.1
+
+6234,2008,Influenza and pneumonia (J09-J18),Influenza and pneumonia,New Mexico,351,17.5
+
+8692,2016,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Idaho,351,21.4
+
+10125,1999,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,South Dakota,351,44.8
+
+10287,2008,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wyoming,351,64.3
+

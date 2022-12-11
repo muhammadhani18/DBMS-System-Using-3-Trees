@@ -1,0 +1,36 @@
+1308,2002,Alzheimer's disease (G30),Alzheimer's disease,Kentucky,1013,26.3
+
+1338,2008,Alzheimer's disease (G30),Alzheimer's disease,Maine,450,26.3
+
+1640,2012,Alzheimer's disease (G30),Alzheimer's disease,Oklahoma,1069,26.3
+
+4051,2013,Diabetes mellitus (E10-E14),Diabetes,Indiana,1943,26.3
+
+4201,2007,Diabetes mellitus (E10-E14),Diabetes,Michigan,2826,26.3
+
+4263,1999,Diabetes mellitus (E10-E14),Diabetes,Missouri,1554,26.3
+
+4535,2015,Diabetes mellitus (E10-E14),Diabetes,South Dakota,282,26.3
+
+4674,2002,Diabetes mellitus (E10-E14),Diabetes,Washington,1494,26.3
+
+4723,2007,Diabetes mellitus (E10-E14),Diabetes,Wyoming,139,26.3
+
+5861,2003,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Georgia,1687,26.3
+
+5951,2003,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Iowa,1032,26.3
+
+6255,2005,Influenza and pneumonia (J09-J18),Influenza and pneumonia,New York,5521,26.3
+
+6940,2004,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Louisiana,1110,26.3
+
+7648,2016,Cerebrovascular diseases (I60-I69),Stroke,Connecticut,1269,26.3
+
+7650,2014,Cerebrovascular diseases (I60-I69),Stroke,Connecticut,1266,26.3
+
+8119,2013,Cerebrovascular diseases (I60-I69),Stroke,New York,6176,26.3
+
+9920,2000,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,New Hampshire,321,26.3
+
+9933,2004,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,New Jersey,2324,26.3
+

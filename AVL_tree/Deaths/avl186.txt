@@ -1,0 +1,8 @@
+1826,2006,Alzheimer's disease (G30),Alzheimer's disease,Vermont,186,26.5
+
+6826,2010,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Idaho,186,12.1
+
+6827,2009,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Idaho,186,12.4
+
+8824,2010,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Maine,186,13.2
+

@@ -1,0 +1,8 @@
+4162,2010,Diabetes mellitus (E10-E14),Diabetes,Maryland,1191,19.9
+
+5927,2009,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Indiana,1191,17.4
+
+4162,2010,Diabetes mellitus (E10-E14),Diabetes,Maryland,1191,19.9
+
+5927,2009,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Indiana,1191,17.4
+

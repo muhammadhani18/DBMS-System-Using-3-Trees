@@ -1,0 +1,10 @@
+6165,2005,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Nebraska,370,17.7
+
+7111,2013,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Nevada,370,13.3
+
+7415,2016,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Utah,370,15.2
+
+8589,2011,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Connecticut,370,9.8
+
+8776,2004,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Kansas,370,13.7
+

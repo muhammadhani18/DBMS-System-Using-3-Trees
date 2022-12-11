@@ -1,0 +1,4 @@
+1683,2005,Alzheimer's disease (G30),Alzheimer's disease,Pennsylvania,3429,20.7
+
+10212,2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Virginia,3429,39.6
+

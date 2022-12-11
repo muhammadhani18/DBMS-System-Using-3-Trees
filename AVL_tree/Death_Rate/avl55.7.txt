@@ -1,0 +1,12 @@
+7644,2002,Cerebrovascular diseases (I60-I69),Stroke,Colorado,1915,55.7
+
+7751,2003,Cerebrovascular diseases (I60-I69),Stroke,Hawaii,752,55.7
+
+7981,2007,Cerebrovascular diseases (I60-I69),Stroke,Mississippi,1589,55.7
+
+8198,2006,Cerebrovascular diseases (I60-I69),Stroke,Oklahoma,2085,55.7
+
+9703,2013,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Kentucky,2513,55.7
+
+9863,2006,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Montana,558,55.7
+

@@ -1,0 +1,4 @@
+3172,2010,Chronic lower respiratory diseases (J40-J47),CLRD,Kentucky,2779,60
+
+5914,2004,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Illinois,2779,21.9
+

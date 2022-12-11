@@ -1,0 +1,10 @@
+1096,2016,Alzheimer's disease (G30),Alzheimer's disease,Connecticut,1035,20.3
+
+5652,2014,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Wyoming,1035,162.2
+
+5671,2013,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Alabama,1035,19.2
+
+6608,2012,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Alabama,1035,19.4
+
+7468,1999,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Virginia,1035,16.9
+

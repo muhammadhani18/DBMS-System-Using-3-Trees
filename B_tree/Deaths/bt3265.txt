@@ -1,0 +1,12 @@
+1166,2000,Alzheimer's disease (G30),Alzheimer's disease,Florida,3265,15
+
+5224,2011,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Nebraska,3265,146.9
+
+8087,2009,Cerebrovascular diseases (I60-I69),Stroke,New Jersey,3265,32.6
+
+1166,2000,Alzheimer's disease (G30),Alzheimer's disease,Florida,3265,15
+
+5224,2011,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Nebraska,3265,146.9
+
+8087,2009,Cerebrovascular diseases (I60-I69),Stroke,New Jersey,3265,32.6
+

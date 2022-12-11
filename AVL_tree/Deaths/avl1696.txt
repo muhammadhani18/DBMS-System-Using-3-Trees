@@ -1,0 +1,8 @@
+1250,2006,Alzheimer's disease (G30),Alzheimer's disease,Indiana,1696,26.1
+
+3198,2002,Chronic lower respiratory diseases (J40-J47),CLRD,Louisiana,1696,41.2
+
+7157,2003,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,New Jersey,1696,18.5
+
+9755,2012,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Maryland,1696,27.7
+

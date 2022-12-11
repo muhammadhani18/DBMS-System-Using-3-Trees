@@ -1,0 +1,4 @@
+2423,2003,Malignant neoplasms (C00-C97),Cancer,Nebraska,3339,179
+
+6445,2013,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Texas,3339,14.4
+

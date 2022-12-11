@@ -1,0 +1,20 @@
+1013,2009,Alzheimer's disease (G30),Alzheimer's disease,Alaska,67,21.5
+
+3831,1999,Diabetes mellitus (E10-E14),Diabetes,Alaska,67,23.8
+
+6758,2007,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,District of Columbia,67,11.9
+
+7227,2005,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,North Dakota,67,7.9
+
+7232,2000,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,North Dakota,67,8
+
+1013,2009,Alzheimer's disease (G30),Alzheimer's disease,Alaska,67,21.5
+
+3831,1999,Diabetes mellitus (E10-E14),Diabetes,Alaska,67,23.8
+
+6758,2007,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,District of Columbia,67,11.9
+
+7227,2005,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,North Dakota,67,7.9
+
+7232,2000,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,North Dakota,67,8
+

@@ -1,0 +1,8 @@
+2356,2016,Malignant neoplasms (C00-C97),Cancer,Mississippi,6568,187.7
+
+2560,2010,Malignant neoplasms (C00-C97),Cancer,Ohio,25083,187.7
+
+5367,2012,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Ohio,26426,187.7
+
+5557,2001,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Utah,2896,187.7
+

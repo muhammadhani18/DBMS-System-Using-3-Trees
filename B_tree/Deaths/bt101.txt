@@ -1,0 +1,12 @@
+7085,2003,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Montana,101,9.9
+
+9183,2011,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Rhode Island,101,8.9
+
+9403,2007,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wyoming,101,19.3
+
+7085,2003,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Montana,101,9.9
+
+9183,2011,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Rhode Island,101,8.9
+
+9403,2007,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wyoming,101,19.3
+

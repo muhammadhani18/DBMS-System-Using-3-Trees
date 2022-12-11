@@ -1,0 +1,8 @@
+1052,2006,Alzheimer's disease (G30),Alzheimer's disease,Arkansas,783,25.5
+
+3212,2006,Chronic lower respiratory diseases (J40-J47),CLRD,Maine,783,49.1
+
+1052,2006,Alzheimer's disease (G30),Alzheimer's disease,Arkansas,783,25.5
+
+3212,2006,Chronic lower respiratory diseases (J40-J47),CLRD,Maine,783,49.1
+

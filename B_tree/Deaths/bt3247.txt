@@ -1,0 +1,4 @@
+8000,2006,Cerebrovascular diseases (I60-I69),Stroke,Missouri,3247,50.5
+
+8000,2006,Cerebrovascular diseases (I60-I69),Stroke,Missouri,3247,50.5
+

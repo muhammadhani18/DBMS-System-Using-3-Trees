@@ -1,0 +1,8 @@
+3115,2013,Chronic lower respiratory diseases (J40-J47),CLRD,Indiana,4266,58.4
+
+3179,2003,Chronic lower respiratory diseases (J40-J47),CLRD,Kentucky,2391,58.4
+
+8347,2001,Cerebrovascular diseases (I60-I69),Stroke,United States,163538,58.4
+
+8454,2002,Cerebrovascular diseases (I60-I69),Stroke,Wisconsin,3479,58.4
+

@@ -1,0 +1,4 @@
+2803,2001,Malignant neoplasms (C00-C97),Cancer,Washington,10802,194.2
+
+2803,2001,Malignant neoplasms (C00-C97),Cancer,Washington,10802,194.2
+

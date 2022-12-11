@@ -1,0 +1,4 @@
+2750,2000,Malignant neoplasms (C00-C97),Cancer,Utah,2359,151.2
+
+5297,2010,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,New Mexico,3224,151.2
+

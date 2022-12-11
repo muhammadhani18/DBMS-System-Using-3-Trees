@@ -1,0 +1,6 @@
+2502,2014,Malignant neoplasms (C00-C97),Cancer,New York,35392,151.8
+
+2539,2013,Malignant neoplasms (C00-C97),Cancer,North Dakota,1286,151.8
+
+4807,2013,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,California,60299,151.8
+

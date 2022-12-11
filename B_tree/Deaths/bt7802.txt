@@ -1,0 +1,4 @@
+2595,2011,Malignant neoplasms (C00-C97),Cancer,Oregon,7802,172.6
+
+2595,2011,Malignant neoplasms (C00-C97),Cancer,Oregon,7802,172.6
+

@@ -1,0 +1,20 @@
+3428,2006,Chronic lower respiratory diseases (J40-J47),CLRD,New Mexico,888,46.5
+
+5790,2002,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Connecticut,888,21.5
+
+5974,2016,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Kentucky,888,17.3
+
+6568,2016,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wisconsin,888,11.9
+
+8351,2015,Cerebrovascular diseases (I60-I69),Stroke,Utah,888,38.4
+
+3428,2006,Chronic lower respiratory diseases (J40-J47),CLRD,New Mexico,888,46.5
+
+5790,2002,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Connecticut,888,21.5
+
+5974,2016,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Kentucky,888,17.3
+
+6568,2016,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wisconsin,888,11.9
+
+8351,2015,Cerebrovascular diseases (I60-I69),Stroke,Utah,888,38.4
+

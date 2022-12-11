@@ -1,0 +1,8 @@
+211,2001,All Causes,All causes,District of Columbia,5951,1049.9
+
+8178,2008,Cerebrovascular diseases (I60-I69),Stroke,Ohio,5951,45.2
+
+211,2001,All Causes,All causes,District of Columbia,5951,1049.9
+
+8178,2008,Cerebrovascular diseases (I60-I69),Stroke,Ohio,5951,45.2
+

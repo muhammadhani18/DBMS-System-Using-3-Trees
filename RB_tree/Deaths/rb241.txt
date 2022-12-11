@@ -1,0 +1,10 @@
+3926,2012,Diabetes mellitus (E10-E14),Diabetes,Delaware,241,22.3
+
+4545,2005,Diabetes mellitus (E10-E14),Diabetes,South Dakota,241,26.2
+
+5877,2005,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Hawaii,241,16.5
+
+6417,2005,Influenza and pneumonia (J09-J18),Influenza and pneumonia,South Dakota,241,24.2
+
+6887,2003,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Iowa,241,6.5
+

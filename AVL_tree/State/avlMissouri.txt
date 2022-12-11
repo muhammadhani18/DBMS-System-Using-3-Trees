@@ -1,0 +1,396 @@
+26,2016,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Missouri,3625,57
+
+502,2016,All Causes,All causes,Missouri,59873,808.2
+
+503,2015,All Causes,All causes,Missouri,59871,816.9
+
+504,2014,All Causes,All causes,Missouri,58320,807
+
+505,2013,All Causes,All causes,Missouri,57444,807.7
+
+506,2012,All Causes,All causes,Missouri,56094,803
+
+507,2011,All Causes,All causes,Missouri,55848,812
+
+508,2010,All Causes,All causes,Missouri,55281,819.5
+
+509,2009,All Causes,All causes,Missouri,54263,815.3
+
+510,2008,All Causes,All causes,Missouri,56578,861.3
+
+511,2007,All Causes,All causes,Missouri,54166,837.7
+
+512,2006,All Causes,All causes,Missouri,54681,859
+
+513,2005,All Causes,All causes,Missouri,54656,873.3
+
+514,2004,All Causes,All causes,Missouri,53950,872.7
+
+515,2003,All Causes,All causes,Missouri,55582,907
+
+516,2002,All Causes,All causes,Missouri,55940,922.3
+
+517,2001,All Causes,All causes,Missouri,54982,913.4
+
+518,2000,All Causes,All causes,Missouri,54865,920.8
+
+519,1999,All Causes,All causes,Missouri,55931,945
+
+1438,2016,Alzheimer's disease (G30),Alzheimer's disease,Missouri,2302,30
+
+1439,2015,Alzheimer's disease (G30),Alzheimer's disease,Missouri,2173,28.7
+
+1440,2014,Alzheimer's disease (G30),Alzheimer's disease,Missouri,2053,27.4
+
+1441,2013,Alzheimer's disease (G30),Alzheimer's disease,Missouri,2026,27.5
+
+1442,2012,Alzheimer's disease (G30),Alzheimer's disease,Missouri,1863,25.9
+
+1443,2011,Alzheimer's disease (G30),Alzheimer's disease,Missouri,1927,27.4
+
+1444,2010,Alzheimer's disease (G30),Alzheimer's disease,Missouri,1986,28.8
+
+1445,2009,Alzheimer's disease (G30),Alzheimer's disease,Missouri,1728,25.5
+
+1446,2008,Alzheimer's disease (G30),Alzheimer's disease,Missouri,2010,30
+
+1447,2007,Alzheimer's disease (G30),Alzheimer's disease,Missouri,1681,25.5
+
+1448,2006,Alzheimer's disease (G30),Alzheimer's disease,Missouri,1632,25.1
+
+1449,2005,Alzheimer's disease (G30),Alzheimer's disease,Missouri,1635,25.6
+
+1450,2004,Alzheimer's disease (G30),Alzheimer's disease,Missouri,1381,21.9
+
+1451,2003,Alzheimer's disease (G30),Alzheimer's disease,Missouri,1293,20.6
+
+1452,2002,Alzheimer's disease (G30),Alzheimer's disease,Missouri,1187,19
+
+1453,2001,Alzheimer's disease (G30),Alzheimer's disease,Missouri,1106,17.8
+
+1454,2000,Alzheimer's disease (G30),Alzheimer's disease,Missouri,1096,17.8
+
+1455,1999,Alzheimer's disease (G30),Alzheimer's disease,Missouri,914,15
+
+2374,2016,Malignant neoplasms (C00-C97),Cancer,Missouri,12696,167
+
+2375,2015,Malignant neoplasms (C00-C97),Cancer,Missouri,12965,173.4
+
+2376,2014,Malignant neoplasms (C00-C97),Cancer,Missouri,13067,177.7
+
+2377,2013,Malignant neoplasms (C00-C97),Cancer,Missouri,12955,179.4
+
+2378,2012,Malignant neoplasms (C00-C97),Cancer,Missouri,12919,182.3
+
+2379,2011,Malignant neoplasms (C00-C97),Cancer,Missouri,12473,179.4
+
+2380,2010,Malignant neoplasms (C00-C97),Cancer,Missouri,12626,185.6
+
+2381,2009,Malignant neoplasms (C00-C97),Cancer,Missouri,12472,185.7
+
+2382,2008,Malignant neoplasms (C00-C97),Cancer,Missouri,12523,189.5
+
+2383,2007,Malignant neoplasms (C00-C97),Cancer,Missouri,12380,190.9
+
+2384,2006,Malignant neoplasms (C00-C97),Cancer,Missouri,12519,195.8
+
+2385,2005,Malignant neoplasms (C00-C97),Cancer,Missouri,12419,198
+
+2386,2004,Malignant neoplasms (C00-C97),Cancer,Missouri,12450,201.1
+
+2387,2003,Malignant neoplasms (C00-C97),Cancer,Missouri,12354,202.1
+
+2388,2002,Malignant neoplasms (C00-C97),Cancer,Missouri,12322,204.1
+
+2389,2001,Malignant neoplasms (C00-C97),Cancer,Missouri,12365,207.1
+
+2390,2000,Malignant neoplasms (C00-C97),Cancer,Missouri,12144,205.9
+
+2391,1999,Malignant neoplasms (C00-C97),Cancer,Missouri,12186,207.9
+
+3310,2016,Chronic lower respiratory diseases (J40-J47),CLRD,Missouri,3961,52.1
+
+3311,2015,Chronic lower respiratory diseases (J40-J47),CLRD,Missouri,3935,52.8
+
+3312,2014,Chronic lower respiratory diseases (J40-J47),CLRD,Missouri,3762,51.4
+
+3313,2013,Chronic lower respiratory diseases (J40-J47),CLRD,Missouri,3798,52.9
+
+3314,2012,Chronic lower respiratory diseases (J40-J47),CLRD,Missouri,3650,51.7
+
+3315,2011,Chronic lower respiratory diseases (J40-J47),CLRD,Missouri,3492,50.5
+
+3316,2010,Chronic lower respiratory diseases (J40-J47),CLRD,Missouri,3557,52.6
+
+3317,2009,Chronic lower respiratory diseases (J40-J47),CLRD,Missouri,3456,51.9
+
+3318,2008,Chronic lower respiratory diseases (J40-J47),CLRD,Missouri,3765,57.4
+
+3319,2007,Chronic lower respiratory diseases (J40-J47),CLRD,Missouri,3081,47.6
+
+3320,2006,Chronic lower respiratory diseases (J40-J47),CLRD,Missouri,3017,47.4
+
+3321,2005,Chronic lower respiratory diseases (J40-J47),CLRD,Missouri,3085,49.2
+
+3322,2004,Chronic lower respiratory diseases (J40-J47),CLRD,Missouri,2731,44.1
+
+3323,2003,Chronic lower respiratory diseases (J40-J47),CLRD,Missouri,2939,47.9
+
+3324,2002,Chronic lower respiratory diseases (J40-J47),CLRD,Missouri,2867,47.2
+
+3325,2001,Chronic lower respiratory diseases (J40-J47),CLRD,Missouri,2882,47.8
+
+3326,2000,Chronic lower respiratory diseases (J40-J47),CLRD,Missouri,2802,46.9
+
+3327,1999,Chronic lower respiratory diseases (J40-J47),CLRD,Missouri,3068,51.7
+
+4246,2016,Diabetes mellitus (E10-E14),Diabetes,Missouri,1508,20.1
+
+4247,2015,Diabetes mellitus (E10-E14),Diabetes,Missouri,1468,19.7
+
+4248,2014,Diabetes mellitus (E10-E14),Diabetes,Missouri,1423,19.4
+
+4249,2013,Diabetes mellitus (E10-E14),Diabetes,Missouri,1477,20.5
+
+4250,2012,Diabetes mellitus (E10-E14),Diabetes,Missouri,1377,19.6
+
+4251,2011,Diabetes mellitus (E10-E14),Diabetes,Missouri,1438,20.8
+
+4252,2010,Diabetes mellitus (E10-E14),Diabetes,Missouri,1425,21.2
+
+4253,2009,Diabetes mellitus (E10-E14),Diabetes,Missouri,1335,19.8
+
+4254,2008,Diabetes mellitus (E10-E14),Diabetes,Missouri,1348,20.4
+
+4255,2007,Diabetes mellitus (E10-E14),Diabetes,Missouri,1444,22.4
+
+4256,2006,Diabetes mellitus (E10-E14),Diabetes,Missouri,1493,23.5
+
+4257,2005,Diabetes mellitus (E10-E14),Diabetes,Missouri,1549,24.8
+
+4258,2004,Diabetes mellitus (E10-E14),Diabetes,Missouri,1461,23.6
+
+4259,2003,Diabetes mellitus (E10-E14),Diabetes,Missouri,1666,27.1
+
+4260,2002,Diabetes mellitus (E10-E14),Diabetes,Missouri,1625,26.8
+
+4261,2001,Diabetes mellitus (E10-E14),Diabetes,Missouri,1535,25.6
+
+4262,2000,Diabetes mellitus (E10-E14),Diabetes,Missouri,1458,24.6
+
+4263,1999,Diabetes mellitus (E10-E14),Diabetes,Missouri,1554,26.3
+
+5183,2016,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Missouri,14579,192.1
+
+5184,2015,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Missouri,14808,197.9
+
+5185,2014,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Missouri,14338,194.7
+
+5186,2013,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Missouri,14095,194.7
+
+5187,2012,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Missouri,13742,193.4
+
+5188,2011,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Missouri,13810,197.4
+
+5189,2010,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Missouri,13840,201.8
+
+5190,2009,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Missouri,13916,206.1
+
+5191,2008,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Missouri,14644,219.8
+
+5192,2007,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Missouri,14338,218.9
+
+5193,2006,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Missouri,14749,228.8
+
+5194,2005,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Missouri,14974,236.8
+
+5195,2004,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Missouri,15500,248.5
+
+5196,2003,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Missouri,16410,264.9
+
+5197,2002,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Missouri,16708,272.7
+
+5198,2001,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Missouri,16633,273.4
+
+5199,2000,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Missouri,17235,286
+
+5200,1999,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Missouri,17974,300.5
+
+6118,2016,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Missouri,1150,15.1
+
+6119,2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Missouri,1337,17.9
+
+6120,2014,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Missouri,1321,18.1
+
+6121,2013,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Missouri,1352,18.7
+
+6122,2012,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Missouri,1213,17
+
+6123,2011,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Missouri,1205,17.2
+
+6124,2010,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Missouri,1188,17.4
+
+6125,2009,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Missouri,1330,19.7
+
+6126,2008,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Missouri,1414,21.3
+
+6127,2007,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Missouri,1289,19.6
+
+6128,2006,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Missouri,1285,19.9
+
+6129,2005,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Missouri,1527,24
+
+6130,2004,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Missouri,1389,22.1
+
+6131,2003,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Missouri,1604,25.7
+
+6132,2002,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Missouri,1619,26.2
+
+6133,2001,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Missouri,1604,26.1
+
+6134,2000,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Missouri,1629,26.7
+
+6135,1999,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Missouri,1716,28.3
+
+7054,2016,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Missouri,1483,19.6
+
+7055,2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Missouri,1483,19.9
+
+7056,2014,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Missouri,1452,19.6
+
+7057,2013,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Missouri,1305,18
+
+7058,2012,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Missouri,1259,17.8
+
+7059,2011,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Missouri,1245,17.9
+
+7060,2010,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Missouri,1305,19.2
+
+7061,2009,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Missouri,1223,18.3
+
+7062,2008,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Missouri,1274,19.1
+
+7063,2007,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Missouri,1184,18.2
+
+7064,2006,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Missouri,1118,17.4
+
+7065,2005,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Missouri,1156,18.4
+
+7066,2004,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Missouri,1083,17.4
+
+7067,2003,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Missouri,1099,17.8
+
+7068,2002,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Missouri,1076,17.6
+
+7069,2001,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Missouri,991,16.3
+
+7070,2000,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Missouri,907,15
+
+7071,1999,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Missouri,907,15.1
+
+7990,2016,Cerebrovascular diseases (I60-I69),Stroke,Missouri,3069,40.4
+
+7991,2015,Cerebrovascular diseases (I60-I69),Stroke,Missouri,3037,40.8
+
+7992,2014,Cerebrovascular diseases (I60-I69),Stroke,Missouri,3030,41
+
+7993,2013,Cerebrovascular diseases (I60-I69),Stroke,Missouri,2935,40.6
+
+7994,2012,Cerebrovascular diseases (I60-I69),Stroke,Missouri,2989,42.2
+
+7995,2011,Cerebrovascular diseases (I60-I69),Stroke,Missouri,3033,43.4
+
+7996,2010,Cerebrovascular diseases (I60-I69),Stroke,Missouri,3001,44
+
+7997,2009,Cerebrovascular diseases (I60-I69),Stroke,Missouri,3017,44.9
+
+7998,2008,Cerebrovascular diseases (I60-I69),Stroke,Missouri,3261,49.2
+
+7999,2007,Cerebrovascular diseases (I60-I69),Stroke,Missouri,3229,49.4
+
+8000,2006,Cerebrovascular diseases (I60-I69),Stroke,Missouri,3247,50.5
+
+8001,2005,Cerebrovascular diseases (I60-I69),Stroke,Missouri,3347,52.9
+
+8002,2004,Cerebrovascular diseases (I60-I69),Stroke,Missouri,3503,56.1
+
+8003,2003,Cerebrovascular diseases (I60-I69),Stroke,Missouri,3580,57.7
+
+8004,2002,Cerebrovascular diseases (I60-I69),Stroke,Missouri,3885,63.1
+
+8005,2001,Cerebrovascular diseases (I60-I69),Stroke,Missouri,3796,62
+
+8006,2000,Cerebrovascular diseases (I60-I69),Stroke,Missouri,3940,65.1
+
+8007,1999,Cerebrovascular diseases (I60-I69),Stroke,Missouri,3950,65.6
+
+8926,2016,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Missouri,1133,18.4
+
+8927,2015,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Missouri,1052,17.1
+
+8928,2014,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Missouri,1017,16.3
+
+8929,2013,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Missouri,960,15.6
+
+8930,2012,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Missouri,914,14.9
+
+8931,2011,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Missouri,933,15.3
+
+8932,2010,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Missouri,856,14
+
+8933,2009,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Missouri,860,14.3
+
+8934,2008,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Missouri,779,13
+
+8935,2007,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Missouri,808,13.5
+
+8936,2006,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Missouri,799,13.5
+
+8937,2005,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Missouri,727,12.5
+
+8938,2004,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Missouri,715,12.4
+
+8939,2003,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Missouri,679,11.8
+
+8940,2002,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Missouri,693,12.1
+
+8941,2001,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Missouri,725,12.8
+
+8942,2000,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Missouri,699,12.5
+
+8943,1999,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Missouri,700,12.6
+
+9837,2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Missouri,3309,50.9
+
+9838,2014,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Missouri,3110,48.7
+
+9839,2013,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Missouri,2981,47
+
+9840,2012,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Missouri,3002,47.8
+
+9841,2011,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Missouri,3169,50.5
+
+9842,2010,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Missouri,2975,47.9
+
+9843,2009,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Missouri,2939,47.5
+
+9844,2008,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Missouri,2997,48.9
+
+9845,2007,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Missouri,2975,48.8
+
+9846,2006,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Missouri,3009,50.1
+
+9847,2005,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Missouri,2848,47.8
+
+9848,2004,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Missouri,2728,46.4
+
+9849,2003,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Missouri,2786,47.6
+
+9850,2002,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Missouri,2641,45.6
+
+9851,2001,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Missouri,2455,42.5
+
+9852,2000,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Missouri,2398,41.9
+
+9853,1999,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Missouri,2465,43.2
+

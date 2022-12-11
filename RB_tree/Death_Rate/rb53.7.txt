@@ -1,0 +1,6 @@
+8397,2005,Cerebrovascular diseases (I60-I69),Stroke,Virginia,3675,53.7
+
+10258,2003,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,West Virginia,1004,53.7
+
+10286,2009,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wyoming,299,53.7
+

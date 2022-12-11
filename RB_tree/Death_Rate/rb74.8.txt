@@ -1,0 +1,4 @@
+7736,2000,Cerebrovascular diseases (I60-I69),Stroke,Georgia,4625,74.8
+
+10250,2011,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,West Virginia,1432,74.8
+

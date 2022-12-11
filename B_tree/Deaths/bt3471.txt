@@ -1,0 +1,4 @@
+3123,2005,Chronic lower respiratory diseases (J40-J47),CLRD,Indiana,3471,54.8
+
+3123,2005,Chronic lower respiratory diseases (J40-J47),CLRD,Indiana,3471,54.8
+

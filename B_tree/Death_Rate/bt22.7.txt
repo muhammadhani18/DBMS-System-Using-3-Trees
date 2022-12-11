@@ -1,0 +1,48 @@
+1039,2001,Alzheimer's disease (G30),Alzheimer's disease,Arizona,1108,22.7
+
+1332,2014,Alzheimer's disease (G30),Alzheimer's disease,Maine,434,22.7
+
+1415,2003,Alzheimer's disease (G30),Alzheimer's disease,Minnesota,1243,22.7
+
+1469,2003,Alzheimer's disease (G30),Alzheimer's disease,Montana,235,22.7
+
+1808,2006,Alzheimer's disease (G30),Alzheimer's disease,Utah,390,22.7
+
+1891,2013,Alzheimer's disease (G30),Alzheimer's disease,Wisconsin,1671,22.7
+
+1916,2006,Alzheimer's disease (G30),Alzheimer's disease,Wyoming,112,22.7
+
+3969,2005,Diabetes mellitus (E10-E14),Diabetes,Florida,5193,22.7
+
+4054,2010,Diabetes mellitus (E10-E14),Diabetes,Indiana,1587,22.7
+
+4092,2008,Diabetes mellitus (E10-E14),Diabetes,Kansas,706,22.7
+
+4276,2004,Diabetes mellitus (E10-E14),Diabetes,Montana,237,22.7
+
+4398,2008,Diabetes mellitus (E10-E14),Diabetes,North Carolina,2170,22.7
+
+4537,2013,Diabetes mellitus (E10-E14),Diabetes,South Dakota,237,22.7
+
+4612,2010,Diabetes mellitus (E10-E14),Diabetes,Utah,471,22.7
+
+4709,2003,Diabetes mellitus (E10-E14),Diabetes,Wisconsin,1331,22.7
+
+5750,2006,Influenza and pneumonia (J09-J18),Influenza and pneumonia,California,7338,22.7
+
+5793,1999,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Connecticut,885,22.7
+
+5950,2004,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Iowa,890,22.7
+
+5970,2002,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Kansas,698,22.7
+
+6005,2003,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Louisiana,915,22.7
+
+6422,2000,Influenza and pneumonia (J09-J18),Influenza and pneumonia,South Dakota,212,22.7
+
+6432,2008,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Tennessee,1424,22.7
+
+6598,2004,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wyoming,109,22.7
+
+7118,2006,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Nevada,475,22.7
+

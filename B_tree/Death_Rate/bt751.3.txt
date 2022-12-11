@@ -1,0 +1,4 @@
+480,2002,All Causes,All causes,Minnesota,38510,751.3
+
+546,2008,All Causes,All causes,Nebraska,15461,751.3
+

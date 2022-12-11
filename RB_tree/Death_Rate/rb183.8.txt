@@ -1,0 +1,4 @@
+2100,2002,Malignant neoplasms (C00-C97),Cancer,Florida,39140,183.8
+
+2353,2001,Malignant neoplasms (C00-C97),Cancer,Minnesota,8967,183.8
+

@@ -1,0 +1,56 @@
+1167,1999,Alzheimer's disease (G30),Alzheimer's disease,Florida,3059,14.3
+
+1351,2013,Alzheimer's disease (G30),Alzheimer's disease,Maryland,919,14.3
+
+5821,2007,Influenza and pneumonia (J09-J18),Influenza and pneumonia,District of Columbia,82,14.3
+
+5848,2016,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Georgia,1423,14.3
+
+5922,2014,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Indiana,1063,14.3
+
+5992,2016,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Louisiana,720,14.3
+
+6154,2016,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Nebraska,342,14.3
+
+6284,2012,Influenza and pneumonia (J09-J18),Influenza and pneumonia,North Dakota,133,14.3
+
+6950,2012,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Maine,257,14.3
+
+6983,2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Massachusetts,1228,14.3
+
+7000,2016,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Michigan,1791,14.3
+
+7005,2011,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Michigan,1642,14.3
+
+7033,2001,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Minnesota,729,14.3
+
+7242,2008,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Ohio,1865,14.3
+
+7369,2008,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Tennessee,908,14.3
+
+7427,2004,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Utah,235,14.3
+
+7510,2011,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wisconsin,979,14.3
+
+8541,2005,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arkansas,400,14.3
+
+8545,2001,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arkansas,382,14.3
+
+8582,2000,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Colorado,613,14.3
+
+8730,2014,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Indiana,948,14.3
+
+8731,2013,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Indiana,944,14.3
+
+8732,2012,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Indiana,940,14.3
+
+8802,2014,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Louisiana,679,14.3
+
+8933,2009,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Missouri,860,14.3
+
+9102,2002,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,North Dakota,91,14.3
+
+9318,2002,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Vermont,92,14.3
+
+9345,2011,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Washington,1021,14.3
+

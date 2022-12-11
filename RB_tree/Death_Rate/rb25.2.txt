@@ -1,0 +1,28 @@
+1462,2010,Alzheimer's disease (G30),Alzheimer's disease,Montana,302,25.2
+
+1646,2006,Alzheimer's disease (G30),Alzheimer's disease,Oklahoma,928,25.2
+
+1830,2002,Alzheimer's disease (G30),Alzheimer's disease,Vermont,163,25.2
+
+3012,2008,Chronic lower respiratory diseases (J40-J47),CLRD,District of Columbia,139,25.2
+
+4047,1999,Diabetes mellitus (E10-E14),Diabetes,Illinois,3004,25.2
+
+4099,2001,Diabetes mellitus (E10-E14),Diabetes,Kansas,721,25.2
+
+4200,2008,Diabetes mellitus (E10-E14),Diabetes,Michigan,2752,25.2
+
+5720,2000,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arizona,1222,25.2
+
+6045,1999,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Maryland,1140,25.2
+
+6150,2002,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Montana,255,25.2
+
+6405,1999,Influenza and pneumonia (J09-J18),Influenza and pneumonia,South Carolina,883,25.2
+
+9394,2016,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wyoming,144,25.2
+
+9765,2002,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Maryland,1332,25.2
+
+9972,1999,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,New York,4797,25.2
+

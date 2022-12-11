@@ -1,0 +1,12 @@
+1754,2006,Alzheimer's disease (G30),Alzheimer's disease,Tennessee,2115,36.3
+
+6263,2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,North Carolina,2115,18.7
+
+9731,2002,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Louisiana,2115,48.1
+
+1754,2006,Alzheimer's disease (G30),Alzheimer's disease,Tennessee,2115,36.3
+
+6263,2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,North Carolina,2115,18.7
+
+9731,2002,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Louisiana,2115,48.1
+

@@ -1,0 +1,6 @@
+3308,2000,Chronic lower respiratory diseases (J40-J47),CLRD,Mississippi,1257,46.5
+
+3372,2008,Chronic lower respiratory diseases (J40-J47),CLRD,Nevada,1257,56.4
+
+6213,2011,Influenza and pneumonia (J09-J18),Influenza and pneumonia,New Jersey,1257,12.1
+

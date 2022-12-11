@@ -1,0 +1,4 @@
+2833,2007,Malignant neoplasms (C00-C97),Cancer,Wisconsin,10963,177.2
+
+2833,2007,Malignant neoplasms (C00-C97),Cancer,Wisconsin,10963,177.2
+

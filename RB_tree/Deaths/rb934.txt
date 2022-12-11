@@ -1,0 +1,4 @@
+1350,2014,Alzheimer's disease (G30),Alzheimer's disease,Maryland,934,14.5
+
+3360,2002,Chronic lower respiratory diseases (J40-J47),CLRD,Nebraska,934,49.1
+

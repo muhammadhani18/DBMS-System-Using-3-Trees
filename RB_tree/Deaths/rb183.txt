@@ -1,0 +1,6 @@
+4637,2003,Diabetes mellitus (E10-E14),Diabetes,Vermont,183,27.7
+
+6137,2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Montana,183,13.7
+
+6145,2007,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Montana,183,16.1
+

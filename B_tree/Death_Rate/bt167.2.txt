@@ -1,0 +1,10 @@
+2041,2007,Malignant neoplasms (C00-C97),Cancer,Connecticut,6827,167.2
+
+2344,2010,Malignant neoplasms (C00-C97),Cancer,Minnesota,9612,167.2
+
+2609,2015,Malignant neoplasms (C00-C97),Cancer,Pennsylvania,28697,167.2
+
+5300,2007,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,New Mexico,3305,167.2
+
+5654,2012,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Wyoming,1005,167.2
+

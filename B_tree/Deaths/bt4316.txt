@@ -1,0 +1,16 @@
+72,2015,All Causes,All causes,Alaska,4316,747.4
+
+1163,2003,Alzheimer's disease (G30),Alzheimer's disease,Florida,4316,18.9
+
+3273,1999,Chronic lower respiratory diseases (J40-J47),CLRD,Michigan,4316,45.3
+
+8096,2000,Cerebrovascular diseases (I60-I69),Stroke,New Jersey,4316,49
+
+72,2015,All Causes,All causes,Alaska,4316,747.4
+
+1163,2003,Alzheimer's disease (G30),Alzheimer's disease,Florida,4316,18.9
+
+3273,1999,Chronic lower respiratory diseases (J40-J47),CLRD,Michigan,4316,45.3
+
+8096,2000,Cerebrovascular diseases (I60-I69),Stroke,New Jersey,4316,49
+

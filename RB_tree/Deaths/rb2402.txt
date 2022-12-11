@@ -1,0 +1,6 @@
+3585,2011,Chronic lower respiratory diseases (J40-J47),CLRD,South Carolina,2402,47.6
+
+4393,2013,Diabetes mellitus (E10-E14),Diabetes,North Carolina,2402,21.8
+
+6849,2005,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Illinois,2402,18.9
+

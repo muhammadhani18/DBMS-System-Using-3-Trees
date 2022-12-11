@@ -1,0 +1,8 @@
+1463,2009,Alzheimer's disease (G30),Alzheimer's disease,Montana,256,21.6
+
+6149,2003,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Montana,256,24.8
+
+1463,2009,Alzheimer's disease (G30),Alzheimer's disease,Montana,256,21.6
+
+6149,2003,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Montana,256,24.8
+

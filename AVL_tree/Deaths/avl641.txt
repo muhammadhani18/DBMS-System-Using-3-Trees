@@ -1,0 +1,4 @@
+7757,2015,Cerebrovascular diseases (I60-I69),Stroke,Idaho,641,36.3
+
+9624,2007,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Idaho,641,43.4
+

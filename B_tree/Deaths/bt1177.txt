@@ -1,0 +1,20 @@
+1904,2000,Alzheimer's disease (G30),Alzheimer's disease,Wisconsin,1177,19.9
+
+6514,2016,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Virginia,1177,12.7
+
+8717,2009,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Illinois,1177,9.1
+
+9891,2012,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Nevada,1177,42.4
+
+10255,2006,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,West Virginia,1177,62.4
+
+1904,2000,Alzheimer's disease (G30),Alzheimer's disease,Wisconsin,1177,19.9
+
+6514,2016,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Virginia,1177,12.7
+
+8717,2009,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Illinois,1177,9.1
+
+9891,2012,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Nevada,1177,42.4
+
+10255,2006,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,West Virginia,1177,62.4
+

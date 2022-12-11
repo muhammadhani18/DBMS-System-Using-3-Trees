@@ -1,0 +1,4 @@
+2622,2002,Malignant neoplasms (C00-C97),Cancer,Pennsylvania,29849,201.9
+
+2622,2002,Malignant neoplasms (C00-C97),Cancer,Pennsylvania,29849,201.9
+

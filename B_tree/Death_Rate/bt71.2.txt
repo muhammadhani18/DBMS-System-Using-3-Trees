@@ -1,0 +1,6 @@
+7555,2002,Cerebrovascular diseases (I60-I69),Stroke,Alabama,3201,71.2
+
+7575,1999,Cerebrovascular diseases (I60-I69),Stroke,Alaska,171,71.2
+
+8273,2003,Cerebrovascular diseases (I60-I69),Stroke,South Carolina,2748,71.2
+

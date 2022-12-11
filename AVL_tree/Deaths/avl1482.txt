@@ -1,0 +1,4 @@
+3367,2013,Chronic lower respiratory diseases (J40-J47),CLRD,Nevada,1482,54.1
+
+3748,2010,Chronic lower respiratory diseases (J40-J47),CLRD,West Virginia,1482,62.7
+

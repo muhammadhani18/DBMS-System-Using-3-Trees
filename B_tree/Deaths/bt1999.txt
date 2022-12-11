@@ -1,0 +1,16 @@
+1573,2007,Alzheimer's disease (G30),Alzheimer's disease,New York,1999,9.1
+
+7988,2000,Cerebrovascular diseases (I60-I69),Stroke,Mississippi,1999,74.1
+
+9723,2010,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Louisiana,1999,44.4
+
+10041,2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Oregon,1999,44.5
+
+1573,2007,Alzheimer's disease (G30),Alzheimer's disease,New York,1999,9.1
+
+7988,2000,Cerebrovascular diseases (I60-I69),Stroke,Mississippi,1999,74.1
+
+9723,2010,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Louisiana,1999,44.4
+
+10041,2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Oregon,1999,44.5
+

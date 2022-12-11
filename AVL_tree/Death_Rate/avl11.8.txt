@@ -1,0 +1,44 @@
+5780,2012,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Connecticut,558,11.8
+
+6190,2016,Influenza and pneumonia (J09-J18),Influenza and pneumonia,New Hampshire,203,11.8
+
+6804,2014,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Hawaii,220,11.8
+
+6814,2004,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Hawaii,164,11.8
+
+6828,2008,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Idaho,173,11.8
+
+7136,2006,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,New Hampshire,160,11.8
+
+7224,2008,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,North Dakota,98,11.8
+
+7342,1999,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,South Carolina,434,11.8
+
+7366,2011,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Tennessee,810,11.8
+
+7374,2003,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Tennessee,677,11.8
+
+8677,2013,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Hawaii,171,11.8
+
+8834,2000,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Maine,154,11.8
+
+8880,2008,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Michigan,1180,11.8
+
+8939,2003,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Missouri,679,11.8
+
+8976,2002,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Nebraska,201,11.8
+
+9084,2002,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,North Carolina,986,11.8
+
+9168,2008,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Pennsylvania,1539,11.8
+
+9206,2006,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,South Carolina,524,11.8
+
+9207,2005,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,South Carolina,510,11.8
+
+9256,2010,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Texas,2891,11.8
+
+9275,2009,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,United States,36909,11.8
+
+9330,2008,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Virginia,948,11.8
+

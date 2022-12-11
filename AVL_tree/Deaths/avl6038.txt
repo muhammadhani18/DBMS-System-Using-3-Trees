@@ -1,0 +1,4 @@
+668,2012,All Causes,All causes,North Dakota,6038,701.2
+
+4828,2010,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Colorado,6038,132.8
+

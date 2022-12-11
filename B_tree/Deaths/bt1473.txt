@@ -1,0 +1,8 @@
+3303,2005,Chronic lower respiratory diseases (J40-J47),CLRD,Mississippi,1473,52
+
+9469,2009,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arkansas,1473,50.2
+
+3303,2005,Chronic lower respiratory diseases (J40-J47),CLRD,Mississippi,1473,52
+
+9469,2009,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arkansas,1473,50.2
+

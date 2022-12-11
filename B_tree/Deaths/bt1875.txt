@@ -1,0 +1,8 @@
+6066,2014,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Michigan,1875,15.5
+
+9928,2009,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,New Jersey,1875,20.1
+
+6066,2014,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Michigan,1875,15.5
+
+9928,2009,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,New Jersey,1875,20.1
+

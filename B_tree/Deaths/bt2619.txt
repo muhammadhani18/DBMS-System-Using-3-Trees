@@ -1,0 +1,8 @@
+7547,2010,Cerebrovascular diseases (I60-I69),Stroke,Alabama,2619,51.6
+
+10271,2007,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wisconsin,2619,44
+
+7547,2010,Cerebrovascular diseases (I60-I69),Stroke,Alabama,2619,51.6
+
+10271,2007,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wisconsin,2619,44
+

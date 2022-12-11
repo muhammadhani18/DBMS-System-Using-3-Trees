@@ -1,0 +1,12 @@
+4270,2010,Diabetes mellitus (E10-E14),Diabetes,Montana,227,19.1
+
+4280,2000,Diabetes mellitus (E10-E14),Diabetes,Montana,227,23.6
+
+6419,2003,Influenza and pneumonia (J09-J18),Influenza and pneumonia,South Dakota,227,23.2
+
+7174,2004,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,New Mexico,227,12.6
+
+8373,2011,Cerebrovascular diseases (I60-I69),Stroke,Vermont,227,29.4
+
+8950,2010,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Montana,227,21.8
+

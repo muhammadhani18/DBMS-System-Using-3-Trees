@@ -1,0 +1,6 @@
+3433,2001,Chronic lower respiratory diseases (J40-J47),CLRD,New Mexico,775,45.8
+
+5705,2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arizona,775,9.5
+
+6972,2008,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Maryland,775,13.7
+

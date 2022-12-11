@@ -1,0 +1,54 @@
+1160,2006,Alzheimer's disease (G30),Alzheimer's disease,Florida,4689,19.3
+
+1236,2002,Alzheimer's disease (G30),Alzheimer's disease,Illinois,2398,19.3
+
+1311,1999,Alzheimer's disease (G30),Alzheimer's disease,Kentucky,728,19.3
+
+1556,2006,Alzheimer's disease (G30),Alzheimer's disease,New Mexico,348,19.3
+
+1558,2004,Alzheimer's disease (G30),Alzheimer's disease,New Mexico,328,19.3
+
+1795,2001,Alzheimer's disease (G30),Alzheimer's disease,United States,53852,19.3
+
+1804,2010,Alzheimer's disease (G30),Alzheimer's disease,Utah,375,19.3
+
+3814,2016,Diabetes mellitus (E10-E14),Diabetes,Alaska,124,19.3
+
+3897,2005,Diabetes mellitus (E10-E14),Diabetes,Colorado,753,19.3
+
+4072,2010,Diabetes mellitus (E10-E14),Diabetes,Iowa,733,19.3
+
+4338,2014,Diabetes mellitus (E10-E14),Diabetes,New Jersey,2062,19.3
+
+4340,2012,Diabetes mellitus (E10-E14),Diabetes,New Jersey,1988,19.3
+
+5773,2001,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Colorado,650,19.3
+
+5911,2007,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Illinois,2550,19.3
+
+5948,2006,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Iowa,770,19.3
+
+5975,2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Kentucky,967,19.3
+
+6382,2004,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Rhode Island,260,19.3
+
+6607,2013,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Alabama,1057,19.3
+
+6844,2010,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Illinois,2612,19.3
+
+6926,2000,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Kentucky,756,19.3
+
+7298,2006,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Pennsylvania,3084,19.3
+
+7302,2002,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Pennsylvania,2944,19.3
+
+7487,2016,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,West Virginia,481,19.3
+
+8959,2001,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Montana,175,19.3
+
+8990,2006,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Nevada,486,19.3
+
+9358,2016,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,West Virginia,362,19.3
+
+9403,2007,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wyoming,101,19.3
+

@@ -1,0 +1,4 @@
+2457,2005,Malignant neoplasms (C00-C97),Cancer,New Hampshire,2549,189.8
+
+3736,2004,Chronic lower respiratory diseases (J40-J47),CLRD,Washington,2549,43.8
+

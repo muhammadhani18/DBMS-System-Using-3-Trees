@@ -1,0 +1,4 @@
+3540,2002,Chronic lower respiratory diseases (J40-J47),CLRD,Oregon,1845,50.2
+
+7842,2002,Cerebrovascular diseases (I60-I69),Stroke,Kansas,1845,60.4
+

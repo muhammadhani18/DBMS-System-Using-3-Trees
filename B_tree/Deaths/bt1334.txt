@@ -1,0 +1,8 @@
+1084,2010,Alzheimer's disease (G30),Alzheimer's disease,Colorado,1334,31.1
+
+2549,2003,Malignant neoplasms (C00-C97),Cancer,North Dakota,1334,179.2
+
+1084,2010,Alzheimer's disease (G30),Alzheimer's disease,Colorado,1334,31.1
+
+2549,2003,Malignant neoplasms (C00-C97),Cancer,North Dakota,1334,179.2
+

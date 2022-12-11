@@ -1,0 +1,12 @@
+2059,2007,Malignant neoplasms (C00-C97),Cancer,Delaware,1853,193.5
+
+6072,2008,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Michigan,1853,16.9
+
+7002,2014,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Michigan,1853,15.2
+
+2059,2007,Malignant neoplasms (C00-C97),Cancer,Delaware,1853,193.5
+
+6072,2008,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Michigan,1853,16.9
+
+7002,2014,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Michigan,1853,15.2
+

@@ -1,0 +1,16 @@
+4,2016,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arkansas,1604,51.8
+
+3985,2007,Diabetes mellitus (E10-E14),Diabetes,Georgia,1604,20
+
+6131,2003,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Missouri,1604,25.7
+
+6133,2001,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Missouri,1604,26.1
+
+4,2016,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arkansas,1604,51.8
+
+3985,2007,Diabetes mellitus (E10-E14),Diabetes,Georgia,1604,20
+
+6131,2003,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Missouri,1604,25.7
+
+6133,2001,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Missouri,1604,26.1
+

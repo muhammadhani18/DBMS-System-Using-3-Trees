@@ -1,0 +1,4 @@
+4567,2001,Diabetes mellitus (E10-E14),Diabetes,Tennessee,1746,30.7
+
+4567,2001,Diabetes mellitus (E10-E14),Diabetes,Tennessee,1746,30.7
+

@@ -1,0 +1,16 @@
+2458,2004,Malignant neoplasms (C00-C97),Cancer,New Hampshire,2554,194.8
+
+7860,2002,Cerebrovascular diseases (I60-I69),Stroke,Kentucky,2554,64.9
+
+8219,2003,Cerebrovascular diseases (I60-I69),Stroke,Oregon,2554,66.7
+
+8445,2011,Cerebrovascular diseases (I60-I69),Stroke,Wisconsin,2554,37.2
+
+2458,2004,Malignant neoplasms (C00-C97),Cancer,New Hampshire,2554,194.8
+
+7860,2002,Cerebrovascular diseases (I60-I69),Stroke,Kentucky,2554,64.9
+
+8219,2003,Cerebrovascular diseases (I60-I69),Stroke,Oregon,2554,66.7
+
+8445,2011,Cerebrovascular diseases (I60-I69),Stroke,Wisconsin,2554,37.2
+

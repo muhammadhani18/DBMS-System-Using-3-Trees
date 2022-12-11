@@ -1,0 +1,12 @@
+3574,2004,Chronic lower respiratory diseases (J40-J47),CLRD,Rhode Island,463,36.3
+
+4138,2016,Diabetes mellitus (E10-E14),Diabetes,Maine,463,23.9
+
+4613,2009,Diabetes mellitus (E10-E14),Diabetes,Utah,463,22.6
+
+3574,2004,Chronic lower respiratory diseases (J40-J47),CLRD,Rhode Island,463,36.3
+
+4138,2016,Diabetes mellitus (E10-E14),Diabetes,Maine,463,23.9
+
+4613,2009,Diabetes mellitus (E10-E14),Diabetes,Utah,463,22.6
+

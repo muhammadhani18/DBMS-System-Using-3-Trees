@@ -1,0 +1,10 @@
+50,2016,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,West Virginia,1705,89.7
+
+1579,2001,Alzheimer's disease (G30),Alzheimer's disease,New York,1705,8.5
+
+6272,2006,Influenza and pneumonia (J09-J18),Influenza and pneumonia,North Carolina,1705,20.1
+
+7203,2011,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,North Carolina,1705,17
+
+7972,2016,Cerebrovascular diseases (I60-I69),Stroke,Mississippi,1705,50.6
+

@@ -1,0 +1,8 @@
+3310,2016,Chronic lower respiratory diseases (J40-J47),CLRD,Missouri,3961,52.1
+
+9639,2009,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Illinois,3961,30.4
+
+3310,2016,Chronic lower respiratory diseases (J40-J47),CLRD,Missouri,3961,52.1
+
+9639,2009,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Illinois,3961,30.4
+

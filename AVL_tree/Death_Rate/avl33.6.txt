@@ -1,0 +1,24 @@
+1344,2002,Alzheimer's disease (G30),Alzheimer's disease,Maine,513,33.6
+
+1384,2016,Alzheimer's disease (G30),Alzheimer's disease,Michigan,4249,33.6
+
+1425,2011,Alzheimer's disease (G30),Alzheimer's disease,Mississippi,975,33.6
+
+1712,2012,Alzheimer's disease (G30),Alzheimer's disease,South Carolina,1634,33.6
+
+1717,2007,Alzheimer's disease (G30),Alzheimer's disease,South Carolina,1396,33.6
+
+7686,2014,Cerebrovascular diseases (I60-I69),Stroke,District of Columbia,214,33.6
+
+9519,2010,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Connecticut,1337,33.6
+
+9550,2013,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,District of Columbia,216,33.6
+
+9635,2013,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Illinois,4511,33.6
+
+9636,2012,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Illinois,4488,33.6
+
+9680,2002,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Iowa,1093,33.6
+
+9875,2011,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Nebraska,678,33.6
+

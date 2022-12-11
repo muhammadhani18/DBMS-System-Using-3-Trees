@@ -1,0 +1,4 @@
+49,2016,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Washington,3221,41.4
+
+2900,2012,Chronic lower respiratory diseases (J40-J47),CLRD,Arizona,3221,43.6
+

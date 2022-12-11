@@ -1,0 +1,4 @@
+8451,2005,Cerebrovascular diseases (I60-I69),Stroke,Wisconsin,2960,47.4
+
+8451,2005,Cerebrovascular diseases (I60-I69),Stroke,Wisconsin,2960,47.4
+

@@ -1,0 +1,6 @@
+1304,2006,Alzheimer's disease (G30),Alzheimer's disease,Kentucky,1153,28.1
+
+3845,2003,Diabetes mellitus (E10-E14),Diabetes,Arizona,1153,20.9
+
+6928,2016,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Louisiana,1153,22.6
+

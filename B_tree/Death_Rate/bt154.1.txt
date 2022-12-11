@@ -1,0 +1,8 @@
+2023,2007,Malignant neoplasms (C00-C97),Cancer,Colorado,6617,154.1
+
+2395,2013,Malignant neoplasms (C00-C97),Cancer,Montana,1997,154.1
+
+4751,2015,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Alaska,846,154.1
+
+5160,2003,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Minnesota,8144,154.1
+

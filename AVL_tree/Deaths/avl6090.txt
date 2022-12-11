@@ -1,0 +1,4 @@
+677,2003,All Causes,All causes,North Dakota,6090,776.1
+
+1994,2000,Malignant neoplasms (C00-C97),Cancer,Arkansas,6090,210.5
+

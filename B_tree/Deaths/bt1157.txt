@@ -1,0 +1,16 @@
+1667,2003,Alzheimer's disease (G30),Alzheimer's disease,Oregon,1157,29.8
+
+5681,2003,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Alabama,1157,25.9
+
+5990,2000,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Kentucky,1157,29.9
+
+8661,2011,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Georgia,1157,11.7
+
+1667,2003,Alzheimer's disease (G30),Alzheimer's disease,Oregon,1157,29.8
+
+5681,2003,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Alabama,1157,25.9
+
+5990,2000,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Kentucky,1157,29.9
+
+8661,2011,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Georgia,1157,11.7
+

@@ -1,0 +1,4 @@
+3454,2016,Chronic lower respiratory diseases (J40-J47),CLRD,North Carolina,5311,44.8
+
+5624,2006,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,West Virginia,5311,240.5
+

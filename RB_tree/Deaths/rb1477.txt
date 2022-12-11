@@ -1,0 +1,4 @@
+4249,2013,Diabetes mellitus (E10-E14),Diabetes,Missouri,1477,20.5
+
+9470,2008,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arkansas,1477,50.6
+

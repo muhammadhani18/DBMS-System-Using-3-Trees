@@ -1,0 +1,6 @@
+1183,2001,Alzheimer's disease (G30),Alzheimer's disease,Georgia,1419,24.1
+
+1900,2004,Alzheimer's disease (G30),Alzheimer's disease,Wisconsin,1419,22.5
+
+7456,2011,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Virginia,1419,17.5
+

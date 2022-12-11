@@ -1,0 +1,4 @@
+3139,2007,Chronic lower respiratory diseases (J40-J47),CLRD,Iowa,1660,44.6
+
+7003,2013,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Michigan,1660,13.9
+

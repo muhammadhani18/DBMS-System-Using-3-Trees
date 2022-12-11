@@ -1,0 +1,10 @@
+3339,2005,Chronic lower respiratory diseases (J40-J47),CLRD,Montana,580,54.9
+
+4300,2016,Diabetes mellitus (E10-E14),Diabetes,Nevada,580,17.9
+
+6723,2005,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Connecticut,580,13.7
+
+7050,2002,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Mississippi,580,21.2
+
+8486,2006,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Alabama,580,12.4
+

@@ -1,0 +1,8 @@
+1932,2008,Malignant neoplasms (C00-C97),Cancer,Alabama,10182,197.5
+
+3029,2009,Chronic lower respiratory diseases (J40-J47),CLRD,Florida,10182,40.3
+
+1932,2008,Malignant neoplasms (C00-C97),Cancer,Alabama,10182,197.5
+
+3029,2009,Chronic lower respiratory diseases (J40-J47),CLRD,Florida,10182,40.3
+

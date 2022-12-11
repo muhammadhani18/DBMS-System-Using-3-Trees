@@ -1,0 +1,12 @@
+6399,2005,Influenza and pneumonia (J09-J18),Influenza and pneumonia,South Carolina,771,19.2
+
+6540,2008,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Washington,771,11.6
+
+7773,1999,Cerebrovascular diseases (I60-I69),Stroke,Idaho,771,67.5
+
+6399,2005,Influenza and pneumonia (J09-J18),Influenza and pneumonia,South Carolina,771,19.2
+
+6540,2008,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Washington,771,11.6
+
+7773,1999,Cerebrovascular diseases (I60-I69),Stroke,Idaho,771,67.5
+

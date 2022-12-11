@@ -1,0 +1,20 @@
+4269,2011,Diabetes mellitus (E10-E14),Diabetes,Montana,252,20.9
+
+4500,2014,Diabetes mellitus (E10-E14),Diabetes,Rhode Island,252,18.3
+
+4511,2003,Diabetes mellitus (E10-E14),Diabetes,Rhode Island,252,20.4
+
+6153,1999,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Montana,252,26.5
+
+6949,2013,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Maine,252,13.6
+
+6956,2006,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Maine,252,15.7
+
+7171,2007,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,New Mexico,252,12.8
+
+7684,2016,Cerebrovascular diseases (I60-I69),Stroke,District of Columbia,252,38.4
+
+7700,2000,Cerebrovascular diseases (I60-I69),Stroke,District of Columbia,252,44.4
+
+8700,2008,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Idaho,252,16.7
+

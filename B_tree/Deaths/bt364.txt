@@ -1,0 +1,16 @@
+1602,2014,Alzheimer's disease (G30),Alzheimer's disease,North Dakota,364,36.2
+
+1604,2012,Alzheimer's disease (G30),Alzheimer's disease,North Dakota,364,36.6
+
+3692,2012,Chronic lower respiratory diseases (J40-J47),CLRD,Vermont,364,46.3
+
+3695,2009,Chronic lower respiratory diseases (J40-J47),CLRD,Vermont,364,49.3
+
+1602,2014,Alzheimer's disease (G30),Alzheimer's disease,North Dakota,364,36.2
+
+1604,2012,Alzheimer's disease (G30),Alzheimer's disease,North Dakota,364,36.6
+
+3692,2012,Chronic lower respiratory diseases (J40-J47),CLRD,Vermont,364,46.3
+
+3695,2009,Chronic lower respiratory diseases (J40-J47),CLRD,Vermont,364,49.3
+

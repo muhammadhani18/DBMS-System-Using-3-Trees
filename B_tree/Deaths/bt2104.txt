@@ -1,0 +1,8 @@
+1243,2013,Alzheimer's disease (G30),Alzheimer's disease,Indiana,2104,28.5
+
+5202,2015,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Montana,2104,155.8
+
+1243,2013,Alzheimer's disease (G30),Alzheimer's disease,Indiana,2104,28.5
+
+5202,2015,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Montana,2104,155.8
+

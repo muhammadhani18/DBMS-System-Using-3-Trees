@@ -1,0 +1,4 @@
+2489,2009,Malignant neoplasms (C00-C97),Cancer,New Mexico,3202,149
+
+3401,2015,Chronic lower respiratory diseases (J40-J47),CLRD,New Jersey,3202,29.6
+

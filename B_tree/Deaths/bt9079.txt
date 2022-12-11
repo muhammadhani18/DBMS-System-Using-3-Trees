@@ -1,0 +1,4 @@
+2348,2006,Malignant neoplasms (C00-C97),Cancer,Minnesota,9079,170.7
+
+2348,2006,Malignant neoplasms (C00-C97),Cancer,Minnesota,9079,170.7
+

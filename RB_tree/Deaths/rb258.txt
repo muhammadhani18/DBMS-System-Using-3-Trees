@@ -1,0 +1,14 @@
+1461,2011,Alzheimer's disease (G30),Alzheimer's disease,Montana,258,20.7
+
+4273,2007,Diabetes mellitus (E10-E14),Diabetes,Montana,258,23
+
+4501,2013,Diabetes mellitus (E10-E14),Diabetes,Rhode Island,258,18.9
+
+6012,2014,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Maine,258,13.7
+
+6013,2013,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Maine,258,14
+
+7097,2009,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Nebraska,258,12.1
+
+10296,1999,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wyoming,258,52.8
+

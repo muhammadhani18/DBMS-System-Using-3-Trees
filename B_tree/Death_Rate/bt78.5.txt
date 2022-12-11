@@ -1,0 +1,4 @@
+8150,2000,Cerebrovascular diseases (I60-I69),Stroke,North Carolina,5749,78.5
+
+8312,2000,Cerebrovascular diseases (I60-I69),Stroke,Tennessee,4266,78.5
+

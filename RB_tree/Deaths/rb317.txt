@@ -1,0 +1,6 @@
+3474,2014,Chronic lower respiratory diseases (J40-J47),CLRD,North Dakota,317,36.1
+
+6024,2002,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Maine,317,20.9
+
+10284,2011,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wyoming,317,56.2
+

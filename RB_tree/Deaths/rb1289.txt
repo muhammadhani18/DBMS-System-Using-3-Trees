@@ -1,0 +1,8 @@
+2974,2010,Chronic lower respiratory diseases (J40-J47),CLRD,Connecticut,1289,29.4
+
+4700,2012,Diabetes mellitus (E10-E14),Diabetes,Wisconsin,1289,19
+
+5572,2004,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Vermont,1289,192.3
+
+6127,2007,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Missouri,1289,19.6
+

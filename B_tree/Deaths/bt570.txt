@@ -1,0 +1,16 @@
+1110,2002,Alzheimer's disease (G30),Alzheimer's disease,Connecticut,570,13.6
+
+1478,2012,Alzheimer's disease (G30),Alzheimer's disease,Nebraska,570,24.4
+
+4608,2014,Diabetes mellitus (E10-E14),Diabetes,Utah,570,24.3
+
+6712,2016,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Connecticut,570,12.1
+
+1110,2002,Alzheimer's disease (G30),Alzheimer's disease,Connecticut,570,13.6
+
+1478,2012,Alzheimer's disease (G30),Alzheimer's disease,Nebraska,570,24.4
+
+4608,2014,Diabetes mellitus (E10-E14),Diabetes,Utah,570,24.3
+
+6712,2016,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Connecticut,570,12.1
+

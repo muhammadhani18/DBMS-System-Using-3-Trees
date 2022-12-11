@@ -1,0 +1,4 @@
+1323,2005,Alzheimer's disease (G30),Alzheimer's disease,Louisiana,1405,34.8
+
+2930,2000,Chronic lower respiratory diseases (J40-J47),CLRD,Arkansas,1405,48
+

@@ -1,0 +1,8 @@
+1141,2007,Alzheimer's disease (G30),Alzheimer's disease,District of Columbia,140,24
+
+2888,2006,Chronic lower respiratory diseases (J40-J47),CLRD,Alaska,140,37.8
+
+9088,2016,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,North Dakota,140,19
+
+9220,2010,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,South Dakota,140,17.5
+

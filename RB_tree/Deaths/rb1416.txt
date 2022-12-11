@@ -1,0 +1,4 @@
+6515,2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Virginia,1416,15.7
+
+7835,2009,Cerebrovascular diseases (I60-I69),Stroke,Kansas,1416,43.2
+

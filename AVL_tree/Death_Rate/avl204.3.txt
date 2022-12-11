@@ -1,0 +1,4 @@
+2815,2007,Malignant neoplasms (C00-C97),Cancer,West Virginia,4690,204.3
+
+5135,2010,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Michigan,23326,204.3
+

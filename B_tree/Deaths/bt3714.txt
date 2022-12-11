@@ -1,0 +1,8 @@
+1169,2015,Alzheimer's disease (G30),Alzheimer's disease,Georgia,3714,42.4
+
+8420,2000,Cerebrovascular diseases (I60-I69),Stroke,Washington,3714,68.7
+
+1169,2015,Alzheimer's disease (G30),Alzheimer's disease,Georgia,3714,42.4
+
+8420,2000,Cerebrovascular diseases (I60-I69),Stroke,Washington,3714,68.7
+

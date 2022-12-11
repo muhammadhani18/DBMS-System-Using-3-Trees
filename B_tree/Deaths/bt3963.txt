@@ -1,0 +1,4 @@
+9583,2014,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Georgia,3963,40.1
+
+9583,2014,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Georgia,3963,40.1
+

@@ -1,0 +1,12 @@
+992,2012,Alzheimer's disease (G30),Alzheimer's disease,Alabama,1390,27.2
+
+5852,2012,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Georgia,1390,16.4
+
+6431,2009,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Tennessee,1390,21.6
+
+992,2012,Alzheimer's disease (G30),Alzheimer's disease,Alabama,1390,27.2
+
+5852,2012,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Georgia,1390,16.4
+
+6431,2009,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Tennessee,1390,21.6
+

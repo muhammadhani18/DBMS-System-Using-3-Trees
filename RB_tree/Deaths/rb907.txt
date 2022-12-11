@@ -1,0 +1,8 @@
+6401,2003,Influenza and pneumonia (J09-J18),Influenza and pneumonia,South Carolina,907,23.8
+
+6546,2002,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Washington,907,16
+
+7070,2000,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Missouri,907,15
+
+7071,1999,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Missouri,907,15.1
+

@@ -1,0 +1,8 @@
+3972,2002,Diabetes mellitus (E10-E14),Diabetes,Florida,4583,21.5
+
+10073,2000,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Pennsylvania,4583,35.2
+
+3972,2002,Diabetes mellitus (E10-E14),Diabetes,Florida,4583,21.5
+
+10073,2000,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Pennsylvania,4583,35.2
+

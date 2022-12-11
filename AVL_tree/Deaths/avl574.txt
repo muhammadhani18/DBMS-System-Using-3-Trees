@@ -1,0 +1,8 @@
+1434,2002,Alzheimer's disease (G30),Alzheimer's disease,Mississippi,574,21.6
+
+6897,2011,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Kansas,574,17.4
+
+8583,1999,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Colorado,574,13.7
+
+9739,2011,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Maine,574,38.3
+

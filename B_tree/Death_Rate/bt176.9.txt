@@ -1,0 +1,6 @@
+1948,2010,Malignant neoplasms (C00-C97),Cancer,Alaska,884,176.9
+
+2525,2009,Malignant neoplasms (C00-C97),Cancer,North Carolina,17513,176.9
+
+5264,2007,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,New Hampshire,2511,176.9
+

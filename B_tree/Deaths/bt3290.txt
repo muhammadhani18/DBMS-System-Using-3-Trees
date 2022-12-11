@@ -1,0 +1,8 @@
+5844,2002,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Florida,3290,15.1
+
+9989,1999,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,North Carolina,3290,42.1
+
+5844,2002,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Florida,3290,15.1
+
+9989,1999,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,North Carolina,3290,42.1
+

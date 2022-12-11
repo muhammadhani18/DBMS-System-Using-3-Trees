@@ -1,0 +1,14 @@
+1010,2012,Alzheimer's disease (G30),Alzheimer's disease,Alaska,102,27.2
+
+1922,2000,Alzheimer's disease (G30),Alzheimer's disease,Wyoming,102,23.1
+
+3827,2003,Diabetes mellitus (E10-E14),Diabetes,Alaska,102,27.7
+
+7350,2009,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,South Dakota,102,10.1
+
+8509,2001,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Alaska,102,15.9
+
+9223,2007,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,South Dakota,102,12.5
+
+9227,2003,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,South Dakota,102,13.5
+

@@ -1,0 +1,8 @@
+4403,2003,Diabetes mellitus (E10-E14),Diabetes,North Carolina,2388,29.1
+
+10027,2012,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Oklahoma,2388,61.6
+
+4403,2003,Diabetes mellitus (E10-E14),Diabetes,North Carolina,2388,29.1
+
+10027,2012,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Oklahoma,2388,61.6
+

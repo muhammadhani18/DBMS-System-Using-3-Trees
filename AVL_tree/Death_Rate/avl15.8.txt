@@ -1,0 +1,40 @@
+1076,2000,Alzheimer's disease (G30),Alzheimer's disease,California,4419,15.8
+
+1497,2011,Alzheimer's disease (G30),Alzheimer's disease,Nevada,349,15.8
+
+5692,2010,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Alaska,64,15.8
+
+5807,2003,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Delaware,127,15.8
+
+6032,2012,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Maryland,986,15.8
+
+6048,2014,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Massachusetts,1370,15.8
+
+6067,2013,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Michigan,1896,15.8
+
+6306,2008,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Ohio,2085,15.8
+
+6412,2010,Influenza and pneumonia (J09-J18),Influenza and pneumonia,South Dakota,169,15.8
+
+6518,2012,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Virginia,1307,15.8
+
+6578,2006,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wisconsin,1014,15.8
+
+6952,2010,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Maine,272,15.8
+
+7015,2001,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Michigan,1533,15.8
+
+7267,2001,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Oklahoma,567,15.8
+
+7292,2012,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Pennsylvania,2736,15.8
+
+7379,2016,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Texas,4125,15.8
+
+7389,2006,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Texas,2995,15.8
+
+8524,2004,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arizona,880,15.8
+
+8702,2006,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Idaho,222,15.8
+
+9295,2007,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Utah,378,15.8
+

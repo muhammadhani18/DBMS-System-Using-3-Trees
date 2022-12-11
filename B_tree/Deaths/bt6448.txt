@@ -1,0 +1,4 @@
+2210,2000,Malignant neoplasms (C00-C97),Cancer,Iowa,6448,191.7
+
+2210,2000,Malignant neoplasms (C00-C97),Cancer,Iowa,6448,191.7
+

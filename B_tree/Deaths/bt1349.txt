@@ -1,0 +1,12 @@
+3799,2013,Diabetes mellitus (E10-E14),Diabetes,Alabama,1349,24.3
+
+5573,2003,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Vermont,1349,204.1
+
+7654,2010,Cerebrovascular diseases (I60-I69),Stroke,Connecticut,1349,29.4
+
+3799,2013,Diabetes mellitus (E10-E14),Diabetes,Alabama,1349,24.3
+
+5573,2003,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Vermont,1349,204.1
+
+7654,2010,Cerebrovascular diseases (I60-I69),Stroke,Connecticut,1349,29.4
+

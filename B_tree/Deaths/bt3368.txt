@@ -1,0 +1,4 @@
+8560,2004,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,California,3368,9.7
+
+8560,2004,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,California,3368,9.7
+

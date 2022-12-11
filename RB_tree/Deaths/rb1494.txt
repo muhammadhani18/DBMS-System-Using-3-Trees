@@ -1,0 +1,4 @@
+4674,2002,Diabetes mellitus (E10-E14),Diabetes,Washington,1494,26.3
+
+5851,2013,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Georgia,1494,16.8
+

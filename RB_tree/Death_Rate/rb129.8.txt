@@ -1,0 +1,4 @@
+4822,2016,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Colorado,7277,129.8
+
+4827,2011,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Colorado,6177,129.8
+

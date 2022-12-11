@@ -1,0 +1,8 @@
+3544,2016,Chronic lower respiratory diseases (J40-J47),CLRD,Pennsylvania,6523,36.8
+
+5402,2013,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Oregon,6523,135.1
+
+3544,2016,Chronic lower respiratory diseases (J40-J47),CLRD,Pennsylvania,6523,36.8
+
+5402,2013,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Oregon,6523,135.1
+

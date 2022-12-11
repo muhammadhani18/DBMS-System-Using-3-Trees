@@ -1,0 +1,12 @@
+1732,2010,Alzheimer's disease (G30),Alzheimer's disease,South Dakota,398,35.9
+
+1885,2001,Alzheimer's disease (G30),Alzheimer's disease,West Virginia,398,19
+
+4151,2003,Diabetes mellitus (E10-E14),Diabetes,Maine,398,26.2
+
+4153,2001,Diabetes mellitus (E10-E14),Diabetes,Maine,398,27.1
+
+6241,2001,Influenza and pneumonia (J09-J18),Influenza and pneumonia,New Mexico,398,24.3
+
+7270,2016,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Oregon,398,7.7
+

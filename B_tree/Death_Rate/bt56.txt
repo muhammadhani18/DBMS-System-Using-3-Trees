@@ -1,0 +1,8 @@
+7572,2002,Cerebrovascular diseases (I60-I69),Stroke,Alaska,158,56
+
+9440,2004,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Alaska,326,56
+
+9455,2006,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arizona,3352,56
+
+9834,2001,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Mississippi,1571,56
+

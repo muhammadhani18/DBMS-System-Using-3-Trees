@@ -1,0 +1,6 @@
+4469,2009,Diabetes mellitus (E10-E14),Diabetes,Oregon,1073,24.8
+
+4474,2004,Diabetes mellitus (E10-E14),Diabetes,Oregon,1073,27.9
+
+8429,2009,Cerebrovascular diseases (I60-I69),Stroke,West Virginia,1073,46.7
+

@@ -1,0 +1,4 @@
+8003,2003,Cerebrovascular diseases (I60-I69),Stroke,Missouri,3580,57.7
+
+8003,2003,Cerebrovascular diseases (I60-I69),Stroke,Missouri,3580,57.7
+

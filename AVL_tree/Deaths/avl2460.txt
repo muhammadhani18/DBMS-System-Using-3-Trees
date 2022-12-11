@@ -1,0 +1,4 @@
+1591,2007,Alzheimer's disease (G30),Alzheimer's disease,North Carolina,2460,28.7
+
+7920,2014,Cerebrovascular diseases (I60-I69),Stroke,Massachusetts,2460,28.7
+

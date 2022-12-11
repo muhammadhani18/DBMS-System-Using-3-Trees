@@ -1,0 +1,16 @@
+1501,2007,Alzheimer's disease (G30),Alzheimer's disease,Nevada,248,13.4
+
+1563,1999,Alzheimer's disease (G30),Alzheimer's disease,New Mexico,248,16.4
+
+4507,2007,Diabetes mellitus (E10-E14),Diabetes,Rhode Island,248,19.1
+
+10005,2000,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,North Dakota,248,35.3
+
+1501,2007,Alzheimer's disease (G30),Alzheimer's disease,Nevada,248,13.4
+
+1563,1999,Alzheimer's disease (G30),Alzheimer's disease,New Mexico,248,16.4
+
+4507,2007,Diabetes mellitus (E10-E14),Diabetes,Rhode Island,248,19.1
+
+10005,2000,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,North Dakota,248,35.3
+

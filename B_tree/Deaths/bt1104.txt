@@ -1,0 +1,16 @@
+4457,2003,Diabetes mellitus (E10-E14),Diabetes,Oklahoma,1104,30.4
+
+6614,2006,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Alabama,1104,23
+
+8428,2010,Cerebrovascular diseases (I60-I69),Stroke,West Virginia,1104,47.8
+
+9898,2005,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Nevada,1104,47
+
+4457,2003,Diabetes mellitus (E10-E14),Diabetes,Oklahoma,1104,30.4
+
+6614,2006,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Alabama,1104,23
+
+8428,2010,Cerebrovascular diseases (I60-I69),Stroke,West Virginia,1104,47.8
+
+9898,2005,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Nevada,1104,47
+

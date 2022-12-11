@@ -1,0 +1,12 @@
+4188,2002,Diabetes mellitus (E10-E14),Diabetes,Massachusetts,1423,20.4
+
+4248,2014,Diabetes mellitus (E10-E14),Diabetes,Missouri,1423,19.4
+
+5848,2016,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Georgia,1423,14.3
+
+4188,2002,Diabetes mellitus (E10-E14),Diabetes,Massachusetts,1423,20.4
+
+4248,2014,Diabetes mellitus (E10-E14),Diabetes,Missouri,1423,19.4
+
+5848,2016,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Georgia,1423,14.3
+

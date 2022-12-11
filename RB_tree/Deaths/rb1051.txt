@@ -1,0 +1,10 @@
+1721,2003,Alzheimer's disease (G30),Alzheimer's disease,South Carolina,1051,28.8
+
+5650,2016,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Wyoming,1051,157.8
+
+6613,2007,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Alabama,1051,21.3
+
+8887,2001,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Michigan,1051,10.5
+
+9681,2001,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Iowa,1051,32.5
+

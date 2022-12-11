@@ -1,0 +1,12 @@
+5816,2012,Influenza and pneumonia (J09-J18),Influenza and pneumonia,District of Columbia,76,12.1
+
+5822,2006,Influenza and pneumonia (J09-J18),Influenza and pneumonia,District of Columbia,76,13.7
+
+7530,2009,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wyoming,76,14
+
+5816,2012,Influenza and pneumonia (J09-J18),Influenza and pneumonia,District of Columbia,76,12.1
+
+5822,2006,Influenza and pneumonia (J09-J18),Influenza and pneumonia,District of Columbia,76,13.7
+
+7530,2009,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wyoming,76,14
+

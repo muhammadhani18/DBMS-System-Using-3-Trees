@@ -1,0 +1,4 @@
+278,2006,All Causes,All causes,Idaho,10613,756
+
+727,2007,All Causes,All causes,Oregon,31403,756
+

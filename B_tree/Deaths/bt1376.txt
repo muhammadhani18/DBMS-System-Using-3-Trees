@@ -1,0 +1,8 @@
+1543,2001,Alzheimer's disease (G30),Alzheimer's disease,New Jersey,1376,15.3
+
+9762,2005,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Maryland,1376,25
+
+1543,2001,Alzheimer's disease (G30),Alzheimer's disease,New Jersey,1376,15.3
+
+9762,2005,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Maryland,1376,25
+

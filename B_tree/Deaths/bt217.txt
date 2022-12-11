@@ -1,0 +1,24 @@
+3930,2008,Diabetes mellitus (E10-E14),Diabetes,Delaware,217,22.5
+
+5889,2011,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Idaho,217,13.5
+
+7094,2012,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Nebraska,217,9.8
+
+7175,2003,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,New Mexico,217,12.3
+
+8705,2003,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Idaho,217,16.4
+
+9549,2014,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,District of Columbia,217,33.1
+
+3930,2008,Diabetes mellitus (E10-E14),Diabetes,Delaware,217,22.5
+
+5889,2011,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Idaho,217,13.5
+
+7094,2012,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Nebraska,217,9.8
+
+7175,2003,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,New Mexico,217,12.3
+
+8705,2003,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Idaho,217,16.4
+
+9549,2014,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,District of Columbia,217,33.1
+

@@ -1,0 +1,8 @@
+7951,2001,Cerebrovascular diseases (I60-I69),Stroke,Michigan,5701,58.8
+
+9832,2003,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Mississippi,1656,58.8
+
+10028,2011,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Oklahoma,2261,58.8
+
+10032,2007,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Oklahoma,2149,58.8
+

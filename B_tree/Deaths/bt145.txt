@@ -1,0 +1,24 @@
+3944,2012,Diabetes mellitus (E10-E14),Diabetes,District of Columbia,145,24.1
+
+3946,2010,Diabetes mellitus (E10-E14),Diabetes,District of Columbia,145,24.9
+
+4728,2002,Diabetes mellitus (E10-E14),Diabetes,Wyoming,145,30.5
+
+5806,2004,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Delaware,145,17.4
+
+6599,2003,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wyoming,145,30.8
+
+9554,2009,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,District of Columbia,145,24.6
+
+3944,2012,Diabetes mellitus (E10-E14),Diabetes,District of Columbia,145,24.1
+
+3946,2010,Diabetes mellitus (E10-E14),Diabetes,District of Columbia,145,24.9
+
+4728,2002,Diabetes mellitus (E10-E14),Diabetes,Wyoming,145,30.5
+
+5806,2004,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Delaware,145,17.4
+
+6599,2003,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wyoming,145,30.8
+
+9554,2009,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,District of Columbia,145,24.6
+

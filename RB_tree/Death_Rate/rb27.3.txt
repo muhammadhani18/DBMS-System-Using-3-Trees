@@ -1,0 +1,22 @@
+1482,2008,Alzheimer's disease (G30),Alzheimer's disease,Nebraska,610,27.3
+
+1592,2006,Alzheimer's disease (G30),Alzheimer's disease,North Carolina,2265,27.3
+
+1661,2009,Alzheimer's disease (G30),Alzheimer's disease,Oregon,1212,27.3
+
+3830,2000,Diabetes mellitus (E10-E14),Diabetes,Alaska,87,27.3
+
+4117,2001,Diabetes mellitus (E10-E14),Diabetes,Kentucky,1099,27.3
+
+4203,2005,Diabetes mellitus (E10-E14),Diabetes,Michigan,2842,27.3
+
+4347,2005,Diabetes mellitus (E10-E14),Diabetes,New Jersey,2540,27.3
+
+4359,2011,Diabetes mellitus (E10-E14),Diabetes,New Mexico,612,27.3
+
+4406,2000,Diabetes mellitus (E10-E14),Diabetes,North Carolina,2084,27.3
+
+4475,2003,Diabetes mellitus (E10-E14),Diabetes,Oregon,1032,27.3
+
+6934,2010,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Louisiana,1218,27.3
+

@@ -1,0 +1,8 @@
+1208,2012,Alzheimer's disease (G30),Alzheimer's disease,Idaho,354,21.9
+
+9437,2007,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Alaska,354,56.4
+
+1208,2012,Alzheimer's disease (G30),Alzheimer's disease,Idaho,354,21.9
+
+9437,2007,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Alaska,354,56.4
+

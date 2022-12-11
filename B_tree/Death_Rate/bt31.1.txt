@@ -1,0 +1,18 @@
+1084,2010,Alzheimer's disease (G30),Alzheimer's disease,Colorado,1334,31.1
+
+1619,2015,Alzheimer's disease (G30),Alzheimer's disease,Ohio,4643,31.1
+
+3244,2010,Chronic lower respiratory diseases (J40-J47),CLRD,Massachusetts,2383,31.1
+
+3403,2013,Chronic lower respiratory diseases (J40-J47),CLRD,New Jersey,3245,31.1
+
+3440,2012,Chronic lower respiratory diseases (J40-J47),CLRD,New York,7034,31.1
+
+4116,2002,Diabetes mellitus (E10-E14),Diabetes,Kentucky,1265,31.1
+
+4586,2000,Diabetes mellitus (E10-E14),Diabetes,Texas,5196,31.1
+
+5735,2003,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arkansas,921,31.1
+
+8081,2015,Cerebrovascular diseases (I60-I69),Stroke,New Jersey,3413,31.1
+

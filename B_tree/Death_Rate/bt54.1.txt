@@ -1,0 +1,12 @@
+27,2016,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Montana,626,54.1
+
+3087,2005,Chronic lower respiratory diseases (J40-J47),CLRD,Idaho,717,54.1
+
+3365,2015,Chronic lower respiratory diseases (J40-J47),CLRD,Nevada,1617,54.1
+
+3367,2013,Chronic lower respiratory diseases (J40-J47),CLRD,Nevada,1482,54.1
+
+9432,2012,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Alaska,368,54.1
+
+9436,2008,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Alaska,332,54.1
+

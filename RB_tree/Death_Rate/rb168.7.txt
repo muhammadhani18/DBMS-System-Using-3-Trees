@@ -1,0 +1,6 @@
+2345,2009,Malignant neoplasms (C00-C97),Cancer,Minnesota,9580,168.7
+
+2347,2007,Malignant neoplasms (C00-C97),Cancer,Minnesota,9176,168.7
+
+4860,2014,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Delaware,1921,168.7
+

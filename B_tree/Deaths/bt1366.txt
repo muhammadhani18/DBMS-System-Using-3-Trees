@@ -1,0 +1,16 @@
+2553,1999,Malignant neoplasms (C00-C97),Cancer,North Dakota,1366,186.7
+
+5560,2016,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Vermont,1366,158.8
+
+9780,2004,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Massachusetts,1366,19.9
+
+9946,2008,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,New Mexico,1366,69.3
+
+2553,1999,Malignant neoplasms (C00-C97),Cancer,North Dakota,1366,186.7
+
+5560,2016,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Vermont,1366,158.8
+
+9780,2004,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Massachusetts,1366,19.9
+
+9946,2008,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,New Mexico,1366,69.3
+

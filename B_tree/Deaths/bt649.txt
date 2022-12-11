@@ -1,0 +1,16 @@
+7032,2002,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Minnesota,649,12.6
+
+8791,2007,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Kentucky,649,15.1
+
+9623,2008,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Idaho,649,43.2
+
+10075,2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Rhode Island,649,53.1
+
+7032,2002,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Minnesota,649,12.6
+
+8791,2007,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Kentucky,649,15.1
+
+9623,2008,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Idaho,649,43.2
+
+10075,2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Rhode Island,649,53.1
+

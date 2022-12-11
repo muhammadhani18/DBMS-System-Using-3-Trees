@@ -1,0 +1,6 @@
+3127,2001,Chronic lower respiratory diseases (J40-J47),CLRD,Indiana,3136,52.1
+
+3310,2016,Chronic lower respiratory diseases (J40-J47),CLRD,Missouri,3961,52.1
+
+3632,2000,Chronic lower respiratory diseases (J40-J47),CLRD,Tennessee,2887,52.1
+

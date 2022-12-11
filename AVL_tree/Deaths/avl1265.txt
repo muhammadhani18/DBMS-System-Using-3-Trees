@@ -1,0 +1,10 @@
+1265,2009,Alzheimer's disease (G30),Alzheimer's disease,Iowa,1265,29.9
+
+2548,2004,Malignant neoplasms (C00-C97),Cancer,North Dakota,1265,166.8
+
+4116,2002,Diabetes mellitus (E10-E14),Diabetes,Kentucky,1265,31.1
+
+4125,2011,Diabetes mellitus (E10-E14),Diabetes,Louisiana,1265,27.1
+
+4210,2016,Diabetes mellitus (E10-E14),Diabetes,Minnesota,1265,19.2
+

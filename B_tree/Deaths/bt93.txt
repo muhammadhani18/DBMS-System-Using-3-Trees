@@ -1,0 +1,24 @@
+3822,2008,Diabetes mellitus (E10-E14),Diabetes,Alaska,93,22.3
+
+3825,2005,Diabetes mellitus (E10-E14),Diabetes,Alaska,93,22.4
+
+3826,2004,Diabetes mellitus (E10-E14),Diabetes,Alaska,93,22.6
+
+7143,1999,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,New Hampshire,93,8
+
+8614,2004,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Delaware,93,11
+
+9316,2004,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Vermont,93,14.5
+
+3822,2008,Diabetes mellitus (E10-E14),Diabetes,Alaska,93,22.3
+
+3825,2005,Diabetes mellitus (E10-E14),Diabetes,Alaska,93,22.4
+
+3826,2004,Diabetes mellitus (E10-E14),Diabetes,Alaska,93,22.6
+
+7143,1999,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,New Hampshire,93,8
+
+8614,2004,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Delaware,93,11
+
+9316,2004,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Vermont,93,14.5
+

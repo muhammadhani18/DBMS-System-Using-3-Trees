@@ -1,0 +1,12 @@
+1980,2014,Malignant neoplasms (C00-C97),Cancer,Arkansas,6546,183.1
+
+5749,2007,Influenza and pneumonia (J09-J18),Influenza and pneumonia,California,6546,19.7
+
+8228,2012,Cerebrovascular diseases (I60-I69),Stroke,Pennsylvania,6546,37.4
+
+1980,2014,Malignant neoplasms (C00-C97),Cancer,Arkansas,6546,183.1
+
+5749,2007,Influenza and pneumonia (J09-J18),Influenza and pneumonia,California,6546,19.7
+
+8228,2012,Cerebrovascular diseases (I60-I69),Stroke,Pennsylvania,6546,37.4
+

@@ -1,0 +1,6 @@
+3901,2001,Diabetes mellitus (E10-E14),Diabetes,Colorado,667,18.8
+
+5777,2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Connecticut,667,13.6
+
+7047,2005,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Mississippi,667,23.7
+

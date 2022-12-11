@@ -1,0 +1,4 @@
+134,2006,All Causes,All causes,California,237126,718.2
+
+540,2014,All Causes,All causes,Nebraska,15978,718.2
+

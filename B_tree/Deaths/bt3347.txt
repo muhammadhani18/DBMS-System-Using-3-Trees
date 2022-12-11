@@ -1,0 +1,8 @@
+8001,2005,Cerebrovascular diseases (I60-I69),Stroke,Missouri,3347,52.9
+
+8391,2011,Cerebrovascular diseases (I60-I69),Stroke,Virginia,3347,41.7
+
+8001,2005,Cerebrovascular diseases (I60-I69),Stroke,Missouri,3347,52.9
+
+8391,2011,Cerebrovascular diseases (I60-I69),Stroke,Virginia,3347,41.7
+

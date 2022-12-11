@@ -1,0 +1,24 @@
+3612,2002,Chronic lower respiratory diseases (J40-J47),CLRD,South Dakota,383,43.2
+
+3614,2000,Chronic lower respiratory diseases (J40-J47),CLRD,South Dakota,383,43.6
+
+7681,2001,Cerebrovascular diseases (I60-I69),Stroke,Delaware,383,50.1
+
+8279,2015,Cerebrovascular diseases (I60-I69),Stroke,South Dakota,383,33.2
+
+8750,2012,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Iowa,383,12.7
+
+8908,2016,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Mississippi,383,12.7
+
+3612,2002,Chronic lower respiratory diseases (J40-J47),CLRD,South Dakota,383,43.2
+
+3614,2000,Chronic lower respiratory diseases (J40-J47),CLRD,South Dakota,383,43.6
+
+7681,2001,Cerebrovascular diseases (I60-I69),Stroke,Delaware,383,50.1
+
+8279,2015,Cerebrovascular diseases (I60-I69),Stroke,South Dakota,383,33.2
+
+8750,2012,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Iowa,383,12.7
+
+8908,2016,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Mississippi,383,12.7
+

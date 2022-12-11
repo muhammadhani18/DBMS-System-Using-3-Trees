@@ -1,0 +1,6 @@
+1482,2008,Alzheimer's disease (G30),Alzheimer's disease,Nebraska,610,27.3
+
+1875,2011,Alzheimer's disease (G30),Alzheimer's disease,West Virginia,610,26.2
+
+7760,2012,Cerebrovascular diseases (I60-I69),Stroke,Idaho,610,37.2
+

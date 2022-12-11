@@ -1,0 +1,8 @@
+2902,2010,Chronic lower respiratory diseases (J40-J47),CLRD,Arizona,2926,43.1
+
+3174,2008,Chronic lower respiratory diseases (J40-J47),CLRD,Kentucky,2926,65.2
+
+2902,2010,Chronic lower respiratory diseases (J40-J47),CLRD,Arizona,2926,43.1
+
+3174,2008,Chronic lower respiratory diseases (J40-J47),CLRD,Kentucky,2926,65.2
+

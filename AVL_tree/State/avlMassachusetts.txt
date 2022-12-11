@@ -1,0 +1,396 @@
+22,2016,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Massachusetts,3831,52.8
+
+430,2016,All Causes,All causes,Massachusetts,56961,669
+
+431,2015,All Causes,All causes,Massachusetts,57806,684.8
+
+432,2014,All Causes,All causes,Massachusetts,55200,663
+
+433,2013,All Causes,All causes,Massachusetts,54567,663.5
+
+434,2012,All Causes,All causes,Massachusetts,53177,657.9
+
+435,2011,All Causes,All causes,Massachusetts,53710,676.3
+
+436,2010,All Causes,All causes,Massachusetts,52583,675
+
+437,2009,All Causes,All causes,Massachusetts,52308,681.4
+
+438,2008,All Causes,All causes,Massachusetts,53518,706.1
+
+439,2007,All Causes,All causes,Massachusetts,52917,709.8
+
+440,2006,All Causes,All causes,Massachusetts,53450,726.8
+
+441,2005,All Causes,All causes,Massachusetts,53874,741.6
+
+442,2004,All Causes,All causes,Massachusetts,54511,758.3
+
+443,2003,All Causes,All causes,Massachusetts,56291,788.7
+
+444,2002,All Causes,All causes,Massachusetts,56928,806
+
+445,2001,All Causes,All causes,Massachusetts,56754,811.4
+
+446,2000,All Causes,All causes,Massachusetts,56681,817.9
+
+447,1999,All Causes,All causes,Massachusetts,55840,814.1
+
+1366,2016,Alzheimer's disease (G30),Alzheimer's disease,Massachusetts,1708,18.6
+
+1367,2015,Alzheimer's disease (G30),Alzheimer's disease,Massachusetts,1815,20.2
+
+1368,2014,Alzheimer's disease (G30),Alzheimer's disease,Massachusetts,1688,19
+
+1369,2013,Alzheimer's disease (G30),Alzheimer's disease,Massachusetts,1699,19.4
+
+1370,2012,Alzheimer's disease (G30),Alzheimer's disease,Massachusetts,1713,19.8
+
+1371,2011,Alzheimer's disease (G30),Alzheimer's disease,Massachusetts,1819,21.2
+
+1372,2010,Alzheimer's disease (G30),Alzheimer's disease,Massachusetts,1773,21.2
+
+1373,2009,Alzheimer's disease (G30),Alzheimer's disease,Massachusetts,1700,20.6
+
+1374,2008,Alzheimer's disease (G30),Alzheimer's disease,Massachusetts,1832,22.5
+
+1375,2007,Alzheimer's disease (G30),Alzheimer's disease,Massachusetts,1695,21.1
+
+1376,2006,Alzheimer's disease (G30),Alzheimer's disease,Massachusetts,1560,19.8
+
+1377,2005,Alzheimer's disease (G30),Alzheimer's disease,Massachusetts,1638,21.1
+
+1378,2004,Alzheimer's disease (G30),Alzheimer's disease,Massachusetts,1673,22
+
+1379,2003,Alzheimer's disease (G30),Alzheimer's disease,Massachusetts,1609,21.3
+
+1380,2002,Alzheimer's disease (G30),Alzheimer's disease,Massachusetts,1570,21.2
+
+1381,2001,Alzheimer's disease (G30),Alzheimer's disease,Massachusetts,1533,20.9
+
+1382,2000,Alzheimer's disease (G30),Alzheimer's disease,Massachusetts,1433,19.8
+
+1383,1999,Alzheimer's disease (G30),Alzheimer's disease,Massachusetts,1182,16.5
+
+2302,2016,Malignant neoplasms (C00-C97),Cancer,Massachusetts,12717,150.2
+
+2303,2015,Malignant neoplasms (C00-C97),Cancer,Massachusetts,12750,152.9
+
+2304,2014,Malignant neoplasms (C00-C97),Cancer,Massachusetts,12787,155.5
+
+2305,2013,Malignant neoplasms (C00-C97),Cancer,Massachusetts,12858,159.6
+
+2306,2012,Malignant neoplasms (C00-C97),Cancer,Massachusetts,12864,163.3
+
+2307,2011,Malignant neoplasms (C00-C97),Cancer,Massachusetts,12895,166.9
+
+2308,2010,Malignant neoplasms (C00-C97),Cancer,Massachusetts,12993,171.3
+
+2309,2009,Malignant neoplasms (C00-C97),Cancer,Massachusetts,13112,175.5
+
+2310,2008,Malignant neoplasms (C00-C97),Cancer,Massachusetts,13031,177.2
+
+2311,2007,Malignant neoplasms (C00-C97),Cancer,Massachusetts,13003,179.5
+
+2312,2006,Malignant neoplasms (C00-C97),Cancer,Massachusetts,13407,187.5
+
+2313,2005,Malignant neoplasms (C00-C97),Cancer,Massachusetts,13182,186.3
+
+2314,2004,Malignant neoplasms (C00-C97),Cancer,Massachusetts,13337,190.1
+
+2315,2003,Malignant neoplasms (C00-C97),Cancer,Massachusetts,13551,194.6
+
+2316,2002,Malignant neoplasms (C00-C97),Cancer,Massachusetts,13914,201.4
+
+2317,2001,Malignant neoplasms (C00-C97),Cancer,Massachusetts,13750,201.2
+
+2318,2000,Malignant neoplasms (C00-C97),Cancer,Massachusetts,14027,207.2
+
+2319,1999,Malignant neoplasms (C00-C97),Cancer,Massachusetts,13853,206.4
+
+3238,2016,Chronic lower respiratory diseases (J40-J47),CLRD,Massachusetts,2674,31.4
+
+3239,2015,Chronic lower respiratory diseases (J40-J47),CLRD,Massachusetts,2784,33
+
+3240,2014,Chronic lower respiratory diseases (J40-J47),CLRD,Massachusetts,2592,31.4
+
+3241,2013,Chronic lower respiratory diseases (J40-J47),CLRD,Massachusetts,2572,31.7
+
+3242,2012,Chronic lower respiratory diseases (J40-J47),CLRD,Massachusetts,2520,31.7
+
+3243,2011,Chronic lower respiratory diseases (J40-J47),CLRD,Massachusetts,2651,33.9
+
+3244,2010,Chronic lower respiratory diseases (J40-J47),CLRD,Massachusetts,2383,31.1
+
+3245,2009,Chronic lower respiratory diseases (J40-J47),CLRD,Massachusetts,2559,33.8
+
+3246,2008,Chronic lower respiratory diseases (J40-J47),CLRD,Massachusetts,2587,34.5
+
+3247,2007,Chronic lower respiratory diseases (J40-J47),CLRD,Massachusetts,2332,31.6
+
+3248,2006,Chronic lower respiratory diseases (J40-J47),CLRD,Massachusetts,2535,34.8
+
+3249,2005,Chronic lower respiratory diseases (J40-J47),CLRD,Massachusetts,2647,36.6
+
+3250,2004,Chronic lower respiratory diseases (J40-J47),CLRD,Massachusetts,2574,35.9
+
+3251,2003,Chronic lower respiratory diseases (J40-J47),CLRD,Massachusetts,2765,38.9
+
+3252,2002,Chronic lower respiratory diseases (J40-J47),CLRD,Massachusetts,2745,38.9
+
+3253,2001,Chronic lower respiratory diseases (J40-J47),CLRD,Massachusetts,2810,40.2
+
+3254,2000,Chronic lower respiratory diseases (J40-J47),CLRD,Massachusetts,2925,42.1
+
+3255,1999,Chronic lower respiratory diseases (J40-J47),CLRD,Massachusetts,2862,41.6
+
+4174,2016,Diabetes mellitus (E10-E14),Diabetes,Massachusetts,1268,14.9
+
+4175,2015,Diabetes mellitus (E10-E14),Diabetes,Massachusetts,1398,16.7
+
+4176,2014,Diabetes mellitus (E10-E14),Diabetes,Massachusetts,1202,14.5
+
+4177,2013,Diabetes mellitus (E10-E14),Diabetes,Massachusetts,1142,14.1
+
+4178,2012,Diabetes mellitus (E10-E14),Diabetes,Massachusetts,1099,13.6
+
+4179,2011,Diabetes mellitus (E10-E14),Diabetes,Massachusetts,1140,14.6
+
+4180,2010,Diabetes mellitus (E10-E14),Diabetes,Massachusetts,1028,13.3
+
+4181,2009,Diabetes mellitus (E10-E14),Diabetes,Massachusetts,1007,13.3
+
+4182,2008,Diabetes mellitus (E10-E14),Diabetes,Massachusetts,1079,14.5
+
+4183,2007,Diabetes mellitus (E10-E14),Diabetes,Massachusetts,1222,16.6
+
+4184,2006,Diabetes mellitus (E10-E14),Diabetes,Massachusetts,1132,15.5
+
+4185,2005,Diabetes mellitus (E10-E14),Diabetes,Massachusetts,1271,17.7
+
+4186,2004,Diabetes mellitus (E10-E14),Diabetes,Massachusetts,1329,18.7
+
+4187,2003,Diabetes mellitus (E10-E14),Diabetes,Massachusetts,1424,20.2
+
+4188,2002,Diabetes mellitus (E10-E14),Diabetes,Massachusetts,1423,20.4
+
+4189,2001,Diabetes mellitus (E10-E14),Diabetes,Massachusetts,1422,20.5
+
+4190,2000,Diabetes mellitus (E10-E14),Diabetes,Massachusetts,1361,19.8
+
+4191,1999,Diabetes mellitus (E10-E14),Diabetes,Massachusetts,1354,19.9
+
+5110,2016,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Massachusetts,11921,134.8
+
+5111,2015,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Massachusetts,12130,138.5
+
+5112,2014,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Massachusetts,11817,137.1
+
+5114,2013,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Massachusetts,12023,141.5
+
+5115,2012,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Massachusetts,11602,139.1
+
+5116,2011,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Massachusetts,11765,143.8
+
+5117,2010,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Massachusetts,12043,150
+
+5118,2009,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Massachusetts,12322,156.1
+
+5119,2008,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Massachusetts,12776,164.1
+
+5120,2007,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Massachusetts,12710,166.4
+
+5121,2006,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Massachusetts,12947,171.7
+
+5122,2005,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Massachusetts,13280,179
+
+5123,2004,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Massachusetts,13824,188.9
+
+5124,2003,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Massachusetts,14634,201.5
+
+5125,2002,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Massachusetts,14736,205.5
+
+5126,2001,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Massachusetts,15144,213.5
+
+5127,2000,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Massachusetts,15314,217.9
+
+5128,1999,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Massachusetts,15871,228.5
+
+6046,2016,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Massachusetts,1251,14.1
+
+6047,2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Massachusetts,1512,17.1
+
+6048,2014,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Massachusetts,1370,15.8
+
+6049,2013,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Massachusetts,1551,18
+
+6050,2012,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Massachusetts,1356,16.1
+
+6051,2011,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Massachusetts,1418,16.9
+
+6052,2010,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Massachusetts,1291,16
+
+6053,2009,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Massachusetts,1348,17
+
+6054,2008,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Massachusetts,1598,20.1
+
+6055,2007,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Massachusetts,1538,19.7
+
+6056,2006,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Massachusetts,1750,22.8
+
+6057,2005,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Massachusetts,1935,25.5
+
+6058,2004,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Massachusetts,1959,26.1
+
+6059,2003,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Massachusetts,2019,27
+
+6060,2002,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Massachusetts,2087,28.6
+
+6061,2001,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Massachusetts,1770,24.4
+
+6062,2000,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Massachusetts,2078,28.9
+
+6063,1999,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Massachusetts,1904,26.8
+
+6982,2016,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Massachusetts,1139,13.2
+
+6983,2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Massachusetts,1228,14.3
+
+6984,2014,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Massachusetts,1228,14.5
+
+6985,2013,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Massachusetts,1261,15.1
+
+6986,2012,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Massachusetts,1271,15.5
+
+6987,2011,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Massachusetts,1234,15.2
+
+6988,2010,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Massachusetts,1381,17.5
+
+6989,2009,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Massachusetts,1269,16.1
+
+6990,2008,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Massachusetts,1377,17.9
+
+6991,2007,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Massachusetts,1361,18
+
+6992,2006,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Massachusetts,1406,18.7
+
+6993,2005,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Massachusetts,1410,19.1
+
+6994,2004,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Massachusetts,1250,17.1
+
+6995,2003,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Massachusetts,1286,17.8
+
+6996,2002,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Massachusetts,1297,18.1
+
+6997,2001,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Massachusetts,1207,17.1
+
+6998,2000,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Massachusetts,1231,17.6
+
+6999,1999,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Massachusetts,1127,16.2
+
+7918,2016,Cerebrovascular diseases (I60-I69),Stroke,Massachusetts,2468,27.9
+
+7919,2015,Cerebrovascular diseases (I60-I69),Stroke,Massachusetts,2475,28.4
+
+7920,2014,Cerebrovascular diseases (I60-I69),Stroke,Massachusetts,2460,28.7
+
+7921,2013,Cerebrovascular diseases (I60-I69),Stroke,Massachusetts,2354,27.7
+
+7922,2012,Cerebrovascular diseases (I60-I69),Stroke,Massachusetts,2371,28.3
+
+7923,2011,Cerebrovascular diseases (I60-I69),Stroke,Massachusetts,2466,30.2
+
+7924,2010,Cerebrovascular diseases (I60-I69),Stroke,Massachusetts,2516,31.3
+
+7925,2009,Cerebrovascular diseases (I60-I69),Stroke,Massachusetts,2579,32.5
+
+7926,2008,Cerebrovascular diseases (I60-I69),Stroke,Massachusetts,2747,35.1
+
+7927,2007,Cerebrovascular diseases (I60-I69),Stroke,Massachusetts,2832,36.7
+
+7928,2006,Cerebrovascular diseases (I60-I69),Stroke,Massachusetts,2880,38.1
+
+7929,2005,Cerebrovascular diseases (I60-I69),Stroke,Massachusetts,2977,39.8
+
+7930,2004,Cerebrovascular diseases (I60-I69),Stroke,Massachusetts,3254,44.1
+
+7931,2003,Cerebrovascular diseases (I60-I69),Stroke,Massachusetts,3407,46.5
+
+7932,2002,Cerebrovascular diseases (I60-I69),Stroke,Massachusetts,3559,49.2
+
+7933,2001,Cerebrovascular diseases (I60-I69),Stroke,Massachusetts,3535,49.3
+
+7934,2000,Cerebrovascular diseases (I60-I69),Stroke,Massachusetts,3669,51.5
+
+7935,1999,Cerebrovascular diseases (I60-I69),Stroke,Massachusetts,3548,50.4
+
+8854,2016,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Massachusetts,631,8.8
+
+8855,2015,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Massachusetts,642,8.9
+
+8856,2014,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Massachusetts,596,8.2
+
+8857,2013,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Massachusetts,572,8.2
+
+8858,2012,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Massachusetts,604,8.7
+
+8859,2011,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Massachusetts,585,8.4
+
+8860,2010,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Massachusetts,598,8.8
+
+8861,2009,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Massachusetts,530,7.8
+
+8862,2008,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Massachusetts,509,7.5
+
+8863,2007,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Massachusetts,516,7.7
+
+8864,2006,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Massachusetts,450,6.7
+
+8865,2005,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Massachusetts,480,7.2
+
+8866,2004,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Massachusetts,425,6.4
+
+8867,2003,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Massachusetts,433,6.5
+
+8868,2002,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Massachusetts,436,6.6
+
+8869,2001,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Massachusetts,426,6.5
+
+8870,2000,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Massachusetts,387,6
+
+8871,1999,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Massachusetts,431,6.7
+
+9769,2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Massachusetts,3229,44
+
+9770,2014,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Massachusetts,2668,36.6
+
+9771,2013,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Massachusetts,2393,32.5
+
+9772,2012,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Massachusetts,2195,29.8
+
+9773,2011,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Massachusetts,2224,30.7
+
+9774,2010,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Massachusetts,2060,28.5
+
+9775,2009,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Massachusetts,2076,29.3
+
+9776,2008,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Massachusetts,2040,29
+
+9777,2007,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Massachusetts,2139,31
+
+9778,2006,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Massachusetts,2214,32.3
+
+9779,2005,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Massachusetts,1907,28
+
+9780,2004,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Massachusetts,1366,19.9
+
+9781,2003,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Massachusetts,1421,20.7
+
+9782,2002,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Massachusetts,1413,20.7
+
+9783,2001,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Massachusetts,1506,22.2
+
+9784,2000,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Massachusetts,1357,20.2
+
+9785,1999,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Massachusetts,1303,19.6
+

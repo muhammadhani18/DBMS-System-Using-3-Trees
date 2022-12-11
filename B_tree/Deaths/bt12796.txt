@@ -1,0 +1,4 @@
+2187,2005,Malignant neoplasms (C00-C97),Cancer,Indiana,12796,199.8
+
+2187,2005,Malignant neoplasms (C00-C97),Cancer,Indiana,12796,199.8
+

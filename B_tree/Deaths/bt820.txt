@@ -1,0 +1,8 @@
+1102,2010,Alzheimer's disease (G30),Alzheimer's disease,Connecticut,820,17.1
+
+8029,2013,Cerebrovascular diseases (I60-I69),Stroke,Nebraska,820,36.4
+
+1102,2010,Alzheimer's disease (G30),Alzheimer's disease,Connecticut,820,17.1
+
+8029,2013,Cerebrovascular diseases (I60-I69),Stroke,Nebraska,820,36.4
+

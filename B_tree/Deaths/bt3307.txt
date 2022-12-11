@@ -1,0 +1,8 @@
+5223,2012,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Nebraska,3307,146.9
+
+10135,2006,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Tennessee,3307,54.3
+
+5223,2012,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Nebraska,3307,146.9
+
+10135,2006,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Tennessee,3307,54.3
+

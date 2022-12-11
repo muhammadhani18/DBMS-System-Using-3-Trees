@@ -1,0 +1,16 @@
+2056,2010,Malignant neoplasms (C00-C97),Cancer,Delaware,1909,185.7
+
+3222,2014,Chronic lower respiratory diseases (J40-J47),CLRD,Maryland,1909,29.4
+
+3289,2001,Chronic lower respiratory diseases (J40-J47),CLRD,Minnesota,1909,38.8
+
+7241,2009,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Ohio,1909,14.4
+
+2056,2010,Malignant neoplasms (C00-C97),Cancer,Delaware,1909,185.7
+
+3222,2014,Chronic lower respiratory diseases (J40-J47),CLRD,Maryland,1909,29.4
+
+3289,2001,Chronic lower respiratory diseases (J40-J47),CLRD,Minnesota,1909,38.8
+
+7241,2009,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Ohio,1909,14.4
+

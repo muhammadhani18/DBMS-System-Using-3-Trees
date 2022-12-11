@@ -1,0 +1,4 @@
+5487,2000,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,South Dakota,2105,234.5
+
+5593,2001,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Virginia,14913,234.5
+

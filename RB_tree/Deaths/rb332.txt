@@ -1,0 +1,10 @@
+1811,2003,Alzheimer's disease (G30),Alzheimer's disease,Utah,332,21.4
+
+3059,2015,Chronic lower respiratory diseases (J40-J47),CLRD,Hawaii,332,17.3
+
+3784,2010,Chronic lower respiratory diseases (J40-J47),CLRD,Wyoming,332,59.5
+
+6485,2009,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Utah,332,16.3
+
+9436,2008,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Alaska,332,54.1
+

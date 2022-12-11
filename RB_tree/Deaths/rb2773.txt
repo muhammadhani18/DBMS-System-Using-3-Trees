@@ -1,0 +1,4 @@
+2447,2015,Malignant neoplasms (C00-C97),Cancer,New Hampshire,2773,161.3
+
+8412,2008,Cerebrovascular diseases (I60-I69),Stroke,Washington,2773,42.3
+

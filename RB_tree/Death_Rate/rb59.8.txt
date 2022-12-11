@@ -1,0 +1,6 @@
+7876,2004,Cerebrovascular diseases (I60-I69),Stroke,Louisiana,2489,59.8
+
+9820,2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Mississippi,1814,59.8
+
+10285,2010,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wyoming,346,59.8
+

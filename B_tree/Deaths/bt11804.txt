@@ -1,0 +1,4 @@
+9481,2014,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,California,11804,29.2
+
+9481,2014,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,California,11804,29.2
+

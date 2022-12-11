@@ -1,0 +1,16 @@
+3330,2014,Chronic lower respiratory diseases (J40-J47),CLRD,Montana,668,50.3
+
+3385,2013,Chronic lower respiratory diseases (J40-J47),CLRD,New Hampshire,668,42
+
+4100,2000,Diabetes mellitus (E10-E14),Diabetes,Kansas,668,23.5
+
+9887,1999,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Nebraska,668,37.3
+
+3330,2014,Chronic lower respiratory diseases (J40-J47),CLRD,Montana,668,50.3
+
+3385,2013,Chronic lower respiratory diseases (J40-J47),CLRD,New Hampshire,668,42
+
+4100,2000,Diabetes mellitus (E10-E14),Diabetes,Kansas,668,23.5
+
+9887,1999,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Nebraska,668,37.3
+

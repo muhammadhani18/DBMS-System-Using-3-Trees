@@ -1,0 +1,6 @@
+1801,2013,Alzheimer's disease (G30),Alzheimer's disease,Utah,412,19.4
+
+7113,2011,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Nevada,412,16.6
+
+9533,2013,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Delaware,412,42.9
+

@@ -1,0 +1,14 @@
+1378,2004,Alzheimer's disease (G30),Alzheimer's disease,Massachusetts,1673,22
+
+3150,2014,Chronic lower respiratory diseases (J40-J47),CLRD,Kansas,1673,49.2
+
+3151,2013,Chronic lower respiratory diseases (J40-J47),CLRD,Kansas,1673,50.3
+
+4060,2004,Diabetes mellitus (E10-E14),Diabetes,Indiana,1673,26.6
+
+4064,2000,Diabetes mellitus (E10-E14),Diabetes,Indiana,1673,28
+
+4660,2016,Diabetes mellitus (E10-E14),Diabetes,Washington,1673,20.3
+
+7010,2006,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Michigan,1673,15.9
+

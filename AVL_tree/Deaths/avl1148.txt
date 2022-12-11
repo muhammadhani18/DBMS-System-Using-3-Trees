@@ -1,0 +1,6 @@
+1759,2001,Alzheimer's disease (G30),Alzheimer's disease,Tennessee,1148,21.2
+
+4453,2007,Diabetes mellitus (E10-E14),Diabetes,Oklahoma,1148,29.8
+
+4463,2015,Diabetes mellitus (E10-E14),Diabetes,Oregon,1148,22.9
+

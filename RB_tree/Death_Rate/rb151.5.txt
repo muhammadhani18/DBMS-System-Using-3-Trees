@@ -1,0 +1,4 @@
+4756,2010,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Alaska,707,151.5
+
+5602,2010,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Washington,10602,151.5
+

@@ -1,0 +1,12 @@
+4214,2012,Diabetes mellitus (E10-E14),Diabetes,Minnesota,1165,19.1
+
+4528,2004,Diabetes mellitus (E10-E14),Diabetes,South Carolina,1165,27.8
+
+6581,2003,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wisconsin,1165,19
+
+4214,2012,Diabetes mellitus (E10-E14),Diabetes,Minnesota,1165,19.1
+
+4528,2004,Diabetes mellitus (E10-E14),Diabetes,South Carolina,1165,27.8
+
+6581,2003,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wisconsin,1165,19
+

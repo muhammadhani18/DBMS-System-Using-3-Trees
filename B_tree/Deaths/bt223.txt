@@ -1,0 +1,20 @@
+3931,2007,Diabetes mellitus (E10-E14),Diabetes,Delaware,223,23.6
+
+6948,2014,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Maine,223,11.7
+
+8701,2007,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Idaho,223,15
+
+8963,2015,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Nebraska,223,11.7
+
+9562,2001,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,District of Columbia,223,38.4
+
+3931,2007,Diabetes mellitus (E10-E14),Diabetes,Delaware,223,23.6
+
+6948,2014,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Maine,223,11.7
+
+8701,2007,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Idaho,223,15
+
+8963,2015,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Nebraska,223,11.7
+
+9562,2001,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,District of Columbia,223,38.4
+

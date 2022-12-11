@@ -1,0 +1,18 @@
+1130,2000,Alzheimer's disease (G30),Alzheimer's disease,Delaware,110,15.1
+
+1915,2007,Alzheimer's disease (G30),Alzheimer's disease,Wyoming,110,22
+
+1917,2005,Alzheimer's disease (G30),Alzheimer's disease,Wyoming,110,22.8
+
+4716,2014,Diabetes mellitus (E10-E14),Diabetes,Wyoming,110,17.6
+
+4726,2004,Diabetes mellitus (E10-E14),Diabetes,Wyoming,110,22.2
+
+6831,2005,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Idaho,110,8.2
+
+7081,2007,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Montana,110,9.8
+
+7221,2011,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,North Dakota,110,12
+
+9186,2008,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Rhode Island,110,9.9
+

@@ -1,0 +1,8 @@
+4478,2000,Diabetes mellitus (E10-E14),Diabetes,Oregon,844,23.8
+
+9241,2007,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Tennessee,844,13.4
+
+4478,2000,Diabetes mellitus (E10-E14),Diabetes,Oregon,844,23.8
+
+9241,2007,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Tennessee,844,13.4
+

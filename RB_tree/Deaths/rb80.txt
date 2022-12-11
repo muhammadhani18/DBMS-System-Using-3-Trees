@@ -1,0 +1,6 @@
+1014,2008,Alzheimer's disease (G30),Alzheimer's disease,Alaska,80,27
+
+3829,2001,Diabetes mellitus (E10-E14),Diabetes,Alaska,80,22.8
+
+5818,2010,Influenza and pneumonia (J09-J18),Influenza and pneumonia,District of Columbia,80,13.5
+

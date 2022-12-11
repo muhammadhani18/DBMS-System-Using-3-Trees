@@ -1,0 +1,40 @@
+999,2005,Alzheimer's disease (G30),Alzheimer's disease,Alabama,1501,33.4
+
+1086,2008,Alzheimer's disease (G30),Alzheimer's disease,Colorado,1353,33.4
+
+1320,2008,Alzheimer's disease (G30),Alzheimer's disease,Louisiana,1361,33.4
+
+1618,2016,Alzheimer's disease (G30),Alzheimer's disease,Ohio,5031,33.4
+
+1715,2009,Alzheimer's disease (G30),Alzheimer's disease,South Carolina,1478,33.4
+
+1868,2000,Alzheimer's disease (G30),Alzheimer's disease,Washington,1799,33.4
+
+3448,2004,Chronic lower respiratory diseases (J40-J47),CLRD,New York,6786,33.4
+
+7632,2014,Cerebrovascular diseases (I60-I69),Stroke,Colorado,1714,33.4
+
+7657,2007,Cerebrovascular diseases (I60-I69),Stroke,Connecticut,1463,33.4
+
+7885,2013,Cerebrovascular diseases (I60-I69),Stroke,Maine,620,33.4
+
+8027,2015,Cerebrovascular diseases (I60-I69),Stroke,Nebraska,776,33.4
+
+8086,2010,Cerebrovascular diseases (I60-I69),Stroke,New Jersey,3402,33.4
+
+8153,2015,Cerebrovascular diseases (I60-I69),Stroke,North Dakota,308,33.4
+
+8251,2007,Cerebrovascular diseases (I60-I69),Stroke,Rhode Island,457,33.4
+
+9607,2007,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Hawaii,470,33.4
+
+9678,2004,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Iowa,1108,33.4
+
+9682,2000,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Iowa,1070,33.4
+
+10021,2001,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Ohio,3857,33.4
+
+10189,2004,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Utah,697,33.4
+
+10194,1999,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Utah,650,33.4
+

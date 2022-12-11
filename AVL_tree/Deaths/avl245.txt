@@ -1,0 +1,8 @@
+1815,1999,Alzheimer's disease (G30),Alzheimer's disease,Utah,245,17.3
+
+8821,2013,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Maine,245,17.4
+
+9374,2000,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,West Virginia,245,13.2
+
+10295,2000,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wyoming,245,50.8
+

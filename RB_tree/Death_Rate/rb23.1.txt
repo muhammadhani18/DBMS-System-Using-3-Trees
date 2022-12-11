@@ -1,0 +1,34 @@
+1276,2016,Alzheimer's disease (G30),Alzheimer's disease,Kansas,855,23.1
+
+1839,2011,Alzheimer's disease (G30),Alzheimer's disease,Virginia,1807,23.1
+
+1922,2000,Alzheimer's disease (G30),Alzheimer's disease,Wyoming,102,23.1
+
+3014,2006,Chronic lower respiratory diseases (J40-J47),CLRD,District of Columbia,126,23.1
+
+3982,2010,Diabetes mellitus (E10-E14),Diabetes,Georgia,1996,23.1
+
+3990,2002,Diabetes mellitus (E10-E14),Diabetes,Georgia,1576,23.1
+
+4022,2006,Diabetes mellitus (E10-E14),Diabetes,Idaho,320,23.1
+
+4029,1999,Diabetes mellitus (E10-E14),Diabetes,Idaho,267,23.1
+
+4344,2008,Diabetes mellitus (E10-E14),Diabetes,New Jersey,2242,23.1
+
+4523,2009,Diabetes mellitus (E10-E14),Diabetes,South Carolina,1128,23.1
+
+4551,1999,Diabetes mellitus (E10-E14),Diabetes,South Dakota,196,23.1
+
+5967,2005,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Kansas,730,23.1
+
+6042,2002,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Maryland,1121,23.1
+
+6183,2005,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Nevada,454,23.1
+
+6458,2000,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Texas,3706,23.1
+
+6610,2010,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Alabama,1184,23.1
+
+6931,2013,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Louisiana,1108,23.1
+

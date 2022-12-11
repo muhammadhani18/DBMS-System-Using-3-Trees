@@ -1,0 +1,20 @@
+1910,2012,Alzheimer's disease (G30),Alzheimer's disease,Wyoming,123,21.5
+
+6594,2008,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wyoming,123,23.4
+
+6815,2003,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Hawaii,123,9.1
+
+6817,2001,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Hawaii,123,9.6
+
+7323,2000,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Rhode Island,123,9.9
+
+1910,2012,Alzheimer's disease (G30),Alzheimer's disease,Wyoming,123,21.5
+
+6594,2008,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wyoming,123,23.4
+
+6815,2003,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Hawaii,123,9.1
+
+6817,2001,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Hawaii,123,9.6
+
+7323,2000,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Rhode Island,123,9.9
+

@@ -1,0 +1,12 @@
+5850,2014,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Georgia,1510,16.2
+
+6530,2000,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Virginia,1510,25.1
+
+9467,2011,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arkansas,1510,50.2
+
+5850,2014,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Georgia,1510,16.2
+
+6530,2000,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Virginia,1510,25.1
+
+9467,2011,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arkansas,1510,50.2
+

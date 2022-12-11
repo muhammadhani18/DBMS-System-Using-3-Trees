@@ -1,0 +1,6 @@
+3118,2010,Chronic lower respiratory diseases (J40-J47),CLRD,Indiana,3794,55.3
+
+4437,2005,Diabetes mellitus (E10-E14),Diabetes,Ohio,3794,30.5
+
+4496,2000,Diabetes mellitus (E10-E14),Diabetes,Pennsylvania,3794,25.8
+

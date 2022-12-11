@@ -1,0 +1,4 @@
+1043,2015,Alzheimer's disease (G30),Alzheimer's disease,Arkansas,1457,41.5
+
+5853,2011,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Georgia,1457,17.5
+

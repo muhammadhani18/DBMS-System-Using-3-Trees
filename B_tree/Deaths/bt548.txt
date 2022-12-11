@@ -1,0 +1,8 @@
+4615,2007,Diabetes mellitus (E10-E14),Diabetes,Utah,548,28.8
+
+9859,2010,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Montana,548,53.2
+
+4615,2007,Diabetes mellitus (E10-E14),Diabetes,Utah,548,28.8
+
+9859,2010,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Montana,548,53.2
+

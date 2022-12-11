@@ -1,0 +1,12 @@
+895,2001,All Causes,All causes,Vermont,5201,819.6
+
+4580,2006,Diabetes mellitus (E10-E14),Diabetes,Texas,5201,26.5
+
+6260,2000,Influenza and pneumonia (J09-J18),Influenza and pneumonia,New York,5201,26.5
+
+895,2001,All Causes,All causes,Vermont,5201,819.6
+
+4580,2006,Diabetes mellitus (E10-E14),Diabetes,Texas,5201,26.5
+
+6260,2000,Influenza and pneumonia (J09-J18),Influenza and pneumonia,New York,5201,26.5
+

@@ -1,0 +1,4 @@
+1061,2015,Alzheimer's disease (G30),Alzheimer's disease,California,15065,35.7
+
+7613,2015,Cerebrovascular diseases (I60-I69),Stroke,California,15065,36.2
+

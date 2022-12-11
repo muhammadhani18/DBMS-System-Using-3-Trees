@@ -1,0 +1,20 @@
+3919,2001,Diabetes mellitus (E10-E14),Diabetes,Connecticut,759,19.7
+
+4694,2000,Diabetes mellitus (E10-E14),Diabetes,West Virginia,759,35.9
+
+5734,2004,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arkansas,759,25.5
+
+6319,2013,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Oklahoma,759,18
+
+6395,2009,Influenza and pneumonia (J09-J18),Influenza and pneumonia,South Carolina,759,16.4
+
+3919,2001,Diabetes mellitus (E10-E14),Diabetes,Connecticut,759,19.7
+
+4694,2000,Diabetes mellitus (E10-E14),Diabetes,West Virginia,759,35.9
+
+5734,2004,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arkansas,759,25.5
+
+6319,2013,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Oklahoma,759,18
+
+6395,2009,Influenza and pneumonia (J09-J18),Influenza and pneumonia,South Carolina,759,16.4
+

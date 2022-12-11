@@ -1,0 +1,60 @@
+1499,2009,Alzheimer's disease (G30),Alzheimer's disease,Nevada,312,15.5
+
+3888,2014,Diabetes mellitus (E10-E14),Diabetes,Colorado,835,15.5
+
+3909,2011,Diabetes mellitus (E10-E14),Diabetes,Connecticut,692,15.5
+
+3913,2007,Diabetes mellitus (E10-E14),Diabetes,Connecticut,646,15.5
+
+3997,2013,Diabetes mellitus (E10-E14),Diabetes,Hawaii,271,15.5
+
+4008,2002,Diabetes mellitus (E10-E14),Diabetes,Hawaii,204,15.5
+
+4184,2006,Diabetes mellitus (E10-E14),Diabetes,Massachusetts,1132,15.5
+
+4307,2009,Diabetes mellitus (E10-E14),Diabetes,Nevada,377,15.5
+
+5845,2001,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Florida,3317,15.5
+
+5849,2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Georgia,1467,15.5
+
+6066,2014,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Michigan,1875,15.5
+
+6148,2004,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Montana,165,15.5
+
+6163,2007,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Nebraska,331,15.5
+
+6235,2007,Influenza and pneumonia (J09-J18),Influenza and pneumonia,New Mexico,298,15.5
+
+6302,2012,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Ohio,2195,15.5
+
+6349,2001,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Oregon,575,15.5
+
+6361,2007,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Pennsylvania,2555,15.5
+
+6478,2016,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Utah,380,15.5
+
+6520,2010,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Virginia,1195,15.5
+
+6986,2012,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Massachusetts,1271,15.5
+
+7264,2004,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Oklahoma,565,15.5
+
+7326,2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,South Carolina,886,15.5
+
+7513,2008,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wisconsin,1007,15.5
+
+8520,2008,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arizona,972,15.5
+
+8525,2003,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arizona,840,15.5
+
+8529,1999,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arizona,766,15.5
+
+8536,2010,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arkansas,447,15.5
+
+8538,2008,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arkansas,447,15.5
+
+8706,2002,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Idaho,202,15.5
+
+9301,2001,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Utah,321,15.5
+

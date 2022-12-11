@@ -1,0 +1,8 @@
+7118,2006,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Nevada,475,22.7
+
+7493,2010,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,West Virginia,475,20.3
+
+8164,2004,Cerebrovascular diseases (I60-I69),Stroke,North Dakota,475,55.4
+
+10080,2010,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Rhode Island,475,40.1
+

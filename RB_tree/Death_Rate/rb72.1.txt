@@ -1,0 +1,4 @@
+8149,2001,Cerebrovascular diseases (I60-I69),Stroke,North Carolina,5401,72.1
+
+9940,2014,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,New Mexico,1534,72.1
+

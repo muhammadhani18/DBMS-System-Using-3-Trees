@@ -1,0 +1,8 @@
+1232,2006,Alzheimer's disease (G30),Alzheimer's disease,Illinois,2794,21.3
+
+3508,2016,Chronic lower respiratory diseases (J40-J47),CLRD,Oklahoma,2794,61.4
+
+1232,2006,Alzheimer's disease (G30),Alzheimer's disease,Illinois,2794,21.3
+
+3508,2016,Chronic lower respiratory diseases (J40-J47),CLRD,Oklahoma,2794,61.4
+

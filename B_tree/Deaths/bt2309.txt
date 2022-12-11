@@ -1,0 +1,12 @@
+1863,2005,Alzheimer's disease (G30),Alzheimer's disease,Washington,2309,38.2
+
+2870,2006,Chronic lower respiratory diseases (J40-J47),CLRD,Alabama,2309,47.6
+
+9666,1999,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Indiana,2309,38.4
+
+1863,2005,Alzheimer's disease (G30),Alzheimer's disease,Washington,2309,38.2
+
+2870,2006,Chronic lower respiratory diseases (J40-J47),CLRD,Alabama,2309,47.6
+
+9666,1999,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Indiana,2309,38.4
+

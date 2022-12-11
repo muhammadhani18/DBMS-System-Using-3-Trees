@@ -1,0 +1,62 @@
+1108,2004,Alzheimer's disease (G30),Alzheimer's disease,Connecticut,684,15.7
+
+1139,2009,Alzheimer's disease (G30),Alzheimer's disease,District of Columbia,94,15.7
+
+1195,2007,Alzheimer's disease (G30),Alzheimer's disease,Hawaii,247,15.7
+
+5893,2007,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Idaho,228,15.7
+
+5903,2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Illinois,2343,15.7
+
+5943,2011,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Iowa,660,15.7
+
+6034,2010,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Maryland,925,15.7
+
+6095,2003,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Minnesota,858,15.7
+
+6097,2001,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Minnesota,828,15.7
+
+6287,2009,Influenza and pneumonia (J09-J18),Influenza and pneumonia,North Dakota,138,15.7
+
+6393,2011,Influenza and pneumonia (J09-J18),Influenza and pneumonia,South Carolina,768,15.7
+
+6465,2011,Influenza and pneumonia (J09-J18),Influenza and pneumonia,United States,53826,15.7
+
+6479,2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Utah,372,15.7
+
+6515,2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Virginia,1416,15.7
+
+6577,2007,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wisconsin,1022,15.7
+
+6590,2012,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wyoming,91,15.7
+
+6956,2006,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Maine,252,15.7
+
+7265,2003,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Oklahoma,566,15.7
+
+7288,2016,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Pennsylvania,2813,15.7
+
+7290,2014,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Pennsylvania,2798,15.7
+
+7291,2013,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Pennsylvania,2767,15.7
+
+8476,2016,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Alabama,788,15.7
+
+8766,2014,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Kansas,455,15.7
+
+8820,2014,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Maine,220,15.7
+
+9132,2008,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Oklahoma,575,15.7
+
+9196,2016,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,South Carolina,815,15.7
+
+9219,2011,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,South Dakota,128,15.7
+
+9222,2008,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,South Dakota,124,15.7
+
+9233,2015,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Tennessee,1068,15.7
+
+9310,2010,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Vermont,106,15.7
+
+9367,2007,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,West Virginia,300,15.7
+

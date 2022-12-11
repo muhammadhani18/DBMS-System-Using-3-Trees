@@ -1,0 +1,8 @@
+2204,2006,Malignant neoplasms (C00-C97),Cancer,Iowa,6359,179
+
+10060,2013,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Pennsylvania,6359,44.9
+
+2204,2006,Malignant neoplasms (C00-C97),Cancer,Iowa,6359,179
+
+10060,2013,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Pennsylvania,6359,44.9
+

@@ -1,0 +1,20 @@
+1880,2006,Alzheimer's disease (G30),Alzheimer's disease,West Virginia,496,22.8
+
+4616,2006,Diabetes mellitus (E10-E14),Diabetes,Utah,496,27
+
+6176,2012,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Nevada,496,19
+
+6180,2008,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Nevada,496,22
+
+6337,2013,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Oregon,496,10.4
+
+1880,2006,Alzheimer's disease (G30),Alzheimer's disease,West Virginia,496,22.8
+
+4616,2006,Diabetes mellitus (E10-E14),Diabetes,Utah,496,27
+
+6176,2012,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Nevada,496,19
+
+6180,2008,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Nevada,496,22
+
+6337,2013,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Oregon,496,10.4
+

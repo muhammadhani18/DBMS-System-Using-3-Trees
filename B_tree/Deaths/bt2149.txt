@@ -1,0 +1,4 @@
+10032,2007,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Oklahoma,2149,58.8
+
+10032,2007,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Oklahoma,2149,58.8
+

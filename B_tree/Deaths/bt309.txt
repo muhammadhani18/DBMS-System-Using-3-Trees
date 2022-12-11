@@ -1,0 +1,8 @@
+1505,2003,Alzheimer's disease (G30),Alzheimer's disease,Nevada,309,19.6
+
+9539,2007,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Delaware,309,34.8
+
+1505,2003,Alzheimer's disease (G30),Alzheimer's disease,Nevada,309,19.6
+
+9539,2007,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Delaware,309,34.8
+

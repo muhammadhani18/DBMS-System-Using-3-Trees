@@ -1,0 +1,4 @@
+3555,2005,Chronic lower respiratory diseases (J40-J47),CLRD,Pennsylvania,6149,39.3
+
+3555,2005,Chronic lower respiratory diseases (J40-J47),CLRD,Pennsylvania,6149,39.3
+

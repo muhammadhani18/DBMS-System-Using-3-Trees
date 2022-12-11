@@ -1,0 +1,10 @@
+2256,2008,Malignant neoplasms (C00-C97),Cancer,Louisiana,9197,205.7
+
+2586,2002,Malignant neoplasms (C00-C97),Cancer,Oklahoma,7474,205.7
+
+5217,2000,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Montana,1995,205.7
+
+5372,2007,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Ohio,26757,205.7
+
+5416,1999,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Oregon,7263,205.7
+

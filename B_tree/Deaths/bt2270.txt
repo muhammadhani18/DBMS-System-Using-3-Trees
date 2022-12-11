@@ -1,0 +1,12 @@
+2915,2015,Chronic lower respiratory diseases (J40-J47),CLRD,Arkansas,2270,62.4
+
+3777,1999,Chronic lower respiratory diseases (J40-J47),CLRD,Wisconsin,2270,40.5
+
+9713,2003,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Kentucky,2270,55.2
+
+2915,2015,Chronic lower respiratory diseases (J40-J47),CLRD,Arkansas,2270,62.4
+
+3777,1999,Chronic lower respiratory diseases (J40-J47),CLRD,Wisconsin,2270,40.5
+
+9713,2003,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Kentucky,2270,55.2
+

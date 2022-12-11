@@ -1,0 +1,12 @@
+1561,2001,Alzheimer's disease (G30),Alzheimer's disease,New Mexico,297,18.6
+
+1700,2006,Alzheimer's disease (G30),Alzheimer's disease,Rhode Island,297,20.4
+
+4326,2008,Diabetes mellitus (E10-E14),Diabetes,New Hampshire,297,20.6
+
+4334,2000,Diabetes mellitus (E10-E14),Diabetes,New Hampshire,297,25.1
+
+7701,1999,Cerebrovascular diseases (I60-I69),Stroke,District of Columbia,297,53.3
+
+8696,2012,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Idaho,297,19
+

@@ -1,0 +1,32 @@
+1701,2005,Alzheimer's disease (G30),Alzheimer's disease,Rhode Island,298,20.9
+
+1817,2015,Alzheimer's disease (G30),Alzheimer's disease,Vermont,298,35.1
+
+6235,2007,Influenza and pneumonia (J09-J18),Influenza and pneumonia,New Mexico,298,15.5
+
+7125,1999,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Nevada,298,19.2
+
+9302,2000,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Utah,298,14.7
+
+9994,2011,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,North Dakota,298,39.1
+
+10086,2004,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Rhode Island,298,24.8
+
+10200,2010,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Vermont,298,42.7
+
+1701,2005,Alzheimer's disease (G30),Alzheimer's disease,Rhode Island,298,20.9
+
+1817,2015,Alzheimer's disease (G30),Alzheimer's disease,Vermont,298,35.1
+
+6235,2007,Influenza and pneumonia (J09-J18),Influenza and pneumonia,New Mexico,298,15.5
+
+7125,1999,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Nevada,298,19.2
+
+9302,2000,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Utah,298,14.7
+
+9994,2011,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,North Dakota,298,39.1
+
+10086,2004,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Rhode Island,298,24.8
+
+10200,2010,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Vermont,298,42.7
+

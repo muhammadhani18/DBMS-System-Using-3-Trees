@@ -1,0 +1,12 @@
+1248,2008,Alzheimer's disease (G30),Alzheimer's disease,Indiana,1971,29.3
+
+3288,2002,Chronic lower respiratory diseases (J40-J47),CLRD,Minnesota,1971,39.2
+
+3532,2010,Chronic lower respiratory diseases (J40-J47),CLRD,Oregon,1971,45.3
+
+1248,2008,Alzheimer's disease (G30),Alzheimer's disease,Indiana,1971,29.3
+
+3288,2002,Chronic lower respiratory diseases (J40-J47),CLRD,Minnesota,1971,39.2
+
+3532,2010,Chronic lower respiratory diseases (J40-J47),CLRD,Oregon,1971,45.3
+

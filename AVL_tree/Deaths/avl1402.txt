@@ -1,0 +1,4 @@
+1421,2015,Alzheimer's disease (G30),Alzheimer's disease,Mississippi,1402,44.1
+
+6209,2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,New Jersey,1402,12.5
+

@@ -1,0 +1,20 @@
+3934,2004,Diabetes mellitus (E10-E14),Diabetes,Delaware,210,24.5
+
+4278,2002,Diabetes mellitus (E10-E14),Diabetes,Montana,210,21.1
+
+6139,2013,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Montana,210,16.4
+
+7425,2006,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Utah,210,11.6
+
+8707,2001,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Idaho,210,16.3
+
+3934,2004,Diabetes mellitus (E10-E14),Diabetes,Delaware,210,24.5
+
+4278,2002,Diabetes mellitus (E10-E14),Diabetes,Montana,210,21.1
+
+6139,2013,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Montana,210,16.4
+
+7425,2006,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Utah,210,11.6
+
+8707,2001,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Idaho,210,16.3
+

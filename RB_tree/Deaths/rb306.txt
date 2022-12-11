@@ -1,0 +1,18 @@
+3001,2001,Chronic lower respiratory diseases (J40-J47),CLRD,Delaware,306,38.3
+
+3476,2012,Chronic lower respiratory diseases (J40-J47),CLRD,North Dakota,306,35.3
+
+7283,2003,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Oregon,306,8.1
+
+7483,2002,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Washington,306,5.4
+
+8155,2013,Cerebrovascular diseases (I60-I69),Stroke,North Dakota,306,32.4
+
+8381,2003,Cerebrovascular diseases (I60-I69),Stroke,Vermont,306,46.2
+
+9363,2011,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,West Virginia,306,15.9
+
+10202,2008,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Vermont,306,44.5
+
+10289,2006,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wyoming,306,58.9
+

@@ -1,0 +1,24 @@
+2978,2006,Chronic lower respiratory diseases (J40-J47),CLRD,Connecticut,1458,35
+
+4103,2015,Diabetes mellitus (E10-E14),Diabetes,Kentucky,1458,28.2
+
+4171,2001,Diabetes mellitus (E10-E14),Diabetes,Maryland,1458,29.4
+
+4262,2000,Diabetes mellitus (E10-E14),Diabetes,Missouri,1458,24.6
+
+6796,2004,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Georgia,1458,21.3
+
+9464,2014,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arkansas,1458,47.4
+
+2978,2006,Chronic lower respiratory diseases (J40-J47),CLRD,Connecticut,1458,35
+
+4103,2015,Diabetes mellitus (E10-E14),Diabetes,Kentucky,1458,28.2
+
+4171,2001,Diabetes mellitus (E10-E14),Diabetes,Maryland,1458,29.4
+
+4262,2000,Diabetes mellitus (E10-E14),Diabetes,Missouri,1458,24.6
+
+6796,2004,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Georgia,1458,21.3
+
+9464,2014,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arkansas,1458,47.4
+

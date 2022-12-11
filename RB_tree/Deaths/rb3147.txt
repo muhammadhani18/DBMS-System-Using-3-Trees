@@ -1,0 +1,4 @@
+2492,2006,Malignant neoplasms (C00-C97),Cancer,New Mexico,3147,158.5
+
+10136,2005,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Tennessee,3147,52.6
+

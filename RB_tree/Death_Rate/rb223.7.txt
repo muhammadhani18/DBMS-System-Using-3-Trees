@@ -1,0 +1,4 @@
+2243,2003,Malignant neoplasms (C00-C97),Cancer,Kentucky,9378,223.7
+
+4786,2016,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Arkansas,8090,223.7
+

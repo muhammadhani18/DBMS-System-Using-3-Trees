@@ -1,0 +1,24 @@
+1695,2011,Alzheimer's disease (G30),Alzheimer's disease,Rhode Island,320,21.1
+
+3698,2006,Chronic lower respiratory diseases (J40-J47),CLRD,Vermont,320,46.5
+
+4022,2006,Diabetes mellitus (E10-E14),Diabetes,Idaho,320,23.1
+
+6188,2000,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Nevada,320,21.5
+
+7274,2012,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Oregon,320,6.9
+
+8694,2014,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Idaho,320,20
+
+1695,2011,Alzheimer's disease (G30),Alzheimer's disease,Rhode Island,320,21.1
+
+3698,2006,Chronic lower respiratory diseases (J40-J47),CLRD,Vermont,320,46.5
+
+4022,2006,Diabetes mellitus (E10-E14),Diabetes,Idaho,320,23.1
+
+6188,2000,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Nevada,320,21.5
+
+7274,2012,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Oregon,320,6.9
+
+8694,2014,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Idaho,320,20
+

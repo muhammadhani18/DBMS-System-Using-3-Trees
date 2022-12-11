@@ -1,0 +1,36 @@
+1345,2001,Alzheimer's disease (G30),Alzheimer's disease,Maine,471,31.3
+
+4285,2013,Diabetes mellitus (E10-E14),Diabetes,Nebraska,471,21.7
+
+4612,2010,Diabetes mellitus (E10-E14),Diabetes,Utah,471,22.7
+
+6178,2010,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Nevada,471,19.8
+
+7114,2010,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Nevada,471,19.5
+
+7477,2008,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Washington,471,7.1
+
+7491,2012,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,West Virginia,471,19.7
+
+8989,2007,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Nevada,471,18
+
+9034,2016,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,New Mexico,471,22.5
+
+1345,2001,Alzheimer's disease (G30),Alzheimer's disease,Maine,471,31.3
+
+4285,2013,Diabetes mellitus (E10-E14),Diabetes,Nebraska,471,21.7
+
+4612,2010,Diabetes mellitus (E10-E14),Diabetes,Utah,471,22.7
+
+6178,2010,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Nevada,471,19.8
+
+7114,2010,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Nevada,471,19.5
+
+7477,2008,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Washington,471,7.1
+
+7491,2012,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,West Virginia,471,19.7
+
+8989,2007,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Nevada,471,18
+
+9034,2016,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,New Mexico,471,22.5
+

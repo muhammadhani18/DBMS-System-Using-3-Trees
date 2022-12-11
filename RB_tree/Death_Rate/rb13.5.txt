@@ -1,0 +1,60 @@
+4009,2001,Diabetes mellitus (E10-E14),Diabetes,Hawaii,173,13.5
+
+5801,2009,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Delaware,132,13.5
+
+5818,2010,Influenza and pneumonia (J09-J18),Influenza and pneumonia,District of Columbia,80,13.5
+
+5842,2004,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Florida,3044,13.5
+
+5889,2011,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Idaho,217,13.5
+
+5890,2010,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Idaho,208,13.5
+
+5924,2012,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Indiana,973,13.5
+
+6356,2012,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Pennsylvania,2360,13.5
+
+6460,2016,Influenza and pneumonia (J09-J18),Influenza and pneumonia,United States,51537,13.5
+
+6628,2010,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Alaska,56,13.5
+
+6630,2008,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Alaska,50,13.5
+
+6720,2008,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Connecticut,589,13.5
+
+6722,2006,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Connecticut,567,13.5
+
+6976,2004,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Maryland,699,13.5
+
+7004,2012,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Michigan,1586,13.5
+
+7243,2007,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Ohio,1747,13.5
+
+7413,2000,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,United States,37251,13.5
+
+7448,2001,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Vermont,86,13.5
+
+7507,2014,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wisconsin,980,13.5
+
+7520,2001,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wisconsin,791,13.5
+
+8617,2001,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Delaware,108,13.5
+
+8653,2001,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Florida,2314,13.5
+
+8675,2015,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Hawaii,201,13.5
+
+8733,2011,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Indiana,881,13.5
+
+8789,2009,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Kentucky,592,13.5
+
+8935,2007,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Missouri,808,13.5
+
+8936,2006,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Missouri,799,13.5
+
+9202,2010,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,South Carolina,637,13.5
+
+9227,2003,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,South Dakota,102,13.5
+
+9268,2016,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,United States,44965,13.5
+

@@ -1,0 +1,8 @@
+8020,2004,Cerebrovascular diseases (I60-I69),Stroke,Montana,484,46.1
+
+8070,2008,Cerebrovascular diseases (I60-I69),Stroke,New Hampshire,484,33.9
+
+8020,2004,Cerebrovascular diseases (I60-I69),Stroke,Montana,484,46.1
+
+8070,2008,Cerebrovascular diseases (I60-I69),Stroke,New Hampshire,484,33.9
+

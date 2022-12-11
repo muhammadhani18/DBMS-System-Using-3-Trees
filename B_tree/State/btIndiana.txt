@@ -1,0 +1,1584 @@
+15,2016,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Indiana,3496,51.6
+
+304,2016,All Causes,All causes,Indiana,63473,835
+
+305,2015,All Causes,All causes,Indiana,62713,833.9
+
+306,2014,All Causes,All causes,Indiana,60940,822.3
+
+307,2013,All Causes,All causes,Indiana,60716,832.2
+
+308,2012,All Causes,All causes,Indiana,59332,827.5
+
+309,2011,All Causes,All causes,Indiana,58202,825.1
+
+310,2010,All Causes,All causes,Indiana,56743,820.6
+
+311,2009,All Causes,All causes,Indiana,55973,820.6
+
+312,2008,All Causes,All causes,Indiana,56752,843.8
+
+313,2007,All Causes,All causes,Indiana,54000,817.1
+
+314,2006,All Causes,All causes,Indiana,55622,856.8
+
+315,2005,All Causes,All causes,Indiana,55675,874.3
+
+316,2004,All Causes,All causes,Indiana,54211,864.1
+
+317,2003,All Causes,All causes,Indiana,55968,902.2
+
+318,2002,All Causes,All causes,Indiana,55396,906.1
+
+319,2001,All Causes,All causes,Indiana,55198,912.7
+
+320,2000,All Causes,All causes,Indiana,55469,929.6
+
+321,1999,All Causes,All causes,Indiana,55303,934.7
+
+1240,2016,Alzheimer's disease (G30),Alzheimer's disease,Indiana,2678,34.9
+
+1241,2015,Alzheimer's disease (G30),Alzheimer's disease,Indiana,2513,33.1
+
+1242,2014,Alzheimer's disease (G30),Alzheimer's disease,Indiana,2204,29.4
+
+1243,2013,Alzheimer's disease (G30),Alzheimer's disease,Indiana,2104,28.5
+
+1244,2012,Alzheimer's disease (G30),Alzheimer's disease,Indiana,2038,28.1
+
+1245,2011,Alzheimer's disease (G30),Alzheimer's disease,Indiana,2058,28.9
+
+1246,2010,Alzheimer's disease (G30),Alzheimer's disease,Indiana,1940,27.8
+
+1247,2009,Alzheimer's disease (G30),Alzheimer's disease,Indiana,1884,27.4
+
+1248,2008,Alzheimer's disease (G30),Alzheimer's disease,Indiana,1971,29.3
+
+1249,2007,Alzheimer's disease (G30),Alzheimer's disease,Indiana,1663,25.1
+
+1250,2006,Alzheimer's disease (G30),Alzheimer's disease,Indiana,1696,26.1
+
+1251,2005,Alzheimer's disease (G30),Alzheimer's disease,Indiana,1651,26
+
+1252,2004,Alzheimer's disease (G30),Alzheimer's disease,Indiana,1552,24.9
+
+1253,2003,Alzheimer's disease (G30),Alzheimer's disease,Indiana,1515,24.6
+
+1254,2002,Alzheimer's disease (G30),Alzheimer's disease,Indiana,1475,24.3
+
+1255,2001,Alzheimer's disease (G30),Alzheimer's disease,Indiana,1231,20.5
+
+1256,2000,Alzheimer's disease (G30),Alzheimer's disease,Indiana,1209,20.4
+
+1257,1999,Alzheimer's disease (G30),Alzheimer's disease,Indiana,1106,18.9
+
+2176,2016,Malignant neoplasms (C00-C97),Cancer,Indiana,13424,172.5
+
+2177,2015,Malignant neoplasms (C00-C97),Cancer,Indiana,13511,176.3
+
+2178,2014,Malignant neoplasms (C00-C97),Cancer,Indiana,13519,179.7
+
+2179,2013,Malignant neoplasms (C00-C97),Cancer,Indiana,13258,179.5
+
+2180,2012,Malignant neoplasms (C00-C97),Cancer,Indiana,13368,184.4
+
+2181,2011,Malignant neoplasms (C00-C97),Cancer,Indiana,13180,185.4
+
+2182,2010,Malignant neoplasms (C00-C97),Cancer,Indiana,13164,188.6
+
+2183,2009,Malignant neoplasms (C00-C97),Cancer,Indiana,13093,190.4
+
+2184,2008,Malignant neoplasms (C00-C97),Cancer,Indiana,13137,194.3
+
+2185,2007,Malignant neoplasms (C00-C97),Cancer,Indiana,12778,192.6
+
+2186,2006,Malignant neoplasms (C00-C97),Cancer,Indiana,12903,197.5
+
+2187,2005,Malignant neoplasms (C00-C97),Cancer,Indiana,12796,199.8
+
+2188,2004,Malignant neoplasms (C00-C97),Cancer,Indiana,12552,199.1
+
+2189,2003,Malignant neoplasms (C00-C97),Cancer,Indiana,12933,207.5
+
+2190,2002,Malignant neoplasms (C00-C97),Cancer,Indiana,12865,209.7
+
+2191,2001,Malignant neoplasms (C00-C97),Cancer,Indiana,12831,211.9
+
+2192,2000,Malignant neoplasms (C00-C97),Cancer,Indiana,12842,214.7
+
+2193,1999,Malignant neoplasms (C00-C97),Cancer,Indiana,12898,217.4
+
+3112,2016,Chronic lower respiratory diseases (J40-J47),CLRD,Indiana,4214,54.6
+
+3113,2015,Chronic lower respiratory diseases (J40-J47),CLRD,Indiana,4212,55.4
+
+3114,2014,Chronic lower respiratory diseases (J40-J47),CLRD,Indiana,4029,54
+
+3115,2013,Chronic lower respiratory diseases (J40-J47),CLRD,Indiana,4266,58.4
+
+3116,2012,Chronic lower respiratory diseases (J40-J47),CLRD,Indiana,3962,55.5
+
+3117,2011,Chronic lower respiratory diseases (J40-J47),CLRD,Indiana,4064,57.9
+
+3118,2010,Chronic lower respiratory diseases (J40-J47),CLRD,Indiana,3794,55.3
+
+3119,2009,Chronic lower respiratory diseases (J40-J47),CLRD,Indiana,3745,55.5
+
+3120,2008,Chronic lower respiratory diseases (J40-J47),CLRD,Indiana,3878,58.1
+
+3121,2007,Chronic lower respiratory diseases (J40-J47),CLRD,Indiana,3227,49.3
+
+3122,2006,Chronic lower respiratory diseases (J40-J47),CLRD,Indiana,3291,51
+
+3123,2005,Chronic lower respiratory diseases (J40-J47),CLRD,Indiana,3471,54.8
+
+3124,2004,Chronic lower respiratory diseases (J40-J47),CLRD,Indiana,3145,50.4
+
+3125,2003,Chronic lower respiratory diseases (J40-J47),CLRD,Indiana,3264,52.8
+
+3126,2002,Chronic lower respiratory diseases (J40-J47),CLRD,Indiana,3138,51.5
+
+3127,2001,Chronic lower respiratory diseases (J40-J47),CLRD,Indiana,3136,52.1
+
+3128,2000,Chronic lower respiratory diseases (J40-J47),CLRD,Indiana,3052,51.2
+
+3129,1999,Chronic lower respiratory diseases (J40-J47),CLRD,Indiana,3053,51.6
+
+4048,2016,Diabetes mellitus (E10-E14),Diabetes,Indiana,1992,26
+
+4049,2015,Diabetes mellitus (E10-E14),Diabetes,Indiana,2030,26.9
+
+4050,2014,Diabetes mellitus (E10-E14),Diabetes,Indiana,1819,24.4
+
+4051,2013,Diabetes mellitus (E10-E14),Diabetes,Indiana,1943,26.3
+
+4052,2012,Diabetes mellitus (E10-E14),Diabetes,Indiana,1860,25.9
+
+4053,2011,Diabetes mellitus (E10-E14),Diabetes,Indiana,1808,25.4
+
+4054,2010,Diabetes mellitus (E10-E14),Diabetes,Indiana,1587,22.7
+
+4055,2009,Diabetes mellitus (E10-E14),Diabetes,Indiana,1646,24.1
+
+4056,2008,Diabetes mellitus (E10-E14),Diabetes,Indiana,1683,24.9
+
+4057,2007,Diabetes mellitus (E10-E14),Diabetes,Indiana,1564,23.5
+
+4058,2006,Diabetes mellitus (E10-E14),Diabetes,Indiana,1682,25.9
+
+4059,2005,Diabetes mellitus (E10-E14),Diabetes,Indiana,1719,27
+
+4060,2004,Diabetes mellitus (E10-E14),Diabetes,Indiana,1673,26.6
+
+4061,2003,Diabetes mellitus (E10-E14),Diabetes,Indiana,1731,27.8
+
+4062,2002,Diabetes mellitus (E10-E14),Diabetes,Indiana,1688,27.6
+
+4063,2001,Diabetes mellitus (E10-E14),Diabetes,Indiana,1677,27.7
+
+4064,2000,Diabetes mellitus (E10-E14),Diabetes,Indiana,1673,28
+
+4065,1999,Diabetes mellitus (E10-E14),Diabetes,Indiana,1591,26.9
+
+4984,2016,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Indiana,13952,180.6
+
+4985,2015,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Indiana,13948,182.3
+
+4986,2014,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Indiana,13764,182.7
+
+4987,2013,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Indiana,13773,186.2
+
+4988,2012,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Indiana,13675,188.4
+
+4989,2011,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Indiana,13372,187.2
+
+4990,2010,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Indiana,13388,191.8
+
+4991,2009,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Indiana,13509,196.7
+
+4992,2008,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Indiana,13663,201.6
+
+4993,2007,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Indiana,13682,205.9
+
+4994,2006,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Indiana,14375,220.8
+
+4995,2005,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Indiana,14542,227.9
+
+4996,2004,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Indiana,14636,233.2
+
+4997,2003,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Indiana,15467,249.4
+
+4998,2002,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Indiana,15321,250.9
+
+4999,2001,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Indiana,15682,259.8
+
+5000,2000,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Indiana,16210,272.3
+
+5001,1999,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Indiana,16661,282.5
+
+5920,2016,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Indiana,962,12.6
+
+5921,2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Indiana,1044,13.9
+
+5922,2014,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Indiana,1063,14.3
+
+5923,2013,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Indiana,1132,15.3
+
+5924,2012,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Indiana,973,13.5
+
+5925,2011,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Indiana,1031,14.6
+
+5926,2010,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Indiana,1175,16.9
+
+5927,2009,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Indiana,1191,17.4
+
+5928,2008,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Indiana,1318,19.5
+
+5929,2007,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Indiana,1098,16.5
+
+5930,2006,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Indiana,1129,17.4
+
+5931,2005,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Indiana,1317,20.7
+
+5932,2004,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Indiana,1136,18.2
+
+5933,2003,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Indiana,1365,22.1
+
+5934,2002,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Indiana,1360,22.3
+
+5935,2001,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Indiana,1184,19.7
+
+5936,2000,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Indiana,1270,21.4
+
+5937,1999,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Indiana,1362,23.2
+
+6856,2016,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Indiana,1411,18.4
+
+6857,2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Indiana,1450,18.9
+
+6858,2014,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Indiana,1392,18.7
+
+6859,2013,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Indiana,1352,18.4
+
+6860,2012,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Indiana,1221,16.9
+
+6861,2011,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Indiana,1367,19.4
+
+6862,2010,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Indiana,1516,22
+
+6863,2009,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Indiana,1442,21.2
+
+6864,2008,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Indiana,1363,20.2
+
+6865,2007,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Indiana,1293,19.6
+
+6866,2006,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Indiana,1372,21.1
+
+6867,2005,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Indiana,1284,20.3
+
+6868,2004,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Indiana,1244,19.9
+
+6869,2003,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Indiana,1235,20
+
+6870,2002,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Indiana,1222,20.1
+
+6871,2001,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Indiana,1149,19.1
+
+6872,2000,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Indiana,1084,18.2
+
+6873,1999,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Indiana,1022,17.3
+
+7792,2016,Cerebrovascular diseases (I60-I69),Stroke,Indiana,3040,39.5
+
+7793,2015,Cerebrovascular diseases (I60-I69),Stroke,Indiana,2959,39.1
+
+7794,2014,Cerebrovascular diseases (I60-I69),Stroke,Indiana,3107,41.7
+
+7795,2013,Cerebrovascular diseases (I60-I69),Stroke,Indiana,2996,40.7
+
+7796,2012,Cerebrovascular diseases (I60-I69),Stroke,Indiana,3073,42.7
+
+7797,2011,Cerebrovascular diseases (I60-I69),Stroke,Indiana,3127,44.2
+
+7798,2010,Cerebrovascular diseases (I60-I69),Stroke,Indiana,3082,44.5
+
+7799,2009,Cerebrovascular diseases (I60-I69),Stroke,Indiana,3004,44
+
+7800,2008,Cerebrovascular diseases (I60-I69),Stroke,Indiana,3114,46.2
+
+7801,2007,Cerebrovascular diseases (I60-I69),Stroke,Indiana,3083,46.6
+
+7802,2006,Cerebrovascular diseases (I60-I69),Stroke,Indiana,3238,49.9
+
+7803,2005,Cerebrovascular diseases (I60-I69),Stroke,Indiana,3296,51.9
+
+7804,2004,Cerebrovascular diseases (I60-I69),Stroke,Indiana,3454,55.3
+
+7805,2003,Cerebrovascular diseases (I60-I69),Stroke,Indiana,3627,58.7
+
+7806,2002,Cerebrovascular diseases (I60-I69),Stroke,Indiana,3717,61
+
+7807,2001,Cerebrovascular diseases (I60-I69),Stroke,Indiana,3877,64.3
+
+7808,2000,Cerebrovascular diseases (I60-I69),Stroke,Indiana,4247,71.5
+
+7809,1999,Cerebrovascular diseases (I60-I69),Stroke,Indiana,4057,69
+
+8728,2016,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Indiana,1034,15.4
+
+8729,2015,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Indiana,960,14.4
+
+8730,2014,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Indiana,948,14.3
+
+8731,2013,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Indiana,944,14.3
+
+8732,2012,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Indiana,940,14.3
+
+8733,2011,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Indiana,881,13.5
+
+8734,2010,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Indiana,864,13.1
+
+8735,2009,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Indiana,828,12.8
+
+8736,2008,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Indiana,809,12.6
+
+8737,2007,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Indiana,790,12.3
+
+8738,2006,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Indiana,824,13
+
+8739,2005,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Indiana,745,11.9
+
+8740,2004,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Indiana,704,11.3
+
+8741,2003,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Indiana,736,11.9
+
+8742,2002,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Indiana,743,12.1
+
+8743,2001,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Indiana,715,11.7
+
+8744,2000,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Indiana,683,11.3
+
+8745,1999,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Indiana,628,10.4
+
+9650,2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Indiana,3258,47.7
+
+9651,2014,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Indiana,2974,43.9
+
+9652,2013,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Indiana,2898,43.1
+
+9653,2012,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Indiana,2776,41.4
+
+9654,2011,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Indiana,2699,40.6
+
+9655,2010,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Indiana,2534,38.5
+
+9656,2009,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Indiana,2577,39.3
+
+9657,2008,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Indiana,2558,39.5
+
+9658,2007,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Indiana,2499,38.8
+
+9659,2006,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Indiana,2480,38.9
+
+9660,2005,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Indiana,2480,39.3
+
+9661,2004,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Indiana,2395,38.4
+
+9662,2003,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Indiana,2196,35.4
+
+9663,2002,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Indiana,2148,34.9
+
+9664,2001,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Indiana,2185,35.8
+
+9665,2000,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Indiana,2139,35.4
+
+9666,1999,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Indiana,2309,38.4
+
+15,2016,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Indiana,3496,51.6
+
+304,2016,All Causes,All causes,Indiana,63473,835
+
+305,2015,All Causes,All causes,Indiana,62713,833.9
+
+306,2014,All Causes,All causes,Indiana,60940,822.3
+
+307,2013,All Causes,All causes,Indiana,60716,832.2
+
+308,2012,All Causes,All causes,Indiana,59332,827.5
+
+309,2011,All Causes,All causes,Indiana,58202,825.1
+
+310,2010,All Causes,All causes,Indiana,56743,820.6
+
+311,2009,All Causes,All causes,Indiana,55973,820.6
+
+312,2008,All Causes,All causes,Indiana,56752,843.8
+
+313,2007,All Causes,All causes,Indiana,54000,817.1
+
+314,2006,All Causes,All causes,Indiana,55622,856.8
+
+315,2005,All Causes,All causes,Indiana,55675,874.3
+
+316,2004,All Causes,All causes,Indiana,54211,864.1
+
+317,2003,All Causes,All causes,Indiana,55968,902.2
+
+318,2002,All Causes,All causes,Indiana,55396,906.1
+
+319,2001,All Causes,All causes,Indiana,55198,912.7
+
+320,2000,All Causes,All causes,Indiana,55469,929.6
+
+321,1999,All Causes,All causes,Indiana,55303,934.7
+
+1240,2016,Alzheimer's disease (G30),Alzheimer's disease,Indiana,2678,34.9
+
+1241,2015,Alzheimer's disease (G30),Alzheimer's disease,Indiana,2513,33.1
+
+1242,2014,Alzheimer's disease (G30),Alzheimer's disease,Indiana,2204,29.4
+
+1243,2013,Alzheimer's disease (G30),Alzheimer's disease,Indiana,2104,28.5
+
+1244,2012,Alzheimer's disease (G30),Alzheimer's disease,Indiana,2038,28.1
+
+1245,2011,Alzheimer's disease (G30),Alzheimer's disease,Indiana,2058,28.9
+
+1246,2010,Alzheimer's disease (G30),Alzheimer's disease,Indiana,1940,27.8
+
+1247,2009,Alzheimer's disease (G30),Alzheimer's disease,Indiana,1884,27.4
+
+1248,2008,Alzheimer's disease (G30),Alzheimer's disease,Indiana,1971,29.3
+
+1249,2007,Alzheimer's disease (G30),Alzheimer's disease,Indiana,1663,25.1
+
+1250,2006,Alzheimer's disease (G30),Alzheimer's disease,Indiana,1696,26.1
+
+1251,2005,Alzheimer's disease (G30),Alzheimer's disease,Indiana,1651,26
+
+1252,2004,Alzheimer's disease (G30),Alzheimer's disease,Indiana,1552,24.9
+
+1253,2003,Alzheimer's disease (G30),Alzheimer's disease,Indiana,1515,24.6
+
+1254,2002,Alzheimer's disease (G30),Alzheimer's disease,Indiana,1475,24.3
+
+1255,2001,Alzheimer's disease (G30),Alzheimer's disease,Indiana,1231,20.5
+
+1256,2000,Alzheimer's disease (G30),Alzheimer's disease,Indiana,1209,20.4
+
+1257,1999,Alzheimer's disease (G30),Alzheimer's disease,Indiana,1106,18.9
+
+2176,2016,Malignant neoplasms (C00-C97),Cancer,Indiana,13424,172.5
+
+2177,2015,Malignant neoplasms (C00-C97),Cancer,Indiana,13511,176.3
+
+2178,2014,Malignant neoplasms (C00-C97),Cancer,Indiana,13519,179.7
+
+2179,2013,Malignant neoplasms (C00-C97),Cancer,Indiana,13258,179.5
+
+2180,2012,Malignant neoplasms (C00-C97),Cancer,Indiana,13368,184.4
+
+2181,2011,Malignant neoplasms (C00-C97),Cancer,Indiana,13180,185.4
+
+2182,2010,Malignant neoplasms (C00-C97),Cancer,Indiana,13164,188.6
+
+2183,2009,Malignant neoplasms (C00-C97),Cancer,Indiana,13093,190.4
+
+2184,2008,Malignant neoplasms (C00-C97),Cancer,Indiana,13137,194.3
+
+2185,2007,Malignant neoplasms (C00-C97),Cancer,Indiana,12778,192.6
+
+2186,2006,Malignant neoplasms (C00-C97),Cancer,Indiana,12903,197.5
+
+2187,2005,Malignant neoplasms (C00-C97),Cancer,Indiana,12796,199.8
+
+2188,2004,Malignant neoplasms (C00-C97),Cancer,Indiana,12552,199.1
+
+2189,2003,Malignant neoplasms (C00-C97),Cancer,Indiana,12933,207.5
+
+2190,2002,Malignant neoplasms (C00-C97),Cancer,Indiana,12865,209.7
+
+2191,2001,Malignant neoplasms (C00-C97),Cancer,Indiana,12831,211.9
+
+2192,2000,Malignant neoplasms (C00-C97),Cancer,Indiana,12842,214.7
+
+2193,1999,Malignant neoplasms (C00-C97),Cancer,Indiana,12898,217.4
+
+3112,2016,Chronic lower respiratory diseases (J40-J47),CLRD,Indiana,4214,54.6
+
+3113,2015,Chronic lower respiratory diseases (J40-J47),CLRD,Indiana,4212,55.4
+
+3114,2014,Chronic lower respiratory diseases (J40-J47),CLRD,Indiana,4029,54
+
+3115,2013,Chronic lower respiratory diseases (J40-J47),CLRD,Indiana,4266,58.4
+
+3116,2012,Chronic lower respiratory diseases (J40-J47),CLRD,Indiana,3962,55.5
+
+3117,2011,Chronic lower respiratory diseases (J40-J47),CLRD,Indiana,4064,57.9
+
+3118,2010,Chronic lower respiratory diseases (J40-J47),CLRD,Indiana,3794,55.3
+
+3119,2009,Chronic lower respiratory diseases (J40-J47),CLRD,Indiana,3745,55.5
+
+3120,2008,Chronic lower respiratory diseases (J40-J47),CLRD,Indiana,3878,58.1
+
+3121,2007,Chronic lower respiratory diseases (J40-J47),CLRD,Indiana,3227,49.3
+
+3122,2006,Chronic lower respiratory diseases (J40-J47),CLRD,Indiana,3291,51
+
+3123,2005,Chronic lower respiratory diseases (J40-J47),CLRD,Indiana,3471,54.8
+
+3124,2004,Chronic lower respiratory diseases (J40-J47),CLRD,Indiana,3145,50.4
+
+3125,2003,Chronic lower respiratory diseases (J40-J47),CLRD,Indiana,3264,52.8
+
+3126,2002,Chronic lower respiratory diseases (J40-J47),CLRD,Indiana,3138,51.5
+
+3127,2001,Chronic lower respiratory diseases (J40-J47),CLRD,Indiana,3136,52.1
+
+3128,2000,Chronic lower respiratory diseases (J40-J47),CLRD,Indiana,3052,51.2
+
+3129,1999,Chronic lower respiratory diseases (J40-J47),CLRD,Indiana,3053,51.6
+
+4048,2016,Diabetes mellitus (E10-E14),Diabetes,Indiana,1992,26
+
+4049,2015,Diabetes mellitus (E10-E14),Diabetes,Indiana,2030,26.9
+
+4050,2014,Diabetes mellitus (E10-E14),Diabetes,Indiana,1819,24.4
+
+4051,2013,Diabetes mellitus (E10-E14),Diabetes,Indiana,1943,26.3
+
+4052,2012,Diabetes mellitus (E10-E14),Diabetes,Indiana,1860,25.9
+
+4053,2011,Diabetes mellitus (E10-E14),Diabetes,Indiana,1808,25.4
+
+4054,2010,Diabetes mellitus (E10-E14),Diabetes,Indiana,1587,22.7
+
+4055,2009,Diabetes mellitus (E10-E14),Diabetes,Indiana,1646,24.1
+
+4056,2008,Diabetes mellitus (E10-E14),Diabetes,Indiana,1683,24.9
+
+4057,2007,Diabetes mellitus (E10-E14),Diabetes,Indiana,1564,23.5
+
+4058,2006,Diabetes mellitus (E10-E14),Diabetes,Indiana,1682,25.9
+
+4059,2005,Diabetes mellitus (E10-E14),Diabetes,Indiana,1719,27
+
+4060,2004,Diabetes mellitus (E10-E14),Diabetes,Indiana,1673,26.6
+
+4061,2003,Diabetes mellitus (E10-E14),Diabetes,Indiana,1731,27.8
+
+4062,2002,Diabetes mellitus (E10-E14),Diabetes,Indiana,1688,27.6
+
+4063,2001,Diabetes mellitus (E10-E14),Diabetes,Indiana,1677,27.7
+
+4064,2000,Diabetes mellitus (E10-E14),Diabetes,Indiana,1673,28
+
+4065,1999,Diabetes mellitus (E10-E14),Diabetes,Indiana,1591,26.9
+
+4984,2016,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Indiana,13952,180.6
+
+4985,2015,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Indiana,13948,182.3
+
+4986,2014,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Indiana,13764,182.7
+
+4987,2013,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Indiana,13773,186.2
+
+4988,2012,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Indiana,13675,188.4
+
+4989,2011,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Indiana,13372,187.2
+
+4990,2010,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Indiana,13388,191.8
+
+4991,2009,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Indiana,13509,196.7
+
+4992,2008,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Indiana,13663,201.6
+
+4993,2007,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Indiana,13682,205.9
+
+4994,2006,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Indiana,14375,220.8
+
+4995,2005,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Indiana,14542,227.9
+
+4996,2004,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Indiana,14636,233.2
+
+4997,2003,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Indiana,15467,249.4
+
+4998,2002,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Indiana,15321,250.9
+
+4999,2001,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Indiana,15682,259.8
+
+5000,2000,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Indiana,16210,272.3
+
+5001,1999,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Indiana,16661,282.5
+
+5920,2016,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Indiana,962,12.6
+
+5921,2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Indiana,1044,13.9
+
+5922,2014,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Indiana,1063,14.3
+
+5923,2013,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Indiana,1132,15.3
+
+5924,2012,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Indiana,973,13.5
+
+5925,2011,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Indiana,1031,14.6
+
+5926,2010,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Indiana,1175,16.9
+
+5927,2009,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Indiana,1191,17.4
+
+5928,2008,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Indiana,1318,19.5
+
+5929,2007,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Indiana,1098,16.5
+
+5930,2006,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Indiana,1129,17.4
+
+5931,2005,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Indiana,1317,20.7
+
+5932,2004,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Indiana,1136,18.2
+
+5933,2003,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Indiana,1365,22.1
+
+5934,2002,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Indiana,1360,22.3
+
+5935,2001,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Indiana,1184,19.7
+
+5936,2000,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Indiana,1270,21.4
+
+5937,1999,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Indiana,1362,23.2
+
+6856,2016,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Indiana,1411,18.4
+
+6857,2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Indiana,1450,18.9
+
+6858,2014,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Indiana,1392,18.7
+
+6859,2013,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Indiana,1352,18.4
+
+6860,2012,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Indiana,1221,16.9
+
+6861,2011,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Indiana,1367,19.4
+
+6862,2010,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Indiana,1516,22
+
+6863,2009,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Indiana,1442,21.2
+
+6864,2008,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Indiana,1363,20.2
+
+6865,2007,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Indiana,1293,19.6
+
+6866,2006,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Indiana,1372,21.1
+
+6867,2005,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Indiana,1284,20.3
+
+6868,2004,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Indiana,1244,19.9
+
+6869,2003,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Indiana,1235,20
+
+6870,2002,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Indiana,1222,20.1
+
+6871,2001,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Indiana,1149,19.1
+
+6872,2000,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Indiana,1084,18.2
+
+6873,1999,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Indiana,1022,17.3
+
+7792,2016,Cerebrovascular diseases (I60-I69),Stroke,Indiana,3040,39.5
+
+7793,2015,Cerebrovascular diseases (I60-I69),Stroke,Indiana,2959,39.1
+
+7794,2014,Cerebrovascular diseases (I60-I69),Stroke,Indiana,3107,41.7
+
+7795,2013,Cerebrovascular diseases (I60-I69),Stroke,Indiana,2996,40.7
+
+7796,2012,Cerebrovascular diseases (I60-I69),Stroke,Indiana,3073,42.7
+
+7797,2011,Cerebrovascular diseases (I60-I69),Stroke,Indiana,3127,44.2
+
+7798,2010,Cerebrovascular diseases (I60-I69),Stroke,Indiana,3082,44.5
+
+7799,2009,Cerebrovascular diseases (I60-I69),Stroke,Indiana,3004,44
+
+7800,2008,Cerebrovascular diseases (I60-I69),Stroke,Indiana,3114,46.2
+
+7801,2007,Cerebrovascular diseases (I60-I69),Stroke,Indiana,3083,46.6
+
+7802,2006,Cerebrovascular diseases (I60-I69),Stroke,Indiana,3238,49.9
+
+7803,2005,Cerebrovascular diseases (I60-I69),Stroke,Indiana,3296,51.9
+
+7804,2004,Cerebrovascular diseases (I60-I69),Stroke,Indiana,3454,55.3
+
+7805,2003,Cerebrovascular diseases (I60-I69),Stroke,Indiana,3627,58.7
+
+7806,2002,Cerebrovascular diseases (I60-I69),Stroke,Indiana,3717,61
+
+7807,2001,Cerebrovascular diseases (I60-I69),Stroke,Indiana,3877,64.3
+
+7808,2000,Cerebrovascular diseases (I60-I69),Stroke,Indiana,4247,71.5
+
+7809,1999,Cerebrovascular diseases (I60-I69),Stroke,Indiana,4057,69
+
+8728,2016,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Indiana,1034,15.4
+
+8729,2015,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Indiana,960,14.4
+
+8730,2014,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Indiana,948,14.3
+
+8731,2013,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Indiana,944,14.3
+
+8732,2012,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Indiana,940,14.3
+
+8733,2011,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Indiana,881,13.5
+
+8734,2010,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Indiana,864,13.1
+
+8735,2009,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Indiana,828,12.8
+
+8736,2008,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Indiana,809,12.6
+
+8737,2007,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Indiana,790,12.3
+
+8738,2006,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Indiana,824,13
+
+8739,2005,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Indiana,745,11.9
+
+8740,2004,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Indiana,704,11.3
+
+8741,2003,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Indiana,736,11.9
+
+8742,2002,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Indiana,743,12.1
+
+8743,2001,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Indiana,715,11.7
+
+8744,2000,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Indiana,683,11.3
+
+8745,1999,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Indiana,628,10.4
+
+9650,2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Indiana,3258,47.7
+
+9651,2014,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Indiana,2974,43.9
+
+9652,2013,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Indiana,2898,43.1
+
+9653,2012,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Indiana,2776,41.4
+
+9654,2011,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Indiana,2699,40.6
+
+9655,2010,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Indiana,2534,38.5
+
+9656,2009,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Indiana,2577,39.3
+
+9657,2008,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Indiana,2558,39.5
+
+9658,2007,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Indiana,2499,38.8
+
+9659,2006,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Indiana,2480,38.9
+
+9660,2005,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Indiana,2480,39.3
+
+9661,2004,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Indiana,2395,38.4
+
+9662,2003,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Indiana,2196,35.4
+
+9663,2002,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Indiana,2148,34.9
+
+9664,2001,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Indiana,2185,35.8
+
+9665,2000,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Indiana,2139,35.4
+
+9666,1999,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Indiana,2309,38.4
+
+15,2016,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Indiana,3496,51.6
+
+304,2016,All Causes,All causes,Indiana,63473,835
+
+305,2015,All Causes,All causes,Indiana,62713,833.9
+
+306,2014,All Causes,All causes,Indiana,60940,822.3
+
+307,2013,All Causes,All causes,Indiana,60716,832.2
+
+308,2012,All Causes,All causes,Indiana,59332,827.5
+
+309,2011,All Causes,All causes,Indiana,58202,825.1
+
+310,2010,All Causes,All causes,Indiana,56743,820.6
+
+311,2009,All Causes,All causes,Indiana,55973,820.6
+
+312,2008,All Causes,All causes,Indiana,56752,843.8
+
+313,2007,All Causes,All causes,Indiana,54000,817.1
+
+314,2006,All Causes,All causes,Indiana,55622,856.8
+
+315,2005,All Causes,All causes,Indiana,55675,874.3
+
+316,2004,All Causes,All causes,Indiana,54211,864.1
+
+317,2003,All Causes,All causes,Indiana,55968,902.2
+
+318,2002,All Causes,All causes,Indiana,55396,906.1
+
+319,2001,All Causes,All causes,Indiana,55198,912.7
+
+320,2000,All Causes,All causes,Indiana,55469,929.6
+
+321,1999,All Causes,All causes,Indiana,55303,934.7
+
+1240,2016,Alzheimer's disease (G30),Alzheimer's disease,Indiana,2678,34.9
+
+1241,2015,Alzheimer's disease (G30),Alzheimer's disease,Indiana,2513,33.1
+
+1242,2014,Alzheimer's disease (G30),Alzheimer's disease,Indiana,2204,29.4
+
+1243,2013,Alzheimer's disease (G30),Alzheimer's disease,Indiana,2104,28.5
+
+1244,2012,Alzheimer's disease (G30),Alzheimer's disease,Indiana,2038,28.1
+
+1245,2011,Alzheimer's disease (G30),Alzheimer's disease,Indiana,2058,28.9
+
+1246,2010,Alzheimer's disease (G30),Alzheimer's disease,Indiana,1940,27.8
+
+1247,2009,Alzheimer's disease (G30),Alzheimer's disease,Indiana,1884,27.4
+
+1248,2008,Alzheimer's disease (G30),Alzheimer's disease,Indiana,1971,29.3
+
+1249,2007,Alzheimer's disease (G30),Alzheimer's disease,Indiana,1663,25.1
+
+1250,2006,Alzheimer's disease (G30),Alzheimer's disease,Indiana,1696,26.1
+
+1251,2005,Alzheimer's disease (G30),Alzheimer's disease,Indiana,1651,26
+
+1252,2004,Alzheimer's disease (G30),Alzheimer's disease,Indiana,1552,24.9
+
+1253,2003,Alzheimer's disease (G30),Alzheimer's disease,Indiana,1515,24.6
+
+1254,2002,Alzheimer's disease (G30),Alzheimer's disease,Indiana,1475,24.3
+
+1255,2001,Alzheimer's disease (G30),Alzheimer's disease,Indiana,1231,20.5
+
+1256,2000,Alzheimer's disease (G30),Alzheimer's disease,Indiana,1209,20.4
+
+1257,1999,Alzheimer's disease (G30),Alzheimer's disease,Indiana,1106,18.9
+
+2176,2016,Malignant neoplasms (C00-C97),Cancer,Indiana,13424,172.5
+
+2177,2015,Malignant neoplasms (C00-C97),Cancer,Indiana,13511,176.3
+
+2178,2014,Malignant neoplasms (C00-C97),Cancer,Indiana,13519,179.7
+
+2179,2013,Malignant neoplasms (C00-C97),Cancer,Indiana,13258,179.5
+
+2180,2012,Malignant neoplasms (C00-C97),Cancer,Indiana,13368,184.4
+
+2181,2011,Malignant neoplasms (C00-C97),Cancer,Indiana,13180,185.4
+
+2182,2010,Malignant neoplasms (C00-C97),Cancer,Indiana,13164,188.6
+
+2183,2009,Malignant neoplasms (C00-C97),Cancer,Indiana,13093,190.4
+
+2184,2008,Malignant neoplasms (C00-C97),Cancer,Indiana,13137,194.3
+
+2185,2007,Malignant neoplasms (C00-C97),Cancer,Indiana,12778,192.6
+
+2186,2006,Malignant neoplasms (C00-C97),Cancer,Indiana,12903,197.5
+
+2187,2005,Malignant neoplasms (C00-C97),Cancer,Indiana,12796,199.8
+
+2188,2004,Malignant neoplasms (C00-C97),Cancer,Indiana,12552,199.1
+
+2189,2003,Malignant neoplasms (C00-C97),Cancer,Indiana,12933,207.5
+
+2190,2002,Malignant neoplasms (C00-C97),Cancer,Indiana,12865,209.7
+
+2191,2001,Malignant neoplasms (C00-C97),Cancer,Indiana,12831,211.9
+
+2192,2000,Malignant neoplasms (C00-C97),Cancer,Indiana,12842,214.7
+
+2193,1999,Malignant neoplasms (C00-C97),Cancer,Indiana,12898,217.4
+
+3112,2016,Chronic lower respiratory diseases (J40-J47),CLRD,Indiana,4214,54.6
+
+3113,2015,Chronic lower respiratory diseases (J40-J47),CLRD,Indiana,4212,55.4
+
+3114,2014,Chronic lower respiratory diseases (J40-J47),CLRD,Indiana,4029,54
+
+3115,2013,Chronic lower respiratory diseases (J40-J47),CLRD,Indiana,4266,58.4
+
+3116,2012,Chronic lower respiratory diseases (J40-J47),CLRD,Indiana,3962,55.5
+
+3117,2011,Chronic lower respiratory diseases (J40-J47),CLRD,Indiana,4064,57.9
+
+3118,2010,Chronic lower respiratory diseases (J40-J47),CLRD,Indiana,3794,55.3
+
+3119,2009,Chronic lower respiratory diseases (J40-J47),CLRD,Indiana,3745,55.5
+
+3120,2008,Chronic lower respiratory diseases (J40-J47),CLRD,Indiana,3878,58.1
+
+3121,2007,Chronic lower respiratory diseases (J40-J47),CLRD,Indiana,3227,49.3
+
+3122,2006,Chronic lower respiratory diseases (J40-J47),CLRD,Indiana,3291,51
+
+3123,2005,Chronic lower respiratory diseases (J40-J47),CLRD,Indiana,3471,54.8
+
+3124,2004,Chronic lower respiratory diseases (J40-J47),CLRD,Indiana,3145,50.4
+
+3125,2003,Chronic lower respiratory diseases (J40-J47),CLRD,Indiana,3264,52.8
+
+3126,2002,Chronic lower respiratory diseases (J40-J47),CLRD,Indiana,3138,51.5
+
+3127,2001,Chronic lower respiratory diseases (J40-J47),CLRD,Indiana,3136,52.1
+
+3128,2000,Chronic lower respiratory diseases (J40-J47),CLRD,Indiana,3052,51.2
+
+3129,1999,Chronic lower respiratory diseases (J40-J47),CLRD,Indiana,3053,51.6
+
+4048,2016,Diabetes mellitus (E10-E14),Diabetes,Indiana,1992,26
+
+4049,2015,Diabetes mellitus (E10-E14),Diabetes,Indiana,2030,26.9
+
+4050,2014,Diabetes mellitus (E10-E14),Diabetes,Indiana,1819,24.4
+
+4051,2013,Diabetes mellitus (E10-E14),Diabetes,Indiana,1943,26.3
+
+4052,2012,Diabetes mellitus (E10-E14),Diabetes,Indiana,1860,25.9
+
+4053,2011,Diabetes mellitus (E10-E14),Diabetes,Indiana,1808,25.4
+
+4054,2010,Diabetes mellitus (E10-E14),Diabetes,Indiana,1587,22.7
+
+4055,2009,Diabetes mellitus (E10-E14),Diabetes,Indiana,1646,24.1
+
+4056,2008,Diabetes mellitus (E10-E14),Diabetes,Indiana,1683,24.9
+
+4057,2007,Diabetes mellitus (E10-E14),Diabetes,Indiana,1564,23.5
+
+4058,2006,Diabetes mellitus (E10-E14),Diabetes,Indiana,1682,25.9
+
+4059,2005,Diabetes mellitus (E10-E14),Diabetes,Indiana,1719,27
+
+4060,2004,Diabetes mellitus (E10-E14),Diabetes,Indiana,1673,26.6
+
+4061,2003,Diabetes mellitus (E10-E14),Diabetes,Indiana,1731,27.8
+
+4062,2002,Diabetes mellitus (E10-E14),Diabetes,Indiana,1688,27.6
+
+4063,2001,Diabetes mellitus (E10-E14),Diabetes,Indiana,1677,27.7
+
+4064,2000,Diabetes mellitus (E10-E14),Diabetes,Indiana,1673,28
+
+4065,1999,Diabetes mellitus (E10-E14),Diabetes,Indiana,1591,26.9
+
+4984,2016,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Indiana,13952,180.6
+
+4985,2015,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Indiana,13948,182.3
+
+4986,2014,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Indiana,13764,182.7
+
+4987,2013,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Indiana,13773,186.2
+
+4988,2012,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Indiana,13675,188.4
+
+4989,2011,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Indiana,13372,187.2
+
+4990,2010,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Indiana,13388,191.8
+
+4991,2009,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Indiana,13509,196.7
+
+4992,2008,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Indiana,13663,201.6
+
+4993,2007,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Indiana,13682,205.9
+
+4994,2006,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Indiana,14375,220.8
+
+4995,2005,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Indiana,14542,227.9
+
+4996,2004,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Indiana,14636,233.2
+
+4997,2003,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Indiana,15467,249.4
+
+4998,2002,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Indiana,15321,250.9
+
+4999,2001,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Indiana,15682,259.8
+
+5000,2000,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Indiana,16210,272.3
+
+5001,1999,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Indiana,16661,282.5
+
+5920,2016,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Indiana,962,12.6
+
+5921,2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Indiana,1044,13.9
+
+5922,2014,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Indiana,1063,14.3
+
+5923,2013,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Indiana,1132,15.3
+
+5924,2012,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Indiana,973,13.5
+
+5925,2011,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Indiana,1031,14.6
+
+5926,2010,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Indiana,1175,16.9
+
+5927,2009,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Indiana,1191,17.4
+
+5928,2008,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Indiana,1318,19.5
+
+5929,2007,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Indiana,1098,16.5
+
+5930,2006,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Indiana,1129,17.4
+
+5931,2005,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Indiana,1317,20.7
+
+5932,2004,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Indiana,1136,18.2
+
+5933,2003,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Indiana,1365,22.1
+
+5934,2002,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Indiana,1360,22.3
+
+5935,2001,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Indiana,1184,19.7
+
+5936,2000,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Indiana,1270,21.4
+
+5937,1999,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Indiana,1362,23.2
+
+6856,2016,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Indiana,1411,18.4
+
+6857,2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Indiana,1450,18.9
+
+6858,2014,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Indiana,1392,18.7
+
+6859,2013,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Indiana,1352,18.4
+
+6860,2012,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Indiana,1221,16.9
+
+6861,2011,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Indiana,1367,19.4
+
+6862,2010,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Indiana,1516,22
+
+6863,2009,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Indiana,1442,21.2
+
+6864,2008,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Indiana,1363,20.2
+
+6865,2007,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Indiana,1293,19.6
+
+6866,2006,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Indiana,1372,21.1
+
+6867,2005,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Indiana,1284,20.3
+
+6868,2004,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Indiana,1244,19.9
+
+6869,2003,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Indiana,1235,20
+
+6870,2002,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Indiana,1222,20.1
+
+6871,2001,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Indiana,1149,19.1
+
+6872,2000,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Indiana,1084,18.2
+
+6873,1999,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Indiana,1022,17.3
+
+7792,2016,Cerebrovascular diseases (I60-I69),Stroke,Indiana,3040,39.5
+
+7793,2015,Cerebrovascular diseases (I60-I69),Stroke,Indiana,2959,39.1
+
+7794,2014,Cerebrovascular diseases (I60-I69),Stroke,Indiana,3107,41.7
+
+7795,2013,Cerebrovascular diseases (I60-I69),Stroke,Indiana,2996,40.7
+
+7796,2012,Cerebrovascular diseases (I60-I69),Stroke,Indiana,3073,42.7
+
+7797,2011,Cerebrovascular diseases (I60-I69),Stroke,Indiana,3127,44.2
+
+7798,2010,Cerebrovascular diseases (I60-I69),Stroke,Indiana,3082,44.5
+
+7799,2009,Cerebrovascular diseases (I60-I69),Stroke,Indiana,3004,44
+
+7800,2008,Cerebrovascular diseases (I60-I69),Stroke,Indiana,3114,46.2
+
+7801,2007,Cerebrovascular diseases (I60-I69),Stroke,Indiana,3083,46.6
+
+7802,2006,Cerebrovascular diseases (I60-I69),Stroke,Indiana,3238,49.9
+
+7803,2005,Cerebrovascular diseases (I60-I69),Stroke,Indiana,3296,51.9
+
+7804,2004,Cerebrovascular diseases (I60-I69),Stroke,Indiana,3454,55.3
+
+7805,2003,Cerebrovascular diseases (I60-I69),Stroke,Indiana,3627,58.7
+
+7806,2002,Cerebrovascular diseases (I60-I69),Stroke,Indiana,3717,61
+
+7807,2001,Cerebrovascular diseases (I60-I69),Stroke,Indiana,3877,64.3
+
+7808,2000,Cerebrovascular diseases (I60-I69),Stroke,Indiana,4247,71.5
+
+7809,1999,Cerebrovascular diseases (I60-I69),Stroke,Indiana,4057,69
+
+8728,2016,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Indiana,1034,15.4
+
+8729,2015,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Indiana,960,14.4
+
+8730,2014,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Indiana,948,14.3
+
+8731,2013,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Indiana,944,14.3
+
+8732,2012,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Indiana,940,14.3
+
+8733,2011,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Indiana,881,13.5
+
+8734,2010,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Indiana,864,13.1
+
+8735,2009,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Indiana,828,12.8
+
+8736,2008,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Indiana,809,12.6
+
+8737,2007,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Indiana,790,12.3
+
+8738,2006,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Indiana,824,13
+
+8739,2005,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Indiana,745,11.9
+
+8740,2004,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Indiana,704,11.3
+
+8741,2003,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Indiana,736,11.9
+
+8742,2002,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Indiana,743,12.1
+
+8743,2001,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Indiana,715,11.7
+
+8744,2000,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Indiana,683,11.3
+
+8745,1999,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Indiana,628,10.4
+
+9650,2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Indiana,3258,47.7
+
+9651,2014,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Indiana,2974,43.9
+
+9652,2013,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Indiana,2898,43.1
+
+9653,2012,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Indiana,2776,41.4
+
+9654,2011,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Indiana,2699,40.6
+
+9655,2010,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Indiana,2534,38.5
+
+9656,2009,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Indiana,2577,39.3
+
+9657,2008,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Indiana,2558,39.5
+
+9658,2007,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Indiana,2499,38.8
+
+9659,2006,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Indiana,2480,38.9
+
+9660,2005,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Indiana,2480,39.3
+
+9661,2004,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Indiana,2395,38.4
+
+9662,2003,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Indiana,2196,35.4
+
+9663,2002,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Indiana,2148,34.9
+
+9664,2001,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Indiana,2185,35.8
+
+9665,2000,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Indiana,2139,35.4
+
+9666,1999,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Indiana,2309,38.4
+
+15,2016,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Indiana,3496,51.6
+
+304,2016,All Causes,All causes,Indiana,63473,835
+
+305,2015,All Causes,All causes,Indiana,62713,833.9
+
+306,2014,All Causes,All causes,Indiana,60940,822.3
+
+307,2013,All Causes,All causes,Indiana,60716,832.2
+
+308,2012,All Causes,All causes,Indiana,59332,827.5
+
+309,2011,All Causes,All causes,Indiana,58202,825.1
+
+310,2010,All Causes,All causes,Indiana,56743,820.6
+
+311,2009,All Causes,All causes,Indiana,55973,820.6
+
+312,2008,All Causes,All causes,Indiana,56752,843.8
+
+313,2007,All Causes,All causes,Indiana,54000,817.1
+
+314,2006,All Causes,All causes,Indiana,55622,856.8
+
+315,2005,All Causes,All causes,Indiana,55675,874.3
+
+316,2004,All Causes,All causes,Indiana,54211,864.1
+
+317,2003,All Causes,All causes,Indiana,55968,902.2
+
+318,2002,All Causes,All causes,Indiana,55396,906.1
+
+319,2001,All Causes,All causes,Indiana,55198,912.7
+
+320,2000,All Causes,All causes,Indiana,55469,929.6
+
+321,1999,All Causes,All causes,Indiana,55303,934.7
+
+1240,2016,Alzheimer's disease (G30),Alzheimer's disease,Indiana,2678,34.9
+
+1241,2015,Alzheimer's disease (G30),Alzheimer's disease,Indiana,2513,33.1
+
+1242,2014,Alzheimer's disease (G30),Alzheimer's disease,Indiana,2204,29.4
+
+1243,2013,Alzheimer's disease (G30),Alzheimer's disease,Indiana,2104,28.5
+
+1244,2012,Alzheimer's disease (G30),Alzheimer's disease,Indiana,2038,28.1
+
+1245,2011,Alzheimer's disease (G30),Alzheimer's disease,Indiana,2058,28.9
+
+1246,2010,Alzheimer's disease (G30),Alzheimer's disease,Indiana,1940,27.8
+
+1247,2009,Alzheimer's disease (G30),Alzheimer's disease,Indiana,1884,27.4
+
+1248,2008,Alzheimer's disease (G30),Alzheimer's disease,Indiana,1971,29.3
+
+1249,2007,Alzheimer's disease (G30),Alzheimer's disease,Indiana,1663,25.1
+
+1250,2006,Alzheimer's disease (G30),Alzheimer's disease,Indiana,1696,26.1
+
+1251,2005,Alzheimer's disease (G30),Alzheimer's disease,Indiana,1651,26
+
+1252,2004,Alzheimer's disease (G30),Alzheimer's disease,Indiana,1552,24.9
+
+1253,2003,Alzheimer's disease (G30),Alzheimer's disease,Indiana,1515,24.6
+
+1254,2002,Alzheimer's disease (G30),Alzheimer's disease,Indiana,1475,24.3
+
+1255,2001,Alzheimer's disease (G30),Alzheimer's disease,Indiana,1231,20.5
+
+1256,2000,Alzheimer's disease (G30),Alzheimer's disease,Indiana,1209,20.4
+
+1257,1999,Alzheimer's disease (G30),Alzheimer's disease,Indiana,1106,18.9
+
+2176,2016,Malignant neoplasms (C00-C97),Cancer,Indiana,13424,172.5
+
+2177,2015,Malignant neoplasms (C00-C97),Cancer,Indiana,13511,176.3
+
+2178,2014,Malignant neoplasms (C00-C97),Cancer,Indiana,13519,179.7
+
+2179,2013,Malignant neoplasms (C00-C97),Cancer,Indiana,13258,179.5
+
+2180,2012,Malignant neoplasms (C00-C97),Cancer,Indiana,13368,184.4
+
+2181,2011,Malignant neoplasms (C00-C97),Cancer,Indiana,13180,185.4
+
+2182,2010,Malignant neoplasms (C00-C97),Cancer,Indiana,13164,188.6
+
+2183,2009,Malignant neoplasms (C00-C97),Cancer,Indiana,13093,190.4
+
+2184,2008,Malignant neoplasms (C00-C97),Cancer,Indiana,13137,194.3
+
+2185,2007,Malignant neoplasms (C00-C97),Cancer,Indiana,12778,192.6
+
+2186,2006,Malignant neoplasms (C00-C97),Cancer,Indiana,12903,197.5
+
+2187,2005,Malignant neoplasms (C00-C97),Cancer,Indiana,12796,199.8
+
+2188,2004,Malignant neoplasms (C00-C97),Cancer,Indiana,12552,199.1
+
+2189,2003,Malignant neoplasms (C00-C97),Cancer,Indiana,12933,207.5
+
+2190,2002,Malignant neoplasms (C00-C97),Cancer,Indiana,12865,209.7
+
+2191,2001,Malignant neoplasms (C00-C97),Cancer,Indiana,12831,211.9
+
+2192,2000,Malignant neoplasms (C00-C97),Cancer,Indiana,12842,214.7
+
+2193,1999,Malignant neoplasms (C00-C97),Cancer,Indiana,12898,217.4
+
+3112,2016,Chronic lower respiratory diseases (J40-J47),CLRD,Indiana,4214,54.6
+
+3113,2015,Chronic lower respiratory diseases (J40-J47),CLRD,Indiana,4212,55.4
+
+3114,2014,Chronic lower respiratory diseases (J40-J47),CLRD,Indiana,4029,54
+
+3115,2013,Chronic lower respiratory diseases (J40-J47),CLRD,Indiana,4266,58.4
+
+3116,2012,Chronic lower respiratory diseases (J40-J47),CLRD,Indiana,3962,55.5
+
+3117,2011,Chronic lower respiratory diseases (J40-J47),CLRD,Indiana,4064,57.9
+
+3118,2010,Chronic lower respiratory diseases (J40-J47),CLRD,Indiana,3794,55.3
+
+3119,2009,Chronic lower respiratory diseases (J40-J47),CLRD,Indiana,3745,55.5
+
+3120,2008,Chronic lower respiratory diseases (J40-J47),CLRD,Indiana,3878,58.1
+
+3121,2007,Chronic lower respiratory diseases (J40-J47),CLRD,Indiana,3227,49.3
+
+3122,2006,Chronic lower respiratory diseases (J40-J47),CLRD,Indiana,3291,51
+
+3123,2005,Chronic lower respiratory diseases (J40-J47),CLRD,Indiana,3471,54.8
+
+3124,2004,Chronic lower respiratory diseases (J40-J47),CLRD,Indiana,3145,50.4
+
+3125,2003,Chronic lower respiratory diseases (J40-J47),CLRD,Indiana,3264,52.8
+
+3126,2002,Chronic lower respiratory diseases (J40-J47),CLRD,Indiana,3138,51.5
+
+3127,2001,Chronic lower respiratory diseases (J40-J47),CLRD,Indiana,3136,52.1
+
+3128,2000,Chronic lower respiratory diseases (J40-J47),CLRD,Indiana,3052,51.2
+
+3129,1999,Chronic lower respiratory diseases (J40-J47),CLRD,Indiana,3053,51.6
+
+4048,2016,Diabetes mellitus (E10-E14),Diabetes,Indiana,1992,26
+
+4049,2015,Diabetes mellitus (E10-E14),Diabetes,Indiana,2030,26.9
+
+4050,2014,Diabetes mellitus (E10-E14),Diabetes,Indiana,1819,24.4
+
+4051,2013,Diabetes mellitus (E10-E14),Diabetes,Indiana,1943,26.3
+
+4052,2012,Diabetes mellitus (E10-E14),Diabetes,Indiana,1860,25.9
+
+4053,2011,Diabetes mellitus (E10-E14),Diabetes,Indiana,1808,25.4
+
+4054,2010,Diabetes mellitus (E10-E14),Diabetes,Indiana,1587,22.7
+
+4055,2009,Diabetes mellitus (E10-E14),Diabetes,Indiana,1646,24.1
+
+4056,2008,Diabetes mellitus (E10-E14),Diabetes,Indiana,1683,24.9
+
+4057,2007,Diabetes mellitus (E10-E14),Diabetes,Indiana,1564,23.5
+
+4058,2006,Diabetes mellitus (E10-E14),Diabetes,Indiana,1682,25.9
+
+4059,2005,Diabetes mellitus (E10-E14),Diabetes,Indiana,1719,27
+
+4060,2004,Diabetes mellitus (E10-E14),Diabetes,Indiana,1673,26.6
+
+4061,2003,Diabetes mellitus (E10-E14),Diabetes,Indiana,1731,27.8
+
+4062,2002,Diabetes mellitus (E10-E14),Diabetes,Indiana,1688,27.6
+
+4063,2001,Diabetes mellitus (E10-E14),Diabetes,Indiana,1677,27.7
+
+4064,2000,Diabetes mellitus (E10-E14),Diabetes,Indiana,1673,28
+
+4065,1999,Diabetes mellitus (E10-E14),Diabetes,Indiana,1591,26.9
+
+4984,2016,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Indiana,13952,180.6
+
+4985,2015,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Indiana,13948,182.3
+
+4986,2014,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Indiana,13764,182.7
+
+4987,2013,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Indiana,13773,186.2
+
+4988,2012,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Indiana,13675,188.4
+
+4989,2011,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Indiana,13372,187.2
+
+4990,2010,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Indiana,13388,191.8
+
+4991,2009,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Indiana,13509,196.7
+
+4992,2008,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Indiana,13663,201.6
+
+4993,2007,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Indiana,13682,205.9
+
+4994,2006,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Indiana,14375,220.8
+
+4995,2005,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Indiana,14542,227.9
+
+4996,2004,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Indiana,14636,233.2
+
+4997,2003,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Indiana,15467,249.4
+
+4998,2002,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Indiana,15321,250.9
+
+4999,2001,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Indiana,15682,259.8
+
+5000,2000,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Indiana,16210,272.3
+
+5001,1999,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Indiana,16661,282.5
+
+5920,2016,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Indiana,962,12.6
+
+5921,2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Indiana,1044,13.9
+
+5922,2014,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Indiana,1063,14.3
+
+5923,2013,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Indiana,1132,15.3
+
+5924,2012,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Indiana,973,13.5
+
+5925,2011,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Indiana,1031,14.6
+
+5926,2010,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Indiana,1175,16.9
+
+5927,2009,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Indiana,1191,17.4
+
+5928,2008,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Indiana,1318,19.5
+
+5929,2007,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Indiana,1098,16.5
+
+5930,2006,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Indiana,1129,17.4
+
+5931,2005,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Indiana,1317,20.7
+
+5932,2004,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Indiana,1136,18.2
+
+5933,2003,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Indiana,1365,22.1
+
+5934,2002,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Indiana,1360,22.3
+
+5935,2001,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Indiana,1184,19.7
+
+5936,2000,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Indiana,1270,21.4
+
+5937,1999,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Indiana,1362,23.2
+
+6856,2016,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Indiana,1411,18.4
+
+6857,2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Indiana,1450,18.9
+
+6858,2014,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Indiana,1392,18.7
+
+6859,2013,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Indiana,1352,18.4
+
+6860,2012,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Indiana,1221,16.9
+
+6861,2011,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Indiana,1367,19.4
+
+6862,2010,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Indiana,1516,22
+
+6863,2009,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Indiana,1442,21.2
+
+6864,2008,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Indiana,1363,20.2
+
+6865,2007,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Indiana,1293,19.6
+
+6866,2006,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Indiana,1372,21.1
+
+6867,2005,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Indiana,1284,20.3
+
+6868,2004,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Indiana,1244,19.9
+
+6869,2003,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Indiana,1235,20
+
+6870,2002,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Indiana,1222,20.1
+
+6871,2001,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Indiana,1149,19.1
+
+6872,2000,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Indiana,1084,18.2
+
+6873,1999,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Indiana,1022,17.3
+
+7792,2016,Cerebrovascular diseases (I60-I69),Stroke,Indiana,3040,39.5
+
+7793,2015,Cerebrovascular diseases (I60-I69),Stroke,Indiana,2959,39.1
+
+7794,2014,Cerebrovascular diseases (I60-I69),Stroke,Indiana,3107,41.7
+
+7795,2013,Cerebrovascular diseases (I60-I69),Stroke,Indiana,2996,40.7
+
+7796,2012,Cerebrovascular diseases (I60-I69),Stroke,Indiana,3073,42.7
+
+7797,2011,Cerebrovascular diseases (I60-I69),Stroke,Indiana,3127,44.2
+
+7798,2010,Cerebrovascular diseases (I60-I69),Stroke,Indiana,3082,44.5
+
+7799,2009,Cerebrovascular diseases (I60-I69),Stroke,Indiana,3004,44
+
+7800,2008,Cerebrovascular diseases (I60-I69),Stroke,Indiana,3114,46.2
+
+7801,2007,Cerebrovascular diseases (I60-I69),Stroke,Indiana,3083,46.6
+
+7802,2006,Cerebrovascular diseases (I60-I69),Stroke,Indiana,3238,49.9
+
+7803,2005,Cerebrovascular diseases (I60-I69),Stroke,Indiana,3296,51.9
+
+7804,2004,Cerebrovascular diseases (I60-I69),Stroke,Indiana,3454,55.3
+
+7805,2003,Cerebrovascular diseases (I60-I69),Stroke,Indiana,3627,58.7
+
+7806,2002,Cerebrovascular diseases (I60-I69),Stroke,Indiana,3717,61
+
+7807,2001,Cerebrovascular diseases (I60-I69),Stroke,Indiana,3877,64.3
+
+7808,2000,Cerebrovascular diseases (I60-I69),Stroke,Indiana,4247,71.5
+
+7809,1999,Cerebrovascular diseases (I60-I69),Stroke,Indiana,4057,69
+
+8728,2016,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Indiana,1034,15.4
+
+8729,2015,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Indiana,960,14.4
+
+8730,2014,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Indiana,948,14.3
+
+8731,2013,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Indiana,944,14.3
+
+8732,2012,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Indiana,940,14.3
+
+8733,2011,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Indiana,881,13.5
+
+8734,2010,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Indiana,864,13.1
+
+8735,2009,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Indiana,828,12.8
+
+8736,2008,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Indiana,809,12.6
+
+8737,2007,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Indiana,790,12.3
+
+8738,2006,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Indiana,824,13
+
+8739,2005,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Indiana,745,11.9
+
+8740,2004,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Indiana,704,11.3
+
+8741,2003,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Indiana,736,11.9
+
+8742,2002,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Indiana,743,12.1
+
+8743,2001,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Indiana,715,11.7
+
+8744,2000,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Indiana,683,11.3
+
+8745,1999,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Indiana,628,10.4
+
+9650,2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Indiana,3258,47.7
+
+9651,2014,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Indiana,2974,43.9
+
+9652,2013,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Indiana,2898,43.1
+
+9653,2012,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Indiana,2776,41.4
+
+9654,2011,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Indiana,2699,40.6
+
+9655,2010,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Indiana,2534,38.5
+
+9656,2009,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Indiana,2577,39.3
+
+9657,2008,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Indiana,2558,39.5
+
+9658,2007,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Indiana,2499,38.8
+
+9659,2006,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Indiana,2480,38.9
+
+9660,2005,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Indiana,2480,39.3
+
+9661,2004,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Indiana,2395,38.4
+
+9662,2003,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Indiana,2196,35.4
+
+9663,2002,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Indiana,2148,34.9
+
+9664,2001,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Indiana,2185,35.8
+
+9665,2000,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Indiana,2139,35.4
+
+9666,1999,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Indiana,2309,38.4
+

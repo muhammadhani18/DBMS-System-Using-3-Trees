@@ -1,0 +1,6 @@
+2144,2012,Malignant neoplasms (C00-C97),Cancer,Idaho,2572,152
+
+2743,2007,Malignant neoplasms (C00-C97),Cancer,Utah,2572,133.2
+
+3241,2013,Chronic lower respiratory diseases (J40-J47),CLRD,Massachusetts,2572,31.7
+

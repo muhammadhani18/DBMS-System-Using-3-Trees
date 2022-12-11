@@ -1,0 +1,4 @@
+2205,2005,Malignant neoplasms (C00-C97),Cancer,Iowa,6453,183.7
+
+2552,2000,Malignant neoplasms (C00-C97),Cancer,North Dakota,1346,183.7
+

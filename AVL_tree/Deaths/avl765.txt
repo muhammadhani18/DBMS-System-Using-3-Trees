@@ -1,0 +1,4 @@
+4098,2002,Diabetes mellitus (E10-E14),Diabetes,Kansas,765,26.4
+
+9617,2014,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Idaho,765,46.5
+

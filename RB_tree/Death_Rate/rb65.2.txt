@@ -1,0 +1,4 @@
+3174,2008,Chronic lower respiratory diseases (J40-J47),CLRD,Kentucky,2926,65.2
+
+7861,2001,Cerebrovascular diseases (I60-I69),Stroke,Kentucky,2557,65.2
+

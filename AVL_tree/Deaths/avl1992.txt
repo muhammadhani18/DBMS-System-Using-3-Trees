@@ -1,0 +1,4 @@
+4048,2016,Diabetes mellitus (E10-E14),Diabetes,Indiana,1992,26
+
+7852,2010,Cerebrovascular diseases (I60-I69),Stroke,Kentucky,1992,44.1
+

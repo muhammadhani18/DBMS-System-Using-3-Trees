@@ -1,0 +1,8 @@
+2323,2013,Malignant neoplasms (C00-C97),Cancer,Michigan,20367,170.5
+
+2547,2005,Malignant neoplasms (C00-C97),Cancer,North Dakota,1302,170.5
+
+2794,2010,Malignant neoplasms (C00-C97),Cancer,Washington,11874,170.5
+
+5530,2012,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,United States,599711,170.5
+

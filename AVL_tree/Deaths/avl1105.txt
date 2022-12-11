@@ -1,0 +1,4 @@
+5683,2001,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Alabama,1105,24.9
+
+9952,2002,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,New Mexico,1105,61.4
+

@@ -1,0 +1,8 @@
+2218,2010,Malignant neoplasms (C00-C97),Cancer,Kansas,5377,171.3
+
+2308,2010,Malignant neoplasms (C00-C97),Cancer,Massachusetts,12993,171.3
+
+4958,2006,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Idaho,2399,171.3
+
+5512,2012,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Texas,39061,171.3
+

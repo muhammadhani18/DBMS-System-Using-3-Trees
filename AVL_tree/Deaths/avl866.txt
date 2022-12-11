@@ -1,0 +1,8 @@
+1362,2002,Alzheimer's disease (G30),Alzheimer's disease,Maryland,866,18.4
+
+1671,1999,Alzheimer's disease (G30),Alzheimer's disease,Oregon,866,24.1
+
+9333,2005,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Virginia,866,11.2
+
+9376,2016,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wisconsin,866,14.7
+

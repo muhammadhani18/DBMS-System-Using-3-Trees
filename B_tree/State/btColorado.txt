@@ -1,0 +1,1584 @@
+6,2016,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Colorado,2880,51.2
+
+142,2016,All Causes,All causes,Colorado,37530,669.5
+
+143,2015,All Causes,All causes,Colorado,36349,665
+
+144,2014,All Causes,All causes,Colorado,35237,664.4
+
+145,2013,All Causes,All causes,Colorado,33712,655.4
+
+146,2012,All Causes,All causes,Colorado,33133,665.6
+
+147,2011,All Causes,All causes,Colorado,32563,677.8
+
+148,2010,All Causes,All causes,Colorado,31465,682.7
+
+149,2009,All Causes,All causes,Colorado,31173,689.7
+
+150,2008,All Causes,All causes,Colorado,31274,715.8
+
+151,2007,All Causes,All causes,Colorado,29993,708
+
+152,2006,All Causes,All causes,Colorado,29521,720.9
+
+153,2005,All Causes,All causes,Colorado,29627,752.1
+
+154,2004,All Causes,All causes,Colorado,28309,738.5
+
+155,2003,All Causes,All causes,Colorado,29506,792
+
+156,2002,All Causes,All causes,Colorado,29210,804.4
+
+157,2001,All Causes,All causes,Colorado,28294,796.1
+
+158,2000,All Causes,All causes,Colorado,27288,792.1
+
+159,1999,All Causes,All causes,Colorado,27114,801.8
+
+1078,2016,Alzheimer's disease (G30),Alzheimer's disease,Colorado,1835,34.7
+
+1079,2015,Alzheimer's disease (G30),Alzheimer's disease,Colorado,1612,31.3
+
+1080,2014,Alzheimer's disease (G30),Alzheimer's disease,Colorado,1364,27.4
+
+1081,2013,Alzheimer's disease (G30),Alzheimer's disease,Colorado,1316,27.2
+
+1082,2012,Alzheimer's disease (G30),Alzheimer's disease,Colorado,1322,28.4
+
+1083,2011,Alzheimer's disease (G30),Alzheimer's disease,Colorado,1307,29
+
+1084,2010,Alzheimer's disease (G30),Alzheimer's disease,Colorado,1334,31.1
+
+1085,2009,Alzheimer's disease (G30),Alzheimer's disease,Colorado,1319,31.4
+
+1086,2008,Alzheimer's disease (G30),Alzheimer's disease,Colorado,1353,33.4
+
+1087,2007,Alzheimer's disease (G30),Alzheimer's disease,Colorado,1109,28.3
+
+1088,2006,Alzheimer's disease (G30),Alzheimer's disease,Colorado,1058,28.1
+
+1089,2005,Alzheimer's disease (G30),Alzheimer's disease,Colorado,1064,29.5
+
+1090,2004,Alzheimer's disease (G30),Alzheimer's disease,Colorado,912,26.1
+
+1091,2003,Alzheimer's disease (G30),Alzheimer's disease,Colorado,899,26.5
+
+1092,2002,Alzheimer's disease (G30),Alzheimer's disease,Colorado,954,29
+
+1093,2001,Alzheimer's disease (G30),Alzheimer's disease,Colorado,852,26.4
+
+1094,2000,Alzheimer's disease (G30),Alzheimer's disease,Colorado,712,22.6
+
+1095,1999,Alzheimer's disease (G30),Alzheimer's disease,Colorado,756,24.5
+
+2014,2016,Malignant neoplasms (C00-C97),Cancer,Colorado,7928,137.1
+
+2015,2015,Malignant neoplasms (C00-C97),Cancer,Colorado,7604,134.4
+
+2016,2014,Malignant neoplasms (C00-C97),Cancer,Colorado,7405,136
+
+2017,2013,Malignant neoplasms (C00-C97),Cancer,Colorado,7357,139.2
+
+2018,2012,Malignant neoplasms (C00-C97),Cancer,Colorado,7306,143.1
+
+2019,2011,Malignant neoplasms (C00-C97),Cancer,Colorado,7051,143.9
+
+2020,2010,Malignant neoplasms (C00-C97),Cancer,Colorado,7035,149.5
+
+2021,2009,Malignant neoplasms (C00-C97),Cancer,Colorado,6950,151.4
+
+2022,2008,Malignant neoplasms (C00-C97),Cancer,Colorado,6719,150.9
+
+2023,2007,Malignant neoplasms (C00-C97),Cancer,Colorado,6617,154.1
+
+2024,2006,Malignant neoplasms (C00-C97),Cancer,Colorado,6550,157.5
+
+2025,2005,Malignant neoplasms (C00-C97),Cancer,Colorado,6395,159.7
+
+2026,2004,Malignant neoplasms (C00-C97),Cancer,Colorado,6196,159.4
+
+2027,2003,Malignant neoplasms (C00-C97),Cancer,Colorado,6417,169.4
+
+2028,2002,Malignant neoplasms (C00-C97),Cancer,Colorado,6384,173.7
+
+2029,2001,Malignant neoplasms (C00-C97),Cancer,Colorado,6145,170.9
+
+2030,2000,Malignant neoplasms (C00-C97),Cancer,Colorado,5922,170
+
+2031,1999,Malignant neoplasms (C00-C97),Cancer,Colorado,5863,171.1
+
+2950,2016,Chronic lower respiratory diseases (J40-J47),CLRD,Colorado,2575,46.4
+
+2951,2015,Chronic lower respiratory diseases (J40-J47),CLRD,Colorado,2577,47.8
+
+2952,2014,Chronic lower respiratory diseases (J40-J47),CLRD,Colorado,2451,47.2
+
+2953,2013,Chronic lower respiratory diseases (J40-J47),CLRD,Colorado,2297,45.9
+
+2954,2012,Chronic lower respiratory diseases (J40-J47),CLRD,Colorado,2239,46.7
+
+2955,2011,Chronic lower respiratory diseases (J40-J47),CLRD,Colorado,2151,46.4
+
+2956,2010,Chronic lower respiratory diseases (J40-J47),CLRD,Colorado,2199,49.7
+
+2957,2009,Chronic lower respiratory diseases (J40-J47),CLRD,Colorado,2073,47.8
+
+2958,2008,Chronic lower respiratory diseases (J40-J47),CLRD,Colorado,2188,52.5
+
+2959,2007,Chronic lower respiratory diseases (J40-J47),CLRD,Colorado,2002,49.4
+
+2960,2006,Chronic lower respiratory diseases (J40-J47),CLRD,Colorado,1932,49.3
+
+2961,2005,Chronic lower respiratory diseases (J40-J47),CLRD,Colorado,1914,50.9
+
+2962,2004,Chronic lower respiratory diseases (J40-J47),CLRD,Colorado,1899,51.8
+
+2963,2003,Chronic lower respiratory diseases (J40-J47),CLRD,Colorado,1931,54
+
+2964,2002,Chronic lower respiratory diseases (J40-J47),CLRD,Colorado,1848,53
+
+2965,2001,Chronic lower respiratory diseases (J40-J47),CLRD,Colorado,1836,53.9
+
+2966,2000,Chronic lower respiratory diseases (J40-J47),CLRD,Colorado,1787,53.9
+
+2967,1999,Chronic lower respiratory diseases (J40-J47),CLRD,Colorado,1894,58.1
+
+3886,2016,Diabetes mellitus (E10-E14),Diabetes,Colorado,938,16.2
+
+3887,2015,Diabetes mellitus (E10-E14),Diabetes,Colorado,887,15.9
+
+3888,2014,Diabetes mellitus (E10-E14),Diabetes,Colorado,835,15.5
+
+3889,2013,Diabetes mellitus (E10-E14),Diabetes,Colorado,788,15
+
+3890,2012,Diabetes mellitus (E10-E14),Diabetes,Colorado,797,15.9
+
+3891,2011,Diabetes mellitus (E10-E14),Diabetes,Colorado,790,16.4
+
+3892,2010,Diabetes mellitus (E10-E14),Diabetes,Colorado,721,15.2
+
+3893,2009,Diabetes mellitus (E10-E14),Diabetes,Colorado,779,17.2
+
+3894,2008,Diabetes mellitus (E10-E14),Diabetes,Colorado,767,17.6
+
+3895,2007,Diabetes mellitus (E10-E14),Diabetes,Colorado,710,16.8
+
+3896,2006,Diabetes mellitus (E10-E14),Diabetes,Colorado,677,16.7
+
+3897,2005,Diabetes mellitus (E10-E14),Diabetes,Colorado,753,19.3
+
+3898,2004,Diabetes mellitus (E10-E14),Diabetes,Colorado,696,18.2
+
+3899,2003,Diabetes mellitus (E10-E14),Diabetes,Colorado,708,19.1
+
+3900,2002,Diabetes mellitus (E10-E14),Diabetes,Colorado,659,18
+
+3901,2001,Diabetes mellitus (E10-E14),Diabetes,Colorado,667,18.8
+
+3902,2000,Diabetes mellitus (E10-E14),Diabetes,Colorado,635,18.5
+
+3903,1999,Diabetes mellitus (E10-E14),Diabetes,Colorado,639,19.2
+
+4822,2016,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Colorado,7277,129.8
+
+4823,2015,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Colorado,7009,128.4
+
+4824,2014,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Colorado,6900,130.3
+
+4825,2013,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Colorado,6456,125.7
+
+4826,2012,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Colorado,6311,127.3
+
+4827,2011,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Colorado,6177,129.8
+
+4828,2010,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Colorado,6038,132.8
+
+4829,2009,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Colorado,6093,136.5
+
+4830,2008,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Colorado,6118,142.5
+
+4831,2007,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Colorado,6106,147
+
+4832,2006,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Colorado,6124,152.7
+
+4833,2005,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Colorado,6307,164.8
+
+4834,2004,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Colorado,6079,163.6
+
+4835,2003,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Colorado,6499,180.3
+
+4836,2002,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Colorado,6425,182.7
+
+4837,2001,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Colorado,6293,183.3
+
+4838,2000,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Colorado,6184,185.3
+
+4839,1999,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Colorado,6420,196.3
+
+5758,2016,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Colorado,533,9.6
+
+5759,2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Colorado,659,12.3
+
+5760,2014,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Colorado,701,13.3
+
+5761,2013,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Colorado,606,12
+
+5762,2012,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Colorado,525,11
+
+5763,2011,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Colorado,618,13.1
+
+5764,2010,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Colorado,550,12.3
+
+5765,2009,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Colorado,658,14.8
+
+5766,2008,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Colorado,678,15.9
+
+5767,2007,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Colorado,592,14.5
+
+5768,2006,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Colorado,614,15.6
+
+5769,2005,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Colorado,666,17.6
+
+5770,2004,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Colorado,637,17.5
+
+5771,2003,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Colorado,810,23
+
+5772,2002,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Colorado,752,21.9
+
+5773,2001,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Colorado,650,19.3
+
+5774,2000,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Colorado,607,18.6
+
+5775,1999,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Colorado,807,25.3
+
+6694,2016,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Colorado,491,8.9
+
+6695,2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Colorado,458,8.5
+
+6696,2014,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Colorado,448,8.5
+
+6697,2013,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Colorado,450,9
+
+6698,2012,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Colorado,428,8.9
+
+6699,2011,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Colorado,450,9.5
+
+6700,2010,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Colorado,426,9.6
+
+6701,2009,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Colorado,447,10.3
+
+6702,2008,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Colorado,483,11.5
+
+6703,2007,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Colorado,444,11
+
+6704,2006,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Colorado,472,12.1
+
+6705,2005,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Colorado,470,12.5
+
+6706,2004,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Colorado,406,11.1
+
+6707,2003,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Colorado,409,11.5
+
+6708,2002,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Colorado,417,11.9
+
+6709,2001,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Colorado,391,11.4
+
+6710,2000,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Colorado,357,10.8
+
+6711,1999,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Colorado,312,9.6
+
+7630,2016,Cerebrovascular diseases (I60-I69),Stroke,Colorado,1927,35.2
+
+7631,2015,Cerebrovascular diseases (I60-I69),Stroke,Colorado,1856,34.9
+
+7632,2014,Cerebrovascular diseases (I60-I69),Stroke,Colorado,1714,33.4
+
+7633,2013,Cerebrovascular diseases (I60-I69),Stroke,Colorado,1588,32
+
+7634,2012,Cerebrovascular diseases (I60-I69),Stroke,Colorado,1576,32.6
+
+7635,2011,Cerebrovascular diseases (I60-I69),Stroke,Colorado,1606,34.6
+
+7636,2010,Cerebrovascular diseases (I60-I69),Stroke,Colorado,1607,36.1
+
+7637,2009,Cerebrovascular diseases (I60-I69),Stroke,Colorado,1532,35.2
+
+7638,2008,Cerebrovascular diseases (I60-I69),Stroke,Colorado,1565,37.4
+
+7639,2007,Cerebrovascular diseases (I60-I69),Stroke,Colorado,1600,39.5
+
+7640,2006,Cerebrovascular diseases (I60-I69),Stroke,Colorado,1532,39.1
+
+7641,2005,Cerebrovascular diseases (I60-I69),Stroke,Colorado,1599,42.6
+
+7642,2004,Cerebrovascular diseases (I60-I69),Stroke,Colorado,1638,44.9
+
+7643,2003,Cerebrovascular diseases (I60-I69),Stroke,Colorado,1813,51.5
+
+7644,2002,Cerebrovascular diseases (I60-I69),Stroke,Colorado,1915,55.7
+
+7645,2001,Cerebrovascular diseases (I60-I69),Stroke,Colorado,1825,54.7
+
+7646,2000,Cerebrovascular diseases (I60-I69),Stroke,Colorado,1907,58.7
+
+7647,1999,Cerebrovascular diseases (I60-I69),Stroke,Colorado,1834,57.2
+
+8566,2016,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Colorado,1168,20.5
+
+8567,2015,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Colorado,1093,19.5
+
+8568,2014,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Colorado,1083,19.9
+
+8569,2013,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Colorado,1007,18.6
+
+8570,2012,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Colorado,1052,19.7
+
+8571,2011,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Colorado,913,17.5
+
+8572,2010,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Colorado,865,16.8
+
+8573,2009,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Colorado,941,18.7
+
+8574,2008,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Colorado,803,16.1
+
+8575,2007,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Colorado,811,16.6
+
+8576,2006,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Colorado,730,15.3
+
+8577,2005,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Colorado,800,17.2
+
+8578,2004,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Colorado,797,17.2
+
+8579,2003,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Colorado,728,16.1
+
+8580,2002,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Colorado,727,16.2
+
+8581,2001,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Colorado,722,16.5
+
+8582,2000,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Colorado,613,14.3
+
+8583,1999,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Colorado,574,13.7
+
+9497,2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Colorado,2725,49.7
+
+9498,2014,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Colorado,2517,47.1
+
+9499,2013,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Colorado,2422,46.4
+
+9500,2012,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Colorado,2403,47.1
+
+9501,2011,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Colorado,2330,46.5
+
+9502,2010,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Colorado,2106,43.5
+
+9503,2009,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Colorado,2144,44.5
+
+9504,2008,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Colorado,2172,46.3
+
+9505,2007,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Colorado,2056,44.8
+
+9506,2006,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Colorado,1917,42.5
+
+9507,2005,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Colorado,1947,44.1
+
+9508,2004,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Colorado,1810,42.1
+
+9509,2003,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Colorado,1806,42.4
+
+9510,2002,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Colorado,1812,43.1
+
+9511,2001,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Colorado,1720,41.6
+
+9512,2000,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Colorado,1702,42.6
+
+9513,1999,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Colorado,1519,39
+
+6,2016,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Colorado,2880,51.2
+
+142,2016,All Causes,All causes,Colorado,37530,669.5
+
+143,2015,All Causes,All causes,Colorado,36349,665
+
+144,2014,All Causes,All causes,Colorado,35237,664.4
+
+145,2013,All Causes,All causes,Colorado,33712,655.4
+
+146,2012,All Causes,All causes,Colorado,33133,665.6
+
+147,2011,All Causes,All causes,Colorado,32563,677.8
+
+148,2010,All Causes,All causes,Colorado,31465,682.7
+
+149,2009,All Causes,All causes,Colorado,31173,689.7
+
+150,2008,All Causes,All causes,Colorado,31274,715.8
+
+151,2007,All Causes,All causes,Colorado,29993,708
+
+152,2006,All Causes,All causes,Colorado,29521,720.9
+
+153,2005,All Causes,All causes,Colorado,29627,752.1
+
+154,2004,All Causes,All causes,Colorado,28309,738.5
+
+155,2003,All Causes,All causes,Colorado,29506,792
+
+156,2002,All Causes,All causes,Colorado,29210,804.4
+
+157,2001,All Causes,All causes,Colorado,28294,796.1
+
+158,2000,All Causes,All causes,Colorado,27288,792.1
+
+159,1999,All Causes,All causes,Colorado,27114,801.8
+
+1078,2016,Alzheimer's disease (G30),Alzheimer's disease,Colorado,1835,34.7
+
+1079,2015,Alzheimer's disease (G30),Alzheimer's disease,Colorado,1612,31.3
+
+1080,2014,Alzheimer's disease (G30),Alzheimer's disease,Colorado,1364,27.4
+
+1081,2013,Alzheimer's disease (G30),Alzheimer's disease,Colorado,1316,27.2
+
+1082,2012,Alzheimer's disease (G30),Alzheimer's disease,Colorado,1322,28.4
+
+1083,2011,Alzheimer's disease (G30),Alzheimer's disease,Colorado,1307,29
+
+1084,2010,Alzheimer's disease (G30),Alzheimer's disease,Colorado,1334,31.1
+
+1085,2009,Alzheimer's disease (G30),Alzheimer's disease,Colorado,1319,31.4
+
+1086,2008,Alzheimer's disease (G30),Alzheimer's disease,Colorado,1353,33.4
+
+1087,2007,Alzheimer's disease (G30),Alzheimer's disease,Colorado,1109,28.3
+
+1088,2006,Alzheimer's disease (G30),Alzheimer's disease,Colorado,1058,28.1
+
+1089,2005,Alzheimer's disease (G30),Alzheimer's disease,Colorado,1064,29.5
+
+1090,2004,Alzheimer's disease (G30),Alzheimer's disease,Colorado,912,26.1
+
+1091,2003,Alzheimer's disease (G30),Alzheimer's disease,Colorado,899,26.5
+
+1092,2002,Alzheimer's disease (G30),Alzheimer's disease,Colorado,954,29
+
+1093,2001,Alzheimer's disease (G30),Alzheimer's disease,Colorado,852,26.4
+
+1094,2000,Alzheimer's disease (G30),Alzheimer's disease,Colorado,712,22.6
+
+1095,1999,Alzheimer's disease (G30),Alzheimer's disease,Colorado,756,24.5
+
+2014,2016,Malignant neoplasms (C00-C97),Cancer,Colorado,7928,137.1
+
+2015,2015,Malignant neoplasms (C00-C97),Cancer,Colorado,7604,134.4
+
+2016,2014,Malignant neoplasms (C00-C97),Cancer,Colorado,7405,136
+
+2017,2013,Malignant neoplasms (C00-C97),Cancer,Colorado,7357,139.2
+
+2018,2012,Malignant neoplasms (C00-C97),Cancer,Colorado,7306,143.1
+
+2019,2011,Malignant neoplasms (C00-C97),Cancer,Colorado,7051,143.9
+
+2020,2010,Malignant neoplasms (C00-C97),Cancer,Colorado,7035,149.5
+
+2021,2009,Malignant neoplasms (C00-C97),Cancer,Colorado,6950,151.4
+
+2022,2008,Malignant neoplasms (C00-C97),Cancer,Colorado,6719,150.9
+
+2023,2007,Malignant neoplasms (C00-C97),Cancer,Colorado,6617,154.1
+
+2024,2006,Malignant neoplasms (C00-C97),Cancer,Colorado,6550,157.5
+
+2025,2005,Malignant neoplasms (C00-C97),Cancer,Colorado,6395,159.7
+
+2026,2004,Malignant neoplasms (C00-C97),Cancer,Colorado,6196,159.4
+
+2027,2003,Malignant neoplasms (C00-C97),Cancer,Colorado,6417,169.4
+
+2028,2002,Malignant neoplasms (C00-C97),Cancer,Colorado,6384,173.7
+
+2029,2001,Malignant neoplasms (C00-C97),Cancer,Colorado,6145,170.9
+
+2030,2000,Malignant neoplasms (C00-C97),Cancer,Colorado,5922,170
+
+2031,1999,Malignant neoplasms (C00-C97),Cancer,Colorado,5863,171.1
+
+2950,2016,Chronic lower respiratory diseases (J40-J47),CLRD,Colorado,2575,46.4
+
+2951,2015,Chronic lower respiratory diseases (J40-J47),CLRD,Colorado,2577,47.8
+
+2952,2014,Chronic lower respiratory diseases (J40-J47),CLRD,Colorado,2451,47.2
+
+2953,2013,Chronic lower respiratory diseases (J40-J47),CLRD,Colorado,2297,45.9
+
+2954,2012,Chronic lower respiratory diseases (J40-J47),CLRD,Colorado,2239,46.7
+
+2955,2011,Chronic lower respiratory diseases (J40-J47),CLRD,Colorado,2151,46.4
+
+2956,2010,Chronic lower respiratory diseases (J40-J47),CLRD,Colorado,2199,49.7
+
+2957,2009,Chronic lower respiratory diseases (J40-J47),CLRD,Colorado,2073,47.8
+
+2958,2008,Chronic lower respiratory diseases (J40-J47),CLRD,Colorado,2188,52.5
+
+2959,2007,Chronic lower respiratory diseases (J40-J47),CLRD,Colorado,2002,49.4
+
+2960,2006,Chronic lower respiratory diseases (J40-J47),CLRD,Colorado,1932,49.3
+
+2961,2005,Chronic lower respiratory diseases (J40-J47),CLRD,Colorado,1914,50.9
+
+2962,2004,Chronic lower respiratory diseases (J40-J47),CLRD,Colorado,1899,51.8
+
+2963,2003,Chronic lower respiratory diseases (J40-J47),CLRD,Colorado,1931,54
+
+2964,2002,Chronic lower respiratory diseases (J40-J47),CLRD,Colorado,1848,53
+
+2965,2001,Chronic lower respiratory diseases (J40-J47),CLRD,Colorado,1836,53.9
+
+2966,2000,Chronic lower respiratory diseases (J40-J47),CLRD,Colorado,1787,53.9
+
+2967,1999,Chronic lower respiratory diseases (J40-J47),CLRD,Colorado,1894,58.1
+
+3886,2016,Diabetes mellitus (E10-E14),Diabetes,Colorado,938,16.2
+
+3887,2015,Diabetes mellitus (E10-E14),Diabetes,Colorado,887,15.9
+
+3888,2014,Diabetes mellitus (E10-E14),Diabetes,Colorado,835,15.5
+
+3889,2013,Diabetes mellitus (E10-E14),Diabetes,Colorado,788,15
+
+3890,2012,Diabetes mellitus (E10-E14),Diabetes,Colorado,797,15.9
+
+3891,2011,Diabetes mellitus (E10-E14),Diabetes,Colorado,790,16.4
+
+3892,2010,Diabetes mellitus (E10-E14),Diabetes,Colorado,721,15.2
+
+3893,2009,Diabetes mellitus (E10-E14),Diabetes,Colorado,779,17.2
+
+3894,2008,Diabetes mellitus (E10-E14),Diabetes,Colorado,767,17.6
+
+3895,2007,Diabetes mellitus (E10-E14),Diabetes,Colorado,710,16.8
+
+3896,2006,Diabetes mellitus (E10-E14),Diabetes,Colorado,677,16.7
+
+3897,2005,Diabetes mellitus (E10-E14),Diabetes,Colorado,753,19.3
+
+3898,2004,Diabetes mellitus (E10-E14),Diabetes,Colorado,696,18.2
+
+3899,2003,Diabetes mellitus (E10-E14),Diabetes,Colorado,708,19.1
+
+3900,2002,Diabetes mellitus (E10-E14),Diabetes,Colorado,659,18
+
+3901,2001,Diabetes mellitus (E10-E14),Diabetes,Colorado,667,18.8
+
+3902,2000,Diabetes mellitus (E10-E14),Diabetes,Colorado,635,18.5
+
+3903,1999,Diabetes mellitus (E10-E14),Diabetes,Colorado,639,19.2
+
+4822,2016,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Colorado,7277,129.8
+
+4823,2015,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Colorado,7009,128.4
+
+4824,2014,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Colorado,6900,130.3
+
+4825,2013,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Colorado,6456,125.7
+
+4826,2012,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Colorado,6311,127.3
+
+4827,2011,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Colorado,6177,129.8
+
+4828,2010,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Colorado,6038,132.8
+
+4829,2009,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Colorado,6093,136.5
+
+4830,2008,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Colorado,6118,142.5
+
+4831,2007,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Colorado,6106,147
+
+4832,2006,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Colorado,6124,152.7
+
+4833,2005,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Colorado,6307,164.8
+
+4834,2004,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Colorado,6079,163.6
+
+4835,2003,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Colorado,6499,180.3
+
+4836,2002,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Colorado,6425,182.7
+
+4837,2001,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Colorado,6293,183.3
+
+4838,2000,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Colorado,6184,185.3
+
+4839,1999,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Colorado,6420,196.3
+
+5758,2016,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Colorado,533,9.6
+
+5759,2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Colorado,659,12.3
+
+5760,2014,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Colorado,701,13.3
+
+5761,2013,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Colorado,606,12
+
+5762,2012,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Colorado,525,11
+
+5763,2011,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Colorado,618,13.1
+
+5764,2010,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Colorado,550,12.3
+
+5765,2009,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Colorado,658,14.8
+
+5766,2008,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Colorado,678,15.9
+
+5767,2007,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Colorado,592,14.5
+
+5768,2006,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Colorado,614,15.6
+
+5769,2005,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Colorado,666,17.6
+
+5770,2004,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Colorado,637,17.5
+
+5771,2003,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Colorado,810,23
+
+5772,2002,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Colorado,752,21.9
+
+5773,2001,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Colorado,650,19.3
+
+5774,2000,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Colorado,607,18.6
+
+5775,1999,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Colorado,807,25.3
+
+6694,2016,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Colorado,491,8.9
+
+6695,2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Colorado,458,8.5
+
+6696,2014,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Colorado,448,8.5
+
+6697,2013,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Colorado,450,9
+
+6698,2012,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Colorado,428,8.9
+
+6699,2011,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Colorado,450,9.5
+
+6700,2010,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Colorado,426,9.6
+
+6701,2009,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Colorado,447,10.3
+
+6702,2008,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Colorado,483,11.5
+
+6703,2007,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Colorado,444,11
+
+6704,2006,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Colorado,472,12.1
+
+6705,2005,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Colorado,470,12.5
+
+6706,2004,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Colorado,406,11.1
+
+6707,2003,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Colorado,409,11.5
+
+6708,2002,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Colorado,417,11.9
+
+6709,2001,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Colorado,391,11.4
+
+6710,2000,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Colorado,357,10.8
+
+6711,1999,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Colorado,312,9.6
+
+7630,2016,Cerebrovascular diseases (I60-I69),Stroke,Colorado,1927,35.2
+
+7631,2015,Cerebrovascular diseases (I60-I69),Stroke,Colorado,1856,34.9
+
+7632,2014,Cerebrovascular diseases (I60-I69),Stroke,Colorado,1714,33.4
+
+7633,2013,Cerebrovascular diseases (I60-I69),Stroke,Colorado,1588,32
+
+7634,2012,Cerebrovascular diseases (I60-I69),Stroke,Colorado,1576,32.6
+
+7635,2011,Cerebrovascular diseases (I60-I69),Stroke,Colorado,1606,34.6
+
+7636,2010,Cerebrovascular diseases (I60-I69),Stroke,Colorado,1607,36.1
+
+7637,2009,Cerebrovascular diseases (I60-I69),Stroke,Colorado,1532,35.2
+
+7638,2008,Cerebrovascular diseases (I60-I69),Stroke,Colorado,1565,37.4
+
+7639,2007,Cerebrovascular diseases (I60-I69),Stroke,Colorado,1600,39.5
+
+7640,2006,Cerebrovascular diseases (I60-I69),Stroke,Colorado,1532,39.1
+
+7641,2005,Cerebrovascular diseases (I60-I69),Stroke,Colorado,1599,42.6
+
+7642,2004,Cerebrovascular diseases (I60-I69),Stroke,Colorado,1638,44.9
+
+7643,2003,Cerebrovascular diseases (I60-I69),Stroke,Colorado,1813,51.5
+
+7644,2002,Cerebrovascular diseases (I60-I69),Stroke,Colorado,1915,55.7
+
+7645,2001,Cerebrovascular diseases (I60-I69),Stroke,Colorado,1825,54.7
+
+7646,2000,Cerebrovascular diseases (I60-I69),Stroke,Colorado,1907,58.7
+
+7647,1999,Cerebrovascular diseases (I60-I69),Stroke,Colorado,1834,57.2
+
+8566,2016,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Colorado,1168,20.5
+
+8567,2015,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Colorado,1093,19.5
+
+8568,2014,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Colorado,1083,19.9
+
+8569,2013,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Colorado,1007,18.6
+
+8570,2012,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Colorado,1052,19.7
+
+8571,2011,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Colorado,913,17.5
+
+8572,2010,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Colorado,865,16.8
+
+8573,2009,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Colorado,941,18.7
+
+8574,2008,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Colorado,803,16.1
+
+8575,2007,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Colorado,811,16.6
+
+8576,2006,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Colorado,730,15.3
+
+8577,2005,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Colorado,800,17.2
+
+8578,2004,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Colorado,797,17.2
+
+8579,2003,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Colorado,728,16.1
+
+8580,2002,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Colorado,727,16.2
+
+8581,2001,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Colorado,722,16.5
+
+8582,2000,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Colorado,613,14.3
+
+8583,1999,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Colorado,574,13.7
+
+9497,2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Colorado,2725,49.7
+
+9498,2014,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Colorado,2517,47.1
+
+9499,2013,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Colorado,2422,46.4
+
+9500,2012,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Colorado,2403,47.1
+
+9501,2011,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Colorado,2330,46.5
+
+9502,2010,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Colorado,2106,43.5
+
+9503,2009,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Colorado,2144,44.5
+
+9504,2008,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Colorado,2172,46.3
+
+9505,2007,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Colorado,2056,44.8
+
+9506,2006,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Colorado,1917,42.5
+
+9507,2005,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Colorado,1947,44.1
+
+9508,2004,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Colorado,1810,42.1
+
+9509,2003,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Colorado,1806,42.4
+
+9510,2002,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Colorado,1812,43.1
+
+9511,2001,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Colorado,1720,41.6
+
+9512,2000,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Colorado,1702,42.6
+
+9513,1999,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Colorado,1519,39
+
+6,2016,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Colorado,2880,51.2
+
+142,2016,All Causes,All causes,Colorado,37530,669.5
+
+143,2015,All Causes,All causes,Colorado,36349,665
+
+144,2014,All Causes,All causes,Colorado,35237,664.4
+
+145,2013,All Causes,All causes,Colorado,33712,655.4
+
+146,2012,All Causes,All causes,Colorado,33133,665.6
+
+147,2011,All Causes,All causes,Colorado,32563,677.8
+
+148,2010,All Causes,All causes,Colorado,31465,682.7
+
+149,2009,All Causes,All causes,Colorado,31173,689.7
+
+150,2008,All Causes,All causes,Colorado,31274,715.8
+
+151,2007,All Causes,All causes,Colorado,29993,708
+
+152,2006,All Causes,All causes,Colorado,29521,720.9
+
+153,2005,All Causes,All causes,Colorado,29627,752.1
+
+154,2004,All Causes,All causes,Colorado,28309,738.5
+
+155,2003,All Causes,All causes,Colorado,29506,792
+
+156,2002,All Causes,All causes,Colorado,29210,804.4
+
+157,2001,All Causes,All causes,Colorado,28294,796.1
+
+158,2000,All Causes,All causes,Colorado,27288,792.1
+
+159,1999,All Causes,All causes,Colorado,27114,801.8
+
+1078,2016,Alzheimer's disease (G30),Alzheimer's disease,Colorado,1835,34.7
+
+1079,2015,Alzheimer's disease (G30),Alzheimer's disease,Colorado,1612,31.3
+
+1080,2014,Alzheimer's disease (G30),Alzheimer's disease,Colorado,1364,27.4
+
+1081,2013,Alzheimer's disease (G30),Alzheimer's disease,Colorado,1316,27.2
+
+1082,2012,Alzheimer's disease (G30),Alzheimer's disease,Colorado,1322,28.4
+
+1083,2011,Alzheimer's disease (G30),Alzheimer's disease,Colorado,1307,29
+
+1084,2010,Alzheimer's disease (G30),Alzheimer's disease,Colorado,1334,31.1
+
+1085,2009,Alzheimer's disease (G30),Alzheimer's disease,Colorado,1319,31.4
+
+1086,2008,Alzheimer's disease (G30),Alzheimer's disease,Colorado,1353,33.4
+
+1087,2007,Alzheimer's disease (G30),Alzheimer's disease,Colorado,1109,28.3
+
+1088,2006,Alzheimer's disease (G30),Alzheimer's disease,Colorado,1058,28.1
+
+1089,2005,Alzheimer's disease (G30),Alzheimer's disease,Colorado,1064,29.5
+
+1090,2004,Alzheimer's disease (G30),Alzheimer's disease,Colorado,912,26.1
+
+1091,2003,Alzheimer's disease (G30),Alzheimer's disease,Colorado,899,26.5
+
+1092,2002,Alzheimer's disease (G30),Alzheimer's disease,Colorado,954,29
+
+1093,2001,Alzheimer's disease (G30),Alzheimer's disease,Colorado,852,26.4
+
+1094,2000,Alzheimer's disease (G30),Alzheimer's disease,Colorado,712,22.6
+
+1095,1999,Alzheimer's disease (G30),Alzheimer's disease,Colorado,756,24.5
+
+2014,2016,Malignant neoplasms (C00-C97),Cancer,Colorado,7928,137.1
+
+2015,2015,Malignant neoplasms (C00-C97),Cancer,Colorado,7604,134.4
+
+2016,2014,Malignant neoplasms (C00-C97),Cancer,Colorado,7405,136
+
+2017,2013,Malignant neoplasms (C00-C97),Cancer,Colorado,7357,139.2
+
+2018,2012,Malignant neoplasms (C00-C97),Cancer,Colorado,7306,143.1
+
+2019,2011,Malignant neoplasms (C00-C97),Cancer,Colorado,7051,143.9
+
+2020,2010,Malignant neoplasms (C00-C97),Cancer,Colorado,7035,149.5
+
+2021,2009,Malignant neoplasms (C00-C97),Cancer,Colorado,6950,151.4
+
+2022,2008,Malignant neoplasms (C00-C97),Cancer,Colorado,6719,150.9
+
+2023,2007,Malignant neoplasms (C00-C97),Cancer,Colorado,6617,154.1
+
+2024,2006,Malignant neoplasms (C00-C97),Cancer,Colorado,6550,157.5
+
+2025,2005,Malignant neoplasms (C00-C97),Cancer,Colorado,6395,159.7
+
+2026,2004,Malignant neoplasms (C00-C97),Cancer,Colorado,6196,159.4
+
+2027,2003,Malignant neoplasms (C00-C97),Cancer,Colorado,6417,169.4
+
+2028,2002,Malignant neoplasms (C00-C97),Cancer,Colorado,6384,173.7
+
+2029,2001,Malignant neoplasms (C00-C97),Cancer,Colorado,6145,170.9
+
+2030,2000,Malignant neoplasms (C00-C97),Cancer,Colorado,5922,170
+
+2031,1999,Malignant neoplasms (C00-C97),Cancer,Colorado,5863,171.1
+
+2950,2016,Chronic lower respiratory diseases (J40-J47),CLRD,Colorado,2575,46.4
+
+2951,2015,Chronic lower respiratory diseases (J40-J47),CLRD,Colorado,2577,47.8
+
+2952,2014,Chronic lower respiratory diseases (J40-J47),CLRD,Colorado,2451,47.2
+
+2953,2013,Chronic lower respiratory diseases (J40-J47),CLRD,Colorado,2297,45.9
+
+2954,2012,Chronic lower respiratory diseases (J40-J47),CLRD,Colorado,2239,46.7
+
+2955,2011,Chronic lower respiratory diseases (J40-J47),CLRD,Colorado,2151,46.4
+
+2956,2010,Chronic lower respiratory diseases (J40-J47),CLRD,Colorado,2199,49.7
+
+2957,2009,Chronic lower respiratory diseases (J40-J47),CLRD,Colorado,2073,47.8
+
+2958,2008,Chronic lower respiratory diseases (J40-J47),CLRD,Colorado,2188,52.5
+
+2959,2007,Chronic lower respiratory diseases (J40-J47),CLRD,Colorado,2002,49.4
+
+2960,2006,Chronic lower respiratory diseases (J40-J47),CLRD,Colorado,1932,49.3
+
+2961,2005,Chronic lower respiratory diseases (J40-J47),CLRD,Colorado,1914,50.9
+
+2962,2004,Chronic lower respiratory diseases (J40-J47),CLRD,Colorado,1899,51.8
+
+2963,2003,Chronic lower respiratory diseases (J40-J47),CLRD,Colorado,1931,54
+
+2964,2002,Chronic lower respiratory diseases (J40-J47),CLRD,Colorado,1848,53
+
+2965,2001,Chronic lower respiratory diseases (J40-J47),CLRD,Colorado,1836,53.9
+
+2966,2000,Chronic lower respiratory diseases (J40-J47),CLRD,Colorado,1787,53.9
+
+2967,1999,Chronic lower respiratory diseases (J40-J47),CLRD,Colorado,1894,58.1
+
+3886,2016,Diabetes mellitus (E10-E14),Diabetes,Colorado,938,16.2
+
+3887,2015,Diabetes mellitus (E10-E14),Diabetes,Colorado,887,15.9
+
+3888,2014,Diabetes mellitus (E10-E14),Diabetes,Colorado,835,15.5
+
+3889,2013,Diabetes mellitus (E10-E14),Diabetes,Colorado,788,15
+
+3890,2012,Diabetes mellitus (E10-E14),Diabetes,Colorado,797,15.9
+
+3891,2011,Diabetes mellitus (E10-E14),Diabetes,Colorado,790,16.4
+
+3892,2010,Diabetes mellitus (E10-E14),Diabetes,Colorado,721,15.2
+
+3893,2009,Diabetes mellitus (E10-E14),Diabetes,Colorado,779,17.2
+
+3894,2008,Diabetes mellitus (E10-E14),Diabetes,Colorado,767,17.6
+
+3895,2007,Diabetes mellitus (E10-E14),Diabetes,Colorado,710,16.8
+
+3896,2006,Diabetes mellitus (E10-E14),Diabetes,Colorado,677,16.7
+
+3897,2005,Diabetes mellitus (E10-E14),Diabetes,Colorado,753,19.3
+
+3898,2004,Diabetes mellitus (E10-E14),Diabetes,Colorado,696,18.2
+
+3899,2003,Diabetes mellitus (E10-E14),Diabetes,Colorado,708,19.1
+
+3900,2002,Diabetes mellitus (E10-E14),Diabetes,Colorado,659,18
+
+3901,2001,Diabetes mellitus (E10-E14),Diabetes,Colorado,667,18.8
+
+3902,2000,Diabetes mellitus (E10-E14),Diabetes,Colorado,635,18.5
+
+3903,1999,Diabetes mellitus (E10-E14),Diabetes,Colorado,639,19.2
+
+4822,2016,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Colorado,7277,129.8
+
+4823,2015,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Colorado,7009,128.4
+
+4824,2014,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Colorado,6900,130.3
+
+4825,2013,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Colorado,6456,125.7
+
+4826,2012,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Colorado,6311,127.3
+
+4827,2011,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Colorado,6177,129.8
+
+4828,2010,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Colorado,6038,132.8
+
+4829,2009,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Colorado,6093,136.5
+
+4830,2008,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Colorado,6118,142.5
+
+4831,2007,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Colorado,6106,147
+
+4832,2006,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Colorado,6124,152.7
+
+4833,2005,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Colorado,6307,164.8
+
+4834,2004,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Colorado,6079,163.6
+
+4835,2003,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Colorado,6499,180.3
+
+4836,2002,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Colorado,6425,182.7
+
+4837,2001,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Colorado,6293,183.3
+
+4838,2000,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Colorado,6184,185.3
+
+4839,1999,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Colorado,6420,196.3
+
+5758,2016,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Colorado,533,9.6
+
+5759,2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Colorado,659,12.3
+
+5760,2014,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Colorado,701,13.3
+
+5761,2013,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Colorado,606,12
+
+5762,2012,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Colorado,525,11
+
+5763,2011,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Colorado,618,13.1
+
+5764,2010,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Colorado,550,12.3
+
+5765,2009,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Colorado,658,14.8
+
+5766,2008,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Colorado,678,15.9
+
+5767,2007,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Colorado,592,14.5
+
+5768,2006,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Colorado,614,15.6
+
+5769,2005,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Colorado,666,17.6
+
+5770,2004,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Colorado,637,17.5
+
+5771,2003,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Colorado,810,23
+
+5772,2002,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Colorado,752,21.9
+
+5773,2001,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Colorado,650,19.3
+
+5774,2000,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Colorado,607,18.6
+
+5775,1999,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Colorado,807,25.3
+
+6694,2016,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Colorado,491,8.9
+
+6695,2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Colorado,458,8.5
+
+6696,2014,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Colorado,448,8.5
+
+6697,2013,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Colorado,450,9
+
+6698,2012,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Colorado,428,8.9
+
+6699,2011,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Colorado,450,9.5
+
+6700,2010,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Colorado,426,9.6
+
+6701,2009,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Colorado,447,10.3
+
+6702,2008,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Colorado,483,11.5
+
+6703,2007,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Colorado,444,11
+
+6704,2006,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Colorado,472,12.1
+
+6705,2005,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Colorado,470,12.5
+
+6706,2004,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Colorado,406,11.1
+
+6707,2003,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Colorado,409,11.5
+
+6708,2002,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Colorado,417,11.9
+
+6709,2001,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Colorado,391,11.4
+
+6710,2000,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Colorado,357,10.8
+
+6711,1999,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Colorado,312,9.6
+
+7630,2016,Cerebrovascular diseases (I60-I69),Stroke,Colorado,1927,35.2
+
+7631,2015,Cerebrovascular diseases (I60-I69),Stroke,Colorado,1856,34.9
+
+7632,2014,Cerebrovascular diseases (I60-I69),Stroke,Colorado,1714,33.4
+
+7633,2013,Cerebrovascular diseases (I60-I69),Stroke,Colorado,1588,32
+
+7634,2012,Cerebrovascular diseases (I60-I69),Stroke,Colorado,1576,32.6
+
+7635,2011,Cerebrovascular diseases (I60-I69),Stroke,Colorado,1606,34.6
+
+7636,2010,Cerebrovascular diseases (I60-I69),Stroke,Colorado,1607,36.1
+
+7637,2009,Cerebrovascular diseases (I60-I69),Stroke,Colorado,1532,35.2
+
+7638,2008,Cerebrovascular diseases (I60-I69),Stroke,Colorado,1565,37.4
+
+7639,2007,Cerebrovascular diseases (I60-I69),Stroke,Colorado,1600,39.5
+
+7640,2006,Cerebrovascular diseases (I60-I69),Stroke,Colorado,1532,39.1
+
+7641,2005,Cerebrovascular diseases (I60-I69),Stroke,Colorado,1599,42.6
+
+7642,2004,Cerebrovascular diseases (I60-I69),Stroke,Colorado,1638,44.9
+
+7643,2003,Cerebrovascular diseases (I60-I69),Stroke,Colorado,1813,51.5
+
+7644,2002,Cerebrovascular diseases (I60-I69),Stroke,Colorado,1915,55.7
+
+7645,2001,Cerebrovascular diseases (I60-I69),Stroke,Colorado,1825,54.7
+
+7646,2000,Cerebrovascular diseases (I60-I69),Stroke,Colorado,1907,58.7
+
+7647,1999,Cerebrovascular diseases (I60-I69),Stroke,Colorado,1834,57.2
+
+8566,2016,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Colorado,1168,20.5
+
+8567,2015,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Colorado,1093,19.5
+
+8568,2014,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Colorado,1083,19.9
+
+8569,2013,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Colorado,1007,18.6
+
+8570,2012,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Colorado,1052,19.7
+
+8571,2011,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Colorado,913,17.5
+
+8572,2010,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Colorado,865,16.8
+
+8573,2009,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Colorado,941,18.7
+
+8574,2008,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Colorado,803,16.1
+
+8575,2007,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Colorado,811,16.6
+
+8576,2006,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Colorado,730,15.3
+
+8577,2005,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Colorado,800,17.2
+
+8578,2004,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Colorado,797,17.2
+
+8579,2003,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Colorado,728,16.1
+
+8580,2002,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Colorado,727,16.2
+
+8581,2001,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Colorado,722,16.5
+
+8582,2000,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Colorado,613,14.3
+
+8583,1999,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Colorado,574,13.7
+
+9497,2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Colorado,2725,49.7
+
+9498,2014,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Colorado,2517,47.1
+
+9499,2013,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Colorado,2422,46.4
+
+9500,2012,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Colorado,2403,47.1
+
+9501,2011,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Colorado,2330,46.5
+
+9502,2010,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Colorado,2106,43.5
+
+9503,2009,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Colorado,2144,44.5
+
+9504,2008,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Colorado,2172,46.3
+
+9505,2007,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Colorado,2056,44.8
+
+9506,2006,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Colorado,1917,42.5
+
+9507,2005,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Colorado,1947,44.1
+
+9508,2004,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Colorado,1810,42.1
+
+9509,2003,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Colorado,1806,42.4
+
+9510,2002,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Colorado,1812,43.1
+
+9511,2001,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Colorado,1720,41.6
+
+9512,2000,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Colorado,1702,42.6
+
+9513,1999,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Colorado,1519,39
+
+6,2016,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Colorado,2880,51.2
+
+142,2016,All Causes,All causes,Colorado,37530,669.5
+
+143,2015,All Causes,All causes,Colorado,36349,665
+
+144,2014,All Causes,All causes,Colorado,35237,664.4
+
+145,2013,All Causes,All causes,Colorado,33712,655.4
+
+146,2012,All Causes,All causes,Colorado,33133,665.6
+
+147,2011,All Causes,All causes,Colorado,32563,677.8
+
+148,2010,All Causes,All causes,Colorado,31465,682.7
+
+149,2009,All Causes,All causes,Colorado,31173,689.7
+
+150,2008,All Causes,All causes,Colorado,31274,715.8
+
+151,2007,All Causes,All causes,Colorado,29993,708
+
+152,2006,All Causes,All causes,Colorado,29521,720.9
+
+153,2005,All Causes,All causes,Colorado,29627,752.1
+
+154,2004,All Causes,All causes,Colorado,28309,738.5
+
+155,2003,All Causes,All causes,Colorado,29506,792
+
+156,2002,All Causes,All causes,Colorado,29210,804.4
+
+157,2001,All Causes,All causes,Colorado,28294,796.1
+
+158,2000,All Causes,All causes,Colorado,27288,792.1
+
+159,1999,All Causes,All causes,Colorado,27114,801.8
+
+1078,2016,Alzheimer's disease (G30),Alzheimer's disease,Colorado,1835,34.7
+
+1079,2015,Alzheimer's disease (G30),Alzheimer's disease,Colorado,1612,31.3
+
+1080,2014,Alzheimer's disease (G30),Alzheimer's disease,Colorado,1364,27.4
+
+1081,2013,Alzheimer's disease (G30),Alzheimer's disease,Colorado,1316,27.2
+
+1082,2012,Alzheimer's disease (G30),Alzheimer's disease,Colorado,1322,28.4
+
+1083,2011,Alzheimer's disease (G30),Alzheimer's disease,Colorado,1307,29
+
+1084,2010,Alzheimer's disease (G30),Alzheimer's disease,Colorado,1334,31.1
+
+1085,2009,Alzheimer's disease (G30),Alzheimer's disease,Colorado,1319,31.4
+
+1086,2008,Alzheimer's disease (G30),Alzheimer's disease,Colorado,1353,33.4
+
+1087,2007,Alzheimer's disease (G30),Alzheimer's disease,Colorado,1109,28.3
+
+1088,2006,Alzheimer's disease (G30),Alzheimer's disease,Colorado,1058,28.1
+
+1089,2005,Alzheimer's disease (G30),Alzheimer's disease,Colorado,1064,29.5
+
+1090,2004,Alzheimer's disease (G30),Alzheimer's disease,Colorado,912,26.1
+
+1091,2003,Alzheimer's disease (G30),Alzheimer's disease,Colorado,899,26.5
+
+1092,2002,Alzheimer's disease (G30),Alzheimer's disease,Colorado,954,29
+
+1093,2001,Alzheimer's disease (G30),Alzheimer's disease,Colorado,852,26.4
+
+1094,2000,Alzheimer's disease (G30),Alzheimer's disease,Colorado,712,22.6
+
+1095,1999,Alzheimer's disease (G30),Alzheimer's disease,Colorado,756,24.5
+
+2014,2016,Malignant neoplasms (C00-C97),Cancer,Colorado,7928,137.1
+
+2015,2015,Malignant neoplasms (C00-C97),Cancer,Colorado,7604,134.4
+
+2016,2014,Malignant neoplasms (C00-C97),Cancer,Colorado,7405,136
+
+2017,2013,Malignant neoplasms (C00-C97),Cancer,Colorado,7357,139.2
+
+2018,2012,Malignant neoplasms (C00-C97),Cancer,Colorado,7306,143.1
+
+2019,2011,Malignant neoplasms (C00-C97),Cancer,Colorado,7051,143.9
+
+2020,2010,Malignant neoplasms (C00-C97),Cancer,Colorado,7035,149.5
+
+2021,2009,Malignant neoplasms (C00-C97),Cancer,Colorado,6950,151.4
+
+2022,2008,Malignant neoplasms (C00-C97),Cancer,Colorado,6719,150.9
+
+2023,2007,Malignant neoplasms (C00-C97),Cancer,Colorado,6617,154.1
+
+2024,2006,Malignant neoplasms (C00-C97),Cancer,Colorado,6550,157.5
+
+2025,2005,Malignant neoplasms (C00-C97),Cancer,Colorado,6395,159.7
+
+2026,2004,Malignant neoplasms (C00-C97),Cancer,Colorado,6196,159.4
+
+2027,2003,Malignant neoplasms (C00-C97),Cancer,Colorado,6417,169.4
+
+2028,2002,Malignant neoplasms (C00-C97),Cancer,Colorado,6384,173.7
+
+2029,2001,Malignant neoplasms (C00-C97),Cancer,Colorado,6145,170.9
+
+2030,2000,Malignant neoplasms (C00-C97),Cancer,Colorado,5922,170
+
+2031,1999,Malignant neoplasms (C00-C97),Cancer,Colorado,5863,171.1
+
+2950,2016,Chronic lower respiratory diseases (J40-J47),CLRD,Colorado,2575,46.4
+
+2951,2015,Chronic lower respiratory diseases (J40-J47),CLRD,Colorado,2577,47.8
+
+2952,2014,Chronic lower respiratory diseases (J40-J47),CLRD,Colorado,2451,47.2
+
+2953,2013,Chronic lower respiratory diseases (J40-J47),CLRD,Colorado,2297,45.9
+
+2954,2012,Chronic lower respiratory diseases (J40-J47),CLRD,Colorado,2239,46.7
+
+2955,2011,Chronic lower respiratory diseases (J40-J47),CLRD,Colorado,2151,46.4
+
+2956,2010,Chronic lower respiratory diseases (J40-J47),CLRD,Colorado,2199,49.7
+
+2957,2009,Chronic lower respiratory diseases (J40-J47),CLRD,Colorado,2073,47.8
+
+2958,2008,Chronic lower respiratory diseases (J40-J47),CLRD,Colorado,2188,52.5
+
+2959,2007,Chronic lower respiratory diseases (J40-J47),CLRD,Colorado,2002,49.4
+
+2960,2006,Chronic lower respiratory diseases (J40-J47),CLRD,Colorado,1932,49.3
+
+2961,2005,Chronic lower respiratory diseases (J40-J47),CLRD,Colorado,1914,50.9
+
+2962,2004,Chronic lower respiratory diseases (J40-J47),CLRD,Colorado,1899,51.8
+
+2963,2003,Chronic lower respiratory diseases (J40-J47),CLRD,Colorado,1931,54
+
+2964,2002,Chronic lower respiratory diseases (J40-J47),CLRD,Colorado,1848,53
+
+2965,2001,Chronic lower respiratory diseases (J40-J47),CLRD,Colorado,1836,53.9
+
+2966,2000,Chronic lower respiratory diseases (J40-J47),CLRD,Colorado,1787,53.9
+
+2967,1999,Chronic lower respiratory diseases (J40-J47),CLRD,Colorado,1894,58.1
+
+3886,2016,Diabetes mellitus (E10-E14),Diabetes,Colorado,938,16.2
+
+3887,2015,Diabetes mellitus (E10-E14),Diabetes,Colorado,887,15.9
+
+3888,2014,Diabetes mellitus (E10-E14),Diabetes,Colorado,835,15.5
+
+3889,2013,Diabetes mellitus (E10-E14),Diabetes,Colorado,788,15
+
+3890,2012,Diabetes mellitus (E10-E14),Diabetes,Colorado,797,15.9
+
+3891,2011,Diabetes mellitus (E10-E14),Diabetes,Colorado,790,16.4
+
+3892,2010,Diabetes mellitus (E10-E14),Diabetes,Colorado,721,15.2
+
+3893,2009,Diabetes mellitus (E10-E14),Diabetes,Colorado,779,17.2
+
+3894,2008,Diabetes mellitus (E10-E14),Diabetes,Colorado,767,17.6
+
+3895,2007,Diabetes mellitus (E10-E14),Diabetes,Colorado,710,16.8
+
+3896,2006,Diabetes mellitus (E10-E14),Diabetes,Colorado,677,16.7
+
+3897,2005,Diabetes mellitus (E10-E14),Diabetes,Colorado,753,19.3
+
+3898,2004,Diabetes mellitus (E10-E14),Diabetes,Colorado,696,18.2
+
+3899,2003,Diabetes mellitus (E10-E14),Diabetes,Colorado,708,19.1
+
+3900,2002,Diabetes mellitus (E10-E14),Diabetes,Colorado,659,18
+
+3901,2001,Diabetes mellitus (E10-E14),Diabetes,Colorado,667,18.8
+
+3902,2000,Diabetes mellitus (E10-E14),Diabetes,Colorado,635,18.5
+
+3903,1999,Diabetes mellitus (E10-E14),Diabetes,Colorado,639,19.2
+
+4822,2016,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Colorado,7277,129.8
+
+4823,2015,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Colorado,7009,128.4
+
+4824,2014,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Colorado,6900,130.3
+
+4825,2013,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Colorado,6456,125.7
+
+4826,2012,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Colorado,6311,127.3
+
+4827,2011,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Colorado,6177,129.8
+
+4828,2010,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Colorado,6038,132.8
+
+4829,2009,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Colorado,6093,136.5
+
+4830,2008,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Colorado,6118,142.5
+
+4831,2007,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Colorado,6106,147
+
+4832,2006,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Colorado,6124,152.7
+
+4833,2005,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Colorado,6307,164.8
+
+4834,2004,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Colorado,6079,163.6
+
+4835,2003,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Colorado,6499,180.3
+
+4836,2002,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Colorado,6425,182.7
+
+4837,2001,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Colorado,6293,183.3
+
+4838,2000,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Colorado,6184,185.3
+
+4839,1999,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Colorado,6420,196.3
+
+5758,2016,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Colorado,533,9.6
+
+5759,2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Colorado,659,12.3
+
+5760,2014,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Colorado,701,13.3
+
+5761,2013,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Colorado,606,12
+
+5762,2012,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Colorado,525,11
+
+5763,2011,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Colorado,618,13.1
+
+5764,2010,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Colorado,550,12.3
+
+5765,2009,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Colorado,658,14.8
+
+5766,2008,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Colorado,678,15.9
+
+5767,2007,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Colorado,592,14.5
+
+5768,2006,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Colorado,614,15.6
+
+5769,2005,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Colorado,666,17.6
+
+5770,2004,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Colorado,637,17.5
+
+5771,2003,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Colorado,810,23
+
+5772,2002,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Colorado,752,21.9
+
+5773,2001,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Colorado,650,19.3
+
+5774,2000,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Colorado,607,18.6
+
+5775,1999,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Colorado,807,25.3
+
+6694,2016,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Colorado,491,8.9
+
+6695,2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Colorado,458,8.5
+
+6696,2014,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Colorado,448,8.5
+
+6697,2013,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Colorado,450,9
+
+6698,2012,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Colorado,428,8.9
+
+6699,2011,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Colorado,450,9.5
+
+6700,2010,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Colorado,426,9.6
+
+6701,2009,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Colorado,447,10.3
+
+6702,2008,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Colorado,483,11.5
+
+6703,2007,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Colorado,444,11
+
+6704,2006,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Colorado,472,12.1
+
+6705,2005,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Colorado,470,12.5
+
+6706,2004,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Colorado,406,11.1
+
+6707,2003,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Colorado,409,11.5
+
+6708,2002,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Colorado,417,11.9
+
+6709,2001,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Colorado,391,11.4
+
+6710,2000,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Colorado,357,10.8
+
+6711,1999,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Colorado,312,9.6
+
+7630,2016,Cerebrovascular diseases (I60-I69),Stroke,Colorado,1927,35.2
+
+7631,2015,Cerebrovascular diseases (I60-I69),Stroke,Colorado,1856,34.9
+
+7632,2014,Cerebrovascular diseases (I60-I69),Stroke,Colorado,1714,33.4
+
+7633,2013,Cerebrovascular diseases (I60-I69),Stroke,Colorado,1588,32
+
+7634,2012,Cerebrovascular diseases (I60-I69),Stroke,Colorado,1576,32.6
+
+7635,2011,Cerebrovascular diseases (I60-I69),Stroke,Colorado,1606,34.6
+
+7636,2010,Cerebrovascular diseases (I60-I69),Stroke,Colorado,1607,36.1
+
+7637,2009,Cerebrovascular diseases (I60-I69),Stroke,Colorado,1532,35.2
+
+7638,2008,Cerebrovascular diseases (I60-I69),Stroke,Colorado,1565,37.4
+
+7639,2007,Cerebrovascular diseases (I60-I69),Stroke,Colorado,1600,39.5
+
+7640,2006,Cerebrovascular diseases (I60-I69),Stroke,Colorado,1532,39.1
+
+7641,2005,Cerebrovascular diseases (I60-I69),Stroke,Colorado,1599,42.6
+
+7642,2004,Cerebrovascular diseases (I60-I69),Stroke,Colorado,1638,44.9
+
+7643,2003,Cerebrovascular diseases (I60-I69),Stroke,Colorado,1813,51.5
+
+7644,2002,Cerebrovascular diseases (I60-I69),Stroke,Colorado,1915,55.7
+
+7645,2001,Cerebrovascular diseases (I60-I69),Stroke,Colorado,1825,54.7
+
+7646,2000,Cerebrovascular diseases (I60-I69),Stroke,Colorado,1907,58.7
+
+7647,1999,Cerebrovascular diseases (I60-I69),Stroke,Colorado,1834,57.2
+
+8566,2016,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Colorado,1168,20.5
+
+8567,2015,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Colorado,1093,19.5
+
+8568,2014,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Colorado,1083,19.9
+
+8569,2013,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Colorado,1007,18.6
+
+8570,2012,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Colorado,1052,19.7
+
+8571,2011,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Colorado,913,17.5
+
+8572,2010,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Colorado,865,16.8
+
+8573,2009,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Colorado,941,18.7
+
+8574,2008,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Colorado,803,16.1
+
+8575,2007,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Colorado,811,16.6
+
+8576,2006,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Colorado,730,15.3
+
+8577,2005,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Colorado,800,17.2
+
+8578,2004,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Colorado,797,17.2
+
+8579,2003,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Colorado,728,16.1
+
+8580,2002,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Colorado,727,16.2
+
+8581,2001,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Colorado,722,16.5
+
+8582,2000,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Colorado,613,14.3
+
+8583,1999,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Colorado,574,13.7
+
+9497,2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Colorado,2725,49.7
+
+9498,2014,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Colorado,2517,47.1
+
+9499,2013,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Colorado,2422,46.4
+
+9500,2012,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Colorado,2403,47.1
+
+9501,2011,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Colorado,2330,46.5
+
+9502,2010,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Colorado,2106,43.5
+
+9503,2009,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Colorado,2144,44.5
+
+9504,2008,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Colorado,2172,46.3
+
+9505,2007,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Colorado,2056,44.8
+
+9506,2006,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Colorado,1917,42.5
+
+9507,2005,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Colorado,1947,44.1
+
+9508,2004,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Colorado,1810,42.1
+
+9509,2003,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Colorado,1806,42.4
+
+9510,2002,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Colorado,1812,43.1
+
+9511,2001,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Colorado,1720,41.6
+
+9512,2000,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Colorado,1702,42.6
+
+9513,1999,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Colorado,1519,39
+

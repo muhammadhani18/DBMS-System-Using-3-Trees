@@ -1,0 +1,6 @@
+3132,2014,Chronic lower respiratory diseases (J40-J47),CLRD,Iowa,1915,47.7
+
+3530,2012,Chronic lower respiratory diseases (J40-J47),CLRD,Oregon,1915,42.2
+
+7644,2002,Cerebrovascular diseases (I60-I69),Stroke,Colorado,1915,55.7
+

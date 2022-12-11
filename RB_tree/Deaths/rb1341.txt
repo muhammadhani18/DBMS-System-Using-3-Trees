@@ -1,0 +1,6 @@
+3813,1999,Diabetes mellitus (E10-E14),Diabetes,Alabama,1341,30
+
+9117,2005,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Ohio,1341,11.5
+
+9174,2002,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Pennsylvania,1341,10.7
+

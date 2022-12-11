@@ -1,0 +1,4 @@
+4569,1999,Diabetes mellitus (E10-E14),Diabetes,Tennessee,1436,26.1
+
+7979,2009,Cerebrovascular diseases (I60-I69),Stroke,Mississippi,1436,48.8
+

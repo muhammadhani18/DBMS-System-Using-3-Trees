@@ -1,0 +1,12 @@
+3152,2012,Chronic lower respiratory diseases (J40-J47),CLRD,Kansas,1687,51.8
+
+3194,2006,Chronic lower respiratory diseases (J40-J47),CLRD,Louisiana,1687,40.8
+
+4137,1999,Diabetes mellitus (E10-E14),Diabetes,Louisiana,1687,41.8
+
+4558,2010,Diabetes mellitus (E10-E14),Diabetes,Tennessee,1687,24.7
+
+5861,2003,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Georgia,1687,26.3
+
+9055,2013,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,New York,1687,8.1
+

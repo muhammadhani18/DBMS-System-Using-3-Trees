@@ -1,0 +1,12 @@
+1646,2006,Alzheimer's disease (G30),Alzheimer's disease,Oklahoma,928,25.2
+
+3202,2016,Chronic lower respiratory diseases (J40-J47),CLRD,Maine,928,47.4
+
+6043,2001,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Maryland,928,19.5
+
+1646,2006,Alzheimer's disease (G30),Alzheimer's disease,Oklahoma,928,25.2
+
+3202,2016,Chronic lower respiratory diseases (J40-J47),CLRD,Maine,928,47.4
+
+6043,2001,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Maryland,928,19.5
+

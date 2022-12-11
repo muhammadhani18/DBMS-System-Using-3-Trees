@@ -1,0 +1,4 @@
+3284,2006,Chronic lower respiratory diseases (J40-J47),CLRD,Minnesota,1770,33.2
+
+6061,2001,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Massachusetts,1770,24.4
+

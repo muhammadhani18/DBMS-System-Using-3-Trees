@@ -1,0 +1,12 @@
+3857,2009,Diabetes mellitus (E10-E14),Diabetes,Arkansas,890,27.4
+
+5792,2000,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Connecticut,890,22.5
+
+5950,2004,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Iowa,890,22.7
+
+3857,2009,Diabetes mellitus (E10-E14),Diabetes,Arkansas,890,27.4
+
+5792,2000,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Connecticut,890,22.5
+
+5950,2004,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Iowa,890,22.7
+

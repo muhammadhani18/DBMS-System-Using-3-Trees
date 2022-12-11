@@ -1,0 +1,6 @@
+2758,2010,Malignant neoplasms (C00-C97),Cancer,Vermont,1392,183.3
+
+6858,2014,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Indiana,1392,18.7
+
+9517,2012,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Connecticut,1392,34.7
+

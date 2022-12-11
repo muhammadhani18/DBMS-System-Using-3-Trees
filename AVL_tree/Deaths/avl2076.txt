@@ -1,0 +1,4 @@
+6079,2001,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Michigan,2076,21.5
+
+9775,2009,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Massachusetts,2076,29.3
+

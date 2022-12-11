@@ -1,0 +1,22 @@
+1460,2012,Alzheimer's disease (G30),Alzheimer's disease,Montana,265,20.8
+
+3072,2002,Chronic lower respiratory diseases (J40-J47),CLRD,Hawaii,265,20
+
+3481,2007,Chronic lower respiratory diseases (J40-J47),CLRD,North Dakota,265,32.7
+
+4513,2001,Diabetes mellitus (E10-E14),Diabetes,Rhode Island,265,21.9
+
+5898,2002,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Idaho,265,21.7
+
+6959,2003,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Maine,265,17.4
+
+7092,2014,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Nebraska,265,11.5
+
+7699,2001,Cerebrovascular diseases (I60-I69),Stroke,District of Columbia,265,47.1
+
+8374,2010,Cerebrovascular diseases (I60-I69),Stroke,Vermont,265,35.3
+
+8475,1999,Cerebrovascular diseases (I60-I69),Stroke,Wyoming,265,60.7
+
+9548,2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,District of Columbia,265,40.2
+

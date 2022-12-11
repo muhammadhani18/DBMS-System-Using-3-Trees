@@ -1,0 +1,8 @@
+1898,2006,Alzheimer's disease (G30),Alzheimer's disease,Wisconsin,1596,24.4
+
+5859,2005,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Georgia,1596,23.5
+
+1898,2006,Alzheimer's disease (G30),Alzheimer's disease,Wisconsin,1596,24.4
+
+5859,2005,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Georgia,1596,23.5
+

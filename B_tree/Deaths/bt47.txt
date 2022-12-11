@@ -1,0 +1,8 @@
+1022,2000,Alzheimer's disease (G30),Alzheimer's disease,Alaska,47,21.5
+
+6629,2009,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Alaska,47,12.7
+
+1022,2000,Alzheimer's disease (G30),Alzheimer's disease,Alaska,47,21.5
+
+6629,2009,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Alaska,47,12.7
+

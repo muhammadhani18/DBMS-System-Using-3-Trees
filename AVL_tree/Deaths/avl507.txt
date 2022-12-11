@@ -1,0 +1,10 @@
+3568,2010,Chronic lower respiratory diseases (J40-J47),CLRD,Rhode Island,507,38.5
+
+5866,2016,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Hawaii,507,24.4
+
+6341,2009,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Oregon,507,11.7
+
+8167,2001,Cerebrovascular diseases (I60-I69),Stroke,North Dakota,507,60.8
+
+8844,2008,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Maryland,507,8.7
+

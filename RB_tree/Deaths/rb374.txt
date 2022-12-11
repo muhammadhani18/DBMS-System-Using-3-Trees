@@ -1,0 +1,12 @@
+6243,1999,Influenza and pneumonia (J09-J18),Influenza and pneumonia,New Mexico,374,24.2
+
+6643,2013,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arizona,374,4.9
+
+7675,2007,Cerebrovascular diseases (I60-I69),Stroke,Delaware,374,40.4
+
+8543,2003,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arkansas,374,13.6
+
+9534,2012,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Delaware,374,38.8
+
+9919,2001,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,New Hampshire,374,30.3
+

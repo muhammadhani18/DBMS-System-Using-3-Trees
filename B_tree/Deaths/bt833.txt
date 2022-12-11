@@ -1,0 +1,12 @@
+3854,2012,Diabetes mellitus (E10-E14),Diabetes,Arkansas,833,24.6
+
+6002,2006,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Louisiana,833,20.6
+
+7898,2000,Cerebrovascular diseases (I60-I69),Stroke,Maine,833,57
+
+3854,2012,Diabetes mellitus (E10-E14),Diabetes,Arkansas,833,24.6
+
+6002,2006,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Louisiana,833,20.6
+
+7898,2000,Cerebrovascular diseases (I60-I69),Stroke,Maine,833,57
+

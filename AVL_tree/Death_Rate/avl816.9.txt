@@ -1,0 +1,6 @@
+503,2015,All Causes,All causes,Missouri,59871,816.9
+
+731,2003,All Causes,All causes,Oregon,30912,816.9
+
+769,2001,All Causes,All causes,Rhode Island,10021,816.9
+

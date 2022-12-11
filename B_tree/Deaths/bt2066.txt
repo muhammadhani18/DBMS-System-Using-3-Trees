@@ -1,0 +1,16 @@
+1034,2006,Alzheimer's disease (G30),Alzheimer's disease,Arizona,2066,35.8
+
+2394,2014,Malignant neoplasms (C00-C97),Cancer,Montana,2066,156.3
+
+7240,2010,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Ohio,2066,15.4
+
+9811,2007,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Minnesota,2066,37.5
+
+1034,2006,Alzheimer's disease (G30),Alzheimer's disease,Arizona,2066,35.8
+
+2394,2014,Malignant neoplasms (C00-C97),Cancer,Montana,2066,156.3
+
+7240,2010,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Ohio,2066,15.4
+
+9811,2007,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Minnesota,2066,37.5
+

@@ -1,0 +1,6 @@
+4540,2010,Diabetes mellitus (E10-E14),Diabetes,South Dakota,240,24.5
+
+6420,2002,Influenza and pneumonia (J09-J18),Influenza and pneumonia,South Dakota,240,25.4
+
+10208,2002,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Vermont,240,37.8
+

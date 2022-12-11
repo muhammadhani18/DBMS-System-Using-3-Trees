@@ -1,0 +1,10 @@
+2874,2002,Chronic lower respiratory diseases (J40-J47),CLRD,Alabama,2328,50.7
+
+3305,2003,Chronic lower respiratory diseases (J40-J47),CLRD,Mississippi,1394,50.7
+
+3331,2013,Chronic lower respiratory diseases (J40-J47),CLRD,Montana,647,50.7
+
+3606,2008,Chronic lower respiratory diseases (J40-J47),CLRD,South Dakota,491,50.7
+
+3628,2004,Chronic lower respiratory diseases (J40-J47),CLRD,Tennessee,2987,50.7
+

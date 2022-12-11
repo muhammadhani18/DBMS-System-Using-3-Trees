@@ -1,0 +1,12 @@
+996,2008,Alzheimer's disease (G30),Alzheimer's disease,Alabama,1518,32.1
+
+1296,2014,Alzheimer's disease (G30),Alzheimer's disease,Kentucky,1523,32.1
+
+1427,2009,Alzheimer's disease (G30),Alzheimer's disease,Mississippi,900,32.1
+
+1735,2007,Alzheimer's disease (G30),Alzheimer's disease,South Dakota,346,32.1
+
+2973,2011,Chronic lower respiratory diseases (J40-J47),CLRD,Connecticut,1415,32.1
+
+9489,2006,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,California,11375,32.1
+

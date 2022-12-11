@@ -1,0 +1,30 @@
+3200,2000,Chronic lower respiratory diseases (J40-J47),CLRD,Louisiana,1684,41.7
+
+3388,2010,Chronic lower respiratory diseases (J40-J47),CLRD,New Hampshire,609,41.7
+
+3613,2001,Chronic lower respiratory diseases (J40-J47),CLRD,South Dakota,362,41.7
+
+7794,2014,Cerebrovascular diseases (I60-I69),Stroke,Indiana,3107,41.7
+
+7849,2013,Cerebrovascular diseases (I60-I69),Stroke,Kentucky,1990,41.7
+
+8018,2006,Cerebrovascular diseases (I60-I69),Stroke,Montana,461,41.7
+
+8391,2011,Cerebrovascular diseases (I60-I69),Stroke,Virginia,3347,41.7
+
+8422,2016,Cerebrovascular diseases (I60-I69),Stroke,West Virginia,1039,41.7
+
+9693,2006,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Kansas,1198,41.7
+
+9745,2005,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Maine,579,41.7
+
+9787,2014,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Michigan,4422,41.7
+
+9884,2002,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Nebraska,762,41.7
+
+9901,2002,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Nevada,860,41.7
+
+9992,2013,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,North Dakota,326,41.7
+
+10048,2008,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Oregon,1674,41.7
+

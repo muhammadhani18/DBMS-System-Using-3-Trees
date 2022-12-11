@@ -1,0 +1,4 @@
+9795,2006,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Michigan,3590,35.2
+
+9795,2006,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Michigan,3590,35.2
+

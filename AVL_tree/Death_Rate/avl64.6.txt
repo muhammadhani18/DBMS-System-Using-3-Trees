@@ -1,0 +1,8 @@
+3169,2013,Chronic lower respiratory diseases (J40-J47),CLRD,Kentucky,3187,64.6
+
+3743,2015,Chronic lower respiratory diseases (J40-J47),CLRD,West Virginia,1628,64.6
+
+3745,2013,Chronic lower respiratory diseases (J40-J47),CLRD,West Virginia,1590,64.6
+
+8308,2004,Cerebrovascular diseases (I60-I69),Stroke,Tennessee,3680,64.6
+

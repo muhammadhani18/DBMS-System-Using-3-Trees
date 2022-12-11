@@ -1,0 +1,4 @@
+2517,1999,Malignant neoplasms (C00-C97),Cancer,New York,37609,196.6
+
+2517,1999,Malignant neoplasms (C00-C97),Cancer,New York,37609,196.6
+

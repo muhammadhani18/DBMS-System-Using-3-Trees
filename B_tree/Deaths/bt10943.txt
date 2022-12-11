@@ -1,0 +1,8 @@
+2835,2005,Malignant neoplasms (C00-C97),Cancer,Wisconsin,10943,182.8
+
+5056,2016,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Louisiana,10943,213.1
+
+2835,2005,Malignant neoplasms (C00-C97),Cancer,Wisconsin,10943,182.8
+
+5056,2016,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Louisiana,10943,213.1
+

@@ -1,0 +1,4 @@
+1301,2009,Alzheimer's disease (G30),Alzheimer's disease,Kentucky,1345,31.3
+
+3758,2000,Chronic lower respiratory diseases (J40-J47),CLRD,West Virginia,1345,62.9
+

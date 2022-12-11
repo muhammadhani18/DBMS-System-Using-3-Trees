@@ -1,0 +1,8 @@
+7188,2008,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,New York,2394,11.1
+
+8268,2008,Cerebrovascular diseases (I60-I69),Stroke,South Carolina,2394,52.6
+
+9417,2010,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Alabama,2394,49.6
+
+9707,2009,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Kentucky,2394,55.1
+

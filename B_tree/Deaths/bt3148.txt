@@ -1,0 +1,8 @@
+3411,2005,Chronic lower respiratory diseases (J40-J47),CLRD,New Jersey,3148,34
+
+7558,1999,Cerebrovascular diseases (I60-I69),Stroke,Alabama,3148,71.5
+
+3411,2005,Chronic lower respiratory diseases (J40-J47),CLRD,New Jersey,3148,34
+
+7558,1999,Cerebrovascular diseases (I60-I69),Stroke,Alabama,3148,71.5
+

@@ -1,0 +1,4 @@
+3189,2011,Chronic lower respiratory diseases (J40-J47),CLRD,Louisiana,1904,41.5
+
+6063,1999,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Massachusetts,1904,26.8
+

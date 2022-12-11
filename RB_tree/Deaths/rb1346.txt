@@ -1,0 +1,4 @@
+2552,2000,Malignant neoplasms (C00-C97),Cancer,North Dakota,1346,183.7
+
+2761,2007,Malignant neoplasms (C00-C97),Cancer,Vermont,1346,188.6
+

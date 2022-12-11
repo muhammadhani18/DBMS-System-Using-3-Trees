@@ -1,0 +1,42 @@
+4177,2013,Diabetes mellitus (E10-E14),Diabetes,Massachusetts,1142,14.1
+
+5688,2014,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Alaska,68,14.1
+
+5689,2013,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Alaska,66,14.1
+
+6046,2016,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Massachusetts,1251,14.1
+
+6195,2011,Influenza and pneumonia (J09-J18),Influenza and pneumonia,New Hampshire,220,14.1
+
+6346,2004,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Oregon,558,14.1
+
+6572,2012,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wisconsin,996,14.1
+
+6975,2005,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Maryland,752,14.1
+
+7026,2008,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Minnesota,813,14.1
+
+7170,2008,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,New Mexico,287,14.1
+
+7236,2014,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Ohio,2002,14.1
+
+7363,2014,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Tennessee,1036,14.1
+
+7412,2001,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,United States,39480,14.1
+
+7418,2013,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Utah,312,14.1
+
+9002,2012,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,New Hampshire,202,14.1
+
+9004,2010,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,New Hampshire,196,14.1
+
+9158,2000,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Oregon,493,14.1
+
+9242,2006,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Tennessee,874,14.1
+
+9312,2008,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Vermont,94,14.1
+
+9343,2013,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Washington,1027,14.1
+
+9364,2010,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,West Virginia,279,14.1
+

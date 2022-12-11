@@ -1,0 +1,8 @@
+410,2000,All Causes,All causes,Maine,12354,859.4
+
+2387,2003,Malignant neoplasms (C00-C97),Cancer,Missouri,12354,202.1
+
+410,2000,All Causes,All causes,Maine,12354,859.4
+
+2387,2003,Malignant neoplasms (C00-C97),Cancer,Missouri,12354,202.1
+

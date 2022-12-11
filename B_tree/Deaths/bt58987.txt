@@ -1,0 +1,4 @@
+5326,1999,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,New York,58987,306.1
+
+5326,1999,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,New York,58987,306.1
+

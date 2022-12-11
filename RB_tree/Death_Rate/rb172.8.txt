@@ -1,0 +1,4 @@
+2155,2001,Malignant neoplasms (C00-C97),Cancer,Idaho,2093,172.8
+
+2722,2010,Malignant neoplasms (C00-C97),Cancer,United States,574743,172.8
+

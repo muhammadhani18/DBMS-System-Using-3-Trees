@@ -1,0 +1,6 @@
+3519,2005,Chronic lower respiratory diseases (J40-J47),CLRD,Oklahoma,2368,63.6
+
+7985,2003,Cerebrovascular diseases (I60-I69),Stroke,Mississippi,1736,63.6
+
+8328,2002,Cerebrovascular diseases (I60-I69),Stroke,Texas,10548,63.6
+

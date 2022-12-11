@@ -1,0 +1,4 @@
+4759,2007,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Alaska,613,154.2
+
+8582,2000,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Colorado,613,14.3
+

@@ -1,0 +1,4 @@
+2258,2006,Malignant neoplasms (C00-C97),Cancer,Louisiana,8853,206.1
+
+2654,2006,Malignant neoplasms (C00-C97),Cancer,South Carolina,8853,194.7
+

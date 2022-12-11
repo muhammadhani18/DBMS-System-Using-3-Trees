@@ -1,0 +1,8 @@
+6785,2016,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Georgia,1864,18.4
+
+8193,2011,Cerebrovascular diseases (I60-I69),Stroke,Oklahoma,1864,45.8
+
+6785,2016,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Georgia,1864,18.4
+
+8193,2011,Cerebrovascular diseases (I60-I69),Stroke,Oklahoma,1864,45.8
+

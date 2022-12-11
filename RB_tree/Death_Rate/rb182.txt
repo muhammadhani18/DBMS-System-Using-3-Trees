@@ -1,0 +1,6 @@
+2649,2011,Malignant neoplasms (C00-C97),Cancer,South Carolina,9543,182
+
+5279,2010,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,New Jersey,18730,182
+
+5355,2006,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,North Dakota,1527,182
+

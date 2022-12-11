@@ -1,0 +1,8 @@
+4755,2011,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Alaska,739,149.6
+
+8108,2006,Cerebrovascular diseases (I60-I69),Stroke,New Mexico,739,39.3
+
+8356,2010,Cerebrovascular diseases (I60-I69),Stroke,Utah,739,37.1
+
+9902,2001,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Nevada,739,37
+

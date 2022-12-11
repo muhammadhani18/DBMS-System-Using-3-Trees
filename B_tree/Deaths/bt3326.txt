@@ -1,0 +1,8 @@
+2860,2016,Chronic lower respiratory diseases (J40-J47),CLRD,Alabama,3326,56.2
+
+8298,2014,Cerebrovascular diseases (I60-I69),Stroke,Tennessee,3326,45.8
+
+2860,2016,Chronic lower respiratory diseases (J40-J47),CLRD,Alabama,3326,56.2
+
+8298,2014,Cerebrovascular diseases (I60-I69),Stroke,Tennessee,3326,45.8
+

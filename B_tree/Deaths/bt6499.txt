@@ -1,0 +1,8 @@
+2360,2012,Malignant neoplasms (C00-C97),Cancer,Mississippi,6499,200.4
+
+4835,2003,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Colorado,6499,180.3
+
+2360,2012,Malignant neoplasms (C00-C97),Cancer,Mississippi,6499,200.4
+
+4835,2003,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Colorado,6499,180.3
+

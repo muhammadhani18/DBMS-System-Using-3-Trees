@@ -284,11 +284,33 @@ void IndexOnIDAVL(string index, AVLTree<string> *t)
 	}
 }
 
-void PointSearch_AVLTree(AVLTree<string> *t, string key)
+void PointSearch_AVLTree(AVLTree<string> *t, string key,int index)
 {
 	{
 		string data = "";
-		string filename = "./AVL_tree/ID/avl" + key + ".txt";
+        string filename;
+        if(index == 1) {
+            filename = "./AVL_Tree/ID/avl" + key + ".txt";
+        }
+        if(index == 2) {
+            filename = "./AVL_Tree/Year/avl" + key + ".txt";
+        }
+        if(index == 3) {
+            filename = "./AVL_Tree/113_Cause_Name/avl" + key + ".txt";
+        }
+        if(index == 4) {
+            filename = "./AVL_Tree/Cause_Name/avl" + key + ".txt";
+        }
+        if(index == 5) {
+            filename = "./AVL_Tree/State/avl" + key + ".txt";
+        }
+        if(index == 6) {
+            filename = "./AVL_Tree/Deaths/avl" + key + ".txt";
+        }
+        if(index == 7) {
+            filename = "./AVL_Tree/Death_Rate/avl" + key + ".txt";
+        }
+
 		ifstream fin(filename);
 		if (!fin)
 		{
@@ -297,20 +319,49 @@ void PointSearch_AVLTree(AVLTree<string> *t, string key)
 		}
 
 		t->PreOrderTraversal(t->root, key);
-		getline(fin, data, '\n');
-		cout << "The data for " << key << " is: " << data << endl;
+		while(!fin.eof())
+		{
+			getline(fin, data, '\n');
+			if(data!="") {
+				cout << "The data for " << key << " is: " << data << endl;
+			}
+
+        }
+		
 
 		return;
 	}
 }
 
-void DeleteRecord_AVLTree(string key, AVLTree<string> *t)
+void DeleteRecord_AVLTree(string key, AVLTree<string> *t,int index)
 {
 
 	{
 		cout << "Entered\n";
 		t->root = t->deleteNode(t->root, key);
-		string filename = "./AVL_tree/ID/avl" + key + ".txt";
+		string filename;
+        if(index == 1) {
+            filename = "./AVL_Tree/ID/avl" + key + ".txt";
+        }
+        if(index == 2) {
+            filename = "./AVL_Tree/Year/avl" + key + ".txt";
+        }
+        if(index == 3) {
+            filename = "./AVL_Tree/113_Cause_Name/avl" + key + ".txt";
+        }
+        if(index == 4) {
+            filename = "./AVL_Tree/Cause_Name/avl" + key + ".txt";
+        }
+        if(index == 5) {
+            filename = "./AVL_Tree/State/avl" + key + ".txt";
+        }
+        if(index == 6) {
+            filename = "./AVL_Tree/Deaths/avl" + key + ".txt";
+        }
+        if(index == 7) {
+            filename = "./AVL_Tree/Death_Rate/avl" + key + ".txt";
+        }
+
 		int length = filename.length();
 		char char_array[length + 1];
 
@@ -370,4 +421,465 @@ void RangeSearch_AVLTree(AVLTree<string> *t)
 		}
 		fr.close();
 	}
+}
+
+
+
+void IndexAVL(AVLTree<string> *t, int index)
+{
+    fstream fin;
+
+    int option;
+    int count = 0;
+    string one;
+
+    switch (index)
+    {
+    case 2:
+    {
+        system("CLS");
+
+        for (int i = 1; i <= 10; i++)
+        {
+            string file_name = "NCHS_-_Leading_Causes_of_Death__United_States_";
+            file_name.append(to_string(i));
+            file_name.append(".csv");
+
+            fin.open(file_name);
+            getline(fin, one, '\n');
+
+            count = 1;
+            string Year;
+
+            while (!fin.eof())
+            {
+                for (int i = 0; i < count; i++)
+                    getline(fin, one, ',');
+                
+                getline(fin, Year, ',');
+                
+                ofstream fw("./AVL_Tree/Year/avl" + Year + ".txt", ios::app);
+                fw << one << ",";
+                getline(fin, one);
+                fw << one << endl;
+                fw.close();
+
+                t->root = t->Insert(t->root,Year);
+                //cout << Year << endl;
+            }
+            fin.close();
+        }
+        system("Pause");
+        break;
+    }
+    case 3:
+    {
+        system("CLS");
+        for (int i = 1; i <= 10; i++)
+        {
+            string file_name = "NCHS_-_Leading_Causes_of_Death__United_States_";
+            file_name.append(to_string(i));
+            file_name.append(".csv");
+
+            fin.open(file_name);
+            getline(fin, one, '\n');
+
+            count = 2;
+            string cause_name;
+            string id;
+            while (!fin.eof())
+            {
+                string temp = "";
+                for (int i = 0; i < count; i++) {
+                    getline(fin, one, ',');
+                    temp+=one;
+                    temp+=',';
+                }
+
+                // Last line
+                if (one == "")
+                    break;
+
+                getline(fin, cause_name, ',');
+
+                string extra = "";
+                bool yes = false;
+                getline(fin, one, '\n');
+                one += "\n";
+                int j = 0;
+                while (one[j] != '\n')
+                {
+                    if (one[j] == '"')
+                    {
+                        yes = true;
+                        break;
+                    }
+                    extra += one[j];
+                    j++;
+                }
+
+                temp+=cause_name;
+                temp+=',';
+                if (yes)
+                {
+                    cause_name += extra;
+                    cause_name += '"';
+                }
+                temp+=one;
+                ofstream fw("./AVL_Tree/113_Cause_Name/avl" + cause_name + ".txt", ios::app);
+                fw << temp << endl;
+                fw.close();
+               
+				t->root = t->Insert(t->root,cause_name);
+            }
+            fin.close();
+        }
+        system("Pause");
+        break;
+    }
+    case 4:
+    {
+        system("CLS");
+        for (int i = 1; i <= 10; i++)
+        {
+            string file_name = "NCHS_-_Leading_Causes_of_Death__United_States_";
+            file_name.append(to_string(i));
+            file_name.append(".csv");
+
+            fin.open(file_name);
+            getline(fin, one, '\n');
+            int m = 0;
+            count = 2;
+            string cause_name;
+
+            while (!fin.eof())
+            {
+                string temp="";
+                for (int i = 0; i < count; i++)
+                {
+                    getline(fin, one, ',');
+                    temp += one;
+                    temp += ',';
+                }
+                if (one == "")
+                    break;
+
+                getline(fin, cause_name, ',');
+
+                string extra = "";
+                bool yes = false;
+                getline(fin, one, '\n');
+                one += "\n";
+                int j = 0;
+                while (one[j] != '\n')
+                {
+                    if (one[j] == '"')
+                    {
+                        yes = true;
+                        break;
+                    }
+                    extra += one[j];
+                    j++;
+                }
+
+                temp +=cause_name;
+                temp+=',';
+                if (yes)
+                {
+                    cause_name += extra;
+                    cause_name += '"';
+                }
+                temp+=one;
+                cause_name = "";
+                int k = 0;
+                if (yes)
+                    k = j + 2;
+
+                while (one[k] != ',')
+                {
+                    cause_name += one[k];
+                    k++;
+                }
+                m++;
+                
+                ofstream fw("./AVL_Tree/Cause_Name/avl" + cause_name + ".txt", ios::app);
+                fw << temp << endl;
+                fw.close();
+
+                t->root = t->Insert(t->root,cause_name);
+                
+            }
+            
+
+            fin.close();
+        }
+        system("Pause");
+        break;
+    }
+    case 5:
+    {
+        system("CLS");
+        for (int i = 1; i <= 10; i++)
+        {
+            string file_name = "NCHS_-_Leading_Causes_of_Death__United_States_";
+            file_name.append(to_string(i));
+            file_name.append(".csv");
+
+            fin.open(file_name);
+            getline(fin, one, '\n');
+            count = 2;
+            string cause_name;
+
+            while (!fin.eof())
+            {
+                string temp="";
+                for (int i = 0; i < count; i++)
+                {
+                    getline(fin, one, ',');
+                    temp+=one;
+                    temp+=',';
+                }
+                if (one == "")
+                    break;
+
+                getline(fin, cause_name, ',');
+
+                string extra = "";
+                bool yes = false;
+                getline(fin, one, '\n');
+                one += "\n";
+                int j = 0;
+                while (one[j] != '\n')
+                {
+                    if (one[j] == '"')
+                    {
+                        yes = true;
+                        break;
+                    }
+                    extra += one[j];
+                    j++;
+                }
+                temp+=cause_name;
+                temp+=',';
+                if (yes)
+                {
+                    cause_name += extra;
+                    cause_name += '"';
+                }
+                temp+=one;
+                cause_name = "";
+                int k = 0;
+                if (yes)
+                    k = j + 2;
+
+                while (one[k] != ',')
+                {
+                    cause_name += one[k];
+                    k++;
+                }
+                k++;
+                cause_name = "";
+                while (one[k] != ',')
+                {
+                    cause_name += one[k];
+                    k++;
+                }
+                ofstream fw("./AVL_Tree/State/avl" + cause_name + ".txt", ios::app);
+                fw << temp << endl;
+                fw.close();
+
+                t->root = t->Insert(t->root,cause_name);
+                
+            }
+            fin.close();
+        }
+        system("Pause");
+        break;
+    }
+    case 6:
+    {
+        system("CLS");
+        for (int i = 1; i <= 10; i++)
+        {
+            string file_name = "NCHS_-_Leading_Causes_of_Death__United_States_";
+            file_name.append(to_string(i));
+            file_name.append(".csv");
+
+            fin.open(file_name);
+            getline(fin, one, '\n');
+            count = 2;
+            string cause_name;
+
+            while (!fin.eof())
+            {
+                string temp="";
+                for (int i = 0; i < count; i++)
+                {
+                    getline(fin, one, ',');
+                    temp+=one;
+                    temp+=',';
+                }
+                if (one == "")
+                    break;
+
+                getline(fin, cause_name, ',');
+
+                string extra = "";
+                bool yes = false;
+                getline(fin, one, '\n');
+                one += "\n";
+                int j = 0;
+                while (one[j] != '\n')
+                {
+                    if (one[j] == '"')
+                    {
+                        yes = true;
+                        break;
+                    }
+                    extra += one[j];
+                    j++;
+                }
+                temp+=cause_name;
+                temp+=',';
+                if (yes)   
+                {
+                    cause_name += extra;
+                    cause_name += '"';
+                }
+                temp+=one;
+                cause_name = "";
+                int k = 0;
+                if (yes)
+                    k = j + 2;
+
+                while (one[k] != ',')
+                {
+                    cause_name += one[k];
+                    k++;
+                }
+                k++;
+                cause_name = "";
+                while (one[k] != ',')
+                {
+                    cause_name += one[k];
+                    k++;
+                }
+                k++;
+                cause_name = "";
+                while (one[k] != ',')
+                {
+                    cause_name += one[k];
+                    k++;
+                }
+                ofstream fw("./AVL_Tree/Deaths/avl" + cause_name + ".txt", ios::app);
+                fw << temp << endl;
+                fw.close();
+
+                t->root = t->Insert(t->root,cause_name);
+                
+            }
+            fin.close();
+        }
+        system("Pause");
+        break;
+    }
+    case 7:
+    {
+        system("CLS");
+        for (int i = 1; i <= 10; i++)
+        {
+            string file_name = "NCHS_-_Leading_Causes_of_Death__United_States_";
+            file_name.append(to_string(i));
+            file_name.append(".csv");
+
+            fin.open(file_name);
+            getline(fin, one, '\n');
+            count = 2;
+            string cause_name;
+
+            while (!fin.eof())
+            {
+                string temp="";
+                for (int i = 0; i < count; i++)
+                {
+                    getline(fin, one, ',');
+                    temp+=one;
+                    temp+=',';
+                }
+                if (one == "")
+                    break;
+
+                getline(fin, cause_name, ',');
+
+                string extra = "";
+                bool yes = false;
+                getline(fin, one, '\n');
+                one += "\n";
+                int j = 0;
+                while (one[j] != '\n')
+                {
+                    if (one[j] == '"')
+                    {
+                        yes = true;
+                        break;
+                    }
+                    extra += one[j];
+                    j++;
+                }
+                temp+=cause_name;
+                temp+=',';
+                if (yes)
+                {
+                    cause_name += extra;
+                    cause_name += '"';
+                }
+                temp+=one;
+                cause_name = "";
+                int k = 0;
+                if (yes)
+                    k = j + 2;
+
+                while (one[k] != ',')
+                {
+                    cause_name += one[k];
+                    k++;
+                }
+                k++;
+                cause_name = "";
+                while (one[k] != ',')
+                {
+                    cause_name += one[k];
+                    k++;
+                }
+                k++;
+                cause_name = "";
+                while (one[k] != ',')
+                {
+                    cause_name += one[k];
+                    k++;
+                }
+                k++;
+                cause_name = "";
+                while (one[k] != '\n')
+                {
+                    cause_name += one[k];
+                    k++;
+                }
+                ofstream fw("./AVL_Tree/Death_Rate/avl" + cause_name + ".txt", ios::app);
+                fw << temp << endl;
+                fw.close();
+
+                t->root = t->Insert(t->root,cause_name);
+
+            }
+            fin.close();
+        }
+        system("Pause");
+        break;
+    }
+    case 8:
+    {
+        exit(1);
+    }
+    }
 }

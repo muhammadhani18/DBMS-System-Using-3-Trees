@@ -1,0 +1,8 @@
+4276,2004,Diabetes mellitus (E10-E14),Diabetes,Montana,237,22.7
+
+4537,2013,Diabetes mellitus (E10-E14),Diabetes,South Dakota,237,22.7
+
+5879,2003,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Hawaii,237,17.6
+
+6204,2002,Influenza and pneumonia (J09-J18),Influenza and pneumonia,New Hampshire,237,19.4
+

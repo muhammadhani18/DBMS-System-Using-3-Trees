@@ -1,0 +1,16 @@
+1959,1999,Malignant neoplasms (C00-C97),Cancer,Alaska,633,190.5
+
+8077,2001,Cerebrovascular diseases (I60-I69),Stroke,New Hampshire,633,52.9
+
+8259,1999,Cerebrovascular diseases (I60-I69),Stroke,Rhode Island,633,50.4
+
+9885,2001,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Nebraska,633,34.8
+
+1959,1999,Malignant neoplasms (C00-C97),Cancer,Alaska,633,190.5
+
+8077,2001,Cerebrovascular diseases (I60-I69),Stroke,New Hampshire,633,52.9
+
+8259,1999,Cerebrovascular diseases (I60-I69),Stroke,Rhode Island,633,50.4
+
+9885,2001,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Nebraska,633,34.8
+

@@ -1,0 +1,8 @@
+2487,2011,Malignant neoplasms (C00-C97),Cancer,New Mexico,3328,146.9
+
+5847,1999,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Florida,3328,16.1
+
+2487,2011,Malignant neoplasms (C00-C97),Cancer,New Mexico,3328,146.9
+
+5847,1999,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Florida,3328,16.1
+

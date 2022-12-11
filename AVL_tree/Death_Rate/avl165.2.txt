@@ -1,0 +1,6 @@
+2827,2013,Malignant neoplasms (C00-C97),Cancer,Wisconsin,11425,165.2
+
+4859,2015,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Delaware,1940,165.2
+
+5439,2012,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Rhode Island,2360,165.2
+

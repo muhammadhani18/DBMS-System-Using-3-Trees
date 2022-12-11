@@ -1,0 +1,10 @@
+1049,2009,Alzheimer's disease (G30),Alzheimer's disease,Arkansas,885,27.8
+
+5704,2016,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arizona,885,10.4
+
+5793,1999,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Connecticut,885,22.7
+
+6332,2000,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Oklahoma,885,24.6
+
+8098,2016,Cerebrovascular diseases (I60-I69),Stroke,New Mexico,885,35.5
+

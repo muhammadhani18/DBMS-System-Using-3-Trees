@@ -1,0 +1,6 @@
+2695,2001,Malignant neoplasms (C00-C97),Cancer,Tennessee,12229,213.1
+
+5056,2016,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Louisiana,10943,213.1
+
+5060,2012,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Louisiana,10074,213.1
+

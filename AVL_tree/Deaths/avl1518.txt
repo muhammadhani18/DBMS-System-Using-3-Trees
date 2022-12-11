@@ -1,0 +1,4 @@
+996,2008,Alzheimer's disease (G30),Alzheimer's disease,Alabama,1518,32.1
+
+4887,2005,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,District of Columbia,1518,270.3
+

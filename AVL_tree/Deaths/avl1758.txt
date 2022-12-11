@@ -1,0 +1,6 @@
+3283,2007,Chronic lower respiratory diseases (J40-J47),CLRD,Minnesota,1758,32.5
+
+7244,2006,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Ohio,1758,13.9
+
+7841,2003,Cerebrovascular diseases (I60-I69),Stroke,Kansas,1758,57.5
+

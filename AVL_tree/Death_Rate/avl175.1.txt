@@ -1,0 +1,6 @@
+2112,2008,Malignant neoplasms (C00-C97),Cancer,Georgia,14621,175.1
+
+2555,2015,Malignant neoplasms (C00-C97),Cancer,Ohio,25396,175.1
+
+5213,2004,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Montana,1838,175.1
+

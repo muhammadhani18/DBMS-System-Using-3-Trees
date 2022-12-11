@@ -1,0 +1,12 @@
+1720,2004,Alzheimer's disease (G30),Alzheimer's disease,South Carolina,1245,33.3
+
+7059,2011,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Missouri,1245,17.9
+
+9941,2013,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,New Mexico,1245,59
+
+1720,2004,Alzheimer's disease (G30),Alzheimer's disease,South Carolina,1245,33.3
+
+7059,2011,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Missouri,1245,17.9
+
+9941,2013,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,New Mexico,1245,59
+

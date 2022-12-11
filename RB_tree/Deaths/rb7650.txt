@@ -1,0 +1,4 @@
+4851,2005,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Connecticut,7650,180.7
+
+8235,2005,Cerebrovascular diseases (I60-I69),Stroke,Pennsylvania,7650,48
+

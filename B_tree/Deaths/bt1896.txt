@@ -1,0 +1,16 @@
+3192,2008,Chronic lower respiratory diseases (J40-J47),CLRD,Louisiana,1896,44
+
+6067,2013,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Michigan,1896,15.8
+
+6262,2016,Influenza and pneumonia (J09-J18),Influenza and pneumonia,North Carolina,1896,16.5
+
+7246,2004,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Ohio,1896,15.4
+
+3192,2008,Chronic lower respiratory diseases (J40-J47),CLRD,Louisiana,1896,44
+
+6067,2013,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Michigan,1896,15.8
+
+6262,2016,Influenza and pneumonia (J09-J18),Influenza and pneumonia,North Carolina,1896,16.5
+
+7246,2004,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Ohio,1896,15.4
+

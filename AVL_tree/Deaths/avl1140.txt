@@ -1,0 +1,6 @@
+4179,2011,Diabetes mellitus (E10-E14),Diabetes,Massachusetts,1140,14.6
+
+6045,1999,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Maryland,1140,25.2
+
+8426,2012,Cerebrovascular diseases (I60-I69),Stroke,West Virginia,1140,47.9
+

@@ -1,0 +1,8 @@
+2982,2002,Chronic lower respiratory diseases (J40-J47),CLRD,Connecticut,1453,36.9
+
+3806,2006,Diabetes mellitus (E10-E14),Diabetes,Alabama,1453,29.8
+
+2982,2002,Chronic lower respiratory diseases (J40-J47),CLRD,Connecticut,1453,36.9
+
+3806,2006,Diabetes mellitus (E10-E14),Diabetes,Alabama,1453,29.8
+

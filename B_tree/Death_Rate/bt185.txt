@@ -1,0 +1,6 @@
+2166,2008,Malignant neoplasms (C00-C97),Cancer,Illinois,24300,185
+
+2274,2008,Malignant neoplasms (C00-C97),Cancer,Maine,3093,185
+
+2475,2005,Malignant neoplasms (C00-C97),Cancer,New Jersey,17171,185
+

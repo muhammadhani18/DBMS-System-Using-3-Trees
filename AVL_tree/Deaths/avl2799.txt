@@ -1,0 +1,4 @@
+2906,2006,Chronic lower respiratory diseases (J40-J47),CLRD,Arizona,2799,46
+
+8223,1999,Cerebrovascular diseases (I60-I69),Stroke,Oregon,2799,78.6
+

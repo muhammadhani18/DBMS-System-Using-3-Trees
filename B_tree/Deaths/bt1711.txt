@@ -1,0 +1,12 @@
+1540,2004,Alzheimer's disease (G30),Alzheimer's disease,New Jersey,1711,18.3
+
+5472,2015,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,South Dakota,1711,150.9
+
+9818,2000,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Minnesota,1711,34.3
+
+1540,2004,Alzheimer's disease (G30),Alzheimer's disease,New Jersey,1711,18.3
+
+5472,2015,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,South Dakota,1711,150.9
+
+9818,2000,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Minnesota,1711,34.3
+

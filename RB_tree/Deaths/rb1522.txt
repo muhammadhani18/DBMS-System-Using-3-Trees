@@ -1,0 +1,4 @@
+1542,2002,Alzheimer's disease (G30),Alzheimer's disease,New Jersey,1522,16.7
+
+3366,2014,Chronic lower respiratory diseases (J40-J47),CLRD,Nevada,1522,52.9
+

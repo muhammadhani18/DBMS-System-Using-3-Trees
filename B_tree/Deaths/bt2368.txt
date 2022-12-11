@@ -1,0 +1,8 @@
+2151,2005,Malignant neoplasms (C00-C97),Cancer,Idaho,2368,174.6
+
+3519,2005,Chronic lower respiratory diseases (J40-J47),CLRD,Oklahoma,2368,63.6
+
+2151,2005,Malignant neoplasms (C00-C97),Cancer,Idaho,2368,174.6
+
+3519,2005,Chronic lower respiratory diseases (J40-J47),CLRD,Oklahoma,2368,63.6
+

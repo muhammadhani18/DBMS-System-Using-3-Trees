@@ -1,0 +1,8 @@
+6683,2009,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,California,3033,8.6
+
+7995,2011,Cerebrovascular diseases (I60-I69),Stroke,Missouri,3033,43.4
+
+6683,2009,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,California,3033,8.6
+
+7995,2011,Cerebrovascular diseases (I60-I69),Stroke,Missouri,3033,43.4
+

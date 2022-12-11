@@ -1,0 +1,12 @@
+1567,2013,Alzheimer's disease (G30),Alzheimer's disease,New York,2556,10.4
+
+4351,2001,Diabetes mellitus (E10-E14),Diabetes,New Jersey,2556,28.7
+
+7576,2016,Cerebrovascular diseases (I60-I69),Stroke,Arizona,2556,29.8
+
+1567,2013,Alzheimer's disease (G30),Alzheimer's disease,New York,2556,10.4
+
+4351,2001,Diabetes mellitus (E10-E14),Diabetes,New Jersey,2556,28.7
+
+7576,2016,Cerebrovascular diseases (I60-I69),Stroke,Arizona,2556,29.8
+

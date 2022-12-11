@@ -1,0 +1,12 @@
+1227,2011,Alzheimer's disease (G30),Alzheimer's disease,Illinois,2910,20.4
+
+3413,2003,Chronic lower respiratory diseases (J40-J47),CLRD,New Jersey,2910,31.9
+
+8404,2016,Cerebrovascular diseases (I60-I69),Stroke,Washington,2910,35.8
+
+1227,2011,Alzheimer's disease (G30),Alzheimer's disease,Illinois,2910,20.4
+
+3413,2003,Chronic lower respiratory diseases (J40-J47),CLRD,New Jersey,2910,31.9
+
+8404,2016,Cerebrovascular diseases (I60-I69),Stroke,Washington,2910,35.8
+

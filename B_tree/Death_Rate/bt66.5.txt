@@ -1,0 +1,6 @@
+7734,2002,Cerebrovascular diseases (I60-I69),Stroke,Georgia,4261,66.5
+
+8272,2004,Cerebrovascular diseases (I60-I69),Stroke,South Carolina,2643,66.5
+
+8330,2000,Cerebrovascular diseases (I60-I69),Stroke,Texas,10684,66.5
+

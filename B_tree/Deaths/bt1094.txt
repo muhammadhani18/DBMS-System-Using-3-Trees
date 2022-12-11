@@ -1,0 +1,8 @@
+1850,2000,Alzheimer's disease (G30),Alzheimer's disease,Virginia,1094,18.7
+
+8039,2003,Cerebrovascular diseases (I60-I69),Stroke,Nebraska,1094,54.7
+
+1850,2000,Alzheimer's disease (G30),Alzheimer's disease,Virginia,1094,18.7
+
+8039,2003,Cerebrovascular diseases (I60-I69),Stroke,Nebraska,1094,54.7
+

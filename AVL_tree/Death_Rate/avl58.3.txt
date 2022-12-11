@@ -1,0 +1,14 @@
+9,2016,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,District of Columbia,401,58.3
+
+3341,2003,Chronic lower respiratory diseases (J40-J47),CLRD,Montana,588,58.3
+
+3751,2007,Chronic lower respiratory diseases (J40-J47),CLRD,West Virginia,1331,58.3
+
+7788,2002,Cerebrovascular diseases (I60-I69),Stroke,Illinois,7183,58.3
+
+7826,2000,Cerebrovascular diseases (I60-I69),Stroke,Iowa,2187,58.3
+
+8474,2000,Cerebrovascular diseases (I60-I69),Stroke,Wyoming,260,58.3
+
+9702,2014,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Kentucky,2621,58.3
+

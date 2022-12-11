@@ -1,0 +1,4 @@
+6068,2012,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Michigan,1565,13.3
+
+7638,2008,Cerebrovascular diseases (I60-I69),Stroke,Colorado,1565,37.4
+

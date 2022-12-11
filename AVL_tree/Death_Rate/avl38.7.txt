@@ -1,0 +1,8 @@
+4131,2005,Diabetes mellitus (E10-E14),Diabetes,Louisiana,1695,38.7
+
+9903,2000,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Nevada,730,38.7
+
+10147,2011,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Texas,9410,38.7
+
+10231,2013,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Washington,2826,38.7
+

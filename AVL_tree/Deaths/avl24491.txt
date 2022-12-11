@@ -1,0 +1,4 @@
+349,2007,All Causes,All causes,Kansas,24491,787.8
+
+2161,2013,Malignant neoplasms (C00-C97),Cancer,Illinois,24491,171.9
+

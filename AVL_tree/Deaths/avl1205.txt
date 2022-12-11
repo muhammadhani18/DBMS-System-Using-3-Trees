@@ -1,0 +1,6 @@
+4126,2010,Diabetes mellitus (E10-E14),Diabetes,Louisiana,1205,26.4
+
+6123,2011,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Missouri,1205,17.2
+
+9692,2007,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Kansas,1205,41.4
+

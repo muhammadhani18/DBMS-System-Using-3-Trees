@@ -1,0 +1,8 @@
+2403,2005,Malignant neoplasms (C00-C97),Cancer,Montana,1956,184.2
+
+2407,2001,Malignant neoplasms (C00-C97),Cancer,Montana,1956,199.4
+
+2403,2005,Malignant neoplasms (C00-C97),Cancer,Montana,1956,184.2
+
+2407,2001,Malignant neoplasms (C00-C97),Cancer,Montana,1956,199.4
+

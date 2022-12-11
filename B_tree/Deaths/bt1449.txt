@@ -1,0 +1,8 @@
+3808,2004,Diabetes mellitus (E10-E14),Diabetes,Alabama,1449,30.8
+
+6526,2004,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Virginia,1449,22.1
+
+3808,2004,Diabetes mellitus (E10-E14),Diabetes,Alabama,1449,30.8
+
+6526,2004,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Virginia,1449,22.1
+

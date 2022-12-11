@@ -1,0 +1,6 @@
+3422,2012,Chronic lower respiratory diseases (J40-J47),CLRD,New Mexico,965,42.5
+
+5986,2004,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Kentucky,965,24.1
+
+6547,2001,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Washington,965,17.4
+

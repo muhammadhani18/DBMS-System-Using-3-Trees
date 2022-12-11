@@ -1,0 +1,8 @@
+5079,2011,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Maine,2648,149.5
+
+7592,2000,Cerebrovascular diseases (I60-I69),Stroke,Arizona,2648,53.8
+
+5079,2011,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Maine,2648,149.5
+
+7592,2000,Cerebrovascular diseases (I60-I69),Stroke,Arizona,2648,53.8
+

@@ -1,0 +1,50 @@
+1100,2012,Alzheimer's disease (G30),Alzheimer's disease,Connecticut,842,16.8
+
+1354,2010,Alzheimer's disease (G30),Alzheimer's disease,Maryland,986,16.8
+
+1435,2001,Alzheimer's disease (G30),Alzheimer's disease,Mississippi,449,16.8
+
+1552,2010,Alzheimer's disease (G30),Alzheimer's disease,New Mexico,343,16.8
+
+3895,2007,Diabetes mellitus (E10-E14),Diabetes,Colorado,710,16.8
+
+3917,2003,Diabetes mellitus (E10-E14),Diabetes,Connecticut,665,16.8
+
+5712,2008,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arizona,1068,16.8
+
+5851,2013,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Georgia,1494,16.8
+
+5904,2014,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Illinois,2485,16.8
+
+5905,2013,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Illinois,2441,16.8
+
+6015,2011,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Maine,302,16.8
+
+6020,2006,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Maine,269,16.8
+
+6318,2014,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Oklahoma,723,16.8
+
+6397,2007,Influenza and pneumonia (J09-J18),Influenza and pneumonia,South Carolina,723,16.8
+
+6469,2007,Influenza and pneumonia (J09-J18),Influenza and pneumonia,United States,52717,16.8
+
+6893,2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Kansas,582,16.8
+
+7159,2001,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,New Jersey,1495,16.8
+
+7293,2011,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Pennsylvania,2873,16.8
+
+8511,1999,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Alaska,96,16.8
+
+8572,2010,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Colorado,865,16.8
+
+8782,2016,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Kentucky,756,16.8
+
+9145,2013,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Oregon,698,16.8
+
+9218,2012,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,South Dakota,141,16.8
+
+9307,2013,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Vermont,112,16.8
+
+9410,2000,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wyoming,83,16.8
+

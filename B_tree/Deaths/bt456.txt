@@ -1,0 +1,12 @@
+6566,2000,Influenza and pneumonia (J09-J18),Influenza and pneumonia,West Virginia,456,21.7
+
+7116,2008,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Nevada,456,20
+
+8168,2000,Cerebrovascular diseases (I60-I69),Stroke,North Dakota,456,55.6
+
+6566,2000,Influenza and pneumonia (J09-J18),Influenza and pneumonia,West Virginia,456,21.7
+
+7116,2008,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Nevada,456,20
+
+8168,2000,Cerebrovascular diseases (I60-I69),Stroke,North Dakota,456,55.6
+

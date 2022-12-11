@@ -1,0 +1,8 @@
+2180,2012,Malignant neoplasms (C00-C97),Cancer,Indiana,13368,184.4
+
+2328,2008,Malignant neoplasms (C00-C97),Cancer,Michigan,20211,184.4
+
+2514,2002,Malignant neoplasms (C00-C97),Cancer,New York,36661,184.4
+
+5412,2003,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Oregon,7049,184.4
+

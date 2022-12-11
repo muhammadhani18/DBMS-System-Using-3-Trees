@@ -1,0 +1,10 @@
+3340,2004,Chronic lower respiratory diseases (J40-J47),CLRD,Montana,578,55.9
+
+4609,2013,Diabetes mellitus (E10-E14),Diabetes,Utah,578,25.3
+
+6107,2009,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Mississippi,578,19.9
+
+6538,2010,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Washington,578,8.3
+
+8023,2001,Cerebrovascular diseases (I60-I69),Stroke,Montana,578,58.1
+

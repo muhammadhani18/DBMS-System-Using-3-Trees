@@ -1,0 +1,6 @@
+8366,2000,Cerebrovascular diseases (I60-I69),Stroke,Utah,975,66
+
+9701,2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Kentucky,2962,66
+
+9950,2004,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,New Mexico,1223,66
+

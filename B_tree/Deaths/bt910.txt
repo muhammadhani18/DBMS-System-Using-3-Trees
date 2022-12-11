@@ -1,0 +1,8 @@
+1670,2000,Alzheimer's disease (G30),Alzheimer's disease,Oregon,910,25
+
+6402,2002,Influenza and pneumonia (J09-J18),Influenza and pneumonia,South Carolina,910,24.6
+
+1670,2000,Alzheimer's disease (G30),Alzheimer's disease,Oregon,910,25
+
+6402,2002,Influenza and pneumonia (J09-J18),Influenza and pneumonia,South Carolina,910,24.6
+

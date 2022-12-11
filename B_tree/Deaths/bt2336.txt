@@ -1,0 +1,4 @@
+10095,2012,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,South Carolina,2336,48.3
+
+10095,2012,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,South Carolina,2336,48.3
+

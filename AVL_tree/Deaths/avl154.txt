@@ -1,0 +1,8 @@
+4626,2014,Diabetes mellitus (E10-E14),Diabetes,Vermont,154,18.7
+
+6821,2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Idaho,154,8.7
+
+6825,2011,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Idaho,154,9.7
+
+8834,2000,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Maine,154,11.8
+

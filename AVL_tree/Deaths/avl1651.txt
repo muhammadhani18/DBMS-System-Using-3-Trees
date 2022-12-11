@@ -1,0 +1,4 @@
+1251,2005,Alzheimer's disease (G30),Alzheimer's disease,Indiana,1651,26
+
+7984,2004,Cerebrovascular diseases (I60-I69),Stroke,Mississippi,1651,59.9
+

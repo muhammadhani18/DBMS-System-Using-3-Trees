@@ -1,0 +1,12 @@
+1533,2011,Alzheimer's disease (G30),Alzheimer's disease,New Jersey,1960,18.2
+
+7822,2004,Cerebrovascular diseases (I60-I69),Stroke,Iowa,1960,50.5
+
+10106,2001,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,South Carolina,1960,49
+
+1533,2011,Alzheimer's disease (G30),Alzheimer's disease,New Jersey,1960,18.2
+
+7822,2004,Cerebrovascular diseases (I60-I69),Stroke,Iowa,1960,50.5
+
+10106,2001,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,South Carolina,1960,49
+

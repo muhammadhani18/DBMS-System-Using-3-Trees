@@ -1,0 +1,16 @@
+1194,2008,Alzheimer's disease (G30),Alzheimer's disease,Hawaii,218,13.3
+
+1824,2008,Alzheimer's disease (G30),Alzheimer's disease,Vermont,218,29.8
+
+3925,2013,Diabetes mellitus (E10-E14),Diabetes,Delaware,218,19.4
+
+3937,2001,Diabetes mellitus (E10-E14),Diabetes,Delaware,218,27.5
+
+4005,2005,Diabetes mellitus (E10-E14),Diabetes,Hawaii,218,15.1
+
+4538,2012,Diabetes mellitus (E10-E14),Diabetes,South Dakota,218,21.5
+
+5885,2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Idaho,218,12.4
+
+7696,2004,Cerebrovascular diseases (I60-I69),Stroke,District of Columbia,218,39.3
+

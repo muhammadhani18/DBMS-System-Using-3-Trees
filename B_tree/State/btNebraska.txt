@@ -1,0 +1,1528 @@
+28,2016,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Nebraska,772,37
+
+538,2016,All Causes,All causes,Nebraska,16217,707
+
+539,2015,All Causes,All causes,Nebraska,16740,739.2
+
+540,2014,All Causes,All causes,Nebraska,15978,718.2
+
+541,2013,All Causes,All causes,Nebraska,15754,714.7
+
+542,2012,All Causes,All causes,Nebraska,15659,719
+
+543,2011,All Causes,All causes,Nebraska,15476,719.8
+
+544,2010,All Causes,All causes,Nebraska,15171,717.8
+
+545,2009,All Causes,All causes,Nebraska,14810,710.9
+
+546,2008,All Causes,All causes,Nebraska,15461,751.3
+
+547,2007,All Causes,All causes,Nebraska,15263,750.4
+
+548,2006,All Causes,All causes,Nebraska,14899,743.7
+
+549,2005,All Causes,All causes,Nebraska,14963,757.8
+
+550,2004,All Causes,All causes,Nebraska,14657,751.9
+
+551,2003,All Causes,All causes,Nebraska,15465,798.2
+
+552,2002,All Causes,All causes,Nebraska,15738,820.2
+
+553,2001,All Causes,All causes,Nebraska,15174,796.6
+
+554,2000,All Causes,All causes,Nebraska,14992,794.6
+
+555,1999,All Causes,All causes,Nebraska,15579,830.1
+
+1474,2016,Alzheimer's disease (G30),Alzheimer's disease,Nebraska,634,26.2
+
+1475,2015,Alzheimer's disease (G30),Alzheimer's disease,Nebraska,598,24.8
+
+1476,2014,Alzheimer's disease (G30),Alzheimer's disease,Nebraska,515,21.9
+
+1477,2013,Alzheimer's disease (G30),Alzheimer's disease,Nebraska,557,23.6
+
+1478,2012,Alzheimer's disease (G30),Alzheimer's disease,Nebraska,570,24.4
+
+1479,2011,Alzheimer's disease (G30),Alzheimer's disease,Nebraska,597,26
+
+1480,2010,Alzheimer's disease (G30),Alzheimer's disease,Nebraska,565,24.9
+
+1481,2009,Alzheimer's disease (G30),Alzheimer's disease,Nebraska,573,25.6
+
+1482,2008,Alzheimer's disease (G30),Alzheimer's disease,Nebraska,610,27.3
+
+1483,2007,Alzheimer's disease (G30),Alzheimer's disease,Nebraska,512,23.5
+
+1484,2006,Alzheimer's disease (G30),Alzheimer's disease,Nebraska,500,23.3
+
+1485,2005,Alzheimer's disease (G30),Alzheimer's disease,Nebraska,473,22.3
+
+1486,2004,Alzheimer's disease (G30),Alzheimer's disease,Nebraska,459,22
+
+1487,2003,Alzheimer's disease (G30),Alzheimer's disease,Nebraska,461,22.2
+
+1488,2002,Alzheimer's disease (G30),Alzheimer's disease,Nebraska,460,22.3
+
+1489,2001,Alzheimer's disease (G30),Alzheimer's disease,Nebraska,430,21
+
+1490,2000,Alzheimer's disease (G30),Alzheimer's disease,Nebraska,353,17.4
+
+1491,1999,Alzheimer's disease (G30),Alzheimer's disease,Nebraska,331,16.3
+
+2410,2016,Malignant neoplasms (C00-C97),Cancer,Nebraska,3477,153.6
+
+2411,2015,Malignant neoplasms (C00-C97),Cancer,Nebraska,3514,157.8
+
+2412,2014,Malignant neoplasms (C00-C97),Cancer,Nebraska,3459,159.6
+
+2413,2013,Malignant neoplasms (C00-C97),Cancer,Nebraska,3459,161.3
+
+2414,2012,Malignant neoplasms (C00-C97),Cancer,Nebraska,3479,164.7
+
+2415,2011,Malignant neoplasms (C00-C97),Cancer,Nebraska,3410,164.1
+
+2416,2010,Malignant neoplasms (C00-C97),Cancer,Nebraska,3438,167.4
+
+2417,2009,Malignant neoplasms (C00-C97),Cancer,Nebraska,3336,165.1
+
+2418,2008,Malignant neoplasms (C00-C97),Cancer,Nebraska,3376,169.7
+
+2419,2007,Malignant neoplasms (C00-C97),Cancer,Nebraska,3479,176.6
+
+2420,2006,Malignant neoplasms (C00-C97),Cancer,Nebraska,3430,176.6
+
+2421,2005,Malignant neoplasms (C00-C97),Cancer,Nebraska,3355,175.5
+
+2422,2004,Malignant neoplasms (C00-C97),Cancer,Nebraska,3270,173.7
+
+2423,2003,Malignant neoplasms (C00-C97),Cancer,Nebraska,3339,179
+
+2424,2002,Malignant neoplasms (C00-C97),Cancer,Nebraska,3433,186.1
+
+2425,2001,Malignant neoplasms (C00-C97),Cancer,Nebraska,3389,185.5
+
+2426,2000,Malignant neoplasms (C00-C97),Cancer,Nebraska,3382,186.2
+
+2427,1999,Malignant neoplasms (C00-C97),Cancer,Nebraska,3410,189
+
+3346,2016,Chronic lower respiratory diseases (J40-J47),CLRD,Nebraska,1117,48.9
+
+3347,2015,Chronic lower respiratory diseases (J40-J47),CLRD,Nebraska,1174,52.2
+
+3348,2014,Chronic lower respiratory diseases (J40-J47),CLRD,Nebraska,1123,50.6
+
+3349,2013,Chronic lower respiratory diseases (J40-J47),CLRD,Nebraska,1032,47.7
+
+3350,2012,Chronic lower respiratory diseases (J40-J47),CLRD,Nebraska,1052,48.9
+
+3351,2011,Chronic lower respiratory diseases (J40-J47),CLRD,Nebraska,1068,50.5
+
+3352,2010,Chronic lower respiratory diseases (J40-J47),CLRD,Nebraska,1008,48.8
+
+3353,2009,Chronic lower respiratory diseases (J40-J47),CLRD,Nebraska,987,48.3
+
+3354,2008,Chronic lower respiratory diseases (J40-J47),CLRD,Nebraska,1047,51.6
+
+3355,2007,Chronic lower respiratory diseases (J40-J47),CLRD,Nebraska,919,45.9
+
+3356,2006,Chronic lower respiratory diseases (J40-J47),CLRD,Nebraska,878,44.4
+
+3357,2005,Chronic lower respiratory diseases (J40-J47),CLRD,Nebraska,949,48.7
+
+3358,2004,Chronic lower respiratory diseases (J40-J47),CLRD,Nebraska,815,42.2
+
+3359,2003,Chronic lower respiratory diseases (J40-J47),CLRD,Nebraska,894,47
+
+3360,2002,Chronic lower respiratory diseases (J40-J47),CLRD,Nebraska,934,49.1
+
+3361,2001,Chronic lower respiratory diseases (J40-J47),CLRD,Nebraska,882,46.6
+
+3362,2000,Chronic lower respiratory diseases (J40-J47),CLRD,Nebraska,838,45
+
+3363,1999,Chronic lower respiratory diseases (J40-J47),CLRD,Nebraska,945,50.6
+
+4282,2016,Diabetes mellitus (E10-E14),Diabetes,Nebraska,501,21.9
+
+4283,2015,Diabetes mellitus (E10-E14),Diabetes,Nebraska,553,24.8
+
+4284,2014,Diabetes mellitus (E10-E14),Diabetes,Nebraska,473,21.5
+
+4285,2013,Diabetes mellitus (E10-E14),Diabetes,Nebraska,471,21.7
+
+4286,2012,Diabetes mellitus (E10-E14),Diabetes,Nebraska,442,20.7
+
+4287,2011,Diabetes mellitus (E10-E14),Diabetes,Nebraska,460,21.7
+
+4288,2010,Diabetes mellitus (E10-E14),Diabetes,Nebraska,452,21.7
+
+4289,2009,Diabetes mellitus (E10-E14),Diabetes,Nebraska,445,21.8
+
+4290,2008,Diabetes mellitus (E10-E14),Diabetes,Nebraska,470,23.2
+
+4291,2007,Diabetes mellitus (E10-E14),Diabetes,Nebraska,472,23.4
+
+4292,2006,Diabetes mellitus (E10-E14),Diabetes,Nebraska,437,22.2
+
+4293,2005,Diabetes mellitus (E10-E14),Diabetes,Nebraska,449,23.3
+
+4294,2004,Diabetes mellitus (E10-E14),Diabetes,Nebraska,395,20.5
+
+4295,2003,Diabetes mellitus (E10-E14),Diabetes,Nebraska,407,21.1
+
+4296,2002,Diabetes mellitus (E10-E14),Diabetes,Nebraska,393,20.8
+
+4297,2001,Diabetes mellitus (E10-E14),Diabetes,Nebraska,400,21.3
+
+4298,2000,Diabetes mellitus (E10-E14),Diabetes,Nebraska,411,22.2
+
+4299,1999,Diabetes mellitus (E10-E14),Diabetes,Nebraska,372,20.2
+
+5219,2016,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Nebraska,3322,140.3
+
+5220,2015,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Nebraska,3591,154.5
+
+5221,2014,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Nebraska,3296,143
+
+5222,2013,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Nebraska,3381,147.9
+
+5223,2012,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Nebraska,3307,146.9
+
+5224,2011,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Nebraska,3265,146.9
+
+5225,2010,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Nebraska,3355,154.2
+
+5226,2009,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Nebraska,3277,153.2
+
+5227,2008,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Nebraska,3459,163.2
+
+5228,2007,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Nebraska,3520,168.1
+
+5229,2006,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Nebraska,3445,168
+
+5230,2005,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Nebraska,3640,179.4
+
+5231,2004,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Nebraska,3738,187.2
+
+5232,2003,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Nebraska,3954,199.6
+
+5233,2002,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Nebraska,4242,215.5
+
+5234,2001,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Nebraska,4150,212
+
+5235,2000,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Nebraska,4197,217.1
+
+5236,1999,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Nebraska,4497,235
+
+6154,2016,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Nebraska,342,14.3
+
+6155,2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Nebraska,397,16.9
+
+6156,2014,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Nebraska,351,15.1
+
+6157,2013,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Nebraska,343,14.5
+
+6158,2012,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Nebraska,291,12.7
+
+6159,2011,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Nebraska,325,14.2
+
+6160,2010,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Nebraska,266,11.9
+
+6161,2009,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Nebraska,266,12.3
+
+6162,2008,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Nebraska,366,17
+
+6163,2007,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Nebraska,331,15.5
+
+6164,2006,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Nebraska,345,16.3
+
+6165,2005,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Nebraska,370,17.7
+
+6166,2004,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Nebraska,347,17.3
+
+6167,2003,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Nebraska,435,21.1
+
+6168,2002,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Nebraska,418,20.6
+
+6169,2001,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Nebraska,296,14.6
+
+6170,2000,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Nebraska,433,21.8
+
+6171,1999,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Nebraska,459,23
+
+7090,2016,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Nebraska,220,9.5
+
+7091,2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Nebraska,264,11.2
+
+7092,2014,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Nebraska,265,11.5
+
+7093,2013,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Nebraska,222,10
+
+7094,2012,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Nebraska,217,9.8
+
+7095,2011,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Nebraska,214,9.7
+
+7096,2010,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Nebraska,290,13.4
+
+7097,2009,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Nebraska,258,12.1
+
+7098,2008,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Nebraska,270,12.8
+
+7099,2007,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Nebraska,269,12.8
+
+7100,2006,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Nebraska,249,12.3
+
+8026,2016,Cerebrovascular diseases (I60-I69),Stroke,Nebraska,787,33.2
+
+8027,2015,Cerebrovascular diseases (I60-I69),Stroke,Nebraska,776,33.4
+
+8028,2014,Cerebrovascular diseases (I60-I69),Stroke,Nebraska,798,34.7
+
+8029,2013,Cerebrovascular diseases (I60-I69),Stroke,Nebraska,820,36.4
+
+8030,2012,Cerebrovascular diseases (I60-I69),Stroke,Nebraska,776,34.8
+
+8031,2011,Cerebrovascular diseases (I60-I69),Stroke,Nebraska,810,36.9
+
+8032,2010,Cerebrovascular diseases (I60-I69),Stroke,Nebraska,876,40.5
+
+8033,2009,Cerebrovascular diseases (I60-I69),Stroke,Nebraska,857,40.1
+
+8034,2008,Cerebrovascular diseases (I60-I69),Stroke,Nebraska,863,41
+
+8035,2007,Cerebrovascular diseases (I60-I69),Stroke,Nebraska,921,43.8
+
+8036,2006,Cerebrovascular diseases (I60-I69),Stroke,Nebraska,922,44.7
+
+8037,2005,Cerebrovascular diseases (I60-I69),Stroke,Nebraska,986,48.4
+
+8038,2004,Cerebrovascular diseases (I60-I69),Stroke,Nebraska,978,48.5
+
+8039,2003,Cerebrovascular diseases (I60-I69),Stroke,Nebraska,1094,54.7
+
+8040,2002,Cerebrovascular diseases (I60-I69),Stroke,Nebraska,1103,55.2
+
+8041,2001,Cerebrovascular diseases (I60-I69),Stroke,Nebraska,1130,57.5
+
+8042,2000,Cerebrovascular diseases (I60-I69),Stroke,Nebraska,1091,55.8
+
+8043,1999,Cerebrovascular diseases (I60-I69),Stroke,Nebraska,1176,60.2
+
+8962,2016,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Nebraska,246,13.1
+
+8963,2015,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Nebraska,223,11.7
+
+8964,2014,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Nebraska,251,13.4
+
+8965,2013,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Nebraska,220,11.6
+
+8966,2012,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Nebraska,232,12.5
+
+8967,2011,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Nebraska,193,10.5
+
+8968,2010,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Nebraska,193,10.4
+
+8969,2009,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Nebraska,170,9.3
+
+8970,2008,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Nebraska,191,10.6
+
+8971,2007,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Nebraska,181,10.1
+
+8972,2006,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Nebraska,202,11.2
+
+8973,2005,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Nebraska,187,10.9
+
+8974,2004,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Nebraska,166,9.5
+
+8975,2003,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Nebraska,176,10.2
+
+8976,2002,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Nebraska,201,11.8
+
+8977,2001,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Nebraska,187,10.9
+
+8978,2000,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Nebraska,193,11.3
+
+8979,1999,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Nebraska,177,10.5
+
+9871,2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Nebraska,799,38.9
+
+9872,2014,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Nebraska,781,38.6
+
+9873,2013,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Nebraska,703,34.9
+
+9874,2012,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Nebraska,792,39.8
+
+9875,2011,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Nebraska,678,33.6
+
+9876,2010,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Nebraska,700,35.8
+
+9877,2009,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Nebraska,683,35.6
+
+9878,2008,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Nebraska,714,37.1
+
+9879,2007,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Nebraska,674,35.8
+
+9880,2006,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Nebraska,683,36.1
+
+9881,2005,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Nebraska,704,37.4
+
+9882,2004,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Nebraska,743,39.7
+
+9883,2003,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Nebraska,696,38
+
+9884,2002,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Nebraska,762,41.7
+
+9885,2001,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Nebraska,633,34.8
+
+9886,2000,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Nebraska,640,35.3
+
+9887,1999,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Nebraska,668,37.3
+
+28,2016,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Nebraska,772,37
+
+538,2016,All Causes,All causes,Nebraska,16217,707
+
+539,2015,All Causes,All causes,Nebraska,16740,739.2
+
+540,2014,All Causes,All causes,Nebraska,15978,718.2
+
+541,2013,All Causes,All causes,Nebraska,15754,714.7
+
+542,2012,All Causes,All causes,Nebraska,15659,719
+
+543,2011,All Causes,All causes,Nebraska,15476,719.8
+
+544,2010,All Causes,All causes,Nebraska,15171,717.8
+
+545,2009,All Causes,All causes,Nebraska,14810,710.9
+
+546,2008,All Causes,All causes,Nebraska,15461,751.3
+
+547,2007,All Causes,All causes,Nebraska,15263,750.4
+
+548,2006,All Causes,All causes,Nebraska,14899,743.7
+
+549,2005,All Causes,All causes,Nebraska,14963,757.8
+
+550,2004,All Causes,All causes,Nebraska,14657,751.9
+
+551,2003,All Causes,All causes,Nebraska,15465,798.2
+
+552,2002,All Causes,All causes,Nebraska,15738,820.2
+
+553,2001,All Causes,All causes,Nebraska,15174,796.6
+
+554,2000,All Causes,All causes,Nebraska,14992,794.6
+
+555,1999,All Causes,All causes,Nebraska,15579,830.1
+
+1474,2016,Alzheimer's disease (G30),Alzheimer's disease,Nebraska,634,26.2
+
+1475,2015,Alzheimer's disease (G30),Alzheimer's disease,Nebraska,598,24.8
+
+1476,2014,Alzheimer's disease (G30),Alzheimer's disease,Nebraska,515,21.9
+
+1477,2013,Alzheimer's disease (G30),Alzheimer's disease,Nebraska,557,23.6
+
+1478,2012,Alzheimer's disease (G30),Alzheimer's disease,Nebraska,570,24.4
+
+1479,2011,Alzheimer's disease (G30),Alzheimer's disease,Nebraska,597,26
+
+1480,2010,Alzheimer's disease (G30),Alzheimer's disease,Nebraska,565,24.9
+
+1481,2009,Alzheimer's disease (G30),Alzheimer's disease,Nebraska,573,25.6
+
+1482,2008,Alzheimer's disease (G30),Alzheimer's disease,Nebraska,610,27.3
+
+1483,2007,Alzheimer's disease (G30),Alzheimer's disease,Nebraska,512,23.5
+
+1484,2006,Alzheimer's disease (G30),Alzheimer's disease,Nebraska,500,23.3
+
+1485,2005,Alzheimer's disease (G30),Alzheimer's disease,Nebraska,473,22.3
+
+1486,2004,Alzheimer's disease (G30),Alzheimer's disease,Nebraska,459,22
+
+1487,2003,Alzheimer's disease (G30),Alzheimer's disease,Nebraska,461,22.2
+
+1488,2002,Alzheimer's disease (G30),Alzheimer's disease,Nebraska,460,22.3
+
+1489,2001,Alzheimer's disease (G30),Alzheimer's disease,Nebraska,430,21
+
+1490,2000,Alzheimer's disease (G30),Alzheimer's disease,Nebraska,353,17.4
+
+1491,1999,Alzheimer's disease (G30),Alzheimer's disease,Nebraska,331,16.3
+
+2410,2016,Malignant neoplasms (C00-C97),Cancer,Nebraska,3477,153.6
+
+2411,2015,Malignant neoplasms (C00-C97),Cancer,Nebraska,3514,157.8
+
+2412,2014,Malignant neoplasms (C00-C97),Cancer,Nebraska,3459,159.6
+
+2413,2013,Malignant neoplasms (C00-C97),Cancer,Nebraska,3459,161.3
+
+2414,2012,Malignant neoplasms (C00-C97),Cancer,Nebraska,3479,164.7
+
+2415,2011,Malignant neoplasms (C00-C97),Cancer,Nebraska,3410,164.1
+
+2416,2010,Malignant neoplasms (C00-C97),Cancer,Nebraska,3438,167.4
+
+2417,2009,Malignant neoplasms (C00-C97),Cancer,Nebraska,3336,165.1
+
+2418,2008,Malignant neoplasms (C00-C97),Cancer,Nebraska,3376,169.7
+
+2419,2007,Malignant neoplasms (C00-C97),Cancer,Nebraska,3479,176.6
+
+2420,2006,Malignant neoplasms (C00-C97),Cancer,Nebraska,3430,176.6
+
+2421,2005,Malignant neoplasms (C00-C97),Cancer,Nebraska,3355,175.5
+
+2422,2004,Malignant neoplasms (C00-C97),Cancer,Nebraska,3270,173.7
+
+2423,2003,Malignant neoplasms (C00-C97),Cancer,Nebraska,3339,179
+
+2424,2002,Malignant neoplasms (C00-C97),Cancer,Nebraska,3433,186.1
+
+2425,2001,Malignant neoplasms (C00-C97),Cancer,Nebraska,3389,185.5
+
+2426,2000,Malignant neoplasms (C00-C97),Cancer,Nebraska,3382,186.2
+
+2427,1999,Malignant neoplasms (C00-C97),Cancer,Nebraska,3410,189
+
+3346,2016,Chronic lower respiratory diseases (J40-J47),CLRD,Nebraska,1117,48.9
+
+3347,2015,Chronic lower respiratory diseases (J40-J47),CLRD,Nebraska,1174,52.2
+
+3348,2014,Chronic lower respiratory diseases (J40-J47),CLRD,Nebraska,1123,50.6
+
+3349,2013,Chronic lower respiratory diseases (J40-J47),CLRD,Nebraska,1032,47.7
+
+3350,2012,Chronic lower respiratory diseases (J40-J47),CLRD,Nebraska,1052,48.9
+
+3351,2011,Chronic lower respiratory diseases (J40-J47),CLRD,Nebraska,1068,50.5
+
+3352,2010,Chronic lower respiratory diseases (J40-J47),CLRD,Nebraska,1008,48.8
+
+3353,2009,Chronic lower respiratory diseases (J40-J47),CLRD,Nebraska,987,48.3
+
+3354,2008,Chronic lower respiratory diseases (J40-J47),CLRD,Nebraska,1047,51.6
+
+3355,2007,Chronic lower respiratory diseases (J40-J47),CLRD,Nebraska,919,45.9
+
+3356,2006,Chronic lower respiratory diseases (J40-J47),CLRD,Nebraska,878,44.4
+
+3357,2005,Chronic lower respiratory diseases (J40-J47),CLRD,Nebraska,949,48.7
+
+3358,2004,Chronic lower respiratory diseases (J40-J47),CLRD,Nebraska,815,42.2
+
+3359,2003,Chronic lower respiratory diseases (J40-J47),CLRD,Nebraska,894,47
+
+3360,2002,Chronic lower respiratory diseases (J40-J47),CLRD,Nebraska,934,49.1
+
+3361,2001,Chronic lower respiratory diseases (J40-J47),CLRD,Nebraska,882,46.6
+
+3362,2000,Chronic lower respiratory diseases (J40-J47),CLRD,Nebraska,838,45
+
+3363,1999,Chronic lower respiratory diseases (J40-J47),CLRD,Nebraska,945,50.6
+
+4282,2016,Diabetes mellitus (E10-E14),Diabetes,Nebraska,501,21.9
+
+4283,2015,Diabetes mellitus (E10-E14),Diabetes,Nebraska,553,24.8
+
+4284,2014,Diabetes mellitus (E10-E14),Diabetes,Nebraska,473,21.5
+
+4285,2013,Diabetes mellitus (E10-E14),Diabetes,Nebraska,471,21.7
+
+4286,2012,Diabetes mellitus (E10-E14),Diabetes,Nebraska,442,20.7
+
+4287,2011,Diabetes mellitus (E10-E14),Diabetes,Nebraska,460,21.7
+
+4288,2010,Diabetes mellitus (E10-E14),Diabetes,Nebraska,452,21.7
+
+4289,2009,Diabetes mellitus (E10-E14),Diabetes,Nebraska,445,21.8
+
+4290,2008,Diabetes mellitus (E10-E14),Diabetes,Nebraska,470,23.2
+
+4291,2007,Diabetes mellitus (E10-E14),Diabetes,Nebraska,472,23.4
+
+4292,2006,Diabetes mellitus (E10-E14),Diabetes,Nebraska,437,22.2
+
+4293,2005,Diabetes mellitus (E10-E14),Diabetes,Nebraska,449,23.3
+
+4294,2004,Diabetes mellitus (E10-E14),Diabetes,Nebraska,395,20.5
+
+4295,2003,Diabetes mellitus (E10-E14),Diabetes,Nebraska,407,21.1
+
+4296,2002,Diabetes mellitus (E10-E14),Diabetes,Nebraska,393,20.8
+
+4297,2001,Diabetes mellitus (E10-E14),Diabetes,Nebraska,400,21.3
+
+4298,2000,Diabetes mellitus (E10-E14),Diabetes,Nebraska,411,22.2
+
+4299,1999,Diabetes mellitus (E10-E14),Diabetes,Nebraska,372,20.2
+
+5219,2016,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Nebraska,3322,140.3
+
+5220,2015,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Nebraska,3591,154.5
+
+5221,2014,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Nebraska,3296,143
+
+5222,2013,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Nebraska,3381,147.9
+
+5223,2012,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Nebraska,3307,146.9
+
+5224,2011,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Nebraska,3265,146.9
+
+5225,2010,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Nebraska,3355,154.2
+
+5226,2009,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Nebraska,3277,153.2
+
+5227,2008,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Nebraska,3459,163.2
+
+5228,2007,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Nebraska,3520,168.1
+
+5229,2006,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Nebraska,3445,168
+
+5230,2005,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Nebraska,3640,179.4
+
+5231,2004,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Nebraska,3738,187.2
+
+5232,2003,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Nebraska,3954,199.6
+
+5233,2002,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Nebraska,4242,215.5
+
+5234,2001,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Nebraska,4150,212
+
+5235,2000,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Nebraska,4197,217.1
+
+5236,1999,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Nebraska,4497,235
+
+6154,2016,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Nebraska,342,14.3
+
+6155,2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Nebraska,397,16.9
+
+6156,2014,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Nebraska,351,15.1
+
+6157,2013,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Nebraska,343,14.5
+
+6158,2012,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Nebraska,291,12.7
+
+6159,2011,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Nebraska,325,14.2
+
+6160,2010,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Nebraska,266,11.9
+
+6161,2009,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Nebraska,266,12.3
+
+6162,2008,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Nebraska,366,17
+
+6163,2007,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Nebraska,331,15.5
+
+6164,2006,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Nebraska,345,16.3
+
+6165,2005,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Nebraska,370,17.7
+
+6166,2004,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Nebraska,347,17.3
+
+6167,2003,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Nebraska,435,21.1
+
+6168,2002,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Nebraska,418,20.6
+
+6169,2001,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Nebraska,296,14.6
+
+6170,2000,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Nebraska,433,21.8
+
+6171,1999,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Nebraska,459,23
+
+7090,2016,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Nebraska,220,9.5
+
+7091,2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Nebraska,264,11.2
+
+7092,2014,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Nebraska,265,11.5
+
+7093,2013,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Nebraska,222,10
+
+7094,2012,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Nebraska,217,9.8
+
+7095,2011,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Nebraska,214,9.7
+
+7096,2010,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Nebraska,290,13.4
+
+7097,2009,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Nebraska,258,12.1
+
+7098,2008,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Nebraska,270,12.8
+
+7099,2007,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Nebraska,269,12.8
+
+7100,2006,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Nebraska,249,12.3
+
+8026,2016,Cerebrovascular diseases (I60-I69),Stroke,Nebraska,787,33.2
+
+8027,2015,Cerebrovascular diseases (I60-I69),Stroke,Nebraska,776,33.4
+
+8028,2014,Cerebrovascular diseases (I60-I69),Stroke,Nebraska,798,34.7
+
+8029,2013,Cerebrovascular diseases (I60-I69),Stroke,Nebraska,820,36.4
+
+8030,2012,Cerebrovascular diseases (I60-I69),Stroke,Nebraska,776,34.8
+
+8031,2011,Cerebrovascular diseases (I60-I69),Stroke,Nebraska,810,36.9
+
+8032,2010,Cerebrovascular diseases (I60-I69),Stroke,Nebraska,876,40.5
+
+8033,2009,Cerebrovascular diseases (I60-I69),Stroke,Nebraska,857,40.1
+
+8034,2008,Cerebrovascular diseases (I60-I69),Stroke,Nebraska,863,41
+
+8035,2007,Cerebrovascular diseases (I60-I69),Stroke,Nebraska,921,43.8
+
+8036,2006,Cerebrovascular diseases (I60-I69),Stroke,Nebraska,922,44.7
+
+8037,2005,Cerebrovascular diseases (I60-I69),Stroke,Nebraska,986,48.4
+
+8038,2004,Cerebrovascular diseases (I60-I69),Stroke,Nebraska,978,48.5
+
+8039,2003,Cerebrovascular diseases (I60-I69),Stroke,Nebraska,1094,54.7
+
+8040,2002,Cerebrovascular diseases (I60-I69),Stroke,Nebraska,1103,55.2
+
+8041,2001,Cerebrovascular diseases (I60-I69),Stroke,Nebraska,1130,57.5
+
+8042,2000,Cerebrovascular diseases (I60-I69),Stroke,Nebraska,1091,55.8
+
+8043,1999,Cerebrovascular diseases (I60-I69),Stroke,Nebraska,1176,60.2
+
+8962,2016,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Nebraska,246,13.1
+
+8963,2015,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Nebraska,223,11.7
+
+8964,2014,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Nebraska,251,13.4
+
+8965,2013,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Nebraska,220,11.6
+
+8966,2012,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Nebraska,232,12.5
+
+8967,2011,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Nebraska,193,10.5
+
+8968,2010,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Nebraska,193,10.4
+
+8969,2009,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Nebraska,170,9.3
+
+8970,2008,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Nebraska,191,10.6
+
+8971,2007,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Nebraska,181,10.1
+
+8972,2006,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Nebraska,202,11.2
+
+8973,2005,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Nebraska,187,10.9
+
+8974,2004,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Nebraska,166,9.5
+
+8975,2003,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Nebraska,176,10.2
+
+8976,2002,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Nebraska,201,11.8
+
+8977,2001,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Nebraska,187,10.9
+
+8978,2000,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Nebraska,193,11.3
+
+8979,1999,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Nebraska,177,10.5
+
+9871,2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Nebraska,799,38.9
+
+9872,2014,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Nebraska,781,38.6
+
+9873,2013,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Nebraska,703,34.9
+
+9874,2012,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Nebraska,792,39.8
+
+9875,2011,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Nebraska,678,33.6
+
+9876,2010,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Nebraska,700,35.8
+
+9877,2009,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Nebraska,683,35.6
+
+9878,2008,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Nebraska,714,37.1
+
+9879,2007,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Nebraska,674,35.8
+
+9880,2006,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Nebraska,683,36.1
+
+9881,2005,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Nebraska,704,37.4
+
+9882,2004,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Nebraska,743,39.7
+
+9883,2003,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Nebraska,696,38
+
+9884,2002,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Nebraska,762,41.7
+
+9885,2001,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Nebraska,633,34.8
+
+9886,2000,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Nebraska,640,35.3
+
+9887,1999,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Nebraska,668,37.3
+
+28,2016,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Nebraska,772,37
+
+538,2016,All Causes,All causes,Nebraska,16217,707
+
+539,2015,All Causes,All causes,Nebraska,16740,739.2
+
+540,2014,All Causes,All causes,Nebraska,15978,718.2
+
+541,2013,All Causes,All causes,Nebraska,15754,714.7
+
+542,2012,All Causes,All causes,Nebraska,15659,719
+
+543,2011,All Causes,All causes,Nebraska,15476,719.8
+
+544,2010,All Causes,All causes,Nebraska,15171,717.8
+
+545,2009,All Causes,All causes,Nebraska,14810,710.9
+
+546,2008,All Causes,All causes,Nebraska,15461,751.3
+
+547,2007,All Causes,All causes,Nebraska,15263,750.4
+
+548,2006,All Causes,All causes,Nebraska,14899,743.7
+
+549,2005,All Causes,All causes,Nebraska,14963,757.8
+
+550,2004,All Causes,All causes,Nebraska,14657,751.9
+
+551,2003,All Causes,All causes,Nebraska,15465,798.2
+
+552,2002,All Causes,All causes,Nebraska,15738,820.2
+
+553,2001,All Causes,All causes,Nebraska,15174,796.6
+
+554,2000,All Causes,All causes,Nebraska,14992,794.6
+
+555,1999,All Causes,All causes,Nebraska,15579,830.1
+
+1474,2016,Alzheimer's disease (G30),Alzheimer's disease,Nebraska,634,26.2
+
+1475,2015,Alzheimer's disease (G30),Alzheimer's disease,Nebraska,598,24.8
+
+1476,2014,Alzheimer's disease (G30),Alzheimer's disease,Nebraska,515,21.9
+
+1477,2013,Alzheimer's disease (G30),Alzheimer's disease,Nebraska,557,23.6
+
+1478,2012,Alzheimer's disease (G30),Alzheimer's disease,Nebraska,570,24.4
+
+1479,2011,Alzheimer's disease (G30),Alzheimer's disease,Nebraska,597,26
+
+1480,2010,Alzheimer's disease (G30),Alzheimer's disease,Nebraska,565,24.9
+
+1481,2009,Alzheimer's disease (G30),Alzheimer's disease,Nebraska,573,25.6
+
+1482,2008,Alzheimer's disease (G30),Alzheimer's disease,Nebraska,610,27.3
+
+1483,2007,Alzheimer's disease (G30),Alzheimer's disease,Nebraska,512,23.5
+
+1484,2006,Alzheimer's disease (G30),Alzheimer's disease,Nebraska,500,23.3
+
+1485,2005,Alzheimer's disease (G30),Alzheimer's disease,Nebraska,473,22.3
+
+1486,2004,Alzheimer's disease (G30),Alzheimer's disease,Nebraska,459,22
+
+1487,2003,Alzheimer's disease (G30),Alzheimer's disease,Nebraska,461,22.2
+
+1488,2002,Alzheimer's disease (G30),Alzheimer's disease,Nebraska,460,22.3
+
+1489,2001,Alzheimer's disease (G30),Alzheimer's disease,Nebraska,430,21
+
+1490,2000,Alzheimer's disease (G30),Alzheimer's disease,Nebraska,353,17.4
+
+1491,1999,Alzheimer's disease (G30),Alzheimer's disease,Nebraska,331,16.3
+
+2410,2016,Malignant neoplasms (C00-C97),Cancer,Nebraska,3477,153.6
+
+2411,2015,Malignant neoplasms (C00-C97),Cancer,Nebraska,3514,157.8
+
+2412,2014,Malignant neoplasms (C00-C97),Cancer,Nebraska,3459,159.6
+
+2413,2013,Malignant neoplasms (C00-C97),Cancer,Nebraska,3459,161.3
+
+2414,2012,Malignant neoplasms (C00-C97),Cancer,Nebraska,3479,164.7
+
+2415,2011,Malignant neoplasms (C00-C97),Cancer,Nebraska,3410,164.1
+
+2416,2010,Malignant neoplasms (C00-C97),Cancer,Nebraska,3438,167.4
+
+2417,2009,Malignant neoplasms (C00-C97),Cancer,Nebraska,3336,165.1
+
+2418,2008,Malignant neoplasms (C00-C97),Cancer,Nebraska,3376,169.7
+
+2419,2007,Malignant neoplasms (C00-C97),Cancer,Nebraska,3479,176.6
+
+2420,2006,Malignant neoplasms (C00-C97),Cancer,Nebraska,3430,176.6
+
+2421,2005,Malignant neoplasms (C00-C97),Cancer,Nebraska,3355,175.5
+
+2422,2004,Malignant neoplasms (C00-C97),Cancer,Nebraska,3270,173.7
+
+2423,2003,Malignant neoplasms (C00-C97),Cancer,Nebraska,3339,179
+
+2424,2002,Malignant neoplasms (C00-C97),Cancer,Nebraska,3433,186.1
+
+2425,2001,Malignant neoplasms (C00-C97),Cancer,Nebraska,3389,185.5
+
+2426,2000,Malignant neoplasms (C00-C97),Cancer,Nebraska,3382,186.2
+
+2427,1999,Malignant neoplasms (C00-C97),Cancer,Nebraska,3410,189
+
+3346,2016,Chronic lower respiratory diseases (J40-J47),CLRD,Nebraska,1117,48.9
+
+3347,2015,Chronic lower respiratory diseases (J40-J47),CLRD,Nebraska,1174,52.2
+
+3348,2014,Chronic lower respiratory diseases (J40-J47),CLRD,Nebraska,1123,50.6
+
+3349,2013,Chronic lower respiratory diseases (J40-J47),CLRD,Nebraska,1032,47.7
+
+3350,2012,Chronic lower respiratory diseases (J40-J47),CLRD,Nebraska,1052,48.9
+
+3351,2011,Chronic lower respiratory diseases (J40-J47),CLRD,Nebraska,1068,50.5
+
+3352,2010,Chronic lower respiratory diseases (J40-J47),CLRD,Nebraska,1008,48.8
+
+3353,2009,Chronic lower respiratory diseases (J40-J47),CLRD,Nebraska,987,48.3
+
+3354,2008,Chronic lower respiratory diseases (J40-J47),CLRD,Nebraska,1047,51.6
+
+3355,2007,Chronic lower respiratory diseases (J40-J47),CLRD,Nebraska,919,45.9
+
+3356,2006,Chronic lower respiratory diseases (J40-J47),CLRD,Nebraska,878,44.4
+
+3357,2005,Chronic lower respiratory diseases (J40-J47),CLRD,Nebraska,949,48.7
+
+3358,2004,Chronic lower respiratory diseases (J40-J47),CLRD,Nebraska,815,42.2
+
+3359,2003,Chronic lower respiratory diseases (J40-J47),CLRD,Nebraska,894,47
+
+3360,2002,Chronic lower respiratory diseases (J40-J47),CLRD,Nebraska,934,49.1
+
+3361,2001,Chronic lower respiratory diseases (J40-J47),CLRD,Nebraska,882,46.6
+
+3362,2000,Chronic lower respiratory diseases (J40-J47),CLRD,Nebraska,838,45
+
+3363,1999,Chronic lower respiratory diseases (J40-J47),CLRD,Nebraska,945,50.6
+
+4282,2016,Diabetes mellitus (E10-E14),Diabetes,Nebraska,501,21.9
+
+4283,2015,Diabetes mellitus (E10-E14),Diabetes,Nebraska,553,24.8
+
+4284,2014,Diabetes mellitus (E10-E14),Diabetes,Nebraska,473,21.5
+
+4285,2013,Diabetes mellitus (E10-E14),Diabetes,Nebraska,471,21.7
+
+4286,2012,Diabetes mellitus (E10-E14),Diabetes,Nebraska,442,20.7
+
+4287,2011,Diabetes mellitus (E10-E14),Diabetes,Nebraska,460,21.7
+
+4288,2010,Diabetes mellitus (E10-E14),Diabetes,Nebraska,452,21.7
+
+4289,2009,Diabetes mellitus (E10-E14),Diabetes,Nebraska,445,21.8
+
+4290,2008,Diabetes mellitus (E10-E14),Diabetes,Nebraska,470,23.2
+
+4291,2007,Diabetes mellitus (E10-E14),Diabetes,Nebraska,472,23.4
+
+4292,2006,Diabetes mellitus (E10-E14),Diabetes,Nebraska,437,22.2
+
+4293,2005,Diabetes mellitus (E10-E14),Diabetes,Nebraska,449,23.3
+
+4294,2004,Diabetes mellitus (E10-E14),Diabetes,Nebraska,395,20.5
+
+4295,2003,Diabetes mellitus (E10-E14),Diabetes,Nebraska,407,21.1
+
+4296,2002,Diabetes mellitus (E10-E14),Diabetes,Nebraska,393,20.8
+
+4297,2001,Diabetes mellitus (E10-E14),Diabetes,Nebraska,400,21.3
+
+4298,2000,Diabetes mellitus (E10-E14),Diabetes,Nebraska,411,22.2
+
+4299,1999,Diabetes mellitus (E10-E14),Diabetes,Nebraska,372,20.2
+
+5219,2016,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Nebraska,3322,140.3
+
+5220,2015,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Nebraska,3591,154.5
+
+5221,2014,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Nebraska,3296,143
+
+5222,2013,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Nebraska,3381,147.9
+
+5223,2012,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Nebraska,3307,146.9
+
+5224,2011,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Nebraska,3265,146.9
+
+5225,2010,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Nebraska,3355,154.2
+
+5226,2009,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Nebraska,3277,153.2
+
+5227,2008,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Nebraska,3459,163.2
+
+5228,2007,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Nebraska,3520,168.1
+
+5229,2006,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Nebraska,3445,168
+
+5230,2005,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Nebraska,3640,179.4
+
+5231,2004,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Nebraska,3738,187.2
+
+5232,2003,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Nebraska,3954,199.6
+
+5233,2002,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Nebraska,4242,215.5
+
+5234,2001,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Nebraska,4150,212
+
+5235,2000,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Nebraska,4197,217.1
+
+5236,1999,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Nebraska,4497,235
+
+6154,2016,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Nebraska,342,14.3
+
+6155,2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Nebraska,397,16.9
+
+6156,2014,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Nebraska,351,15.1
+
+6157,2013,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Nebraska,343,14.5
+
+6158,2012,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Nebraska,291,12.7
+
+6159,2011,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Nebraska,325,14.2
+
+6160,2010,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Nebraska,266,11.9
+
+6161,2009,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Nebraska,266,12.3
+
+6162,2008,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Nebraska,366,17
+
+6163,2007,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Nebraska,331,15.5
+
+6164,2006,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Nebraska,345,16.3
+
+6165,2005,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Nebraska,370,17.7
+
+6166,2004,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Nebraska,347,17.3
+
+6167,2003,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Nebraska,435,21.1
+
+6168,2002,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Nebraska,418,20.6
+
+6169,2001,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Nebraska,296,14.6
+
+6170,2000,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Nebraska,433,21.8
+
+6171,1999,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Nebraska,459,23
+
+7090,2016,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Nebraska,220,9.5
+
+7091,2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Nebraska,264,11.2
+
+7092,2014,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Nebraska,265,11.5
+
+7093,2013,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Nebraska,222,10
+
+7094,2012,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Nebraska,217,9.8
+
+7095,2011,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Nebraska,214,9.7
+
+7096,2010,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Nebraska,290,13.4
+
+7097,2009,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Nebraska,258,12.1
+
+7098,2008,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Nebraska,270,12.8
+
+7099,2007,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Nebraska,269,12.8
+
+7100,2006,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Nebraska,249,12.3
+
+8026,2016,Cerebrovascular diseases (I60-I69),Stroke,Nebraska,787,33.2
+
+8027,2015,Cerebrovascular diseases (I60-I69),Stroke,Nebraska,776,33.4
+
+8028,2014,Cerebrovascular diseases (I60-I69),Stroke,Nebraska,798,34.7
+
+8029,2013,Cerebrovascular diseases (I60-I69),Stroke,Nebraska,820,36.4
+
+8030,2012,Cerebrovascular diseases (I60-I69),Stroke,Nebraska,776,34.8
+
+8031,2011,Cerebrovascular diseases (I60-I69),Stroke,Nebraska,810,36.9
+
+8032,2010,Cerebrovascular diseases (I60-I69),Stroke,Nebraska,876,40.5
+
+8033,2009,Cerebrovascular diseases (I60-I69),Stroke,Nebraska,857,40.1
+
+8034,2008,Cerebrovascular diseases (I60-I69),Stroke,Nebraska,863,41
+
+8035,2007,Cerebrovascular diseases (I60-I69),Stroke,Nebraska,921,43.8
+
+8036,2006,Cerebrovascular diseases (I60-I69),Stroke,Nebraska,922,44.7
+
+8037,2005,Cerebrovascular diseases (I60-I69),Stroke,Nebraska,986,48.4
+
+8038,2004,Cerebrovascular diseases (I60-I69),Stroke,Nebraska,978,48.5
+
+8039,2003,Cerebrovascular diseases (I60-I69),Stroke,Nebraska,1094,54.7
+
+8040,2002,Cerebrovascular diseases (I60-I69),Stroke,Nebraska,1103,55.2
+
+8041,2001,Cerebrovascular diseases (I60-I69),Stroke,Nebraska,1130,57.5
+
+8042,2000,Cerebrovascular diseases (I60-I69),Stroke,Nebraska,1091,55.8
+
+8043,1999,Cerebrovascular diseases (I60-I69),Stroke,Nebraska,1176,60.2
+
+8962,2016,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Nebraska,246,13.1
+
+8963,2015,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Nebraska,223,11.7
+
+8964,2014,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Nebraska,251,13.4
+
+8965,2013,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Nebraska,220,11.6
+
+8966,2012,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Nebraska,232,12.5
+
+8967,2011,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Nebraska,193,10.5
+
+8968,2010,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Nebraska,193,10.4
+
+8969,2009,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Nebraska,170,9.3
+
+8970,2008,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Nebraska,191,10.6
+
+8971,2007,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Nebraska,181,10.1
+
+8972,2006,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Nebraska,202,11.2
+
+8973,2005,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Nebraska,187,10.9
+
+8974,2004,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Nebraska,166,9.5
+
+8975,2003,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Nebraska,176,10.2
+
+8976,2002,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Nebraska,201,11.8
+
+8977,2001,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Nebraska,187,10.9
+
+8978,2000,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Nebraska,193,11.3
+
+8979,1999,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Nebraska,177,10.5
+
+9871,2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Nebraska,799,38.9
+
+9872,2014,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Nebraska,781,38.6
+
+9873,2013,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Nebraska,703,34.9
+
+9874,2012,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Nebraska,792,39.8
+
+9875,2011,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Nebraska,678,33.6
+
+9876,2010,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Nebraska,700,35.8
+
+9877,2009,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Nebraska,683,35.6
+
+9878,2008,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Nebraska,714,37.1
+
+9879,2007,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Nebraska,674,35.8
+
+9880,2006,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Nebraska,683,36.1
+
+9881,2005,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Nebraska,704,37.4
+
+9882,2004,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Nebraska,743,39.7
+
+9883,2003,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Nebraska,696,38
+
+9884,2002,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Nebraska,762,41.7
+
+9885,2001,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Nebraska,633,34.8
+
+9886,2000,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Nebraska,640,35.3
+
+9887,1999,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Nebraska,668,37.3
+
+28,2016,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Nebraska,772,37
+
+538,2016,All Causes,All causes,Nebraska,16217,707
+
+539,2015,All Causes,All causes,Nebraska,16740,739.2
+
+540,2014,All Causes,All causes,Nebraska,15978,718.2
+
+541,2013,All Causes,All causes,Nebraska,15754,714.7
+
+542,2012,All Causes,All causes,Nebraska,15659,719
+
+543,2011,All Causes,All causes,Nebraska,15476,719.8
+
+544,2010,All Causes,All causes,Nebraska,15171,717.8
+
+545,2009,All Causes,All causes,Nebraska,14810,710.9
+
+546,2008,All Causes,All causes,Nebraska,15461,751.3
+
+547,2007,All Causes,All causes,Nebraska,15263,750.4
+
+548,2006,All Causes,All causes,Nebraska,14899,743.7
+
+549,2005,All Causes,All causes,Nebraska,14963,757.8
+
+550,2004,All Causes,All causes,Nebraska,14657,751.9
+
+551,2003,All Causes,All causes,Nebraska,15465,798.2
+
+552,2002,All Causes,All causes,Nebraska,15738,820.2
+
+553,2001,All Causes,All causes,Nebraska,15174,796.6
+
+554,2000,All Causes,All causes,Nebraska,14992,794.6
+
+555,1999,All Causes,All causes,Nebraska,15579,830.1
+
+1474,2016,Alzheimer's disease (G30),Alzheimer's disease,Nebraska,634,26.2
+
+1475,2015,Alzheimer's disease (G30),Alzheimer's disease,Nebraska,598,24.8
+
+1476,2014,Alzheimer's disease (G30),Alzheimer's disease,Nebraska,515,21.9
+
+1477,2013,Alzheimer's disease (G30),Alzheimer's disease,Nebraska,557,23.6
+
+1478,2012,Alzheimer's disease (G30),Alzheimer's disease,Nebraska,570,24.4
+
+1479,2011,Alzheimer's disease (G30),Alzheimer's disease,Nebraska,597,26
+
+1480,2010,Alzheimer's disease (G30),Alzheimer's disease,Nebraska,565,24.9
+
+1481,2009,Alzheimer's disease (G30),Alzheimer's disease,Nebraska,573,25.6
+
+1482,2008,Alzheimer's disease (G30),Alzheimer's disease,Nebraska,610,27.3
+
+1483,2007,Alzheimer's disease (G30),Alzheimer's disease,Nebraska,512,23.5
+
+1484,2006,Alzheimer's disease (G30),Alzheimer's disease,Nebraska,500,23.3
+
+1485,2005,Alzheimer's disease (G30),Alzheimer's disease,Nebraska,473,22.3
+
+1486,2004,Alzheimer's disease (G30),Alzheimer's disease,Nebraska,459,22
+
+1487,2003,Alzheimer's disease (G30),Alzheimer's disease,Nebraska,461,22.2
+
+1488,2002,Alzheimer's disease (G30),Alzheimer's disease,Nebraska,460,22.3
+
+1489,2001,Alzheimer's disease (G30),Alzheimer's disease,Nebraska,430,21
+
+1490,2000,Alzheimer's disease (G30),Alzheimer's disease,Nebraska,353,17.4
+
+1491,1999,Alzheimer's disease (G30),Alzheimer's disease,Nebraska,331,16.3
+
+2410,2016,Malignant neoplasms (C00-C97),Cancer,Nebraska,3477,153.6
+
+2411,2015,Malignant neoplasms (C00-C97),Cancer,Nebraska,3514,157.8
+
+2412,2014,Malignant neoplasms (C00-C97),Cancer,Nebraska,3459,159.6
+
+2413,2013,Malignant neoplasms (C00-C97),Cancer,Nebraska,3459,161.3
+
+2414,2012,Malignant neoplasms (C00-C97),Cancer,Nebraska,3479,164.7
+
+2415,2011,Malignant neoplasms (C00-C97),Cancer,Nebraska,3410,164.1
+
+2416,2010,Malignant neoplasms (C00-C97),Cancer,Nebraska,3438,167.4
+
+2417,2009,Malignant neoplasms (C00-C97),Cancer,Nebraska,3336,165.1
+
+2418,2008,Malignant neoplasms (C00-C97),Cancer,Nebraska,3376,169.7
+
+2419,2007,Malignant neoplasms (C00-C97),Cancer,Nebraska,3479,176.6
+
+2420,2006,Malignant neoplasms (C00-C97),Cancer,Nebraska,3430,176.6
+
+2421,2005,Malignant neoplasms (C00-C97),Cancer,Nebraska,3355,175.5
+
+2422,2004,Malignant neoplasms (C00-C97),Cancer,Nebraska,3270,173.7
+
+2423,2003,Malignant neoplasms (C00-C97),Cancer,Nebraska,3339,179
+
+2424,2002,Malignant neoplasms (C00-C97),Cancer,Nebraska,3433,186.1
+
+2425,2001,Malignant neoplasms (C00-C97),Cancer,Nebraska,3389,185.5
+
+2426,2000,Malignant neoplasms (C00-C97),Cancer,Nebraska,3382,186.2
+
+2427,1999,Malignant neoplasms (C00-C97),Cancer,Nebraska,3410,189
+
+3346,2016,Chronic lower respiratory diseases (J40-J47),CLRD,Nebraska,1117,48.9
+
+3347,2015,Chronic lower respiratory diseases (J40-J47),CLRD,Nebraska,1174,52.2
+
+3348,2014,Chronic lower respiratory diseases (J40-J47),CLRD,Nebraska,1123,50.6
+
+3349,2013,Chronic lower respiratory diseases (J40-J47),CLRD,Nebraska,1032,47.7
+
+3350,2012,Chronic lower respiratory diseases (J40-J47),CLRD,Nebraska,1052,48.9
+
+3351,2011,Chronic lower respiratory diseases (J40-J47),CLRD,Nebraska,1068,50.5
+
+3352,2010,Chronic lower respiratory diseases (J40-J47),CLRD,Nebraska,1008,48.8
+
+3353,2009,Chronic lower respiratory diseases (J40-J47),CLRD,Nebraska,987,48.3
+
+3354,2008,Chronic lower respiratory diseases (J40-J47),CLRD,Nebraska,1047,51.6
+
+3355,2007,Chronic lower respiratory diseases (J40-J47),CLRD,Nebraska,919,45.9
+
+3356,2006,Chronic lower respiratory diseases (J40-J47),CLRD,Nebraska,878,44.4
+
+3357,2005,Chronic lower respiratory diseases (J40-J47),CLRD,Nebraska,949,48.7
+
+3358,2004,Chronic lower respiratory diseases (J40-J47),CLRD,Nebraska,815,42.2
+
+3359,2003,Chronic lower respiratory diseases (J40-J47),CLRD,Nebraska,894,47
+
+3360,2002,Chronic lower respiratory diseases (J40-J47),CLRD,Nebraska,934,49.1
+
+3361,2001,Chronic lower respiratory diseases (J40-J47),CLRD,Nebraska,882,46.6
+
+3362,2000,Chronic lower respiratory diseases (J40-J47),CLRD,Nebraska,838,45
+
+3363,1999,Chronic lower respiratory diseases (J40-J47),CLRD,Nebraska,945,50.6
+
+4282,2016,Diabetes mellitus (E10-E14),Diabetes,Nebraska,501,21.9
+
+4283,2015,Diabetes mellitus (E10-E14),Diabetes,Nebraska,553,24.8
+
+4284,2014,Diabetes mellitus (E10-E14),Diabetes,Nebraska,473,21.5
+
+4285,2013,Diabetes mellitus (E10-E14),Diabetes,Nebraska,471,21.7
+
+4286,2012,Diabetes mellitus (E10-E14),Diabetes,Nebraska,442,20.7
+
+4287,2011,Diabetes mellitus (E10-E14),Diabetes,Nebraska,460,21.7
+
+4288,2010,Diabetes mellitus (E10-E14),Diabetes,Nebraska,452,21.7
+
+4289,2009,Diabetes mellitus (E10-E14),Diabetes,Nebraska,445,21.8
+
+4290,2008,Diabetes mellitus (E10-E14),Diabetes,Nebraska,470,23.2
+
+4291,2007,Diabetes mellitus (E10-E14),Diabetes,Nebraska,472,23.4
+
+4292,2006,Diabetes mellitus (E10-E14),Diabetes,Nebraska,437,22.2
+
+4293,2005,Diabetes mellitus (E10-E14),Diabetes,Nebraska,449,23.3
+
+4294,2004,Diabetes mellitus (E10-E14),Diabetes,Nebraska,395,20.5
+
+4295,2003,Diabetes mellitus (E10-E14),Diabetes,Nebraska,407,21.1
+
+4296,2002,Diabetes mellitus (E10-E14),Diabetes,Nebraska,393,20.8
+
+4297,2001,Diabetes mellitus (E10-E14),Diabetes,Nebraska,400,21.3
+
+4298,2000,Diabetes mellitus (E10-E14),Diabetes,Nebraska,411,22.2
+
+4299,1999,Diabetes mellitus (E10-E14),Diabetes,Nebraska,372,20.2
+
+5219,2016,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Nebraska,3322,140.3
+
+5220,2015,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Nebraska,3591,154.5
+
+5221,2014,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Nebraska,3296,143
+
+5222,2013,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Nebraska,3381,147.9
+
+5223,2012,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Nebraska,3307,146.9
+
+5224,2011,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Nebraska,3265,146.9
+
+5225,2010,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Nebraska,3355,154.2
+
+5226,2009,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Nebraska,3277,153.2
+
+5227,2008,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Nebraska,3459,163.2
+
+5228,2007,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Nebraska,3520,168.1
+
+5229,2006,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Nebraska,3445,168
+
+5230,2005,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Nebraska,3640,179.4
+
+5231,2004,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Nebraska,3738,187.2
+
+5232,2003,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Nebraska,3954,199.6
+
+5233,2002,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Nebraska,4242,215.5
+
+5234,2001,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Nebraska,4150,212
+
+5235,2000,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Nebraska,4197,217.1
+
+5236,1999,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Nebraska,4497,235
+
+6154,2016,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Nebraska,342,14.3
+
+6155,2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Nebraska,397,16.9
+
+6156,2014,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Nebraska,351,15.1
+
+6157,2013,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Nebraska,343,14.5
+
+6158,2012,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Nebraska,291,12.7
+
+6159,2011,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Nebraska,325,14.2
+
+6160,2010,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Nebraska,266,11.9
+
+6161,2009,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Nebraska,266,12.3
+
+6162,2008,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Nebraska,366,17
+
+6163,2007,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Nebraska,331,15.5
+
+6164,2006,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Nebraska,345,16.3
+
+6165,2005,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Nebraska,370,17.7
+
+6166,2004,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Nebraska,347,17.3
+
+6167,2003,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Nebraska,435,21.1
+
+6168,2002,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Nebraska,418,20.6
+
+6169,2001,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Nebraska,296,14.6
+
+6170,2000,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Nebraska,433,21.8
+
+6171,1999,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Nebraska,459,23
+
+7090,2016,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Nebraska,220,9.5
+
+7091,2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Nebraska,264,11.2
+
+7092,2014,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Nebraska,265,11.5
+
+7093,2013,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Nebraska,222,10
+
+7094,2012,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Nebraska,217,9.8
+
+7095,2011,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Nebraska,214,9.7
+
+7096,2010,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Nebraska,290,13.4
+
+7097,2009,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Nebraska,258,12.1
+
+7098,2008,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Nebraska,270,12.8
+
+7099,2007,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Nebraska,269,12.8
+
+7100,2006,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Nebraska,249,12.3
+
+8026,2016,Cerebrovascular diseases (I60-I69),Stroke,Nebraska,787,33.2
+
+8027,2015,Cerebrovascular diseases (I60-I69),Stroke,Nebraska,776,33.4
+
+8028,2014,Cerebrovascular diseases (I60-I69),Stroke,Nebraska,798,34.7
+
+8029,2013,Cerebrovascular diseases (I60-I69),Stroke,Nebraska,820,36.4
+
+8030,2012,Cerebrovascular diseases (I60-I69),Stroke,Nebraska,776,34.8
+
+8031,2011,Cerebrovascular diseases (I60-I69),Stroke,Nebraska,810,36.9
+
+8032,2010,Cerebrovascular diseases (I60-I69),Stroke,Nebraska,876,40.5
+
+8033,2009,Cerebrovascular diseases (I60-I69),Stroke,Nebraska,857,40.1
+
+8034,2008,Cerebrovascular diseases (I60-I69),Stroke,Nebraska,863,41
+
+8035,2007,Cerebrovascular diseases (I60-I69),Stroke,Nebraska,921,43.8
+
+8036,2006,Cerebrovascular diseases (I60-I69),Stroke,Nebraska,922,44.7
+
+8037,2005,Cerebrovascular diseases (I60-I69),Stroke,Nebraska,986,48.4
+
+8038,2004,Cerebrovascular diseases (I60-I69),Stroke,Nebraska,978,48.5
+
+8039,2003,Cerebrovascular diseases (I60-I69),Stroke,Nebraska,1094,54.7
+
+8040,2002,Cerebrovascular diseases (I60-I69),Stroke,Nebraska,1103,55.2
+
+8041,2001,Cerebrovascular diseases (I60-I69),Stroke,Nebraska,1130,57.5
+
+8042,2000,Cerebrovascular diseases (I60-I69),Stroke,Nebraska,1091,55.8
+
+8043,1999,Cerebrovascular diseases (I60-I69),Stroke,Nebraska,1176,60.2
+
+8962,2016,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Nebraska,246,13.1
+
+8963,2015,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Nebraska,223,11.7
+
+8964,2014,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Nebraska,251,13.4
+
+8965,2013,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Nebraska,220,11.6
+
+8966,2012,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Nebraska,232,12.5
+
+8967,2011,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Nebraska,193,10.5
+
+8968,2010,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Nebraska,193,10.4
+
+8969,2009,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Nebraska,170,9.3
+
+8970,2008,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Nebraska,191,10.6
+
+8971,2007,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Nebraska,181,10.1
+
+8972,2006,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Nebraska,202,11.2
+
+8973,2005,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Nebraska,187,10.9
+
+8974,2004,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Nebraska,166,9.5
+
+8975,2003,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Nebraska,176,10.2
+
+8976,2002,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Nebraska,201,11.8
+
+8977,2001,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Nebraska,187,10.9
+
+8978,2000,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Nebraska,193,11.3
+
+8979,1999,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Nebraska,177,10.5
+
+9871,2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Nebraska,799,38.9
+
+9872,2014,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Nebraska,781,38.6
+
+9873,2013,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Nebraska,703,34.9
+
+9874,2012,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Nebraska,792,39.8
+
+9875,2011,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Nebraska,678,33.6
+
+9876,2010,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Nebraska,700,35.8
+
+9877,2009,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Nebraska,683,35.6
+
+9878,2008,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Nebraska,714,37.1
+
+9879,2007,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Nebraska,674,35.8
+
+9880,2006,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Nebraska,683,36.1
+
+9881,2005,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Nebraska,704,37.4
+
+9882,2004,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Nebraska,743,39.7
+
+9883,2003,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Nebraska,696,38
+
+9884,2002,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Nebraska,762,41.7
+
+9885,2001,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Nebraska,633,34.8
+
+9886,2000,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Nebraska,640,35.3
+
+9887,1999,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Nebraska,668,37.3
+

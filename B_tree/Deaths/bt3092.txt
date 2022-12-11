@@ -1,0 +1,4 @@
+4045,2001,Diabetes mellitus (E10-E14),Diabetes,Illinois,3092,25.5
+
+4045,2001,Diabetes mellitus (E10-E14),Diabetes,Illinois,3092,25.5
+

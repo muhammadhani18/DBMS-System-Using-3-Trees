@@ -1,0 +1,16 @@
+3073,2001,Chronic lower respiratory diseases (J40-J47),CLRD,Hawaii,280,21.9
+
+4323,2011,Diabetes mellitus (E10-E14),Diabetes,New Hampshire,280,18.3
+
+4327,2007,Diabetes mellitus (E10-E14),Diabetes,New Hampshire,280,20.2
+
+4510,2004,Diabetes mellitus (E10-E14),Diabetes,Rhode Island,280,22.4
+
+3073,2001,Chronic lower respiratory diseases (J40-J47),CLRD,Hawaii,280,21.9
+
+4323,2011,Diabetes mellitus (E10-E14),Diabetes,New Hampshire,280,18.3
+
+4327,2007,Diabetes mellitus (E10-E14),Diabetes,New Hampshire,280,20.2
+
+4510,2004,Diabetes mellitus (E10-E14),Diabetes,Rhode Island,280,22.4
+

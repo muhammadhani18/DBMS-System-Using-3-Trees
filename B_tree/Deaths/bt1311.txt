@@ -1,0 +1,12 @@
+5561,2015,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Vermont,1311,152.5
+
+5562,2014,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Vermont,1311,156.6
+
+9476,2002,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arkansas,1311,47.6
+
+5561,2015,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Vermont,1311,152.5
+
+5562,2014,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Vermont,1311,156.6
+
+9476,2002,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arkansas,1311,47.6
+

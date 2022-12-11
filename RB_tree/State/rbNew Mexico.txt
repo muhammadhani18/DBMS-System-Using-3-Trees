@@ -1,0 +1,396 @@
+32,2016,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,New Mexico,1487,69.5
+
+610,2016,All Causes,All causes,New Mexico,18365,753.4
+
+611,2015,All Causes,All causes,New Mexico,17685,741.5
+
+612,2014,All Causes,All causes,New Mexico,17579,749.6
+
+613,2013,All Causes,All causes,New Mexico,16805,731.8
+
+614,2012,All Causes,All causes,New Mexico,16710,744.6
+
+615,2011,All Causes,All causes,New Mexico,16452,748.9
+
+616,2010,All Causes,All causes,New Mexico,15931,749
+
+617,2009,All Causes,All causes,New Mexico,15643,749.8
+
+618,2008,All Causes,All causes,New Mexico,16005,788.6
+
+619,2007,All Causes,All causes,New Mexico,15482,778.6
+
+620,2006,All Causes,All causes,New Mexico,15296,793.1
+
+621,2005,All Causes,All causes,New Mexico,14983,800.1
+
+622,2004,All Causes,All causes,New Mexico,14298,786.7
+
+623,2003,All Causes,All causes,New Mexico,14805,832.1
+
+624,2002,All Causes,All causes,New Mexico,14344,823.8
+
+625,2001,All Causes,All causes,New Mexico,14129,829.5
+
+626,2000,All Causes,All causes,New Mexico,13425,808.6
+
+627,1999,All Causes,All causes,New Mexico,13676,842.2
+
+1546,2016,Alzheimer's disease (G30),Alzheimer's disease,New Mexico,583,23.5
+
+1547,2015,Alzheimer's disease (G30),Alzheimer's disease,New Mexico,483,19.9
+
+1548,2014,Alzheimer's disease (G30),Alzheimer's disease,New Mexico,442,18.9
+
+1549,2013,Alzheimer's disease (G30),Alzheimer's disease,New Mexico,339,14.9
+
+1550,2012,Alzheimer's disease (G30),Alzheimer's disease,New Mexico,373,17.1
+
+1551,2011,Alzheimer's disease (G30),Alzheimer's disease,New Mexico,423,19.8
+
+1552,2010,Alzheimer's disease (G30),Alzheimer's disease,New Mexico,343,16.8
+
+1553,2009,Alzheimer's disease (G30),Alzheimer's disease,New Mexico,373,18.6
+
+1554,2008,Alzheimer's disease (G30),Alzheimer's disease,New Mexico,366,19
+
+1555,2007,Alzheimer's disease (G30),Alzheimer's disease,New Mexico,322,17.1
+
+1556,2006,Alzheimer's disease (G30),Alzheimer's disease,New Mexico,348,19.3
+
+1557,2005,Alzheimer's disease (G30),Alzheimer's disease,New Mexico,327,18.7
+
+1558,2004,Alzheimer's disease (G30),Alzheimer's disease,New Mexico,328,19.3
+
+1559,2003,Alzheimer's disease (G30),Alzheimer's disease,New Mexico,360,21.6
+
+1560,2002,Alzheimer's disease (G30),Alzheimer's disease,New Mexico,325,19.9
+
+1561,2001,Alzheimer's disease (G30),Alzheimer's disease,New Mexico,297,18.6
+
+1562,2000,Alzheimer's disease (G30),Alzheimer's disease,New Mexico,275,17.7
+
+1563,1999,Alzheimer's disease (G30),Alzheimer's disease,New Mexico,248,16.4
+
+2482,2016,Malignant neoplasms (C00-C97),Cancer,New Mexico,3560,138.8
+
+2483,2015,Malignant neoplasms (C00-C97),Cancer,New Mexico,3591,143.3
+
+2484,2014,Malignant neoplasms (C00-C97),Cancer,New Mexico,3478,142.4
+
+2485,2013,Malignant neoplasms (C00-C97),Cancer,New Mexico,3482,145.4
+
+2486,2012,Malignant neoplasms (C00-C97),Cancer,New Mexico,3462,148.1
+
+2487,2011,Malignant neoplasms (C00-C97),Cancer,New Mexico,3328,146.9
+
+2488,2010,Malignant neoplasms (C00-C97),Cancer,New Mexico,3358,152.4
+
+2489,2009,Malignant neoplasms (C00-C97),Cancer,New Mexico,3202,149
+
+2490,2008,Malignant neoplasms (C00-C97),Cancer,New Mexico,3355,160.3
+
+2491,2007,Malignant neoplasms (C00-C97),Cancer,New Mexico,3238,158.1
+
+2492,2006,Malignant neoplasms (C00-C97),Cancer,New Mexico,3147,158.5
+
+2493,2005,Malignant neoplasms (C00-C97),Cancer,New Mexico,3141,162.9
+
+2494,2004,Malignant neoplasms (C00-C97),Cancer,New Mexico,3036,162.5
+
+2495,2003,Malignant neoplasms (C00-C97),Cancer,New Mexico,3103,170.1
+
+2496,2002,Malignant neoplasms (C00-C97),Cancer,New Mexico,3067,173.2
+
+2497,2001,Malignant neoplasms (C00-C97),Cancer,New Mexico,2900,167.3
+
+2498,2000,Malignant neoplasms (C00-C97),Cancer,New Mexico,2906,172.3
+
+2499,1999,Malignant neoplasms (C00-C97),Cancer,New Mexico,2857,173.3
+
+3418,2016,Chronic lower respiratory diseases (J40-J47),CLRD,New Mexico,1131,44.4
+
+3419,2015,Chronic lower respiratory diseases (J40-J47),CLRD,New Mexico,1109,44.7
+
+3420,2014,Chronic lower respiratory diseases (J40-J47),CLRD,New Mexico,1127,46.4
+
+3421,2013,Chronic lower respiratory diseases (J40-J47),CLRD,New Mexico,1052,44.7
+
+3422,2012,Chronic lower respiratory diseases (J40-J47),CLRD,New Mexico,965,42.5
+
+3423,2011,Chronic lower respiratory diseases (J40-J47),CLRD,New Mexico,1024,46.2
+
+3424,2010,Chronic lower respiratory diseases (J40-J47),CLRD,New Mexico,1022,47.7
+
+3425,2009,Chronic lower respiratory diseases (J40-J47),CLRD,New Mexico,984,47.1
+
+3426,2008,Chronic lower respiratory diseases (J40-J47),CLRD,New Mexico,1001,49.7
+
+3427,2007,Chronic lower respiratory diseases (J40-J47),CLRD,New Mexico,884,45.1
+
+3428,2006,Chronic lower respiratory diseases (J40-J47),CLRD,New Mexico,888,46.5
+
+3429,2005,Chronic lower respiratory diseases (J40-J47),CLRD,New Mexico,855,46.2
+
+3430,2004,Chronic lower respiratory diseases (J40-J47),CLRD,New Mexico,753,42
+
+3431,2003,Chronic lower respiratory diseases (J40-J47),CLRD,New Mexico,936,53.3
+
+3432,2002,Chronic lower respiratory diseases (J40-J47),CLRD,New Mexico,857,49.7
+
+3433,2001,Chronic lower respiratory diseases (J40-J47),CLRD,New Mexico,775,45.8
+
+3434,2000,Chronic lower respiratory diseases (J40-J47),CLRD,New Mexico,767,46.9
+
+3435,1999,Chronic lower respiratory diseases (J40-J47),CLRD,New Mexico,848,52.9
+
+4354,2016,Diabetes mellitus (E10-E14),Diabetes,New Mexico,678,27.2
+
+4355,2015,Diabetes mellitus (E10-E14),Diabetes,New Mexico,608,24.9
+
+4356,2014,Diabetes mellitus (E10-E14),Diabetes,New Mexico,671,27.5
+
+4357,2013,Diabetes mellitus (E10-E14),Diabetes,New Mexico,646,27.6
+
+4358,2012,Diabetes mellitus (E10-E14),Diabetes,New Mexico,652,28.3
+
+4359,2011,Diabetes mellitus (E10-E14),Diabetes,New Mexico,612,27.3
+
+4360,2010,Diabetes mellitus (E10-E14),Diabetes,New Mexico,643,29.8
+
+4361,2009,Diabetes mellitus (E10-E14),Diabetes,New Mexico,597,28.3
+
+4362,2008,Diabetes mellitus (E10-E14),Diabetes,New Mexico,582,28.3
+
+4363,2007,Diabetes mellitus (E10-E14),Diabetes,New Mexico,673,33.2
+
+4364,2006,Diabetes mellitus (E10-E14),Diabetes,New Mexico,606,30.6
+
+4365,2005,Diabetes mellitus (E10-E14),Diabetes,New Mexico,595,31.4
+
+4366,2004,Diabetes mellitus (E10-E14),Diabetes,New Mexico,590,31.9
+
+4367,2003,Diabetes mellitus (E10-E14),Diabetes,New Mexico,599,33.2
+
+4368,2002,Diabetes mellitus (E10-E14),Diabetes,New Mexico,582,33
+
+4369,2001,Diabetes mellitus (E10-E14),Diabetes,New Mexico,538,31.5
+
+4370,2000,Diabetes mellitus (E10-E14),Diabetes,New Mexico,485,29.1
+
+4371,1999,Diabetes mellitus (E10-E14),Diabetes,New Mexico,517,31.4
+
+5291,2016,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,New Mexico,3800,150.6
+
+5292,2015,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,New Mexico,3508,142.4
+
+5293,2014,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,New Mexico,3424,143.3
+
+5294,2013,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,New Mexico,3425,147.1
+
+5295,2012,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,New Mexico,3352,147.8
+
+5296,2011,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,New Mexico,3333,150.3
+
+5297,2010,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,New Mexico,3224,151.2
+
+5298,2009,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,New Mexico,3214,153.6
+
+5299,2008,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,New Mexico,3275,161.3
+
+5300,2007,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,New Mexico,3305,167.2
+
+5301,2006,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,New Mexico,3411,179.5
+
+5302,2005,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,New Mexico,3435,186.3
+
+5303,2004,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,New Mexico,3264,183.1
+
+5304,2003,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,New Mexico,3402,194.8
+
+5305,2002,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,New Mexico,3360,196.4
+
+5306,2001,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,New Mexico,3423,204.8
+
+5307,2000,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,New Mexico,3191,196.6
+
+5308,1999,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,New Mexico,3452,218
+
+6226,2016,Influenza and pneumonia (J09-J18),Influenza and pneumonia,New Mexico,353,14.6
+
+6227,2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,New Mexico,322,13.6
+
+6228,2014,Influenza and pneumonia (J09-J18),Influenza and pneumonia,New Mexico,376,16.1
+
+6229,2013,Influenza and pneumonia (J09-J18),Influenza and pneumonia,New Mexico,337,14.8
+
+6230,2012,Influenza and pneumonia (J09-J18),Influenza and pneumonia,New Mexico,281,12.5
+
+6231,2011,Influenza and pneumonia (J09-J18),Influenza and pneumonia,New Mexico,355,16.5
+
+6232,2010,Influenza and pneumonia (J09-J18),Influenza and pneumonia,New Mexico,294,14.2
+
+6233,2009,Influenza and pneumonia (J09-J18),Influenza and pneumonia,New Mexico,344,16.7
+
+6234,2008,Influenza and pneumonia (J09-J18),Influenza and pneumonia,New Mexico,351,17.5
+
+6235,2007,Influenza and pneumonia (J09-J18),Influenza and pneumonia,New Mexico,298,15.5
+
+6236,2006,Influenza and pneumonia (J09-J18),Influenza and pneumonia,New Mexico,353,18.9
+
+6237,2005,Influenza and pneumonia (J09-J18),Influenza and pneumonia,New Mexico,353,19.4
+
+6238,2004,Influenza and pneumonia (J09-J18),Influenza and pneumonia,New Mexico,308,17.7
+
+6239,2003,Influenza and pneumonia (J09-J18),Influenza and pneumonia,New Mexico,369,21.6
+
+6240,2002,Influenza and pneumonia (J09-J18),Influenza and pneumonia,New Mexico,372,22.3
+
+6241,2001,Influenza and pneumonia (J09-J18),Influenza and pneumonia,New Mexico,398,24.3
+
+6242,2000,Influenza and pneumonia (J09-J18),Influenza and pneumonia,New Mexico,290,18.2
+
+6243,1999,Influenza and pneumonia (J09-J18),Influenza and pneumonia,New Mexico,374,24.2
+
+7162,2016,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,New Mexico,293,11.7
+
+7163,2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,New Mexico,316,12.9
+
+7164,2014,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,New Mexico,267,11.3
+
+7165,2013,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,New Mexico,302,13.2
+
+7166,2012,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,New Mexico,285,12.6
+
+7167,2011,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,New Mexico,268,12
+
+7168,2010,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,New Mexico,276,13.1
+
+7169,2009,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,New Mexico,274,13.2
+
+7170,2008,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,New Mexico,287,14.1
+
+7171,2007,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,New Mexico,252,12.8
+
+7172,2006,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,New Mexico,262,13.4
+
+7173,2005,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,New Mexico,239,13
+
+7174,2004,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,New Mexico,227,12.6
+
+7175,2003,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,New Mexico,217,12.3
+
+7176,2002,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,New Mexico,220,12.9
+
+7177,2001,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,New Mexico,172,10.3
+
+7178,2000,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,New Mexico,152,9.3
+
+7179,1999,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,New Mexico,162,10.1
+
+8098,2016,Cerebrovascular diseases (I60-I69),Stroke,New Mexico,885,35.5
+
+8099,2015,Cerebrovascular diseases (I60-I69),Stroke,New Mexico,786,32.5
+
+8100,2014,Cerebrovascular diseases (I60-I69),Stroke,New Mexico,822,34.7
+
+8101,2013,Cerebrovascular diseases (I60-I69),Stroke,New Mexico,689,30
+
+8102,2012,Cerebrovascular diseases (I60-I69),Stroke,New Mexico,677,30.3
+
+8103,2011,Cerebrovascular diseases (I60-I69),Stroke,New Mexico,727,33.5
+
+8104,2010,Cerebrovascular diseases (I60-I69),Stroke,New Mexico,806,38.4
+
+8105,2009,Cerebrovascular diseases (I60-I69),Stroke,New Mexico,726,35.2
+
+8106,2008,Cerebrovascular diseases (I60-I69),Stroke,New Mexico,760,38.3
+
+8107,2007,Cerebrovascular diseases (I60-I69),Stroke,New Mexico,804,41.3
+
+8108,2006,Cerebrovascular diseases (I60-I69),Stroke,New Mexico,739,39.3
+
+8109,2005,Cerebrovascular diseases (I60-I69),Stroke,New Mexico,730,40.1
+
+8110,2004,Cerebrovascular diseases (I60-I69),Stroke,New Mexico,721,41.1
+
+8111,2003,Cerebrovascular diseases (I60-I69),Stroke,New Mexico,770,44.6
+
+8112,2002,Cerebrovascular diseases (I60-I69),Stroke,New Mexico,715,42.2
+
+8113,2001,Cerebrovascular diseases (I60-I69),Stroke,New Mexico,824,50.1
+
+8114,2000,Cerebrovascular diseases (I60-I69),Stroke,New Mexico,813,50.6
+
+8115,1999,Cerebrovascular diseases (I60-I69),Stroke,New Mexico,817,52.5
+
+9034,2016,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,New Mexico,471,22.5
+
+9035,2015,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,New Mexico,500,23.7
+
+9036,2014,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,New Mexico,449,21
+
+9037,2013,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,New Mexico,431,20.3
+
+9038,2012,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,New Mexico,442,21.3
+
+9039,2011,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,New Mexico,420,20.3
+
+9040,2010,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,New Mexico,413,20.1
+
+9041,2009,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,New Mexico,376,18.2
+
+9042,2008,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,New Mexico,419,20.9
+
+9043,2007,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,New Mexico,401,20.3
+
+9044,2006,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,New Mexico,352,17.9
+
+9045,2005,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,New Mexico,342,17.8
+
+9046,2004,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,New Mexico,356,18.8
+
+9047,2003,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,New Mexico,343,18.6
+
+9048,2002,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,New Mexico,349,19.2
+
+9049,2001,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,New Mexico,362,20.3
+
+9050,2000,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,New Mexico,327,18.3
+
+9051,1999,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,New Mexico,318,18.1
+
+9939,2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,New Mexico,1430,67.3
+
+9940,2014,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,New Mexico,1534,72.1
+
+9941,2013,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,New Mexico,1245,59
+
+9942,2012,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,New Mexico,1351,65
+
+9943,2011,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,New Mexico,1336,64.4
+
+9944,2010,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,New Mexico,1233,60.7
+
+9945,2009,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,New Mexico,1281,63.8
+
+9946,2008,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,New Mexico,1366,69.3
+
+9947,2007,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,New Mexico,1329,67.7
+
+9948,2006,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,New Mexico,1297,67.6
+
+9949,2005,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,New Mexico,1267,67
+
+9950,2004,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,New Mexico,1223,66
+
+9951,2003,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,New Mexico,1227,67.3
+
+9952,2002,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,New Mexico,1105,61.4
+
+9953,2001,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,New Mexico,1020,57.7
+
+9954,2000,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,New Mexico,995,56.8
+
+9955,1999,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,New Mexico,969,55.9
+

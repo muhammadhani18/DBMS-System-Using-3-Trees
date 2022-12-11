@@ -1,0 +1,8 @@
+1722,2002,Alzheimer's disease (G30),Alzheimer's disease,South Carolina,967,27.1
+
+5975,2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Kentucky,967,19.3
+
+1722,2002,Alzheimer's disease (G30),Alzheimer's disease,South Carolina,967,27.1
+
+5975,2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Kentucky,967,19.3
+

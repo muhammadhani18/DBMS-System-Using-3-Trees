@@ -1,0 +1,24 @@
+1491,1999,Alzheimer's disease (G30),Alzheimer's disease,Nebraska,331,16.3
+
+1522,2004,Alzheimer's disease (G30),Alzheimer's disease,New Hampshire,331,25.9
+
+3475,2013,Chronic lower respiratory diseases (J40-J47),CLRD,North Dakota,331,38.2
+
+4021,2007,Diabetes mellitus (E10-E14),Diabetes,Idaho,331,22.9
+
+6163,2007,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Nebraska,331,15.5
+
+7285,2001,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Oregon,331,9.1
+
+1491,1999,Alzheimer's disease (G30),Alzheimer's disease,Nebraska,331,16.3
+
+1522,2004,Alzheimer's disease (G30),Alzheimer's disease,New Hampshire,331,25.9
+
+3475,2013,Chronic lower respiratory diseases (J40-J47),CLRD,North Dakota,331,38.2
+
+4021,2007,Diabetes mellitus (E10-E14),Diabetes,Idaho,331,22.9
+
+6163,2007,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Nebraska,331,15.5
+
+7285,2001,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Oregon,331,9.1
+

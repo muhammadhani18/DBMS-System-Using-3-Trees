@@ -1,0 +1,16 @@
+4123,2013,Diabetes mellitus (E10-E14),Diabetes,Louisiana,1329,26.9
+
+4186,2004,Diabetes mellitus (E10-E14),Diabetes,Massachusetts,1329,18.7
+
+9473,2005,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arkansas,1329,47
+
+9947,2007,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,New Mexico,1329,67.7
+
+4123,2013,Diabetes mellitus (E10-E14),Diabetes,Louisiana,1329,26.9
+
+4186,2004,Diabetes mellitus (E10-E14),Diabetes,Massachusetts,1329,18.7
+
+9473,2005,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arkansas,1329,47
+
+9947,2007,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,New Mexico,1329,67.7
+

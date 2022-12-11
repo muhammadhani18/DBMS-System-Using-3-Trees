@@ -1,0 +1,8 @@
+1833,1999,Alzheimer's disease (G30),Alzheimer's disease,Vermont,127,20.5
+
+3940,2016,Diabetes mellitus (E10-E14),Diabetes,District of Columbia,127,19.8
+
+5807,2003,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Delaware,127,15.8
+
+9179,2015,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Rhode Island,127,11.2
+

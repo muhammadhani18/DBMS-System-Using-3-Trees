@@ -1,0 +1,4 @@
+3648,2002,Chronic lower respiratory diseases (J40-J47),CLRD,Texas,7720,45.7
+
+3648,2002,Chronic lower respiratory diseases (J40-J47),CLRD,Texas,7720,45.7
+

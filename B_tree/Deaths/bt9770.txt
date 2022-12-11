@@ -1,0 +1,8 @@
+756,2014,All Causes,All causes,Rhode Island,9770,700.9
+
+7704,2014,Cerebrovascular diseases (I60-I69),Stroke,Florida,9770,33
+
+756,2014,All Causes,All causes,Rhode Island,9770,700.9
+
+7704,2014,Cerebrovascular diseases (I60-I69),Stroke,Florida,9770,33
+

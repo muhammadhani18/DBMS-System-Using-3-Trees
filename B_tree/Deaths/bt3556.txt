@@ -1,0 +1,4 @@
+2445,1999,Malignant neoplasms (C00-C97),Cancer,Nevada,3556,206.7
+
+2445,1999,Malignant neoplasms (C00-C97),Cancer,Nevada,3556,206.7
+

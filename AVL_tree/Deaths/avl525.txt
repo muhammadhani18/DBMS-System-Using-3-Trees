@@ -1,0 +1,6 @@
+3685,2001,Chronic lower respiratory diseases (J40-J47),CLRD,Utah,525,33.9
+
+5762,2012,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Colorado,525,11
+
+10078,2012,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Rhode Island,525,44.1
+

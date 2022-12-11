@@ -1,0 +1,8 @@
+6306,2008,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Ohio,2085,15.8
+
+8198,2006,Cerebrovascular diseases (I60-I69),Stroke,Oklahoma,2085,55.7
+
+6306,2008,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Ohio,2085,15.8
+
+8198,2006,Cerebrovascular diseases (I60-I69),Stroke,Oklahoma,2085,55.7
+

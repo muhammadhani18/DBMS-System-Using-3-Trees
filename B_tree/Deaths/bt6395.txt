@@ -1,0 +1,8 @@
+2025,2005,Malignant neoplasms (C00-C97),Cancer,Colorado,6395,159.7
+
+3883,2001,Diabetes mellitus (E10-E14),Diabetes,California,6395,21.5
+
+2025,2005,Malignant neoplasms (C00-C97),Cancer,Colorado,6395,159.7
+
+3883,2001,Diabetes mellitus (E10-E14),Diabetes,California,6395,21.5
+

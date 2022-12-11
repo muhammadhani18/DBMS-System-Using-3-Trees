@@ -1,0 +1,6 @@
+1949,2009,Malignant neoplasms (C00-C97),Cancer,Alaska,895,183
+
+2045,2003,Malignant neoplasms (C00-C97),Cancer,Connecticut,7131,183
+
+2474,2006,Malignant neoplasms (C00-C97),Cancer,New Jersey,17180,183
+

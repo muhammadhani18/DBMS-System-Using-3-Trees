@@ -1,0 +1,16 @@
+4069,2013,Diabetes mellitus (E10-E14),Diabetes,Iowa,747,19
+
+6391,2013,Influenza and pneumonia (J09-J18),Influenza and pneumonia,South Carolina,747,14.2
+
+6394,2010,Influenza and pneumonia (J09-J18),Influenza and pneumonia,South Carolina,747,15.9
+
+7754,2000,Cerebrovascular diseases (I60-I69),Stroke,Hawaii,747,61.4
+
+4069,2013,Diabetes mellitus (E10-E14),Diabetes,Iowa,747,19
+
+6391,2013,Influenza and pneumonia (J09-J18),Influenza and pneumonia,South Carolina,747,14.2
+
+6394,2010,Influenza and pneumonia (J09-J18),Influenza and pneumonia,South Carolina,747,15.9
+
+7754,2000,Cerebrovascular diseases (I60-I69),Stroke,Hawaii,747,61.4
+

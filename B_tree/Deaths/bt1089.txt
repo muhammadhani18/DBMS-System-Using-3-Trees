@@ -1,0 +1,8 @@
+4450,2010,Diabetes mellitus (E10-E14),Diabetes,Oklahoma,1089,26.9
+
+9696,2003,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Kansas,1089,38.6
+
+4450,2010,Diabetes mellitus (E10-E14),Diabetes,Oklahoma,1089,26.9
+
+9696,2003,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Kansas,1089,38.6
+

@@ -1,0 +1,46 @@
+1677,2011,Alzheimer's disease (G30),Alzheimer's disease,Pennsylvania,3496,19.1
+
+3065,2009,Chronic lower respiratory diseases (J40-J47),CLRD,Hawaii,303,19.1
+
+3899,2003,Diabetes mellitus (E10-E14),Diabetes,Colorado,708,19.1
+
+3916,2004,Diabetes mellitus (E10-E14),Diabetes,Connecticut,767,19.1
+
+4159,2013,Diabetes mellitus (E10-E14),Diabetes,Maryland,1249,19.1
+
+4214,2012,Diabetes mellitus (E10-E14),Diabetes,Minnesota,1165,19.1
+
+4218,2008,Diabetes mellitus (E10-E14),Diabetes,Minnesota,1087,19.1
+
+4268,2012,Diabetes mellitus (E10-E14),Diabetes,Montana,233,19.1
+
+4270,2010,Diabetes mellitus (E10-E14),Diabetes,Montana,227,19.1
+
+4507,2007,Diabetes mellitus (E10-E14),Diabetes,Rhode Island,248,19.1
+
+4698,2014,Diabetes mellitus (E10-E14),Diabetes,Wisconsin,1352,19.1
+
+5977,2013,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Kentucky,919,19.1
+
+6270,2008,Influenza and pneumonia (J09-J18),Influenza and pneumonia,North Carolina,1737,19.1
+
+6311,2003,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Ohio,2330,19.1
+
+6366,2002,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Pennsylvania,2957,19.1
+
+6871,2001,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Indiana,1149,19.1
+
+6993,2005,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Massachusetts,1410,19.1
+
+7062,2008,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Missouri,1274,19.1
+
+7207,2007,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,North Carolina,1723,19.1
+
+7208,2006,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,North Carolina,1661,19.1
+
+7492,2011,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,West Virginia,445,19.1
+
+8531,2015,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arkansas,577,19.1
+
+9126,2014,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Oklahoma,736,19.1
+

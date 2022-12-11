@@ -1,0 +1,8 @@
+1406,2012,Alzheimer's disease (G30),Alzheimer's disease,Minnesota,1445,22.2
+
+2981,2003,Chronic lower respiratory diseases (J40-J47),CLRD,Connecticut,1445,36.1
+
+1406,2012,Alzheimer's disease (G30),Alzheimer's disease,Minnesota,1445,22.2
+
+2981,2003,Chronic lower respiratory diseases (J40-J47),CLRD,Connecticut,1445,36.1
+

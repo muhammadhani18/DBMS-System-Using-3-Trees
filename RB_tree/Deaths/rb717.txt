@@ -1,0 +1,4 @@
+3087,2005,Chronic lower respiratory diseases (J40-J47),CLRD,Idaho,717,54.1
+
+6317,2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Oklahoma,717,16.5
+

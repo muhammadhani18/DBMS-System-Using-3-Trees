@@ -1,0 +1,10 @@
+1498,2010,Alzheimer's disease (G30),Alzheimer's disease,Nevada,296,14.2
+
+3064,2010,Chronic lower respiratory diseases (J40-J47),CLRD,Hawaii,296,18
+
+3700,2004,Chronic lower respiratory diseases (J40-J47),CLRD,Vermont,296,45
+
+4328,2006,Diabetes mellitus (E10-E14),Diabetes,New Hampshire,296,21.4
+
+6169,2001,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Nebraska,296,14.6
+

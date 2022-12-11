@@ -1,0 +1,8 @@
+679,2001,All Causes,All causes,North Dakota,6048,780.2
+
+5032,2004,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Kansas,6048,198.9
+
+679,2001,All Causes,All causes,North Dakota,6048,780.2
+
+5032,2004,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Kansas,6048,198.9
+

@@ -1,0 +1,4 @@
+8014,2010,Cerebrovascular diseases (I60-I69),Stroke,Montana,494,41.8
+
+8072,2006,Cerebrovascular diseases (I60-I69),Stroke,New Hampshire,494,36.1
+

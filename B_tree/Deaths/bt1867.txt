@@ -1,0 +1,12 @@
+2404,2004,Malignant neoplasms (C00-C97),Cancer,Montana,1867,179.6
+
+2408,2000,Malignant neoplasms (C00-C97),Cancer,Montana,1867,194
+
+9814,2004,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Minnesota,1867,35.5
+
+2404,2004,Malignant neoplasms (C00-C97),Cancer,Montana,1867,179.6
+
+2408,2000,Malignant neoplasms (C00-C97),Cancer,Montana,1867,194
+
+9814,2004,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Minnesota,1867,35.5
+

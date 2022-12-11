@@ -1,0 +1,4 @@
+7182,2014,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,New York,2207,9.3
+
+7585,2007,Cerebrovascular diseases (I60-I69),Stroke,Arizona,2207,35.9
+

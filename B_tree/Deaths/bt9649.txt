@@ -1,0 +1,4 @@
+2340,2014,Malignant neoplasms (C00-C97),Cancer,Minnesota,9649,152.6
+
+2340,2014,Malignant neoplasms (C00-C97),Cancer,Minnesota,9649,152.6
+

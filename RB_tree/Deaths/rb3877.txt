@@ -1,0 +1,6 @@
+1222,2016,Alzheimer's disease (G30),Alzheimer's disease,Illinois,3877,25.4
+
+4388,2000,Diabetes mellitus (E10-E14),Diabetes,New York,3877,20
+
+7807,2001,Cerebrovascular diseases (I60-I69),Stroke,Indiana,3877,64.3
+

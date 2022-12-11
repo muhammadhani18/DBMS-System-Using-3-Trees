@@ -1,0 +1,6 @@
+4160,2012,Diabetes mellitus (E10-E14),Diabetes,Maryland,1218,19.2
+
+5682,2002,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Alabama,1218,27.4
+
+6934,2010,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Louisiana,1218,27.3
+

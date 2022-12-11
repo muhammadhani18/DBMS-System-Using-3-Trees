@@ -1,0 +1,8 @@
+3673,2013,Chronic lower respiratory diseases (J40-J47),CLRD,Utah,718,32
+
+7767,2005,Cerebrovascular diseases (I60-I69),Stroke,Idaho,718,53.9
+
+3673,2013,Chronic lower respiratory diseases (J40-J47),CLRD,Utah,718,32
+
+7767,2005,Cerebrovascular diseases (I60-I69),Stroke,Idaho,718,53.9
+

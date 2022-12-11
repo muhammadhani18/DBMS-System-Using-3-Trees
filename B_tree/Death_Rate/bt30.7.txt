@@ -1,0 +1,20 @@
+1065,2011,Alzheimer's disease (G30),Alzheimer's disease,California,11555,30.7
+
+1215,2005,Alzheimer's disease (G30),Alzheimer's disease,Idaho,407,30.7
+
+1424,2012,Alzheimer's disease (G30),Alzheimer's disease,Mississippi,923,30.7
+
+3221,2015,Chronic lower respiratory diseases (J40-J47),CLRD,Maryland,2040,30.7
+
+3439,2013,Chronic lower respiratory diseases (J40-J47),CLRD,New York,7110,30.7
+
+4567,2001,Diabetes mellitus (E10-E14),Diabetes,Tennessee,1746,30.7
+
+7577,2015,Cerebrovascular diseases (I60-I69),Stroke,Arizona,2522,30.7
+
+7706,2012,Cerebrovascular diseases (I60-I69),Stroke,Florida,8456,30.7
+
+9492,2003,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,California,10471,30.7
+
+9773,2011,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Massachusetts,2224,30.7
+

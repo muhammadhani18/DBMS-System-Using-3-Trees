@@ -1,0 +1,6 @@
+1951,2007,Malignant neoplasms (C00-C97),Cancer,Alaska,839,182.6
+
+2673,2005,Malignant neoplasms (C00-C97),Cancer,South Dakota,1612,182.6
+
+4959,2005,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Idaho,2450,182.6
+

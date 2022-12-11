@@ -1,0 +1,4 @@
+4570,2016,Diabetes mellitus (E10-E14),Diabetes,Texas,5470,20.3
+
+7949,2003,Cerebrovascular diseases (I60-I69),Stroke,Michigan,5470,54.5
+

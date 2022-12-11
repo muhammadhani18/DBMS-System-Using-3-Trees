@@ -1,0 +1,46 @@
+1239,1999,Alzheimer's disease (G30),Alzheimer's disease,Illinois,1908,15.9
+
+1502,2006,Alzheimer's disease (G30),Alzheimer's disease,Nevada,281,15.9
+
+1851,1999,Alzheimer's disease (G30),Alzheimer's disease,Virginia,917,15.9
+
+3887,2015,Diabetes mellitus (E10-E14),Diabetes,Colorado,887,15.9
+
+3890,2012,Diabetes mellitus (E10-E14),Diabetes,Colorado,797,15.9
+
+4304,2012,Diabetes mellitus (E10-E14),Diabetes,Nevada,438,15.9
+
+4718,2012,Diabetes mellitus (E10-E14),Diabetes,Wyoming,97,15.9
+
+5766,2008,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Colorado,678,15.9
+
+6074,2006,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Michigan,1679,15.9
+
+6353,2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Pennsylvania,2899,15.9
+
+6394,2010,Influenza and pneumonia (J09-J18),Influenza and pneumonia,South Carolina,747,15.9
+
+6463,2013,Influenza and pneumonia (J09-J18),Influenza and pneumonia,United States,56979,15.9
+
+6675,1999,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arkansas,458,15.9
+
+6957,2005,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Maine,250,15.9
+
+7010,2006,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Michigan,1673,15.9
+
+7161,1999,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,New Jersey,1380,15.9
+
+7202,2012,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,North Carolina,1656,15.9
+
+7262,2006,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Oklahoma,594,15.9
+
+7382,2013,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Texas,3722,15.9
+
+8509,2001,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Alaska,102,15.9
+
+8818,2016,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Maine,226,15.9
+
+9294,2008,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Utah,390,15.9
+
+9363,2011,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,West Virginia,306,15.9
+

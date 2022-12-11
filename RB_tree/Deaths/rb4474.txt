@@ -1,0 +1,4 @@
+3266,2006,Chronic lower respiratory diseases (J40-J47),CLRD,Michigan,4474,42.8
+
+7942,2010,Cerebrovascular diseases (I60-I69),Stroke,Michigan,4474,39.5
+

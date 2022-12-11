@@ -1,0 +1,8 @@
+5545,2015,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Utah,3598,152.9
+
+8456,2000,Cerebrovascular diseases (I60-I69),Stroke,Wisconsin,3598,62.2
+
+5545,2015,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Utah,3598,152.9
+
+8456,2000,Cerebrovascular diseases (I60-I69),Stroke,Wisconsin,3598,62.2
+

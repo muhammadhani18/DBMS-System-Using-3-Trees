@@ -1,0 +1,16 @@
+3701,2003,Chronic lower respiratory diseases (J40-J47),CLRD,Vermont,301,46.2
+
+4313,2003,Diabetes mellitus (E10-E14),Diabetes,Nevada,301,15
+
+10199,2011,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Vermont,301,42.4
+
+10204,2006,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Vermont,301,45.8
+
+3701,2003,Chronic lower respiratory diseases (J40-J47),CLRD,Vermont,301,46.2
+
+4313,2003,Diabetes mellitus (E10-E14),Diabetes,Nevada,301,15
+
+10199,2011,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Vermont,301,42.4
+
+10204,2006,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Vermont,301,45.8
+

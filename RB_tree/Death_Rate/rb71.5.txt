@@ -1,0 +1,8 @@
+7557,2000,Cerebrovascular diseases (I60-I69),Stroke,Alabama,3183,71.5
+
+7558,1999,Cerebrovascular diseases (I60-I69),Stroke,Alabama,3148,71.5
+
+7808,2000,Cerebrovascular diseases (I60-I69),Stroke,Indiana,4247,71.5
+
+7987,2001,Cerebrovascular diseases (I60-I69),Stroke,Mississippi,1935,71.5
+

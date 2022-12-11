@@ -1,0 +1,4 @@
+1367,2015,Alzheimer's disease (G30),Alzheimer's disease,Massachusetts,1815,20.2
+
+1539,2005,Alzheimer's disease (G30),Alzheimer's disease,New Jersey,1815,19
+

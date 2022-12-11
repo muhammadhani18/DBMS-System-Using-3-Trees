@@ -1,0 +1,4 @@
+8143,2007,Cerebrovascular diseases (I60-I69),Stroke,North Carolina,4530,51.1
+
+9967,2004,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,New York,4530,22.9
+

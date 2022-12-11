@@ -1,0 +1,16 @@
+2541,2011,Malignant neoplasms (C00-C97),Cancer,North Dakota,1321,161
+
+3812,2000,Diabetes mellitus (E10-E14),Diabetes,Alabama,1321,29.3
+
+6120,2014,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Missouri,1321,18.1
+
+8713,2013,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Illinois,1321,9.9
+
+2541,2011,Malignant neoplasms (C00-C97),Cancer,North Dakota,1321,161
+
+3812,2000,Diabetes mellitus (E10-E14),Diabetes,Alabama,1321,29.3
+
+6120,2014,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Missouri,1321,18.1
+
+8713,2013,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Illinois,1321,9.9
+

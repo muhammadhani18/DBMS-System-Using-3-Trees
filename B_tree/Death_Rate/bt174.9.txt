@@ -1,0 +1,8 @@
+2633,2009,Malignant neoplasms (C00-C97),Cancer,Rhode Island,2220,174.9
+
+2795,2009,Malignant neoplasms (C00-C97),Cancer,Washington,11922,174.9
+
+5278,2011,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,New Jersey,18330,174.9
+
+5333,2010,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,North Carolina,17154,174.9
+

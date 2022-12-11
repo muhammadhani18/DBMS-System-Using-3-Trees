@@ -1,0 +1,8 @@
+763,2007,All Causes,All causes,Rhode Island,9723,747.2
+
+10144,2014,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Texas,9723,37.3
+
+763,2007,All Causes,All causes,Rhode Island,9723,747.2
+
+10144,2014,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Texas,9723,37.3
+

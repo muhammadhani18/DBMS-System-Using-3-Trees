@@ -1,0 +1,8 @@
+4367,2003,Diabetes mellitus (E10-E14),Diabetes,New Mexico,599,33.2
+
+6718,2010,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Connecticut,599,13.4
+
+4367,2003,Diabetes mellitus (E10-E14),Diabetes,New Mexico,599,33.2
+
+6718,2010,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Connecticut,599,13.4
+

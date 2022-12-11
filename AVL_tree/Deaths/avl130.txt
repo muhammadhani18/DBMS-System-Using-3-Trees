@@ -1,0 +1,16 @@
+1135,2013,Alzheimer's disease (G30),Alzheimer's disease,District of Columbia,130,19.8
+
+4722,2008,Diabetes mellitus (E10-E14),Diabetes,Wyoming,130,24.1
+
+4725,2005,Diabetes mellitus (E10-E14),Diabetes,Wyoming,130,25.8
+
+6603,1999,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wyoming,130,30
+
+6743,2003,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Delaware,130,15.6
+
+6830,2006,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Idaho,130,9.4
+
+7075,2013,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Montana,130,10.3
+
+7359,2000,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,South Dakota,130,14.7
+

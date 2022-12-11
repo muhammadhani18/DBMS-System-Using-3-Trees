@@ -1,0 +1,6 @@
+8663,2009,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Georgia,1134,11.9
+
+9524,2005,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Connecticut,1134,30.3
+
+9895,2008,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Nevada,1134,44
+

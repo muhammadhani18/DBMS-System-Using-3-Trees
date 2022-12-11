@@ -1,0 +1,8 @@
+6077,2003,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Michigan,1941,19.4
+
+10104,2003,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,South Carolina,1941,47.5
+
+6077,2003,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Michigan,1941,19.4
+
+10104,2003,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,South Carolina,1941,47.5
+

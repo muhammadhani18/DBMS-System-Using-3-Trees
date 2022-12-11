@@ -1,0 +1,8 @@
+2236,2010,Malignant neoplasms (C00-C97),Cancer,Kentucky,9930,208.3
+
+2646,2014,Malignant neoplasms (C00-C97),Cancer,South Carolina,9930,171.4
+
+2236,2010,Malignant neoplasms (C00-C97),Cancer,Kentucky,9930,208.3
+
+2646,2014,Malignant neoplasms (C00-C97),Cancer,South Carolina,9930,171.4
+

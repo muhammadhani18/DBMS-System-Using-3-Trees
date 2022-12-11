@@ -1,0 +1,4 @@
+9971,2000,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,New York,4244,22
+
+9971,2000,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,New York,4244,22
+

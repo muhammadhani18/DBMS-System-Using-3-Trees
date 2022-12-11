@@ -1,0 +1,4 @@
+5230,2005,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Nebraska,3640,179.4
+
+6676,2016,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,California,3640,8.6
+

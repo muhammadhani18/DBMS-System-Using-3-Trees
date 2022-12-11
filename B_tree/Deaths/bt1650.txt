@@ -1,0 +1,12 @@
+4664,2012,Diabetes mellitus (E10-E14),Diabetes,Washington,1650,22.4
+
+7007,2009,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Michigan,1650,14.9
+
+9107,2015,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Ohio,1650,13.9
+
+4664,2012,Diabetes mellitus (E10-E14),Diabetes,Washington,1650,22.4
+
+7007,2009,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Michigan,1650,14.9
+
+9107,2015,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Ohio,1650,13.9
+

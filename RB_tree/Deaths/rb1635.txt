@@ -1,0 +1,6 @@
+1449,2005,Alzheimer's disease (G30),Alzheimer's disease,Missouri,1635,25.6
+
+7660,2004,Cerebrovascular diseases (I60-I69),Stroke,Connecticut,1635,39.1
+
+7817,2009,Cerebrovascular diseases (I60-I69),Stroke,Iowa,1635,41.2
+

@@ -1,0 +1,4 @@
+3190,2010,Chronic lower respiratory diseases (J40-J47),CLRD,Louisiana,1939,43.6
+
+3190,2010,Chronic lower respiratory diseases (J40-J47),CLRD,Louisiana,1939,43.6
+

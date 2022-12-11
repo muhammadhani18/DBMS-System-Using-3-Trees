@@ -1,0 +1,4 @@
+3747,2011,Chronic lower respiratory diseases (J40-J47),CLRD,West Virginia,1571,66.1
+
+7574,2000,Cerebrovascular diseases (I60-I69),Stroke,Alaska,170,66.1
+

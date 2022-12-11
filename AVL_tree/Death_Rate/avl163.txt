@@ -1,0 +1,8 @@
+2105,2015,Malignant neoplasms (C00-C97),Cancer,Georgia,16945,163
+
+2399,2009,Malignant neoplasms (C00-C97),Cancer,Montana,1914,163
+
+2666,2012,Malignant neoplasms (C00-C97),Cancer,South Dakota,1630,163
+
+5027,2009,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Kansas,5294,163
+

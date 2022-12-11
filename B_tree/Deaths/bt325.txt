@@ -1,0 +1,36 @@
+1560,2002,Alzheimer's disease (G30),Alzheimer's disease,New Mexico,325,19.9
+
+5871,2011,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Hawaii,325,18
+
+6159,2011,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Nebraska,325,14.2
+
+6642,2014,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arizona,325,4.1
+
+8154,2014,Cerebrovascular diseases (I60-I69),Stroke,North Dakota,325,35.5
+
+8160,2008,Cerebrovascular diseases (I60-I69),Stroke,North Dakota,325,37.2
+
+8780,2000,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Kansas,325,12.2
+
+8918,2006,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Mississippi,325,11.4
+
+10282,2013,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wyoming,325,55.2
+
+1560,2002,Alzheimer's disease (G30),Alzheimer's disease,New Mexico,325,19.9
+
+5871,2011,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Hawaii,325,18
+
+6159,2011,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Nebraska,325,14.2
+
+6642,2014,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arizona,325,4.1
+
+8154,2014,Cerebrovascular diseases (I60-I69),Stroke,North Dakota,325,35.5
+
+8160,2008,Cerebrovascular diseases (I60-I69),Stroke,North Dakota,325,37.2
+
+8780,2000,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Kansas,325,12.2
+
+8918,2006,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Mississippi,325,11.4
+
+10282,2013,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wyoming,325,55.2
+

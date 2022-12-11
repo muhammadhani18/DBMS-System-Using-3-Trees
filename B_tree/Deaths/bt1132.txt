@@ -1,0 +1,12 @@
+4184,2006,Diabetes mellitus (E10-E14),Diabetes,Massachusetts,1132,15.5
+
+5923,2013,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Indiana,1132,15.3
+
+9068,2000,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,New York,1132,5.9
+
+4184,2006,Diabetes mellitus (E10-E14),Diabetes,Massachusetts,1132,15.5
+
+5923,2013,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Indiana,1132,15.3
+
+9068,2000,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,New York,1132,5.9
+

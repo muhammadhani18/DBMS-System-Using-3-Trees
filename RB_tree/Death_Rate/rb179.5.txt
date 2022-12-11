@@ -1,0 +1,8 @@
+2179,2013,Malignant neoplasms (C00-C97),Cancer,Indiana,13258,179.5
+
+2311,2007,Malignant neoplasms (C00-C97),Cancer,Massachusetts,13003,179.5
+
+2764,2004,Malignant neoplasms (C00-C97),Cancer,Vermont,1212,179.5
+
+5301,2006,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,New Mexico,3411,179.5
+

@@ -1,0 +1,4 @@
+4947,1999,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Hawaii,2410,201.7
+
+5837,2009,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Florida,2410,9.9
+

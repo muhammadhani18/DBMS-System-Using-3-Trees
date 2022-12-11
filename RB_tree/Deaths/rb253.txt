@@ -1,0 +1,16 @@
+1193,2009,Alzheimer's disease (G30),Alzheimer's disease,Hawaii,253,14.8
+
+1458,2014,Alzheimer's disease (G30),Alzheimer's disease,Montana,253,19.2
+
+1506,2002,Alzheimer's disease (G30),Alzheimer's disease,Nevada,253,17.3
+
+4534,2016,Diabetes mellitus (E10-E14),Diabetes,South Dakota,253,23.7
+
+6381,2005,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Rhode Island,253,18.5
+
+8471,2003,Cerebrovascular diseases (I60-I69),Stroke,Wyoming,253,53.9
+
+9365,2009,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,West Virginia,253,13.1
+
+10206,2004,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Vermont,253,39.4
+

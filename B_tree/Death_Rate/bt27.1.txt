@@ -1,0 +1,28 @@
+1520,2006,Alzheimer's disease (G30),Alzheimer's disease,New Hampshire,372,27.1
+
+1722,2002,Alzheimer's disease (G30),Alzheimer's disease,South Carolina,967,27.1
+
+1827,2005,Alzheimer's disease (G30),Alzheimer's disease,Vermont,184,27.1
+
+3861,2005,Diabetes mellitus (E10-E14),Diabetes,Arkansas,824,27.1
+
+4125,2011,Diabetes mellitus (E10-E14),Diabetes,Louisiana,1265,27.1
+
+4152,2002,Diabetes mellitus (E10-E14),Diabetes,Maine,404,27.1
+
+4153,2001,Diabetes mellitus (E10-E14),Diabetes,Maine,398,27.1
+
+4207,2001,Diabetes mellitus (E10-E14),Diabetes,Michigan,2655,27.1
+
+4209,1999,Diabetes mellitus (E10-E14),Diabetes,Michigan,2587,27.1
+
+4259,2003,Diabetes mellitus (E10-E14),Diabetes,Missouri,1666,27.1
+
+4422,2002,Diabetes mellitus (E10-E14),Diabetes,North Dakota,214,27.1
+
+6495,1999,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Utah,391,27.1
+
+6531,1999,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Virginia,1594,27.1
+
+8243,2015,Cerebrovascular diseases (I60-I69),Stroke,Rhode Island,394,27.1
+

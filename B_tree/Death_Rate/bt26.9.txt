@@ -1,0 +1,28 @@
+1181,2003,Alzheimer's disease (G30),Alzheimer's disease,Georgia,1630,26.9
+
+1337,2009,Alzheimer's disease (G30),Alzheimer's disease,Maine,466,26.9
+
+1516,2010,Alzheimer's disease (G30),Alzheimer's disease,New Hampshire,396,26.9
+
+1757,2003,Alzheimer's disease (G30),Alzheimer's disease,Tennessee,1466,26.9
+
+4049,2015,Diabetes mellitus (E10-E14),Diabetes,Indiana,2030,26.9
+
+4065,1999,Diabetes mellitus (E10-E14),Diabetes,Indiana,1591,26.9
+
+4123,2013,Diabetes mellitus (E10-E14),Diabetes,Louisiana,1329,26.9
+
+4124,2012,Diabetes mellitus (E10-E14),Diabetes,Louisiana,1290,26.9
+
+4168,2004,Diabetes mellitus (E10-E14),Diabetes,Maryland,1417,26.9
+
+4402,2004,Diabetes mellitus (E10-E14),Diabetes,North Carolina,2253,26.9
+
+4450,2010,Diabetes mellitus (E10-E14),Diabetes,Oklahoma,1089,26.9
+
+8063,2015,Cerebrovascular diseases (I60-I69),Stroke,New Hampshire,457,26.9
+
+8495,2015,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Alaska,201,26.9
+
+9930,2007,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,New Jersey,2425,26.9
+

@@ -1,0 +1,14 @@
+2466,2014,Malignant neoplasms (C00-C97),Cancer,New Jersey,16591,156.1
+
+2770,2016,Malignant neoplasms (C00-C97),Cancer,Virginia,15027,156.1
+
+2791,2013,Malignant neoplasms (C00-C97),Cancer,Washington,11928,156.1
+
+5023,2013,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Kansas,5364,156.1
+
+5118,2009,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Massachusetts,12322,156.1
+
+5567,2009,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Vermont,1171,156.1
+
+5580,2014,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Virginia,13874,156.1
+

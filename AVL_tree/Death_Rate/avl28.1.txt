@@ -1,0 +1,24 @@
+1067,2009,Alzheimer's disease (G30),Alzheimer's disease,California,9905,28.1
+
+1088,2006,Alzheimer's disease (G30),Alzheimer's disease,Colorado,1058,28.1
+
+1244,2012,Alzheimer's disease (G30),Alzheimer's disease,Indiana,2038,28.1
+
+1287,2005,Alzheimer's disease (G30),Alzheimer's disease,Kansas,912,28.1
+
+1304,2006,Alzheimer's disease (G30),Alzheimer's disease,Kentucky,1153,28.1
+
+1339,2007,Alzheimer's disease (G30),Alzheimer's disease,Maine,470,28.1
+
+3858,2008,Diabetes mellitus (E10-E14),Diabetes,Arkansas,901,28.1
+
+4350,2002,Diabetes mellitus (E10-E14),Diabetes,New Jersey,2532,28.1
+
+4417,2007,Diabetes mellitus (E10-E14),Diabetes,North Dakota,226,28.1
+
+5755,2001,Influenza and pneumonia (J09-J18),Influenza and pneumonia,California,8129,28.1
+
+6113,2003,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Mississippi,758,28.1
+
+6333,1999,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Oklahoma,1007,28.1
+

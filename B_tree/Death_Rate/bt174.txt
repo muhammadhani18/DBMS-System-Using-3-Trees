@@ -1,0 +1,6 @@
+1924,2016,Malignant neoplasms (C00-C97),Cancer,Alabama,10419,174
+
+2009,2003,Malignant neoplasms (C00-C97),Cancer,California,54319,174
+
+2647,2013,Malignant neoplasms (C00-C97),Cancer,South Carolina,9745,174
+

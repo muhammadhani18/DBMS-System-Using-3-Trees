@@ -1,0 +1,6 @@
+2408,2000,Malignant neoplasms (C00-C97),Cancer,Montana,1867,194
+
+2857,2001,Malignant neoplasms (C00-C97),Cancer,Wyoming,923,194
+
+5558,2000,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Utah,2909,194
+

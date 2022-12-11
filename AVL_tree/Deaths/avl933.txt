@@ -1,0 +1,6 @@
+6914,2012,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Kentucky,933,19.6
+
+7365,2012,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Tennessee,933,13.4
+
+8931,2011,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Missouri,933,15.3
+

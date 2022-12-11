@@ -1,0 +1,6 @@
+2954,2012,Chronic lower respiratory diseases (J40-J47),CLRD,Colorado,2239,46.7
+
+4936,2010,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Hawaii,2239,134.7
+
+10241,2003,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Washington,2239,36.9
+

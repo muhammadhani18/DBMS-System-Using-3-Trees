@@ -1,0 +1,4 @@
+4346,2006,Diabetes mellitus (E10-E14),Diabetes,New Jersey,2454,26.1
+
+5840,2006,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Florida,2454,10.5
+

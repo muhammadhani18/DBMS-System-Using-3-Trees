@@ -1,0 +1,4 @@
+4355,2015,Diabetes mellitus (E10-E14),Diabetes,New Mexico,608,24.9
+
+6651,2005,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arizona,608,10.5
+

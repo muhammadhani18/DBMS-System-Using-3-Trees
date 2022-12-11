@@ -1,0 +1,12 @@
+1731,2011,Alzheimer's disease (G30),Alzheimer's disease,South Dakota,424,36.7
+
+4303,2013,Diabetes mellitus (E10-E14),Diabetes,Nevada,424,14.8
+
+6492,2002,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Utah,424,27.4
+
+1731,2011,Alzheimer's disease (G30),Alzheimer's disease,South Dakota,424,36.7
+
+4303,2013,Diabetes mellitus (E10-E14),Diabetes,Nevada,424,14.8
+
+6492,2002,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Utah,424,27.4
+

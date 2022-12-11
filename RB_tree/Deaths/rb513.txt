@@ -1,0 +1,6 @@
+1344,2002,Alzheimer's disease (G30),Alzheimer's disease,Maine,513,33.6
+
+6175,2013,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Nevada,513,18.6
+
+8169,1999,Cerebrovascular diseases (I60-I69),Stroke,North Dakota,513,63
+

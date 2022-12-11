@@ -1,0 +1,24 @@
+1339,2007,Alzheimer's disease (G30),Alzheimer's disease,Maine,470,28.1
+
+1883,2003,Alzheimer's disease (G30),Alzheimer's disease,West Virginia,470,22.2
+
+4290,2008,Diabetes mellitus (E10-E14),Diabetes,Nebraska,470,23.2
+
+6705,2005,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Colorado,470,12.5
+
+8799,1999,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Kentucky,470,11.6
+
+9607,2007,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Hawaii,470,33.4
+
+1339,2007,Alzheimer's disease (G30),Alzheimer's disease,Maine,470,28.1
+
+1883,2003,Alzheimer's disease (G30),Alzheimer's disease,West Virginia,470,22.2
+
+4290,2008,Diabetes mellitus (E10-E14),Diabetes,Nebraska,470,23.2
+
+6705,2005,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Colorado,470,12.5
+
+8799,1999,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Kentucky,470,11.6
+
+9607,2007,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Hawaii,470,33.4
+

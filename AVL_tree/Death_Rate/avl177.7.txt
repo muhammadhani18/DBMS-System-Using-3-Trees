@@ -1,0 +1,6 @@
+2376,2014,Malignant neoplasms (C00-C97),Cancer,Missouri,13067,177.7
+
+5163,2000,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Minnesota,8885,177.7
+
+5421,2012,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Pennsylvania,30952,177.7
+

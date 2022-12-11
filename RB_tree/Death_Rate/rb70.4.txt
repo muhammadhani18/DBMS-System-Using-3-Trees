@@ -1,0 +1,4 @@
+7863,1999,Cerebrovascular diseases (I60-I69),Stroke,Kentucky,2710,70.4
+
+8220,2002,Cerebrovascular diseases (I60-I69),Stroke,Oregon,2645,70.4
+

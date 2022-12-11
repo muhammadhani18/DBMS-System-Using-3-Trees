@@ -1,0 +1,20 @@
+1210,2010,Alzheimer's disease (G30),Alzheimer's disease,Idaho,410,26.8
+
+1605,2011,Alzheimer's disease (G30),Alzheimer's disease,North Dakota,410,41.5
+
+6185,2003,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Nevada,410,23.3
+
+8287,2007,Cerebrovascular diseases (I60-I69),Stroke,South Dakota,410,40.2
+
+8912,2012,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Mississippi,410,14
+
+1210,2010,Alzheimer's disease (G30),Alzheimer's disease,Idaho,410,26.8
+
+1605,2011,Alzheimer's disease (G30),Alzheimer's disease,North Dakota,410,41.5
+
+6185,2003,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Nevada,410,23.3
+
+8287,2007,Cerebrovascular diseases (I60-I69),Stroke,South Dakota,410,40.2
+
+8912,2012,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Mississippi,410,14
+

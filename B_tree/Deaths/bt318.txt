@@ -1,0 +1,24 @@
+1218,2002,Alzheimer's disease (G30),Alzheimer's disease,Idaho,318,26.1
+
+1610,2006,Alzheimer's disease (G30),Alzheimer's disease,North Dakota,318,34.4
+
+3063,2011,Chronic lower respiratory diseases (J40-J47),CLRD,Hawaii,318,18.9
+
+4027,2001,Diabetes mellitus (E10-E14),Diabetes,Idaho,318,26.4
+
+9051,1999,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,New Mexico,318,18.1
+
+9993,2012,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,North Dakota,318,41.1
+
+1218,2002,Alzheimer's disease (G30),Alzheimer's disease,Idaho,318,26.1
+
+1610,2006,Alzheimer's disease (G30),Alzheimer's disease,North Dakota,318,34.4
+
+3063,2011,Chronic lower respiratory diseases (J40-J47),CLRD,Hawaii,318,18.9
+
+4027,2001,Diabetes mellitus (E10-E14),Diabetes,Idaho,318,26.4
+
+9051,1999,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,New Mexico,318,18.1
+
+9993,2012,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,North Dakota,318,41.1
+

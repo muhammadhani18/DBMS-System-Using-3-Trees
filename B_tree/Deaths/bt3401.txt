@@ -1,0 +1,8 @@
+4433,2009,Diabetes mellitus (E10-E14),Diabetes,Ohio,3401,25.7
+
+8080,2016,Cerebrovascular diseases (I60-I69),Stroke,New Jersey,3401,30.4
+
+4433,2009,Diabetes mellitus (E10-E14),Diabetes,Ohio,3401,25.7
+
+8080,2016,Cerebrovascular diseases (I60-I69),Stroke,New Jersey,3401,30.4
+

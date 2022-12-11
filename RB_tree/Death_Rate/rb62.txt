@@ -1,0 +1,6 @@
+3292,2016,Chronic lower respiratory diseases (J40-J47),CLRD,Mississippi,2116,62
+
+8005,2001,Cerebrovascular diseases (I60-I69),Stroke,Missouri,3796,62
+
+9704,2012,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Kentucky,2741,62
+

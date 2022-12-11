@@ -1,0 +1,8 @@
+3503,2003,Chronic lower respiratory diseases (J40-J47),CLRD,Ohio,5927,48.5
+
+9958,2013,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,New York,5927,27.8
+
+3503,2003,Chronic lower respiratory diseases (J40-J47),CLRD,Ohio,5927,48.5
+
+9958,2013,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,New York,5927,27.8
+

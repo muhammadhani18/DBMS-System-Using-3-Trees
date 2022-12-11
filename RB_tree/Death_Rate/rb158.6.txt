@@ -1,0 +1,4 @@
+2212,2016,Malignant neoplasms (C00-C97),Cancer,Kansas,5484,158.6
+
+5582,2012,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Virginia,13386,158.6
+

@@ -1,0 +1,4 @@
+10008,2014,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Ohio,6178,50.8
+
+10008,2014,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Ohio,6178,50.8
+

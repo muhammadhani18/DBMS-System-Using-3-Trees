@@ -1,0 +1,6 @@
+5139,2006,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Michigan,24255,228.1
+
+5383,2014,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Oklahoma,9868,228.1
+
+5497,2008,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Tennessee,14661,228.1
+

@@ -1,0 +1,12 @@
+3000,2002,Chronic lower respiratory diseases (J40-J47),CLRD,Delaware,350,43.3
+
+4145,2009,Diabetes mellitus (E10-E14),Diabetes,Maine,350,20.7
+
+4302,2014,Diabetes mellitus (E10-E14),Diabetes,Nevada,350,11.4
+
+4306,2010,Diabetes mellitus (E10-E14),Diabetes,Nevada,350,13.8
+
+7678,2004,Cerebrovascular diseases (I60-I69),Stroke,Delaware,350,41.8
+
+8920,2004,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Mississippi,350,12.2
+

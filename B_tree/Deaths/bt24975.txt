@@ -1,0 +1,8 @@
+348,2008,All Causes,All causes,Kansas,24975,794.3
+
+2564,2006,Malignant neoplasms (C00-C97),Cancer,Ohio,24975,197.3
+
+348,2008,All Causes,All causes,Kansas,24975,794.3
+
+2564,2006,Malignant neoplasms (C00-C97),Cancer,Ohio,24975,197.3
+

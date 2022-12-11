@@ -1,0 +1,4 @@
+8151,1999,Cerebrovascular diseases (I60-I69),Stroke,North Carolina,5626,77.9
+
+8151,1999,Cerebrovascular diseases (I60-I69),Stroke,North Carolina,5626,77.9
+

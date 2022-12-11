@@ -1,0 +1,6 @@
+2927,2003,Chronic lower respiratory diseases (J40-J47),CLRD,Arkansas,1500,50.1
+
+5855,2009,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Georgia,1500,19.2
+
+7975,2013,Cerebrovascular diseases (I60-I69),Stroke,Mississippi,1500,47.2
+

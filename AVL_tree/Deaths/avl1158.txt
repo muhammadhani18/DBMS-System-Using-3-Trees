@@ -1,0 +1,4 @@
+4220,2006,Diabetes mellitus (E10-E14),Diabetes,Minnesota,1158,21.4
+
+4702,2010,Diabetes mellitus (E10-E14),Diabetes,Wisconsin,1158,17.7
+

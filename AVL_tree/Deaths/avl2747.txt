@@ -1,0 +1,4 @@
+7550,2007,Cerebrovascular diseases (I60-I69),Stroke,Alabama,2747,56.9
+
+7926,2008,Cerebrovascular diseases (I60-I69),Stroke,Massachusetts,2747,35.1
+

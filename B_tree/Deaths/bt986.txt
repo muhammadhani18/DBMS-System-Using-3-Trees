@@ -1,0 +1,24 @@
+1354,2010,Alzheimer's disease (G30),Alzheimer's disease,Maryland,986,16.8
+
+4461,1999,Diabetes mellitus (E10-E14),Diabetes,Oklahoma,986,27.9
+
+6032,2012,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Maryland,986,15.8
+
+6573,2011,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wisconsin,986,14.2
+
+8037,2005,Cerebrovascular diseases (I60-I69),Stroke,Nebraska,986,48.4
+
+9084,2002,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,North Carolina,986,11.8
+
+1354,2010,Alzheimer's disease (G30),Alzheimer's disease,Maryland,986,16.8
+
+4461,1999,Diabetes mellitus (E10-E14),Diabetes,Oklahoma,986,27.9
+
+6032,2012,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Maryland,986,15.8
+
+6573,2011,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wisconsin,986,14.2
+
+8037,2005,Cerebrovascular diseases (I60-I69),Stroke,Nebraska,986,48.4
+
+9084,2002,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,North Carolina,986,11.8
+

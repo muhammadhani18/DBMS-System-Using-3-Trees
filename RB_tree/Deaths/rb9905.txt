@@ -1,0 +1,6 @@
+520,2016,All Causes,All causes,Montana,9905,743.2
+
+1067,2009,Alzheimer's disease (G30),Alzheimer's disease,California,9905,28.1
+
+5043,2011,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Kentucky,9905,210
+

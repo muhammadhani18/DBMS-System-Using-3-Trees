@@ -1,0 +1,4 @@
+9705,2011,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Kentucky,2608,59.5
+
+9705,2011,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Kentucky,2608,59.5
+

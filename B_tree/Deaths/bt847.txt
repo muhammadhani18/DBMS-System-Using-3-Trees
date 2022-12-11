@@ -1,0 +1,12 @@
+4066,2016,Diabetes mellitus (E10-E14),Diabetes,Iowa,847,20.9
+
+8054,2006,Cerebrovascular diseases (I60-I69),Stroke,Nevada,847,41.3
+
+8672,2000,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Georgia,847,10.7
+
+4066,2016,Diabetes mellitus (E10-E14),Diabetes,Iowa,847,20.9
+
+8054,2006,Cerebrovascular diseases (I60-I69),Stroke,Nevada,847,41.3
+
+8672,2000,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Georgia,847,10.7
+

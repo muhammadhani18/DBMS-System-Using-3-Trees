@@ -1,0 +1,10 @@
+5768,2006,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Colorado,614,15.6
+
+6345,2005,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Oregon,614,15.2
+
+6656,2000,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arizona,614,12.2
+
+8257,2001,Cerebrovascular diseases (I60-I69),Stroke,Rhode Island,614,48.2
+
+9862,2007,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Montana,614,60.3
+

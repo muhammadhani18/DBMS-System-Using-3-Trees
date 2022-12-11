@@ -1,0 +1,4 @@
+7907,2009,Cerebrovascular diseases (I60-I69),Stroke,Maryland,2288,39.4
+
+10029,2010,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Oklahoma,2288,60.3
+

@@ -1,0 +1,4 @@
+1996,2016,Malignant neoplasms (C00-C97),Cancer,California,59515,139.7
+
+1996,2016,Malignant neoplasms (C00-C97),Cancer,California,59515,139.7
+

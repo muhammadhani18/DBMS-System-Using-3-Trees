@@ -1,0 +1,12 @@
+1242,2014,Alzheimer's disease (G30),Alzheimer's disease,Indiana,2204,29.4
+
+2875,2001,Chronic lower respiratory diseases (J40-J47),CLRD,Alabama,2204,48.3
+
+6310,2004,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Ohio,2204,17.9
+
+1242,2014,Alzheimer's disease (G30),Alzheimer's disease,Indiana,2204,29.4
+
+2875,2001,Chronic lower respiratory diseases (J40-J47),CLRD,Alabama,2204,48.3
+
+6310,2004,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Ohio,2204,17.9
+

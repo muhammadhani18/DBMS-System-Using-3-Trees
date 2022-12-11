@@ -1,0 +1,10 @@
+3907,2013,Diabetes mellitus (E10-E14),Diabetes,Connecticut,664,14.8
+
+5942,2012,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Iowa,664,15.6
+
+7041,2011,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Mississippi,664,21.7
+
+7260,2008,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Oklahoma,664,17.2
+
+7891,2007,Cerebrovascular diseases (I60-I69),Stroke,Maine,664,40.4
+

@@ -1,0 +1,12 @@
+1599,1999,Alzheimer's disease (G30),Alzheimer's disease,North Carolina,1456,20.8
+
+5854,2010,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Georgia,1456,18.3
+
+9761,2006,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Maryland,1456,26.1
+
+1599,1999,Alzheimer's disease (G30),Alzheimer's disease,North Carolina,1456,20.8
+
+5854,2010,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Georgia,1456,18.3
+
+9761,2006,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Maryland,1456,26.1
+

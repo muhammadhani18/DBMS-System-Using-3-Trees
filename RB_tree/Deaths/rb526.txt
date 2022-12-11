@@ -1,0 +1,8 @@
+1112,2000,Alzheimer's disease (G30),Alzheimer's disease,Connecticut,526,13.1
+
+3567,2011,Chronic lower respiratory diseases (J40-J47),CLRD,Rhode Island,526,39.5
+
+6551,2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,West Virginia,526,21.2
+
+6671,2003,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arkansas,526,17.8
+

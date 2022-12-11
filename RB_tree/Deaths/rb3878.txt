@@ -1,0 +1,4 @@
+3120,2008,Chronic lower respiratory diseases (J40-J47),CLRD,Indiana,3878,58.1
+
+7385,2010,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Texas,3878,18.4
+

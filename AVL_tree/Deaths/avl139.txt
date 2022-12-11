@@ -1,0 +1,12 @@
+2890,2004,Chronic lower respiratory diseases (J40-J47),CLRD,Alaska,139,39.5
+
+3008,2012,Chronic lower respiratory diseases (J40-J47),CLRD,District of Columbia,139,23.5
+
+3012,2008,Chronic lower respiratory diseases (J40-J47),CLRD,District of Columbia,139,25.2
+
+4627,2013,Diabetes mellitus (E10-E14),Diabetes,Vermont,139,17.4
+
+4723,2007,Diabetes mellitus (E10-E14),Diabetes,Wyoming,139,26.3
+
+6734,2012,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Delaware,139,12.7
+

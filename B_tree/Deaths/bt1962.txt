@@ -1,0 +1,8 @@
+1530,2014,Alzheimer's disease (G30),Alzheimer's disease,New Jersey,1962,17.4
+
+1596,2002,Alzheimer's disease (G30),Alzheimer's disease,North Carolina,1962,26.6
+
+1530,2014,Alzheimer's disease (G30),Alzheimer's disease,New Jersey,1962,17.4
+
+1596,2002,Alzheimer's disease (G30),Alzheimer's disease,North Carolina,1962,26.6
+

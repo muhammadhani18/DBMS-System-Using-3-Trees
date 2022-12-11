@@ -1,0 +1,8 @@
+1266,2008,Alzheimer's disease (G30),Alzheimer's disease,Iowa,1332,31.5
+
+4128,2008,Diabetes mellitus (E10-E14),Diabetes,Louisiana,1332,30.3
+
+7213,2001,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,North Carolina,1332,17.4
+
+9765,2002,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Maryland,1332,25.2
+

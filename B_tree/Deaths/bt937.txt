@@ -1,0 +1,12 @@
+1355,2009,Alzheimer's disease (G30),Alzheimer's disease,Maryland,937,16.3
+
+5658,2008,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Wyoming,937,171.9
+
+5954,2000,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Iowa,937,24.8
+
+1355,2009,Alzheimer's disease (G30),Alzheimer's disease,Maryland,937,16.3
+
+5658,2008,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Wyoming,937,171.9
+
+5954,2000,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Iowa,937,24.8
+

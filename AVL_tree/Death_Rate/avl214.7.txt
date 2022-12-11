@@ -1,0 +1,6 @@
+2192,2000,Malignant neoplasms (C00-C97),Cancer,Indiana,12842,214.7
+
+2239,2007,Malignant neoplasms (C00-C97),Cancer,Kentucky,9692,214.7
+
+5033,2003,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Kansas,6491,214.7
+

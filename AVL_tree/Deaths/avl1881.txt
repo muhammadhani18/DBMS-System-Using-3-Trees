@@ -1,0 +1,6 @@
+1532,2012,Alzheimer's disease (G30),Alzheimer's disease,New Jersey,1881,17.1
+
+6786,2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Georgia,1881,19.2
+
+8189,2015,Cerebrovascular diseases (I60-I69),Stroke,Oklahoma,1881,43
+

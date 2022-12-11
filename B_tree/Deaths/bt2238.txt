@@ -1,0 +1,8 @@
+3976,2016,Diabetes mellitus (E10-E14),Diabetes,Georgia,2238,21.2
+
+7955,2015,Cerebrovascular diseases (I60-I69),Stroke,Minnesota,2238,33.5
+
+3976,2016,Diabetes mellitus (E10-E14),Diabetes,Georgia,2238,21.2
+
+7955,2015,Cerebrovascular diseases (I60-I69),Stroke,Minnesota,2238,33.5
+

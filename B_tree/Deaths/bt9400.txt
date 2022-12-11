@@ -1,0 +1,4 @@
+2264,2000,Malignant neoplasms (C00-C97),Cancer,Louisiana,9400,227.9
+
+2264,2000,Malignant neoplasms (C00-C97),Cancer,Louisiana,9400,227.9
+

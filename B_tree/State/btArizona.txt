@@ -1,0 +1,1584 @@
+3,2016,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arizona,4010,54.2
+
+88,2016,All Causes,All causes,Arizona,56645,675.8
+
+89,2015,All Causes,All causes,Arizona,54299,671.8
+
+90,2014,All Causes,All causes,Arizona,51538,661.7
+
+91,2013,All Causes,All causes,Arizona,50534,674.2
+
+92,2012,All Causes,All causes,Arizona,49549,682.9
+
+93,2011,All Causes,All causes,Arizona,48381,688.9
+
+94,2010,All Causes,All causes,Arizona,46762,693.1
+
+95,2009,All Causes,All causes,Arizona,45816,693.8
+
+96,2008,All Causes,All causes,Arizona,45823,714.5
+
+97,2007,All Causes,All causes,Arizona,45554,731
+
+98,2006,All Causes,All causes,Arizona,46365,767.1
+
+99,2005,All Causes,All causes,Arizona,45827,786.7
+
+100,2004,All Causes,All causes,Arizona,43198,771.1
+
+101,2003,All Causes,All causes,Arizona,43392,798.4
+
+102,2002,All Causes,All causes,Arizona,42816,811.2
+
+103,2001,All Causes,All causes,Arizona,41058,795.9
+
+104,2000,All Causes,All causes,Arizona,40500,810.4
+
+105,1999,All Causes,All causes,Arizona,40050,818.4
+
+1024,2016,Alzheimer's disease (G30),Alzheimer's disease,Arizona,3082,35.8
+
+1025,2015,Alzheimer's disease (G30),Alzheimer's disease,Arizona,2943,35.8
+
+1026,2014,Alzheimer's disease (G30),Alzheimer's disease,Arizona,2485,31.6
+
+1027,2013,Alzheimer's disease (G30),Alzheimer's disease,Arizona,2383,31.7
+
+1028,2012,Alzheimer's disease (G30),Alzheimer's disease,Arizona,2160,30
+
+1029,2011,Alzheimer's disease (G30),Alzheimer's disease,Arizona,2348,33.7
+
+1030,2010,Alzheimer's disease (G30),Alzheimer's disease,Arizona,2327,35.3
+
+1031,2009,Alzheimer's disease (G30),Alzheimer's disease,Arizona,2097,32.7
+
+1032,2008,Alzheimer's disease (G30),Alzheimer's disease,Arizona,2099,34
+
+1033,2007,Alzheimer's disease (G30),Alzheimer's disease,Arizona,2051,34.2
+
+1034,2006,Alzheimer's disease (G30),Alzheimer's disease,Arizona,2066,35.8
+
+1035,2005,Alzheimer's disease (G30),Alzheimer's disease,Arizona,1831,33
+
+1036,2004,Alzheimer's disease (G30),Alzheimer's disease,Arizona,1675,31.6
+
+1037,2003,Alzheimer's disease (G30),Alzheimer's disease,Arizona,1703,32.9
+
+1038,2002,Alzheimer's disease (G30),Alzheimer's disease,Arizona,1433,28.7
+
+1039,2001,Alzheimer's disease (G30),Alzheimer's disease,Arizona,1108,22.7
+
+1040,2000,Alzheimer's disease (G30),Alzheimer's disease,Arizona,1045,22
+
+1041,1999,Alzheimer's disease (G30),Alzheimer's disease,Arizona,963,20.8
+
+1960,2016,Malignant neoplasms (C00-C97),Cancer,Arizona,11876,136.8
+
+1961,2015,Malignant neoplasms (C00-C97),Cancer,Arizona,11776,141.3
+
+1962,2014,Malignant neoplasms (C00-C97),Cancer,Arizona,11455,142.7
+
+1963,2013,Malignant neoplasms (C00-C97),Cancer,Arizona,11347,147
+
+1964,2012,Malignant neoplasms (C00-C97),Cancer,Arizona,11085,148.6
+
+1965,2011,Malignant neoplasms (C00-C97),Cancer,Arizona,10690,148.5
+
+1966,2010,Malignant neoplasms (C00-C97),Cancer,Arizona,10678,154.2
+
+1967,2009,Malignant neoplasms (C00-C97),Cancer,Arizona,10271,152
+
+1968,2008,Malignant neoplasms (C00-C97),Cancer,Arizona,10081,153.2
+
+1969,2007,Malignant neoplasms (C00-C97),Cancer,Arizona,10134,158.9
+
+1970,2006,Malignant neoplasms (C00-C97),Cancer,Arizona,9919,160
+
+1971,2005,Malignant neoplasms (C00-C97),Cancer,Arizona,9820,164.2
+
+1972,2004,Malignant neoplasms (C00-C97),Cancer,Arizona,9618,167.5
+
+1973,2003,Malignant neoplasms (C00-C97),Cancer,Arizona,9627,173
+
+1974,2002,Malignant neoplasms (C00-C97),Cancer,Arizona,9359,173.2
+
+1975,2001,Malignant neoplasms (C00-C97),Cancer,Arizona,9143,173.8
+
+1976,2000,Malignant neoplasms (C00-C97),Cancer,Arizona,9073,177.9
+
+1977,1999,Malignant neoplasms (C00-C97),Cancer,Arizona,9006,179.9
+
+2896,2016,Chronic lower respiratory diseases (J40-J47),CLRD,Arizona,3800,43.5
+
+2897,2015,Chronic lower respiratory diseases (J40-J47),CLRD,Arizona,3681,43.8
+
+2898,2014,Chronic lower respiratory diseases (J40-J47),CLRD,Arizona,3396,42.2
+
+2899,2013,Chronic lower respiratory diseases (J40-J47),CLRD,Arizona,3345,43.5
+
+2900,2012,Chronic lower respiratory diseases (J40-J47),CLRD,Arizona,3221,43.6
+
+2901,2011,Chronic lower respiratory diseases (J40-J47),CLRD,Arizona,3166,44.5
+
+2902,2010,Chronic lower respiratory diseases (J40-J47),CLRD,Arizona,2926,43.1
+
+2903,2009,Chronic lower respiratory diseases (J40-J47),CLRD,Arizona,2839,42.7
+
+2904,2008,Chronic lower respiratory diseases (J40-J47),CLRD,Arizona,2939,45.5
+
+2905,2007,Chronic lower respiratory diseases (J40-J47),CLRD,Arizona,2686,42.9
+
+2906,2006,Chronic lower respiratory diseases (J40-J47),CLRD,Arizona,2799,46
+
+2907,2005,Chronic lower respiratory diseases (J40-J47),CLRD,Arizona,2821,48
+
+2908,2004,Chronic lower respiratory diseases (J40-J47),CLRD,Arizona,2416,42.9
+
+2909,2003,Chronic lower respiratory diseases (J40-J47),CLRD,Arizona,2560,46.5
+
+2910,2002,Chronic lower respiratory diseases (J40-J47),CLRD,Arizona,2575,48.4
+
+2911,2001,Chronic lower respiratory diseases (J40-J47),CLRD,Arizona,2499,47.7
+
+2912,2000,Chronic lower respiratory diseases (J40-J47),CLRD,Arizona,2508,49.3
+
+2913,1999,Chronic lower respiratory diseases (J40-J47),CLRD,Arizona,2553,51.2
+
+3832,2016,Diabetes mellitus (E10-E14),Diabetes,Arizona,2025,23.9
+
+3833,2015,Diabetes mellitus (E10-E14),Diabetes,Arizona,2081,25.3
+
+3834,2014,Diabetes mellitus (E10-E14),Diabetes,Arizona,1936,24.3
+
+3835,2013,Diabetes mellitus (E10-E14),Diabetes,Arizona,1786,23.5
+
+3836,2012,Diabetes mellitus (E10-E14),Diabetes,Arizona,1736,23.4
+
+3837,2011,Diabetes mellitus (E10-E14),Diabetes,Arizona,1740,24.3
+
+3838,2010,Diabetes mellitus (E10-E14),Diabetes,Arizona,1389,20.3
+
+3839,2009,Diabetes mellitus (E10-E14),Diabetes,Arizona,1083,16.2
+
+3840,2008,Diabetes mellitus (E10-E14),Diabetes,Arizona,1173,18
+
+3841,2007,Diabetes mellitus (E10-E14),Diabetes,Arizona,1159,18.3
+
+3842,2006,Diabetes mellitus (E10-E14),Diabetes,Arizona,1206,19.6
+
+3843,2005,Diabetes mellitus (E10-E14),Diabetes,Arizona,1208,20.4
+
+3844,2004,Diabetes mellitus (E10-E14),Diabetes,Arizona,1196,21
+
+3845,2003,Diabetes mellitus (E10-E14),Diabetes,Arizona,1153,20.9
+
+3846,2002,Diabetes mellitus (E10-E14),Diabetes,Arizona,1231,23
+
+3847,2001,Diabetes mellitus (E10-E14),Diabetes,Arizona,1058,20.3
+
+3848,2000,Diabetes mellitus (E10-E14),Diabetes,Arizona,1012,20
+
+3849,1999,Diabetes mellitus (E10-E14),Diabetes,Arizona,1063,21.5
+
+4768,2016,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Arizona,11957,138.9
+
+4769,2015,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Arizona,11458,138.8
+
+4770,2014,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Arizona,10805,136.4
+
+4771,2013,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Arizona,10755,141.1
+
+4772,2012,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Arizona,10689,145.5
+
+4773,2011,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Arizona,10662,150.3
+
+4774,2010,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Arizona,9954,146.7
+
+4775,2009,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Arizona,10273,155.7
+
+4776,2008,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Arizona,10385,162.3
+
+4777,2007,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Arizona,10302,166
+
+4778,2006,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Arizona,10607,176.5
+
+4779,2005,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Arizona,10966,189.8
+
+4780,2004,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Arizona,10539,190
+
+4781,2003,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Arizona,10887,202.2
+
+4782,2002,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Arizona,10852,207.9
+
+4783,2001,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Arizona,10588,207.3
+
+4784,2000,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Arizona,10584,214
+
+4785,1999,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Arizona,10800,223.1
+
+5704,2016,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arizona,885,10.4
+
+5705,2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arizona,775,9.5
+
+5706,2014,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arizona,779,10
+
+5707,2013,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arizona,776,10.4
+
+5708,2012,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arizona,683,9.5
+
+5709,2011,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arizona,690,10
+
+5710,2010,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arizona,768,11.4
+
+5711,2009,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arizona,1058,16.2
+
+5712,2008,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arizona,1068,16.8
+
+5713,2007,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arizona,905,14.8
+
+5714,2006,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arizona,1166,19.6
+
+5715,2005,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arizona,1297,22.6
+
+5716,2004,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arizona,1111,20.3
+
+5717,2003,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arizona,1286,24.2
+
+5718,2002,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arizona,1319,25.6
+
+5719,2001,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arizona,1133,22.6
+
+5720,2000,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arizona,1222,25.2
+
+5721,1999,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arizona,1287,27.2
+
+6640,2016,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arizona,487,5.7
+
+6641,2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arizona,458,5.5
+
+6642,2014,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arizona,325,4.1
+
+6643,2013,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arizona,374,4.9
+
+6644,2012,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arizona,414,5.7
+
+6645,2011,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arizona,395,5.6
+
+6646,2010,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arizona,537,7.9
+
+6647,2009,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arizona,546,8.3
+
+6648,2008,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arizona,503,7.8
+
+6649,2007,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arizona,528,8.5
+
+6650,2006,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arizona,565,9.3
+
+6651,2005,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arizona,608,10.5
+
+6652,2004,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arizona,634,11.2
+
+6653,2003,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arizona,563,10.4
+
+6654,2002,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arizona,622,11.9
+
+6655,2001,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arizona,644,12.5
+
+6656,2000,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arizona,614,12.2
+
+6657,1999,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arizona,544,11.1
+
+7576,2016,Cerebrovascular diseases (I60-I69),Stroke,Arizona,2556,29.8
+
+7577,2015,Cerebrovascular diseases (I60-I69),Stroke,Arizona,2522,30.7
+
+7578,2014,Cerebrovascular diseases (I60-I69),Stroke,Arizona,2235,28.3
+
+7579,2013,Cerebrovascular diseases (I60-I69),Stroke,Arizona,2162,28.6
+
+7580,2012,Cerebrovascular diseases (I60-I69),Stroke,Arizona,2164,29.9
+
+7581,2011,Cerebrovascular diseases (I60-I69),Stroke,Arizona,2148,30.6
+
+7582,2010,Cerebrovascular diseases (I60-I69),Stroke,Arizona,2138,31.9
+
+7583,2009,Cerebrovascular diseases (I60-I69),Stroke,Arizona,2072,31.7
+
+7584,2008,Cerebrovascular diseases (I60-I69),Stroke,Arizona,2147,33.9
+
+7585,2007,Cerebrovascular diseases (I60-I69),Stroke,Arizona,2207,35.9
+
+7586,2006,Cerebrovascular diseases (I60-I69),Stroke,Arizona,2226,37.5
+
+7587,2005,Cerebrovascular diseases (I60-I69),Stroke,Arizona,2364,41.4
+
+7588,2004,Cerebrovascular diseases (I60-I69),Stroke,Arizona,2446,44.6
+
+7589,2003,Cerebrovascular diseases (I60-I69),Stroke,Arizona,2428,45.5
+
+7590,2002,Cerebrovascular diseases (I60-I69),Stroke,Arizona,2535,49.1
+
+7591,2001,Cerebrovascular diseases (I60-I69),Stroke,Arizona,2480,49
+
+7592,2000,Cerebrovascular diseases (I60-I69),Stroke,Arizona,2648,53.8
+
+7593,1999,Cerebrovascular diseases (I60-I69),Stroke,Arizona,2600,54.4
+
+8512,2016,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arizona,1271,17.7
+
+8513,2015,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arizona,1276,18.2
+
+8514,2014,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arizona,1244,18
+
+8515,2013,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arizona,1163,17.5
+
+8516,2012,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arizona,1156,17.3
+
+8517,2011,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arizona,1160,17.8
+
+8518,2010,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arizona,1093,17
+
+8519,2009,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arizona,1060,16.7
+
+8520,2008,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arizona,972,15.5
+
+8521,2007,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arizona,1016,16.5
+
+8522,2006,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arizona,979,16.3
+
+8523,2005,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arizona,945,16.4
+
+8524,2004,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arizona,880,15.8
+
+8525,2003,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arizona,840,15.5
+
+8526,2002,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arizona,886,16.6
+
+8527,2001,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arizona,767,14.8
+
+8528,2000,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arizona,784,15.6
+
+8529,1999,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arizona,766,15.5
+
+9446,2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arizona,3539,49.2
+
+9447,2014,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arizona,3322,47
+
+9448,2013,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arizona,3349,48.6
+
+9449,2012,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arizona,3029,45.1
+
+9450,2011,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arizona,3096,46.8
+
+9451,2010,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arizona,3018,46.7
+
+9452,2009,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arizona,2919,45.5
+
+9453,2008,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arizona,2956,47.3
+
+9454,2007,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arizona,3161,51.9
+
+9455,2006,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arizona,3352,56
+
+9456,2005,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arizona,3150,54.7
+
+9457,2004,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arizona,2770,49.3
+
+9458,2003,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arizona,2697,49.8
+
+9459,2002,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arizona,2577,48.6
+
+9460,2001,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arizona,2475,47.6
+
+9461,2000,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arizona,2326,46.3
+
+9462,1999,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arizona,2214,44.8
+
+3,2016,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arizona,4010,54.2
+
+88,2016,All Causes,All causes,Arizona,56645,675.8
+
+89,2015,All Causes,All causes,Arizona,54299,671.8
+
+90,2014,All Causes,All causes,Arizona,51538,661.7
+
+91,2013,All Causes,All causes,Arizona,50534,674.2
+
+92,2012,All Causes,All causes,Arizona,49549,682.9
+
+93,2011,All Causes,All causes,Arizona,48381,688.9
+
+94,2010,All Causes,All causes,Arizona,46762,693.1
+
+95,2009,All Causes,All causes,Arizona,45816,693.8
+
+96,2008,All Causes,All causes,Arizona,45823,714.5
+
+97,2007,All Causes,All causes,Arizona,45554,731
+
+98,2006,All Causes,All causes,Arizona,46365,767.1
+
+99,2005,All Causes,All causes,Arizona,45827,786.7
+
+100,2004,All Causes,All causes,Arizona,43198,771.1
+
+101,2003,All Causes,All causes,Arizona,43392,798.4
+
+102,2002,All Causes,All causes,Arizona,42816,811.2
+
+103,2001,All Causes,All causes,Arizona,41058,795.9
+
+104,2000,All Causes,All causes,Arizona,40500,810.4
+
+105,1999,All Causes,All causes,Arizona,40050,818.4
+
+1024,2016,Alzheimer's disease (G30),Alzheimer's disease,Arizona,3082,35.8
+
+1025,2015,Alzheimer's disease (G30),Alzheimer's disease,Arizona,2943,35.8
+
+1026,2014,Alzheimer's disease (G30),Alzheimer's disease,Arizona,2485,31.6
+
+1027,2013,Alzheimer's disease (G30),Alzheimer's disease,Arizona,2383,31.7
+
+1028,2012,Alzheimer's disease (G30),Alzheimer's disease,Arizona,2160,30
+
+1029,2011,Alzheimer's disease (G30),Alzheimer's disease,Arizona,2348,33.7
+
+1030,2010,Alzheimer's disease (G30),Alzheimer's disease,Arizona,2327,35.3
+
+1031,2009,Alzheimer's disease (G30),Alzheimer's disease,Arizona,2097,32.7
+
+1032,2008,Alzheimer's disease (G30),Alzheimer's disease,Arizona,2099,34
+
+1033,2007,Alzheimer's disease (G30),Alzheimer's disease,Arizona,2051,34.2
+
+1034,2006,Alzheimer's disease (G30),Alzheimer's disease,Arizona,2066,35.8
+
+1035,2005,Alzheimer's disease (G30),Alzheimer's disease,Arizona,1831,33
+
+1036,2004,Alzheimer's disease (G30),Alzheimer's disease,Arizona,1675,31.6
+
+1037,2003,Alzheimer's disease (G30),Alzheimer's disease,Arizona,1703,32.9
+
+1038,2002,Alzheimer's disease (G30),Alzheimer's disease,Arizona,1433,28.7
+
+1039,2001,Alzheimer's disease (G30),Alzheimer's disease,Arizona,1108,22.7
+
+1040,2000,Alzheimer's disease (G30),Alzheimer's disease,Arizona,1045,22
+
+1041,1999,Alzheimer's disease (G30),Alzheimer's disease,Arizona,963,20.8
+
+1960,2016,Malignant neoplasms (C00-C97),Cancer,Arizona,11876,136.8
+
+1961,2015,Malignant neoplasms (C00-C97),Cancer,Arizona,11776,141.3
+
+1962,2014,Malignant neoplasms (C00-C97),Cancer,Arizona,11455,142.7
+
+1963,2013,Malignant neoplasms (C00-C97),Cancer,Arizona,11347,147
+
+1964,2012,Malignant neoplasms (C00-C97),Cancer,Arizona,11085,148.6
+
+1965,2011,Malignant neoplasms (C00-C97),Cancer,Arizona,10690,148.5
+
+1966,2010,Malignant neoplasms (C00-C97),Cancer,Arizona,10678,154.2
+
+1967,2009,Malignant neoplasms (C00-C97),Cancer,Arizona,10271,152
+
+1968,2008,Malignant neoplasms (C00-C97),Cancer,Arizona,10081,153.2
+
+1969,2007,Malignant neoplasms (C00-C97),Cancer,Arizona,10134,158.9
+
+1970,2006,Malignant neoplasms (C00-C97),Cancer,Arizona,9919,160
+
+1971,2005,Malignant neoplasms (C00-C97),Cancer,Arizona,9820,164.2
+
+1972,2004,Malignant neoplasms (C00-C97),Cancer,Arizona,9618,167.5
+
+1973,2003,Malignant neoplasms (C00-C97),Cancer,Arizona,9627,173
+
+1974,2002,Malignant neoplasms (C00-C97),Cancer,Arizona,9359,173.2
+
+1975,2001,Malignant neoplasms (C00-C97),Cancer,Arizona,9143,173.8
+
+1976,2000,Malignant neoplasms (C00-C97),Cancer,Arizona,9073,177.9
+
+1977,1999,Malignant neoplasms (C00-C97),Cancer,Arizona,9006,179.9
+
+2896,2016,Chronic lower respiratory diseases (J40-J47),CLRD,Arizona,3800,43.5
+
+2897,2015,Chronic lower respiratory diseases (J40-J47),CLRD,Arizona,3681,43.8
+
+2898,2014,Chronic lower respiratory diseases (J40-J47),CLRD,Arizona,3396,42.2
+
+2899,2013,Chronic lower respiratory diseases (J40-J47),CLRD,Arizona,3345,43.5
+
+2900,2012,Chronic lower respiratory diseases (J40-J47),CLRD,Arizona,3221,43.6
+
+2901,2011,Chronic lower respiratory diseases (J40-J47),CLRD,Arizona,3166,44.5
+
+2902,2010,Chronic lower respiratory diseases (J40-J47),CLRD,Arizona,2926,43.1
+
+2903,2009,Chronic lower respiratory diseases (J40-J47),CLRD,Arizona,2839,42.7
+
+2904,2008,Chronic lower respiratory diseases (J40-J47),CLRD,Arizona,2939,45.5
+
+2905,2007,Chronic lower respiratory diseases (J40-J47),CLRD,Arizona,2686,42.9
+
+2906,2006,Chronic lower respiratory diseases (J40-J47),CLRD,Arizona,2799,46
+
+2907,2005,Chronic lower respiratory diseases (J40-J47),CLRD,Arizona,2821,48
+
+2908,2004,Chronic lower respiratory diseases (J40-J47),CLRD,Arizona,2416,42.9
+
+2909,2003,Chronic lower respiratory diseases (J40-J47),CLRD,Arizona,2560,46.5
+
+2910,2002,Chronic lower respiratory diseases (J40-J47),CLRD,Arizona,2575,48.4
+
+2911,2001,Chronic lower respiratory diseases (J40-J47),CLRD,Arizona,2499,47.7
+
+2912,2000,Chronic lower respiratory diseases (J40-J47),CLRD,Arizona,2508,49.3
+
+2913,1999,Chronic lower respiratory diseases (J40-J47),CLRD,Arizona,2553,51.2
+
+3832,2016,Diabetes mellitus (E10-E14),Diabetes,Arizona,2025,23.9
+
+3833,2015,Diabetes mellitus (E10-E14),Diabetes,Arizona,2081,25.3
+
+3834,2014,Diabetes mellitus (E10-E14),Diabetes,Arizona,1936,24.3
+
+3835,2013,Diabetes mellitus (E10-E14),Diabetes,Arizona,1786,23.5
+
+3836,2012,Diabetes mellitus (E10-E14),Diabetes,Arizona,1736,23.4
+
+3837,2011,Diabetes mellitus (E10-E14),Diabetes,Arizona,1740,24.3
+
+3838,2010,Diabetes mellitus (E10-E14),Diabetes,Arizona,1389,20.3
+
+3839,2009,Diabetes mellitus (E10-E14),Diabetes,Arizona,1083,16.2
+
+3840,2008,Diabetes mellitus (E10-E14),Diabetes,Arizona,1173,18
+
+3841,2007,Diabetes mellitus (E10-E14),Diabetes,Arizona,1159,18.3
+
+3842,2006,Diabetes mellitus (E10-E14),Diabetes,Arizona,1206,19.6
+
+3843,2005,Diabetes mellitus (E10-E14),Diabetes,Arizona,1208,20.4
+
+3844,2004,Diabetes mellitus (E10-E14),Diabetes,Arizona,1196,21
+
+3845,2003,Diabetes mellitus (E10-E14),Diabetes,Arizona,1153,20.9
+
+3846,2002,Diabetes mellitus (E10-E14),Diabetes,Arizona,1231,23
+
+3847,2001,Diabetes mellitus (E10-E14),Diabetes,Arizona,1058,20.3
+
+3848,2000,Diabetes mellitus (E10-E14),Diabetes,Arizona,1012,20
+
+3849,1999,Diabetes mellitus (E10-E14),Diabetes,Arizona,1063,21.5
+
+4768,2016,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Arizona,11957,138.9
+
+4769,2015,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Arizona,11458,138.8
+
+4770,2014,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Arizona,10805,136.4
+
+4771,2013,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Arizona,10755,141.1
+
+4772,2012,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Arizona,10689,145.5
+
+4773,2011,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Arizona,10662,150.3
+
+4774,2010,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Arizona,9954,146.7
+
+4775,2009,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Arizona,10273,155.7
+
+4776,2008,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Arizona,10385,162.3
+
+4777,2007,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Arizona,10302,166
+
+4778,2006,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Arizona,10607,176.5
+
+4779,2005,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Arizona,10966,189.8
+
+4780,2004,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Arizona,10539,190
+
+4781,2003,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Arizona,10887,202.2
+
+4782,2002,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Arizona,10852,207.9
+
+4783,2001,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Arizona,10588,207.3
+
+4784,2000,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Arizona,10584,214
+
+4785,1999,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Arizona,10800,223.1
+
+5704,2016,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arizona,885,10.4
+
+5705,2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arizona,775,9.5
+
+5706,2014,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arizona,779,10
+
+5707,2013,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arizona,776,10.4
+
+5708,2012,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arizona,683,9.5
+
+5709,2011,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arizona,690,10
+
+5710,2010,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arizona,768,11.4
+
+5711,2009,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arizona,1058,16.2
+
+5712,2008,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arizona,1068,16.8
+
+5713,2007,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arizona,905,14.8
+
+5714,2006,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arizona,1166,19.6
+
+5715,2005,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arizona,1297,22.6
+
+5716,2004,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arizona,1111,20.3
+
+5717,2003,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arizona,1286,24.2
+
+5718,2002,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arizona,1319,25.6
+
+5719,2001,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arizona,1133,22.6
+
+5720,2000,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arizona,1222,25.2
+
+5721,1999,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arizona,1287,27.2
+
+6640,2016,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arizona,487,5.7
+
+6641,2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arizona,458,5.5
+
+6642,2014,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arizona,325,4.1
+
+6643,2013,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arizona,374,4.9
+
+6644,2012,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arizona,414,5.7
+
+6645,2011,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arizona,395,5.6
+
+6646,2010,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arizona,537,7.9
+
+6647,2009,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arizona,546,8.3
+
+6648,2008,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arizona,503,7.8
+
+6649,2007,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arizona,528,8.5
+
+6650,2006,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arizona,565,9.3
+
+6651,2005,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arizona,608,10.5
+
+6652,2004,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arizona,634,11.2
+
+6653,2003,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arizona,563,10.4
+
+6654,2002,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arizona,622,11.9
+
+6655,2001,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arizona,644,12.5
+
+6656,2000,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arizona,614,12.2
+
+6657,1999,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arizona,544,11.1
+
+7576,2016,Cerebrovascular diseases (I60-I69),Stroke,Arizona,2556,29.8
+
+7577,2015,Cerebrovascular diseases (I60-I69),Stroke,Arizona,2522,30.7
+
+7578,2014,Cerebrovascular diseases (I60-I69),Stroke,Arizona,2235,28.3
+
+7579,2013,Cerebrovascular diseases (I60-I69),Stroke,Arizona,2162,28.6
+
+7580,2012,Cerebrovascular diseases (I60-I69),Stroke,Arizona,2164,29.9
+
+7581,2011,Cerebrovascular diseases (I60-I69),Stroke,Arizona,2148,30.6
+
+7582,2010,Cerebrovascular diseases (I60-I69),Stroke,Arizona,2138,31.9
+
+7583,2009,Cerebrovascular diseases (I60-I69),Stroke,Arizona,2072,31.7
+
+7584,2008,Cerebrovascular diseases (I60-I69),Stroke,Arizona,2147,33.9
+
+7585,2007,Cerebrovascular diseases (I60-I69),Stroke,Arizona,2207,35.9
+
+7586,2006,Cerebrovascular diseases (I60-I69),Stroke,Arizona,2226,37.5
+
+7587,2005,Cerebrovascular diseases (I60-I69),Stroke,Arizona,2364,41.4
+
+7588,2004,Cerebrovascular diseases (I60-I69),Stroke,Arizona,2446,44.6
+
+7589,2003,Cerebrovascular diseases (I60-I69),Stroke,Arizona,2428,45.5
+
+7590,2002,Cerebrovascular diseases (I60-I69),Stroke,Arizona,2535,49.1
+
+7591,2001,Cerebrovascular diseases (I60-I69),Stroke,Arizona,2480,49
+
+7592,2000,Cerebrovascular diseases (I60-I69),Stroke,Arizona,2648,53.8
+
+7593,1999,Cerebrovascular diseases (I60-I69),Stroke,Arizona,2600,54.4
+
+8512,2016,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arizona,1271,17.7
+
+8513,2015,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arizona,1276,18.2
+
+8514,2014,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arizona,1244,18
+
+8515,2013,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arizona,1163,17.5
+
+8516,2012,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arizona,1156,17.3
+
+8517,2011,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arizona,1160,17.8
+
+8518,2010,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arizona,1093,17
+
+8519,2009,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arizona,1060,16.7
+
+8520,2008,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arizona,972,15.5
+
+8521,2007,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arizona,1016,16.5
+
+8522,2006,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arizona,979,16.3
+
+8523,2005,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arizona,945,16.4
+
+8524,2004,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arizona,880,15.8
+
+8525,2003,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arizona,840,15.5
+
+8526,2002,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arizona,886,16.6
+
+8527,2001,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arizona,767,14.8
+
+8528,2000,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arizona,784,15.6
+
+8529,1999,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arizona,766,15.5
+
+9446,2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arizona,3539,49.2
+
+9447,2014,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arizona,3322,47
+
+9448,2013,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arizona,3349,48.6
+
+9449,2012,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arizona,3029,45.1
+
+9450,2011,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arizona,3096,46.8
+
+9451,2010,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arizona,3018,46.7
+
+9452,2009,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arizona,2919,45.5
+
+9453,2008,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arizona,2956,47.3
+
+9454,2007,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arizona,3161,51.9
+
+9455,2006,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arizona,3352,56
+
+9456,2005,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arizona,3150,54.7
+
+9457,2004,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arizona,2770,49.3
+
+9458,2003,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arizona,2697,49.8
+
+9459,2002,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arizona,2577,48.6
+
+9460,2001,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arizona,2475,47.6
+
+9461,2000,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arizona,2326,46.3
+
+9462,1999,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arizona,2214,44.8
+
+3,2016,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arizona,4010,54.2
+
+88,2016,All Causes,All causes,Arizona,56645,675.8
+
+89,2015,All Causes,All causes,Arizona,54299,671.8
+
+90,2014,All Causes,All causes,Arizona,51538,661.7
+
+91,2013,All Causes,All causes,Arizona,50534,674.2
+
+92,2012,All Causes,All causes,Arizona,49549,682.9
+
+93,2011,All Causes,All causes,Arizona,48381,688.9
+
+94,2010,All Causes,All causes,Arizona,46762,693.1
+
+95,2009,All Causes,All causes,Arizona,45816,693.8
+
+96,2008,All Causes,All causes,Arizona,45823,714.5
+
+97,2007,All Causes,All causes,Arizona,45554,731
+
+98,2006,All Causes,All causes,Arizona,46365,767.1
+
+99,2005,All Causes,All causes,Arizona,45827,786.7
+
+100,2004,All Causes,All causes,Arizona,43198,771.1
+
+101,2003,All Causes,All causes,Arizona,43392,798.4
+
+102,2002,All Causes,All causes,Arizona,42816,811.2
+
+103,2001,All Causes,All causes,Arizona,41058,795.9
+
+104,2000,All Causes,All causes,Arizona,40500,810.4
+
+105,1999,All Causes,All causes,Arizona,40050,818.4
+
+1024,2016,Alzheimer's disease (G30),Alzheimer's disease,Arizona,3082,35.8
+
+1025,2015,Alzheimer's disease (G30),Alzheimer's disease,Arizona,2943,35.8
+
+1026,2014,Alzheimer's disease (G30),Alzheimer's disease,Arizona,2485,31.6
+
+1027,2013,Alzheimer's disease (G30),Alzheimer's disease,Arizona,2383,31.7
+
+1028,2012,Alzheimer's disease (G30),Alzheimer's disease,Arizona,2160,30
+
+1029,2011,Alzheimer's disease (G30),Alzheimer's disease,Arizona,2348,33.7
+
+1030,2010,Alzheimer's disease (G30),Alzheimer's disease,Arizona,2327,35.3
+
+1031,2009,Alzheimer's disease (G30),Alzheimer's disease,Arizona,2097,32.7
+
+1032,2008,Alzheimer's disease (G30),Alzheimer's disease,Arizona,2099,34
+
+1033,2007,Alzheimer's disease (G30),Alzheimer's disease,Arizona,2051,34.2
+
+1034,2006,Alzheimer's disease (G30),Alzheimer's disease,Arizona,2066,35.8
+
+1035,2005,Alzheimer's disease (G30),Alzheimer's disease,Arizona,1831,33
+
+1036,2004,Alzheimer's disease (G30),Alzheimer's disease,Arizona,1675,31.6
+
+1037,2003,Alzheimer's disease (G30),Alzheimer's disease,Arizona,1703,32.9
+
+1038,2002,Alzheimer's disease (G30),Alzheimer's disease,Arizona,1433,28.7
+
+1039,2001,Alzheimer's disease (G30),Alzheimer's disease,Arizona,1108,22.7
+
+1040,2000,Alzheimer's disease (G30),Alzheimer's disease,Arizona,1045,22
+
+1041,1999,Alzheimer's disease (G30),Alzheimer's disease,Arizona,963,20.8
+
+1960,2016,Malignant neoplasms (C00-C97),Cancer,Arizona,11876,136.8
+
+1961,2015,Malignant neoplasms (C00-C97),Cancer,Arizona,11776,141.3
+
+1962,2014,Malignant neoplasms (C00-C97),Cancer,Arizona,11455,142.7
+
+1963,2013,Malignant neoplasms (C00-C97),Cancer,Arizona,11347,147
+
+1964,2012,Malignant neoplasms (C00-C97),Cancer,Arizona,11085,148.6
+
+1965,2011,Malignant neoplasms (C00-C97),Cancer,Arizona,10690,148.5
+
+1966,2010,Malignant neoplasms (C00-C97),Cancer,Arizona,10678,154.2
+
+1967,2009,Malignant neoplasms (C00-C97),Cancer,Arizona,10271,152
+
+1968,2008,Malignant neoplasms (C00-C97),Cancer,Arizona,10081,153.2
+
+1969,2007,Malignant neoplasms (C00-C97),Cancer,Arizona,10134,158.9
+
+1970,2006,Malignant neoplasms (C00-C97),Cancer,Arizona,9919,160
+
+1971,2005,Malignant neoplasms (C00-C97),Cancer,Arizona,9820,164.2
+
+1972,2004,Malignant neoplasms (C00-C97),Cancer,Arizona,9618,167.5
+
+1973,2003,Malignant neoplasms (C00-C97),Cancer,Arizona,9627,173
+
+1974,2002,Malignant neoplasms (C00-C97),Cancer,Arizona,9359,173.2
+
+1975,2001,Malignant neoplasms (C00-C97),Cancer,Arizona,9143,173.8
+
+1976,2000,Malignant neoplasms (C00-C97),Cancer,Arizona,9073,177.9
+
+1977,1999,Malignant neoplasms (C00-C97),Cancer,Arizona,9006,179.9
+
+2896,2016,Chronic lower respiratory diseases (J40-J47),CLRD,Arizona,3800,43.5
+
+2897,2015,Chronic lower respiratory diseases (J40-J47),CLRD,Arizona,3681,43.8
+
+2898,2014,Chronic lower respiratory diseases (J40-J47),CLRD,Arizona,3396,42.2
+
+2899,2013,Chronic lower respiratory diseases (J40-J47),CLRD,Arizona,3345,43.5
+
+2900,2012,Chronic lower respiratory diseases (J40-J47),CLRD,Arizona,3221,43.6
+
+2901,2011,Chronic lower respiratory diseases (J40-J47),CLRD,Arizona,3166,44.5
+
+2902,2010,Chronic lower respiratory diseases (J40-J47),CLRD,Arizona,2926,43.1
+
+2903,2009,Chronic lower respiratory diseases (J40-J47),CLRD,Arizona,2839,42.7
+
+2904,2008,Chronic lower respiratory diseases (J40-J47),CLRD,Arizona,2939,45.5
+
+2905,2007,Chronic lower respiratory diseases (J40-J47),CLRD,Arizona,2686,42.9
+
+2906,2006,Chronic lower respiratory diseases (J40-J47),CLRD,Arizona,2799,46
+
+2907,2005,Chronic lower respiratory diseases (J40-J47),CLRD,Arizona,2821,48
+
+2908,2004,Chronic lower respiratory diseases (J40-J47),CLRD,Arizona,2416,42.9
+
+2909,2003,Chronic lower respiratory diseases (J40-J47),CLRD,Arizona,2560,46.5
+
+2910,2002,Chronic lower respiratory diseases (J40-J47),CLRD,Arizona,2575,48.4
+
+2911,2001,Chronic lower respiratory diseases (J40-J47),CLRD,Arizona,2499,47.7
+
+2912,2000,Chronic lower respiratory diseases (J40-J47),CLRD,Arizona,2508,49.3
+
+2913,1999,Chronic lower respiratory diseases (J40-J47),CLRD,Arizona,2553,51.2
+
+3832,2016,Diabetes mellitus (E10-E14),Diabetes,Arizona,2025,23.9
+
+3833,2015,Diabetes mellitus (E10-E14),Diabetes,Arizona,2081,25.3
+
+3834,2014,Diabetes mellitus (E10-E14),Diabetes,Arizona,1936,24.3
+
+3835,2013,Diabetes mellitus (E10-E14),Diabetes,Arizona,1786,23.5
+
+3836,2012,Diabetes mellitus (E10-E14),Diabetes,Arizona,1736,23.4
+
+3837,2011,Diabetes mellitus (E10-E14),Diabetes,Arizona,1740,24.3
+
+3838,2010,Diabetes mellitus (E10-E14),Diabetes,Arizona,1389,20.3
+
+3839,2009,Diabetes mellitus (E10-E14),Diabetes,Arizona,1083,16.2
+
+3840,2008,Diabetes mellitus (E10-E14),Diabetes,Arizona,1173,18
+
+3841,2007,Diabetes mellitus (E10-E14),Diabetes,Arizona,1159,18.3
+
+3842,2006,Diabetes mellitus (E10-E14),Diabetes,Arizona,1206,19.6
+
+3843,2005,Diabetes mellitus (E10-E14),Diabetes,Arizona,1208,20.4
+
+3844,2004,Diabetes mellitus (E10-E14),Diabetes,Arizona,1196,21
+
+3845,2003,Diabetes mellitus (E10-E14),Diabetes,Arizona,1153,20.9
+
+3846,2002,Diabetes mellitus (E10-E14),Diabetes,Arizona,1231,23
+
+3847,2001,Diabetes mellitus (E10-E14),Diabetes,Arizona,1058,20.3
+
+3848,2000,Diabetes mellitus (E10-E14),Diabetes,Arizona,1012,20
+
+3849,1999,Diabetes mellitus (E10-E14),Diabetes,Arizona,1063,21.5
+
+4768,2016,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Arizona,11957,138.9
+
+4769,2015,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Arizona,11458,138.8
+
+4770,2014,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Arizona,10805,136.4
+
+4771,2013,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Arizona,10755,141.1
+
+4772,2012,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Arizona,10689,145.5
+
+4773,2011,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Arizona,10662,150.3
+
+4774,2010,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Arizona,9954,146.7
+
+4775,2009,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Arizona,10273,155.7
+
+4776,2008,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Arizona,10385,162.3
+
+4777,2007,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Arizona,10302,166
+
+4778,2006,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Arizona,10607,176.5
+
+4779,2005,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Arizona,10966,189.8
+
+4780,2004,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Arizona,10539,190
+
+4781,2003,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Arizona,10887,202.2
+
+4782,2002,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Arizona,10852,207.9
+
+4783,2001,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Arizona,10588,207.3
+
+4784,2000,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Arizona,10584,214
+
+4785,1999,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Arizona,10800,223.1
+
+5704,2016,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arizona,885,10.4
+
+5705,2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arizona,775,9.5
+
+5706,2014,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arizona,779,10
+
+5707,2013,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arizona,776,10.4
+
+5708,2012,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arizona,683,9.5
+
+5709,2011,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arizona,690,10
+
+5710,2010,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arizona,768,11.4
+
+5711,2009,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arizona,1058,16.2
+
+5712,2008,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arizona,1068,16.8
+
+5713,2007,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arizona,905,14.8
+
+5714,2006,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arizona,1166,19.6
+
+5715,2005,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arizona,1297,22.6
+
+5716,2004,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arizona,1111,20.3
+
+5717,2003,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arizona,1286,24.2
+
+5718,2002,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arizona,1319,25.6
+
+5719,2001,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arizona,1133,22.6
+
+5720,2000,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arizona,1222,25.2
+
+5721,1999,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arizona,1287,27.2
+
+6640,2016,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arizona,487,5.7
+
+6641,2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arizona,458,5.5
+
+6642,2014,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arizona,325,4.1
+
+6643,2013,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arizona,374,4.9
+
+6644,2012,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arizona,414,5.7
+
+6645,2011,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arizona,395,5.6
+
+6646,2010,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arizona,537,7.9
+
+6647,2009,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arizona,546,8.3
+
+6648,2008,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arizona,503,7.8
+
+6649,2007,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arizona,528,8.5
+
+6650,2006,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arizona,565,9.3
+
+6651,2005,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arizona,608,10.5
+
+6652,2004,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arizona,634,11.2
+
+6653,2003,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arizona,563,10.4
+
+6654,2002,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arizona,622,11.9
+
+6655,2001,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arizona,644,12.5
+
+6656,2000,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arizona,614,12.2
+
+6657,1999,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arizona,544,11.1
+
+7576,2016,Cerebrovascular diseases (I60-I69),Stroke,Arizona,2556,29.8
+
+7577,2015,Cerebrovascular diseases (I60-I69),Stroke,Arizona,2522,30.7
+
+7578,2014,Cerebrovascular diseases (I60-I69),Stroke,Arizona,2235,28.3
+
+7579,2013,Cerebrovascular diseases (I60-I69),Stroke,Arizona,2162,28.6
+
+7580,2012,Cerebrovascular diseases (I60-I69),Stroke,Arizona,2164,29.9
+
+7581,2011,Cerebrovascular diseases (I60-I69),Stroke,Arizona,2148,30.6
+
+7582,2010,Cerebrovascular diseases (I60-I69),Stroke,Arizona,2138,31.9
+
+7583,2009,Cerebrovascular diseases (I60-I69),Stroke,Arizona,2072,31.7
+
+7584,2008,Cerebrovascular diseases (I60-I69),Stroke,Arizona,2147,33.9
+
+7585,2007,Cerebrovascular diseases (I60-I69),Stroke,Arizona,2207,35.9
+
+7586,2006,Cerebrovascular diseases (I60-I69),Stroke,Arizona,2226,37.5
+
+7587,2005,Cerebrovascular diseases (I60-I69),Stroke,Arizona,2364,41.4
+
+7588,2004,Cerebrovascular diseases (I60-I69),Stroke,Arizona,2446,44.6
+
+7589,2003,Cerebrovascular diseases (I60-I69),Stroke,Arizona,2428,45.5
+
+7590,2002,Cerebrovascular diseases (I60-I69),Stroke,Arizona,2535,49.1
+
+7591,2001,Cerebrovascular diseases (I60-I69),Stroke,Arizona,2480,49
+
+7592,2000,Cerebrovascular diseases (I60-I69),Stroke,Arizona,2648,53.8
+
+7593,1999,Cerebrovascular diseases (I60-I69),Stroke,Arizona,2600,54.4
+
+8512,2016,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arizona,1271,17.7
+
+8513,2015,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arizona,1276,18.2
+
+8514,2014,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arizona,1244,18
+
+8515,2013,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arizona,1163,17.5
+
+8516,2012,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arizona,1156,17.3
+
+8517,2011,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arizona,1160,17.8
+
+8518,2010,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arizona,1093,17
+
+8519,2009,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arizona,1060,16.7
+
+8520,2008,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arizona,972,15.5
+
+8521,2007,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arizona,1016,16.5
+
+8522,2006,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arizona,979,16.3
+
+8523,2005,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arizona,945,16.4
+
+8524,2004,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arizona,880,15.8
+
+8525,2003,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arizona,840,15.5
+
+8526,2002,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arizona,886,16.6
+
+8527,2001,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arizona,767,14.8
+
+8528,2000,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arizona,784,15.6
+
+8529,1999,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arizona,766,15.5
+
+9446,2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arizona,3539,49.2
+
+9447,2014,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arizona,3322,47
+
+9448,2013,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arizona,3349,48.6
+
+9449,2012,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arizona,3029,45.1
+
+9450,2011,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arizona,3096,46.8
+
+9451,2010,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arizona,3018,46.7
+
+9452,2009,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arizona,2919,45.5
+
+9453,2008,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arizona,2956,47.3
+
+9454,2007,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arizona,3161,51.9
+
+9455,2006,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arizona,3352,56
+
+9456,2005,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arizona,3150,54.7
+
+9457,2004,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arizona,2770,49.3
+
+9458,2003,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arizona,2697,49.8
+
+9459,2002,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arizona,2577,48.6
+
+9460,2001,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arizona,2475,47.6
+
+9461,2000,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arizona,2326,46.3
+
+9462,1999,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arizona,2214,44.8
+
+3,2016,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arizona,4010,54.2
+
+88,2016,All Causes,All causes,Arizona,56645,675.8
+
+89,2015,All Causes,All causes,Arizona,54299,671.8
+
+90,2014,All Causes,All causes,Arizona,51538,661.7
+
+91,2013,All Causes,All causes,Arizona,50534,674.2
+
+92,2012,All Causes,All causes,Arizona,49549,682.9
+
+93,2011,All Causes,All causes,Arizona,48381,688.9
+
+94,2010,All Causes,All causes,Arizona,46762,693.1
+
+95,2009,All Causes,All causes,Arizona,45816,693.8
+
+96,2008,All Causes,All causes,Arizona,45823,714.5
+
+97,2007,All Causes,All causes,Arizona,45554,731
+
+98,2006,All Causes,All causes,Arizona,46365,767.1
+
+99,2005,All Causes,All causes,Arizona,45827,786.7
+
+100,2004,All Causes,All causes,Arizona,43198,771.1
+
+101,2003,All Causes,All causes,Arizona,43392,798.4
+
+102,2002,All Causes,All causes,Arizona,42816,811.2
+
+103,2001,All Causes,All causes,Arizona,41058,795.9
+
+104,2000,All Causes,All causes,Arizona,40500,810.4
+
+105,1999,All Causes,All causes,Arizona,40050,818.4
+
+1024,2016,Alzheimer's disease (G30),Alzheimer's disease,Arizona,3082,35.8
+
+1025,2015,Alzheimer's disease (G30),Alzheimer's disease,Arizona,2943,35.8
+
+1026,2014,Alzheimer's disease (G30),Alzheimer's disease,Arizona,2485,31.6
+
+1027,2013,Alzheimer's disease (G30),Alzheimer's disease,Arizona,2383,31.7
+
+1028,2012,Alzheimer's disease (G30),Alzheimer's disease,Arizona,2160,30
+
+1029,2011,Alzheimer's disease (G30),Alzheimer's disease,Arizona,2348,33.7
+
+1030,2010,Alzheimer's disease (G30),Alzheimer's disease,Arizona,2327,35.3
+
+1031,2009,Alzheimer's disease (G30),Alzheimer's disease,Arizona,2097,32.7
+
+1032,2008,Alzheimer's disease (G30),Alzheimer's disease,Arizona,2099,34
+
+1033,2007,Alzheimer's disease (G30),Alzheimer's disease,Arizona,2051,34.2
+
+1034,2006,Alzheimer's disease (G30),Alzheimer's disease,Arizona,2066,35.8
+
+1035,2005,Alzheimer's disease (G30),Alzheimer's disease,Arizona,1831,33
+
+1036,2004,Alzheimer's disease (G30),Alzheimer's disease,Arizona,1675,31.6
+
+1037,2003,Alzheimer's disease (G30),Alzheimer's disease,Arizona,1703,32.9
+
+1038,2002,Alzheimer's disease (G30),Alzheimer's disease,Arizona,1433,28.7
+
+1039,2001,Alzheimer's disease (G30),Alzheimer's disease,Arizona,1108,22.7
+
+1040,2000,Alzheimer's disease (G30),Alzheimer's disease,Arizona,1045,22
+
+1041,1999,Alzheimer's disease (G30),Alzheimer's disease,Arizona,963,20.8
+
+1960,2016,Malignant neoplasms (C00-C97),Cancer,Arizona,11876,136.8
+
+1961,2015,Malignant neoplasms (C00-C97),Cancer,Arizona,11776,141.3
+
+1962,2014,Malignant neoplasms (C00-C97),Cancer,Arizona,11455,142.7
+
+1963,2013,Malignant neoplasms (C00-C97),Cancer,Arizona,11347,147
+
+1964,2012,Malignant neoplasms (C00-C97),Cancer,Arizona,11085,148.6
+
+1965,2011,Malignant neoplasms (C00-C97),Cancer,Arizona,10690,148.5
+
+1966,2010,Malignant neoplasms (C00-C97),Cancer,Arizona,10678,154.2
+
+1967,2009,Malignant neoplasms (C00-C97),Cancer,Arizona,10271,152
+
+1968,2008,Malignant neoplasms (C00-C97),Cancer,Arizona,10081,153.2
+
+1969,2007,Malignant neoplasms (C00-C97),Cancer,Arizona,10134,158.9
+
+1970,2006,Malignant neoplasms (C00-C97),Cancer,Arizona,9919,160
+
+1971,2005,Malignant neoplasms (C00-C97),Cancer,Arizona,9820,164.2
+
+1972,2004,Malignant neoplasms (C00-C97),Cancer,Arizona,9618,167.5
+
+1973,2003,Malignant neoplasms (C00-C97),Cancer,Arizona,9627,173
+
+1974,2002,Malignant neoplasms (C00-C97),Cancer,Arizona,9359,173.2
+
+1975,2001,Malignant neoplasms (C00-C97),Cancer,Arizona,9143,173.8
+
+1976,2000,Malignant neoplasms (C00-C97),Cancer,Arizona,9073,177.9
+
+1977,1999,Malignant neoplasms (C00-C97),Cancer,Arizona,9006,179.9
+
+2896,2016,Chronic lower respiratory diseases (J40-J47),CLRD,Arizona,3800,43.5
+
+2897,2015,Chronic lower respiratory diseases (J40-J47),CLRD,Arizona,3681,43.8
+
+2898,2014,Chronic lower respiratory diseases (J40-J47),CLRD,Arizona,3396,42.2
+
+2899,2013,Chronic lower respiratory diseases (J40-J47),CLRD,Arizona,3345,43.5
+
+2900,2012,Chronic lower respiratory diseases (J40-J47),CLRD,Arizona,3221,43.6
+
+2901,2011,Chronic lower respiratory diseases (J40-J47),CLRD,Arizona,3166,44.5
+
+2902,2010,Chronic lower respiratory diseases (J40-J47),CLRD,Arizona,2926,43.1
+
+2903,2009,Chronic lower respiratory diseases (J40-J47),CLRD,Arizona,2839,42.7
+
+2904,2008,Chronic lower respiratory diseases (J40-J47),CLRD,Arizona,2939,45.5
+
+2905,2007,Chronic lower respiratory diseases (J40-J47),CLRD,Arizona,2686,42.9
+
+2906,2006,Chronic lower respiratory diseases (J40-J47),CLRD,Arizona,2799,46
+
+2907,2005,Chronic lower respiratory diseases (J40-J47),CLRD,Arizona,2821,48
+
+2908,2004,Chronic lower respiratory diseases (J40-J47),CLRD,Arizona,2416,42.9
+
+2909,2003,Chronic lower respiratory diseases (J40-J47),CLRD,Arizona,2560,46.5
+
+2910,2002,Chronic lower respiratory diseases (J40-J47),CLRD,Arizona,2575,48.4
+
+2911,2001,Chronic lower respiratory diseases (J40-J47),CLRD,Arizona,2499,47.7
+
+2912,2000,Chronic lower respiratory diseases (J40-J47),CLRD,Arizona,2508,49.3
+
+2913,1999,Chronic lower respiratory diseases (J40-J47),CLRD,Arizona,2553,51.2
+
+3832,2016,Diabetes mellitus (E10-E14),Diabetes,Arizona,2025,23.9
+
+3833,2015,Diabetes mellitus (E10-E14),Diabetes,Arizona,2081,25.3
+
+3834,2014,Diabetes mellitus (E10-E14),Diabetes,Arizona,1936,24.3
+
+3835,2013,Diabetes mellitus (E10-E14),Diabetes,Arizona,1786,23.5
+
+3836,2012,Diabetes mellitus (E10-E14),Diabetes,Arizona,1736,23.4
+
+3837,2011,Diabetes mellitus (E10-E14),Diabetes,Arizona,1740,24.3
+
+3838,2010,Diabetes mellitus (E10-E14),Diabetes,Arizona,1389,20.3
+
+3839,2009,Diabetes mellitus (E10-E14),Diabetes,Arizona,1083,16.2
+
+3840,2008,Diabetes mellitus (E10-E14),Diabetes,Arizona,1173,18
+
+3841,2007,Diabetes mellitus (E10-E14),Diabetes,Arizona,1159,18.3
+
+3842,2006,Diabetes mellitus (E10-E14),Diabetes,Arizona,1206,19.6
+
+3843,2005,Diabetes mellitus (E10-E14),Diabetes,Arizona,1208,20.4
+
+3844,2004,Diabetes mellitus (E10-E14),Diabetes,Arizona,1196,21
+
+3845,2003,Diabetes mellitus (E10-E14),Diabetes,Arizona,1153,20.9
+
+3846,2002,Diabetes mellitus (E10-E14),Diabetes,Arizona,1231,23
+
+3847,2001,Diabetes mellitus (E10-E14),Diabetes,Arizona,1058,20.3
+
+3848,2000,Diabetes mellitus (E10-E14),Diabetes,Arizona,1012,20
+
+3849,1999,Diabetes mellitus (E10-E14),Diabetes,Arizona,1063,21.5
+
+4768,2016,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Arizona,11957,138.9
+
+4769,2015,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Arizona,11458,138.8
+
+4770,2014,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Arizona,10805,136.4
+
+4771,2013,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Arizona,10755,141.1
+
+4772,2012,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Arizona,10689,145.5
+
+4773,2011,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Arizona,10662,150.3
+
+4774,2010,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Arizona,9954,146.7
+
+4775,2009,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Arizona,10273,155.7
+
+4776,2008,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Arizona,10385,162.3
+
+4777,2007,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Arizona,10302,166
+
+4778,2006,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Arizona,10607,176.5
+
+4779,2005,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Arizona,10966,189.8
+
+4780,2004,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Arizona,10539,190
+
+4781,2003,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Arizona,10887,202.2
+
+4782,2002,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Arizona,10852,207.9
+
+4783,2001,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Arizona,10588,207.3
+
+4784,2000,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Arizona,10584,214
+
+4785,1999,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Arizona,10800,223.1
+
+5704,2016,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arizona,885,10.4
+
+5705,2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arizona,775,9.5
+
+5706,2014,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arizona,779,10
+
+5707,2013,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arizona,776,10.4
+
+5708,2012,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arizona,683,9.5
+
+5709,2011,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arizona,690,10
+
+5710,2010,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arizona,768,11.4
+
+5711,2009,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arizona,1058,16.2
+
+5712,2008,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arizona,1068,16.8
+
+5713,2007,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arizona,905,14.8
+
+5714,2006,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arizona,1166,19.6
+
+5715,2005,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arizona,1297,22.6
+
+5716,2004,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arizona,1111,20.3
+
+5717,2003,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arizona,1286,24.2
+
+5718,2002,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arizona,1319,25.6
+
+5719,2001,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arizona,1133,22.6
+
+5720,2000,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arizona,1222,25.2
+
+5721,1999,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arizona,1287,27.2
+
+6640,2016,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arizona,487,5.7
+
+6641,2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arizona,458,5.5
+
+6642,2014,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arizona,325,4.1
+
+6643,2013,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arizona,374,4.9
+
+6644,2012,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arizona,414,5.7
+
+6645,2011,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arizona,395,5.6
+
+6646,2010,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arizona,537,7.9
+
+6647,2009,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arizona,546,8.3
+
+6648,2008,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arizona,503,7.8
+
+6649,2007,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arizona,528,8.5
+
+6650,2006,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arizona,565,9.3
+
+6651,2005,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arizona,608,10.5
+
+6652,2004,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arizona,634,11.2
+
+6653,2003,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arizona,563,10.4
+
+6654,2002,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arizona,622,11.9
+
+6655,2001,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arizona,644,12.5
+
+6656,2000,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arizona,614,12.2
+
+6657,1999,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arizona,544,11.1
+
+7576,2016,Cerebrovascular diseases (I60-I69),Stroke,Arizona,2556,29.8
+
+7577,2015,Cerebrovascular diseases (I60-I69),Stroke,Arizona,2522,30.7
+
+7578,2014,Cerebrovascular diseases (I60-I69),Stroke,Arizona,2235,28.3
+
+7579,2013,Cerebrovascular diseases (I60-I69),Stroke,Arizona,2162,28.6
+
+7580,2012,Cerebrovascular diseases (I60-I69),Stroke,Arizona,2164,29.9
+
+7581,2011,Cerebrovascular diseases (I60-I69),Stroke,Arizona,2148,30.6
+
+7582,2010,Cerebrovascular diseases (I60-I69),Stroke,Arizona,2138,31.9
+
+7583,2009,Cerebrovascular diseases (I60-I69),Stroke,Arizona,2072,31.7
+
+7584,2008,Cerebrovascular diseases (I60-I69),Stroke,Arizona,2147,33.9
+
+7585,2007,Cerebrovascular diseases (I60-I69),Stroke,Arizona,2207,35.9
+
+7586,2006,Cerebrovascular diseases (I60-I69),Stroke,Arizona,2226,37.5
+
+7587,2005,Cerebrovascular diseases (I60-I69),Stroke,Arizona,2364,41.4
+
+7588,2004,Cerebrovascular diseases (I60-I69),Stroke,Arizona,2446,44.6
+
+7589,2003,Cerebrovascular diseases (I60-I69),Stroke,Arizona,2428,45.5
+
+7590,2002,Cerebrovascular diseases (I60-I69),Stroke,Arizona,2535,49.1
+
+7591,2001,Cerebrovascular diseases (I60-I69),Stroke,Arizona,2480,49
+
+7592,2000,Cerebrovascular diseases (I60-I69),Stroke,Arizona,2648,53.8
+
+7593,1999,Cerebrovascular diseases (I60-I69),Stroke,Arizona,2600,54.4
+
+8512,2016,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arizona,1271,17.7
+
+8513,2015,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arizona,1276,18.2
+
+8514,2014,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arizona,1244,18
+
+8515,2013,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arizona,1163,17.5
+
+8516,2012,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arizona,1156,17.3
+
+8517,2011,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arizona,1160,17.8
+
+8518,2010,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arizona,1093,17
+
+8519,2009,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arizona,1060,16.7
+
+8520,2008,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arizona,972,15.5
+
+8521,2007,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arizona,1016,16.5
+
+8522,2006,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arizona,979,16.3
+
+8523,2005,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arizona,945,16.4
+
+8524,2004,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arizona,880,15.8
+
+8525,2003,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arizona,840,15.5
+
+8526,2002,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arizona,886,16.6
+
+8527,2001,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arizona,767,14.8
+
+8528,2000,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arizona,784,15.6
+
+8529,1999,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arizona,766,15.5
+
+9446,2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arizona,3539,49.2
+
+9447,2014,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arizona,3322,47
+
+9448,2013,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arizona,3349,48.6
+
+9449,2012,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arizona,3029,45.1
+
+9450,2011,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arizona,3096,46.8
+
+9451,2010,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arizona,3018,46.7
+
+9452,2009,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arizona,2919,45.5
+
+9453,2008,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arizona,2956,47.3
+
+9454,2007,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arizona,3161,51.9
+
+9455,2006,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arizona,3352,56
+
+9456,2005,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arizona,3150,54.7
+
+9457,2004,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arizona,2770,49.3
+
+9458,2003,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arizona,2697,49.8
+
+9459,2002,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arizona,2577,48.6
+
+9460,2001,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arizona,2475,47.6
+
+9461,2000,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arizona,2326,46.3
+
+9462,1999,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arizona,2214,44.8
+

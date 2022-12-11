@@ -1,0 +1,4 @@
+2411,2015,Malignant neoplasms (C00-C97),Cancer,Nebraska,3514,157.8
+
+3469,2001,Chronic lower respiratory diseases (J40-J47),CLRD,North Carolina,3514,45.6
+

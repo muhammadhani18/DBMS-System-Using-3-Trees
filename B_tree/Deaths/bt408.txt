@@ -1,0 +1,12 @@
+6181,2007,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Nevada,408,19.2
+
+6559,2007,Influenza and pneumonia (J09-J18),Influenza and pneumonia,West Virginia,408,18.4
+
+8282,2012,Cerebrovascular diseases (I60-I69),Stroke,South Dakota,408,37.4
+
+6181,2007,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Nevada,408,19.2
+
+6559,2007,Influenza and pneumonia (J09-J18),Influenza and pneumonia,West Virginia,408,18.4
+
+8282,2012,Cerebrovascular diseases (I60-I69),Stroke,South Dakota,408,37.4
+

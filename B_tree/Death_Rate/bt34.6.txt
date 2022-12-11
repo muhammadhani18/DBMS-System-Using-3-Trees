@@ -1,0 +1,20 @@
+3484,2004,Chronic lower respiratory diseases (J40-J47),CLRD,North Dakota,273,34.6
+
+3686,2000,Chronic lower respiratory diseases (J40-J47),CLRD,Utah,524,34.6
+
+3706,2016,Chronic lower respiratory diseases (J40-J47),CLRD,Virginia,3233,34.6
+
+7635,2011,Cerebrovascular diseases (I60-I69),Stroke,Colorado,1606,34.6
+
+7691,2009,Cerebrovascular diseases (I60-I69),Stroke,District of Columbia,199,34.6
+
+8442,2014,Cerebrovascular diseases (I60-I69),Stroke,Wisconsin,2511,34.6
+
+9523,2006,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Connecticut,1302,34.6
+
+9561,2002,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,District of Columbia,200,34.6
+
+10072,2001,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Pennsylvania,4552,34.6
+
+10188,2005,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Utah,743,34.6
+

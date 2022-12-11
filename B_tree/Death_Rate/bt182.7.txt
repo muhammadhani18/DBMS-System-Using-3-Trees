@@ -1,0 +1,6 @@
+2558,2012,Malignant neoplasms (C00-C97),Cancer,Ohio,25261,182.7
+
+4836,2002,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Colorado,6425,182.7
+
+4986,2014,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Indiana,13764,182.7
+

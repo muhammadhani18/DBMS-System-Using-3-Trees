@@ -1,0 +1,6 @@
+1748,2012,Alzheimer's disease (G30),Alzheimer's disease,Tennessee,2434,36.3
+
+2873,2003,Chronic lower respiratory diseases (J40-J47),CLRD,Alabama,2434,52.4
+
+5258,2013,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,New Hampshire,2434,148.9
+

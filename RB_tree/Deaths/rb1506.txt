@@ -1,0 +1,4 @@
+1298,2012,Alzheimer's disease (G30),Alzheimer's disease,Kentucky,1506,33
+
+9783,2001,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Massachusetts,1506,22.2
+

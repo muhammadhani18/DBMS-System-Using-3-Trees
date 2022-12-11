@@ -1,0 +1,4 @@
+9912,2008,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,New Hampshire,488,35.4
+
+9912,2008,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,New Hampshire,488,35.4
+

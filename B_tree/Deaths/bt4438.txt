@@ -1,0 +1,8 @@
+976,2010,All Causes,All causes,Wyoming,4438,778.8
+
+10017,2005,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Ohio,4438,37.7
+
+976,2010,All Causes,All causes,Wyoming,4438,778.8
+
+10017,2005,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Ohio,4438,37.7
+

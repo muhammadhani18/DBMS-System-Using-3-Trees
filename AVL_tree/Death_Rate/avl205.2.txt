@@ -1,0 +1,6 @@
+2337,1999,Malignant neoplasms (C00-C97),Cancer,Michigan,19744,205.2
+
+4962,2002,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Idaho,2532,205.2
+
+5518,2006,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Texas,38782,205.2
+

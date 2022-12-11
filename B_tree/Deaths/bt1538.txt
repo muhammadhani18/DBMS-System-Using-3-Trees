@@ -1,0 +1,8 @@
+6055,2007,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Massachusetts,1538,19.7
+
+9463,2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arkansas,1538,49.6
+
+6055,2007,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Massachusetts,1538,19.7
+
+9463,2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arkansas,1538,49.6
+

@@ -1,0 +1,10 @@
+8184,2002,Cerebrovascular diseases (I60-I69),Stroke,Ohio,7252,60.3
+
+8200,2004,Cerebrovascular diseases (I60-I69),Stroke,Oklahoma,2183,60.3
+
+9860,2009,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Montana,619,60.3
+
+9862,2007,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Montana,614,60.3
+
+10029,2010,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Oklahoma,2288,60.3
+

@@ -1,0 +1,16 @@
+1436,2000,Alzheimer's disease (G30),Alzheimer's disease,Mississippi,443,16.5
+
+6557,2009,Influenza and pneumonia (J09-J18),Influenza and pneumonia,West Virginia,443,19.7
+
+8017,2007,Cerebrovascular diseases (I60-I69),Stroke,Montana,443,39
+
+9212,2000,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,South Carolina,443,11.1
+
+1436,2000,Alzheimer's disease (G30),Alzheimer's disease,Mississippi,443,16.5
+
+6557,2009,Influenza and pneumonia (J09-J18),Influenza and pneumonia,West Virginia,443,19.7
+
+8017,2007,Cerebrovascular diseases (I60-I69),Stroke,Montana,443,39
+
+9212,2000,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,South Carolina,443,11.1
+

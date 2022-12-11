@@ -1,0 +1,4 @@
+8313,1999,Cerebrovascular diseases (I60-I69),Stroke,Tennessee,4103,76.3
+
+8313,1999,Cerebrovascular diseases (I60-I69),Stroke,Tennessee,4103,76.3
+

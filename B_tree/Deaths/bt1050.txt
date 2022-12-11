@@ -1,0 +1,8 @@
+3373,2007,Chronic lower respiratory diseases (J40-J47),CLRD,Nevada,1050,48.9
+
+4232,2012,Diabetes mellitus (E10-E14),Diabetes,Mississippi,1050,32.6
+
+3373,2007,Chronic lower respiratory diseases (J40-J47),CLRD,Nevada,1050,48.9
+
+4232,2012,Diabetes mellitus (E10-E14),Diabetes,Mississippi,1050,32.6
+

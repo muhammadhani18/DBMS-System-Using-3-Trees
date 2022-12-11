@@ -1,0 +1,4 @@
+9786,2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Michigan,4647,43.9
+
+9786,2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Michigan,4647,43.9
+

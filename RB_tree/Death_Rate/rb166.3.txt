@@ -1,0 +1,6 @@
+2149,2007,Malignant neoplasms (C00-C97),Cancer,Idaho,2405,166.3
+
+2828,2012,Malignant neoplasms (C00-C97),Cancer,Wisconsin,11252,166.3
+
+5275,2014,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,New Jersey,18319,166.3
+

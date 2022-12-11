@@ -1,0 +1,6 @@
+3352,2010,Chronic lower respiratory diseases (J40-J47),CLRD,Nebraska,1008,48.8
+
+6009,1999,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Louisiana,1008,26
+
+6036,2008,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Maryland,1008,17.9
+

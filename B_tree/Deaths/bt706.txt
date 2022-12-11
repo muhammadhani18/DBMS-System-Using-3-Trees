@@ -1,0 +1,12 @@
+1275,1999,Alzheimer's disease (G30),Alzheimer's disease,Iowa,706,18.2
+
+4092,2008,Diabetes mellitus (E10-E14),Diabetes,Kansas,706,22.7
+
+4753,2013,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Alaska,706,135
+
+1275,1999,Alzheimer's disease (G30),Alzheimer's disease,Iowa,706,18.2
+
+4092,2008,Diabetes mellitus (E10-E14),Diabetes,Kansas,706,22.7
+
+4753,2013,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Alaska,706,135
+

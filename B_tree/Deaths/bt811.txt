@@ -1,0 +1,28 @@
+1328,2000,Alzheimer's disease (G30),Alzheimer's disease,Louisiana,811,20.9
+
+1364,2000,Alzheimer's disease (G30),Alzheimer's disease,Maryland,811,18
+
+3671,2015,Chronic lower respiratory diseases (J40-J47),CLRD,Utah,811,33.9
+
+3915,2005,Diabetes mellitus (E10-E14),Diabetes,Connecticut,811,20
+
+8575,2007,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Colorado,811,16.6
+
+9354,2002,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Washington,811,13.4
+
+10186,2007,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Utah,811,35.6
+
+1328,2000,Alzheimer's disease (G30),Alzheimer's disease,Louisiana,811,20.9
+
+1364,2000,Alzheimer's disease (G30),Alzheimer's disease,Maryland,811,18
+
+3671,2015,Chronic lower respiratory diseases (J40-J47),CLRD,Utah,811,33.9
+
+3915,2005,Diabetes mellitus (E10-E14),Diabetes,Connecticut,811,20
+
+8575,2007,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Colorado,811,16.6
+
+9354,2002,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Washington,811,13.4
+
+10186,2007,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Utah,811,35.6
+

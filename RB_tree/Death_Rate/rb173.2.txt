@@ -1,0 +1,4 @@
+1974,2002,Malignant neoplasms (C00-C97),Cancer,Arizona,9359,173.2
+
+2496,2002,Malignant neoplasms (C00-C97),Cancer,New Mexico,3067,173.2
+

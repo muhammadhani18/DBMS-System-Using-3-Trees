@@ -1,0 +1,8 @@
+4118,2000,Diabetes mellitus (E10-E14),Diabetes,Kentucky,1107,27.9
+
+6612,2008,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Alabama,1107,22.3
+
+4118,2000,Diabetes mellitus (E10-E14),Diabetes,Kentucky,1107,27.9
+
+6612,2008,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Alabama,1107,22.3
+

@@ -1,0 +1,6 @@
+3792,2002,Chronic lower respiratory diseases (J40-J47),CLRD,Wyoming,324,68.7
+
+8403,1999,Cerebrovascular diseases (I60-I69),Stroke,Virginia,4110,68.7
+
+8420,2000,Cerebrovascular diseases (I60-I69),Stroke,Washington,3714,68.7
+

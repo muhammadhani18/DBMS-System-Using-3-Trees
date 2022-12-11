@@ -1,0 +1,4 @@
+185,2009,All Causes,All causes,Delaware,7534,768
+
+4798,2004,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Arkansas,7534,252.1
+

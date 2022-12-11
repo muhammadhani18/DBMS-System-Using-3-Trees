@@ -1,0 +1,4 @@
+2858,2000,Malignant neoplasms (C00-C97),Cancer,Wyoming,868,185.5
+
+5788,2004,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Connecticut,868,20.3
+

@@ -1,0 +1,8 @@
+4071,2011,Diabetes mellitus (E10-E14),Diabetes,Iowa,770,19.9
+
+5948,2006,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Iowa,770,19.3
+
+6400,2004,Influenza and pneumonia (J09-J18),Influenza and pneumonia,South Carolina,770,19.7
+
+8111,2003,Cerebrovascular diseases (I60-I69),Stroke,New Mexico,770,44.6
+

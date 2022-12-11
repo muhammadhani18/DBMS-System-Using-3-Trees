@@ -1,0 +1,6 @@
+3511,2013,Chronic lower respiratory diseases (J40-J47),CLRD,Oklahoma,2680,62.4
+
+7305,1999,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Pennsylvania,2680,18
+
+10267,2011,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wisconsin,2680,42.8
+

@@ -1,0 +1,4 @@
+4034,2012,Diabetes mellitus (E10-E14),Diabetes,Illinois,2706,19.2
+
+7968,2002,Cerebrovascular diseases (I60-I69),Stroke,Minnesota,2706,51.7
+

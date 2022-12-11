@@ -1,0 +1,28 @@
+1172,2012,Alzheimer's disease (G30),Alzheimer's disease,Georgia,2074,26.2
+
+1474,2016,Alzheimer's disease (G30),Alzheimer's disease,Nebraska,634,26.2
+
+1875,2011,Alzheimer's disease (G30),Alzheimer's disease,West Virginia,610,26.2
+
+4112,2006,Diabetes mellitus (E10-E14),Diabetes,Kentucky,1141,26.2
+
+4151,2003,Diabetes mellitus (E10-E14),Diabetes,Maine,398,26.2
+
+4205,2003,Diabetes mellitus (E10-E14),Diabetes,Michigan,2640,26.2
+
+4401,2005,Diabetes mellitus (E10-E14),Diabetes,North Carolina,2261,26.2
+
+4419,2005,Diabetes mellitus (E10-E14),Diabetes,North Dakota,204,26.2
+
+4545,2005,Diabetes mellitus (E10-E14),Diabetes,South Dakota,241,26.2
+
+4559,2009,Diabetes mellitus (E10-E14),Diabetes,Tennessee,1759,26.2
+
+6132,2002,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Missouri,1619,26.2
+
+9760,2007,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Maryland,1480,26.2
+
+9938,1999,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,New Jersey,2227,26.2
+
+9965,2006,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,New York,5235,26.2
+

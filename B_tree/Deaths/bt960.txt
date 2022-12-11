@@ -1,0 +1,12 @@
+7505,2016,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wisconsin,960,13
+
+8729,2015,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Indiana,960,14.4
+
+8929,2013,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Missouri,960,15.6
+
+7505,2016,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wisconsin,960,13
+
+8729,2015,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Indiana,960,14.4
+
+8929,2013,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Missouri,960,15.6
+

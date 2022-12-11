@@ -1,0 +1,16 @@
+6414,2008,Influenza and pneumonia (J09-J18),Influenza and pneumonia,South Dakota,177,17
+
+7426,2005,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Utah,177,10.3
+
+7568,2006,Cerebrovascular diseases (I60-I69),Stroke,Alaska,177,48.2
+
+8979,1999,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Nebraska,177,10.5
+
+6414,2008,Influenza and pneumonia (J09-J18),Influenza and pneumonia,South Dakota,177,17
+
+7426,2005,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Utah,177,10.3
+
+7568,2006,Cerebrovascular diseases (I60-I69),Stroke,Alaska,177,48.2
+
+8979,1999,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Nebraska,177,10.5
+

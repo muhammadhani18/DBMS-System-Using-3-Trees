@@ -1,0 +1,8 @@
+3180,2002,Chronic lower respiratory diseases (J40-J47),CLRD,Kentucky,2401,59.3
+
+3343,2001,Chronic lower respiratory diseases (J40-J47),CLRD,Montana,583,59.3
+
+7626,2002,Cerebrovascular diseases (I60-I69),Stroke,California,17626,59.3
+
+8436,2002,Cerebrovascular diseases (I60-I69),Stroke,West Virginia,1260,59.3
+

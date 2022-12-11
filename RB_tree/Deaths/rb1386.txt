@@ -1,0 +1,6 @@
+3165,1999,Chronic lower respiratory diseases (J40-J47),CLRD,Kansas,1386,48.7
+
+3804,2008,Diabetes mellitus (E10-E14),Diabetes,Alabama,1386,27.2
+
+9521,2008,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Connecticut,1386,35.7
+

@@ -1,0 +1,8 @@
+2772,2014,Malignant neoplasms (C00-C97),Cancer,Virginia,14749,161.5
+
+5193,2006,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Missouri,14749,228.8
+
+2772,2014,Malignant neoplasms (C00-C97),Cancer,Virginia,14749,161.5
+
+5193,2006,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Missouri,14749,228.8
+

@@ -1,0 +1,8 @@
+1108,2004,Alzheimer's disease (G30),Alzheimer's disease,Connecticut,684,15.7
+
+3382,2016,Chronic lower respiratory diseases (J40-J47),CLRD,New Hampshire,684,39.3
+
+4083,1999,Diabetes mellitus (E10-E14),Diabetes,Iowa,684,19.7
+
+4085,2015,Diabetes mellitus (E10-E14),Diabetes,Kansas,684,20.2
+

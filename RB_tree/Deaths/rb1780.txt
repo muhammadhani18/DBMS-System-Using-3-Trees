@@ -1,0 +1,6 @@
+2060,2006,Malignant neoplasms (C00-C97),Cancer,Delaware,1780,190.7
+
+6277,2001,Influenza and pneumonia (J09-J18),Influenza and pneumonia,North Carolina,1780,24.1
+
+7201,2013,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,North Carolina,1780,16.6
+

@@ -1,0 +1,10 @@
+1903,2001,Alzheimer's disease (G30),Alzheimer's disease,Wisconsin,1269,21.1
+
+2542,2010,Malignant neoplasms (C00-C97),Cancer,North Dakota,1269,157.1
+
+4447,2013,Diabetes mellitus (E10-E14),Diabetes,Oklahoma,1269,29.9
+
+6989,2009,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Massachusetts,1269,16.1
+
+7648,2016,Cerebrovascular diseases (I60-I69),Stroke,Connecticut,1269,26.3
+

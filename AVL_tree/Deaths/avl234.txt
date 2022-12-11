@@ -1,0 +1,6 @@
+6016,2010,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Maine,234,13.4
+
+8466,2008,Cerebrovascular diseases (I60-I69),Stroke,Wyoming,234,44.4
+
+10210,2000,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Vermont,234,38.1
+

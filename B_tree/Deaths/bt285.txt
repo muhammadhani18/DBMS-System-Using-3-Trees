@@ -1,0 +1,24 @@
+1470,2002,Alzheimer's disease (G30),Alzheimer's disease,Montana,285,27.9
+
+3994,2016,Diabetes mellitus (E10-E14),Diabetes,Hawaii,285,15.1
+
+4275,2005,Diabetes mellitus (E10-E14),Diabetes,Montana,285,26.7
+
+7166,2012,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,New Mexico,285,12.6
+
+9370,2004,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,West Virginia,285,15.4
+
+9995,2010,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,North Dakota,285,38.8
+
+1470,2002,Alzheimer's disease (G30),Alzheimer's disease,Montana,285,27.9
+
+3994,2016,Diabetes mellitus (E10-E14),Diabetes,Hawaii,285,15.1
+
+4275,2005,Diabetes mellitus (E10-E14),Diabetes,Montana,285,26.7
+
+7166,2012,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,New Mexico,285,12.6
+
+9370,2004,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,West Virginia,285,15.4
+
+9995,2010,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,North Dakota,285,38.8
+

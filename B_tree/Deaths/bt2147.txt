@@ -1,0 +1,8 @@
+7584,2008,Cerebrovascular diseases (I60-I69),Stroke,Arizona,2147,33.9
+
+7873,2007,Cerebrovascular diseases (I60-I69),Stroke,Louisiana,2147,51.3
+
+7584,2008,Cerebrovascular diseases (I60-I69),Stroke,Arizona,2147,33.9
+
+7873,2007,Cerebrovascular diseases (I60-I69),Stroke,Louisiana,2147,51.3
+

@@ -1,0 +1,4 @@
+2268,2014,Malignant neoplasms (C00-C97),Cancer,Maine,3209,170.3
+
+6454,2004,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Texas,3209,18.6
+

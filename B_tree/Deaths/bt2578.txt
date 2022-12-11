@@ -1,0 +1,12 @@
+1391,2009,Alzheimer's disease (G30),Alzheimer's disease,Michigan,2578,22.9
+
+3177,2005,Chronic lower respiratory diseases (J40-J47),CLRD,Kentucky,2578,61
+
+9718,2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Louisiana,2578,54.7
+
+1391,2009,Alzheimer's disease (G30),Alzheimer's disease,Michigan,2578,22.9
+
+3177,2005,Chronic lower respiratory diseases (J40-J47),CLRD,Kentucky,2578,61
+
+9718,2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Louisiana,2578,54.7
+

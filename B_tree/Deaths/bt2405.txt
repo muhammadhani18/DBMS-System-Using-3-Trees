@@ -1,0 +1,16 @@
+2149,2007,Malignant neoplasms (C00-C97),Cancer,Idaho,2405,166.3
+
+9711,2005,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Kentucky,2405,57.4
+
+9805,2013,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Minnesota,2405,40.1
+
+9936,2001,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,New Jersey,2405,27.8
+
+2149,2007,Malignant neoplasms (C00-C97),Cancer,Idaho,2405,166.3
+
+9711,2005,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Kentucky,2405,57.4
+
+9805,2013,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Minnesota,2405,40.1
+
+9936,2001,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,New Jersey,2405,27.8
+

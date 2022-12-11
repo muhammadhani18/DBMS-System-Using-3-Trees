@@ -1,0 +1,4 @@
+3878,2006,Diabetes mellitus (E10-E14),Diabetes,California,7376,22.5
+
+3878,2006,Diabetes mellitus (E10-E14),Diabetes,California,7376,22.5
+

@@ -1,0 +1,16 @@
+1016,2006,Alzheimer's disease (G30),Alzheimer's disease,Alaska,73,25.9
+
+5819,2009,Influenza and pneumonia (J09-J18),Influenza and pneumonia,District of Columbia,73,12.4
+
+9100,2004,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,North Dakota,73,11.1
+
+9105,1999,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,North Dakota,73,11.1
+
+1016,2006,Alzheimer's disease (G30),Alzheimer's disease,Alaska,73,25.9
+
+5819,2009,Influenza and pneumonia (J09-J18),Influenza and pneumonia,District of Columbia,73,12.4
+
+9100,2004,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,North Dakota,73,11.1
+
+9105,1999,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,North Dakota,73,11.1
+

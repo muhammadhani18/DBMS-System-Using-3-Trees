@@ -1,0 +1,8 @@
+6052,2010,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Massachusetts,1291,16
+
+6582,2002,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wisconsin,1291,21.4
+
+6052,2010,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Massachusetts,1291,16
+
+6582,2002,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wisconsin,1291,21.4
+

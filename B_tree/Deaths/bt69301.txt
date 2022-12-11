@@ -1,0 +1,4 @@
+4604,2000,Diabetes mellitus (E10-E14),Diabetes,United States,69301,25.1
+
+4604,2000,Diabetes mellitus (E10-E14),Diabetes,United States,69301,25.1
+

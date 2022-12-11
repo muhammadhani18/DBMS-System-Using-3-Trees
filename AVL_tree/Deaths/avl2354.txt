@@ -1,0 +1,4 @@
+3770,2006,Chronic lower respiratory diseases (J40-J47),CLRD,Wisconsin,2354,38.5
+
+7921,2013,Cerebrovascular diseases (I60-I69),Stroke,Massachusetts,2354,27.7
+

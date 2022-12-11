@@ -1,0 +1,8 @@
+5661,2005,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Wyoming,952,188.3
+
+5675,2009,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Alabama,952,19.2
+
+5661,2005,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Wyoming,952,188.3
+
+5675,2009,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Alabama,952,19.2
+

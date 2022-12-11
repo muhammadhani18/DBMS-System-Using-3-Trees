@@ -1,0 +1,4 @@
+2073,2011,Malignant neoplasms (C00-C97),Cancer,District of Columbia,1070,180.7
+
+9682,2000,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Iowa,1070,33.4
+

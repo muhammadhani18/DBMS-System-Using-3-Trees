@@ -1,0 +1,4 @@
+9454,2007,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arizona,3161,51.9
+
+9454,2007,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arizona,3161,51.9
+

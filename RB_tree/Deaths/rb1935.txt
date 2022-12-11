@@ -1,0 +1,8 @@
+2054,2012,Malignant neoplasms (C00-C97),Cancer,Delaware,1935,177
+
+3590,2006,Chronic lower respiratory diseases (J40-J47),CLRD,South Carolina,1935,44
+
+6057,2005,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Massachusetts,1935,25.5
+
+7987,2001,Cerebrovascular diseases (I60-I69),Stroke,Mississippi,1935,71.5
+

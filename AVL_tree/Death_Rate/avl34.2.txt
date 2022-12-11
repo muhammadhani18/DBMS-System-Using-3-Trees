@@ -1,0 +1,12 @@
+33,2016,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,New York,7354,34.2
+
+1033,2007,Alzheimer's disease (G30),Alzheimer's disease,Arizona,2051,34.2
+
+7689,2011,Cerebrovascular diseases (I60-I69),Stroke,District of Columbia,209,34.2
+
+8405,2015,Cerebrovascular diseases (I60-I69),Stroke,Washington,2703,34.2
+
+10193,2000,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Utah,665,34.2
+
+10211,1999,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Vermont,209,34.2
+

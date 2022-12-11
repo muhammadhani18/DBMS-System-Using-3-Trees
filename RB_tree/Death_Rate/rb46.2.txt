@@ -1,0 +1,14 @@
+1709,2015,Alzheimer's disease (G30),Alzheimer's disease,South Carolina,2453,46.2
+
+3423,2011,Chronic lower respiratory diseases (J40-J47),CLRD,New Mexico,1024,46.2
+
+3429,2005,Chronic lower respiratory diseases (J40-J47),CLRD,New Mexico,855,46.2
+
+3701,2003,Chronic lower respiratory diseases (J40-J47),CLRD,Vermont,301,46.2
+
+7800,2008,Cerebrovascular diseases (I60-I69),Stroke,Indiana,3114,46.2
+
+8381,2003,Cerebrovascular diseases (I60-I69),Stroke,Vermont,306,46.2
+
+9565,2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Florida,10578,46.2
+

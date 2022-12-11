@@ -1,0 +1,6 @@
+2094,2008,Malignant neoplasms (C00-C97),Cancer,Florida,40814,169.5
+
+2470,2010,Malignant neoplasms (C00-C97),Cancer,New Jersey,16815,169.5
+
+2831,2009,Malignant neoplasms (C00-C97),Cancer,Wisconsin,10866,169.5
+

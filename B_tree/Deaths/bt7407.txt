@@ -1,0 +1,8 @@
+4790,2012,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Arkansas,7407,218.6
+
+10158,2000,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Texas,7407,37.6
+
+4790,2012,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Arkansas,7407,218.6
+
+10158,2000,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Texas,7407,37.6
+

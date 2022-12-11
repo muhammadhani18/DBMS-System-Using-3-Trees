@@ -1,0 +1,28 @@
+1452,2002,Alzheimer's disease (G30),Alzheimer's disease,Missouri,1187,19
+
+4105,2013,Diabetes mellitus (E10-E14),Diabetes,Kentucky,1187,24.1
+
+4113,2005,Diabetes mellitus (E10-E14),Diabetes,Kentucky,1187,27.8
+
+4527,2005,Diabetes mellitus (E10-E14),Diabetes,South Carolina,1187,27.6
+
+5565,2011,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Vermont,1187,151.7
+
+6939,2005,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Louisiana,1187,27.8
+
+9064,2004,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,New York,1187,6
+
+1452,2002,Alzheimer's disease (G30),Alzheimer's disease,Missouri,1187,19
+
+4105,2013,Diabetes mellitus (E10-E14),Diabetes,Kentucky,1187,24.1
+
+4113,2005,Diabetes mellitus (E10-E14),Diabetes,Kentucky,1187,27.8
+
+4527,2005,Diabetes mellitus (E10-E14),Diabetes,South Carolina,1187,27.6
+
+5565,2011,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Vermont,1187,151.7
+
+6939,2005,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Louisiana,1187,27.8
+
+9064,2004,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,New York,1187,6
+

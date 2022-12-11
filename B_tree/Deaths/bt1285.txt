@@ -1,0 +1,8 @@
+4699,2013,Diabetes mellitus (E10-E14),Diabetes,Wisconsin,1285,18.5
+
+6128,2006,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Missouri,1285,19.9
+
+4699,2013,Diabetes mellitus (E10-E14),Diabetes,Wisconsin,1285,18.5
+
+6128,2006,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Missouri,1285,19.9
+

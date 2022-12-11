@@ -1,0 +1,40 @@
+1283,2009,Alzheimer's disease (G30),Alzheimer's disease,Kansas,802,23.9
+
+1738,2004,Alzheimer's disease (G30),Alzheimer's disease,South Dakota,243,23.9
+
+1776,2002,Alzheimer's disease (G30),Alzheimer's disease,Texas,3793,23.9
+
+1923,1999,Alzheimer's disease (G30),Alzheimer's disease,Wyoming,103,23.9
+
+3800,2012,Diabetes mellitus (E10-E14),Diabetes,Alabama,1300,23.9
+
+3801,2011,Diabetes mellitus (E10-E14),Diabetes,Alabama,1278,23.9
+
+3815,2015,Diabetes mellitus (E10-E14),Diabetes,Alaska,142,23.9
+
+3832,2016,Diabetes mellitus (E10-E14),Diabetes,Arizona,2025,23.9
+
+4020,2008,Diabetes mellitus (E10-E14),Diabetes,Idaho,356,23.9
+
+4138,2016,Diabetes mellitus (E10-E14),Diabetes,Maine,463,23.9
+
+4333,2001,Diabetes mellitus (E10-E14),Diabetes,New Hampshire,291,23.9
+
+4524,2008,Diabetes mellitus (E10-E14),Diabetes,South Carolina,1133,23.9
+
+4724,2006,Diabetes mellitus (E10-E14),Diabetes,Wyoming,126,23.9
+
+6225,1999,Influenza and pneumonia (J09-J18),Influenza and pneumonia,New Jersey,2075,23.9
+
+6942,2002,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Louisiana,983,23.9
+
+7048,2004,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Mississippi,662,23.9
+
+8946,2014,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Montana,251,23.9
+
+9962,2009,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,New York,4891,23.9
+
+9968,2003,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,New York,4708,23.9
+
+9969,2002,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,New York,4663,23.9
+

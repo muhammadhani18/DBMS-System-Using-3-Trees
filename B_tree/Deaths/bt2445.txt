@@ -1,0 +1,8 @@
+2746,2004,Malignant neoplasms (C00-C97),Cancer,Utah,2445,141.1
+
+6299,2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Ohio,2445,16.6
+
+2746,2004,Malignant neoplasms (C00-C97),Cancer,Utah,2445,141.1
+
+6299,2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Ohio,2445,16.6
+

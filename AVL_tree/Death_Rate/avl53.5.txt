@@ -1,0 +1,4 @@
+2920,2010,Chronic lower respiratory diseases (J40-J47),CLRD,Arkansas,1773,53.5
+
+7730,2006,Cerebrovascular diseases (I60-I69),Stroke,Georgia,3889,53.5
+

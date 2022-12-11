@@ -1,0 +1,8 @@
+2,2016,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Alaska,439,63.1
+
+7121,2003,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Nevada,439,23.6
+
+7668,2014,Cerebrovascular diseases (I60-I69),Stroke,Delaware,439,38.8
+
+8280,2014,Cerebrovascular diseases (I60-I69),Stroke,South Dakota,439,38.8
+

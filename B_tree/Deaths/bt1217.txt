@@ -1,0 +1,12 @@
+4455,2005,Diabetes mellitus (E10-E14),Diabetes,Oklahoma,1217,32.6
+
+4877,2015,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,District of Columbia,1217,187.6
+
+6930,2014,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Louisiana,1217,24.9
+
+4455,2005,Diabetes mellitus (E10-E14),Diabetes,Oklahoma,1217,32.6
+
+4877,2015,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,District of Columbia,1217,187.6
+
+6930,2014,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Louisiana,1217,24.9
+

@@ -1,0 +1,12 @@
+2749,2001,Malignant neoplasms (C00-C97),Cancer,Utah,2313,144.3
+
+4938,2008,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Hawaii,2313,147.7
+
+9428,1999,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Alabama,2313,52.2
+
+2749,2001,Malignant neoplasms (C00-C97),Cancer,Utah,2313,144.3
+
+4938,2008,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Hawaii,2313,147.7
+
+9428,1999,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Alabama,2313,52.2
+

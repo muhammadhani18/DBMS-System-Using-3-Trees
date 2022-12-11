@@ -1,0 +1,12 @@
+1253,2003,Alzheimer's disease (G30),Alzheimer's disease,Indiana,1515,24.6
+
+4172,2000,Diabetes mellitus (E10-E14),Diabetes,Maryland,1515,31.3
+
+5863,2001,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Georgia,1515,24.4
+
+1253,2003,Alzheimer's disease (G30),Alzheimer's disease,Indiana,1515,24.6
+
+4172,2000,Diabetes mellitus (E10-E14),Diabetes,Maryland,1515,31.3
+
+5863,2001,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Georgia,1515,24.4
+

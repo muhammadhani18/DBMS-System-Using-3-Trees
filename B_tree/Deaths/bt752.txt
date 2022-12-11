@@ -1,0 +1,12 @@
+5772,2002,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Colorado,752,21.9
+
+6975,2005,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Maryland,752,14.1
+
+7751,2003,Cerebrovascular diseases (I60-I69),Stroke,Hawaii,752,55.7
+
+5772,2002,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Colorado,752,21.9
+
+6975,2005,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Maryland,752,14.1
+
+7751,2003,Cerebrovascular diseases (I60-I69),Stroke,Hawaii,752,55.7
+

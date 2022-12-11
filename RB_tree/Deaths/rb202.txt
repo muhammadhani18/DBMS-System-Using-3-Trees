@@ -1,0 +1,14 @@
+4007,2003,Diabetes mellitus (E10-E14),Diabetes,Hawaii,202,14.8
+
+4541,2009,Diabetes mellitus (E10-E14),Diabetes,South Dakota,202,21.1
+
+6152,2000,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Montana,202,20.9
+
+6803,2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Hawaii,202,10.8
+
+8706,2002,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Idaho,202,15.5
+
+8972,2006,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Nebraska,202,11.2
+
+9002,2012,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,New Hampshire,202,14.1
+

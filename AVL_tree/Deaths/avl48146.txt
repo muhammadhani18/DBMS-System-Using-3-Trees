@@ -1,0 +1,4 @@
+922,2010,All Causes,All causes,Washington,48146,692.3
+
+7399,2014,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,United States,48146,13.2
+

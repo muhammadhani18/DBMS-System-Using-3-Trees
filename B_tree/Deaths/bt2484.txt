@@ -1,0 +1,12 @@
+2462,2000,Malignant neoplasms (C00-C97),Cancer,New Hampshire,2484,206.9
+
+4349,2003,Diabetes mellitus (E10-E14),Diabetes,New Jersey,2484,27.2
+
+10270,2008,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wisconsin,2484,40.8
+
+2462,2000,Malignant neoplasms (C00-C97),Cancer,New Hampshire,2484,206.9
+
+4349,2003,Diabetes mellitus (E10-E14),Diabetes,New Jersey,2484,27.2
+
+10270,2008,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wisconsin,2484,40.8
+

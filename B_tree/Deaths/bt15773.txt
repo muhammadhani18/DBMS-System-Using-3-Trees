@@ -1,0 +1,4 @@
+4917,2011,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Georgia,15773,182.5
+
+4917,2011,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Georgia,15773,182.5
+

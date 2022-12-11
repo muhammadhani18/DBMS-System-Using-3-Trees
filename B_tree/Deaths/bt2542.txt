@@ -1,0 +1,12 @@
+1688,2000,Alzheimer's disease (G30),Alzheimer's disease,Pennsylvania,2542,16.5
+
+7966,2004,Cerebrovascular diseases (I60-I69),Stroke,Minnesota,2542,47.1
+
+9420,2007,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Alabama,2542,53.8
+
+1688,2000,Alzheimer's disease (G30),Alzheimer's disease,Pennsylvania,2542,16.5
+
+7966,2004,Cerebrovascular diseases (I60-I69),Stroke,Minnesota,2542,47.1
+
+9420,2007,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Alabama,2542,53.8
+

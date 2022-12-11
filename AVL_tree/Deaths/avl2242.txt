@@ -1,0 +1,4 @@
+2628,2014,Malignant neoplasms (C00-C97),Cancer,Rhode Island,2242,167
+
+4344,2008,Diabetes mellitus (E10-E14),Diabetes,New Jersey,2242,23.1
+

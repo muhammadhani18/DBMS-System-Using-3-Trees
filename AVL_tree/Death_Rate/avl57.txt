@@ -1,0 +1,6 @@
+26,2016,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Missouri,3625,57
+
+3783,2011,Chronic lower respiratory diseases (J40-J47),CLRD,Wyoming,327,57
+
+7898,2000,Cerebrovascular diseases (I60-I69),Stroke,Maine,833,57
+

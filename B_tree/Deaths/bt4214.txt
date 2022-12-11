@@ -1,0 +1,8 @@
+3112,2016,Chronic lower respiratory diseases (J40-J47),CLRD,Indiana,4214,54.6
+
+8550,2014,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,California,4214,10.5
+
+3112,2016,Chronic lower respiratory diseases (J40-J47),CLRD,Indiana,4214,54.6
+
+8550,2014,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,California,4214,10.5
+

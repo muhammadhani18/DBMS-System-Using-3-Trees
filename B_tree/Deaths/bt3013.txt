@@ -1,0 +1,8 @@
+3713,2009,Chronic lower respiratory diseases (J40-J47),CLRD,Virginia,3013,39.6
+
+7301,2003,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Pennsylvania,3013,19.5
+
+3713,2009,Chronic lower respiratory diseases (J40-J47),CLRD,Virginia,3013,39.6
+
+7301,2003,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Pennsylvania,3013,19.5
+

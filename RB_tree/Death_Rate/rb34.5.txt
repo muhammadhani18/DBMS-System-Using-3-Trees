@@ -1,0 +1,12 @@
+2936,2012,Chronic lower respiratory diseases (J40-J47),CLRD,California,12963,34.5
+
+3246,2008,Chronic lower respiratory diseases (J40-J47),CLRD,Massachusetts,2587,34.5
+
+4689,2005,Diabetes mellitus (E10-E14),Diabetes,West Virginia,766,34.5
+
+7888,2010,Cerebrovascular diseases (I60-I69),Stroke,Maine,602,34.5
+
+9541,2005,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Delaware,293,34.5
+
+10215,2012,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Virginia,2883,34.5
+

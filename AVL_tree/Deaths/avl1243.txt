@@ -1,0 +1,8 @@
+1415,2003,Alzheimer's disease (G30),Alzheimer's disease,Minnesota,1243,22.7
+
+2543,2009,Malignant neoplasms (C00-C97),Cancer,North Dakota,1243,156.3
+
+3369,2011,Chronic lower respiratory diseases (J40-J47),CLRD,Nevada,1243,49.8
+
+4157,2015,Diabetes mellitus (E10-E14),Diabetes,Maryland,1243,18.3
+

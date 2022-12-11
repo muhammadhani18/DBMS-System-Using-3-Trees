@@ -1,0 +1,2 @@
+2048,2000,Malignant neoplasms (C00-C97),Cancer,Connecticut,7065,189.5
+

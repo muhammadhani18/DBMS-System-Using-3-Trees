@@ -1,0 +1,12 @@
+5823,2005,Influenza and pneumonia (J09-J18),Influenza and pneumonia,District of Columbia,98,17.2
+
+7224,2008,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,North Dakota,98,11.8
+
+9411,1999,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wyoming,98,20.3
+
+5823,2005,Influenza and pneumonia (J09-J18),Influenza and pneumonia,District of Columbia,98,17.2
+
+7224,2008,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,North Dakota,98,11.8
+
+9411,1999,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wyoming,98,20.3
+

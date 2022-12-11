@@ -1,0 +1,4 @@
+2688,2008,Malignant neoplasms (C00-C97),Cancer,Tennessee,13162,197.2
+
+5239,2014,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Nevada,5761,197.2
+

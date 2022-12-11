@@ -1,0 +1,32 @@
+1198,2004,Alzheimer's disease (G30),Alzheimer's disease,Hawaii,171,12.2
+
+1829,2003,Alzheimer's disease (G30),Alzheimer's disease,Vermont,171,25.9
+
+4408,2016,Diabetes mellitus (E10-E14),Diabetes,North Dakota,171,19.4
+
+7575,1999,Cerebrovascular diseases (I60-I69),Stroke,Alaska,171,71.2
+
+8497,2013,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Alaska,171,23.2
+
+8677,2013,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Hawaii,171,11.8
+
+8830,2004,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Maine,171,12.4
+
+9398,2012,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wyoming,171,29.6
+
+1198,2004,Alzheimer's disease (G30),Alzheimer's disease,Hawaii,171,12.2
+
+1829,2003,Alzheimer's disease (G30),Alzheimer's disease,Vermont,171,25.9
+
+4408,2016,Diabetes mellitus (E10-E14),Diabetes,North Dakota,171,19.4
+
+7575,1999,Cerebrovascular diseases (I60-I69),Stroke,Alaska,171,71.2
+
+8497,2013,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Alaska,171,23.2
+
+8677,2013,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Hawaii,171,11.8
+
+8830,2004,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Maine,171,12.4
+
+9398,2012,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wyoming,171,29.6
+

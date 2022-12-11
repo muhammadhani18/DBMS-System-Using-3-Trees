@@ -1,0 +1,8 @@
+7578,2014,Cerebrovascular diseases (I60-I69),Stroke,Arizona,2235,28.3
+
+8199,2005,Cerebrovascular diseases (I60-I69),Stroke,Oklahoma,2235,60.9
+
+7578,2014,Cerebrovascular diseases (I60-I69),Stroke,Arizona,2235,28.3
+
+8199,2005,Cerebrovascular diseases (I60-I69),Stroke,Oklahoma,2235,60.9
+

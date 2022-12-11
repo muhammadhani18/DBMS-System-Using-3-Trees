@@ -1,0 +1,8 @@
+1315,2013,Alzheimer's disease (G30),Alzheimer's disease,Louisiana,1505,32.9
+
+2976,2008,Chronic lower respiratory diseases (J40-J47),CLRD,Connecticut,1505,35.3
+
+1315,2013,Alzheimer's disease (G30),Alzheimer's disease,Louisiana,1505,32.9
+
+2976,2008,Chronic lower respiratory diseases (J40-J47),CLRD,Connecticut,1505,35.3
+

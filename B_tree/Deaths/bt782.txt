@@ -1,0 +1,20 @@
+3215,2003,Chronic lower respiratory diseases (J40-J47),CLRD,Maine,782,51.3
+
+3914,2006,Diabetes mellitus (E10-E14),Diabetes,Connecticut,782,19
+
+4752,2014,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Alaska,782,146.6
+
+8355,2011,Cerebrovascular diseases (I60-I69),Stroke,Utah,782,37.8
+
+9144,2014,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Oregon,782,18.6
+
+3215,2003,Chronic lower respiratory diseases (J40-J47),CLRD,Maine,782,51.3
+
+3914,2006,Diabetes mellitus (E10-E14),Diabetes,Connecticut,782,19
+
+4752,2014,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Alaska,782,146.6
+
+8355,2011,Cerebrovascular diseases (I60-I69),Stroke,Utah,782,37.8
+
+9144,2014,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Oregon,782,18.6
+

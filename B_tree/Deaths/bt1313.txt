@@ -1,0 +1,12 @@
+1260,2014,Alzheimer's disease (G30),Alzheimer's disease,Iowa,1313,29.6
+
+3805,2007,Diabetes mellitus (E10-E14),Diabetes,Alabama,1313,26.4
+
+10055,2001,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Oregon,1313,36.9
+
+1260,2014,Alzheimer's disease (G30),Alzheimer's disease,Iowa,1313,29.6
+
+3805,2007,Diabetes mellitus (E10-E14),Diabetes,Alabama,1313,26.4
+
+10055,2001,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Oregon,1313,36.9
+

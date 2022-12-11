@@ -1,0 +1,12 @@
+1413,2005,Alzheimer's disease (G30),Alzheimer's disease,Minnesota,1320,23.5
+
+2537,2015,Malignant neoplasms (C00-C97),Cancer,North Dakota,1320,152.9
+
+7831,2013,Cerebrovascular diseases (I60-I69),Stroke,Kansas,1320,38.1
+
+1413,2005,Alzheimer's disease (G30),Alzheimer's disease,Minnesota,1320,23.5
+
+2537,2015,Malignant neoplasms (C00-C97),Cancer,North Dakota,1320,152.9
+
+7831,2013,Cerebrovascular diseases (I60-I69),Stroke,Kansas,1320,38.1
+

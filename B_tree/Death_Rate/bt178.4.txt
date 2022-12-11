@@ -1,0 +1,4 @@
+2097,2005,Malignant neoplasms (C00-C97),Cancer,Florida,40592,178.4
+
+2635,2007,Malignant neoplasms (C00-C97),Cancer,Rhode Island,2213,178.4
+

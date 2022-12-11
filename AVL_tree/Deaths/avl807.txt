@@ -1,0 +1,8 @@
+4691,2003,Diabetes mellitus (E10-E14),Diabetes,West Virginia,807,37.1
+
+5775,1999,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Colorado,807,25.3
+
+6925,2001,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Kentucky,807,20.4
+
+7025,2009,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Minnesota,807,13.7
+

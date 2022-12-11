@@ -1,0 +1,8 @@
+2271,2011,Malignant neoplasms (C00-C97),Cancer,Maine,3201,182.2
+
+7555,2002,Cerebrovascular diseases (I60-I69),Stroke,Alabama,3201,71.2
+
+2271,2011,Malignant neoplasms (C00-C97),Cancer,Maine,3201,182.2
+
+7555,2002,Cerebrovascular diseases (I60-I69),Stroke,Alabama,3201,71.2
+

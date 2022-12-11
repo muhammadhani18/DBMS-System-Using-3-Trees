@@ -1,0 +1,14 @@
+3605,2009,Chronic lower respiratory diseases (J40-J47),CLRD,South Dakota,440,44.9
+
+3609,2005,Chronic lower respiratory diseases (J40-J47),CLRD,South Dakota,440,48.1
+
+7478,2007,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Washington,440,6.8
+
+8008,2016,Cerebrovascular diseases (I60-I69),Stroke,Montana,440,32.5
+
+8906,2000,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Minnesota,440,8.9
+
+8992,2004,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Nevada,440,18.9
+
+9210,2002,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,South Carolina,440,10.8
+

@@ -1,0 +1,6 @@
+2080,2004,Malignant neoplasms (C00-C97),Cancer,District of Columbia,1152,206.4
+
+4704,2008,Diabetes mellitus (E10-E14),Diabetes,Wisconsin,1152,18.2
+
+6937,2007,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Louisiana,1152,27.4
+

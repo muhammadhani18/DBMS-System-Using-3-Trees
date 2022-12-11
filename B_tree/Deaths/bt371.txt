@@ -1,0 +1,16 @@
+35,2016,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,North Dakota,371,45.4
+
+52,2016,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wyoming,371,61.9
+
+1805,2009,Alzheimer's disease (G30),Alzheimer's disease,Utah,371,19.6
+
+4016,2012,Diabetes mellitus (E10-E14),Diabetes,Idaho,371,22.9
+
+35,2016,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,North Dakota,371,45.4
+
+52,2016,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wyoming,371,61.9
+
+1805,2009,Alzheimer's disease (G30),Alzheimer's disease,Utah,371,19.6
+
+4016,2012,Diabetes mellitus (E10-E14),Diabetes,Idaho,371,22.9
+

@@ -1,0 +1,34 @@
+1569,2011,Alzheimer's disease (G30),Alzheimer's disease,New York,2563,10.8
+
+6710,2000,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Colorado,357,10.8
+
+6768,2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Florida,3203,10.8
+
+6803,2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Hawaii,202,10.8
+
+7022,2012,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Minnesota,669,10.8
+
+7135,2007,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,New Hampshire,149,10.8
+
+7360,1999,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,South Dakota,97,10.8
+
+7531,2008,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wyoming,56,10.8
+
+8897,2009,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Minnesota,584,10.8
+
+8899,2007,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Minnesota,572,10.8
+
+9170,2006,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Pennsylvania,1396,10.8
+
+9176,2000,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Pennsylvania,1356,10.8
+
+9185,2009,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Rhode Island,118,10.8
+
+9210,2002,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,South Carolina,440,10.8
+
+9258,2008,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Texas,2552,10.8
+
+9281,2003,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,United States,31484,10.8
+
+9338,2000,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Virginia,768,10.8
+

@@ -1,0 +1,4 @@
+4871,2003,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Delaware,2027,247.2
+
+7248,2002,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Ohio,2027,16.9
+

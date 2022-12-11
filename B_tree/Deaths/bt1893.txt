@@ -1,0 +1,8 @@
+6223,2001,Influenza and pneumonia (J09-J18),Influenza and pneumonia,New Jersey,1893,21.2
+
+8192,2012,Cerebrovascular diseases (I60-I69),Stroke,Oklahoma,1893,45.7
+
+6223,2001,Influenza and pneumonia (J09-J18),Influenza and pneumonia,New Jersey,1893,21.2
+
+8192,2012,Cerebrovascular diseases (I60-I69),Stroke,Oklahoma,1893,45.7
+

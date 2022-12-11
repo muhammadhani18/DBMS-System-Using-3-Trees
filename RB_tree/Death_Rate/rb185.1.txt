@@ -1,0 +1,4 @@
+2727,2005,Malignant neoplasms (C00-C97),Cancer,United States,559312,185.1
+
+5363,2016,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Ohio,27410,185.1
+

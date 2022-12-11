@@ -1,0 +1,4 @@
+1228,2010,Alzheimer's disease (G30),Alzheimer's disease,Illinois,2927,20.9
+
+1630,2004,Alzheimer's disease (G30),Alzheimer's disease,Ohio,2927,23.7
+

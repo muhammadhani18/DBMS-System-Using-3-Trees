@@ -1,0 +1,12 @@
+3030,2008,Chronic lower respiratory diseases (J40-J47),CLRD,Florida,10198,41.1
+
+3561,1999,Chronic lower respiratory diseases (J40-J47),CLRD,Pennsylvania,6141,41.1
+
+3776,2000,Chronic lower respiratory diseases (J40-J47),CLRD,Wisconsin,2316,41.1
+
+8110,2004,Cerebrovascular diseases (I60-I69),Stroke,New Mexico,721,41.1
+
+9993,2012,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,North Dakota,318,41.1
+
+10063,2010,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Pennsylvania,5751,41.1
+

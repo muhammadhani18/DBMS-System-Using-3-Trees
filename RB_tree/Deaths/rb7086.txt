@@ -1,0 +1,4 @@
+801,2005,All Causes,All causes,South Dakota,7086,770.7
+
+3453,1999,Chronic lower respiratory diseases (J40-J47),CLRD,New York,7086,36.9
+

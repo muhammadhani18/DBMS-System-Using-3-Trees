@@ -1,0 +1,28 @@
+1149,1999,Alzheimer's disease (G30),Alzheimer's disease,District of Columbia,53,9.5
+
+1576,2004,Alzheimer's disease (G30),Alzheimer's disease,New York,1989,9.5
+
+5705,2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arizona,775,9.5
+
+5708,2012,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arizona,683,9.5
+
+5833,2013,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Florida,2662,9.5
+
+6626,2012,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Alaska,44,9.5
+
+6699,2011,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Colorado,450,9.5
+
+7090,2016,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Nebraska,220,9.5
+
+8683,2007,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Hawaii,133,9.5
+
+8688,2002,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Hawaii,120,9.5
+
+8840,2012,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Maryland,583,9.5
+
+8974,2004,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Nebraska,166,9.5
+
+9122,2000,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Ohio,1088,9.5
+
+9182,2012,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Rhode Island,105,9.5
+

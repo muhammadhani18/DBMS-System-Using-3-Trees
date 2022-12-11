@@ -1,0 +1,8 @@
+7728,2008,Cerebrovascular diseases (I60-I69),Stroke,Georgia,3805,49.5
+
+9789,2012,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Michigan,3805,36.6
+
+7728,2008,Cerebrovascular diseases (I60-I69),Stroke,Georgia,3805,49.5
+
+9789,2012,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Michigan,3805,36.6
+

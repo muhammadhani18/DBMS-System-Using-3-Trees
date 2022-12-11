@@ -1,0 +1,22 @@
+6686,2006,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,California,2676,8.2
+
+6831,2005,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Idaho,110,8.2
+
+6836,2000,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Idaho,96,8.2
+
+7271,2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Oregon,409,8.2
+
+7286,2000,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Oregon,295,8.2
+
+8596,2004,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Connecticut,294,8.2
+
+8685,2005,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Hawaii,107,8.2
+
+8856,2014,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Massachusetts,596,8.2
+
+8857,2013,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Massachusetts,572,8.2
+
+9057,2011,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,New York,1658,8.2
+
+9188,2006,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Rhode Island,90,8.2
+

@@ -1,0 +1,6 @@
+8032,2010,Cerebrovascular diseases (I60-I69),Stroke,Nebraska,876,40.5
+
+8363,2003,Cerebrovascular diseases (I60-I69),Stroke,Utah,876,55.2
+
+9332,2006,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Virginia,876,11.1
+

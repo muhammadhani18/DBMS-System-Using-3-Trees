@@ -1,0 +1,12 @@
+1318,2010,Alzheimer's disease (G30),Alzheimer's disease,Louisiana,1295,30.8
+
+1822,2010,Alzheimer's disease (G30),Alzheimer's disease,Vermont,238,30.8
+
+3808,2004,Diabetes mellitus (E10-E14),Diabetes,Alabama,1449,30.8
+
+4444,2016,Diabetes mellitus (E10-E14),Diabetes,Oklahoma,1393,30.8
+
+6599,2003,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wyoming,145,30.8
+
+9491,2004,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,California,10633,30.8
+

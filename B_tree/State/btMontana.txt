@@ -1,0 +1,1584 @@
+27,2016,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Montana,626,54.1
+
+520,2016,All Causes,All causes,Montana,9905,743.2
+
+521,2015,All Causes,All causes,Montana,9942,762.7
+
+522,2014,All Causes,All causes,Montana,9381,732.1
+
+523,2013,All Causes,All causes,Montana,9511,761.3
+
+524,2012,All Causes,All causes,Montana,8976,732.4
+
+525,2011,All Causes,All causes,Montana,9115,760.6
+
+526,2010,All Causes,All causes,Montana,8827,754.7
+
+527,2009,All Causes,All causes,Montana,8730,758
+
+528,2008,All Causes,All causes,Montana,8913,788.7
+
+529,2007,All Causes,All causes,Montana,8624,775.4
+
+530,2006,All Causes,All causes,Montana,8472,782.2
+
+531,2005,All Causes,All causes,Montana,8528,807.1
+
+532,2004,All Causes,All causes,Montana,8094,783
+
+533,2003,All Causes,All causes,Montana,8467,837.6
+
+534,2002,All Causes,All causes,Montana,8506,854.4
+
+535,2001,All Causes,All causes,Montana,8265,844.1
+
+536,2000,All Causes,All causes,Montana,8096,843.3
+
+537,1999,All Causes,All causes,Montana,8128,857.6
+
+1456,2016,Alzheimer's disease (G30),Alzheimer's disease,Montana,314,22.6
+
+1457,2015,Alzheimer's disease (G30),Alzheimer's disease,Montana,277,20.7
+
+1458,2014,Alzheimer's disease (G30),Alzheimer's disease,Montana,253,19.2
+
+1459,2013,Alzheimer's disease (G30),Alzheimer's disease,Montana,267,20.7
+
+1460,2012,Alzheimer's disease (G30),Alzheimer's disease,Montana,265,20.8
+
+1461,2011,Alzheimer's disease (G30),Alzheimer's disease,Montana,258,20.7
+
+1462,2010,Alzheimer's disease (G30),Alzheimer's disease,Montana,302,25.2
+
+1463,2009,Alzheimer's disease (G30),Alzheimer's disease,Montana,256,21.6
+
+1464,2008,Alzheimer's disease (G30),Alzheimer's disease,Montana,294,25.4
+
+1465,2007,Alzheimer's disease (G30),Alzheimer's disease,Montana,260,22.6
+
+1466,2006,Alzheimer's disease (G30),Alzheimer's disease,Montana,226,20.1
+
+1467,2005,Alzheimer's disease (G30),Alzheimer's disease,Montana,267,24.6
+
+1468,2004,Alzheimer's disease (G30),Alzheimer's disease,Montana,228,21.5
+
+1469,2003,Alzheimer's disease (G30),Alzheimer's disease,Montana,235,22.7
+
+1470,2002,Alzheimer's disease (G30),Alzheimer's disease,Montana,285,27.9
+
+1471,2001,Alzheimer's disease (G30),Alzheimer's disease,Montana,249,24.9
+
+1472,2000,Alzheimer's disease (G30),Alzheimer's disease,Montana,219,22.4
+
+1473,1999,Alzheimer's disease (G30),Alzheimer's disease,Montana,205,21.4
+
+2392,2016,Malignant neoplasms (C00-C97),Cancer,Montana,2031,145.9
+
+2393,2015,Malignant neoplasms (C00-C97),Cancer,Montana,2130,156.9
+
+2394,2014,Malignant neoplasms (C00-C97),Cancer,Montana,2066,156.3
+
+2395,2013,Malignant neoplasms (C00-C97),Cancer,Montana,1997,154.1
+
+2396,2012,Malignant neoplasms (C00-C97),Cancer,Montana,1954,155.1
+
+2397,2011,Malignant neoplasms (C00-C97),Cancer,Montana,2022,164.8
+
+2398,2010,Malignant neoplasms (C00-C97),Cancer,Montana,1923,161
+
+2399,2009,Malignant neoplasms (C00-C97),Cancer,Montana,1914,163
+
+2400,2008,Malignant neoplasms (C00-C97),Cancer,Montana,1862,161.3
+
+2401,2007,Malignant neoplasms (C00-C97),Cancer,Montana,1921,170.7
+
+2402,2006,Malignant neoplasms (C00-C97),Cancer,Montana,1943,177.9
+
+2403,2005,Malignant neoplasms (C00-C97),Cancer,Montana,1956,184.2
+
+2404,2004,Malignant neoplasms (C00-C97),Cancer,Montana,1867,179.6
+
+2405,2003,Malignant neoplasms (C00-C97),Cancer,Montana,1847,181.7
+
+2406,2002,Malignant neoplasms (C00-C97),Cancer,Montana,1911,191.1
+
+2407,2001,Malignant neoplasms (C00-C97),Cancer,Montana,1956,199.4
+
+2408,2000,Malignant neoplasms (C00-C97),Cancer,Montana,1867,194
+
+2409,1999,Malignant neoplasms (C00-C97),Cancer,Montana,1854,195.1
+
+3328,2016,Chronic lower respiratory diseases (J40-J47),CLRD,Montana,722,51.9
+
+3329,2015,Chronic lower respiratory diseases (J40-J47),CLRD,Montana,679,50.2
+
+3330,2014,Chronic lower respiratory diseases (J40-J47),CLRD,Montana,668,50.3
+
+3331,2013,Chronic lower respiratory diseases (J40-J47),CLRD,Montana,647,50.7
+
+3332,2012,Chronic lower respiratory diseases (J40-J47),CLRD,Montana,605,48.6
+
+3333,2011,Chronic lower respiratory diseases (J40-J47),CLRD,Montana,637,52.9
+
+3334,2010,Chronic lower respiratory diseases (J40-J47),CLRD,Montana,602,51.3
+
+3335,2009,Chronic lower respiratory diseases (J40-J47),CLRD,Montana,598,51.6
+
+3336,2008,Chronic lower respiratory diseases (J40-J47),CLRD,Montana,691,61
+
+3337,2007,Chronic lower respiratory diseases (J40-J47),CLRD,Montana,604,54.7
+
+3338,2006,Chronic lower respiratory diseases (J40-J47),CLRD,Montana,579,53.3
+
+3339,2005,Chronic lower respiratory diseases (J40-J47),CLRD,Montana,580,54.9
+
+3340,2004,Chronic lower respiratory diseases (J40-J47),CLRD,Montana,578,55.9
+
+3341,2003,Chronic lower respiratory diseases (J40-J47),CLRD,Montana,588,58.3
+
+3342,2002,Chronic lower respiratory diseases (J40-J47),CLRD,Montana,576,57.8
+
+3343,2001,Chronic lower respiratory diseases (J40-J47),CLRD,Montana,583,59.3
+
+3344,2000,Chronic lower respiratory diseases (J40-J47),CLRD,Montana,517,53.6
+
+3345,1999,Chronic lower respiratory diseases (J40-J47),CLRD,Montana,566,59.4
+
+4264,2016,Diabetes mellitus (E10-E14),Diabetes,Montana,311,23.6
+
+4265,2015,Diabetes mellitus (E10-E14),Diabetes,Montana,321,24.5
+
+4266,2014,Diabetes mellitus (E10-E14),Diabetes,Montana,250,19.2
+
+4267,2013,Diabetes mellitus (E10-E14),Diabetes,Montana,250,19.7
+
+4268,2012,Diabetes mellitus (E10-E14),Diabetes,Montana,233,19.1
+
+4269,2011,Diabetes mellitus (E10-E14),Diabetes,Montana,252,20.9
+
+4270,2010,Diabetes mellitus (E10-E14),Diabetes,Montana,227,19.1
+
+4271,2009,Diabetes mellitus (E10-E14),Diabetes,Montana,228,19.4
+
+4272,2008,Diabetes mellitus (E10-E14),Diabetes,Montana,254,22.3
+
+4273,2007,Diabetes mellitus (E10-E14),Diabetes,Montana,258,23
+
+4274,2006,Diabetes mellitus (E10-E14),Diabetes,Montana,249,22.8
+
+4275,2005,Diabetes mellitus (E10-E14),Diabetes,Montana,285,26.7
+
+4276,2004,Diabetes mellitus (E10-E14),Diabetes,Montana,237,22.7
+
+4277,2003,Diabetes mellitus (E10-E14),Diabetes,Montana,261,25.8
+
+4278,2002,Diabetes mellitus (E10-E14),Diabetes,Montana,210,21.1
+
+4279,2001,Diabetes mellitus (E10-E14),Diabetes,Montana,229,23.3
+
+4280,2000,Diabetes mellitus (E10-E14),Diabetes,Montana,227,23.6
+
+4281,1999,Diabetes mellitus (E10-E14),Diabetes,Montana,244,25.7
+
+5201,2016,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Montana,2138,154.4
+
+5202,2015,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Montana,2104,155.8
+
+5203,2014,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Montana,1957,147.8
+
+5204,2013,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Montana,2004,154.3
+
+5205,2012,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Montana,1903,151.1
+
+5206,2011,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Montana,1921,156.9
+
+5207,2010,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Montana,1849,154.2
+
+5208,2009,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Montana,1832,154.3
+
+5209,2008,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Montana,1975,170.6
+
+5210,2007,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Montana,1870,164.5
+
+5211,2006,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Montana,1869,169.4
+
+5212,2005,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Montana,1855,172.2
+
+5213,2004,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Montana,1838,175.1
+
+5214,2003,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Montana,1984,193.3
+
+5215,2002,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Montana,1944,192.8
+
+5216,2001,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Montana,1970,199
+
+5217,2000,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Montana,1995,205.7
+
+5218,1999,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Montana,2049,214.6
+
+6136,2016,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Montana,147,11.1
+
+6137,2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Montana,183,13.7
+
+6138,2014,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Montana,179,13.7
+
+6139,2013,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Montana,210,16.4
+
+6140,2012,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Montana,155,12.2
+
+6141,2011,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Montana,156,12.8
+
+6142,2010,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Montana,168,13.6
+
+6143,2009,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Montana,176,14.8
+
+6144,2008,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Montana,168,14.6
+
+6145,2007,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Montana,183,16.1
+
+6146,2006,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Montana,169,15.2
+
+6147,2005,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Montana,213,19.5
+
+6148,2004,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Montana,165,15.5
+
+6149,2003,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Montana,256,24.8
+
+6150,2002,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Montana,255,25.2
+
+6151,2001,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Montana,193,19.4
+
+6152,2000,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Montana,202,20.9
+
+6153,1999,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Montana,252,26.5
+
+7072,2016,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Montana,155,11.3
+
+7073,2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Montana,121,9.3
+
+7074,2014,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Montana,125,9.7
+
+7075,2013,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Montana,130,10.3
+
+7076,2012,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Montana,100,8
+
+7077,2011,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Montana,104,8.8
+
+7078,2010,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Montana,133,11.3
+
+7079,2009,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Montana,129,11.3
+
+7080,2008,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Montana,151,13.1
+
+7081,2007,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Montana,110,9.8
+
+7082,2006,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Montana,132,12
+
+7083,2005,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Montana,109,10.3
+
+7084,2004,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Montana,108,10.3
+
+7085,2003,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Montana,101,9.9
+
+7086,2002,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Montana,105,10.5
+
+7087,2001,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Montana,128,12.9
+
+7088,2000,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Montana,116,12
+
+7089,1999,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Montana,92,9.6
+
+8008,2016,Cerebrovascular diseases (I60-I69),Stroke,Montana,440,32.5
+
+8009,2015,Cerebrovascular diseases (I60-I69),Stroke,Montana,458,33.8
+
+8010,2014,Cerebrovascular diseases (I60-I69),Stroke,Montana,480,36.4
+
+8011,2013,Cerebrovascular diseases (I60-I69),Stroke,Montana,480,37.6
+
+8012,2012,Cerebrovascular diseases (I60-I69),Stroke,Montana,415,33.1
+
+8013,2011,Cerebrovascular diseases (I60-I69),Stroke,Montana,460,37.9
+
+8014,2010,Cerebrovascular diseases (I60-I69),Stroke,Montana,494,41.8
+
+8015,2009,Cerebrovascular diseases (I60-I69),Stroke,Montana,462,39.5
+
+8016,2008,Cerebrovascular diseases (I60-I69),Stroke,Montana,466,40.3
+
+8017,2007,Cerebrovascular diseases (I60-I69),Stroke,Montana,443,39
+
+8018,2006,Cerebrovascular diseases (I60-I69),Stroke,Montana,461,41.7
+
+8019,2005,Cerebrovascular diseases (I60-I69),Stroke,Montana,522,48.6
+
+8020,2004,Cerebrovascular diseases (I60-I69),Stroke,Montana,484,46.1
+
+8021,2003,Cerebrovascular diseases (I60-I69),Stroke,Montana,576,56.1
+
+8022,2002,Cerebrovascular diseases (I60-I69),Stroke,Montana,639,63
+
+8023,2001,Cerebrovascular diseases (I60-I69),Stroke,Montana,578,58.1
+
+8024,2000,Cerebrovascular diseases (I60-I69),Stroke,Montana,583,60.1
+
+8025,1999,Cerebrovascular diseases (I60-I69),Stroke,Montana,595,62.2
+
+8944,2016,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Montana,267,25.9
+
+8945,2015,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Montana,272,25.3
+
+8946,2014,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Montana,251,23.9
+
+8947,2013,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Montana,243,23.7
+
+8948,2012,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Montana,233,22.6
+
+8949,2011,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Montana,232,22.5
+
+8950,2010,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Montana,227,21.8
+
+8951,2009,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Montana,219,21.2
+
+8952,2008,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Montana,203,20.6
+
+8953,2007,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Montana,196,19.4
+
+8954,2006,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Montana,189,19.7
+
+8955,2005,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Montana,206,21.7
+
+8956,2004,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Montana,175,18.8
+
+8957,2003,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Montana,180,19.5
+
+8958,2002,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Montana,184,20
+
+8959,2001,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Montana,175,19.3
+
+8960,2000,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Montana,158,17.5
+
+8961,1999,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Montana,162,17.7
+
+9854,2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Montana,637,56.3
+
+9855,2014,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Montana,581,52.6
+
+9856,2013,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Montana,623,57.7
+
+9857,2012,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Montana,572,52.8
+
+9858,2011,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Montana,609,56.8
+
+9859,2010,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Montana,548,53.2
+
+9860,2009,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Montana,619,60.3
+
+9861,2008,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Montana,592,59.1
+
+9862,2007,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Montana,614,60.3
+
+9863,2006,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Montana,558,55.7
+
+9864,2005,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Montana,524,53.2
+
+9865,2004,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Montana,535,55.3
+
+9866,2003,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Montana,518,54.8
+
+9867,2002,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Montana,524,55.6
+
+9868,2001,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Montana,468,50.1
+
+9869,2000,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Montana,495,53.9
+
+9870,1999,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Montana,461,50.3
+
+27,2016,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Montana,626,54.1
+
+520,2016,All Causes,All causes,Montana,9905,743.2
+
+521,2015,All Causes,All causes,Montana,9942,762.7
+
+522,2014,All Causes,All causes,Montana,9381,732.1
+
+523,2013,All Causes,All causes,Montana,9511,761.3
+
+524,2012,All Causes,All causes,Montana,8976,732.4
+
+525,2011,All Causes,All causes,Montana,9115,760.6
+
+526,2010,All Causes,All causes,Montana,8827,754.7
+
+527,2009,All Causes,All causes,Montana,8730,758
+
+528,2008,All Causes,All causes,Montana,8913,788.7
+
+529,2007,All Causes,All causes,Montana,8624,775.4
+
+530,2006,All Causes,All causes,Montana,8472,782.2
+
+531,2005,All Causes,All causes,Montana,8528,807.1
+
+532,2004,All Causes,All causes,Montana,8094,783
+
+533,2003,All Causes,All causes,Montana,8467,837.6
+
+534,2002,All Causes,All causes,Montana,8506,854.4
+
+535,2001,All Causes,All causes,Montana,8265,844.1
+
+536,2000,All Causes,All causes,Montana,8096,843.3
+
+537,1999,All Causes,All causes,Montana,8128,857.6
+
+1456,2016,Alzheimer's disease (G30),Alzheimer's disease,Montana,314,22.6
+
+1457,2015,Alzheimer's disease (G30),Alzheimer's disease,Montana,277,20.7
+
+1458,2014,Alzheimer's disease (G30),Alzheimer's disease,Montana,253,19.2
+
+1459,2013,Alzheimer's disease (G30),Alzheimer's disease,Montana,267,20.7
+
+1460,2012,Alzheimer's disease (G30),Alzheimer's disease,Montana,265,20.8
+
+1461,2011,Alzheimer's disease (G30),Alzheimer's disease,Montana,258,20.7
+
+1462,2010,Alzheimer's disease (G30),Alzheimer's disease,Montana,302,25.2
+
+1463,2009,Alzheimer's disease (G30),Alzheimer's disease,Montana,256,21.6
+
+1464,2008,Alzheimer's disease (G30),Alzheimer's disease,Montana,294,25.4
+
+1465,2007,Alzheimer's disease (G30),Alzheimer's disease,Montana,260,22.6
+
+1466,2006,Alzheimer's disease (G30),Alzheimer's disease,Montana,226,20.1
+
+1467,2005,Alzheimer's disease (G30),Alzheimer's disease,Montana,267,24.6
+
+1468,2004,Alzheimer's disease (G30),Alzheimer's disease,Montana,228,21.5
+
+1469,2003,Alzheimer's disease (G30),Alzheimer's disease,Montana,235,22.7
+
+1470,2002,Alzheimer's disease (G30),Alzheimer's disease,Montana,285,27.9
+
+1471,2001,Alzheimer's disease (G30),Alzheimer's disease,Montana,249,24.9
+
+1472,2000,Alzheimer's disease (G30),Alzheimer's disease,Montana,219,22.4
+
+1473,1999,Alzheimer's disease (G30),Alzheimer's disease,Montana,205,21.4
+
+2392,2016,Malignant neoplasms (C00-C97),Cancer,Montana,2031,145.9
+
+2393,2015,Malignant neoplasms (C00-C97),Cancer,Montana,2130,156.9
+
+2394,2014,Malignant neoplasms (C00-C97),Cancer,Montana,2066,156.3
+
+2395,2013,Malignant neoplasms (C00-C97),Cancer,Montana,1997,154.1
+
+2396,2012,Malignant neoplasms (C00-C97),Cancer,Montana,1954,155.1
+
+2397,2011,Malignant neoplasms (C00-C97),Cancer,Montana,2022,164.8
+
+2398,2010,Malignant neoplasms (C00-C97),Cancer,Montana,1923,161
+
+2399,2009,Malignant neoplasms (C00-C97),Cancer,Montana,1914,163
+
+2400,2008,Malignant neoplasms (C00-C97),Cancer,Montana,1862,161.3
+
+2401,2007,Malignant neoplasms (C00-C97),Cancer,Montana,1921,170.7
+
+2402,2006,Malignant neoplasms (C00-C97),Cancer,Montana,1943,177.9
+
+2403,2005,Malignant neoplasms (C00-C97),Cancer,Montana,1956,184.2
+
+2404,2004,Malignant neoplasms (C00-C97),Cancer,Montana,1867,179.6
+
+2405,2003,Malignant neoplasms (C00-C97),Cancer,Montana,1847,181.7
+
+2406,2002,Malignant neoplasms (C00-C97),Cancer,Montana,1911,191.1
+
+2407,2001,Malignant neoplasms (C00-C97),Cancer,Montana,1956,199.4
+
+2408,2000,Malignant neoplasms (C00-C97),Cancer,Montana,1867,194
+
+2409,1999,Malignant neoplasms (C00-C97),Cancer,Montana,1854,195.1
+
+3328,2016,Chronic lower respiratory diseases (J40-J47),CLRD,Montana,722,51.9
+
+3329,2015,Chronic lower respiratory diseases (J40-J47),CLRD,Montana,679,50.2
+
+3330,2014,Chronic lower respiratory diseases (J40-J47),CLRD,Montana,668,50.3
+
+3331,2013,Chronic lower respiratory diseases (J40-J47),CLRD,Montana,647,50.7
+
+3332,2012,Chronic lower respiratory diseases (J40-J47),CLRD,Montana,605,48.6
+
+3333,2011,Chronic lower respiratory diseases (J40-J47),CLRD,Montana,637,52.9
+
+3334,2010,Chronic lower respiratory diseases (J40-J47),CLRD,Montana,602,51.3
+
+3335,2009,Chronic lower respiratory diseases (J40-J47),CLRD,Montana,598,51.6
+
+3336,2008,Chronic lower respiratory diseases (J40-J47),CLRD,Montana,691,61
+
+3337,2007,Chronic lower respiratory diseases (J40-J47),CLRD,Montana,604,54.7
+
+3338,2006,Chronic lower respiratory diseases (J40-J47),CLRD,Montana,579,53.3
+
+3339,2005,Chronic lower respiratory diseases (J40-J47),CLRD,Montana,580,54.9
+
+3340,2004,Chronic lower respiratory diseases (J40-J47),CLRD,Montana,578,55.9
+
+3341,2003,Chronic lower respiratory diseases (J40-J47),CLRD,Montana,588,58.3
+
+3342,2002,Chronic lower respiratory diseases (J40-J47),CLRD,Montana,576,57.8
+
+3343,2001,Chronic lower respiratory diseases (J40-J47),CLRD,Montana,583,59.3
+
+3344,2000,Chronic lower respiratory diseases (J40-J47),CLRD,Montana,517,53.6
+
+3345,1999,Chronic lower respiratory diseases (J40-J47),CLRD,Montana,566,59.4
+
+4264,2016,Diabetes mellitus (E10-E14),Diabetes,Montana,311,23.6
+
+4265,2015,Diabetes mellitus (E10-E14),Diabetes,Montana,321,24.5
+
+4266,2014,Diabetes mellitus (E10-E14),Diabetes,Montana,250,19.2
+
+4267,2013,Diabetes mellitus (E10-E14),Diabetes,Montana,250,19.7
+
+4268,2012,Diabetes mellitus (E10-E14),Diabetes,Montana,233,19.1
+
+4269,2011,Diabetes mellitus (E10-E14),Diabetes,Montana,252,20.9
+
+4270,2010,Diabetes mellitus (E10-E14),Diabetes,Montana,227,19.1
+
+4271,2009,Diabetes mellitus (E10-E14),Diabetes,Montana,228,19.4
+
+4272,2008,Diabetes mellitus (E10-E14),Diabetes,Montana,254,22.3
+
+4273,2007,Diabetes mellitus (E10-E14),Diabetes,Montana,258,23
+
+4274,2006,Diabetes mellitus (E10-E14),Diabetes,Montana,249,22.8
+
+4275,2005,Diabetes mellitus (E10-E14),Diabetes,Montana,285,26.7
+
+4276,2004,Diabetes mellitus (E10-E14),Diabetes,Montana,237,22.7
+
+4277,2003,Diabetes mellitus (E10-E14),Diabetes,Montana,261,25.8
+
+4278,2002,Diabetes mellitus (E10-E14),Diabetes,Montana,210,21.1
+
+4279,2001,Diabetes mellitus (E10-E14),Diabetes,Montana,229,23.3
+
+4280,2000,Diabetes mellitus (E10-E14),Diabetes,Montana,227,23.6
+
+4281,1999,Diabetes mellitus (E10-E14),Diabetes,Montana,244,25.7
+
+5201,2016,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Montana,2138,154.4
+
+5202,2015,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Montana,2104,155.8
+
+5203,2014,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Montana,1957,147.8
+
+5204,2013,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Montana,2004,154.3
+
+5205,2012,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Montana,1903,151.1
+
+5206,2011,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Montana,1921,156.9
+
+5207,2010,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Montana,1849,154.2
+
+5208,2009,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Montana,1832,154.3
+
+5209,2008,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Montana,1975,170.6
+
+5210,2007,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Montana,1870,164.5
+
+5211,2006,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Montana,1869,169.4
+
+5212,2005,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Montana,1855,172.2
+
+5213,2004,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Montana,1838,175.1
+
+5214,2003,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Montana,1984,193.3
+
+5215,2002,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Montana,1944,192.8
+
+5216,2001,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Montana,1970,199
+
+5217,2000,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Montana,1995,205.7
+
+5218,1999,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Montana,2049,214.6
+
+6136,2016,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Montana,147,11.1
+
+6137,2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Montana,183,13.7
+
+6138,2014,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Montana,179,13.7
+
+6139,2013,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Montana,210,16.4
+
+6140,2012,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Montana,155,12.2
+
+6141,2011,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Montana,156,12.8
+
+6142,2010,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Montana,168,13.6
+
+6143,2009,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Montana,176,14.8
+
+6144,2008,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Montana,168,14.6
+
+6145,2007,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Montana,183,16.1
+
+6146,2006,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Montana,169,15.2
+
+6147,2005,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Montana,213,19.5
+
+6148,2004,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Montana,165,15.5
+
+6149,2003,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Montana,256,24.8
+
+6150,2002,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Montana,255,25.2
+
+6151,2001,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Montana,193,19.4
+
+6152,2000,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Montana,202,20.9
+
+6153,1999,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Montana,252,26.5
+
+7072,2016,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Montana,155,11.3
+
+7073,2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Montana,121,9.3
+
+7074,2014,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Montana,125,9.7
+
+7075,2013,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Montana,130,10.3
+
+7076,2012,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Montana,100,8
+
+7077,2011,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Montana,104,8.8
+
+7078,2010,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Montana,133,11.3
+
+7079,2009,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Montana,129,11.3
+
+7080,2008,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Montana,151,13.1
+
+7081,2007,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Montana,110,9.8
+
+7082,2006,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Montana,132,12
+
+7083,2005,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Montana,109,10.3
+
+7084,2004,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Montana,108,10.3
+
+7085,2003,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Montana,101,9.9
+
+7086,2002,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Montana,105,10.5
+
+7087,2001,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Montana,128,12.9
+
+7088,2000,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Montana,116,12
+
+7089,1999,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Montana,92,9.6
+
+8008,2016,Cerebrovascular diseases (I60-I69),Stroke,Montana,440,32.5
+
+8009,2015,Cerebrovascular diseases (I60-I69),Stroke,Montana,458,33.8
+
+8010,2014,Cerebrovascular diseases (I60-I69),Stroke,Montana,480,36.4
+
+8011,2013,Cerebrovascular diseases (I60-I69),Stroke,Montana,480,37.6
+
+8012,2012,Cerebrovascular diseases (I60-I69),Stroke,Montana,415,33.1
+
+8013,2011,Cerebrovascular diseases (I60-I69),Stroke,Montana,460,37.9
+
+8014,2010,Cerebrovascular diseases (I60-I69),Stroke,Montana,494,41.8
+
+8015,2009,Cerebrovascular diseases (I60-I69),Stroke,Montana,462,39.5
+
+8016,2008,Cerebrovascular diseases (I60-I69),Stroke,Montana,466,40.3
+
+8017,2007,Cerebrovascular diseases (I60-I69),Stroke,Montana,443,39
+
+8018,2006,Cerebrovascular diseases (I60-I69),Stroke,Montana,461,41.7
+
+8019,2005,Cerebrovascular diseases (I60-I69),Stroke,Montana,522,48.6
+
+8020,2004,Cerebrovascular diseases (I60-I69),Stroke,Montana,484,46.1
+
+8021,2003,Cerebrovascular diseases (I60-I69),Stroke,Montana,576,56.1
+
+8022,2002,Cerebrovascular diseases (I60-I69),Stroke,Montana,639,63
+
+8023,2001,Cerebrovascular diseases (I60-I69),Stroke,Montana,578,58.1
+
+8024,2000,Cerebrovascular diseases (I60-I69),Stroke,Montana,583,60.1
+
+8025,1999,Cerebrovascular diseases (I60-I69),Stroke,Montana,595,62.2
+
+8944,2016,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Montana,267,25.9
+
+8945,2015,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Montana,272,25.3
+
+8946,2014,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Montana,251,23.9
+
+8947,2013,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Montana,243,23.7
+
+8948,2012,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Montana,233,22.6
+
+8949,2011,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Montana,232,22.5
+
+8950,2010,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Montana,227,21.8
+
+8951,2009,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Montana,219,21.2
+
+8952,2008,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Montana,203,20.6
+
+8953,2007,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Montana,196,19.4
+
+8954,2006,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Montana,189,19.7
+
+8955,2005,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Montana,206,21.7
+
+8956,2004,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Montana,175,18.8
+
+8957,2003,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Montana,180,19.5
+
+8958,2002,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Montana,184,20
+
+8959,2001,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Montana,175,19.3
+
+8960,2000,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Montana,158,17.5
+
+8961,1999,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Montana,162,17.7
+
+9854,2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Montana,637,56.3
+
+9855,2014,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Montana,581,52.6
+
+9856,2013,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Montana,623,57.7
+
+9857,2012,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Montana,572,52.8
+
+9858,2011,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Montana,609,56.8
+
+9859,2010,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Montana,548,53.2
+
+9860,2009,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Montana,619,60.3
+
+9861,2008,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Montana,592,59.1
+
+9862,2007,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Montana,614,60.3
+
+9863,2006,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Montana,558,55.7
+
+9864,2005,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Montana,524,53.2
+
+9865,2004,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Montana,535,55.3
+
+9866,2003,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Montana,518,54.8
+
+9867,2002,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Montana,524,55.6
+
+9868,2001,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Montana,468,50.1
+
+9869,2000,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Montana,495,53.9
+
+9870,1999,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Montana,461,50.3
+
+27,2016,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Montana,626,54.1
+
+520,2016,All Causes,All causes,Montana,9905,743.2
+
+521,2015,All Causes,All causes,Montana,9942,762.7
+
+522,2014,All Causes,All causes,Montana,9381,732.1
+
+523,2013,All Causes,All causes,Montana,9511,761.3
+
+524,2012,All Causes,All causes,Montana,8976,732.4
+
+525,2011,All Causes,All causes,Montana,9115,760.6
+
+526,2010,All Causes,All causes,Montana,8827,754.7
+
+527,2009,All Causes,All causes,Montana,8730,758
+
+528,2008,All Causes,All causes,Montana,8913,788.7
+
+529,2007,All Causes,All causes,Montana,8624,775.4
+
+530,2006,All Causes,All causes,Montana,8472,782.2
+
+531,2005,All Causes,All causes,Montana,8528,807.1
+
+532,2004,All Causes,All causes,Montana,8094,783
+
+533,2003,All Causes,All causes,Montana,8467,837.6
+
+534,2002,All Causes,All causes,Montana,8506,854.4
+
+535,2001,All Causes,All causes,Montana,8265,844.1
+
+536,2000,All Causes,All causes,Montana,8096,843.3
+
+537,1999,All Causes,All causes,Montana,8128,857.6
+
+1456,2016,Alzheimer's disease (G30),Alzheimer's disease,Montana,314,22.6
+
+1457,2015,Alzheimer's disease (G30),Alzheimer's disease,Montana,277,20.7
+
+1458,2014,Alzheimer's disease (G30),Alzheimer's disease,Montana,253,19.2
+
+1459,2013,Alzheimer's disease (G30),Alzheimer's disease,Montana,267,20.7
+
+1460,2012,Alzheimer's disease (G30),Alzheimer's disease,Montana,265,20.8
+
+1461,2011,Alzheimer's disease (G30),Alzheimer's disease,Montana,258,20.7
+
+1462,2010,Alzheimer's disease (G30),Alzheimer's disease,Montana,302,25.2
+
+1463,2009,Alzheimer's disease (G30),Alzheimer's disease,Montana,256,21.6
+
+1464,2008,Alzheimer's disease (G30),Alzheimer's disease,Montana,294,25.4
+
+1465,2007,Alzheimer's disease (G30),Alzheimer's disease,Montana,260,22.6
+
+1466,2006,Alzheimer's disease (G30),Alzheimer's disease,Montana,226,20.1
+
+1467,2005,Alzheimer's disease (G30),Alzheimer's disease,Montana,267,24.6
+
+1468,2004,Alzheimer's disease (G30),Alzheimer's disease,Montana,228,21.5
+
+1469,2003,Alzheimer's disease (G30),Alzheimer's disease,Montana,235,22.7
+
+1470,2002,Alzheimer's disease (G30),Alzheimer's disease,Montana,285,27.9
+
+1471,2001,Alzheimer's disease (G30),Alzheimer's disease,Montana,249,24.9
+
+1472,2000,Alzheimer's disease (G30),Alzheimer's disease,Montana,219,22.4
+
+1473,1999,Alzheimer's disease (G30),Alzheimer's disease,Montana,205,21.4
+
+2392,2016,Malignant neoplasms (C00-C97),Cancer,Montana,2031,145.9
+
+2393,2015,Malignant neoplasms (C00-C97),Cancer,Montana,2130,156.9
+
+2394,2014,Malignant neoplasms (C00-C97),Cancer,Montana,2066,156.3
+
+2395,2013,Malignant neoplasms (C00-C97),Cancer,Montana,1997,154.1
+
+2396,2012,Malignant neoplasms (C00-C97),Cancer,Montana,1954,155.1
+
+2397,2011,Malignant neoplasms (C00-C97),Cancer,Montana,2022,164.8
+
+2398,2010,Malignant neoplasms (C00-C97),Cancer,Montana,1923,161
+
+2399,2009,Malignant neoplasms (C00-C97),Cancer,Montana,1914,163
+
+2400,2008,Malignant neoplasms (C00-C97),Cancer,Montana,1862,161.3
+
+2401,2007,Malignant neoplasms (C00-C97),Cancer,Montana,1921,170.7
+
+2402,2006,Malignant neoplasms (C00-C97),Cancer,Montana,1943,177.9
+
+2403,2005,Malignant neoplasms (C00-C97),Cancer,Montana,1956,184.2
+
+2404,2004,Malignant neoplasms (C00-C97),Cancer,Montana,1867,179.6
+
+2405,2003,Malignant neoplasms (C00-C97),Cancer,Montana,1847,181.7
+
+2406,2002,Malignant neoplasms (C00-C97),Cancer,Montana,1911,191.1
+
+2407,2001,Malignant neoplasms (C00-C97),Cancer,Montana,1956,199.4
+
+2408,2000,Malignant neoplasms (C00-C97),Cancer,Montana,1867,194
+
+2409,1999,Malignant neoplasms (C00-C97),Cancer,Montana,1854,195.1
+
+3328,2016,Chronic lower respiratory diseases (J40-J47),CLRD,Montana,722,51.9
+
+3329,2015,Chronic lower respiratory diseases (J40-J47),CLRD,Montana,679,50.2
+
+3330,2014,Chronic lower respiratory diseases (J40-J47),CLRD,Montana,668,50.3
+
+3331,2013,Chronic lower respiratory diseases (J40-J47),CLRD,Montana,647,50.7
+
+3332,2012,Chronic lower respiratory diseases (J40-J47),CLRD,Montana,605,48.6
+
+3333,2011,Chronic lower respiratory diseases (J40-J47),CLRD,Montana,637,52.9
+
+3334,2010,Chronic lower respiratory diseases (J40-J47),CLRD,Montana,602,51.3
+
+3335,2009,Chronic lower respiratory diseases (J40-J47),CLRD,Montana,598,51.6
+
+3336,2008,Chronic lower respiratory diseases (J40-J47),CLRD,Montana,691,61
+
+3337,2007,Chronic lower respiratory diseases (J40-J47),CLRD,Montana,604,54.7
+
+3338,2006,Chronic lower respiratory diseases (J40-J47),CLRD,Montana,579,53.3
+
+3339,2005,Chronic lower respiratory diseases (J40-J47),CLRD,Montana,580,54.9
+
+3340,2004,Chronic lower respiratory diseases (J40-J47),CLRD,Montana,578,55.9
+
+3341,2003,Chronic lower respiratory diseases (J40-J47),CLRD,Montana,588,58.3
+
+3342,2002,Chronic lower respiratory diseases (J40-J47),CLRD,Montana,576,57.8
+
+3343,2001,Chronic lower respiratory diseases (J40-J47),CLRD,Montana,583,59.3
+
+3344,2000,Chronic lower respiratory diseases (J40-J47),CLRD,Montana,517,53.6
+
+3345,1999,Chronic lower respiratory diseases (J40-J47),CLRD,Montana,566,59.4
+
+4264,2016,Diabetes mellitus (E10-E14),Diabetes,Montana,311,23.6
+
+4265,2015,Diabetes mellitus (E10-E14),Diabetes,Montana,321,24.5
+
+4266,2014,Diabetes mellitus (E10-E14),Diabetes,Montana,250,19.2
+
+4267,2013,Diabetes mellitus (E10-E14),Diabetes,Montana,250,19.7
+
+4268,2012,Diabetes mellitus (E10-E14),Diabetes,Montana,233,19.1
+
+4269,2011,Diabetes mellitus (E10-E14),Diabetes,Montana,252,20.9
+
+4270,2010,Diabetes mellitus (E10-E14),Diabetes,Montana,227,19.1
+
+4271,2009,Diabetes mellitus (E10-E14),Diabetes,Montana,228,19.4
+
+4272,2008,Diabetes mellitus (E10-E14),Diabetes,Montana,254,22.3
+
+4273,2007,Diabetes mellitus (E10-E14),Diabetes,Montana,258,23
+
+4274,2006,Diabetes mellitus (E10-E14),Diabetes,Montana,249,22.8
+
+4275,2005,Diabetes mellitus (E10-E14),Diabetes,Montana,285,26.7
+
+4276,2004,Diabetes mellitus (E10-E14),Diabetes,Montana,237,22.7
+
+4277,2003,Diabetes mellitus (E10-E14),Diabetes,Montana,261,25.8
+
+4278,2002,Diabetes mellitus (E10-E14),Diabetes,Montana,210,21.1
+
+4279,2001,Diabetes mellitus (E10-E14),Diabetes,Montana,229,23.3
+
+4280,2000,Diabetes mellitus (E10-E14),Diabetes,Montana,227,23.6
+
+4281,1999,Diabetes mellitus (E10-E14),Diabetes,Montana,244,25.7
+
+5201,2016,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Montana,2138,154.4
+
+5202,2015,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Montana,2104,155.8
+
+5203,2014,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Montana,1957,147.8
+
+5204,2013,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Montana,2004,154.3
+
+5205,2012,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Montana,1903,151.1
+
+5206,2011,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Montana,1921,156.9
+
+5207,2010,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Montana,1849,154.2
+
+5208,2009,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Montana,1832,154.3
+
+5209,2008,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Montana,1975,170.6
+
+5210,2007,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Montana,1870,164.5
+
+5211,2006,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Montana,1869,169.4
+
+5212,2005,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Montana,1855,172.2
+
+5213,2004,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Montana,1838,175.1
+
+5214,2003,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Montana,1984,193.3
+
+5215,2002,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Montana,1944,192.8
+
+5216,2001,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Montana,1970,199
+
+5217,2000,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Montana,1995,205.7
+
+5218,1999,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Montana,2049,214.6
+
+6136,2016,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Montana,147,11.1
+
+6137,2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Montana,183,13.7
+
+6138,2014,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Montana,179,13.7
+
+6139,2013,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Montana,210,16.4
+
+6140,2012,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Montana,155,12.2
+
+6141,2011,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Montana,156,12.8
+
+6142,2010,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Montana,168,13.6
+
+6143,2009,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Montana,176,14.8
+
+6144,2008,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Montana,168,14.6
+
+6145,2007,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Montana,183,16.1
+
+6146,2006,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Montana,169,15.2
+
+6147,2005,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Montana,213,19.5
+
+6148,2004,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Montana,165,15.5
+
+6149,2003,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Montana,256,24.8
+
+6150,2002,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Montana,255,25.2
+
+6151,2001,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Montana,193,19.4
+
+6152,2000,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Montana,202,20.9
+
+6153,1999,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Montana,252,26.5
+
+7072,2016,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Montana,155,11.3
+
+7073,2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Montana,121,9.3
+
+7074,2014,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Montana,125,9.7
+
+7075,2013,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Montana,130,10.3
+
+7076,2012,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Montana,100,8
+
+7077,2011,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Montana,104,8.8
+
+7078,2010,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Montana,133,11.3
+
+7079,2009,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Montana,129,11.3
+
+7080,2008,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Montana,151,13.1
+
+7081,2007,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Montana,110,9.8
+
+7082,2006,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Montana,132,12
+
+7083,2005,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Montana,109,10.3
+
+7084,2004,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Montana,108,10.3
+
+7085,2003,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Montana,101,9.9
+
+7086,2002,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Montana,105,10.5
+
+7087,2001,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Montana,128,12.9
+
+7088,2000,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Montana,116,12
+
+7089,1999,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Montana,92,9.6
+
+8008,2016,Cerebrovascular diseases (I60-I69),Stroke,Montana,440,32.5
+
+8009,2015,Cerebrovascular diseases (I60-I69),Stroke,Montana,458,33.8
+
+8010,2014,Cerebrovascular diseases (I60-I69),Stroke,Montana,480,36.4
+
+8011,2013,Cerebrovascular diseases (I60-I69),Stroke,Montana,480,37.6
+
+8012,2012,Cerebrovascular diseases (I60-I69),Stroke,Montana,415,33.1
+
+8013,2011,Cerebrovascular diseases (I60-I69),Stroke,Montana,460,37.9
+
+8014,2010,Cerebrovascular diseases (I60-I69),Stroke,Montana,494,41.8
+
+8015,2009,Cerebrovascular diseases (I60-I69),Stroke,Montana,462,39.5
+
+8016,2008,Cerebrovascular diseases (I60-I69),Stroke,Montana,466,40.3
+
+8017,2007,Cerebrovascular diseases (I60-I69),Stroke,Montana,443,39
+
+8018,2006,Cerebrovascular diseases (I60-I69),Stroke,Montana,461,41.7
+
+8019,2005,Cerebrovascular diseases (I60-I69),Stroke,Montana,522,48.6
+
+8020,2004,Cerebrovascular diseases (I60-I69),Stroke,Montana,484,46.1
+
+8021,2003,Cerebrovascular diseases (I60-I69),Stroke,Montana,576,56.1
+
+8022,2002,Cerebrovascular diseases (I60-I69),Stroke,Montana,639,63
+
+8023,2001,Cerebrovascular diseases (I60-I69),Stroke,Montana,578,58.1
+
+8024,2000,Cerebrovascular diseases (I60-I69),Stroke,Montana,583,60.1
+
+8025,1999,Cerebrovascular diseases (I60-I69),Stroke,Montana,595,62.2
+
+8944,2016,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Montana,267,25.9
+
+8945,2015,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Montana,272,25.3
+
+8946,2014,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Montana,251,23.9
+
+8947,2013,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Montana,243,23.7
+
+8948,2012,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Montana,233,22.6
+
+8949,2011,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Montana,232,22.5
+
+8950,2010,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Montana,227,21.8
+
+8951,2009,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Montana,219,21.2
+
+8952,2008,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Montana,203,20.6
+
+8953,2007,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Montana,196,19.4
+
+8954,2006,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Montana,189,19.7
+
+8955,2005,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Montana,206,21.7
+
+8956,2004,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Montana,175,18.8
+
+8957,2003,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Montana,180,19.5
+
+8958,2002,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Montana,184,20
+
+8959,2001,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Montana,175,19.3
+
+8960,2000,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Montana,158,17.5
+
+8961,1999,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Montana,162,17.7
+
+9854,2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Montana,637,56.3
+
+9855,2014,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Montana,581,52.6
+
+9856,2013,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Montana,623,57.7
+
+9857,2012,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Montana,572,52.8
+
+9858,2011,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Montana,609,56.8
+
+9859,2010,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Montana,548,53.2
+
+9860,2009,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Montana,619,60.3
+
+9861,2008,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Montana,592,59.1
+
+9862,2007,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Montana,614,60.3
+
+9863,2006,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Montana,558,55.7
+
+9864,2005,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Montana,524,53.2
+
+9865,2004,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Montana,535,55.3
+
+9866,2003,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Montana,518,54.8
+
+9867,2002,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Montana,524,55.6
+
+9868,2001,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Montana,468,50.1
+
+9869,2000,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Montana,495,53.9
+
+9870,1999,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Montana,461,50.3
+
+27,2016,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Montana,626,54.1
+
+520,2016,All Causes,All causes,Montana,9905,743.2
+
+521,2015,All Causes,All causes,Montana,9942,762.7
+
+522,2014,All Causes,All causes,Montana,9381,732.1
+
+523,2013,All Causes,All causes,Montana,9511,761.3
+
+524,2012,All Causes,All causes,Montana,8976,732.4
+
+525,2011,All Causes,All causes,Montana,9115,760.6
+
+526,2010,All Causes,All causes,Montana,8827,754.7
+
+527,2009,All Causes,All causes,Montana,8730,758
+
+528,2008,All Causes,All causes,Montana,8913,788.7
+
+529,2007,All Causes,All causes,Montana,8624,775.4
+
+530,2006,All Causes,All causes,Montana,8472,782.2
+
+531,2005,All Causes,All causes,Montana,8528,807.1
+
+532,2004,All Causes,All causes,Montana,8094,783
+
+533,2003,All Causes,All causes,Montana,8467,837.6
+
+534,2002,All Causes,All causes,Montana,8506,854.4
+
+535,2001,All Causes,All causes,Montana,8265,844.1
+
+536,2000,All Causes,All causes,Montana,8096,843.3
+
+537,1999,All Causes,All causes,Montana,8128,857.6
+
+1456,2016,Alzheimer's disease (G30),Alzheimer's disease,Montana,314,22.6
+
+1457,2015,Alzheimer's disease (G30),Alzheimer's disease,Montana,277,20.7
+
+1458,2014,Alzheimer's disease (G30),Alzheimer's disease,Montana,253,19.2
+
+1459,2013,Alzheimer's disease (G30),Alzheimer's disease,Montana,267,20.7
+
+1460,2012,Alzheimer's disease (G30),Alzheimer's disease,Montana,265,20.8
+
+1461,2011,Alzheimer's disease (G30),Alzheimer's disease,Montana,258,20.7
+
+1462,2010,Alzheimer's disease (G30),Alzheimer's disease,Montana,302,25.2
+
+1463,2009,Alzheimer's disease (G30),Alzheimer's disease,Montana,256,21.6
+
+1464,2008,Alzheimer's disease (G30),Alzheimer's disease,Montana,294,25.4
+
+1465,2007,Alzheimer's disease (G30),Alzheimer's disease,Montana,260,22.6
+
+1466,2006,Alzheimer's disease (G30),Alzheimer's disease,Montana,226,20.1
+
+1467,2005,Alzheimer's disease (G30),Alzheimer's disease,Montana,267,24.6
+
+1468,2004,Alzheimer's disease (G30),Alzheimer's disease,Montana,228,21.5
+
+1469,2003,Alzheimer's disease (G30),Alzheimer's disease,Montana,235,22.7
+
+1470,2002,Alzheimer's disease (G30),Alzheimer's disease,Montana,285,27.9
+
+1471,2001,Alzheimer's disease (G30),Alzheimer's disease,Montana,249,24.9
+
+1472,2000,Alzheimer's disease (G30),Alzheimer's disease,Montana,219,22.4
+
+1473,1999,Alzheimer's disease (G30),Alzheimer's disease,Montana,205,21.4
+
+2392,2016,Malignant neoplasms (C00-C97),Cancer,Montana,2031,145.9
+
+2393,2015,Malignant neoplasms (C00-C97),Cancer,Montana,2130,156.9
+
+2394,2014,Malignant neoplasms (C00-C97),Cancer,Montana,2066,156.3
+
+2395,2013,Malignant neoplasms (C00-C97),Cancer,Montana,1997,154.1
+
+2396,2012,Malignant neoplasms (C00-C97),Cancer,Montana,1954,155.1
+
+2397,2011,Malignant neoplasms (C00-C97),Cancer,Montana,2022,164.8
+
+2398,2010,Malignant neoplasms (C00-C97),Cancer,Montana,1923,161
+
+2399,2009,Malignant neoplasms (C00-C97),Cancer,Montana,1914,163
+
+2400,2008,Malignant neoplasms (C00-C97),Cancer,Montana,1862,161.3
+
+2401,2007,Malignant neoplasms (C00-C97),Cancer,Montana,1921,170.7
+
+2402,2006,Malignant neoplasms (C00-C97),Cancer,Montana,1943,177.9
+
+2403,2005,Malignant neoplasms (C00-C97),Cancer,Montana,1956,184.2
+
+2404,2004,Malignant neoplasms (C00-C97),Cancer,Montana,1867,179.6
+
+2405,2003,Malignant neoplasms (C00-C97),Cancer,Montana,1847,181.7
+
+2406,2002,Malignant neoplasms (C00-C97),Cancer,Montana,1911,191.1
+
+2407,2001,Malignant neoplasms (C00-C97),Cancer,Montana,1956,199.4
+
+2408,2000,Malignant neoplasms (C00-C97),Cancer,Montana,1867,194
+
+2409,1999,Malignant neoplasms (C00-C97),Cancer,Montana,1854,195.1
+
+3328,2016,Chronic lower respiratory diseases (J40-J47),CLRD,Montana,722,51.9
+
+3329,2015,Chronic lower respiratory diseases (J40-J47),CLRD,Montana,679,50.2
+
+3330,2014,Chronic lower respiratory diseases (J40-J47),CLRD,Montana,668,50.3
+
+3331,2013,Chronic lower respiratory diseases (J40-J47),CLRD,Montana,647,50.7
+
+3332,2012,Chronic lower respiratory diseases (J40-J47),CLRD,Montana,605,48.6
+
+3333,2011,Chronic lower respiratory diseases (J40-J47),CLRD,Montana,637,52.9
+
+3334,2010,Chronic lower respiratory diseases (J40-J47),CLRD,Montana,602,51.3
+
+3335,2009,Chronic lower respiratory diseases (J40-J47),CLRD,Montana,598,51.6
+
+3336,2008,Chronic lower respiratory diseases (J40-J47),CLRD,Montana,691,61
+
+3337,2007,Chronic lower respiratory diseases (J40-J47),CLRD,Montana,604,54.7
+
+3338,2006,Chronic lower respiratory diseases (J40-J47),CLRD,Montana,579,53.3
+
+3339,2005,Chronic lower respiratory diseases (J40-J47),CLRD,Montana,580,54.9
+
+3340,2004,Chronic lower respiratory diseases (J40-J47),CLRD,Montana,578,55.9
+
+3341,2003,Chronic lower respiratory diseases (J40-J47),CLRD,Montana,588,58.3
+
+3342,2002,Chronic lower respiratory diseases (J40-J47),CLRD,Montana,576,57.8
+
+3343,2001,Chronic lower respiratory diseases (J40-J47),CLRD,Montana,583,59.3
+
+3344,2000,Chronic lower respiratory diseases (J40-J47),CLRD,Montana,517,53.6
+
+3345,1999,Chronic lower respiratory diseases (J40-J47),CLRD,Montana,566,59.4
+
+4264,2016,Diabetes mellitus (E10-E14),Diabetes,Montana,311,23.6
+
+4265,2015,Diabetes mellitus (E10-E14),Diabetes,Montana,321,24.5
+
+4266,2014,Diabetes mellitus (E10-E14),Diabetes,Montana,250,19.2
+
+4267,2013,Diabetes mellitus (E10-E14),Diabetes,Montana,250,19.7
+
+4268,2012,Diabetes mellitus (E10-E14),Diabetes,Montana,233,19.1
+
+4269,2011,Diabetes mellitus (E10-E14),Diabetes,Montana,252,20.9
+
+4270,2010,Diabetes mellitus (E10-E14),Diabetes,Montana,227,19.1
+
+4271,2009,Diabetes mellitus (E10-E14),Diabetes,Montana,228,19.4
+
+4272,2008,Diabetes mellitus (E10-E14),Diabetes,Montana,254,22.3
+
+4273,2007,Diabetes mellitus (E10-E14),Diabetes,Montana,258,23
+
+4274,2006,Diabetes mellitus (E10-E14),Diabetes,Montana,249,22.8
+
+4275,2005,Diabetes mellitus (E10-E14),Diabetes,Montana,285,26.7
+
+4276,2004,Diabetes mellitus (E10-E14),Diabetes,Montana,237,22.7
+
+4277,2003,Diabetes mellitus (E10-E14),Diabetes,Montana,261,25.8
+
+4278,2002,Diabetes mellitus (E10-E14),Diabetes,Montana,210,21.1
+
+4279,2001,Diabetes mellitus (E10-E14),Diabetes,Montana,229,23.3
+
+4280,2000,Diabetes mellitus (E10-E14),Diabetes,Montana,227,23.6
+
+4281,1999,Diabetes mellitus (E10-E14),Diabetes,Montana,244,25.7
+
+5201,2016,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Montana,2138,154.4
+
+5202,2015,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Montana,2104,155.8
+
+5203,2014,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Montana,1957,147.8
+
+5204,2013,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Montana,2004,154.3
+
+5205,2012,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Montana,1903,151.1
+
+5206,2011,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Montana,1921,156.9
+
+5207,2010,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Montana,1849,154.2
+
+5208,2009,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Montana,1832,154.3
+
+5209,2008,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Montana,1975,170.6
+
+5210,2007,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Montana,1870,164.5
+
+5211,2006,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Montana,1869,169.4
+
+5212,2005,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Montana,1855,172.2
+
+5213,2004,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Montana,1838,175.1
+
+5214,2003,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Montana,1984,193.3
+
+5215,2002,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Montana,1944,192.8
+
+5216,2001,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Montana,1970,199
+
+5217,2000,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Montana,1995,205.7
+
+5218,1999,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Montana,2049,214.6
+
+6136,2016,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Montana,147,11.1
+
+6137,2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Montana,183,13.7
+
+6138,2014,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Montana,179,13.7
+
+6139,2013,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Montana,210,16.4
+
+6140,2012,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Montana,155,12.2
+
+6141,2011,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Montana,156,12.8
+
+6142,2010,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Montana,168,13.6
+
+6143,2009,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Montana,176,14.8
+
+6144,2008,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Montana,168,14.6
+
+6145,2007,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Montana,183,16.1
+
+6146,2006,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Montana,169,15.2
+
+6147,2005,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Montana,213,19.5
+
+6148,2004,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Montana,165,15.5
+
+6149,2003,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Montana,256,24.8
+
+6150,2002,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Montana,255,25.2
+
+6151,2001,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Montana,193,19.4
+
+6152,2000,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Montana,202,20.9
+
+6153,1999,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Montana,252,26.5
+
+7072,2016,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Montana,155,11.3
+
+7073,2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Montana,121,9.3
+
+7074,2014,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Montana,125,9.7
+
+7075,2013,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Montana,130,10.3
+
+7076,2012,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Montana,100,8
+
+7077,2011,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Montana,104,8.8
+
+7078,2010,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Montana,133,11.3
+
+7079,2009,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Montana,129,11.3
+
+7080,2008,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Montana,151,13.1
+
+7081,2007,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Montana,110,9.8
+
+7082,2006,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Montana,132,12
+
+7083,2005,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Montana,109,10.3
+
+7084,2004,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Montana,108,10.3
+
+7085,2003,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Montana,101,9.9
+
+7086,2002,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Montana,105,10.5
+
+7087,2001,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Montana,128,12.9
+
+7088,2000,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Montana,116,12
+
+7089,1999,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Montana,92,9.6
+
+8008,2016,Cerebrovascular diseases (I60-I69),Stroke,Montana,440,32.5
+
+8009,2015,Cerebrovascular diseases (I60-I69),Stroke,Montana,458,33.8
+
+8010,2014,Cerebrovascular diseases (I60-I69),Stroke,Montana,480,36.4
+
+8011,2013,Cerebrovascular diseases (I60-I69),Stroke,Montana,480,37.6
+
+8012,2012,Cerebrovascular diseases (I60-I69),Stroke,Montana,415,33.1
+
+8013,2011,Cerebrovascular diseases (I60-I69),Stroke,Montana,460,37.9
+
+8014,2010,Cerebrovascular diseases (I60-I69),Stroke,Montana,494,41.8
+
+8015,2009,Cerebrovascular diseases (I60-I69),Stroke,Montana,462,39.5
+
+8016,2008,Cerebrovascular diseases (I60-I69),Stroke,Montana,466,40.3
+
+8017,2007,Cerebrovascular diseases (I60-I69),Stroke,Montana,443,39
+
+8018,2006,Cerebrovascular diseases (I60-I69),Stroke,Montana,461,41.7
+
+8019,2005,Cerebrovascular diseases (I60-I69),Stroke,Montana,522,48.6
+
+8020,2004,Cerebrovascular diseases (I60-I69),Stroke,Montana,484,46.1
+
+8021,2003,Cerebrovascular diseases (I60-I69),Stroke,Montana,576,56.1
+
+8022,2002,Cerebrovascular diseases (I60-I69),Stroke,Montana,639,63
+
+8023,2001,Cerebrovascular diseases (I60-I69),Stroke,Montana,578,58.1
+
+8024,2000,Cerebrovascular diseases (I60-I69),Stroke,Montana,583,60.1
+
+8025,1999,Cerebrovascular diseases (I60-I69),Stroke,Montana,595,62.2
+
+8944,2016,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Montana,267,25.9
+
+8945,2015,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Montana,272,25.3
+
+8946,2014,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Montana,251,23.9
+
+8947,2013,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Montana,243,23.7
+
+8948,2012,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Montana,233,22.6
+
+8949,2011,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Montana,232,22.5
+
+8950,2010,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Montana,227,21.8
+
+8951,2009,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Montana,219,21.2
+
+8952,2008,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Montana,203,20.6
+
+8953,2007,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Montana,196,19.4
+
+8954,2006,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Montana,189,19.7
+
+8955,2005,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Montana,206,21.7
+
+8956,2004,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Montana,175,18.8
+
+8957,2003,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Montana,180,19.5
+
+8958,2002,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Montana,184,20
+
+8959,2001,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Montana,175,19.3
+
+8960,2000,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Montana,158,17.5
+
+8961,1999,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Montana,162,17.7
+
+9854,2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Montana,637,56.3
+
+9855,2014,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Montana,581,52.6
+
+9856,2013,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Montana,623,57.7
+
+9857,2012,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Montana,572,52.8
+
+9858,2011,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Montana,609,56.8
+
+9859,2010,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Montana,548,53.2
+
+9860,2009,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Montana,619,60.3
+
+9861,2008,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Montana,592,59.1
+
+9862,2007,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Montana,614,60.3
+
+9863,2006,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Montana,558,55.7
+
+9864,2005,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Montana,524,53.2
+
+9865,2004,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Montana,535,55.3
+
+9866,2003,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Montana,518,54.8
+
+9867,2002,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Montana,524,55.6
+
+9868,2001,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Montana,468,50.1
+
+9869,2000,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Montana,495,53.9
+
+9870,1999,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Montana,461,50.3
+

@@ -1,0 +1,12 @@
+1896,2008,Alzheimer's disease (G30),Alzheimer's disease,Wisconsin,1655,24.4
+
+2668,2010,Malignant neoplasms (C00-C97),Cancer,South Dakota,1655,171
+
+3140,2006,Chronic lower respiratory diseases (J40-J47),CLRD,Iowa,1655,45.2
+
+1896,2008,Alzheimer's disease (G30),Alzheimer's disease,Wisconsin,1655,24.4
+
+2668,2010,Malignant neoplasms (C00-C97),Cancer,South Dakota,1655,171
+
+3140,2006,Chronic lower respiratory diseases (J40-J47),CLRD,Iowa,1655,45.2
+

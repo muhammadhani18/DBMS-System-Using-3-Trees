@@ -1,0 +1,4 @@
+3378,2002,Chronic lower respiratory diseases (J40-J47),CLRD,Nevada,1174,65.9
+
+8331,1999,Cerebrovascular diseases (I60-I69),Stroke,Texas,10414,65.9
+

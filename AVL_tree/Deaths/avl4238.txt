@@ -1,0 +1,4 @@
+44,2016,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Tennessee,4238,61.1
+
+2439,2005,Malignant neoplasms (C00-C97),Cancer,Nevada,4238,191
+

@@ -1,0 +1,4 @@
+2269,2013,Malignant neoplasms (C00-C97),Cancer,Maine,3227,175.2
+
+3121,2007,Chronic lower respiratory diseases (J40-J47),CLRD,Indiana,3227,49.3
+

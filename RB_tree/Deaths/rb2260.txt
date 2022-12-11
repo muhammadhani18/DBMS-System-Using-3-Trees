@@ -1,0 +1,4 @@
+1529,2015,Alzheimer's disease (G30),Alzheimer's disease,New Jersey,2260,19.8
+
+9712,2004,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Kentucky,2260,54.8
+

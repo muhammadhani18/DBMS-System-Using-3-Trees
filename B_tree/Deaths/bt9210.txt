@@ -1,0 +1,4 @@
+2352,2002,Malignant neoplasms (C00-C97),Cancer,Minnesota,9210,185.3
+
+2352,2002,Malignant neoplasms (C00-C97),Cancer,Minnesota,9210,185.3
+

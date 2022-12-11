@@ -1,0 +1,4 @@
+4873,2001,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Delaware,2033,261.2
+
+5377,2002,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Ohio,31388,261.2
+

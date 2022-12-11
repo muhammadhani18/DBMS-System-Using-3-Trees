@@ -1,0 +1,8 @@
+1256,2000,Alzheimer's disease (G30),Alzheimer's disease,Indiana,1209,20.4
+
+4226,2000,Diabetes mellitus (E10-E14),Diabetes,Minnesota,1209,24.6
+
+1256,2000,Alzheimer's disease (G30),Alzheimer's disease,Indiana,1209,20.4
+
+4226,2000,Diabetes mellitus (E10-E14),Diabetes,Minnesota,1209,24.6
+

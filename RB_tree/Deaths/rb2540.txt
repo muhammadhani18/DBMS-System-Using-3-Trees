@@ -1,0 +1,4 @@
+4347,2005,Diabetes mellitus (E10-E14),Diabetes,New Jersey,2540,27.3
+
+7901,2015,Cerebrovascular diseases (I60-I69),Stroke,Maryland,2540,37.8
+

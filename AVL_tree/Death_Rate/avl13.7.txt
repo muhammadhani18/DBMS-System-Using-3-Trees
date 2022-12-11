@@ -1,0 +1,48 @@
+5695,2007,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Alaska,48,13.7
+
+5822,2006,Influenza and pneumonia (J09-J18),Influenza and pneumonia,District of Columbia,76,13.7
+
+5940,2014,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Iowa,582,13.7
+
+5944,2010,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Iowa,560,13.7
+
+6012,2014,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Maine,258,13.7
+
+6064,2016,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Michigan,1672,13.7
+
+6137,2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Montana,183,13.7
+
+6138,2014,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Montana,179,13.7
+
+6218,2006,Influenza and pneumonia (J09-J18),Influenza and pneumonia,New Jersey,1315,13.7
+
+6723,2005,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Connecticut,580,13.7
+
+6972,2008,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Maryland,775,13.7
+
+7025,2009,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Minnesota,807,13.7
+
+7313,2009,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Rhode Island,190,13.7
+
+7506,2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wisconsin,996,13.7
+
+8483,2009,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Alabama,673,13.7
+
+8583,1999,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Colorado,574,13.7
+
+8644,2010,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Florida,2789,13.7
+
+8773,2007,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Kansas,382,13.7
+
+8776,2004,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Kansas,370,13.7
+
+9099,2005,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,North Dakota,92,13.7
+
+9137,2003,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Oklahoma,476,13.7
+
+9200,2012,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,South Carolina,673,13.7
+
+9231,1999,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,South Dakota,103,13.7
+
+9366,2008,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,West Virginia,261,13.7
+

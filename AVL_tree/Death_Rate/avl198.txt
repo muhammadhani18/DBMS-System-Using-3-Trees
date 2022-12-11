@@ -1,0 +1,10 @@
+2385,2005,Malignant neoplasms (C00-C97),Cancer,Missouri,12419,198
+
+2583,2005,Malignant neoplasms (C00-C97),Cancer,Oklahoma,7446,198
+
+2768,2000,Malignant neoplasms (C00-C97),Cancer,Vermont,1240,198
+
+2812,2010,Malignant neoplasms (C00-C97),Cancer,West Virginia,4685,198
+
+4767,1999,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Alaska,563,198
+

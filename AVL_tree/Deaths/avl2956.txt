@@ -1,0 +1,4 @@
+8276,2000,Cerebrovascular diseases (I60-I69),Stroke,South Carolina,2956,81.4
+
+9453,2008,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arizona,2956,47.3
+

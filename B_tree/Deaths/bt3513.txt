@@ -1,0 +1,4 @@
+10129,2012,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Tennessee,3513,53.1
+
+10129,2012,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Tennessee,3513,53.1
+

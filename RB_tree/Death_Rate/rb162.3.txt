@@ -1,0 +1,6 @@
+2703,2011,Malignant neoplasms (C00-C97),Cancer,Texas,37351,162.3
+
+4776,2008,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Arizona,10385,162.3
+
+4900,2010,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Florida,41737,162.3
+

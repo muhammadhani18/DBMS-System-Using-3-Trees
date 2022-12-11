@@ -1,0 +1,20 @@
+1363,2001,Alzheimer's disease (G30),Alzheimer's disease,Maryland,948,20.5
+
+6327,2005,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Oklahoma,948,26.1
+
+8046,2014,Cerebrovascular diseases (I60-I69),Stroke,Nevada,948,33.8
+
+8730,2014,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Indiana,948,14.3
+
+9330,2008,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Virginia,948,11.8
+
+1363,2001,Alzheimer's disease (G30),Alzheimer's disease,Maryland,948,20.5
+
+6327,2005,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Oklahoma,948,26.1
+
+8046,2014,Cerebrovascular diseases (I60-I69),Stroke,Nevada,948,33.8
+
+8730,2014,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Indiana,948,14.3
+
+9330,2008,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Virginia,948,11.8
+

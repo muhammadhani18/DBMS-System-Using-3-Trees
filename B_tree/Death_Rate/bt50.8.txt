@@ -1,0 +1,10 @@
+3583,2013,Chronic lower respiratory diseases (J40-J47),CLRD,South Carolina,2756,50.8
+
+8142,2008,Cerebrovascular diseases (I60-I69),Stroke,North Carolina,4637,50.8
+
+9439,2005,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Alaska,313,50.8
+
+10008,2014,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Ohio,6178,50.8
+
+10295,2000,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wyoming,245,50.8
+

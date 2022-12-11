@@ -1,0 +1,4 @@
+623,2003,All Causes,All causes,New Mexico,14805,832.1
+
+837,2005,All Causes,All causes,Texas,156457,832.1
+

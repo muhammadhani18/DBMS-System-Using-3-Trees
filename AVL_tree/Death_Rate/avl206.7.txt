@@ -1,0 +1,6 @@
+2120,2000,Malignant neoplasms (C00-C97),Cancer,Georgia,13690,206.7
+
+2445,1999,Malignant neoplasms (C00-C97),Cancer,Nevada,3556,206.7
+
+2589,1999,Malignant neoplasms (C00-C97),Cancer,Oklahoma,7312,206.7
+

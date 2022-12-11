@@ -1,0 +1,8 @@
+3593,2003,Chronic lower respiratory diseases (J40-J47),CLRD,South Carolina,1913,47.4
+
+8211,2011,Cerebrovascular diseases (I60-I69),Stroke,Oregon,1913,41.6
+
+3593,2003,Chronic lower respiratory diseases (J40-J47),CLRD,South Carolina,1913,47.4
+
+8211,2011,Cerebrovascular diseases (I60-I69),Stroke,Oregon,1913,41.6
+

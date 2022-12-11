@@ -1,0 +1,12 @@
+3607,2007,Chronic lower respiratory diseases (J40-J47),CLRD,South Dakota,457,48
+
+5869,2013,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Hawaii,457,24.1
+
+6729,1999,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Connecticut,457,12.1
+
+8063,2015,Cerebrovascular diseases (I60-I69),Stroke,New Hampshire,457,26.9
+
+8066,2012,Cerebrovascular diseases (I60-I69),Stroke,New Hampshire,457,29.3
+
+8251,2007,Cerebrovascular diseases (I60-I69),Stroke,Rhode Island,457,33.4
+

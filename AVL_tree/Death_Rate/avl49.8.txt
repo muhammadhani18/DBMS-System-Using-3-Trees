@@ -1,0 +1,10 @@
+3369,2011,Chronic lower respiratory diseases (J40-J47),CLRD,Nevada,1243,49.8
+
+7855,2007,Cerebrovascular diseases (I60-I69),Stroke,Kentucky,2144,49.8
+
+9458,2003,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arizona,2697,49.8
+
+9719,2014,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Louisiana,2344,49.8
+
+9730,2003,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Louisiana,2208,49.8
+

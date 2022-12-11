@@ -1,0 +1,8 @@
+1969,2007,Malignant neoplasms (C00-C97),Cancer,Arizona,10134,158.9
+
+2147,2009,Malignant neoplasms (C00-C97),Cancer,Idaho,2458,158.9
+
+4757,2009,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Alaska,714,158.9
+
+5655,2011,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Wyoming,926,158.9
+

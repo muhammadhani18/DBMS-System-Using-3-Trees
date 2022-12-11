@@ -1,0 +1,10 @@
+1213,2007,Alzheimer's disease (G30),Alzheimer's disease,Idaho,416,29.4
+
+3601,2013,Chronic lower respiratory diseases (J40-J47),CLRD,South Dakota,416,39.3
+
+8284,2010,Cerebrovascular diseases (I60-I69),Stroke,South Dakota,416,39.9
+
+10083,2007,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Rhode Island,416,34.7
+
+10120,2004,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,South Dakota,416,50.9
+

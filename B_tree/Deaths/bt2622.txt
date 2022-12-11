@@ -1,0 +1,4 @@
+10218,2009,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Virginia,2622,33.3
+
+10218,2009,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Virginia,2622,33.3
+

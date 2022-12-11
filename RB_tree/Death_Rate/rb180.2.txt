@@ -1,0 +1,12 @@
+2011,2001,Malignant neoplasms (C00-C97),Cancer,California,53924,180.2
+
+2249,2015,Malignant neoplasms (C00-C97),Cancer,Louisiana,9397,180.2
+
+2513,2003,Malignant neoplasms (C00-C97),Cancer,New York,36238,180.2
+
+2546,2006,Malignant neoplasms (C00-C97),Cancer,North Dakota,1387,180.2
+
+4913,2015,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Georgia,17769,180.2
+
+5457,2012,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,South Carolina,9364,180.2
+

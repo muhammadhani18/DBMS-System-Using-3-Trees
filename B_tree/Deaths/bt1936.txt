@@ -1,0 +1,8 @@
+3834,2014,Diabetes mellitus (E10-E14),Diabetes,Arizona,1936,24.3
+
+9830,2005,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Mississippi,1936,67.1
+
+3834,2014,Diabetes mellitus (E10-E14),Diabetes,Arizona,1936,24.3
+
+9830,2005,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Mississippi,1936,67.1
+

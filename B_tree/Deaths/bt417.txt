@@ -1,0 +1,8 @@
+6340,2010,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Oregon,417,9.2
+
+6708,2002,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Colorado,417,11.9
+
+6340,2010,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Oregon,417,9.2
+
+6708,2002,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Colorado,417,11.9
+

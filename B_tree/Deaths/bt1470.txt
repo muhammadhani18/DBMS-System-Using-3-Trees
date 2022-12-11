@@ -1,0 +1,12 @@
+5357,2004,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,North Dakota,1470,178
+
+7210,2004,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,North Carolina,1470,18
+
+7452,2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Virginia,1470,16.1
+
+5357,2004,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,North Dakota,1470,178
+
+7210,2004,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,North Carolina,1470,18
+
+7452,2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Virginia,1470,16.1
+

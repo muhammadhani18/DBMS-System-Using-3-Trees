@@ -1,0 +1,4 @@
+2052,2014,Malignant neoplasms (C00-C97),Cancer,Delaware,1972,167.3
+
+10105,2002,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,South Carolina,1972,48.7
+

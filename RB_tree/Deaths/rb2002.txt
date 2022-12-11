@@ -1,0 +1,6 @@
+2959,2007,Chronic lower respiratory diseases (J40-J47),CLRD,Colorado,2002,49.4
+
+7198,2016,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,North Carolina,2002,17.1
+
+7236,2014,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Ohio,2002,14.1
+

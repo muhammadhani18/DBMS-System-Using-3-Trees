@@ -1,0 +1,58 @@
+1187,2015,Alzheimer's disease (G30),Alzheimer's disease,Hawaii,422,19.5
+
+1704,2002,Alzheimer's disease (G30),Alzheimer's disease,Rhode Island,264,19.5
+
+3958,2016,Diabetes mellitus (E10-E14),Diabetes,Florida,5782,19.5
+
+4001,2009,Diabetes mellitus (E10-E14),Diabetes,Hawaii,308,19.5
+
+4078,2004,Diabetes mellitus (E10-E14),Diabetes,Iowa,700,19.5
+
+4387,2001,Diabetes mellitus (E10-E14),Diabetes,New York,3844,19.5
+
+4647,2011,Diabetes mellitus (E10-E14),Diabetes,Virginia,1643,19.5
+
+4649,2009,Diabetes mellitus (E10-E14),Diabetes,Virginia,1560,19.5
+
+5669,2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Alabama,1097,19.5
+
+5678,2006,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Alabama,918,19.5
+
+5700,2002,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Alaska,51,19.5
+
+5928,2008,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Indiana,1318,19.5
+
+6043,2001,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Maryland,928,19.5
+
+6147,2005,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Montana,213,19.5
+
+6246,2014,Influenza and pneumonia (J09-J18),Influenza and pneumonia,New York,4702,19.5
+
+6291,2005,Influenza and pneumonia (J09-J18),Influenza and pneumonia,North Dakota,172,19.5
+
+6351,1999,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Oregon,695,19.5
+
+6404,2000,Influenza and pneumonia (J09-J18),Influenza and pneumonia,South Carolina,699,19.5
+
+6489,2005,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Utah,333,19.5
+
+6592,2010,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wyoming,109,19.5
+
+6847,2007,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Illinois,2536,19.5
+
+6848,2006,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Illinois,2502,19.5
+
+6912,2014,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Kentucky,968,19.5
+
+7114,2010,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Nevada,471,19.5
+
+7204,2010,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,North Carolina,1892,19.5
+
+7301,2003,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Pennsylvania,3013,19.5
+
+7335,2006,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,South Carolina,846,19.5
+
+8567,2015,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Colorado,1093,19.5
+
+8957,2003,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Montana,180,19.5
+

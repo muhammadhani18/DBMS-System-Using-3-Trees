@@ -1,0 +1,4 @@
+5544,2016,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Utah,3636,150
+
+7724,2012,Cerebrovascular diseases (I60-I69),Stroke,Georgia,3636,41.8
+

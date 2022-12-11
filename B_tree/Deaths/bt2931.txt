@@ -1,0 +1,4 @@
+10220,2007,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Virginia,2931,38.3
+
+10220,2007,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Virginia,2931,38.3
+

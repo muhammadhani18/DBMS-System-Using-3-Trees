@@ -1,0 +1,8 @@
+1572,2008,Alzheimer's disease (G30),Alzheimer's disease,New York,2303,10.3
+
+10274,2004,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wisconsin,2303,39.7
+
+1572,2008,Alzheimer's disease (G30),Alzheimer's disease,New York,2303,10.3
+
+10274,2004,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wisconsin,2303,39.7
+

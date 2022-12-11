@@ -1,0 +1,12 @@
+3803,2009,Diabetes mellitus (E10-E14),Diabetes,Alabama,1259,24.4
+
+6549,1999,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Washington,1259,23.7
+
+7058,2012,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Missouri,1259,17.8
+
+3803,2009,Diabetes mellitus (E10-E14),Diabetes,Alabama,1259,24.4
+
+6549,1999,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Washington,1259,23.7
+
+7058,2012,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Missouri,1259,17.8
+

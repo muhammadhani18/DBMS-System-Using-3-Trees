@@ -1,0 +1,8 @@
+4522,2010,Diabetes mellitus (E10-E14),Diabetes,South Carolina,1128,22.6
+
+4523,2009,Diabetes mellitus (E10-E14),Diabetes,South Carolina,1128,23.1
+
+6214,2010,Influenza and pneumonia (J09-J18),Influenza and pneumonia,New Jersey,1128,11
+
+7466,2001,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Virginia,1128,17.8
+

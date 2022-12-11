@@ -1,0 +1,396 @@
+34,2016,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,North Carolina,5476,52.2
+
+646,2016,All Causes,All causes,North Carolina,90465,782.4
+
+647,2015,All Causes,All causes,North Carolina,89133,789.9
+
+648,2014,All Causes,All causes,North Carolina,85367,775.9
+
+649,2013,All Causes,All causes,North Carolina,83329,777.6
+
+650,2012,All Causes,All causes,North Carolina,81925,786.4
+
+651,2011,All Causes,All causes,North Carolina,79882,790.9
+
+652,2010,All Causes,All causes,North Carolina,78773,804.9
+
+653,2009,All Causes,All causes,North Carolina,77117,804.3
+
+654,2008,All Causes,All causes,North Carolina,77283,828.1
+
+655,2007,All Causes,All causes,North Carolina,76046,838.5
+
+656,2006,All Causes,All causes,North Carolina,74716,849.3
+
+657,2005,All Causes,All causes,North Carolina,74638,881.3
+
+658,2004,All Causes,All causes,North Carolina,72384,876.1
+
+659,2003,All Causes,All causes,North Carolina,73459,909
+
+660,2002,All Causes,All causes,North Carolina,72027,912.6
+
+661,2001,All Causes,All causes,North Carolina,70934,917.1
+
+662,2000,All Causes,All causes,North Carolina,71935,952.7
+
+663,1999,All Causes,All causes,North Carolina,69600,933
+
+1582,2016,Alzheimer's disease (G30),Alzheimer's disease,North Carolina,4153,37.2
+
+1583,2015,Alzheimer's disease (G30),Alzheimer's disease,North Carolina,3803,34.8
+
+1584,2014,Alzheimer's disease (G30),Alzheimer's disease,North Carolina,3246,30.5
+
+1585,2013,Alzheimer's disease (G30),Alzheimer's disease,North Carolina,2872,27.7
+
+1586,2012,Alzheimer's disease (G30),Alzheimer's disease,North Carolina,2850,28.4
+
+1587,2011,Alzheimer's disease (G30),Alzheimer's disease,North Carolina,2828,29.3
+
+1588,2010,Alzheimer's disease (G30),Alzheimer's disease,North Carolina,2817,30.3
+
+1589,2009,Alzheimer's disease (G30),Alzheimer's disease,North Carolina,2646,29.2
+
+1590,2008,Alzheimer's disease (G30),Alzheimer's disease,North Carolina,2624,29.8
+
+1591,2007,Alzheimer's disease (G30),Alzheimer's disease,North Carolina,2460,28.7
+
+1592,2006,Alzheimer's disease (G30),Alzheimer's disease,North Carolina,2265,27.3
+
+1593,2005,Alzheimer's disease (G30),Alzheimer's disease,North Carolina,2417,30.5
+
+1594,2004,Alzheimer's disease (G30),Alzheimer's disease,North Carolina,2188,28.4
+
+1595,2003,Alzheimer's disease (G30),Alzheimer's disease,North Carolina,2145,28.3
+
+1596,2002,Alzheimer's disease (G30),Alzheimer's disease,North Carolina,1962,26.6
+
+1597,2001,Alzheimer's disease (G30),Alzheimer's disease,North Carolina,1786,24.6
+
+1598,2000,Alzheimer's disease (G30),Alzheimer's disease,North Carolina,1725,24.3
+
+1599,1999,Alzheimer's disease (G30),Alzheimer's disease,North Carolina,1456,20.8
+
+2518,2016,Malignant neoplasms (C00-C97),Cancer,North Carolina,19523,161.6
+
+2519,2015,Malignant neoplasms (C00-C97),Cancer,North Carolina,19322,164.7
+
+2520,2014,Malignant neoplasms (C00-C97),Cancer,North Carolina,19342,169.3
+
+2521,2013,Malignant neoplasms (C00-C97),Cancer,North Carolina,18589,167.6
+
+2522,2012,Malignant neoplasms (C00-C97),Cancer,North Carolina,18405,170.2
+
+2523,2011,Malignant neoplasms (C00-C97),Cancer,North Carolina,18284,175
+
+2524,2010,Malignant neoplasms (C00-C97),Cancer,North Carolina,18061,179
+
+2525,2009,Malignant neoplasms (C00-C97),Cancer,North Carolina,17513,176.9
+
+2526,2008,Malignant neoplasms (C00-C97),Cancer,North Carolina,17453,181.3
+
+2527,2007,Malignant neoplasms (C00-C97),Cancer,North Carolina,17478,187.1
+
+2528,2006,Malignant neoplasms (C00-C97),Cancer,North Carolina,17318,191.4
+
+2529,2005,Malignant neoplasms (C00-C97),Cancer,North Carolina,16724,191.2
+
+2530,2004,Malignant neoplasms (C00-C97),Cancer,North Carolina,16477,193.7
+
+2531,2003,Malignant neoplasms (C00-C97),Cancer,North Carolina,16145,193.9
+
+2532,2002,Malignant neoplasms (C00-C97),Cancer,North Carolina,16210,199.9
+
+2533,2001,Malignant neoplasms (C00-C97),Cancer,North Carolina,16065,202.7
+
+2534,2000,Malignant neoplasms (C00-C97),Cancer,North Carolina,15786,204.2
+
+2535,1999,Malignant neoplasms (C00-C97),Cancer,North Carolina,15815,207.1
+
+3454,2016,Chronic lower respiratory diseases (J40-J47),CLRD,North Carolina,5311,44.8
+
+3455,2015,Chronic lower respiratory diseases (J40-J47),CLRD,North Carolina,5221,45.5
+
+3456,2014,Chronic lower respiratory diseases (J40-J47),CLRD,North Carolina,5023,45.1
+
+3457,2013,Chronic lower respiratory diseases (J40-J47),CLRD,North Carolina,4987,46.3
+
+3458,2012,Chronic lower respiratory diseases (J40-J47),CLRD,North Carolina,4844,46.4
+
+3459,2011,Chronic lower respiratory diseases (J40-J47),CLRD,North Carolina,4708,46.7
+
+3460,2010,Chronic lower respiratory diseases (J40-J47),CLRD,North Carolina,4495,46.1
+
+3461,2009,Chronic lower respiratory diseases (J40-J47),CLRD,North Carolina,4329,45.4
+
+3462,2008,Chronic lower respiratory diseases (J40-J47),CLRD,North Carolina,4572,49.3
+
+3463,2007,Chronic lower respiratory diseases (J40-J47),CLRD,North Carolina,4231,46.9
+
+3464,2006,Chronic lower respiratory diseases (J40-J47),CLRD,North Carolina,4017,45.8
+
+3465,2005,Chronic lower respiratory diseases (J40-J47),CLRD,North Carolina,4149,49.2
+
+3466,2004,Chronic lower respiratory diseases (J40-J47),CLRD,North Carolina,3625,43.9
+
+3467,2003,Chronic lower respiratory diseases (J40-J47),CLRD,North Carolina,3887,48.2
+
+3468,2002,Chronic lower respiratory diseases (J40-J47),CLRD,North Carolina,3674,46.6
+
+3469,2001,Chronic lower respiratory diseases (J40-J47),CLRD,North Carolina,3514,45.6
+
+3470,2000,Chronic lower respiratory diseases (J40-J47),CLRD,North Carolina,3699,48.9
+
+3471,1999,Chronic lower respiratory diseases (J40-J47),CLRD,North Carolina,3591,48
+
+4390,2016,Diabetes mellitus (E10-E14),Diabetes,North Carolina,2811,23.5
+
+4391,2015,Diabetes mellitus (E10-E14),Diabetes,North Carolina,2746,23.6
+
+4392,2014,Diabetes mellitus (E10-E14),Diabetes,North Carolina,2687,23.7
+
+4393,2013,Diabetes mellitus (E10-E14),Diabetes,North Carolina,2402,21.8
+
+4394,2012,Diabetes mellitus (E10-E14),Diabetes,North Carolina,2409,22.6
+
+4395,2011,Diabetes mellitus (E10-E14),Diabetes,North Carolina,2278,22.1
+
+4396,2010,Diabetes mellitus (E10-E14),Diabetes,North Carolina,2042,20.5
+
+4397,2009,Diabetes mellitus (E10-E14),Diabetes,North Carolina,2114,21.5
+
+4398,2008,Diabetes mellitus (E10-E14),Diabetes,North Carolina,2170,22.7
+
+4399,2007,Diabetes mellitus (E10-E14),Diabetes,North Carolina,2156,23.3
+
+4400,2006,Diabetes mellitus (E10-E14),Diabetes,North Carolina,2234,24.9
+
+4401,2005,Diabetes mellitus (E10-E14),Diabetes,North Carolina,2261,26.2
+
+4402,2004,Diabetes mellitus (E10-E14),Diabetes,North Carolina,2253,26.9
+
+4403,2003,Diabetes mellitus (E10-E14),Diabetes,North Carolina,2388,29.1
+
+4404,2002,Diabetes mellitus (E10-E14),Diabetes,North Carolina,2205,27.6
+
+4405,2001,Diabetes mellitus (E10-E14),Diabetes,North Carolina,2181,27.9
+
+4406,2000,Diabetes mellitus (E10-E14),Diabetes,North Carolina,2084,27.3
+
+4407,1999,Diabetes mellitus (E10-E14),Diabetes,North Carolina,2050,27
+
+5327,2016,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,North Carolina,18266,155.8
+
+5328,2015,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,North Carolina,18474,162.4
+
+5329,2014,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,North Carolina,17592,158.7
+
+5330,2013,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,North Carolina,17830,165.3
+
+5331,2012,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,North Carolina,17348,166.1
+
+5332,2011,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,North Carolina,17003,167.9
+
+5333,2010,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,North Carolina,17154,174.9
+
+5334,2009,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,North Carolina,17203,179.7
+
+5335,2008,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,North Carolina,17335,186.4
+
+5336,2007,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,North Carolina,17395,193
+
+5337,2006,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,North Carolina,17271,197.6
+
+5338,2005,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,North Carolina,17765,211.7
+
+5339,2004,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,North Carolina,17607,215.2
+
+5340,2003,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,North Carolina,18674,233.3
+
+5341,2002,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,North Carolina,18524,237.6
+
+5342,2001,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,North Carolina,18792,246.1
+
+5343,2000,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,North Carolina,19723,264.5
+
+5344,1999,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,North Carolina,19191,260.9
+
+6262,2016,Influenza and pneumonia (J09-J18),Influenza and pneumonia,North Carolina,1896,16.5
+
+6263,2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,North Carolina,2115,18.7
+
+6264,2014,Influenza and pneumonia (J09-J18),Influenza and pneumonia,North Carolina,1874,17.2
+
+6265,2013,Influenza and pneumonia (J09-J18),Influenza and pneumonia,North Carolina,1931,18.3
+
+6266,2012,Influenza and pneumonia (J09-J18),Influenza and pneumonia,North Carolina,1899,18.5
+
+6267,2011,Influenza and pneumonia (J09-J18),Influenza and pneumonia,North Carolina,1619,16.3
+
+6268,2010,Influenza and pneumonia (J09-J18),Influenza and pneumonia,North Carolina,1700,17.7
+
+6269,2009,Influenza and pneumonia (J09-J18),Influenza and pneumonia,North Carolina,1752,18.7
+
+6270,2008,Influenza and pneumonia (J09-J18),Influenza and pneumonia,North Carolina,1737,19.1
+
+6271,2007,Influenza and pneumonia (J09-J18),Influenza and pneumonia,North Carolina,1645,18.7
+
+6272,2006,Influenza and pneumonia (J09-J18),Influenza and pneumonia,North Carolina,1705,20.1
+
+6273,2005,Influenza and pneumonia (J09-J18),Influenza and pneumonia,North Carolina,1830,22.5
+
+6274,2004,Influenza and pneumonia (J09-J18),Influenza and pneumonia,North Carolina,1686,21.3
+
+6275,2003,Influenza and pneumonia (J09-J18),Influenza and pneumonia,North Carolina,1990,25.6
+
+6276,2002,Influenza and pneumonia (J09-J18),Influenza and pneumonia,North Carolina,1898,25.1
+
+6277,2001,Influenza and pneumonia (J09-J18),Influenza and pneumonia,North Carolina,1780,24.1
+
+6278,2000,Influenza and pneumonia (J09-J18),Influenza and pneumonia,North Carolina,1945,26.8
+
+6279,1999,Influenza and pneumonia (J09-J18),Influenza and pneumonia,North Carolina,1891,26.5
+
+7198,2016,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,North Carolina,2002,17.1
+
+7199,2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,North Carolina,1821,16
+
+7200,2014,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,North Carolina,1791,16.3
+
+7201,2013,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,North Carolina,1780,16.6
+
+7202,2012,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,North Carolina,1656,15.9
+
+7203,2011,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,North Carolina,1705,17
+
+7204,2010,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,North Carolina,1892,19.5
+
+7205,2009,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,North Carolina,1828,19.2
+
+7206,2008,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,North Carolina,1729,18.7
+
+7207,2007,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,North Carolina,1723,19.1
+
+7208,2006,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,North Carolina,1661,19.1
+
+7209,2005,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,North Carolina,1561,18.6
+
+7210,2004,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,North Carolina,1470,18
+
+7211,2003,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,North Carolina,1387,17.3
+
+7212,2002,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,North Carolina,1437,18.4
+
+7213,2001,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,North Carolina,1332,17.4
+
+7214,2000,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,North Carolina,1315,17.6
+
+7215,1999,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,North Carolina,1138,15.4
+
+8134,2016,Cerebrovascular diseases (I60-I69),Stroke,North Carolina,4940,43
+
+8135,2015,Cerebrovascular diseases (I60-I69),Stroke,North Carolina,5033,44.7
+
+8136,2014,Cerebrovascular diseases (I60-I69),Stroke,North Carolina,4702,43
+
+8137,2013,Cerebrovascular diseases (I60-I69),Stroke,North Carolina,4503,42.4
+
+8138,2012,Cerebrovascular diseases (I60-I69),Stroke,North Carolina,4410,42.8
+
+8139,2011,Cerebrovascular diseases (I60-I69),Stroke,North Carolina,4299,43.2
+
+8140,2010,Cerebrovascular diseases (I60-I69),Stroke,North Carolina,4298,44.7
+
+8141,2009,Cerebrovascular diseases (I60-I69),Stroke,North Carolina,4442,47.2
+
+8142,2008,Cerebrovascular diseases (I60-I69),Stroke,North Carolina,4637,50.8
+
+8143,2007,Cerebrovascular diseases (I60-I69),Stroke,North Carolina,4530,51.1
+
+8144,2006,Cerebrovascular diseases (I60-I69),Stroke,North Carolina,4572,53.2
+
+8145,2005,Cerebrovascular diseases (I60-I69),Stroke,North Carolina,4861,59
+
+8146,2004,Cerebrovascular diseases (I60-I69),Stroke,North Carolina,4955,61.7
+
+8147,2003,Cerebrovascular diseases (I60-I69),Stroke,North Carolina,5203,66.4
+
+8148,2002,Cerebrovascular diseases (I60-I69),Stroke,North Carolina,5259,68.8
+
+8149,2001,Cerebrovascular diseases (I60-I69),Stroke,North Carolina,5401,72.1
+
+8150,2000,Cerebrovascular diseases (I60-I69),Stroke,North Carolina,5749,78.5
+
+8151,1999,Cerebrovascular diseases (I60-I69),Stroke,North Carolina,5626,77.9
+
+9070,2016,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,North Carolina,1373,13
+
+9071,2015,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,North Carolina,1406,13.4
+
+9072,2014,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,North Carolina,1352,13.1
+
+9073,2013,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,North Carolina,1284,12.6
+
+9074,2012,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,North Carolina,1286,12.7
+
+9075,2011,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,North Carolina,1213,12.3
+
+9076,2010,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,North Carolina,1174,12
+
+9077,2009,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,North Carolina,1174,12.2
+
+9078,2008,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,North Carolina,1162,12.3
+
+9079,2007,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,North Carolina,1077,11.6
+
+9080,2006,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,North Carolina,1106,12.2
+
+9081,2005,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,North Carolina,1009,11.5
+
+9082,2004,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,North Carolina,1027,11.9
+
+9083,2003,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,North Carolina,955,11.2
+
+9084,2002,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,North Carolina,986,11.8
+
+9085,2001,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,North Carolina,997,12
+
+9086,2000,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,North Carolina,971,12
+
+9087,1999,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,North Carolina,884,11
+
+9973,2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,North Carolina,4991,47.9
+
+9974,2014,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,North Carolina,4557,44.4
+
+9975,2013,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,North Carolina,4324,42.7
+
+9976,2012,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,North Carolina,4281,43
+
+9977,2011,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,North Carolina,4297,43.8
+
+9978,2010,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,North Carolina,4144,43.2
+
+9979,2009,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,North Carolina,4136,43.6
+
+9980,2008,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,North Carolina,4313,46.4
+
+9981,2007,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,North Carolina,4389,48.3
+
+9982,2006,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,North Carolina,4156,46.9
+
+9983,2005,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,North Carolina,4123,47.9
+
+9984,2004,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,North Carolina,4019,47.7
+
+9985,2003,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,North Carolina,3835,46.3
+
+9986,2002,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,North Carolina,3700,45.3
+
+9987,2001,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,North Carolina,3438,42.6
+
+9988,2000,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,North Carolina,3525,44.7
+
+9989,1999,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,North Carolina,3290,42.1
+

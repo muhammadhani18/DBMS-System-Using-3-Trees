@@ -1,0 +1,16 @@
+993,2011,Alzheimer's disease (G30),Alzheimer's disease,Alabama,1486,29.7
+
+2983,2001,Chronic lower respiratory diseases (J40-J47),CLRD,Connecticut,1486,38.2
+
+3810,2002,Diabetes mellitus (E10-E14),Diabetes,Alabama,1486,32.3
+
+4659,1999,Diabetes mellitus (E10-E14),Diabetes,Virginia,1486,23.6
+
+993,2011,Alzheimer's disease (G30),Alzheimer's disease,Alabama,1486,29.7
+
+2983,2001,Chronic lower respiratory diseases (J40-J47),CLRD,Connecticut,1486,38.2
+
+3810,2002,Diabetes mellitus (E10-E14),Diabetes,Alabama,1486,32.3
+
+4659,1999,Diabetes mellitus (E10-E14),Diabetes,Virginia,1486,23.6
+

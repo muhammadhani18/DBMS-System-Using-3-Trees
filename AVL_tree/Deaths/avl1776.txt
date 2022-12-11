@@ -1,0 +1,4 @@
+4864,2010,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Delaware,1776,175.7
+
+5482,2005,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,South Dakota,1776,186.3
+

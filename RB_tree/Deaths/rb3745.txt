@@ -1,0 +1,4 @@
+3119,2009,Chronic lower respiratory diseases (J40-J47),CLRD,Indiana,3745,55.5
+
+9587,2010,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Georgia,3745,40.7
+

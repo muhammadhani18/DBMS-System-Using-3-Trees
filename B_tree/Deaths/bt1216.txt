@@ -1,0 +1,4 @@
+5568,2008,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Vermont,1216,166.2
+
+5568,2008,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Vermont,1216,166.2
+

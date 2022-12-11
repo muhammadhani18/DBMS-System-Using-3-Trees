@@ -1,0 +1,16 @@
+1080,2014,Alzheimer's disease (G30),Alzheimer's disease,Colorado,1364,27.4
+
+1718,2006,Alzheimer's disease (G30),Alzheimer's disease,South Carolina,1364,34.1
+
+7829,2015,Cerebrovascular diseases (I60-I69),Stroke,Kansas,1364,38.6
+
+8872,2016,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Michigan,1364,13.3
+
+1080,2014,Alzheimer's disease (G30),Alzheimer's disease,Colorado,1364,27.4
+
+1718,2006,Alzheimer's disease (G30),Alzheimer's disease,South Carolina,1364,34.1
+
+7829,2015,Cerebrovascular diseases (I60-I69),Stroke,Kansas,1364,38.6
+
+8872,2016,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Michigan,1364,13.3
+

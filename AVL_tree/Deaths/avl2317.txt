@@ -1,0 +1,4 @@
+3587,2009,Chronic lower respiratory diseases (J40-J47),CLRD,South Carolina,2317,48.2
+
+7827,1999,Cerebrovascular diseases (I60-I69),Stroke,Iowa,2317,62.1
+

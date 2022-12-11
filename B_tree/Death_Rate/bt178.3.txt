@@ -1,0 +1,6 @@
+2074,2010,Malignant neoplasms (C00-C97),Cancer,District of Columbia,1041,178.3
+
+2632,2010,Malignant neoplasms (C00-C97),Cancer,Rhode Island,2266,178.3
+
+5311,2014,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,New York,43116,178.3
+

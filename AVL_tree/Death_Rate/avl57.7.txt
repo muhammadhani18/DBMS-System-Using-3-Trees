@@ -1,0 +1,8 @@
+8003,2003,Cerebrovascular diseases (I60-I69),Stroke,Missouri,3580,57.7
+
+8058,2002,Cerebrovascular diseases (I60-I69),Stroke,Nevada,976,57.7
+
+9856,2013,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Montana,623,57.7
+
+9953,2001,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,New Mexico,1020,57.7
+

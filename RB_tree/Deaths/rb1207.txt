@@ -1,0 +1,4 @@
+4163,2009,Diabetes mellitus (E10-E14),Diabetes,Maryland,1207,20.6
+
+6997,2001,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Massachusetts,1207,17.1
+

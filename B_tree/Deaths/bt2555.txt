@@ -1,0 +1,8 @@
+2741,2009,Malignant neoplasms (C00-C97),Cancer,Utah,2555,124.7
+
+6361,2007,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Pennsylvania,2555,15.5
+
+2741,2009,Malignant neoplasms (C00-C97),Cancer,Utah,2555,124.7
+
+6361,2007,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Pennsylvania,2555,15.5
+

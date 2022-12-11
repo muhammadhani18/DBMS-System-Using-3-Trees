@@ -1,0 +1,20 @@
+3935,2003,Diabetes mellitus (E10-E14),Diabetes,Delaware,239,28.4
+
+4498,2016,Diabetes mellitus (E10-E14),Diabetes,Rhode Island,239,16.9
+
+5899,2001,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Idaho,239,19.9
+
+6946,2016,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Maine,239,12.4
+
+7173,2005,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,New Mexico,239,13
+
+3935,2003,Diabetes mellitus (E10-E14),Diabetes,Delaware,239,28.4
+
+4498,2016,Diabetes mellitus (E10-E14),Diabetes,Rhode Island,239,16.9
+
+5899,2001,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Idaho,239,19.9
+
+6946,2016,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Maine,239,12.4
+
+7173,2005,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,New Mexico,239,13
+

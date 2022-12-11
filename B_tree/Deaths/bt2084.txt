@@ -1,0 +1,8 @@
+4406,2000,Diabetes mellitus (E10-E14),Diabetes,North Carolina,2084,27.3
+
+7872,2008,Cerebrovascular diseases (I60-I69),Stroke,Louisiana,2084,48.6
+
+4406,2000,Diabetes mellitus (E10-E14),Diabetes,North Carolina,2084,27.3
+
+7872,2008,Cerebrovascular diseases (I60-I69),Stroke,Louisiana,2084,48.6
+

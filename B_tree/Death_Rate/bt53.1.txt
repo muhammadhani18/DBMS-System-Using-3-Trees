@@ -1,0 +1,8 @@
+8304,2008,Cerebrovascular diseases (I60-I69),Stroke,Tennessee,3356,53.1
+
+8453,2003,Cerebrovascular diseases (I60-I69),Stroke,Wisconsin,3216,53.1
+
+10075,2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Rhode Island,649,53.1
+
+10129,2012,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Tennessee,3513,53.1
+

@@ -1,0 +1,10 @@
+3757,2001,Chronic lower respiratory diseases (J40-J47),CLRD,West Virginia,1273,59.2
+
+4713,1999,Diabetes mellitus (E10-E14),Diabetes,Wisconsin,1273,22.9
+
+7652,2012,Cerebrovascular diseases (I60-I69),Stroke,Connecticut,1273,27
+
+9672,2010,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Iowa,1273,37.2
+
+9690,2009,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Kansas,1273,42.9
+

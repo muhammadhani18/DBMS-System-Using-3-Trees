@@ -1,0 +1,28 @@
+4028,2000,Diabetes mellitus (E10-E14),Diabetes,Idaho,304,25.9
+
+6882,2008,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Iowa,304,7.8
+
+7482,2003,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Washington,304,5.3
+
+8600,2000,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Connecticut,304,8.8
+
+8699,2009,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Idaho,304,20.3
+
+8761,2001,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Iowa,304,10.2
+
+8925,1999,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Mississippi,304,11
+
+4028,2000,Diabetes mellitus (E10-E14),Diabetes,Idaho,304,25.9
+
+6882,2008,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Iowa,304,7.8
+
+7482,2003,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Washington,304,5.3
+
+8600,2000,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Connecticut,304,8.8
+
+8699,2009,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Idaho,304,20.3
+
+8761,2001,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Iowa,304,10.2
+
+8925,1999,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Mississippi,304,11
+

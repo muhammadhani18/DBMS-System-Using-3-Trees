@@ -1,0 +1,16 @@
+2869,2007,Chronic lower respiratory diseases (J40-J47),CLRD,Alabama,2530,51.3
+
+3153,2011,Chronic lower respiratory diseases (J40-J47),CLRD,Kansas,1647,51.3
+
+3215,2003,Chronic lower respiratory diseases (J40-J47),CLRD,Maine,782,51.3
+
+3334,2010,Chronic lower respiratory diseases (J40-J47),CLRD,Montana,602,51.3
+
+7873,2007,Cerebrovascular diseases (I60-I69),Stroke,Louisiana,2147,51.3
+
+8076,2002,Cerebrovascular diseases (I60-I69),Stroke,New Hampshire,627,51.3
+
+8267,2009,Cerebrovascular diseases (I60-I69),Stroke,South Carolina,2400,51.3
+
+9714,2002,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Kentucky,2090,51.3
+

@@ -1,0 +1,1584 @@
+44,2016,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Tennessee,4238,61.1
+
+808,2016,All Causes,All causes,Tennessee,67857,886.3
+
+809,2015,All Causes,All causes,Tennessee,66570,886.4
+
+810,2014,All Causes,All causes,Tennessee,64661,880
+
+811,2013,All Causes,All causes,Tennessee,63406,881.1
+
+812,2012,All Causes,All causes,Tennessee,61956,880.6
+
+813,2011,All Causes,All causes,Tennessee,60541,879
+
+814,2010,All Causes,All causes,Tennessee,59578,890.8
+
+815,2009,All Causes,All causes,Tennessee,58288,885.6
+
+816,2008,All Causes,All causes,Tennessee,58820,913.4
+
+817,2007,All Causes,All causes,Tennessee,57087,905.4
+
+818,2006,All Causes,All causes,Tennessee,56838,921.2
+
+819,2005,All Causes,All causes,Tennessee,57260,956.6
+
+820,2004,All Causes,All causes,Tennessee,55829,952.8
+
+821,2003,All Causes,All causes,Tennessee,57313,994
+
+822,2002,All Causes,All causes,Tennessee,56606,995.3
+
+823,2001,All Causes,All causes,Tennessee,55151,979.5
+
+824,2000,All Causes,All causes,Tennessee,55246,996.9
+
+825,1999,All Causes,All causes,Tennessee,53765,980.4
+
+1744,2016,Alzheimer's disease (G30),Alzheimer's disease,Tennessee,3250,44.2
+
+1745,2015,Alzheimer's disease (G30),Alzheimer's disease,Tennessee,3122,43.4
+
+1746,2014,Alzheimer's disease (G30),Alzheimer's disease,Tennessee,2672,38.1
+
+1747,2013,Alzheimer's disease (G30),Alzheimer's disease,Tennessee,2536,36.9
+
+1748,2012,Alzheimer's disease (G30),Alzheimer's disease,Tennessee,2434,36.3
+
+1749,2011,Alzheimer's disease (G30),Alzheimer's disease,Tennessee,2589,39.5
+
+1750,2010,Alzheimer's disease (G30),Alzheimer's disease,Tennessee,2440,38.5
+
+1751,2009,Alzheimer's disease (G30),Alzheimer's disease,Tennessee,2203,35.4
+
+1752,2008,Alzheimer's disease (G30),Alzheimer's disease,Tennessee,2423,39.9
+
+1753,2007,Alzheimer's disease (G30),Alzheimer's disease,Tennessee,2276,38.2
+
+1754,2006,Alzheimer's disease (G30),Alzheimer's disease,Tennessee,2115,36.3
+
+1755,2005,Alzheimer's disease (G30),Alzheimer's disease,Tennessee,2033,36.1
+
+1756,2004,Alzheimer's disease (G30),Alzheimer's disease,Tennessee,1615,29.3
+
+1757,2003,Alzheimer's disease (G30),Alzheimer's disease,Tennessee,1466,26.9
+
+1758,2002,Alzheimer's disease (G30),Alzheimer's disease,Tennessee,1299,24
+
+1759,2001,Alzheimer's disease (G30),Alzheimer's disease,Tennessee,1148,21.2
+
+1760,2000,Alzheimer's disease (G30),Alzheimer's disease,Tennessee,1024,19.2
+
+1761,1999,Alzheimer's disease (G30),Alzheimer's disease,Tennessee,944,17.9
+
+2680,2016,Malignant neoplasms (C00-C97),Cancer,Tennessee,14450,179.9
+
+2681,2015,Malignant neoplasms (C00-C97),Cancer,Tennessee,14214,180.5
+
+2682,2014,Malignant neoplasms (C00-C97),Cancer,Tennessee,14173,184.2
+
+2683,2013,Malignant neoplasms (C00-C97),Cancer,Tennessee,13953,185.5
+
+2684,2012,Malignant neoplasms (C00-C97),Cancer,Tennessee,13765,187.6
+
+2685,2011,Malignant neoplasms (C00-C97),Cancer,Tennessee,13562,189
+
+2686,2010,Malignant neoplasms (C00-C97),Cancer,Tennessee,13593,195.7
+
+2687,2009,Malignant neoplasms (C00-C97),Cancer,Tennessee,13482,197.5
+
+2688,2008,Malignant neoplasms (C00-C97),Cancer,Tennessee,13162,197.2
+
+2689,2007,Malignant neoplasms (C00-C97),Cancer,Tennessee,13161,201.6
+
+2690,2006,Malignant neoplasms (C00-C97),Cancer,Tennessee,13051,204.6
+
+2691,2005,Malignant neoplasms (C00-C97),Cancer,Tennessee,12995,210.3
+
+2692,2004,Malignant neoplasms (C00-C97),Cancer,Tennessee,12586,208.1
+
+2693,2003,Malignant neoplasms (C00-C97),Cancer,Tennessee,12613,212.7
+
+2694,2002,Malignant neoplasms (C00-C97),Cancer,Tennessee,12518,214.6
+
+2695,2001,Malignant neoplasms (C00-C97),Cancer,Tennessee,12229,213.1
+
+2696,2000,Malignant neoplasms (C00-C97),Cancer,Tennessee,12339,218.8
+
+2697,1999,Malignant neoplasms (C00-C97),Cancer,Tennessee,11943,213.9
+
+3616,2016,Chronic lower respiratory diseases (J40-J47),CLRD,Tennessee,4318,54.7
+
+3617,2015,Chronic lower respiratory diseases (J40-J47),CLRD,Tennessee,4239,54.9
+
+3618,2014,Chronic lower respiratory diseases (J40-J47),CLRD,Tennessee,3969,52.5
+
+3619,2013,Chronic lower respiratory diseases (J40-J47),CLRD,Tennessee,3904,53.2
+
+3620,2012,Chronic lower respiratory diseases (J40-J47),CLRD,Tennessee,3695,51.8
+
+3621,2011,Chronic lower respiratory diseases (J40-J47),CLRD,Tennessee,3658,52.7
+
+3622,2010,Chronic lower respiratory diseases (J40-J47),CLRD,Tennessee,3551,52.7
+
+3623,2009,Chronic lower respiratory diseases (J40-J47),CLRD,Tennessee,3503,52.9
+
+3624,2008,Chronic lower respiratory diseases (J40-J47),CLRD,Tennessee,3545,54.7
+
+3625,2007,Chronic lower respiratory diseases (J40-J47),CLRD,Tennessee,3167,50
+
+3626,2006,Chronic lower respiratory diseases (J40-J47),CLRD,Tennessee,2980,48.1
+
+3627,2005,Chronic lower respiratory diseases (J40-J47),CLRD,Tennessee,3185,52.9
+
+3628,2004,Chronic lower respiratory diseases (J40-J47),CLRD,Tennessee,2987,50.7
+
+3629,2003,Chronic lower respiratory diseases (J40-J47),CLRD,Tennessee,3067,52.8
+
+3630,2002,Chronic lower respiratory diseases (J40-J47),CLRD,Tennessee,3011,52.7
+
+3631,2001,Chronic lower respiratory diseases (J40-J47),CLRD,Tennessee,2941,52.2
+
+3632,2000,Chronic lower respiratory diseases (J40-J47),CLRD,Tennessee,2887,52.1
+
+3633,1999,Chronic lower respiratory diseases (J40-J47),CLRD,Tennessee,2748,49.9
+
+4552,2016,Diabetes mellitus (E10-E14),Diabetes,Tennessee,1883,24
+
+4553,2015,Diabetes mellitus (E10-E14),Diabetes,Tennessee,1798,23.4
+
+4554,2014,Diabetes mellitus (E10-E14),Diabetes,Tennessee,1727,23.2
+
+4555,2013,Diabetes mellitus (E10-E14),Diabetes,Tennessee,1827,24.8
+
+4556,2012,Diabetes mellitus (E10-E14),Diabetes,Tennessee,1852,25.8
+
+4557,2011,Diabetes mellitus (E10-E14),Diabetes,Tennessee,1748,25
+
+4558,2010,Diabetes mellitus (E10-E14),Diabetes,Tennessee,1687,24.7
+
+4559,2009,Diabetes mellitus (E10-E14),Diabetes,Tennessee,1759,26.2
+
+4560,2008,Diabetes mellitus (E10-E14),Diabetes,Tennessee,1733,26.4
+
+4561,2007,Diabetes mellitus (E10-E14),Diabetes,Tennessee,1700,26.7
+
+4562,2006,Diabetes mellitus (E10-E14),Diabetes,Tennessee,1715,27.4
+
+4563,2005,Diabetes mellitus (E10-E14),Diabetes,Tennessee,1844,30.3
+
+4564,2004,Diabetes mellitus (E10-E14),Diabetes,Tennessee,1882,31.6
+
+4565,2003,Diabetes mellitus (E10-E14),Diabetes,Tennessee,1855,31.7
+
+4566,2002,Diabetes mellitus (E10-E14),Diabetes,Tennessee,1749,30.5
+
+4567,2001,Diabetes mellitus (E10-E14),Diabetes,Tennessee,1746,30.7
+
+4568,2000,Diabetes mellitus (E10-E14),Diabetes,Tennessee,1591,28.5
+
+4569,1999,Diabetes mellitus (E10-E14),Diabetes,Tennessee,1436,26.1
+
+5489,2016,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Tennessee,15429,198.8
+
+5490,2015,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Tennessee,15730,207.3
+
+5491,2014,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Tennessee,15223,205.6
+
+5492,2013,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Tennessee,14803,204.1
+
+5493,2012,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Tennessee,14454,203.7
+
+5494,2011,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Tennessee,14235,205.4
+
+5495,2010,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Tennessee,14582,217.4
+
+5496,2009,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Tennessee,14257,216.5
+
+5497,2008,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Tennessee,14661,228.1
+
+5498,2007,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Tennessee,14280,227.2
+
+5499,2006,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Tennessee,14642,238
+
+5500,2005,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Tennessee,14946,251.2
+
+5501,2004,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Tennessee,15038,258.6
+
+5502,2003,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Tennessee,15919,277.6
+
+5503,2002,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Tennessee,16226,287.3
+
+5504,2001,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Tennessee,15688,280.6
+
+5505,2000,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Tennessee,16174,293.6
+
+5506,1999,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Tennessee,16280,299
+
+6424,2016,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Tennessee,1533,20.1
+
+6425,2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Tennessee,1723,23.3
+
+6426,2014,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Tennessee,1602,22.1
+
+6427,2013,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Tennessee,1564,22.1
+
+6428,2012,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Tennessee,1435,20.6
+
+6429,2011,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Tennessee,1480,21.9
+
+6430,2010,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Tennessee,1352,20.5
+
+6431,2009,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Tennessee,1390,21.6
+
+6432,2008,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Tennessee,1424,22.7
+
+6433,2007,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Tennessee,1438,23.5
+
+6434,2006,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Tennessee,1535,25.7
+
+6435,2005,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Tennessee,1588,27.5
+
+6436,2004,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Tennessee,1571,27.8
+
+6437,2003,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Tennessee,1814,32.5
+
+6438,2002,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Tennessee,1710,31
+
+6439,2001,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Tennessee,1617,29.5
+
+6440,2000,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Tennessee,1672,30.9
+
+6441,1999,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Tennessee,1588,29.7
+
+7361,2016,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Tennessee,1150,14.9
+
+7362,2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Tennessee,1090,14.4
+
+7363,2014,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Tennessee,1036,14.1
+
+7364,2013,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Tennessee,1068,14.8
+
+7365,2012,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Tennessee,933,13.4
+
+7366,2011,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Tennessee,810,11.8
+
+7367,2010,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Tennessee,983,14.8
+
+7368,2009,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Tennessee,949,14.5
+
+7369,2008,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Tennessee,908,14.3
+
+7370,2007,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Tennessee,831,13.3
+
+7371,2006,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Tennessee,768,12.6
+
+7372,2005,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Tennessee,719,12
+
+7373,2004,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Tennessee,680,11.7
+
+7374,2003,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Tennessee,677,11.8
+
+7375,2002,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Tennessee,586,10.4
+
+7376,2001,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Tennessee,624,11.2
+
+7377,2000,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Tennessee,565,10.2
+
+7378,1999,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Tennessee,675,12.3
+
+8296,2016,Cerebrovascular diseases (I60-I69),Stroke,Tennessee,3508,46
+
+8297,2015,Cerebrovascular diseases (I60-I69),Stroke,Tennessee,3447,46
+
+8298,2014,Cerebrovascular diseases (I60-I69),Stroke,Tennessee,3326,45.8
+
+8299,2013,Cerebrovascular diseases (I60-I69),Stroke,Tennessee,3157,44.4
+
+8300,2012,Cerebrovascular diseases (I60-I69),Stroke,Tennessee,3120,44.9
+
+8301,2011,Cerebrovascular diseases (I60-I69),Stroke,Tennessee,3218,47.5
+
+8302,2010,Cerebrovascular diseases (I60-I69),Stroke,Tennessee,3205,48.7
+
+8303,2009,Cerebrovascular diseases (I60-I69),Stroke,Tennessee,3156,48.7
+
+8304,2008,Cerebrovascular diseases (I60-I69),Stroke,Tennessee,3356,53.1
+
+8305,2007,Cerebrovascular diseases (I60-I69),Stroke,Tennessee,3450,55.9
+
+8306,2006,Cerebrovascular diseases (I60-I69),Stroke,Tennessee,3407,56.4
+
+8307,2005,Cerebrovascular diseases (I60-I69),Stroke,Tennessee,3659,62.7
+
+8308,2004,Cerebrovascular diseases (I60-I69),Stroke,Tennessee,3680,64.6
+
+8309,2003,Cerebrovascular diseases (I60-I69),Stroke,Tennessee,3883,69.2
+
+8310,2002,Cerebrovascular diseases (I60-I69),Stroke,Tennessee,3980,71.6
+
+8311,2001,Cerebrovascular diseases (I60-I69),Stroke,Tennessee,4037,73.1
+
+8312,2000,Cerebrovascular diseases (I60-I69),Stroke,Tennessee,4266,78.5
+
+8313,1999,Cerebrovascular diseases (I60-I69),Stroke,Tennessee,4103,76.3
+
+9232,2016,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Tennessee,1111,16.3
+
+9233,2015,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Tennessee,1068,15.7
+
+9234,2014,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Tennessee,997,14.8
+
+9235,2013,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Tennessee,1030,15.4
+
+9236,2012,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Tennessee,978,14.6
+
+9237,2011,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Tennessee,955,14.4
+
+9238,2010,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Tennessee,943,14.6
+
+9239,2009,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Tennessee,947,14.6
+
+9240,2008,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Tennessee,973,15.1
+
+9241,2007,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Tennessee,844,13.4
+
+9242,2006,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Tennessee,874,14.1
+
+9243,2005,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Tennessee,856,14
+
+9244,2004,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Tennessee,792,13.2
+
+9245,2003,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Tennessee,762,12.9
+
+9246,2002,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Tennessee,778,13.3
+
+9247,2001,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Tennessee,711,12.2
+
+9248,2000,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Tennessee,730,12.7
+
+9249,1999,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Tennessee,726,12.7
+
+10126,2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Tennessee,3873,56.4
+
+10127,2014,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Tennessee,3686,54.2
+
+10128,2013,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Tennessee,3540,52.7
+
+10129,2012,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Tennessee,3513,53.1
+
+10130,2011,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Tennessee,3485,53.3
+
+10131,2010,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Tennessee,3539,54.9
+
+10132,2009,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Tennessee,3231,50.6
+
+10133,2008,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Tennessee,3250,51.5
+
+10134,2007,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Tennessee,3257,52.4
+
+10135,2006,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Tennessee,3307,54.3
+
+10136,2005,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Tennessee,3147,52.6
+
+10137,2004,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Tennessee,3156,53.6
+
+10138,2003,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Tennessee,3004,51.8
+
+10139,2002,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Tennessee,2744,47.7
+
+10140,2001,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Tennessee,2709,47.3
+
+10141,2000,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Tennessee,2743,48.5
+
+10142,1999,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Tennessee,2677,47.8
+
+44,2016,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Tennessee,4238,61.1
+
+808,2016,All Causes,All causes,Tennessee,67857,886.3
+
+809,2015,All Causes,All causes,Tennessee,66570,886.4
+
+810,2014,All Causes,All causes,Tennessee,64661,880
+
+811,2013,All Causes,All causes,Tennessee,63406,881.1
+
+812,2012,All Causes,All causes,Tennessee,61956,880.6
+
+813,2011,All Causes,All causes,Tennessee,60541,879
+
+814,2010,All Causes,All causes,Tennessee,59578,890.8
+
+815,2009,All Causes,All causes,Tennessee,58288,885.6
+
+816,2008,All Causes,All causes,Tennessee,58820,913.4
+
+817,2007,All Causes,All causes,Tennessee,57087,905.4
+
+818,2006,All Causes,All causes,Tennessee,56838,921.2
+
+819,2005,All Causes,All causes,Tennessee,57260,956.6
+
+820,2004,All Causes,All causes,Tennessee,55829,952.8
+
+821,2003,All Causes,All causes,Tennessee,57313,994
+
+822,2002,All Causes,All causes,Tennessee,56606,995.3
+
+823,2001,All Causes,All causes,Tennessee,55151,979.5
+
+824,2000,All Causes,All causes,Tennessee,55246,996.9
+
+825,1999,All Causes,All causes,Tennessee,53765,980.4
+
+1744,2016,Alzheimer's disease (G30),Alzheimer's disease,Tennessee,3250,44.2
+
+1745,2015,Alzheimer's disease (G30),Alzheimer's disease,Tennessee,3122,43.4
+
+1746,2014,Alzheimer's disease (G30),Alzheimer's disease,Tennessee,2672,38.1
+
+1747,2013,Alzheimer's disease (G30),Alzheimer's disease,Tennessee,2536,36.9
+
+1748,2012,Alzheimer's disease (G30),Alzheimer's disease,Tennessee,2434,36.3
+
+1749,2011,Alzheimer's disease (G30),Alzheimer's disease,Tennessee,2589,39.5
+
+1750,2010,Alzheimer's disease (G30),Alzheimer's disease,Tennessee,2440,38.5
+
+1751,2009,Alzheimer's disease (G30),Alzheimer's disease,Tennessee,2203,35.4
+
+1752,2008,Alzheimer's disease (G30),Alzheimer's disease,Tennessee,2423,39.9
+
+1753,2007,Alzheimer's disease (G30),Alzheimer's disease,Tennessee,2276,38.2
+
+1754,2006,Alzheimer's disease (G30),Alzheimer's disease,Tennessee,2115,36.3
+
+1755,2005,Alzheimer's disease (G30),Alzheimer's disease,Tennessee,2033,36.1
+
+1756,2004,Alzheimer's disease (G30),Alzheimer's disease,Tennessee,1615,29.3
+
+1757,2003,Alzheimer's disease (G30),Alzheimer's disease,Tennessee,1466,26.9
+
+1758,2002,Alzheimer's disease (G30),Alzheimer's disease,Tennessee,1299,24
+
+1759,2001,Alzheimer's disease (G30),Alzheimer's disease,Tennessee,1148,21.2
+
+1760,2000,Alzheimer's disease (G30),Alzheimer's disease,Tennessee,1024,19.2
+
+1761,1999,Alzheimer's disease (G30),Alzheimer's disease,Tennessee,944,17.9
+
+2680,2016,Malignant neoplasms (C00-C97),Cancer,Tennessee,14450,179.9
+
+2681,2015,Malignant neoplasms (C00-C97),Cancer,Tennessee,14214,180.5
+
+2682,2014,Malignant neoplasms (C00-C97),Cancer,Tennessee,14173,184.2
+
+2683,2013,Malignant neoplasms (C00-C97),Cancer,Tennessee,13953,185.5
+
+2684,2012,Malignant neoplasms (C00-C97),Cancer,Tennessee,13765,187.6
+
+2685,2011,Malignant neoplasms (C00-C97),Cancer,Tennessee,13562,189
+
+2686,2010,Malignant neoplasms (C00-C97),Cancer,Tennessee,13593,195.7
+
+2687,2009,Malignant neoplasms (C00-C97),Cancer,Tennessee,13482,197.5
+
+2688,2008,Malignant neoplasms (C00-C97),Cancer,Tennessee,13162,197.2
+
+2689,2007,Malignant neoplasms (C00-C97),Cancer,Tennessee,13161,201.6
+
+2690,2006,Malignant neoplasms (C00-C97),Cancer,Tennessee,13051,204.6
+
+2691,2005,Malignant neoplasms (C00-C97),Cancer,Tennessee,12995,210.3
+
+2692,2004,Malignant neoplasms (C00-C97),Cancer,Tennessee,12586,208.1
+
+2693,2003,Malignant neoplasms (C00-C97),Cancer,Tennessee,12613,212.7
+
+2694,2002,Malignant neoplasms (C00-C97),Cancer,Tennessee,12518,214.6
+
+2695,2001,Malignant neoplasms (C00-C97),Cancer,Tennessee,12229,213.1
+
+2696,2000,Malignant neoplasms (C00-C97),Cancer,Tennessee,12339,218.8
+
+2697,1999,Malignant neoplasms (C00-C97),Cancer,Tennessee,11943,213.9
+
+3616,2016,Chronic lower respiratory diseases (J40-J47),CLRD,Tennessee,4318,54.7
+
+3617,2015,Chronic lower respiratory diseases (J40-J47),CLRD,Tennessee,4239,54.9
+
+3618,2014,Chronic lower respiratory diseases (J40-J47),CLRD,Tennessee,3969,52.5
+
+3619,2013,Chronic lower respiratory diseases (J40-J47),CLRD,Tennessee,3904,53.2
+
+3620,2012,Chronic lower respiratory diseases (J40-J47),CLRD,Tennessee,3695,51.8
+
+3621,2011,Chronic lower respiratory diseases (J40-J47),CLRD,Tennessee,3658,52.7
+
+3622,2010,Chronic lower respiratory diseases (J40-J47),CLRD,Tennessee,3551,52.7
+
+3623,2009,Chronic lower respiratory diseases (J40-J47),CLRD,Tennessee,3503,52.9
+
+3624,2008,Chronic lower respiratory diseases (J40-J47),CLRD,Tennessee,3545,54.7
+
+3625,2007,Chronic lower respiratory diseases (J40-J47),CLRD,Tennessee,3167,50
+
+3626,2006,Chronic lower respiratory diseases (J40-J47),CLRD,Tennessee,2980,48.1
+
+3627,2005,Chronic lower respiratory diseases (J40-J47),CLRD,Tennessee,3185,52.9
+
+3628,2004,Chronic lower respiratory diseases (J40-J47),CLRD,Tennessee,2987,50.7
+
+3629,2003,Chronic lower respiratory diseases (J40-J47),CLRD,Tennessee,3067,52.8
+
+3630,2002,Chronic lower respiratory diseases (J40-J47),CLRD,Tennessee,3011,52.7
+
+3631,2001,Chronic lower respiratory diseases (J40-J47),CLRD,Tennessee,2941,52.2
+
+3632,2000,Chronic lower respiratory diseases (J40-J47),CLRD,Tennessee,2887,52.1
+
+3633,1999,Chronic lower respiratory diseases (J40-J47),CLRD,Tennessee,2748,49.9
+
+4552,2016,Diabetes mellitus (E10-E14),Diabetes,Tennessee,1883,24
+
+4553,2015,Diabetes mellitus (E10-E14),Diabetes,Tennessee,1798,23.4
+
+4554,2014,Diabetes mellitus (E10-E14),Diabetes,Tennessee,1727,23.2
+
+4555,2013,Diabetes mellitus (E10-E14),Diabetes,Tennessee,1827,24.8
+
+4556,2012,Diabetes mellitus (E10-E14),Diabetes,Tennessee,1852,25.8
+
+4557,2011,Diabetes mellitus (E10-E14),Diabetes,Tennessee,1748,25
+
+4558,2010,Diabetes mellitus (E10-E14),Diabetes,Tennessee,1687,24.7
+
+4559,2009,Diabetes mellitus (E10-E14),Diabetes,Tennessee,1759,26.2
+
+4560,2008,Diabetes mellitus (E10-E14),Diabetes,Tennessee,1733,26.4
+
+4561,2007,Diabetes mellitus (E10-E14),Diabetes,Tennessee,1700,26.7
+
+4562,2006,Diabetes mellitus (E10-E14),Diabetes,Tennessee,1715,27.4
+
+4563,2005,Diabetes mellitus (E10-E14),Diabetes,Tennessee,1844,30.3
+
+4564,2004,Diabetes mellitus (E10-E14),Diabetes,Tennessee,1882,31.6
+
+4565,2003,Diabetes mellitus (E10-E14),Diabetes,Tennessee,1855,31.7
+
+4566,2002,Diabetes mellitus (E10-E14),Diabetes,Tennessee,1749,30.5
+
+4567,2001,Diabetes mellitus (E10-E14),Diabetes,Tennessee,1746,30.7
+
+4568,2000,Diabetes mellitus (E10-E14),Diabetes,Tennessee,1591,28.5
+
+4569,1999,Diabetes mellitus (E10-E14),Diabetes,Tennessee,1436,26.1
+
+5489,2016,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Tennessee,15429,198.8
+
+5490,2015,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Tennessee,15730,207.3
+
+5491,2014,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Tennessee,15223,205.6
+
+5492,2013,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Tennessee,14803,204.1
+
+5493,2012,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Tennessee,14454,203.7
+
+5494,2011,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Tennessee,14235,205.4
+
+5495,2010,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Tennessee,14582,217.4
+
+5496,2009,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Tennessee,14257,216.5
+
+5497,2008,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Tennessee,14661,228.1
+
+5498,2007,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Tennessee,14280,227.2
+
+5499,2006,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Tennessee,14642,238
+
+5500,2005,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Tennessee,14946,251.2
+
+5501,2004,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Tennessee,15038,258.6
+
+5502,2003,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Tennessee,15919,277.6
+
+5503,2002,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Tennessee,16226,287.3
+
+5504,2001,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Tennessee,15688,280.6
+
+5505,2000,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Tennessee,16174,293.6
+
+5506,1999,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Tennessee,16280,299
+
+6424,2016,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Tennessee,1533,20.1
+
+6425,2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Tennessee,1723,23.3
+
+6426,2014,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Tennessee,1602,22.1
+
+6427,2013,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Tennessee,1564,22.1
+
+6428,2012,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Tennessee,1435,20.6
+
+6429,2011,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Tennessee,1480,21.9
+
+6430,2010,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Tennessee,1352,20.5
+
+6431,2009,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Tennessee,1390,21.6
+
+6432,2008,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Tennessee,1424,22.7
+
+6433,2007,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Tennessee,1438,23.5
+
+6434,2006,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Tennessee,1535,25.7
+
+6435,2005,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Tennessee,1588,27.5
+
+6436,2004,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Tennessee,1571,27.8
+
+6437,2003,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Tennessee,1814,32.5
+
+6438,2002,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Tennessee,1710,31
+
+6439,2001,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Tennessee,1617,29.5
+
+6440,2000,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Tennessee,1672,30.9
+
+6441,1999,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Tennessee,1588,29.7
+
+7361,2016,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Tennessee,1150,14.9
+
+7362,2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Tennessee,1090,14.4
+
+7363,2014,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Tennessee,1036,14.1
+
+7364,2013,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Tennessee,1068,14.8
+
+7365,2012,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Tennessee,933,13.4
+
+7366,2011,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Tennessee,810,11.8
+
+7367,2010,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Tennessee,983,14.8
+
+7368,2009,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Tennessee,949,14.5
+
+7369,2008,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Tennessee,908,14.3
+
+7370,2007,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Tennessee,831,13.3
+
+7371,2006,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Tennessee,768,12.6
+
+7372,2005,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Tennessee,719,12
+
+7373,2004,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Tennessee,680,11.7
+
+7374,2003,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Tennessee,677,11.8
+
+7375,2002,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Tennessee,586,10.4
+
+7376,2001,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Tennessee,624,11.2
+
+7377,2000,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Tennessee,565,10.2
+
+7378,1999,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Tennessee,675,12.3
+
+8296,2016,Cerebrovascular diseases (I60-I69),Stroke,Tennessee,3508,46
+
+8297,2015,Cerebrovascular diseases (I60-I69),Stroke,Tennessee,3447,46
+
+8298,2014,Cerebrovascular diseases (I60-I69),Stroke,Tennessee,3326,45.8
+
+8299,2013,Cerebrovascular diseases (I60-I69),Stroke,Tennessee,3157,44.4
+
+8300,2012,Cerebrovascular diseases (I60-I69),Stroke,Tennessee,3120,44.9
+
+8301,2011,Cerebrovascular diseases (I60-I69),Stroke,Tennessee,3218,47.5
+
+8302,2010,Cerebrovascular diseases (I60-I69),Stroke,Tennessee,3205,48.7
+
+8303,2009,Cerebrovascular diseases (I60-I69),Stroke,Tennessee,3156,48.7
+
+8304,2008,Cerebrovascular diseases (I60-I69),Stroke,Tennessee,3356,53.1
+
+8305,2007,Cerebrovascular diseases (I60-I69),Stroke,Tennessee,3450,55.9
+
+8306,2006,Cerebrovascular diseases (I60-I69),Stroke,Tennessee,3407,56.4
+
+8307,2005,Cerebrovascular diseases (I60-I69),Stroke,Tennessee,3659,62.7
+
+8308,2004,Cerebrovascular diseases (I60-I69),Stroke,Tennessee,3680,64.6
+
+8309,2003,Cerebrovascular diseases (I60-I69),Stroke,Tennessee,3883,69.2
+
+8310,2002,Cerebrovascular diseases (I60-I69),Stroke,Tennessee,3980,71.6
+
+8311,2001,Cerebrovascular diseases (I60-I69),Stroke,Tennessee,4037,73.1
+
+8312,2000,Cerebrovascular diseases (I60-I69),Stroke,Tennessee,4266,78.5
+
+8313,1999,Cerebrovascular diseases (I60-I69),Stroke,Tennessee,4103,76.3
+
+9232,2016,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Tennessee,1111,16.3
+
+9233,2015,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Tennessee,1068,15.7
+
+9234,2014,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Tennessee,997,14.8
+
+9235,2013,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Tennessee,1030,15.4
+
+9236,2012,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Tennessee,978,14.6
+
+9237,2011,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Tennessee,955,14.4
+
+9238,2010,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Tennessee,943,14.6
+
+9239,2009,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Tennessee,947,14.6
+
+9240,2008,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Tennessee,973,15.1
+
+9241,2007,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Tennessee,844,13.4
+
+9242,2006,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Tennessee,874,14.1
+
+9243,2005,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Tennessee,856,14
+
+9244,2004,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Tennessee,792,13.2
+
+9245,2003,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Tennessee,762,12.9
+
+9246,2002,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Tennessee,778,13.3
+
+9247,2001,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Tennessee,711,12.2
+
+9248,2000,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Tennessee,730,12.7
+
+9249,1999,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Tennessee,726,12.7
+
+10126,2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Tennessee,3873,56.4
+
+10127,2014,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Tennessee,3686,54.2
+
+10128,2013,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Tennessee,3540,52.7
+
+10129,2012,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Tennessee,3513,53.1
+
+10130,2011,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Tennessee,3485,53.3
+
+10131,2010,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Tennessee,3539,54.9
+
+10132,2009,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Tennessee,3231,50.6
+
+10133,2008,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Tennessee,3250,51.5
+
+10134,2007,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Tennessee,3257,52.4
+
+10135,2006,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Tennessee,3307,54.3
+
+10136,2005,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Tennessee,3147,52.6
+
+10137,2004,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Tennessee,3156,53.6
+
+10138,2003,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Tennessee,3004,51.8
+
+10139,2002,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Tennessee,2744,47.7
+
+10140,2001,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Tennessee,2709,47.3
+
+10141,2000,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Tennessee,2743,48.5
+
+10142,1999,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Tennessee,2677,47.8
+
+44,2016,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Tennessee,4238,61.1
+
+808,2016,All Causes,All causes,Tennessee,67857,886.3
+
+809,2015,All Causes,All causes,Tennessee,66570,886.4
+
+810,2014,All Causes,All causes,Tennessee,64661,880
+
+811,2013,All Causes,All causes,Tennessee,63406,881.1
+
+812,2012,All Causes,All causes,Tennessee,61956,880.6
+
+813,2011,All Causes,All causes,Tennessee,60541,879
+
+814,2010,All Causes,All causes,Tennessee,59578,890.8
+
+815,2009,All Causes,All causes,Tennessee,58288,885.6
+
+816,2008,All Causes,All causes,Tennessee,58820,913.4
+
+817,2007,All Causes,All causes,Tennessee,57087,905.4
+
+818,2006,All Causes,All causes,Tennessee,56838,921.2
+
+819,2005,All Causes,All causes,Tennessee,57260,956.6
+
+820,2004,All Causes,All causes,Tennessee,55829,952.8
+
+821,2003,All Causes,All causes,Tennessee,57313,994
+
+822,2002,All Causes,All causes,Tennessee,56606,995.3
+
+823,2001,All Causes,All causes,Tennessee,55151,979.5
+
+824,2000,All Causes,All causes,Tennessee,55246,996.9
+
+825,1999,All Causes,All causes,Tennessee,53765,980.4
+
+1744,2016,Alzheimer's disease (G30),Alzheimer's disease,Tennessee,3250,44.2
+
+1745,2015,Alzheimer's disease (G30),Alzheimer's disease,Tennessee,3122,43.4
+
+1746,2014,Alzheimer's disease (G30),Alzheimer's disease,Tennessee,2672,38.1
+
+1747,2013,Alzheimer's disease (G30),Alzheimer's disease,Tennessee,2536,36.9
+
+1748,2012,Alzheimer's disease (G30),Alzheimer's disease,Tennessee,2434,36.3
+
+1749,2011,Alzheimer's disease (G30),Alzheimer's disease,Tennessee,2589,39.5
+
+1750,2010,Alzheimer's disease (G30),Alzheimer's disease,Tennessee,2440,38.5
+
+1751,2009,Alzheimer's disease (G30),Alzheimer's disease,Tennessee,2203,35.4
+
+1752,2008,Alzheimer's disease (G30),Alzheimer's disease,Tennessee,2423,39.9
+
+1753,2007,Alzheimer's disease (G30),Alzheimer's disease,Tennessee,2276,38.2
+
+1754,2006,Alzheimer's disease (G30),Alzheimer's disease,Tennessee,2115,36.3
+
+1755,2005,Alzheimer's disease (G30),Alzheimer's disease,Tennessee,2033,36.1
+
+1756,2004,Alzheimer's disease (G30),Alzheimer's disease,Tennessee,1615,29.3
+
+1757,2003,Alzheimer's disease (G30),Alzheimer's disease,Tennessee,1466,26.9
+
+1758,2002,Alzheimer's disease (G30),Alzheimer's disease,Tennessee,1299,24
+
+1759,2001,Alzheimer's disease (G30),Alzheimer's disease,Tennessee,1148,21.2
+
+1760,2000,Alzheimer's disease (G30),Alzheimer's disease,Tennessee,1024,19.2
+
+1761,1999,Alzheimer's disease (G30),Alzheimer's disease,Tennessee,944,17.9
+
+2680,2016,Malignant neoplasms (C00-C97),Cancer,Tennessee,14450,179.9
+
+2681,2015,Malignant neoplasms (C00-C97),Cancer,Tennessee,14214,180.5
+
+2682,2014,Malignant neoplasms (C00-C97),Cancer,Tennessee,14173,184.2
+
+2683,2013,Malignant neoplasms (C00-C97),Cancer,Tennessee,13953,185.5
+
+2684,2012,Malignant neoplasms (C00-C97),Cancer,Tennessee,13765,187.6
+
+2685,2011,Malignant neoplasms (C00-C97),Cancer,Tennessee,13562,189
+
+2686,2010,Malignant neoplasms (C00-C97),Cancer,Tennessee,13593,195.7
+
+2687,2009,Malignant neoplasms (C00-C97),Cancer,Tennessee,13482,197.5
+
+2688,2008,Malignant neoplasms (C00-C97),Cancer,Tennessee,13162,197.2
+
+2689,2007,Malignant neoplasms (C00-C97),Cancer,Tennessee,13161,201.6
+
+2690,2006,Malignant neoplasms (C00-C97),Cancer,Tennessee,13051,204.6
+
+2691,2005,Malignant neoplasms (C00-C97),Cancer,Tennessee,12995,210.3
+
+2692,2004,Malignant neoplasms (C00-C97),Cancer,Tennessee,12586,208.1
+
+2693,2003,Malignant neoplasms (C00-C97),Cancer,Tennessee,12613,212.7
+
+2694,2002,Malignant neoplasms (C00-C97),Cancer,Tennessee,12518,214.6
+
+2695,2001,Malignant neoplasms (C00-C97),Cancer,Tennessee,12229,213.1
+
+2696,2000,Malignant neoplasms (C00-C97),Cancer,Tennessee,12339,218.8
+
+2697,1999,Malignant neoplasms (C00-C97),Cancer,Tennessee,11943,213.9
+
+3616,2016,Chronic lower respiratory diseases (J40-J47),CLRD,Tennessee,4318,54.7
+
+3617,2015,Chronic lower respiratory diseases (J40-J47),CLRD,Tennessee,4239,54.9
+
+3618,2014,Chronic lower respiratory diseases (J40-J47),CLRD,Tennessee,3969,52.5
+
+3619,2013,Chronic lower respiratory diseases (J40-J47),CLRD,Tennessee,3904,53.2
+
+3620,2012,Chronic lower respiratory diseases (J40-J47),CLRD,Tennessee,3695,51.8
+
+3621,2011,Chronic lower respiratory diseases (J40-J47),CLRD,Tennessee,3658,52.7
+
+3622,2010,Chronic lower respiratory diseases (J40-J47),CLRD,Tennessee,3551,52.7
+
+3623,2009,Chronic lower respiratory diseases (J40-J47),CLRD,Tennessee,3503,52.9
+
+3624,2008,Chronic lower respiratory diseases (J40-J47),CLRD,Tennessee,3545,54.7
+
+3625,2007,Chronic lower respiratory diseases (J40-J47),CLRD,Tennessee,3167,50
+
+3626,2006,Chronic lower respiratory diseases (J40-J47),CLRD,Tennessee,2980,48.1
+
+3627,2005,Chronic lower respiratory diseases (J40-J47),CLRD,Tennessee,3185,52.9
+
+3628,2004,Chronic lower respiratory diseases (J40-J47),CLRD,Tennessee,2987,50.7
+
+3629,2003,Chronic lower respiratory diseases (J40-J47),CLRD,Tennessee,3067,52.8
+
+3630,2002,Chronic lower respiratory diseases (J40-J47),CLRD,Tennessee,3011,52.7
+
+3631,2001,Chronic lower respiratory diseases (J40-J47),CLRD,Tennessee,2941,52.2
+
+3632,2000,Chronic lower respiratory diseases (J40-J47),CLRD,Tennessee,2887,52.1
+
+3633,1999,Chronic lower respiratory diseases (J40-J47),CLRD,Tennessee,2748,49.9
+
+4552,2016,Diabetes mellitus (E10-E14),Diabetes,Tennessee,1883,24
+
+4553,2015,Diabetes mellitus (E10-E14),Diabetes,Tennessee,1798,23.4
+
+4554,2014,Diabetes mellitus (E10-E14),Diabetes,Tennessee,1727,23.2
+
+4555,2013,Diabetes mellitus (E10-E14),Diabetes,Tennessee,1827,24.8
+
+4556,2012,Diabetes mellitus (E10-E14),Diabetes,Tennessee,1852,25.8
+
+4557,2011,Diabetes mellitus (E10-E14),Diabetes,Tennessee,1748,25
+
+4558,2010,Diabetes mellitus (E10-E14),Diabetes,Tennessee,1687,24.7
+
+4559,2009,Diabetes mellitus (E10-E14),Diabetes,Tennessee,1759,26.2
+
+4560,2008,Diabetes mellitus (E10-E14),Diabetes,Tennessee,1733,26.4
+
+4561,2007,Diabetes mellitus (E10-E14),Diabetes,Tennessee,1700,26.7
+
+4562,2006,Diabetes mellitus (E10-E14),Diabetes,Tennessee,1715,27.4
+
+4563,2005,Diabetes mellitus (E10-E14),Diabetes,Tennessee,1844,30.3
+
+4564,2004,Diabetes mellitus (E10-E14),Diabetes,Tennessee,1882,31.6
+
+4565,2003,Diabetes mellitus (E10-E14),Diabetes,Tennessee,1855,31.7
+
+4566,2002,Diabetes mellitus (E10-E14),Diabetes,Tennessee,1749,30.5
+
+4567,2001,Diabetes mellitus (E10-E14),Diabetes,Tennessee,1746,30.7
+
+4568,2000,Diabetes mellitus (E10-E14),Diabetes,Tennessee,1591,28.5
+
+4569,1999,Diabetes mellitus (E10-E14),Diabetes,Tennessee,1436,26.1
+
+5489,2016,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Tennessee,15429,198.8
+
+5490,2015,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Tennessee,15730,207.3
+
+5491,2014,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Tennessee,15223,205.6
+
+5492,2013,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Tennessee,14803,204.1
+
+5493,2012,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Tennessee,14454,203.7
+
+5494,2011,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Tennessee,14235,205.4
+
+5495,2010,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Tennessee,14582,217.4
+
+5496,2009,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Tennessee,14257,216.5
+
+5497,2008,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Tennessee,14661,228.1
+
+5498,2007,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Tennessee,14280,227.2
+
+5499,2006,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Tennessee,14642,238
+
+5500,2005,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Tennessee,14946,251.2
+
+5501,2004,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Tennessee,15038,258.6
+
+5502,2003,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Tennessee,15919,277.6
+
+5503,2002,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Tennessee,16226,287.3
+
+5504,2001,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Tennessee,15688,280.6
+
+5505,2000,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Tennessee,16174,293.6
+
+5506,1999,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Tennessee,16280,299
+
+6424,2016,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Tennessee,1533,20.1
+
+6425,2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Tennessee,1723,23.3
+
+6426,2014,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Tennessee,1602,22.1
+
+6427,2013,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Tennessee,1564,22.1
+
+6428,2012,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Tennessee,1435,20.6
+
+6429,2011,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Tennessee,1480,21.9
+
+6430,2010,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Tennessee,1352,20.5
+
+6431,2009,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Tennessee,1390,21.6
+
+6432,2008,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Tennessee,1424,22.7
+
+6433,2007,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Tennessee,1438,23.5
+
+6434,2006,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Tennessee,1535,25.7
+
+6435,2005,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Tennessee,1588,27.5
+
+6436,2004,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Tennessee,1571,27.8
+
+6437,2003,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Tennessee,1814,32.5
+
+6438,2002,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Tennessee,1710,31
+
+6439,2001,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Tennessee,1617,29.5
+
+6440,2000,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Tennessee,1672,30.9
+
+6441,1999,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Tennessee,1588,29.7
+
+7361,2016,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Tennessee,1150,14.9
+
+7362,2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Tennessee,1090,14.4
+
+7363,2014,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Tennessee,1036,14.1
+
+7364,2013,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Tennessee,1068,14.8
+
+7365,2012,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Tennessee,933,13.4
+
+7366,2011,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Tennessee,810,11.8
+
+7367,2010,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Tennessee,983,14.8
+
+7368,2009,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Tennessee,949,14.5
+
+7369,2008,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Tennessee,908,14.3
+
+7370,2007,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Tennessee,831,13.3
+
+7371,2006,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Tennessee,768,12.6
+
+7372,2005,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Tennessee,719,12
+
+7373,2004,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Tennessee,680,11.7
+
+7374,2003,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Tennessee,677,11.8
+
+7375,2002,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Tennessee,586,10.4
+
+7376,2001,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Tennessee,624,11.2
+
+7377,2000,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Tennessee,565,10.2
+
+7378,1999,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Tennessee,675,12.3
+
+8296,2016,Cerebrovascular diseases (I60-I69),Stroke,Tennessee,3508,46
+
+8297,2015,Cerebrovascular diseases (I60-I69),Stroke,Tennessee,3447,46
+
+8298,2014,Cerebrovascular diseases (I60-I69),Stroke,Tennessee,3326,45.8
+
+8299,2013,Cerebrovascular diseases (I60-I69),Stroke,Tennessee,3157,44.4
+
+8300,2012,Cerebrovascular diseases (I60-I69),Stroke,Tennessee,3120,44.9
+
+8301,2011,Cerebrovascular diseases (I60-I69),Stroke,Tennessee,3218,47.5
+
+8302,2010,Cerebrovascular diseases (I60-I69),Stroke,Tennessee,3205,48.7
+
+8303,2009,Cerebrovascular diseases (I60-I69),Stroke,Tennessee,3156,48.7
+
+8304,2008,Cerebrovascular diseases (I60-I69),Stroke,Tennessee,3356,53.1
+
+8305,2007,Cerebrovascular diseases (I60-I69),Stroke,Tennessee,3450,55.9
+
+8306,2006,Cerebrovascular diseases (I60-I69),Stroke,Tennessee,3407,56.4
+
+8307,2005,Cerebrovascular diseases (I60-I69),Stroke,Tennessee,3659,62.7
+
+8308,2004,Cerebrovascular diseases (I60-I69),Stroke,Tennessee,3680,64.6
+
+8309,2003,Cerebrovascular diseases (I60-I69),Stroke,Tennessee,3883,69.2
+
+8310,2002,Cerebrovascular diseases (I60-I69),Stroke,Tennessee,3980,71.6
+
+8311,2001,Cerebrovascular diseases (I60-I69),Stroke,Tennessee,4037,73.1
+
+8312,2000,Cerebrovascular diseases (I60-I69),Stroke,Tennessee,4266,78.5
+
+8313,1999,Cerebrovascular diseases (I60-I69),Stroke,Tennessee,4103,76.3
+
+9232,2016,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Tennessee,1111,16.3
+
+9233,2015,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Tennessee,1068,15.7
+
+9234,2014,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Tennessee,997,14.8
+
+9235,2013,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Tennessee,1030,15.4
+
+9236,2012,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Tennessee,978,14.6
+
+9237,2011,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Tennessee,955,14.4
+
+9238,2010,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Tennessee,943,14.6
+
+9239,2009,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Tennessee,947,14.6
+
+9240,2008,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Tennessee,973,15.1
+
+9241,2007,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Tennessee,844,13.4
+
+9242,2006,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Tennessee,874,14.1
+
+9243,2005,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Tennessee,856,14
+
+9244,2004,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Tennessee,792,13.2
+
+9245,2003,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Tennessee,762,12.9
+
+9246,2002,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Tennessee,778,13.3
+
+9247,2001,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Tennessee,711,12.2
+
+9248,2000,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Tennessee,730,12.7
+
+9249,1999,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Tennessee,726,12.7
+
+10126,2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Tennessee,3873,56.4
+
+10127,2014,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Tennessee,3686,54.2
+
+10128,2013,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Tennessee,3540,52.7
+
+10129,2012,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Tennessee,3513,53.1
+
+10130,2011,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Tennessee,3485,53.3
+
+10131,2010,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Tennessee,3539,54.9
+
+10132,2009,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Tennessee,3231,50.6
+
+10133,2008,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Tennessee,3250,51.5
+
+10134,2007,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Tennessee,3257,52.4
+
+10135,2006,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Tennessee,3307,54.3
+
+10136,2005,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Tennessee,3147,52.6
+
+10137,2004,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Tennessee,3156,53.6
+
+10138,2003,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Tennessee,3004,51.8
+
+10139,2002,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Tennessee,2744,47.7
+
+10140,2001,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Tennessee,2709,47.3
+
+10141,2000,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Tennessee,2743,48.5
+
+10142,1999,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Tennessee,2677,47.8
+
+44,2016,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Tennessee,4238,61.1
+
+808,2016,All Causes,All causes,Tennessee,67857,886.3
+
+809,2015,All Causes,All causes,Tennessee,66570,886.4
+
+810,2014,All Causes,All causes,Tennessee,64661,880
+
+811,2013,All Causes,All causes,Tennessee,63406,881.1
+
+812,2012,All Causes,All causes,Tennessee,61956,880.6
+
+813,2011,All Causes,All causes,Tennessee,60541,879
+
+814,2010,All Causes,All causes,Tennessee,59578,890.8
+
+815,2009,All Causes,All causes,Tennessee,58288,885.6
+
+816,2008,All Causes,All causes,Tennessee,58820,913.4
+
+817,2007,All Causes,All causes,Tennessee,57087,905.4
+
+818,2006,All Causes,All causes,Tennessee,56838,921.2
+
+819,2005,All Causes,All causes,Tennessee,57260,956.6
+
+820,2004,All Causes,All causes,Tennessee,55829,952.8
+
+821,2003,All Causes,All causes,Tennessee,57313,994
+
+822,2002,All Causes,All causes,Tennessee,56606,995.3
+
+823,2001,All Causes,All causes,Tennessee,55151,979.5
+
+824,2000,All Causes,All causes,Tennessee,55246,996.9
+
+825,1999,All Causes,All causes,Tennessee,53765,980.4
+
+1744,2016,Alzheimer's disease (G30),Alzheimer's disease,Tennessee,3250,44.2
+
+1745,2015,Alzheimer's disease (G30),Alzheimer's disease,Tennessee,3122,43.4
+
+1746,2014,Alzheimer's disease (G30),Alzheimer's disease,Tennessee,2672,38.1
+
+1747,2013,Alzheimer's disease (G30),Alzheimer's disease,Tennessee,2536,36.9
+
+1748,2012,Alzheimer's disease (G30),Alzheimer's disease,Tennessee,2434,36.3
+
+1749,2011,Alzheimer's disease (G30),Alzheimer's disease,Tennessee,2589,39.5
+
+1750,2010,Alzheimer's disease (G30),Alzheimer's disease,Tennessee,2440,38.5
+
+1751,2009,Alzheimer's disease (G30),Alzheimer's disease,Tennessee,2203,35.4
+
+1752,2008,Alzheimer's disease (G30),Alzheimer's disease,Tennessee,2423,39.9
+
+1753,2007,Alzheimer's disease (G30),Alzheimer's disease,Tennessee,2276,38.2
+
+1754,2006,Alzheimer's disease (G30),Alzheimer's disease,Tennessee,2115,36.3
+
+1755,2005,Alzheimer's disease (G30),Alzheimer's disease,Tennessee,2033,36.1
+
+1756,2004,Alzheimer's disease (G30),Alzheimer's disease,Tennessee,1615,29.3
+
+1757,2003,Alzheimer's disease (G30),Alzheimer's disease,Tennessee,1466,26.9
+
+1758,2002,Alzheimer's disease (G30),Alzheimer's disease,Tennessee,1299,24
+
+1759,2001,Alzheimer's disease (G30),Alzheimer's disease,Tennessee,1148,21.2
+
+1760,2000,Alzheimer's disease (G30),Alzheimer's disease,Tennessee,1024,19.2
+
+1761,1999,Alzheimer's disease (G30),Alzheimer's disease,Tennessee,944,17.9
+
+2680,2016,Malignant neoplasms (C00-C97),Cancer,Tennessee,14450,179.9
+
+2681,2015,Malignant neoplasms (C00-C97),Cancer,Tennessee,14214,180.5
+
+2682,2014,Malignant neoplasms (C00-C97),Cancer,Tennessee,14173,184.2
+
+2683,2013,Malignant neoplasms (C00-C97),Cancer,Tennessee,13953,185.5
+
+2684,2012,Malignant neoplasms (C00-C97),Cancer,Tennessee,13765,187.6
+
+2685,2011,Malignant neoplasms (C00-C97),Cancer,Tennessee,13562,189
+
+2686,2010,Malignant neoplasms (C00-C97),Cancer,Tennessee,13593,195.7
+
+2687,2009,Malignant neoplasms (C00-C97),Cancer,Tennessee,13482,197.5
+
+2688,2008,Malignant neoplasms (C00-C97),Cancer,Tennessee,13162,197.2
+
+2689,2007,Malignant neoplasms (C00-C97),Cancer,Tennessee,13161,201.6
+
+2690,2006,Malignant neoplasms (C00-C97),Cancer,Tennessee,13051,204.6
+
+2691,2005,Malignant neoplasms (C00-C97),Cancer,Tennessee,12995,210.3
+
+2692,2004,Malignant neoplasms (C00-C97),Cancer,Tennessee,12586,208.1
+
+2693,2003,Malignant neoplasms (C00-C97),Cancer,Tennessee,12613,212.7
+
+2694,2002,Malignant neoplasms (C00-C97),Cancer,Tennessee,12518,214.6
+
+2695,2001,Malignant neoplasms (C00-C97),Cancer,Tennessee,12229,213.1
+
+2696,2000,Malignant neoplasms (C00-C97),Cancer,Tennessee,12339,218.8
+
+2697,1999,Malignant neoplasms (C00-C97),Cancer,Tennessee,11943,213.9
+
+3616,2016,Chronic lower respiratory diseases (J40-J47),CLRD,Tennessee,4318,54.7
+
+3617,2015,Chronic lower respiratory diseases (J40-J47),CLRD,Tennessee,4239,54.9
+
+3618,2014,Chronic lower respiratory diseases (J40-J47),CLRD,Tennessee,3969,52.5
+
+3619,2013,Chronic lower respiratory diseases (J40-J47),CLRD,Tennessee,3904,53.2
+
+3620,2012,Chronic lower respiratory diseases (J40-J47),CLRD,Tennessee,3695,51.8
+
+3621,2011,Chronic lower respiratory diseases (J40-J47),CLRD,Tennessee,3658,52.7
+
+3622,2010,Chronic lower respiratory diseases (J40-J47),CLRD,Tennessee,3551,52.7
+
+3623,2009,Chronic lower respiratory diseases (J40-J47),CLRD,Tennessee,3503,52.9
+
+3624,2008,Chronic lower respiratory diseases (J40-J47),CLRD,Tennessee,3545,54.7
+
+3625,2007,Chronic lower respiratory diseases (J40-J47),CLRD,Tennessee,3167,50
+
+3626,2006,Chronic lower respiratory diseases (J40-J47),CLRD,Tennessee,2980,48.1
+
+3627,2005,Chronic lower respiratory diseases (J40-J47),CLRD,Tennessee,3185,52.9
+
+3628,2004,Chronic lower respiratory diseases (J40-J47),CLRD,Tennessee,2987,50.7
+
+3629,2003,Chronic lower respiratory diseases (J40-J47),CLRD,Tennessee,3067,52.8
+
+3630,2002,Chronic lower respiratory diseases (J40-J47),CLRD,Tennessee,3011,52.7
+
+3631,2001,Chronic lower respiratory diseases (J40-J47),CLRD,Tennessee,2941,52.2
+
+3632,2000,Chronic lower respiratory diseases (J40-J47),CLRD,Tennessee,2887,52.1
+
+3633,1999,Chronic lower respiratory diseases (J40-J47),CLRD,Tennessee,2748,49.9
+
+4552,2016,Diabetes mellitus (E10-E14),Diabetes,Tennessee,1883,24
+
+4553,2015,Diabetes mellitus (E10-E14),Diabetes,Tennessee,1798,23.4
+
+4554,2014,Diabetes mellitus (E10-E14),Diabetes,Tennessee,1727,23.2
+
+4555,2013,Diabetes mellitus (E10-E14),Diabetes,Tennessee,1827,24.8
+
+4556,2012,Diabetes mellitus (E10-E14),Diabetes,Tennessee,1852,25.8
+
+4557,2011,Diabetes mellitus (E10-E14),Diabetes,Tennessee,1748,25
+
+4558,2010,Diabetes mellitus (E10-E14),Diabetes,Tennessee,1687,24.7
+
+4559,2009,Diabetes mellitus (E10-E14),Diabetes,Tennessee,1759,26.2
+
+4560,2008,Diabetes mellitus (E10-E14),Diabetes,Tennessee,1733,26.4
+
+4561,2007,Diabetes mellitus (E10-E14),Diabetes,Tennessee,1700,26.7
+
+4562,2006,Diabetes mellitus (E10-E14),Diabetes,Tennessee,1715,27.4
+
+4563,2005,Diabetes mellitus (E10-E14),Diabetes,Tennessee,1844,30.3
+
+4564,2004,Diabetes mellitus (E10-E14),Diabetes,Tennessee,1882,31.6
+
+4565,2003,Diabetes mellitus (E10-E14),Diabetes,Tennessee,1855,31.7
+
+4566,2002,Diabetes mellitus (E10-E14),Diabetes,Tennessee,1749,30.5
+
+4567,2001,Diabetes mellitus (E10-E14),Diabetes,Tennessee,1746,30.7
+
+4568,2000,Diabetes mellitus (E10-E14),Diabetes,Tennessee,1591,28.5
+
+4569,1999,Diabetes mellitus (E10-E14),Diabetes,Tennessee,1436,26.1
+
+5489,2016,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Tennessee,15429,198.8
+
+5490,2015,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Tennessee,15730,207.3
+
+5491,2014,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Tennessee,15223,205.6
+
+5492,2013,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Tennessee,14803,204.1
+
+5493,2012,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Tennessee,14454,203.7
+
+5494,2011,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Tennessee,14235,205.4
+
+5495,2010,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Tennessee,14582,217.4
+
+5496,2009,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Tennessee,14257,216.5
+
+5497,2008,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Tennessee,14661,228.1
+
+5498,2007,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Tennessee,14280,227.2
+
+5499,2006,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Tennessee,14642,238
+
+5500,2005,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Tennessee,14946,251.2
+
+5501,2004,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Tennessee,15038,258.6
+
+5502,2003,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Tennessee,15919,277.6
+
+5503,2002,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Tennessee,16226,287.3
+
+5504,2001,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Tennessee,15688,280.6
+
+5505,2000,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Tennessee,16174,293.6
+
+5506,1999,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Tennessee,16280,299
+
+6424,2016,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Tennessee,1533,20.1
+
+6425,2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Tennessee,1723,23.3
+
+6426,2014,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Tennessee,1602,22.1
+
+6427,2013,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Tennessee,1564,22.1
+
+6428,2012,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Tennessee,1435,20.6
+
+6429,2011,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Tennessee,1480,21.9
+
+6430,2010,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Tennessee,1352,20.5
+
+6431,2009,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Tennessee,1390,21.6
+
+6432,2008,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Tennessee,1424,22.7
+
+6433,2007,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Tennessee,1438,23.5
+
+6434,2006,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Tennessee,1535,25.7
+
+6435,2005,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Tennessee,1588,27.5
+
+6436,2004,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Tennessee,1571,27.8
+
+6437,2003,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Tennessee,1814,32.5
+
+6438,2002,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Tennessee,1710,31
+
+6439,2001,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Tennessee,1617,29.5
+
+6440,2000,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Tennessee,1672,30.9
+
+6441,1999,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Tennessee,1588,29.7
+
+7361,2016,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Tennessee,1150,14.9
+
+7362,2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Tennessee,1090,14.4
+
+7363,2014,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Tennessee,1036,14.1
+
+7364,2013,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Tennessee,1068,14.8
+
+7365,2012,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Tennessee,933,13.4
+
+7366,2011,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Tennessee,810,11.8
+
+7367,2010,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Tennessee,983,14.8
+
+7368,2009,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Tennessee,949,14.5
+
+7369,2008,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Tennessee,908,14.3
+
+7370,2007,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Tennessee,831,13.3
+
+7371,2006,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Tennessee,768,12.6
+
+7372,2005,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Tennessee,719,12
+
+7373,2004,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Tennessee,680,11.7
+
+7374,2003,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Tennessee,677,11.8
+
+7375,2002,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Tennessee,586,10.4
+
+7376,2001,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Tennessee,624,11.2
+
+7377,2000,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Tennessee,565,10.2
+
+7378,1999,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Tennessee,675,12.3
+
+8296,2016,Cerebrovascular diseases (I60-I69),Stroke,Tennessee,3508,46
+
+8297,2015,Cerebrovascular diseases (I60-I69),Stroke,Tennessee,3447,46
+
+8298,2014,Cerebrovascular diseases (I60-I69),Stroke,Tennessee,3326,45.8
+
+8299,2013,Cerebrovascular diseases (I60-I69),Stroke,Tennessee,3157,44.4
+
+8300,2012,Cerebrovascular diseases (I60-I69),Stroke,Tennessee,3120,44.9
+
+8301,2011,Cerebrovascular diseases (I60-I69),Stroke,Tennessee,3218,47.5
+
+8302,2010,Cerebrovascular diseases (I60-I69),Stroke,Tennessee,3205,48.7
+
+8303,2009,Cerebrovascular diseases (I60-I69),Stroke,Tennessee,3156,48.7
+
+8304,2008,Cerebrovascular diseases (I60-I69),Stroke,Tennessee,3356,53.1
+
+8305,2007,Cerebrovascular diseases (I60-I69),Stroke,Tennessee,3450,55.9
+
+8306,2006,Cerebrovascular diseases (I60-I69),Stroke,Tennessee,3407,56.4
+
+8307,2005,Cerebrovascular diseases (I60-I69),Stroke,Tennessee,3659,62.7
+
+8308,2004,Cerebrovascular diseases (I60-I69),Stroke,Tennessee,3680,64.6
+
+8309,2003,Cerebrovascular diseases (I60-I69),Stroke,Tennessee,3883,69.2
+
+8310,2002,Cerebrovascular diseases (I60-I69),Stroke,Tennessee,3980,71.6
+
+8311,2001,Cerebrovascular diseases (I60-I69),Stroke,Tennessee,4037,73.1
+
+8312,2000,Cerebrovascular diseases (I60-I69),Stroke,Tennessee,4266,78.5
+
+8313,1999,Cerebrovascular diseases (I60-I69),Stroke,Tennessee,4103,76.3
+
+9232,2016,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Tennessee,1111,16.3
+
+9233,2015,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Tennessee,1068,15.7
+
+9234,2014,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Tennessee,997,14.8
+
+9235,2013,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Tennessee,1030,15.4
+
+9236,2012,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Tennessee,978,14.6
+
+9237,2011,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Tennessee,955,14.4
+
+9238,2010,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Tennessee,943,14.6
+
+9239,2009,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Tennessee,947,14.6
+
+9240,2008,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Tennessee,973,15.1
+
+9241,2007,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Tennessee,844,13.4
+
+9242,2006,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Tennessee,874,14.1
+
+9243,2005,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Tennessee,856,14
+
+9244,2004,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Tennessee,792,13.2
+
+9245,2003,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Tennessee,762,12.9
+
+9246,2002,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Tennessee,778,13.3
+
+9247,2001,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Tennessee,711,12.2
+
+9248,2000,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Tennessee,730,12.7
+
+9249,1999,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Tennessee,726,12.7
+
+10126,2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Tennessee,3873,56.4
+
+10127,2014,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Tennessee,3686,54.2
+
+10128,2013,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Tennessee,3540,52.7
+
+10129,2012,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Tennessee,3513,53.1
+
+10130,2011,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Tennessee,3485,53.3
+
+10131,2010,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Tennessee,3539,54.9
+
+10132,2009,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Tennessee,3231,50.6
+
+10133,2008,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Tennessee,3250,51.5
+
+10134,2007,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Tennessee,3257,52.4
+
+10135,2006,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Tennessee,3307,54.3
+
+10136,2005,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Tennessee,3147,52.6
+
+10137,2004,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Tennessee,3156,53.6
+
+10138,2003,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Tennessee,3004,51.8
+
+10139,2002,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Tennessee,2744,47.7
+
+10140,2001,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Tennessee,2709,47.3
+
+10141,2000,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Tennessee,2743,48.5
+
+10142,1999,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Tennessee,2677,47.8
+

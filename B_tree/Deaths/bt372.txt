@@ -1,0 +1,36 @@
+47,2016,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Vermont,372,54.8
+
+1520,2006,Alzheimer's disease (G30),Alzheimer's disease,New Hampshire,372,27.1
+
+4019,2009,Diabetes mellitus (E10-E14),Diabetes,Idaho,372,24.3
+
+4299,1999,Diabetes mellitus (E10-E14),Diabetes,Nebraska,372,20.2
+
+6240,2002,Influenza and pneumonia (J09-J18),Influenza and pneumonia,New Mexico,372,22.3
+
+6479,2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Utah,372,15.7
+
+7122,2002,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Nevada,372,20.7
+
+8752,2010,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Iowa,372,12.1
+
+9613,2001,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Hawaii,372,29.8
+
+47,2016,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Vermont,372,54.8
+
+1520,2006,Alzheimer's disease (G30),Alzheimer's disease,New Hampshire,372,27.1
+
+4019,2009,Diabetes mellitus (E10-E14),Diabetes,Idaho,372,24.3
+
+4299,1999,Diabetes mellitus (E10-E14),Diabetes,Nebraska,372,20.2
+
+6240,2002,Influenza and pneumonia (J09-J18),Influenza and pneumonia,New Mexico,372,22.3
+
+6479,2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Utah,372,15.7
+
+7122,2002,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Nevada,372,20.7
+
+8752,2010,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Iowa,372,12.1
+
+9613,2001,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Hawaii,372,29.8
+

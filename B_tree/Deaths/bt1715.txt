@@ -1,0 +1,8 @@
+4562,2006,Diabetes mellitus (E10-E14),Diabetes,Tennessee,1715,27.4
+
+7152,2008,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,New Jersey,1715,17.5
+
+4562,2006,Diabetes mellitus (E10-E14),Diabetes,Tennessee,1715,27.4
+
+7152,2008,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,New Jersey,1715,17.5
+

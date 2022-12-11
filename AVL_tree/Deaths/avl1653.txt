@@ -1,0 +1,4 @@
+7595,2015,Cerebrovascular diseases (I60-I69),Stroke,Arkansas,1653,46.8
+
+9835,2000,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Mississippi,1653,58.9
+

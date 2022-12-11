@@ -1,0 +1,4 @@
+6271,2007,Influenza and pneumonia (J09-J18),Influenza and pneumonia,North Carolina,1645,18.7
+
+7154,2006,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,New Jersey,1645,17.3
+

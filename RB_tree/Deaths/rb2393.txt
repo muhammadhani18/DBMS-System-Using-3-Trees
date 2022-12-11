@@ -1,0 +1,6 @@
+2751,1999,Malignant neoplasms (C00-C97),Cancer,Utah,2393,155.7
+
+8262,2014,Cerebrovascular diseases (I60-I69),Stroke,South Carolina,2393,44.2
+
+9771,2013,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Massachusetts,2393,32.5
+

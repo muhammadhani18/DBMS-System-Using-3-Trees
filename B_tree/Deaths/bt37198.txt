@@ -1,0 +1,4 @@
+2516,2000,Malignant neoplasms (C00-C97),Cancer,New York,37198,192.2
+
+2516,2000,Malignant neoplasms (C00-C97),Cancer,New York,37198,192.2
+

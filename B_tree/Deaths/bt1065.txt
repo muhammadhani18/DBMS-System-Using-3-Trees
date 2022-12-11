@@ -1,0 +1,8 @@
+4459,2001,Diabetes mellitus (E10-E14),Diabetes,Oklahoma,1065,29.7
+
+6941,2003,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Louisiana,1065,25.5
+
+4459,2001,Diabetes mellitus (E10-E14),Diabetes,Oklahoma,1065,29.7
+
+6941,2003,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Louisiana,1065,25.5
+

@@ -1,0 +1,4 @@
+10021,2001,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Ohio,3857,33.4
+
+10021,2001,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Ohio,3857,33.4
+

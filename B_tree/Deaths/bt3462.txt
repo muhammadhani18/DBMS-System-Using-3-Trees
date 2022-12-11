@@ -1,0 +1,8 @@
+2486,2012,Malignant neoplasms (C00-C97),Cancer,New Mexico,3462,148.1
+
+4485,2011,Diabetes mellitus (E10-E14),Diabetes,Pennsylvania,3462,21.1
+
+2486,2012,Malignant neoplasms (C00-C97),Cancer,New Mexico,3462,148.1
+
+4485,2011,Diabetes mellitus (E10-E14),Diabetes,Pennsylvania,3462,21.1
+

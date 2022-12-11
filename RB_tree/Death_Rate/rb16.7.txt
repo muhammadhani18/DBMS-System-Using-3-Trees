@@ -1,0 +1,22 @@
+1007,2015,Alzheimer's disease (G30),Alzheimer's disease,Alaska,68,16.7
+
+1128,2002,Alzheimer's disease (G30),Alzheimer's disease,Delaware,128,16.7
+
+1542,2002,Alzheimer's disease (G30),Alzheimer's disease,New Jersey,1522,16.7
+
+3896,2006,Diabetes mellitus (E10-E14),Diabetes,Colorado,677,16.7
+
+4175,2015,Diabetes mellitus (E10-E14),Diabetes,Massachusetts,1398,16.7
+
+4378,2010,Diabetes mellitus (E10-E14),Diabetes,New York,3642,16.7
+
+6233,2009,Influenza and pneumonia (J09-J18),Influenza and pneumonia,New Mexico,344,16.7
+
+6406,2016,Influenza and pneumonia (J09-J18),Influenza and pneumonia,South Dakota,195,16.7
+
+6576,2008,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wisconsin,1116,16.7
+
+8519,2009,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arizona,1060,16.7
+
+8700,2008,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Idaho,252,16.7
+

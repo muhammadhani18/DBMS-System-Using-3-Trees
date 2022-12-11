@@ -1,0 +1,4 @@
+8403,1999,Cerebrovascular diseases (I60-I69),Stroke,Virginia,4110,68.7
+
+8403,1999,Cerebrovascular diseases (I60-I69),Stroke,Virginia,4110,68.7
+

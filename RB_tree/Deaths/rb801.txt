@@ -1,0 +1,8 @@
+6114,2002,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Mississippi,801,29.8
+
+6117,1999,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Mississippi,801,29.8
+
+6325,2007,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Oklahoma,801,21.2
+
+7894,2004,Cerebrovascular diseases (I60-I69),Stroke,Maine,801,51.5
+

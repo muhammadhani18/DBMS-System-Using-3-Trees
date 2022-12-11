@@ -1,0 +1,6 @@
+995,2009,Alzheimer's disease (G30),Alzheimer's disease,Alabama,1521,31.6
+
+7458,2009,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Virginia,1521,19.7
+
+9466,2012,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arkansas,1521,50
+

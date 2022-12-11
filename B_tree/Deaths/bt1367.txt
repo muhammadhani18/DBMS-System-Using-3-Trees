@@ -1,0 +1,8 @@
+3162,2002,Chronic lower respiratory diseases (J40-J47),CLRD,Kansas,1367,47.2
+
+6861,2011,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Indiana,1367,19.4
+
+3162,2002,Chronic lower respiratory diseases (J40-J47),CLRD,Kansas,1367,47.2
+
+6861,2011,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Indiana,1367,19.4
+

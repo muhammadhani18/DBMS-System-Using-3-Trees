@@ -1,0 +1,6 @@
+2551,2001,Malignant neoplasms (C00-C97),Cancer,North Dakota,1391,189.2
+
+2579,2009,Malignant neoplasms (C00-C97),Cancer,Oklahoma,7639,189.2
+
+5483,2004,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,South Dakota,1783,189.2
+

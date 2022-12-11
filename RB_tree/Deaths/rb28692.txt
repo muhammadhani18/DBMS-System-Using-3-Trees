@@ -1,0 +1,4 @@
+166,2010,All Causes,All causes,Connecticut,28692,652.9
+
+2610,2014,Malignant neoplasms (C00-C97),Cancer,Pennsylvania,28692,169.6
+

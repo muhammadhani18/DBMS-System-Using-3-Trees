@@ -1,0 +1,8 @@
+3345,1999,Chronic lower respiratory diseases (J40-J47),CLRD,Montana,566,59.4
+
+6721,2007,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Connecticut,566,13.2
+
+7265,2003,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Oklahoma,566,15.7
+
+8793,2005,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Kentucky,566,13.4
+

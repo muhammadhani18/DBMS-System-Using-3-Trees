@@ -1,0 +1,20 @@
+1217,2003,Alzheimer's disease (G30),Alzheimer's disease,Idaho,355,28.3
+
+3480,2008,Chronic lower respiratory diseases (J40-J47),CLRD,North Dakota,355,43.4
+
+3688,2016,Chronic lower respiratory diseases (J40-J47),CLRD,Vermont,355,41.3
+
+4147,2007,Diabetes mellitus (E10-E14),Diabetes,Maine,355,21.8
+
+6231,2011,Influenza and pneumonia (J09-J18),Influenza and pneumonia,New Mexico,355,16.5
+
+1217,2003,Alzheimer's disease (G30),Alzheimer's disease,Idaho,355,28.3
+
+3480,2008,Chronic lower respiratory diseases (J40-J47),CLRD,North Dakota,355,43.4
+
+3688,2016,Chronic lower respiratory diseases (J40-J47),CLRD,Vermont,355,41.3
+
+4147,2007,Diabetes mellitus (E10-E14),Diabetes,Maine,355,21.8
+
+6231,2011,Influenza and pneumonia (J09-J18),Influenza and pneumonia,New Mexico,355,16.5
+

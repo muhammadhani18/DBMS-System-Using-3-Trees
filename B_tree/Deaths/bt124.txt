@@ -1,0 +1,28 @@
+3814,2016,Diabetes mellitus (E10-E14),Diabetes,Alaska,124,19.3
+
+7356,2003,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,South Dakota,124,13.1
+
+8507,2003,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Alaska,124,20.3
+
+9089,2015,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,North Dakota,124,17.5
+
+9222,2008,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,South Dakota,124,15.7
+
+9306,2014,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Vermont,124,18.7
+
+9402,2008,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wyoming,124,22.6
+
+3814,2016,Diabetes mellitus (E10-E14),Diabetes,Alaska,124,19.3
+
+7356,2003,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,South Dakota,124,13.1
+
+8507,2003,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Alaska,124,20.3
+
+9089,2015,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,North Dakota,124,17.5
+
+9222,2008,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,South Dakota,124,15.7
+
+9306,2014,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Vermont,124,18.7
+
+9402,2008,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wyoming,124,22.6
+

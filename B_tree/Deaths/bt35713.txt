@@ -1,0 +1,4 @@
+2706,2008,Malignant neoplasms (C00-C97),Cancer,Texas,35713,169.9
+
+2706,2008,Malignant neoplasms (C00-C97),Cancer,Texas,35713,169.9
+

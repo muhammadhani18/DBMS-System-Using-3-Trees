@@ -1,0 +1,4 @@
+4972,2010,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Illinois,24959,181.7
+
+4972,2010,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Illinois,24959,181.7
+

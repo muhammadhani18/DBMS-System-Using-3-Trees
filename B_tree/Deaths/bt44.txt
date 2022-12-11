@@ -1,0 +1,20 @@
+1021,2001,Alzheimer's disease (G30),Alzheimer's disease,Alaska,44,18.9
+
+5697,2005,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Alaska,44,12.7
+
+6626,2012,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Alaska,44,9.5
+
+6632,2006,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Alaska,44,12.9
+
+6752,2012,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,District of Columbia,44,7.2
+
+1021,2001,Alzheimer's disease (G30),Alzheimer's disease,Alaska,44,18.9
+
+5697,2005,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Alaska,44,12.7
+
+6626,2012,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Alaska,44,9.5
+
+6632,2006,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Alaska,44,12.9
+
+6752,2012,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,District of Columbia,44,7.2
+

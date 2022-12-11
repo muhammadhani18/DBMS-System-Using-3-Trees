@@ -1,0 +1,10 @@
+2414,2012,Malignant neoplasms (C00-C97),Cancer,Nebraska,3479,164.7
+
+2519,2015,Malignant neoplasms (C00-C97),Cancer,North Carolina,19322,164.7
+
+2608,2016,Malignant neoplasms (C00-C97),Cancer,Pennsylvania,28492,164.7
+
+2849,2009,Malignant neoplasms (C00-C97),Cancer,Wyoming,936,164.7
+
+5273,2016,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,New Jersey,18597,164.7
+

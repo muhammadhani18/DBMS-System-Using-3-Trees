@@ -1,0 +1,12 @@
+2455,2007,Malignant neoplasms (C00-C97),Cancer,New Hampshire,2609,184.7
+
+8446,2010,Cerebrovascular diseases (I60-I69),Stroke,Wisconsin,2609,38.8
+
+10234,2010,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Washington,2609,37.6
+
+2455,2007,Malignant neoplasms (C00-C97),Cancer,New Hampshire,2609,184.7
+
+8446,2010,Cerebrovascular diseases (I60-I69),Stroke,Wisconsin,2609,38.8
+
+10234,2010,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Washington,2609,37.6
+

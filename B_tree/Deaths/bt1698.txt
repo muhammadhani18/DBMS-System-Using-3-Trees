@@ -1,0 +1,8 @@
+2664,2014,Malignant neoplasms (C00-C97),Cancer,South Dakota,1698,163.4
+
+3136,2010,Chronic lower respiratory diseases (J40-J47),CLRD,Iowa,1698,44.7
+
+2664,2014,Malignant neoplasms (C00-C97),Cancer,South Dakota,1698,163.4
+
+3136,2010,Chronic lower respiratory diseases (J40-J47),CLRD,Iowa,1698,44.7
+

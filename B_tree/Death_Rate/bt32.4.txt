@@ -1,0 +1,18 @@
+1263,2011,Alzheimer's disease (G30),Alzheimer's disease,Iowa,1406,32.4
+
+1317,2011,Alzheimer's disease (G30),Alzheimer's disease,Louisiana,1406,32.4
+
+1711,2013,Alzheimer's disease (G30),Alzheimer's disease,South Carolina,1623,32.4
+
+3953,2003,Diabetes mellitus (E10-E14),Diabetes,District of Columbia,179,32.4
+
+4229,2015,Diabetes mellitus (E10-E14),Diabetes,Mississippi,1092,32.4
+
+4445,2015,Diabetes mellitus (E10-E14),Diabetes,Oklahoma,1442,32.4
+
+7655,2009,Cerebrovascular diseases (I60-I69),Stroke,Connecticut,1460,32.4
+
+8083,2013,Cerebrovascular diseases (I60-I69),Stroke,New Jersey,3456,32.4
+
+8155,2013,Cerebrovascular diseases (I60-I69),Stroke,North Dakota,306,32.4
+

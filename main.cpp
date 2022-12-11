@@ -8,7 +8,7 @@ using namespace std;
 void Menu() {
     cout << endl;
     cout << "############################################################\n";
-    cout << "#    Welcome to DBMS System made by Ali Anas and Hani      #\n";
+    cout << "#    Welcome to DBMS System made by RunTime Terror         #\n";
     cout << "#               Press 0 to Exit                            #\n";
     cout << "#               Press 2 to do Point Search                 #\n";
     cout << "#               Press 3 to do Range Search                 #\n";
@@ -35,18 +35,32 @@ int main()
         {
             int order;
             string index;
+            int index_1;
             if (choice == 1)
             {
                 cout << "Please enter the Order of B-tree: ";
                 cin >> order;
-                cout << "Please enter on which data field you want to perform indexing\n";
-                cout << "(ID - Year - 113 Cause Name - Cause Name - State - Deaths - Age-adjusted Death Rate)\n";
-                cout << "Index: ";
-                cin >> index;
+
+                cout << "Press 1 to do the Indexing on ID!\n\n";
+                cout << "Press 2 to do the Indexing on Year!\n\n";
+                cout << "Press 3 to do the Indexing on 113 Cause Name!\n\n";
+                cout << "Press 4 to do the Indexing on Cause Name!\n\n";
+                cout << "Press 5 to do the Indexing on State!\n\n";
+                cout << "Press 6 to do the Indexing on Deaths!\n\n";
+                cout << "Press 7 to do the Indexing on Age-adjusted Death Rate!\n\n";
+                cout << "Press 8 to Exit!\n\n";
+                cout << "Select: ";
+
+                cin >> index_1;
 
                 BTree<string> *tree = new BTree<string>(order);
 
-                IndexOnID(index,order,tree);
+                if(index_1==1) {
+                    IndexOnID(index,order,tree);
+                }
+                else {
+                    IndexBTree(tree,index_1);
+                }
                 while (1)
                 {
                     Menu();
@@ -58,7 +72,7 @@ int main()
                         string key;
                         cout << "Please enter the "  << index << " : ";
                         cin >> key;
-                        PointSearch_BTree(tree,key);
+                        PointSearch_BTree(tree,key,index_1);
                     } 
                     if (choice == 3) {
                         RangeSearch_BTree(tree);
@@ -67,7 +81,7 @@ int main()
                         string key;
                         cout << "Please enter the key you wana delete: ";
                         cin >> key;
-                        DeleteRecord_BTree(key,tree); 
+                        DeleteRecord_BTree(key,tree,index_1); 
                     }
                     
                     cout << endl;
@@ -76,16 +90,31 @@ int main()
         }
         else if(choice == 2) {
             string index;
+            int index_1;
             if (choice == 2)
             {
-                cout << "Please enter on which data field you want to perform indexing\n";
-                cout << "(ID - Year - 113 Cause Name - Cause Name - State - Deaths - Age-adjusted Death Rate)\n";
-                cout << "Index: ";
-                cin >> index;
+                cout << "Press 1 to do the Indexing on ID!\n\n";
+                cout << "Press 2 to do the Indexing on Year!\n\n";
+                cout << "Press 3 to do the Indexing on 113 Cause Name!\n\n";
+                cout << "Press 4 to do the Indexing on Cause Name!\n\n";
+                cout << "Press 5 to do the Indexing on State!\n\n";
+                cout << "Press 6 to do the Indexing on Deaths!\n\n";
+                cout << "Press 7 to do the Indexing on Age-adjusted Death Rate!\n\n";
+                cout << "Press 8 to Exit!\n\n";
+                cout << "Select: ";
 
+                cin >> index_1;
 
                 AVLTree<string> *avl_tree = new AVLTree<string>;
-                IndexOnIDAVL(index,avl_tree);
+                if(index_1==1) {
+
+                    IndexOnIDAVL(index,avl_tree);
+                }
+                else {
+                    IndexAVL(avl_tree,index_1);
+                }
+                
+                
                 while(1) {
                     Menu();
                     cin >> choice;
@@ -96,7 +125,7 @@ int main()
                         string key;
                         cout << "Please enter the "  << index << " : ";
                         cin >> key;
-                        PointSearch_AVLTree(avl_tree,key);
+                        PointSearch_AVLTree(avl_tree,key,index_1);
                     }
                     if (choice == 3) {
                         RangeSearch_AVLTree(avl_tree);
@@ -105,7 +134,7 @@ int main()
                         string key;
                         cout << "Please enter the key you wana delete: ";
                         cin >> key;
-                        DeleteRecord_AVLTree(key,avl_tree); 
+                        DeleteRecord_AVLTree(key,avl_tree,index_1); 
                     } 
                      
                     cout << endl;
@@ -115,16 +144,28 @@ int main()
         }
         else if(choice == 3) {
             string index;
+            int index_1;
             if (choice == 3)
             {
-                cout << "Please enter on which data field you want to perform indexing\n";
-                cout << "(ID - Year - 113 Cause Name - Cause Name - State - Deaths - Age-adjusted Death Rate)\n";
-                cout << "Index: ";
-                cin >> index;
+                cout << "Press 1 to do the Indexing on ID!\n\n";
+                cout << "Press 2 to do the Indexing on Year!\n\n";
+                cout << "Press 3 to do the Indexing on 113 Cause Name!\n\n";
+                cout << "Press 4 to do the Indexing on Cause Name!\n\n";
+                cout << "Press 5 to do the Indexing on State!\n\n";
+                cout << "Press 6 to do the Indexing on Deaths!\n\n";
+                cout << "Press 7 to do the Indexing on Age-adjusted Death Rate!\n\n";
+                cout << "Press 8 to Exit!\n\n";
+                cout << "Select: ";
 
-
+                cin >> index_1;
                 RedBlackTree<string> *RB_tree = new RedBlackTree<string>;
-                IndexOnIDRB(index,RB_tree);
+                if(index_1==1) {
+                    IndexOnIDRB(index,RB_tree);
+                }
+                else {
+                    IndexRBTree(RB_tree,index_1);
+                }
+
                 while(1) {
                     Menu();
                     cin >> choice;
@@ -135,7 +176,7 @@ int main()
                         string key;
                         cout << "Please enter the "  << index << " : ";
                         cin >> key;
-                        PointSearch_RBTree(RB_tree,key);
+                        PointSearch_RBTree(RB_tree,key,index_1);
                     } 
                     if (choice == 3) {
                         RangeSearch_RBTree(RB_tree);
@@ -144,7 +185,7 @@ int main()
                         string key;
                         cout << "Please enter the key you wana delete: ";
                         cin >> key;
-                        DeleteRecord_RBTree(key,RB_tree); 
+                        DeleteRecord_RBTree(key,RB_tree,index_1); 
                     } 
                     cout << endl;
                 }

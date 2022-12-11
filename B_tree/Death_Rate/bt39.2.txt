@@ -1,0 +1,8 @@
+3096,2014,Chronic lower respiratory diseases (J40-J47),CLRD,Illinois,5631,39.2
+
+3288,2002,Chronic lower respiratory diseases (J40-J47),CLRD,Minnesota,1971,39.2
+
+3557,2003,Chronic lower respiratory diseases (J40-J47),CLRD,Pennsylvania,6046,39.2
+
+9536,2010,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Delaware,357,39.2
+

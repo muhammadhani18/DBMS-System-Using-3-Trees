@@ -1,0 +1,4 @@
+4944,2002,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Hawaii,2512,191.8
+
+4944,2002,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Hawaii,2512,191.8
+

@@ -1,0 +1,10 @@
+7845,1999,Cerebrovascular diseases (I60-I69),Stroke,Kansas,1841,61.6
+
+7952,2000,Cerebrovascular diseases (I60-I69),Stroke,Michigan,5864,61.6
+
+8294,2000,Cerebrovascular diseases (I60-I69),Stroke,South Dakota,560,61.6
+
+8349,1999,Cerebrovascular diseases (I60-I69),Stroke,United States,167366,61.6
+
+10027,2012,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Oklahoma,2388,61.6
+

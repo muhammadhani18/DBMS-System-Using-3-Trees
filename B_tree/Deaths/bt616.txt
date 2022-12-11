@@ -1,0 +1,16 @@
+3397,2001,Chronic lower respiratory diseases (J40-J47),CLRD,New Hampshire,616,51.4
+
+6668,2006,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arkansas,616,20
+
+7253,2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Oklahoma,616,14.2
+
+7883,2015,Cerebrovascular diseases (I60-I69),Stroke,Maine,616,32.6
+
+3397,2001,Chronic lower respiratory diseases (J40-J47),CLRD,New Hampshire,616,51.4
+
+6668,2006,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arkansas,616,20
+
+7253,2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Oklahoma,616,14.2
+
+7883,2015,Cerebrovascular diseases (I60-I69),Stroke,Maine,616,32.6
+

@@ -1,0 +1,12 @@
+1507,2001,Alzheimer's disease (G30),Alzheimer's disease,Nevada,211,14.9
+
+4011,1999,Diabetes mellitus (E10-E14),Diabetes,Hawaii,211,17.3
+
+4421,2003,Diabetes mellitus (E10-E14),Diabetes,North Dakota,211,27
+
+4504,2010,Diabetes mellitus (E10-E14),Diabetes,Rhode Island,211,16
+
+6198,2008,Influenza and pneumonia (J09-J18),Influenza and pneumonia,New Hampshire,211,14.6
+
+6947,2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Maine,211,11.4
+

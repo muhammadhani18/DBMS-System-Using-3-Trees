@@ -1,0 +1,46 @@
+1383,1999,Alzheimer's disease (G30),Alzheimer's disease,Massachusetts,1182,16.5
+
+1436,2000,Alzheimer's disease (G30),Alzheimer's disease,Mississippi,443,16.5
+
+1688,2000,Alzheimer's disease (G30),Alzheimer's disease,Pennsylvania,2542,16.5
+
+1797,1999,Alzheimer's disease (G30),Alzheimer's disease,United States,44536,16.5
+
+5757,1999,Influenza and pneumonia (J09-J18),Influenza and pneumonia,California,4560,16.5
+
+5824,2004,Influenza and pneumonia (J09-J18),Influenza and pneumonia,District of Columbia,91,16.5
+
+5877,2005,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Hawaii,241,16.5
+
+5929,2007,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Indiana,1098,16.5
+
+6206,2000,Influenza and pneumonia (J09-J18),Influenza and pneumonia,New Hampshire,194,16.5
+
+6231,2011,Influenza and pneumonia (J09-J18),Influenza and pneumonia,New Mexico,355,16.5
+
+6262,2016,Influenza and pneumonia (J09-J18),Influenza and pneumonia,North Carolina,1896,16.5
+
+6317,2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Oklahoma,717,16.5
+
+6362,2006,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Pennsylvania,2716,16.5
+
+6449,2009,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Texas,3387,16.5
+
+6467,2009,Influenza and pneumonia (J09-J18),Influenza and pneumonia,United States,53692,16.5
+
+6955,2007,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Maine,269,16.5
+
+7340,2001,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,South Carolina,632,16.5
+
+7381,2014,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Texas,4008,16.5
+
+8521,2007,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arizona,1016,16.5
+
+8581,2001,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Colorado,722,16.5
+
+8703,2005,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Idaho,228,16.5
+
+8999,2015,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,New Hampshire,228,16.5
+
+9130,2010,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Oklahoma,618,16.5
+

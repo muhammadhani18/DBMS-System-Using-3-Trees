@@ -1,0 +1,8 @@
+4337,2015,Diabetes mellitus (E10-E14),Diabetes,New Jersey,1933,17.9
+
+7665,1999,Cerebrovascular diseases (I60-I69),Stroke,Connecticut,1933,50
+
+4337,2015,Diabetes mellitus (E10-E14),Diabetes,New Jersey,1933,17.9
+
+7665,1999,Cerebrovascular diseases (I60-I69),Stroke,Connecticut,1933,50
+

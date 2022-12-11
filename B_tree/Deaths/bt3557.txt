@@ -1,0 +1,8 @@
+3316,2010,Chronic lower respiratory diseases (J40-J47),CLRD,Missouri,3557,52.6
+
+6677,2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,California,3557,8.6
+
+3316,2010,Chronic lower respiratory diseases (J40-J47),CLRD,Missouri,3557,52.6
+
+6677,2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,California,3557,8.6
+

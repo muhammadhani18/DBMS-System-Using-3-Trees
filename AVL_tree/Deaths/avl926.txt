@@ -1,0 +1,4 @@
+4234,2010,Diabetes mellitus (E10-E14),Diabetes,Mississippi,926,30.3
+
+5655,2011,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Wyoming,926,158.9
+

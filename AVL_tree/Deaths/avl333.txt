@@ -1,0 +1,12 @@
+3690,2014,Chronic lower respiratory diseases (J40-J47),CLRD,Vermont,333,41.2
+
+6011,2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Maine,333,17.6
+
+6489,2005,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Utah,333,19.5
+
+8757,2005,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Iowa,333,11.2
+
+9537,2009,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Delaware,333,36.8
+
+10198,2012,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Vermont,333,47.4
+

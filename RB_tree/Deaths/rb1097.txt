@@ -1,0 +1,4 @@
+5669,2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Alabama,1097,19.5
+
+10181,2012,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Utah,1097,44.5
+

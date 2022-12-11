@@ -1,0 +1,6 @@
+1982,2012,Malignant neoplasms (C00-C97),Cancer,Arkansas,6540,189.1
+
+2211,1999,Malignant neoplasms (C00-C97),Cancer,Iowa,6346,189.1
+
+4765,2001,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Alaska,603,189.1
+

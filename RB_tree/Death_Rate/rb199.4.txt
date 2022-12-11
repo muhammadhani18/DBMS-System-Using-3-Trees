@@ -1,0 +1,4 @@
+1934,2006,Malignant neoplasms (C00-C97),Cancer,Alabama,9899,199.4
+
+2407,2001,Malignant neoplasms (C00-C97),Cancer,Montana,1956,199.4
+

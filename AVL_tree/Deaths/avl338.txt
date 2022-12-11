@@ -1,0 +1,6 @@
+1696,2010,Alzheimer's disease (G30),Alzheimer's disease,Rhode Island,338,22.6
+
+3795,1999,Chronic lower respiratory diseases (J40-J47),CLRD,Wyoming,338,75.6
+
+9535,2011,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Delaware,338,36.4
+

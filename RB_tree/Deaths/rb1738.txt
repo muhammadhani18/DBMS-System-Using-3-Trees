@@ -1,0 +1,4 @@
+1841,2009,Alzheimer's disease (G30),Alzheimer's disease,Virginia,1738,23.5
+
+3294,2014,Chronic lower respiratory diseases (J40-J47),CLRD,Mississippi,1738,52.2
+

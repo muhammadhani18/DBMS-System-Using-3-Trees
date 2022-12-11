@@ -1,0 +1,12 @@
+3536,2006,Chronic lower respiratory diseases (J40-J47),CLRD,Oregon,1828,45.6
+
+7205,2009,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,North Carolina,1828,19.2
+
+7661,2003,Cerebrovascular diseases (I60-I69),Stroke,Connecticut,1828,44
+
+3536,2006,Chronic lower respiratory diseases (J40-J47),CLRD,Oregon,1828,45.6
+
+7205,2009,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,North Carolina,1828,19.2
+
+7661,2003,Cerebrovascular diseases (I60-I69),Stroke,Connecticut,1828,44
+

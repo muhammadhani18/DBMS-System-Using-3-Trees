@@ -1,0 +1,16 @@
+2138,2000,Malignant neoplasms (C00-C97),Cancer,Hawaii,1943,155.7
+
+2402,2006,Malignant neoplasms (C00-C97),Cancer,Montana,1943,177.9
+
+3237,1999,Chronic lower respiratory diseases (J40-J47),CLRD,Maryland,1943,41.6
+
+3533,2009,Chronic lower respiratory diseases (J40-J47),CLRD,Oregon,1943,45.3
+
+4051,2013,Diabetes mellitus (E10-E14),Diabetes,Indiana,1943,26.3
+
+5484,2003,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,South Dakota,1943,210.2
+
+7239,2011,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Ohio,1943,14.2
+
+8206,2016,Cerebrovascular diseases (I60-I69),Stroke,Oregon,1943,37.8
+

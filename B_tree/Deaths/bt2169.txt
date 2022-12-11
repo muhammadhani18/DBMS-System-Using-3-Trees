@@ -1,0 +1,8 @@
+2133,2005,Malignant neoplasms (C00-C97),Cancer,Hawaii,2169,151.3
+
+2914,2016,Chronic lower respiratory diseases (J40-J47),CLRD,Arkansas,2169,59.1
+
+2133,2005,Malignant neoplasms (C00-C97),Cancer,Hawaii,2169,151.3
+
+2914,2016,Chronic lower respiratory diseases (J40-J47),CLRD,Arkansas,2169,59.1
+

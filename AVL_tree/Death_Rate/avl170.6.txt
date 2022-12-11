@@ -1,0 +1,6 @@
+2611,2013,Malignant neoplasms (C00-C97),Cancer,Pennsylvania,28512,170.6
+
+4760,2006,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Alaska,645,170.6
+
+5209,2008,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Montana,1975,170.6
+

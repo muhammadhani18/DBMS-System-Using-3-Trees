@@ -1,0 +1,8 @@
+1978,2016,Malignant neoplasms (C00-C97),Cancer,Arkansas,6612,178.8
+
+2072,2012,Malignant neoplasms (C00-C97),Cancer,District of Columbia,1081,178.8
+
+2599,2007,Malignant neoplasms (C00-C97),Cancer,Oregon,7393,178.8
+
+2648,2012,Malignant neoplasms (C00-C97),Cancer,South Carolina,9728,178.8
+

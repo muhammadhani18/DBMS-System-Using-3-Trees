@@ -1,0 +1,6 @@
+2008,2004,Malignant neoplasms (C00-C97),Cancer,California,53700,169.2
+
+2759,2009,Malignant neoplasms (C00-C97),Cancer,Vermont,1254,169.2
+
+2853,2005,Malignant neoplasms (C00-C97),Cancer,Wyoming,886,169.2
+

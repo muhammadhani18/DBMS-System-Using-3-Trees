@@ -1,0 +1,8 @@
+17,2016,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Kansas,1444,45.7
+
+3163,2001,Chronic lower respiratory diseases (J40-J47),CLRD,Kansas,1444,50.1
+
+4255,2007,Diabetes mellitus (E10-E14),Diabetes,Missouri,1444,22.4
+
+10052,2004,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Oregon,1444,38.9
+

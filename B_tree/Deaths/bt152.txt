@@ -1,0 +1,20 @@
+3004,2016,Chronic lower respiratory diseases (J40-J47),CLRD,District of Columbia,152,24
+
+3945,2011,Diabetes mellitus (E10-E14),Diabetes,District of Columbia,152,26
+
+3949,2007,Diabetes mellitus (E10-E14),Diabetes,District of Columbia,152,26.6
+
+6740,2006,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Delaware,152,16.9
+
+7178,2000,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,New Mexico,152,9.3
+
+3004,2016,Chronic lower respiratory diseases (J40-J47),CLRD,District of Columbia,152,24
+
+3945,2011,Diabetes mellitus (E10-E14),Diabetes,District of Columbia,152,26
+
+3949,2007,Diabetes mellitus (E10-E14),Diabetes,District of Columbia,152,26.6
+
+6740,2006,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Delaware,152,16.9
+
+7178,2000,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,New Mexico,152,9.3
+

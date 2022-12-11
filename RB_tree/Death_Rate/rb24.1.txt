@@ -1,0 +1,32 @@
+1183,2001,Alzheimer's disease (G30),Alzheimer's disease,Georgia,1419,24.1
+
+1288,2004,Alzheimer's disease (G30),Alzheimer's disease,Kansas,769,24.1
+
+1290,2002,Alzheimer's disease (G30),Alzheimer's disease,Kansas,755,24.1
+
+1671,1999,Alzheimer's disease (G30),Alzheimer's disease,Oregon,866,24.1
+
+3823,2007,Diabetes mellitus (E10-E14),Diabetes,Alaska,105,24.1
+
+3944,2012,Diabetes mellitus (E10-E14),Diabetes,District of Columbia,145,24.1
+
+4055,2009,Diabetes mellitus (E10-E14),Diabetes,Indiana,1646,24.1
+
+4105,2013,Diabetes mellitus (E10-E14),Diabetes,Kentucky,1187,24.1
+
+4514,2000,Diabetes mellitus (E10-E14),Diabetes,Rhode Island,292,24.1
+
+4668,2008,Diabetes mellitus (E10-E14),Diabetes,Washington,1590,24.1
+
+4722,2008,Diabetes mellitus (E10-E14),Diabetes,Wyoming,130,24.1
+
+4730,2000,Diabetes mellitus (E10-E14),Diabetes,Wyoming,111,24.1
+
+5869,2013,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Hawaii,457,24.1
+
+5986,2004,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Kentucky,965,24.1
+
+6277,2001,Influenza and pneumonia (J09-J18),Influenza and pneumonia,North Carolina,1780,24.1
+
+6529,2001,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Virginia,1481,24.1
+

@@ -1,0 +1,4 @@
+1965,2011,Malignant neoplasms (C00-C97),Cancer,Arizona,10690,148.5
+
+2698,2016,Malignant neoplasms (C00-C97),Cancer,Texas,40195,148.5
+

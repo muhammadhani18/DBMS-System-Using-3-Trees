@@ -1,0 +1,4 @@
+1174,2010,Alzheimer's disease (G30),Alzheimer's disease,Georgia,2080,28.3
+
+3526,2016,Chronic lower respiratory diseases (J40-J47),CLRD,Oregon,2080,40.4
+

@@ -1,0 +1,8 @@
+6850,2004,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Illinois,2339,18.7
+
+7858,2004,Cerebrovascular diseases (I60-I69),Stroke,Kentucky,2339,58
+
+6850,2004,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Illinois,2339,18.7
+
+7858,2004,Cerebrovascular diseases (I60-I69),Stroke,Kentucky,2339,58
+

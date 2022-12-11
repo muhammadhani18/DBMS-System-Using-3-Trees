@@ -1,0 +1,4 @@
+2491,2007,Malignant neoplasms (C00-C97),Cancer,New Mexico,3238,158.1
+
+7802,2006,Cerebrovascular diseases (I60-I69),Stroke,Indiana,3238,49.9
+

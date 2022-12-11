@@ -1,0 +1,4 @@
+1173,2011,Alzheimer's disease (G30),Alzheimer's disease,Georgia,2218,28.9
+
+7825,2001,Cerebrovascular diseases (I60-I69),Stroke,Iowa,2218,59.1
+

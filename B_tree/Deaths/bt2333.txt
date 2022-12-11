@@ -1,0 +1,8 @@
+5260,2011,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,New Hampshire,2333,151
+
+9720,2013,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Louisiana,2333,50.5
+
+5260,2011,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,New Hampshire,2333,151
+
+9720,2013,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Louisiana,2333,50.5
+

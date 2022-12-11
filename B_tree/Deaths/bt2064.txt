@@ -1,0 +1,12 @@
+3227,2009,Chronic lower respiratory diseases (J40-J47),CLRD,Maryland,2064,36.3
+
+7851,2011,Cerebrovascular diseases (I60-I69),Stroke,Kentucky,2064,44.8
+
+7853,2009,Cerebrovascular diseases (I60-I69),Stroke,Kentucky,2064,46.4
+
+3227,2009,Chronic lower respiratory diseases (J40-J47),CLRD,Maryland,2064,36.3
+
+7851,2011,Cerebrovascular diseases (I60-I69),Stroke,Kentucky,2064,44.8
+
+7853,2009,Cerebrovascular diseases (I60-I69),Stroke,Kentucky,2064,46.4
+

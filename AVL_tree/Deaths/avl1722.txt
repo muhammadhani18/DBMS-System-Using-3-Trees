@@ -1,0 +1,4 @@
+7602,2008,Cerebrovascular diseases (I60-I69),Stroke,Arkansas,1722,54.4
+
+10045,2011,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Oregon,1722,40.6
+

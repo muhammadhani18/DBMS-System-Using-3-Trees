@@ -1,0 +1,8 @@
+3733,2007,Chronic lower respiratory diseases (J40-J47),CLRD,Washington,2684,42.8
+
+7881,1999,Cerebrovascular diseases (I60-I69),Stroke,Louisiana,2684,68.3
+
+3733,2007,Chronic lower respiratory diseases (J40-J47),CLRD,Washington,2684,42.8
+
+7881,1999,Cerebrovascular diseases (I60-I69),Stroke,Louisiana,2684,68.3
+

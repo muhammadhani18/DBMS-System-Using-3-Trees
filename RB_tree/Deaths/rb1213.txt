@@ -1,0 +1,6 @@
+4225,2001,Diabetes mellitus (E10-E14),Diabetes,Minnesota,1213,24.4
+
+6122,2012,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Missouri,1213,17
+
+9075,2011,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,North Carolina,1213,12.3
+

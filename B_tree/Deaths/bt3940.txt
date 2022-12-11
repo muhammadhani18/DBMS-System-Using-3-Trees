@@ -1,0 +1,4 @@
+8006,2000,Cerebrovascular diseases (I60-I69),Stroke,Missouri,3940,65.1
+
+8006,2000,Cerebrovascular diseases (I60-I69),Stroke,Missouri,3940,65.1
+

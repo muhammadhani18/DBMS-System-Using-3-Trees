@@ -1,0 +1,4 @@
+3542,2000,Chronic lower respiratory diseases (J40-J47),CLRD,Oregon,1677,47.5
+
+4063,2001,Diabetes mellitus (E10-E14),Diabetes,Indiana,1677,27.7
+

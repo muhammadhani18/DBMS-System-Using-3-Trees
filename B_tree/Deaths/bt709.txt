@@ -1,0 +1,4 @@
+4081,2001,Diabetes mellitus (E10-E14),Diabetes,Iowa,709,20.1
+
+4081,2001,Diabetes mellitus (E10-E14),Diabetes,Iowa,709,20.1
+

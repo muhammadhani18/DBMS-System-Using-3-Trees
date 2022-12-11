@@ -1,0 +1,6 @@
+3293,2015,Chronic lower respiratory diseases (J40-J47),CLRD,Mississippi,1924,57.1
+
+3699,2005,Chronic lower respiratory diseases (J40-J47),CLRD,Vermont,381,57.1
+
+3779,2015,Chronic lower respiratory diseases (J40-J47),CLRD,Wyoming,368,57.1
+

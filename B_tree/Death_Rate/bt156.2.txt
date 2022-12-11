@@ -1,0 +1,4 @@
+2143,2013,Malignant neoplasms (C00-C97),Cancer,Idaho,2707,156.2
+
+2467,2013,Malignant neoplasms (C00-C97),Cancer,New Jersey,16315,156.2
+

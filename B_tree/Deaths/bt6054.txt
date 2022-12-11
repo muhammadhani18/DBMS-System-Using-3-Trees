@@ -1,0 +1,4 @@
+3500,2006,Chronic lower respiratory diseases (J40-J47),CLRD,Ohio,6054,47.9
+
+3500,2006,Chronic lower respiratory diseases (J40-J47),CLRD,Ohio,6054,47.9
+

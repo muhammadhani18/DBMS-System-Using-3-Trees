@@ -1,0 +1,4 @@
+5423,2010,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Pennsylvania,31556,187
+
+5423,2010,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Pennsylvania,31556,187
+

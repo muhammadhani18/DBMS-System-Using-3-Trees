@@ -1,0 +1,12 @@
+1684,2004,Alzheimer's disease (G30),Alzheimer's disease,Pennsylvania,3277,20.2
+
+1855,2013,Alzheimer's disease (G30),Alzheimer's disease,Washington,3277,43.6
+
+5226,2009,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Nebraska,3277,153.2
+
+1684,2004,Alzheimer's disease (G30),Alzheimer's disease,Pennsylvania,3277,20.2
+
+1855,2013,Alzheimer's disease (G30),Alzheimer's disease,Washington,3277,43.6
+
+5226,2009,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Nebraska,3277,153.2
+

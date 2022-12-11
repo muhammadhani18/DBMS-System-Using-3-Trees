@@ -1,0 +1,4 @@
+2736,2014,Malignant neoplasms (C00-C97),Cancer,Utah,3043,127.4
+
+2863,2013,Chronic lower respiratory diseases (J40-J47),CLRD,Alabama,3043,54.8
+

@@ -1,0 +1,8 @@
+2629,2013,Malignant neoplasms (C00-C97),Cancer,Rhode Island,2326,174.6
+
+9461,2000,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arizona,2326,46.3
+
+2629,2013,Malignant neoplasms (C00-C97),Cancer,Rhode Island,2326,174.6
+
+9461,2000,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arizona,2326,46.3
+

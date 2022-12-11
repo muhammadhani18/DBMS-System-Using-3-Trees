@@ -1,0 +1,12 @@
+2968,2016,Chronic lower respiratory diseases (J40-J47),CLRD,Connecticut,1425,30.5
+
+4252,2010,Diabetes mellitus (E10-E14),Diabetes,Missouri,1425,21.2
+
+6585,1999,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wisconsin,1425,24.6
+
+2968,2016,Chronic lower respiratory diseases (J40-J47),CLRD,Connecticut,1425,30.5
+
+4252,2010,Diabetes mellitus (E10-E14),Diabetes,Missouri,1425,21.2
+
+6585,1999,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wisconsin,1425,24.6
+

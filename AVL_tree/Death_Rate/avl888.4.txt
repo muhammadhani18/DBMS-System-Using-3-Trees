@@ -1,0 +1,4 @@
+700,2016,All Causes,All causes,Oklahoma,39276,888.4
+
+840,2002,All Causes,All causes,Texas,155524,888.4
+

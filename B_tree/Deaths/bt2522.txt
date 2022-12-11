@@ -1,0 +1,8 @@
+4953,2011,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Idaho,2522,155.9
+
+7577,2015,Cerebrovascular diseases (I60-I69),Stroke,Arizona,2522,30.7
+
+4953,2011,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Idaho,2522,155.9
+
+7577,2015,Cerebrovascular diseases (I60-I69),Stroke,Arizona,2522,30.7
+

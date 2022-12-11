@@ -1,0 +1,1584 @@
+4,2016,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arkansas,1604,51.8
+
+106,2016,All Causes,All causes,Arkansas,31756,893.2
+
+107,2015,All Causes,All causes,Arkansas,31617,901.8
+
+108,2014,All Causes,All causes,Arkansas,30467,883.7
+
+109,2013,All Causes,All causes,Arkansas,30437,893.8
+
+110,2012,All Causes,All causes,Arkansas,30117,897.5
+
+111,2011,All Causes,All causes,Arkansas,29653,895.3
+
+112,2010,All Causes,All causes,Arkansas,28916,892.7
+
+113,2009,All Causes,All causes,Arkansas,28673,896.4
+
+114,2008,All Causes,All causes,Arkansas,29322,927.3
+
+115,2007,All Causes,All causes,Arkansas,28191,906.2
+
+116,2006,All Causes,All causes,Arkansas,27901,909.5
+
+117,2005,All Causes,All causes,Arkansas,28055,931.5
+
+118,2004,All Causes,All causes,Arkansas,27528,927.4
+
+119,2003,All Causes,All causes,Arkansas,27918,948.2
+
+120,2002,All Causes,All causes,Arkansas,28513,975.2
+
+121,2001,All Causes,All causes,Arkansas,27759,955.4
+
+122,2000,All Causes,All causes,Arkansas,28217,977.1
+
+123,1999,All Causes,All causes,Arkansas,27925,975.3
+
+1042,2016,Alzheimer's disease (G30),Alzheimer's disease,Arkansas,1475,41.3
+
+1043,2015,Alzheimer's disease (G30),Alzheimer's disease,Arkansas,1457,41.5
+
+1044,2014,Alzheimer's disease (G30),Alzheimer's disease,Arkansas,1193,34.8
+
+1045,2013,Alzheimer's disease (G30),Alzheimer's disease,Arkansas,918,27.2
+
+1046,2012,Alzheimer's disease (G30),Alzheimer's disease,Arkansas,931,27.9
+
+1047,2011,Alzheimer's disease (G30),Alzheimer's disease,Arkansas,1002,30.4
+
+1048,2010,Alzheimer's disease (G30),Alzheimer's disease,Arkansas,955,29.6
+
+1049,2009,Alzheimer's disease (G30),Alzheimer's disease,Arkansas,885,27.8
+
+1050,2008,Alzheimer's disease (G30),Alzheimer's disease,Arkansas,893,28.4
+
+1051,2007,Alzheimer's disease (G30),Alzheimer's disease,Arkansas,824,26.5
+
+1052,2006,Alzheimer's disease (G30),Alzheimer's disease,Arkansas,783,25.5
+
+1053,2005,Alzheimer's disease (G30),Alzheimer's disease,Arkansas,686,22.8
+
+1054,2004,Alzheimer's disease (G30),Alzheimer's disease,Arkansas,622,20.9
+
+1055,2003,Alzheimer's disease (G30),Alzheimer's disease,Arkansas,552,18.6
+
+1056,2002,Alzheimer's disease (G30),Alzheimer's disease,Arkansas,551,18.6
+
+1057,2001,Alzheimer's disease (G30),Alzheimer's disease,Arkansas,452,15.3
+
+1058,2000,Alzheimer's disease (G30),Alzheimer's disease,Arkansas,430,14.6
+
+1059,1999,Alzheimer's disease (G30),Alzheimer's disease,Arkansas,434,14.8
+
+1978,2016,Malignant neoplasms (C00-C97),Cancer,Arkansas,6612,178.8
+
+1979,2015,Malignant neoplasms (C00-C97),Cancer,Arkansas,6727,185.4
+
+1980,2014,Malignant neoplasms (C00-C97),Cancer,Arkansas,6546,183.1
+
+1981,2013,Malignant neoplasms (C00-C97),Cancer,Arkansas,6688,190
+
+1982,2012,Malignant neoplasms (C00-C97),Cancer,Arkansas,6540,189.1
+
+1983,2011,Malignant neoplasms (C00-C97),Cancer,Arkansas,6497,191.1
+
+1984,2010,Malignant neoplasms (C00-C97),Cancer,Arkansas,6475,194.7
+
+1985,2009,Malignant neoplasms (C00-C97),Cancer,Arkansas,6513,198.3
+
+1986,2008,Malignant neoplasms (C00-C97),Cancer,Arkansas,6526,201.4
+
+1987,2007,Malignant neoplasms (C00-C97),Cancer,Arkansas,6388,201.3
+
+1988,2006,Malignant neoplasms (C00-C97),Cancer,Arkansas,6177,196.7
+
+1989,2005,Malignant neoplasms (C00-C97),Cancer,Arkansas,6361,207.7
+
+1990,2004,Malignant neoplasms (C00-C97),Cancer,Arkansas,6304,208.6
+
+1991,2003,Malignant neoplasms (C00-C97),Cancer,Arkansas,6119,205.1
+
+1992,2002,Malignant neoplasms (C00-C97),Cancer,Arkansas,6282,212.8
+
+1993,2001,Malignant neoplasms (C00-C97),Cancer,Arkansas,6092,208.8
+
+1994,2000,Malignant neoplasms (C00-C97),Cancer,Arkansas,6090,210.5
+
+1995,1999,Malignant neoplasms (C00-C97),Cancer,Arkansas,6137,214.1
+
+2914,2016,Chronic lower respiratory diseases (J40-J47),CLRD,Arkansas,2169,59.1
+
+2915,2015,Chronic lower respiratory diseases (J40-J47),CLRD,Arkansas,2270,62.4
+
+2916,2014,Chronic lower respiratory diseases (J40-J47),CLRD,Arkansas,2092,58.9
+
+2917,2013,Chronic lower respiratory diseases (J40-J47),CLRD,Arkansas,2090,60.1
+
+2918,2012,Chronic lower respiratory diseases (J40-J47),CLRD,Arkansas,1910,55.8
+
+2919,2011,Chronic lower respiratory diseases (J40-J47),CLRD,Arkansas,1985,58.9
+
+2920,2010,Chronic lower respiratory diseases (J40-J47),CLRD,Arkansas,1773,53.5
+
+2921,2009,Chronic lower respiratory diseases (J40-J47),CLRD,Arkansas,1831,56.2
+
+2922,2008,Chronic lower respiratory diseases (J40-J47),CLRD,Arkansas,1887,58.7
+
+2923,2007,Chronic lower respiratory diseases (J40-J47),CLRD,Arkansas,1656,52.6
+
+2924,2006,Chronic lower respiratory diseases (J40-J47),CLRD,Arkansas,1498,48.1
+
+2925,2005,Chronic lower respiratory diseases (J40-J47),CLRD,Arkansas,1559,51.1
+
+2926,2004,Chronic lower respiratory diseases (J40-J47),CLRD,Arkansas,1428,47.4
+
+2927,2003,Chronic lower respiratory diseases (J40-J47),CLRD,Arkansas,1500,50.1
+
+2928,2002,Chronic lower respiratory diseases (J40-J47),CLRD,Arkansas,1441,48.5
+
+2929,2001,Chronic lower respiratory diseases (J40-J47),CLRD,Arkansas,1368,46.5
+
+2930,2000,Chronic lower respiratory diseases (J40-J47),CLRD,Arkansas,1405,48
+
+2931,1999,Chronic lower respiratory diseases (J40-J47),CLRD,Arkansas,1358,46.8
+
+3850,2016,Diabetes mellitus (E10-E14),Diabetes,Arkansas,920,25.4
+
+3851,2015,Diabetes mellitus (E10-E14),Diabetes,Arkansas,886,24.7
+
+3852,2014,Diabetes mellitus (E10-E14),Diabetes,Arkansas,828,24
+
+3853,2013,Diabetes mellitus (E10-E14),Diabetes,Arkansas,835,24.2
+
+3854,2012,Diabetes mellitus (E10-E14),Diabetes,Arkansas,833,24.6
+
+3855,2011,Diabetes mellitus (E10-E14),Diabetes,Arkansas,908,27
+
+3856,2010,Diabetes mellitus (E10-E14),Diabetes,Arkansas,850,25.8
+
+3857,2009,Diabetes mellitus (E10-E14),Diabetes,Arkansas,890,27.4
+
+3858,2008,Diabetes mellitus (E10-E14),Diabetes,Arkansas,901,28.1
+
+3859,2007,Diabetes mellitus (E10-E14),Diabetes,Arkansas,838,26.8
+
+3860,2006,Diabetes mellitus (E10-E14),Diabetes,Arkansas,839,27.2
+
+3861,2005,Diabetes mellitus (E10-E14),Diabetes,Arkansas,824,27.1
+
+3862,2004,Diabetes mellitus (E10-E14),Diabetes,Arkansas,838,28
+
+3863,2003,Diabetes mellitus (E10-E14),Diabetes,Arkansas,884,29.9
+
+3864,2002,Diabetes mellitus (E10-E14),Diabetes,Arkansas,793,27
+
+3865,2001,Diabetes mellitus (E10-E14),Diabetes,Arkansas,756,26
+
+3866,2000,Diabetes mellitus (E10-E14),Diabetes,Arkansas,714,24.6
+
+3867,1999,Diabetes mellitus (E10-E14),Diabetes,Arkansas,691,24.2
+
+4786,2016,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Arkansas,8090,223.7
+
+4787,2015,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Arkansas,7938,223.2
+
+4788,2014,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Arkansas,7581,217.5
+
+4789,2013,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Arkansas,7377,214.1
+
+4790,2012,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Arkansas,7407,218.6
+
+4791,2011,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Arkansas,7168,213.8
+
+4792,2010,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Arkansas,7274,222.5
+
+4793,2009,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Arkansas,7295,226.1
+
+4794,2008,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Arkansas,7516,236.1
+
+4795,2007,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Arkansas,7214,230.1
+
+4796,2006,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Arkansas,7431,240.5
+
+4797,2005,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Arkansas,7575,250.3
+
+4798,2004,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Arkansas,7534,252.1
+
+4799,2003,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Arkansas,7786,262.5
+
+4800,2002,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Arkansas,8330,282.8
+
+4801,2001,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Arkansas,8263,281.8
+
+4802,2000,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Arkansas,8278,283.8
+
+4803,1999,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Arkansas,8315,287.8
+
+5722,2016,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arkansas,623,17.1
+
+5723,2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arkansas,700,20
+
+5724,2014,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arkansas,710,20.7
+
+5725,2013,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arkansas,794,23.3
+
+5726,2012,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arkansas,734,21.9
+
+5727,2011,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arkansas,727,21.8
+
+5728,2010,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arkansas,647,19.9
+
+5729,2009,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arkansas,705,22.1
+
+5730,2008,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arkansas,846,26.8
+
+5731,2007,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arkansas,734,23.5
+
+5732,2006,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arkansas,772,25.1
+
+5733,2005,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arkansas,886,29.4
+
+5734,2004,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arkansas,759,25.5
+
+5735,2003,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arkansas,921,31.1
+
+5736,2002,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arkansas,776,26.4
+
+5737,2001,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arkansas,735,25.1
+
+5738,2000,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arkansas,798,27.2
+
+5739,1999,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arkansas,741,25.5
+
+6658,2016,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arkansas,722,20
+
+6659,2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arkansas,707,19.8
+
+6660,2014,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arkansas,672,19.2
+
+6661,2013,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arkansas,762,22
+
+6662,2012,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arkansas,674,19.8
+
+6663,2011,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arkansas,787,23.6
+
+6664,2010,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arkansas,737,22.8
+
+6665,2009,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arkansas,680,21.1
+
+6666,2008,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arkansas,638,20.1
+
+6667,2007,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arkansas,666,21.5
+
+6668,2006,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arkansas,616,20
+
+6669,2005,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arkansas,624,20.6
+
+6670,2004,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arkansas,562,18.8
+
+6671,2003,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arkansas,526,17.8
+
+6672,2002,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arkansas,601,20.4
+
+6673,2001,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arkansas,521,17.7
+
+6674,2000,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arkansas,500,17.3
+
+6675,1999,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arkansas,458,15.9
+
+7594,2016,Cerebrovascular diseases (I60-I69),Stroke,Arkansas,1643,45.6
+
+7595,2015,Cerebrovascular diseases (I60-I69),Stroke,Arkansas,1653,46.8
+
+7596,2014,Cerebrovascular diseases (I60-I69),Stroke,Arkansas,1583,45.4
+
+7597,2013,Cerebrovascular diseases (I60-I69),Stroke,Arkansas,1637,47.6
+
+7598,2012,Cerebrovascular diseases (I60-I69),Stroke,Arkansas,1664,49.1
+
+7599,2011,Cerebrovascular diseases (I60-I69),Stroke,Arkansas,1692,50.6
+
+7600,2010,Cerebrovascular diseases (I60-I69),Stroke,Arkansas,1741,53.8
+
+7601,2009,Cerebrovascular diseases (I60-I69),Stroke,Arkansas,1694,52.9
+
+7602,2008,Cerebrovascular diseases (I60-I69),Stroke,Arkansas,1722,54.4
+
+7603,2007,Cerebrovascular diseases (I60-I69),Stroke,Arkansas,1873,60.1
+
+7604,2006,Cerebrovascular diseases (I60-I69),Stroke,Arkansas,1884,61.2
+
+7605,2005,Cerebrovascular diseases (I60-I69),Stroke,Arkansas,1847,61.2
+
+7606,2004,Cerebrovascular diseases (I60-I69),Stroke,Arkansas,1948,65.3
+
+7607,2003,Cerebrovascular diseases (I60-I69),Stroke,Arkansas,2107,71.1
+
+7608,2002,Cerebrovascular diseases (I60-I69),Stroke,Arkansas,2232,75.7
+
+7609,2001,Cerebrovascular diseases (I60-I69),Stroke,Arkansas,2256,76.8
+
+7610,2000,Cerebrovascular diseases (I60-I69),Stroke,Arkansas,2255,77.2
+
+7611,1999,Cerebrovascular diseases (I60-I69),Stroke,Arkansas,2255,77.7
+
+8530,2016,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arkansas,555,18.2
+
+8531,2015,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arkansas,577,19.1
+
+8532,2014,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arkansas,515,17.3
+
+8533,2013,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arkansas,516,17.3
+
+8534,2012,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arkansas,485,16.3
+
+8535,2011,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arkansas,462,16
+
+8536,2010,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arkansas,447,15.5
+
+8537,2009,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arkansas,422,14.5
+
+8538,2008,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arkansas,447,15.5
+
+8539,2007,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arkansas,402,14.2
+
+8540,2006,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arkansas,376,13.3
+
+8541,2005,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arkansas,400,14.3
+
+8542,2004,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arkansas,361,13
+
+8543,2003,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arkansas,374,13.6
+
+8544,2002,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arkansas,377,14
+
+8545,2001,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arkansas,382,14.3
+
+8546,2000,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arkansas,349,13
+
+8547,1999,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arkansas,336,12.6
+
+9463,2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arkansas,1538,49.6
+
+9464,2014,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arkansas,1458,47.4
+
+9465,2013,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arkansas,1373,44.8
+
+9466,2012,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arkansas,1521,50
+
+9467,2011,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arkansas,1510,50.2
+
+9468,2010,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arkansas,1461,49.4
+
+9469,2009,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arkansas,1473,50.2
+
+9470,2008,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arkansas,1477,50.6
+
+9471,2007,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arkansas,1391,47.8
+
+9472,2006,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arkansas,1415,49.4
+
+9473,2005,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arkansas,1329,47
+
+9474,2004,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arkansas,1406,50.6
+
+9475,2003,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arkansas,1304,46.9
+
+9476,2002,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arkansas,1311,47.6
+
+9477,2001,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arkansas,1277,46.5
+
+9478,2000,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arkansas,1267,46.5
+
+9479,1999,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arkansas,1287,47.6
+
+4,2016,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arkansas,1604,51.8
+
+106,2016,All Causes,All causes,Arkansas,31756,893.2
+
+107,2015,All Causes,All causes,Arkansas,31617,901.8
+
+108,2014,All Causes,All causes,Arkansas,30467,883.7
+
+109,2013,All Causes,All causes,Arkansas,30437,893.8
+
+110,2012,All Causes,All causes,Arkansas,30117,897.5
+
+111,2011,All Causes,All causes,Arkansas,29653,895.3
+
+112,2010,All Causes,All causes,Arkansas,28916,892.7
+
+113,2009,All Causes,All causes,Arkansas,28673,896.4
+
+114,2008,All Causes,All causes,Arkansas,29322,927.3
+
+115,2007,All Causes,All causes,Arkansas,28191,906.2
+
+116,2006,All Causes,All causes,Arkansas,27901,909.5
+
+117,2005,All Causes,All causes,Arkansas,28055,931.5
+
+118,2004,All Causes,All causes,Arkansas,27528,927.4
+
+119,2003,All Causes,All causes,Arkansas,27918,948.2
+
+120,2002,All Causes,All causes,Arkansas,28513,975.2
+
+121,2001,All Causes,All causes,Arkansas,27759,955.4
+
+122,2000,All Causes,All causes,Arkansas,28217,977.1
+
+123,1999,All Causes,All causes,Arkansas,27925,975.3
+
+1042,2016,Alzheimer's disease (G30),Alzheimer's disease,Arkansas,1475,41.3
+
+1043,2015,Alzheimer's disease (G30),Alzheimer's disease,Arkansas,1457,41.5
+
+1044,2014,Alzheimer's disease (G30),Alzheimer's disease,Arkansas,1193,34.8
+
+1045,2013,Alzheimer's disease (G30),Alzheimer's disease,Arkansas,918,27.2
+
+1046,2012,Alzheimer's disease (G30),Alzheimer's disease,Arkansas,931,27.9
+
+1047,2011,Alzheimer's disease (G30),Alzheimer's disease,Arkansas,1002,30.4
+
+1048,2010,Alzheimer's disease (G30),Alzheimer's disease,Arkansas,955,29.6
+
+1049,2009,Alzheimer's disease (G30),Alzheimer's disease,Arkansas,885,27.8
+
+1050,2008,Alzheimer's disease (G30),Alzheimer's disease,Arkansas,893,28.4
+
+1051,2007,Alzheimer's disease (G30),Alzheimer's disease,Arkansas,824,26.5
+
+1052,2006,Alzheimer's disease (G30),Alzheimer's disease,Arkansas,783,25.5
+
+1053,2005,Alzheimer's disease (G30),Alzheimer's disease,Arkansas,686,22.8
+
+1054,2004,Alzheimer's disease (G30),Alzheimer's disease,Arkansas,622,20.9
+
+1055,2003,Alzheimer's disease (G30),Alzheimer's disease,Arkansas,552,18.6
+
+1056,2002,Alzheimer's disease (G30),Alzheimer's disease,Arkansas,551,18.6
+
+1057,2001,Alzheimer's disease (G30),Alzheimer's disease,Arkansas,452,15.3
+
+1058,2000,Alzheimer's disease (G30),Alzheimer's disease,Arkansas,430,14.6
+
+1059,1999,Alzheimer's disease (G30),Alzheimer's disease,Arkansas,434,14.8
+
+1978,2016,Malignant neoplasms (C00-C97),Cancer,Arkansas,6612,178.8
+
+1979,2015,Malignant neoplasms (C00-C97),Cancer,Arkansas,6727,185.4
+
+1980,2014,Malignant neoplasms (C00-C97),Cancer,Arkansas,6546,183.1
+
+1981,2013,Malignant neoplasms (C00-C97),Cancer,Arkansas,6688,190
+
+1982,2012,Malignant neoplasms (C00-C97),Cancer,Arkansas,6540,189.1
+
+1983,2011,Malignant neoplasms (C00-C97),Cancer,Arkansas,6497,191.1
+
+1984,2010,Malignant neoplasms (C00-C97),Cancer,Arkansas,6475,194.7
+
+1985,2009,Malignant neoplasms (C00-C97),Cancer,Arkansas,6513,198.3
+
+1986,2008,Malignant neoplasms (C00-C97),Cancer,Arkansas,6526,201.4
+
+1987,2007,Malignant neoplasms (C00-C97),Cancer,Arkansas,6388,201.3
+
+1988,2006,Malignant neoplasms (C00-C97),Cancer,Arkansas,6177,196.7
+
+1989,2005,Malignant neoplasms (C00-C97),Cancer,Arkansas,6361,207.7
+
+1990,2004,Malignant neoplasms (C00-C97),Cancer,Arkansas,6304,208.6
+
+1991,2003,Malignant neoplasms (C00-C97),Cancer,Arkansas,6119,205.1
+
+1992,2002,Malignant neoplasms (C00-C97),Cancer,Arkansas,6282,212.8
+
+1993,2001,Malignant neoplasms (C00-C97),Cancer,Arkansas,6092,208.8
+
+1994,2000,Malignant neoplasms (C00-C97),Cancer,Arkansas,6090,210.5
+
+1995,1999,Malignant neoplasms (C00-C97),Cancer,Arkansas,6137,214.1
+
+2914,2016,Chronic lower respiratory diseases (J40-J47),CLRD,Arkansas,2169,59.1
+
+2915,2015,Chronic lower respiratory diseases (J40-J47),CLRD,Arkansas,2270,62.4
+
+2916,2014,Chronic lower respiratory diseases (J40-J47),CLRD,Arkansas,2092,58.9
+
+2917,2013,Chronic lower respiratory diseases (J40-J47),CLRD,Arkansas,2090,60.1
+
+2918,2012,Chronic lower respiratory diseases (J40-J47),CLRD,Arkansas,1910,55.8
+
+2919,2011,Chronic lower respiratory diseases (J40-J47),CLRD,Arkansas,1985,58.9
+
+2920,2010,Chronic lower respiratory diseases (J40-J47),CLRD,Arkansas,1773,53.5
+
+2921,2009,Chronic lower respiratory diseases (J40-J47),CLRD,Arkansas,1831,56.2
+
+2922,2008,Chronic lower respiratory diseases (J40-J47),CLRD,Arkansas,1887,58.7
+
+2923,2007,Chronic lower respiratory diseases (J40-J47),CLRD,Arkansas,1656,52.6
+
+2924,2006,Chronic lower respiratory diseases (J40-J47),CLRD,Arkansas,1498,48.1
+
+2925,2005,Chronic lower respiratory diseases (J40-J47),CLRD,Arkansas,1559,51.1
+
+2926,2004,Chronic lower respiratory diseases (J40-J47),CLRD,Arkansas,1428,47.4
+
+2927,2003,Chronic lower respiratory diseases (J40-J47),CLRD,Arkansas,1500,50.1
+
+2928,2002,Chronic lower respiratory diseases (J40-J47),CLRD,Arkansas,1441,48.5
+
+2929,2001,Chronic lower respiratory diseases (J40-J47),CLRD,Arkansas,1368,46.5
+
+2930,2000,Chronic lower respiratory diseases (J40-J47),CLRD,Arkansas,1405,48
+
+2931,1999,Chronic lower respiratory diseases (J40-J47),CLRD,Arkansas,1358,46.8
+
+3850,2016,Diabetes mellitus (E10-E14),Diabetes,Arkansas,920,25.4
+
+3851,2015,Diabetes mellitus (E10-E14),Diabetes,Arkansas,886,24.7
+
+3852,2014,Diabetes mellitus (E10-E14),Diabetes,Arkansas,828,24
+
+3853,2013,Diabetes mellitus (E10-E14),Diabetes,Arkansas,835,24.2
+
+3854,2012,Diabetes mellitus (E10-E14),Diabetes,Arkansas,833,24.6
+
+3855,2011,Diabetes mellitus (E10-E14),Diabetes,Arkansas,908,27
+
+3856,2010,Diabetes mellitus (E10-E14),Diabetes,Arkansas,850,25.8
+
+3857,2009,Diabetes mellitus (E10-E14),Diabetes,Arkansas,890,27.4
+
+3858,2008,Diabetes mellitus (E10-E14),Diabetes,Arkansas,901,28.1
+
+3859,2007,Diabetes mellitus (E10-E14),Diabetes,Arkansas,838,26.8
+
+3860,2006,Diabetes mellitus (E10-E14),Diabetes,Arkansas,839,27.2
+
+3861,2005,Diabetes mellitus (E10-E14),Diabetes,Arkansas,824,27.1
+
+3862,2004,Diabetes mellitus (E10-E14),Diabetes,Arkansas,838,28
+
+3863,2003,Diabetes mellitus (E10-E14),Diabetes,Arkansas,884,29.9
+
+3864,2002,Diabetes mellitus (E10-E14),Diabetes,Arkansas,793,27
+
+3865,2001,Diabetes mellitus (E10-E14),Diabetes,Arkansas,756,26
+
+3866,2000,Diabetes mellitus (E10-E14),Diabetes,Arkansas,714,24.6
+
+3867,1999,Diabetes mellitus (E10-E14),Diabetes,Arkansas,691,24.2
+
+4786,2016,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Arkansas,8090,223.7
+
+4787,2015,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Arkansas,7938,223.2
+
+4788,2014,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Arkansas,7581,217.5
+
+4789,2013,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Arkansas,7377,214.1
+
+4790,2012,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Arkansas,7407,218.6
+
+4791,2011,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Arkansas,7168,213.8
+
+4792,2010,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Arkansas,7274,222.5
+
+4793,2009,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Arkansas,7295,226.1
+
+4794,2008,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Arkansas,7516,236.1
+
+4795,2007,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Arkansas,7214,230.1
+
+4796,2006,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Arkansas,7431,240.5
+
+4797,2005,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Arkansas,7575,250.3
+
+4798,2004,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Arkansas,7534,252.1
+
+4799,2003,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Arkansas,7786,262.5
+
+4800,2002,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Arkansas,8330,282.8
+
+4801,2001,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Arkansas,8263,281.8
+
+4802,2000,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Arkansas,8278,283.8
+
+4803,1999,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Arkansas,8315,287.8
+
+5722,2016,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arkansas,623,17.1
+
+5723,2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arkansas,700,20
+
+5724,2014,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arkansas,710,20.7
+
+5725,2013,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arkansas,794,23.3
+
+5726,2012,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arkansas,734,21.9
+
+5727,2011,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arkansas,727,21.8
+
+5728,2010,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arkansas,647,19.9
+
+5729,2009,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arkansas,705,22.1
+
+5730,2008,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arkansas,846,26.8
+
+5731,2007,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arkansas,734,23.5
+
+5732,2006,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arkansas,772,25.1
+
+5733,2005,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arkansas,886,29.4
+
+5734,2004,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arkansas,759,25.5
+
+5735,2003,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arkansas,921,31.1
+
+5736,2002,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arkansas,776,26.4
+
+5737,2001,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arkansas,735,25.1
+
+5738,2000,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arkansas,798,27.2
+
+5739,1999,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arkansas,741,25.5
+
+6658,2016,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arkansas,722,20
+
+6659,2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arkansas,707,19.8
+
+6660,2014,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arkansas,672,19.2
+
+6661,2013,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arkansas,762,22
+
+6662,2012,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arkansas,674,19.8
+
+6663,2011,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arkansas,787,23.6
+
+6664,2010,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arkansas,737,22.8
+
+6665,2009,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arkansas,680,21.1
+
+6666,2008,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arkansas,638,20.1
+
+6667,2007,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arkansas,666,21.5
+
+6668,2006,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arkansas,616,20
+
+6669,2005,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arkansas,624,20.6
+
+6670,2004,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arkansas,562,18.8
+
+6671,2003,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arkansas,526,17.8
+
+6672,2002,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arkansas,601,20.4
+
+6673,2001,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arkansas,521,17.7
+
+6674,2000,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arkansas,500,17.3
+
+6675,1999,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arkansas,458,15.9
+
+7594,2016,Cerebrovascular diseases (I60-I69),Stroke,Arkansas,1643,45.6
+
+7595,2015,Cerebrovascular diseases (I60-I69),Stroke,Arkansas,1653,46.8
+
+7596,2014,Cerebrovascular diseases (I60-I69),Stroke,Arkansas,1583,45.4
+
+7597,2013,Cerebrovascular diseases (I60-I69),Stroke,Arkansas,1637,47.6
+
+7598,2012,Cerebrovascular diseases (I60-I69),Stroke,Arkansas,1664,49.1
+
+7599,2011,Cerebrovascular diseases (I60-I69),Stroke,Arkansas,1692,50.6
+
+7600,2010,Cerebrovascular diseases (I60-I69),Stroke,Arkansas,1741,53.8
+
+7601,2009,Cerebrovascular diseases (I60-I69),Stroke,Arkansas,1694,52.9
+
+7602,2008,Cerebrovascular diseases (I60-I69),Stroke,Arkansas,1722,54.4
+
+7603,2007,Cerebrovascular diseases (I60-I69),Stroke,Arkansas,1873,60.1
+
+7604,2006,Cerebrovascular diseases (I60-I69),Stroke,Arkansas,1884,61.2
+
+7605,2005,Cerebrovascular diseases (I60-I69),Stroke,Arkansas,1847,61.2
+
+7606,2004,Cerebrovascular diseases (I60-I69),Stroke,Arkansas,1948,65.3
+
+7607,2003,Cerebrovascular diseases (I60-I69),Stroke,Arkansas,2107,71.1
+
+7608,2002,Cerebrovascular diseases (I60-I69),Stroke,Arkansas,2232,75.7
+
+7609,2001,Cerebrovascular diseases (I60-I69),Stroke,Arkansas,2256,76.8
+
+7610,2000,Cerebrovascular diseases (I60-I69),Stroke,Arkansas,2255,77.2
+
+7611,1999,Cerebrovascular diseases (I60-I69),Stroke,Arkansas,2255,77.7
+
+8530,2016,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arkansas,555,18.2
+
+8531,2015,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arkansas,577,19.1
+
+8532,2014,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arkansas,515,17.3
+
+8533,2013,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arkansas,516,17.3
+
+8534,2012,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arkansas,485,16.3
+
+8535,2011,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arkansas,462,16
+
+8536,2010,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arkansas,447,15.5
+
+8537,2009,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arkansas,422,14.5
+
+8538,2008,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arkansas,447,15.5
+
+8539,2007,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arkansas,402,14.2
+
+8540,2006,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arkansas,376,13.3
+
+8541,2005,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arkansas,400,14.3
+
+8542,2004,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arkansas,361,13
+
+8543,2003,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arkansas,374,13.6
+
+8544,2002,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arkansas,377,14
+
+8545,2001,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arkansas,382,14.3
+
+8546,2000,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arkansas,349,13
+
+8547,1999,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arkansas,336,12.6
+
+9463,2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arkansas,1538,49.6
+
+9464,2014,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arkansas,1458,47.4
+
+9465,2013,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arkansas,1373,44.8
+
+9466,2012,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arkansas,1521,50
+
+9467,2011,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arkansas,1510,50.2
+
+9468,2010,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arkansas,1461,49.4
+
+9469,2009,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arkansas,1473,50.2
+
+9470,2008,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arkansas,1477,50.6
+
+9471,2007,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arkansas,1391,47.8
+
+9472,2006,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arkansas,1415,49.4
+
+9473,2005,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arkansas,1329,47
+
+9474,2004,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arkansas,1406,50.6
+
+9475,2003,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arkansas,1304,46.9
+
+9476,2002,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arkansas,1311,47.6
+
+9477,2001,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arkansas,1277,46.5
+
+9478,2000,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arkansas,1267,46.5
+
+9479,1999,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arkansas,1287,47.6
+
+4,2016,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arkansas,1604,51.8
+
+106,2016,All Causes,All causes,Arkansas,31756,893.2
+
+107,2015,All Causes,All causes,Arkansas,31617,901.8
+
+108,2014,All Causes,All causes,Arkansas,30467,883.7
+
+109,2013,All Causes,All causes,Arkansas,30437,893.8
+
+110,2012,All Causes,All causes,Arkansas,30117,897.5
+
+111,2011,All Causes,All causes,Arkansas,29653,895.3
+
+112,2010,All Causes,All causes,Arkansas,28916,892.7
+
+113,2009,All Causes,All causes,Arkansas,28673,896.4
+
+114,2008,All Causes,All causes,Arkansas,29322,927.3
+
+115,2007,All Causes,All causes,Arkansas,28191,906.2
+
+116,2006,All Causes,All causes,Arkansas,27901,909.5
+
+117,2005,All Causes,All causes,Arkansas,28055,931.5
+
+118,2004,All Causes,All causes,Arkansas,27528,927.4
+
+119,2003,All Causes,All causes,Arkansas,27918,948.2
+
+120,2002,All Causes,All causes,Arkansas,28513,975.2
+
+121,2001,All Causes,All causes,Arkansas,27759,955.4
+
+122,2000,All Causes,All causes,Arkansas,28217,977.1
+
+123,1999,All Causes,All causes,Arkansas,27925,975.3
+
+1042,2016,Alzheimer's disease (G30),Alzheimer's disease,Arkansas,1475,41.3
+
+1043,2015,Alzheimer's disease (G30),Alzheimer's disease,Arkansas,1457,41.5
+
+1044,2014,Alzheimer's disease (G30),Alzheimer's disease,Arkansas,1193,34.8
+
+1045,2013,Alzheimer's disease (G30),Alzheimer's disease,Arkansas,918,27.2
+
+1046,2012,Alzheimer's disease (G30),Alzheimer's disease,Arkansas,931,27.9
+
+1047,2011,Alzheimer's disease (G30),Alzheimer's disease,Arkansas,1002,30.4
+
+1048,2010,Alzheimer's disease (G30),Alzheimer's disease,Arkansas,955,29.6
+
+1049,2009,Alzheimer's disease (G30),Alzheimer's disease,Arkansas,885,27.8
+
+1050,2008,Alzheimer's disease (G30),Alzheimer's disease,Arkansas,893,28.4
+
+1051,2007,Alzheimer's disease (G30),Alzheimer's disease,Arkansas,824,26.5
+
+1052,2006,Alzheimer's disease (G30),Alzheimer's disease,Arkansas,783,25.5
+
+1053,2005,Alzheimer's disease (G30),Alzheimer's disease,Arkansas,686,22.8
+
+1054,2004,Alzheimer's disease (G30),Alzheimer's disease,Arkansas,622,20.9
+
+1055,2003,Alzheimer's disease (G30),Alzheimer's disease,Arkansas,552,18.6
+
+1056,2002,Alzheimer's disease (G30),Alzheimer's disease,Arkansas,551,18.6
+
+1057,2001,Alzheimer's disease (G30),Alzheimer's disease,Arkansas,452,15.3
+
+1058,2000,Alzheimer's disease (G30),Alzheimer's disease,Arkansas,430,14.6
+
+1059,1999,Alzheimer's disease (G30),Alzheimer's disease,Arkansas,434,14.8
+
+1978,2016,Malignant neoplasms (C00-C97),Cancer,Arkansas,6612,178.8
+
+1979,2015,Malignant neoplasms (C00-C97),Cancer,Arkansas,6727,185.4
+
+1980,2014,Malignant neoplasms (C00-C97),Cancer,Arkansas,6546,183.1
+
+1981,2013,Malignant neoplasms (C00-C97),Cancer,Arkansas,6688,190
+
+1982,2012,Malignant neoplasms (C00-C97),Cancer,Arkansas,6540,189.1
+
+1983,2011,Malignant neoplasms (C00-C97),Cancer,Arkansas,6497,191.1
+
+1984,2010,Malignant neoplasms (C00-C97),Cancer,Arkansas,6475,194.7
+
+1985,2009,Malignant neoplasms (C00-C97),Cancer,Arkansas,6513,198.3
+
+1986,2008,Malignant neoplasms (C00-C97),Cancer,Arkansas,6526,201.4
+
+1987,2007,Malignant neoplasms (C00-C97),Cancer,Arkansas,6388,201.3
+
+1988,2006,Malignant neoplasms (C00-C97),Cancer,Arkansas,6177,196.7
+
+1989,2005,Malignant neoplasms (C00-C97),Cancer,Arkansas,6361,207.7
+
+1990,2004,Malignant neoplasms (C00-C97),Cancer,Arkansas,6304,208.6
+
+1991,2003,Malignant neoplasms (C00-C97),Cancer,Arkansas,6119,205.1
+
+1992,2002,Malignant neoplasms (C00-C97),Cancer,Arkansas,6282,212.8
+
+1993,2001,Malignant neoplasms (C00-C97),Cancer,Arkansas,6092,208.8
+
+1994,2000,Malignant neoplasms (C00-C97),Cancer,Arkansas,6090,210.5
+
+1995,1999,Malignant neoplasms (C00-C97),Cancer,Arkansas,6137,214.1
+
+2914,2016,Chronic lower respiratory diseases (J40-J47),CLRD,Arkansas,2169,59.1
+
+2915,2015,Chronic lower respiratory diseases (J40-J47),CLRD,Arkansas,2270,62.4
+
+2916,2014,Chronic lower respiratory diseases (J40-J47),CLRD,Arkansas,2092,58.9
+
+2917,2013,Chronic lower respiratory diseases (J40-J47),CLRD,Arkansas,2090,60.1
+
+2918,2012,Chronic lower respiratory diseases (J40-J47),CLRD,Arkansas,1910,55.8
+
+2919,2011,Chronic lower respiratory diseases (J40-J47),CLRD,Arkansas,1985,58.9
+
+2920,2010,Chronic lower respiratory diseases (J40-J47),CLRD,Arkansas,1773,53.5
+
+2921,2009,Chronic lower respiratory diseases (J40-J47),CLRD,Arkansas,1831,56.2
+
+2922,2008,Chronic lower respiratory diseases (J40-J47),CLRD,Arkansas,1887,58.7
+
+2923,2007,Chronic lower respiratory diseases (J40-J47),CLRD,Arkansas,1656,52.6
+
+2924,2006,Chronic lower respiratory diseases (J40-J47),CLRD,Arkansas,1498,48.1
+
+2925,2005,Chronic lower respiratory diseases (J40-J47),CLRD,Arkansas,1559,51.1
+
+2926,2004,Chronic lower respiratory diseases (J40-J47),CLRD,Arkansas,1428,47.4
+
+2927,2003,Chronic lower respiratory diseases (J40-J47),CLRD,Arkansas,1500,50.1
+
+2928,2002,Chronic lower respiratory diseases (J40-J47),CLRD,Arkansas,1441,48.5
+
+2929,2001,Chronic lower respiratory diseases (J40-J47),CLRD,Arkansas,1368,46.5
+
+2930,2000,Chronic lower respiratory diseases (J40-J47),CLRD,Arkansas,1405,48
+
+2931,1999,Chronic lower respiratory diseases (J40-J47),CLRD,Arkansas,1358,46.8
+
+3850,2016,Diabetes mellitus (E10-E14),Diabetes,Arkansas,920,25.4
+
+3851,2015,Diabetes mellitus (E10-E14),Diabetes,Arkansas,886,24.7
+
+3852,2014,Diabetes mellitus (E10-E14),Diabetes,Arkansas,828,24
+
+3853,2013,Diabetes mellitus (E10-E14),Diabetes,Arkansas,835,24.2
+
+3854,2012,Diabetes mellitus (E10-E14),Diabetes,Arkansas,833,24.6
+
+3855,2011,Diabetes mellitus (E10-E14),Diabetes,Arkansas,908,27
+
+3856,2010,Diabetes mellitus (E10-E14),Diabetes,Arkansas,850,25.8
+
+3857,2009,Diabetes mellitus (E10-E14),Diabetes,Arkansas,890,27.4
+
+3858,2008,Diabetes mellitus (E10-E14),Diabetes,Arkansas,901,28.1
+
+3859,2007,Diabetes mellitus (E10-E14),Diabetes,Arkansas,838,26.8
+
+3860,2006,Diabetes mellitus (E10-E14),Diabetes,Arkansas,839,27.2
+
+3861,2005,Diabetes mellitus (E10-E14),Diabetes,Arkansas,824,27.1
+
+3862,2004,Diabetes mellitus (E10-E14),Diabetes,Arkansas,838,28
+
+3863,2003,Diabetes mellitus (E10-E14),Diabetes,Arkansas,884,29.9
+
+3864,2002,Diabetes mellitus (E10-E14),Diabetes,Arkansas,793,27
+
+3865,2001,Diabetes mellitus (E10-E14),Diabetes,Arkansas,756,26
+
+3866,2000,Diabetes mellitus (E10-E14),Diabetes,Arkansas,714,24.6
+
+3867,1999,Diabetes mellitus (E10-E14),Diabetes,Arkansas,691,24.2
+
+4786,2016,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Arkansas,8090,223.7
+
+4787,2015,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Arkansas,7938,223.2
+
+4788,2014,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Arkansas,7581,217.5
+
+4789,2013,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Arkansas,7377,214.1
+
+4790,2012,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Arkansas,7407,218.6
+
+4791,2011,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Arkansas,7168,213.8
+
+4792,2010,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Arkansas,7274,222.5
+
+4793,2009,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Arkansas,7295,226.1
+
+4794,2008,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Arkansas,7516,236.1
+
+4795,2007,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Arkansas,7214,230.1
+
+4796,2006,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Arkansas,7431,240.5
+
+4797,2005,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Arkansas,7575,250.3
+
+4798,2004,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Arkansas,7534,252.1
+
+4799,2003,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Arkansas,7786,262.5
+
+4800,2002,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Arkansas,8330,282.8
+
+4801,2001,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Arkansas,8263,281.8
+
+4802,2000,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Arkansas,8278,283.8
+
+4803,1999,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Arkansas,8315,287.8
+
+5722,2016,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arkansas,623,17.1
+
+5723,2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arkansas,700,20
+
+5724,2014,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arkansas,710,20.7
+
+5725,2013,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arkansas,794,23.3
+
+5726,2012,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arkansas,734,21.9
+
+5727,2011,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arkansas,727,21.8
+
+5728,2010,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arkansas,647,19.9
+
+5729,2009,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arkansas,705,22.1
+
+5730,2008,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arkansas,846,26.8
+
+5731,2007,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arkansas,734,23.5
+
+5732,2006,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arkansas,772,25.1
+
+5733,2005,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arkansas,886,29.4
+
+5734,2004,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arkansas,759,25.5
+
+5735,2003,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arkansas,921,31.1
+
+5736,2002,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arkansas,776,26.4
+
+5737,2001,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arkansas,735,25.1
+
+5738,2000,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arkansas,798,27.2
+
+5739,1999,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arkansas,741,25.5
+
+6658,2016,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arkansas,722,20
+
+6659,2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arkansas,707,19.8
+
+6660,2014,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arkansas,672,19.2
+
+6661,2013,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arkansas,762,22
+
+6662,2012,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arkansas,674,19.8
+
+6663,2011,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arkansas,787,23.6
+
+6664,2010,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arkansas,737,22.8
+
+6665,2009,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arkansas,680,21.1
+
+6666,2008,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arkansas,638,20.1
+
+6667,2007,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arkansas,666,21.5
+
+6668,2006,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arkansas,616,20
+
+6669,2005,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arkansas,624,20.6
+
+6670,2004,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arkansas,562,18.8
+
+6671,2003,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arkansas,526,17.8
+
+6672,2002,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arkansas,601,20.4
+
+6673,2001,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arkansas,521,17.7
+
+6674,2000,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arkansas,500,17.3
+
+6675,1999,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arkansas,458,15.9
+
+7594,2016,Cerebrovascular diseases (I60-I69),Stroke,Arkansas,1643,45.6
+
+7595,2015,Cerebrovascular diseases (I60-I69),Stroke,Arkansas,1653,46.8
+
+7596,2014,Cerebrovascular diseases (I60-I69),Stroke,Arkansas,1583,45.4
+
+7597,2013,Cerebrovascular diseases (I60-I69),Stroke,Arkansas,1637,47.6
+
+7598,2012,Cerebrovascular diseases (I60-I69),Stroke,Arkansas,1664,49.1
+
+7599,2011,Cerebrovascular diseases (I60-I69),Stroke,Arkansas,1692,50.6
+
+7600,2010,Cerebrovascular diseases (I60-I69),Stroke,Arkansas,1741,53.8
+
+7601,2009,Cerebrovascular diseases (I60-I69),Stroke,Arkansas,1694,52.9
+
+7602,2008,Cerebrovascular diseases (I60-I69),Stroke,Arkansas,1722,54.4
+
+7603,2007,Cerebrovascular diseases (I60-I69),Stroke,Arkansas,1873,60.1
+
+7604,2006,Cerebrovascular diseases (I60-I69),Stroke,Arkansas,1884,61.2
+
+7605,2005,Cerebrovascular diseases (I60-I69),Stroke,Arkansas,1847,61.2
+
+7606,2004,Cerebrovascular diseases (I60-I69),Stroke,Arkansas,1948,65.3
+
+7607,2003,Cerebrovascular diseases (I60-I69),Stroke,Arkansas,2107,71.1
+
+7608,2002,Cerebrovascular diseases (I60-I69),Stroke,Arkansas,2232,75.7
+
+7609,2001,Cerebrovascular diseases (I60-I69),Stroke,Arkansas,2256,76.8
+
+7610,2000,Cerebrovascular diseases (I60-I69),Stroke,Arkansas,2255,77.2
+
+7611,1999,Cerebrovascular diseases (I60-I69),Stroke,Arkansas,2255,77.7
+
+8530,2016,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arkansas,555,18.2
+
+8531,2015,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arkansas,577,19.1
+
+8532,2014,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arkansas,515,17.3
+
+8533,2013,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arkansas,516,17.3
+
+8534,2012,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arkansas,485,16.3
+
+8535,2011,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arkansas,462,16
+
+8536,2010,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arkansas,447,15.5
+
+8537,2009,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arkansas,422,14.5
+
+8538,2008,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arkansas,447,15.5
+
+8539,2007,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arkansas,402,14.2
+
+8540,2006,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arkansas,376,13.3
+
+8541,2005,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arkansas,400,14.3
+
+8542,2004,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arkansas,361,13
+
+8543,2003,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arkansas,374,13.6
+
+8544,2002,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arkansas,377,14
+
+8545,2001,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arkansas,382,14.3
+
+8546,2000,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arkansas,349,13
+
+8547,1999,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arkansas,336,12.6
+
+9463,2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arkansas,1538,49.6
+
+9464,2014,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arkansas,1458,47.4
+
+9465,2013,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arkansas,1373,44.8
+
+9466,2012,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arkansas,1521,50
+
+9467,2011,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arkansas,1510,50.2
+
+9468,2010,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arkansas,1461,49.4
+
+9469,2009,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arkansas,1473,50.2
+
+9470,2008,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arkansas,1477,50.6
+
+9471,2007,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arkansas,1391,47.8
+
+9472,2006,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arkansas,1415,49.4
+
+9473,2005,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arkansas,1329,47
+
+9474,2004,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arkansas,1406,50.6
+
+9475,2003,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arkansas,1304,46.9
+
+9476,2002,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arkansas,1311,47.6
+
+9477,2001,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arkansas,1277,46.5
+
+9478,2000,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arkansas,1267,46.5
+
+9479,1999,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arkansas,1287,47.6
+
+4,2016,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arkansas,1604,51.8
+
+106,2016,All Causes,All causes,Arkansas,31756,893.2
+
+107,2015,All Causes,All causes,Arkansas,31617,901.8
+
+108,2014,All Causes,All causes,Arkansas,30467,883.7
+
+109,2013,All Causes,All causes,Arkansas,30437,893.8
+
+110,2012,All Causes,All causes,Arkansas,30117,897.5
+
+111,2011,All Causes,All causes,Arkansas,29653,895.3
+
+112,2010,All Causes,All causes,Arkansas,28916,892.7
+
+113,2009,All Causes,All causes,Arkansas,28673,896.4
+
+114,2008,All Causes,All causes,Arkansas,29322,927.3
+
+115,2007,All Causes,All causes,Arkansas,28191,906.2
+
+116,2006,All Causes,All causes,Arkansas,27901,909.5
+
+117,2005,All Causes,All causes,Arkansas,28055,931.5
+
+118,2004,All Causes,All causes,Arkansas,27528,927.4
+
+119,2003,All Causes,All causes,Arkansas,27918,948.2
+
+120,2002,All Causes,All causes,Arkansas,28513,975.2
+
+121,2001,All Causes,All causes,Arkansas,27759,955.4
+
+122,2000,All Causes,All causes,Arkansas,28217,977.1
+
+123,1999,All Causes,All causes,Arkansas,27925,975.3
+
+1042,2016,Alzheimer's disease (G30),Alzheimer's disease,Arkansas,1475,41.3
+
+1043,2015,Alzheimer's disease (G30),Alzheimer's disease,Arkansas,1457,41.5
+
+1044,2014,Alzheimer's disease (G30),Alzheimer's disease,Arkansas,1193,34.8
+
+1045,2013,Alzheimer's disease (G30),Alzheimer's disease,Arkansas,918,27.2
+
+1046,2012,Alzheimer's disease (G30),Alzheimer's disease,Arkansas,931,27.9
+
+1047,2011,Alzheimer's disease (G30),Alzheimer's disease,Arkansas,1002,30.4
+
+1048,2010,Alzheimer's disease (G30),Alzheimer's disease,Arkansas,955,29.6
+
+1049,2009,Alzheimer's disease (G30),Alzheimer's disease,Arkansas,885,27.8
+
+1050,2008,Alzheimer's disease (G30),Alzheimer's disease,Arkansas,893,28.4
+
+1051,2007,Alzheimer's disease (G30),Alzheimer's disease,Arkansas,824,26.5
+
+1052,2006,Alzheimer's disease (G30),Alzheimer's disease,Arkansas,783,25.5
+
+1053,2005,Alzheimer's disease (G30),Alzheimer's disease,Arkansas,686,22.8
+
+1054,2004,Alzheimer's disease (G30),Alzheimer's disease,Arkansas,622,20.9
+
+1055,2003,Alzheimer's disease (G30),Alzheimer's disease,Arkansas,552,18.6
+
+1056,2002,Alzheimer's disease (G30),Alzheimer's disease,Arkansas,551,18.6
+
+1057,2001,Alzheimer's disease (G30),Alzheimer's disease,Arkansas,452,15.3
+
+1058,2000,Alzheimer's disease (G30),Alzheimer's disease,Arkansas,430,14.6
+
+1059,1999,Alzheimer's disease (G30),Alzheimer's disease,Arkansas,434,14.8
+
+1978,2016,Malignant neoplasms (C00-C97),Cancer,Arkansas,6612,178.8
+
+1979,2015,Malignant neoplasms (C00-C97),Cancer,Arkansas,6727,185.4
+
+1980,2014,Malignant neoplasms (C00-C97),Cancer,Arkansas,6546,183.1
+
+1981,2013,Malignant neoplasms (C00-C97),Cancer,Arkansas,6688,190
+
+1982,2012,Malignant neoplasms (C00-C97),Cancer,Arkansas,6540,189.1
+
+1983,2011,Malignant neoplasms (C00-C97),Cancer,Arkansas,6497,191.1
+
+1984,2010,Malignant neoplasms (C00-C97),Cancer,Arkansas,6475,194.7
+
+1985,2009,Malignant neoplasms (C00-C97),Cancer,Arkansas,6513,198.3
+
+1986,2008,Malignant neoplasms (C00-C97),Cancer,Arkansas,6526,201.4
+
+1987,2007,Malignant neoplasms (C00-C97),Cancer,Arkansas,6388,201.3
+
+1988,2006,Malignant neoplasms (C00-C97),Cancer,Arkansas,6177,196.7
+
+1989,2005,Malignant neoplasms (C00-C97),Cancer,Arkansas,6361,207.7
+
+1990,2004,Malignant neoplasms (C00-C97),Cancer,Arkansas,6304,208.6
+
+1991,2003,Malignant neoplasms (C00-C97),Cancer,Arkansas,6119,205.1
+
+1992,2002,Malignant neoplasms (C00-C97),Cancer,Arkansas,6282,212.8
+
+1993,2001,Malignant neoplasms (C00-C97),Cancer,Arkansas,6092,208.8
+
+1994,2000,Malignant neoplasms (C00-C97),Cancer,Arkansas,6090,210.5
+
+1995,1999,Malignant neoplasms (C00-C97),Cancer,Arkansas,6137,214.1
+
+2914,2016,Chronic lower respiratory diseases (J40-J47),CLRD,Arkansas,2169,59.1
+
+2915,2015,Chronic lower respiratory diseases (J40-J47),CLRD,Arkansas,2270,62.4
+
+2916,2014,Chronic lower respiratory diseases (J40-J47),CLRD,Arkansas,2092,58.9
+
+2917,2013,Chronic lower respiratory diseases (J40-J47),CLRD,Arkansas,2090,60.1
+
+2918,2012,Chronic lower respiratory diseases (J40-J47),CLRD,Arkansas,1910,55.8
+
+2919,2011,Chronic lower respiratory diseases (J40-J47),CLRD,Arkansas,1985,58.9
+
+2920,2010,Chronic lower respiratory diseases (J40-J47),CLRD,Arkansas,1773,53.5
+
+2921,2009,Chronic lower respiratory diseases (J40-J47),CLRD,Arkansas,1831,56.2
+
+2922,2008,Chronic lower respiratory diseases (J40-J47),CLRD,Arkansas,1887,58.7
+
+2923,2007,Chronic lower respiratory diseases (J40-J47),CLRD,Arkansas,1656,52.6
+
+2924,2006,Chronic lower respiratory diseases (J40-J47),CLRD,Arkansas,1498,48.1
+
+2925,2005,Chronic lower respiratory diseases (J40-J47),CLRD,Arkansas,1559,51.1
+
+2926,2004,Chronic lower respiratory diseases (J40-J47),CLRD,Arkansas,1428,47.4
+
+2927,2003,Chronic lower respiratory diseases (J40-J47),CLRD,Arkansas,1500,50.1
+
+2928,2002,Chronic lower respiratory diseases (J40-J47),CLRD,Arkansas,1441,48.5
+
+2929,2001,Chronic lower respiratory diseases (J40-J47),CLRD,Arkansas,1368,46.5
+
+2930,2000,Chronic lower respiratory diseases (J40-J47),CLRD,Arkansas,1405,48
+
+2931,1999,Chronic lower respiratory diseases (J40-J47),CLRD,Arkansas,1358,46.8
+
+3850,2016,Diabetes mellitus (E10-E14),Diabetes,Arkansas,920,25.4
+
+3851,2015,Diabetes mellitus (E10-E14),Diabetes,Arkansas,886,24.7
+
+3852,2014,Diabetes mellitus (E10-E14),Diabetes,Arkansas,828,24
+
+3853,2013,Diabetes mellitus (E10-E14),Diabetes,Arkansas,835,24.2
+
+3854,2012,Diabetes mellitus (E10-E14),Diabetes,Arkansas,833,24.6
+
+3855,2011,Diabetes mellitus (E10-E14),Diabetes,Arkansas,908,27
+
+3856,2010,Diabetes mellitus (E10-E14),Diabetes,Arkansas,850,25.8
+
+3857,2009,Diabetes mellitus (E10-E14),Diabetes,Arkansas,890,27.4
+
+3858,2008,Diabetes mellitus (E10-E14),Diabetes,Arkansas,901,28.1
+
+3859,2007,Diabetes mellitus (E10-E14),Diabetes,Arkansas,838,26.8
+
+3860,2006,Diabetes mellitus (E10-E14),Diabetes,Arkansas,839,27.2
+
+3861,2005,Diabetes mellitus (E10-E14),Diabetes,Arkansas,824,27.1
+
+3862,2004,Diabetes mellitus (E10-E14),Diabetes,Arkansas,838,28
+
+3863,2003,Diabetes mellitus (E10-E14),Diabetes,Arkansas,884,29.9
+
+3864,2002,Diabetes mellitus (E10-E14),Diabetes,Arkansas,793,27
+
+3865,2001,Diabetes mellitus (E10-E14),Diabetes,Arkansas,756,26
+
+3866,2000,Diabetes mellitus (E10-E14),Diabetes,Arkansas,714,24.6
+
+3867,1999,Diabetes mellitus (E10-E14),Diabetes,Arkansas,691,24.2
+
+4786,2016,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Arkansas,8090,223.7
+
+4787,2015,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Arkansas,7938,223.2
+
+4788,2014,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Arkansas,7581,217.5
+
+4789,2013,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Arkansas,7377,214.1
+
+4790,2012,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Arkansas,7407,218.6
+
+4791,2011,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Arkansas,7168,213.8
+
+4792,2010,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Arkansas,7274,222.5
+
+4793,2009,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Arkansas,7295,226.1
+
+4794,2008,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Arkansas,7516,236.1
+
+4795,2007,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Arkansas,7214,230.1
+
+4796,2006,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Arkansas,7431,240.5
+
+4797,2005,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Arkansas,7575,250.3
+
+4798,2004,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Arkansas,7534,252.1
+
+4799,2003,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Arkansas,7786,262.5
+
+4800,2002,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Arkansas,8330,282.8
+
+4801,2001,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Arkansas,8263,281.8
+
+4802,2000,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Arkansas,8278,283.8
+
+4803,1999,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Arkansas,8315,287.8
+
+5722,2016,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arkansas,623,17.1
+
+5723,2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arkansas,700,20
+
+5724,2014,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arkansas,710,20.7
+
+5725,2013,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arkansas,794,23.3
+
+5726,2012,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arkansas,734,21.9
+
+5727,2011,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arkansas,727,21.8
+
+5728,2010,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arkansas,647,19.9
+
+5729,2009,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arkansas,705,22.1
+
+5730,2008,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arkansas,846,26.8
+
+5731,2007,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arkansas,734,23.5
+
+5732,2006,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arkansas,772,25.1
+
+5733,2005,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arkansas,886,29.4
+
+5734,2004,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arkansas,759,25.5
+
+5735,2003,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arkansas,921,31.1
+
+5736,2002,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arkansas,776,26.4
+
+5737,2001,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arkansas,735,25.1
+
+5738,2000,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arkansas,798,27.2
+
+5739,1999,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arkansas,741,25.5
+
+6658,2016,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arkansas,722,20
+
+6659,2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arkansas,707,19.8
+
+6660,2014,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arkansas,672,19.2
+
+6661,2013,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arkansas,762,22
+
+6662,2012,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arkansas,674,19.8
+
+6663,2011,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arkansas,787,23.6
+
+6664,2010,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arkansas,737,22.8
+
+6665,2009,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arkansas,680,21.1
+
+6666,2008,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arkansas,638,20.1
+
+6667,2007,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arkansas,666,21.5
+
+6668,2006,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arkansas,616,20
+
+6669,2005,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arkansas,624,20.6
+
+6670,2004,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arkansas,562,18.8
+
+6671,2003,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arkansas,526,17.8
+
+6672,2002,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arkansas,601,20.4
+
+6673,2001,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arkansas,521,17.7
+
+6674,2000,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arkansas,500,17.3
+
+6675,1999,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arkansas,458,15.9
+
+7594,2016,Cerebrovascular diseases (I60-I69),Stroke,Arkansas,1643,45.6
+
+7595,2015,Cerebrovascular diseases (I60-I69),Stroke,Arkansas,1653,46.8
+
+7596,2014,Cerebrovascular diseases (I60-I69),Stroke,Arkansas,1583,45.4
+
+7597,2013,Cerebrovascular diseases (I60-I69),Stroke,Arkansas,1637,47.6
+
+7598,2012,Cerebrovascular diseases (I60-I69),Stroke,Arkansas,1664,49.1
+
+7599,2011,Cerebrovascular diseases (I60-I69),Stroke,Arkansas,1692,50.6
+
+7600,2010,Cerebrovascular diseases (I60-I69),Stroke,Arkansas,1741,53.8
+
+7601,2009,Cerebrovascular diseases (I60-I69),Stroke,Arkansas,1694,52.9
+
+7602,2008,Cerebrovascular diseases (I60-I69),Stroke,Arkansas,1722,54.4
+
+7603,2007,Cerebrovascular diseases (I60-I69),Stroke,Arkansas,1873,60.1
+
+7604,2006,Cerebrovascular diseases (I60-I69),Stroke,Arkansas,1884,61.2
+
+7605,2005,Cerebrovascular diseases (I60-I69),Stroke,Arkansas,1847,61.2
+
+7606,2004,Cerebrovascular diseases (I60-I69),Stroke,Arkansas,1948,65.3
+
+7607,2003,Cerebrovascular diseases (I60-I69),Stroke,Arkansas,2107,71.1
+
+7608,2002,Cerebrovascular diseases (I60-I69),Stroke,Arkansas,2232,75.7
+
+7609,2001,Cerebrovascular diseases (I60-I69),Stroke,Arkansas,2256,76.8
+
+7610,2000,Cerebrovascular diseases (I60-I69),Stroke,Arkansas,2255,77.2
+
+7611,1999,Cerebrovascular diseases (I60-I69),Stroke,Arkansas,2255,77.7
+
+8530,2016,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arkansas,555,18.2
+
+8531,2015,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arkansas,577,19.1
+
+8532,2014,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arkansas,515,17.3
+
+8533,2013,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arkansas,516,17.3
+
+8534,2012,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arkansas,485,16.3
+
+8535,2011,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arkansas,462,16
+
+8536,2010,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arkansas,447,15.5
+
+8537,2009,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arkansas,422,14.5
+
+8538,2008,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arkansas,447,15.5
+
+8539,2007,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arkansas,402,14.2
+
+8540,2006,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arkansas,376,13.3
+
+8541,2005,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arkansas,400,14.3
+
+8542,2004,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arkansas,361,13
+
+8543,2003,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arkansas,374,13.6
+
+8544,2002,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arkansas,377,14
+
+8545,2001,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arkansas,382,14.3
+
+8546,2000,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arkansas,349,13
+
+8547,1999,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arkansas,336,12.6
+
+9463,2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arkansas,1538,49.6
+
+9464,2014,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arkansas,1458,47.4
+
+9465,2013,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arkansas,1373,44.8
+
+9466,2012,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arkansas,1521,50
+
+9467,2011,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arkansas,1510,50.2
+
+9468,2010,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arkansas,1461,49.4
+
+9469,2009,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arkansas,1473,50.2
+
+9470,2008,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arkansas,1477,50.6
+
+9471,2007,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arkansas,1391,47.8
+
+9472,2006,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arkansas,1415,49.4
+
+9473,2005,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arkansas,1329,47
+
+9474,2004,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arkansas,1406,50.6
+
+9475,2003,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arkansas,1304,46.9
+
+9476,2002,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arkansas,1311,47.6
+
+9477,2001,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arkansas,1277,46.5
+
+9478,2000,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arkansas,1267,46.5
+
+9479,1999,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arkansas,1287,47.6
+

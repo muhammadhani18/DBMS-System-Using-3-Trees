@@ -1,0 +1,10 @@
+3144,2002,Chronic lower respiratory diseases (J40-J47),CLRD,Iowa,1580,44.4
+
+3154,2010,Chronic lower respiratory diseases (J40-J47),CLRD,Kansas,1580,50
+
+3155,2009,Chronic lower respiratory diseases (J40-J47),CLRD,Kansas,1580,50.6
+
+7150,2010,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,New Jersey,1580,15.6
+
+10037,2002,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Oklahoma,1580,44.9
+

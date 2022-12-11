@@ -1,0 +1,6 @@
+6308,2006,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Ohio,1947,15.3
+
+9507,2005,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Colorado,1947,44.1
+
+10035,2004,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Oklahoma,1947,55
+

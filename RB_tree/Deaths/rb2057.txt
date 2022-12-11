@@ -1,0 +1,4 @@
+2876,2000,Chronic lower respiratory diseases (J40-J47),CLRD,Alabama,2057,45.5
+
+7846,2016,Cerebrovascular diseases (I60-I69),Stroke,Kentucky,2057,40.4
+

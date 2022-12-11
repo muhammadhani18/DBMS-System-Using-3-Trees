@@ -1,0 +1,8 @@
+2992,2010,Chronic lower respiratory diseases (J40-J47),CLRD,Delaware,441,44
+
+3600,2014,Chronic lower respiratory diseases (J40-J47),CLRD,South Dakota,441,40.8
+
+8065,2013,Cerebrovascular diseases (I60-I69),Stroke,New Hampshire,441,27.6
+
+9608,2006,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Hawaii,441,31.7
+

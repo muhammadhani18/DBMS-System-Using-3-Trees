@@ -1,0 +1,8 @@
+4750,2016,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Alaska,831,141
+
+7370,2007,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Tennessee,831,13.3
+
+4750,2016,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Alaska,831,141
+
+7370,2007,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Tennessee,831,13.3
+

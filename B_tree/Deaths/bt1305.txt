@@ -1,0 +1,12 @@
+4158,2014,Diabetes mellitus (E10-E14),Diabetes,Maryland,1305,19.8
+
+7057,2013,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Missouri,1305,18
+
+7060,2010,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Missouri,1305,19.2
+
+4158,2014,Diabetes mellitus (E10-E14),Diabetes,Maryland,1305,19.8
+
+7057,2013,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Missouri,1305,18
+
+7060,2010,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Missouri,1305,19.2
+

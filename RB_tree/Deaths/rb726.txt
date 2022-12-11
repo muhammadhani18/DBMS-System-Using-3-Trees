@@ -1,0 +1,6 @@
+6392,2012,Influenza and pneumonia (J09-J18),Influenza and pneumonia,South Carolina,726,14.4
+
+8105,2009,Cerebrovascular diseases (I60-I69),Stroke,New Mexico,726,35.2
+
+9249,1999,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Tennessee,726,12.7
+

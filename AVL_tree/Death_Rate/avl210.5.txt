@@ -1,0 +1,4 @@
+1994,2000,Malignant neoplasms (C00-C97),Cancer,Arkansas,6090,210.5
+
+2078,2006,Malignant neoplasms (C00-C97),Cancer,District of Columbia,1178,210.5
+

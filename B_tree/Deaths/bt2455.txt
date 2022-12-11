@@ -1,0 +1,4 @@
+9851,2001,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Missouri,2455,42.5
+
+9851,2001,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Missouri,2455,42.5
+

@@ -1,0 +1,6 @@
+2061,2005,Malignant neoplasms (C00-C97),Cancer,Delaware,1799,199.1
+
+2188,2004,Malignant neoplasms (C00-C97),Cancer,Indiana,12552,199.1
+
+4920,2008,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Georgia,15721,199.1
+

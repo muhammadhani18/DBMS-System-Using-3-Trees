@@ -1,0 +1,4 @@
+4121,2015,Diabetes mellitus (E10-E14),Diabetes,Louisiana,1199,23.5
+
+10057,1999,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Oregon,1199,34.7
+

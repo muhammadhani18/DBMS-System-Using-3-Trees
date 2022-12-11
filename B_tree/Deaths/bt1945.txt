@@ -1,0 +1,8 @@
+2136,2002,Malignant neoplasms (C00-C97),Cancer,Hawaii,1945,147.2
+
+6278,2000,Influenza and pneumonia (J09-J18),Influenza and pneumonia,North Carolina,1945,26.8
+
+2136,2002,Malignant neoplasms (C00-C97),Cancer,Hawaii,1945,147.2
+
+6278,2000,Influenza and pneumonia (J09-J18),Influenza and pneumonia,North Carolina,1945,26.8
+

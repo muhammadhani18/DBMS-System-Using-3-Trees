@@ -1,0 +1,14 @@
+15,2016,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Indiana,3496,51.6
+
+3129,1999,Chronic lower respiratory diseases (J40-J47),CLRD,Indiana,3053,51.6
+
+3300,2008,Chronic lower respiratory diseases (J40-J47),CLRD,Mississippi,1520,51.6
+
+3335,2009,Chronic lower respiratory diseases (J40-J47),CLRD,Montana,598,51.6
+
+3354,2008,Chronic lower respiratory diseases (J40-J47),CLRD,Nebraska,1047,51.6
+
+7541,2016,Cerebrovascular diseases (I60-I69),Stroke,Alabama,2967,51.6
+
+7547,2010,Cerebrovascular diseases (I60-I69),Stroke,Alabama,2619,51.6
+

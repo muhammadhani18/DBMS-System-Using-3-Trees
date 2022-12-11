@@ -1,0 +1,56 @@
+1125,2005,Alzheimer's disease (G30),Alzheimer's disease,Delaware,180,21.2
+
+1144,2004,Alzheimer's disease (G30),Alzheimer's disease,District of Columbia,119,21.2
+
+1371,2011,Alzheimer's disease (G30),Alzheimer's disease,Massachusetts,1819,21.2
+
+1372,2010,Alzheimer's disease (G30),Alzheimer's disease,Massachusetts,1773,21.2
+
+1380,2002,Alzheimer's disease (G30),Alzheimer's disease,Massachusetts,1570,21.2
+
+1759,2001,Alzheimer's disease (G30),Alzheimer's disease,Tennessee,1148,21.2
+
+1838,2012,Alzheimer's disease (G30),Alzheimer's disease,Virginia,1712,21.2
+
+1906,2016,Alzheimer's disease (G30),Alzheimer's disease,Wyoming,138,21.2
+
+3869,2015,Diabetes mellitus (E10-E14),Diabetes,California,8845,21.2
+
+3976,2016,Diabetes mellitus (E10-E14),Diabetes,Georgia,2238,21.2
+
+3986,2006,Diabetes mellitus (E10-E14),Diabetes,Georgia,1657,21.2
+
+4084,2016,Diabetes mellitus (E10-E14),Diabetes,Kansas,727,21.2
+
+4161,2011,Diabetes mellitus (E10-E14),Diabetes,Maryland,1297,21.2
+
+4252,2010,Diabetes mellitus (E10-E14),Diabetes,Missouri,1425,21.2
+
+4571,2015,Diabetes mellitus (E10-E14),Diabetes,Texas,5521,21.2
+
+4591,2013,Diabetes mellitus (E10-E14),Diabetes,United States,75578,21.2
+
+4592,2012,Diabetes mellitus (E10-E14),Diabetes,United States,73932,21.2
+
+4662,2014,Diabetes mellitus (E10-E14),Diabetes,Washington,1668,21.2
+
+5699,2003,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Alaska,60,21.2
+
+6223,2001,Influenza and pneumonia (J09-J18),Influenza and pneumonia,New Jersey,1893,21.2
+
+6325,2007,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Oklahoma,801,21.2
+
+6551,2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,West Virginia,526,21.2
+
+6561,2005,Influenza and pneumonia (J09-J18),Influenza and pneumonia,West Virginia,458,21.2
+
+6795,2005,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Georgia,1520,21.2
+
+6863,2009,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Indiana,1442,21.2
+
+7050,2002,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Mississippi,580,21.2
+
+7500,2003,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,West Virginia,458,21.2
+
+8951,2009,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Montana,219,21.2
+

@@ -1,0 +1,8 @@
+983,2003,All Causes,All causes,Wyoming,4172,857.7
+
+3043,2013,Chronic lower respiratory diseases (J40-J47),CLRD,Georgia,4172,45.4
+
+983,2003,All Causes,All causes,Wyoming,4172,857.7
+
+3043,2013,Chronic lower respiratory diseases (J40-J47),CLRD,Georgia,4172,45.4
+

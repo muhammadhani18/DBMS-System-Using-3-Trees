@@ -1,0 +1,6 @@
+2581,2007,Malignant neoplasms (C00-C97),Cancer,Oklahoma,7727,198.5
+
+2814,2008,Malignant neoplasms (C00-C97),Cancer,West Virginia,4605,198.5
+
+4919,2009,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Georgia,16165,198.5
+

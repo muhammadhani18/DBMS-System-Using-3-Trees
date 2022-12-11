@@ -1,0 +1,12 @@
+2956,2010,Chronic lower respiratory diseases (J40-J47),CLRD,Colorado,2199,49.7
+
+3979,2013,Diabetes mellitus (E10-E14),Diabetes,Georgia,2199,23
+
+7962,2008,Cerebrovascular diseases (I60-I69),Stroke,Minnesota,2199,37.7
+
+2956,2010,Chronic lower respiratory diseases (J40-J47),CLRD,Colorado,2199,49.7
+
+3979,2013,Diabetes mellitus (E10-E14),Diabetes,Georgia,2199,23
+
+7962,2008,Cerebrovascular diseases (I60-I69),Stroke,Minnesota,2199,37.7
+

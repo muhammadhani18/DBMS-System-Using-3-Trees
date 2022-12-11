@@ -1,0 +1,4 @@
+7674,2008,Cerebrovascular diseases (I60-I69),Stroke,Delaware,365,37.9
+
+7683,1999,Cerebrovascular diseases (I60-I69),Stroke,Delaware,365,49.4
+

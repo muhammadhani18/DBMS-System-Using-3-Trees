@@ -1,0 +1,10 @@
+1321,2007,Alzheimer's disease (G30),Alzheimer's disease,Louisiana,1324,33.3
+
+1659,2011,Alzheimer's disease (G30),Alzheimer's disease,Oregon,1324,28.3
+
+4120,2016,Diabetes mellitus (E10-E14),Diabetes,Louisiana,1324,25.5
+
+4878,2014,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,District of Columbia,1324,207.8
+
+6522,2008,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Virginia,1324,17.9
+

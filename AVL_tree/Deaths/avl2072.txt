@@ -1,0 +1,6 @@
+3220,2016,Chronic lower respiratory diseases (J40-J47),CLRD,Maryland,2072,30.5
+
+7583,2009,Cerebrovascular diseases (I60-I69),Stroke,Arizona,2072,31.7
+
+10243,2001,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Washington,2072,35.2
+

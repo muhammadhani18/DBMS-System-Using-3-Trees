@@ -1,0 +1,8 @@
+1628,2006,Alzheimer's disease (G30),Alzheimer's disease,Ohio,3565,27.7
+
+4434,2008,Diabetes mellitus (E10-E14),Diabetes,Ohio,3565,27.2
+
+1628,2006,Alzheimer's disease (G30),Alzheimer's disease,Ohio,3565,27.7
+
+4434,2008,Diabetes mellitus (E10-E14),Diabetes,Ohio,3565,27.2
+

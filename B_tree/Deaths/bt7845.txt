@@ -1,0 +1,8 @@
+183,2011,All Causes,All causes,Delaware,7845,764.2
+
+790,2016,All Causes,All causes,South Dakota,7845,719.5
+
+183,2011,All Causes,All causes,Delaware,7845,764.2
+
+790,2016,All Causes,All causes,South Dakota,7845,719.5
+

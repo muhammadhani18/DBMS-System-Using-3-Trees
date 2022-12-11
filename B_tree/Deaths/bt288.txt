@@ -1,0 +1,4 @@
+5900,2000,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Idaho,288,24.6
+
+5900,2000,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Idaho,288,24.6
+

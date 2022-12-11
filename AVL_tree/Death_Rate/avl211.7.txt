@@ -1,0 +1,8 @@
+2661,1999,Malignant neoplasms (C00-C97),Cancer,South Carolina,8089,211.7
+
+4766,2000,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Alaska,607,211.7
+
+4876,2016,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,District of Columbia,1375,211.7
+
+5338,2005,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,North Carolina,17765,211.7
+

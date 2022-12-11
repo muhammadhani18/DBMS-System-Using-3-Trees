@@ -1,0 +1,4 @@
+4697,2015,Diabetes mellitus (E10-E14),Diabetes,Wisconsin,1382,19.4
+
+5348,2013,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,North Dakota,1382,150.7
+

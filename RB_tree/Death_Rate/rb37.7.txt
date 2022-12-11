@@ -1,0 +1,12 @@
+4693,2001,Diabetes mellitus (E10-E14),Diabetes,West Virginia,802,37.7
+
+7778,2012,Cerebrovascular diseases (I60-I69),Stroke,Illinois,5337,37.7
+
+7962,2008,Cerebrovascular diseases (I60-I69),Stroke,Minnesota,2199,37.7
+
+8073,2005,Cerebrovascular diseases (I60-I69),Stroke,New Hampshire,497,37.7
+
+8447,2009,Cerebrovascular diseases (I60-I69),Stroke,Wisconsin,2501,37.7
+
+10017,2005,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Ohio,4438,37.7
+

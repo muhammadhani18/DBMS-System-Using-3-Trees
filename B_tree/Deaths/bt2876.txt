@@ -1,0 +1,8 @@
+1389,2011,Alzheimer's disease (G30),Alzheimer's disease,Michigan,2876,24.6
+
+2738,2012,Malignant neoplasms (C00-C97),Cancer,Utah,2876,128.2
+
+1389,2011,Alzheimer's disease (G30),Alzheimer's disease,Michigan,2876,24.6
+
+2738,2012,Malignant neoplasms (C00-C97),Cancer,Utah,2876,128.2
+

@@ -1,0 +1,12 @@
+8493,1999,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Alabama,555,12.5
+
+8530,2016,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arkansas,555,18.2
+
+9154,2004,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Oregon,555,15.1
+
+8493,1999,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Alabama,555,12.5
+
+8530,2016,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arkansas,555,18.2
+
+9154,2004,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Oregon,555,15.1
+

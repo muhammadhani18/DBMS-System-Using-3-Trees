@@ -1,0 +1,6 @@
+1153,2013,Alzheimer's disease (G30),Alzheimer's disease,Florida,5093,16.9
+
+3963,2011,Diabetes mellitus (E10-E14),Diabetes,Florida,5093,19.7
+
+10014,2008,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Ohio,5093,42.3
+

@@ -1,0 +1,8 @@
+4782,2002,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Arizona,10852,207.9
+
+5068,2004,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Louisiana,10852,257.9
+
+4782,2002,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Arizona,10852,207.9
+
+5068,2004,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Louisiana,10852,257.9
+

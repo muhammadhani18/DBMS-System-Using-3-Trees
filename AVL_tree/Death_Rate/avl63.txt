@@ -1,0 +1,6 @@
+3744,2014,Chronic lower respiratory diseases (J40-J47),CLRD,West Virginia,1578,63
+
+8022,2002,Cerebrovascular diseases (I60-I69),Stroke,Montana,639,63
+
+8169,1999,Cerebrovascular diseases (I60-I69),Stroke,North Dakota,513,63
+

@@ -1,0 +1,4 @@
+6246,2014,Influenza and pneumonia (J09-J18),Influenza and pneumonia,New York,4702,19.5
+
+8136,2014,Cerebrovascular diseases (I60-I69),Stroke,North Carolina,4702,43
+

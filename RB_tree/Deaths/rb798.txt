@@ -1,0 +1,6 @@
+5738,2000,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arkansas,798,27.2
+
+8028,2014,Cerebrovascular diseases (I60-I69),Stroke,Nebraska,798,34.7
+
+10262,1999,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,West Virginia,798,42
+

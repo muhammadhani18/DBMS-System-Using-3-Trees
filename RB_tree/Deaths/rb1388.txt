@@ -1,0 +1,6 @@
+4167,2005,Diabetes mellitus (E10-E14),Diabetes,Maryland,1388,26
+
+7649,2015,Cerebrovascular diseases (I60-I69),Stroke,Connecticut,1388,28.5
+
+7810,2016,Cerebrovascular diseases (I60-I69),Stroke,Iowa,1388,32.3
+

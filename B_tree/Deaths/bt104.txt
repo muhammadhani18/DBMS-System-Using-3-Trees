@@ -1,0 +1,16 @@
+5813,2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,District of Columbia,104,16.2
+
+7077,2011,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Montana,104,8.8
+
+7218,2014,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,North Dakota,104,11
+
+7222,2010,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,North Dakota,104,11.5
+
+5813,2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,District of Columbia,104,16.2
+
+7077,2011,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Montana,104,8.8
+
+7218,2014,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,North Dakota,104,11
+
+7222,2010,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,North Dakota,104,11.5
+

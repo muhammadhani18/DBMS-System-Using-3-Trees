@@ -1,0 +1,6 @@
+4342,2010,Diabetes mellitus (E10-E14),Diabetes,New Jersey,2098,21
+
+7854,2008,Cerebrovascular diseases (I60-I69),Stroke,Kentucky,2098,47.9
+
+7867,2013,Cerebrovascular diseases (I60-I69),Stroke,Louisiana,2098,44
+

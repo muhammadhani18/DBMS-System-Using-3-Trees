@@ -1,0 +1,10 @@
+3140,2006,Chronic lower respiratory diseases (J40-J47),CLRD,Iowa,1655,45.2
+
+3260,2012,Chronic lower respiratory diseases (J40-J47),CLRD,Michigan,5251,45.2
+
+8178,2008,Cerebrovascular diseases (I60-I69),Stroke,Ohio,5951,45.2
+
+8321,2009,Cerebrovascular diseases (I60-I69),Stroke,Texas,9137,45.2
+
+9899,2004,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Nevada,1021,45.2
+

@@ -1,0 +1,8 @@
+25,2016,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Mississippi,1803,59.2
+
+3755,2003,Chronic lower respiratory diseases (J40-J47),CLRD,West Virginia,1296,59.2
+
+3757,2001,Chronic lower respiratory diseases (J40-J47),CLRD,West Virginia,1273,59.2
+
+9442,2002,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Alaska,346,59.2
+

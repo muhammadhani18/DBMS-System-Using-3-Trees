@@ -1,0 +1,12 @@
+5076,2014,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Maine,2776,147.9
+
+5269,2002,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,New Hampshire,2776,225
+
+9653,2012,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Indiana,2776,41.4
+
+5076,2014,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Maine,2776,147.9
+
+5269,2002,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,New Hampshire,2776,225
+
+9653,2012,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Indiana,2776,41.4
+

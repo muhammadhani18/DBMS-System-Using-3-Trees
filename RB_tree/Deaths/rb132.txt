@@ -1,0 +1,20 @@
+1140,2008,Alzheimer's disease (G30),Alzheimer's disease,District of Columbia,132,22.5
+
+2894,2000,Chronic lower respiratory diseases (J40-J47),CLRD,Alaska,132,47.6
+
+3015,2005,Chronic lower respiratory diseases (J40-J47),CLRD,District of Columbia,132,24
+
+5794,2016,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Delaware,132,10.7
+
+5801,2009,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Delaware,132,13.5
+
+7082,2006,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Montana,132,12
+
+8508,2002,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Alaska,132,20.8
+
+9012,2002,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,New Hampshire,132,10.3
+
+9181,2013,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Rhode Island,132,12.2
+
+9399,2011,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wyoming,132,23.2
+

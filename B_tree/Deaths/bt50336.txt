@@ -1,0 +1,4 @@
+4910,2000,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Florida,50336,238.6
+
+4910,2000,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Florida,50336,238.6
+

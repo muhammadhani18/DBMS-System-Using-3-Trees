@@ -1,0 +1,4 @@
+6314,2000,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Ohio,2533,21.7
+
+7880,2000,Cerebrovascular diseases (I60-I69),Stroke,Louisiana,2533,63.5
+

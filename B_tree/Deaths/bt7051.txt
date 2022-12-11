@@ -1,0 +1,8 @@
+2019,2011,Malignant neoplasms (C00-C97),Cancer,Colorado,7051,143.9
+
+4840,2016,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Connecticut,7051,144.3
+
+2019,2011,Malignant neoplasms (C00-C97),Cancer,Colorado,7051,143.9
+
+4840,2016,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Connecticut,7051,144.3
+

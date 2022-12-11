@@ -1,0 +1,4 @@
+371,2003,All Causes,All causes,Kentucky,40241,986.4
+
+714,2002,All Causes,All causes,Oklahoma,35502,986.4
+

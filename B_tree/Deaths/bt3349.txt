@@ -1,0 +1,12 @@
+1386,2014,Alzheimer's disease (G30),Alzheimer's disease,Michigan,3349,27
+
+1564,2016,Alzheimer's disease (G30),Alzheimer's disease,New York,3349,13.1
+
+9448,2013,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arizona,3349,48.6
+
+1386,2014,Alzheimer's disease (G30),Alzheimer's disease,Michigan,3349,27
+
+1564,2016,Alzheimer's disease (G30),Alzheimer's disease,New York,3349,13.1
+
+9448,2013,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arizona,3349,48.6
+

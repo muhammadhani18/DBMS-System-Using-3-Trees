@@ -1,0 +1,20 @@
+3613,2001,Chronic lower respiratory diseases (J40-J47),CLRD,South Dakota,362,41.7
+
+8775,2005,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Kansas,362,13.3
+
+9049,2001,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,New Mexico,362,20.3
+
+9296,2006,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Utah,362,16
+
+9358,2016,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,West Virginia,362,19.3
+
+3613,2001,Chronic lower respiratory diseases (J40-J47),CLRD,South Dakota,362,41.7
+
+8775,2005,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Kansas,362,13.3
+
+9049,2001,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,New Mexico,362,20.3
+
+9296,2006,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Utah,362,16
+
+9358,2016,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,West Virginia,362,19.3
+

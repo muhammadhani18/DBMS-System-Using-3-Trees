@@ -1,0 +1,4 @@
+10174,2002,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,United States,106742,37.1
+
+10174,2002,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,United States,106742,37.1
+

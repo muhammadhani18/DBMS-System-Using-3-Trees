@@ -1,0 +1,12 @@
+8166,2002,Cerebrovascular diseases (I60-I69),Stroke,North Dakota,469,55.4
+
+8290,2004,Cerebrovascular diseases (I60-I69),Stroke,South Dakota,469,48.7
+
+10109,2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,South Dakota,469,49.5
+
+8166,2002,Cerebrovascular diseases (I60-I69),Stroke,North Dakota,469,55.4
+
+8290,2004,Cerebrovascular diseases (I60-I69),Stroke,South Dakota,469,48.7
+
+10109,2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,South Dakota,469,49.5
+

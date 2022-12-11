@@ -1,0 +1,4 @@
+1157,2009,Alzheimer's disease (G30),Alzheimer's disease,Florida,4617,17.6
+
+2817,2005,Malignant neoplasms (C00-C97),Cancer,West Virginia,4617,207.4
+

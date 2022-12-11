@@ -1,0 +1,4 @@
+9423,2004,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Alabama,2403,53
+
+9500,2012,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Colorado,2403,47.1
+

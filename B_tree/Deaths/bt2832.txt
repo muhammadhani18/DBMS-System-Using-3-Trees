@@ -1,0 +1,8 @@
+7927,2007,Cerebrovascular diseases (I60-I69),Stroke,Massachusetts,2832,36.7
+
+8275,2001,Cerebrovascular diseases (I60-I69),Stroke,South Carolina,2832,76.2
+
+7927,2007,Cerebrovascular diseases (I60-I69),Stroke,Massachusetts,2832,36.7
+
+8275,2001,Cerebrovascular diseases (I60-I69),Stroke,South Carolina,2832,76.2
+

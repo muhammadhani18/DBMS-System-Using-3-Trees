@@ -1,0 +1,4 @@
+1438,2016,Alzheimer's disease (G30),Alzheimer's disease,Missouri,2302,30
+
+7197,1999,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,New York,2302,12
+

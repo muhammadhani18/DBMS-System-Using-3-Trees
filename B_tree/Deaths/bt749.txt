@@ -1,0 +1,8 @@
+4094,2006,Diabetes mellitus (E10-E14),Diabetes,Kansas,749,24.8
+
+5947,2007,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Iowa,749,18.5
+
+4094,2006,Diabetes mellitus (E10-E14),Diabetes,Kansas,749,24.8
+
+5947,2007,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Iowa,749,18.5
+

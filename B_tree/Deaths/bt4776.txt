@@ -1,0 +1,4 @@
+3109,2001,Chronic lower respiratory diseases (J40-J47),CLRD,Illinois,4776,39.5
+
+3109,2001,Chronic lower respiratory diseases (J40-J47),CLRD,Illinois,4776,39.5
+

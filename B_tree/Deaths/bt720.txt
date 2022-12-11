@@ -1,0 +1,8 @@
+5992,2016,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Louisiana,720,14.3
+
+7772,2000,Cerebrovascular diseases (I60-I69),Stroke,Idaho,720,61.8
+
+5992,2016,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Louisiana,720,14.3
+
+7772,2000,Cerebrovascular diseases (I60-I69),Stroke,Idaho,720,61.8
+

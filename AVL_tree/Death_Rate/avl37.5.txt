@@ -1,0 +1,22 @@
+1613,2003,Alzheimer's disease (G30),Alzheimer's disease,North Dakota,336,37.5
+
+2939,2009,Chronic lower respiratory diseases (J40-J47),CLRD,California,12936,37.5
+
+3032,2006,Chronic lower respiratory diseases (J40-J47),CLRD,Florida,8912,37.5
+
+7586,2006,Cerebrovascular diseases (I60-I69),Stroke,Arizona,2226,37.5
+
+8207,2015,Cerebrovascular diseases (I60-I69),Stroke,Oregon,1873,37.5
+
+8210,2012,Cerebrovascular diseases (I60-I69),Stroke,Oregon,1763,37.5
+
+9546,2000,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Delaware,290,37.5
+
+9675,2007,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Iowa,1252,37.5
+
+9811,2007,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Minnesota,2066,37.5
+
+10167,2009,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,United States,118021,37.5
+
+10277,2001,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wisconsin,2100,37.5
+

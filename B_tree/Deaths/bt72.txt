@@ -1,0 +1,20 @@
+1009,2013,Alzheimer's disease (G30),Alzheimer's disease,Alaska,72,18.9
+
+1011,2011,Alzheimer's disease (G30),Alzheimer's disease,Alaska,72,20.5
+
+7345,2014,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,South Dakota,72,6.5
+
+7527,2012,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wyoming,72,12.3
+
+9319,2001,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Vermont,72,11.4
+
+1009,2013,Alzheimer's disease (G30),Alzheimer's disease,Alaska,72,18.9
+
+1011,2011,Alzheimer's disease (G30),Alzheimer's disease,Alaska,72,20.5
+
+7345,2014,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,South Dakota,72,6.5
+
+7527,2012,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wyoming,72,12.3
+
+9319,2001,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Vermont,72,11.4
+

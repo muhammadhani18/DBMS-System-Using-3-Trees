@@ -1,0 +1,16 @@
+6288,2008,Influenza and pneumonia (J09-J18),Influenza and pneumonia,North Dakota,148,17
+
+6292,2004,Influenza and pneumonia (J09-J18),Influenza and pneumonia,North Dakota,148,17
+
+6823,2013,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Idaho,148,8.8
+
+6824,2012,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Idaho,148,8.8
+
+6288,2008,Influenza and pneumonia (J09-J18),Influenza and pneumonia,North Dakota,148,17
+
+6292,2004,Influenza and pneumonia (J09-J18),Influenza and pneumonia,North Dakota,148,17
+
+6823,2013,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Idaho,148,8.8
+
+6824,2012,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Idaho,148,8.8
+

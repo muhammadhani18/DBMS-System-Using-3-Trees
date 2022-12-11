@@ -1,0 +1,24 @@
+4418,2006,Diabetes mellitus (E10-E14),Diabetes,North Dakota,208,26.1
+
+5890,2010,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Idaho,208,13.5
+
+6730,2016,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Delaware,208,17.1
+
+6808,2010,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Hawaii,208,12.8
+
+6961,2001,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Maine,208,14
+
+8458,2016,Cerebrovascular diseases (I60-I69),Stroke,Wyoming,208,31.7
+
+4418,2006,Diabetes mellitus (E10-E14),Diabetes,North Dakota,208,26.1
+
+5890,2010,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Idaho,208,13.5
+
+6730,2016,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Delaware,208,17.1
+
+6808,2010,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Hawaii,208,12.8
+
+6961,2001,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Maine,208,14
+
+8458,2016,Cerebrovascular diseases (I60-I69),Stroke,Wyoming,208,31.7
+

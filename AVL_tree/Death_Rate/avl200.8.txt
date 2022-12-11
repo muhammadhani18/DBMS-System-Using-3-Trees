@@ -1,0 +1,4 @@
+2235,2011,Malignant neoplasms (C00-C97),Cancer,Kentucky,9733,200.8
+
+2733,1999,Malignant neoplasms (C00-C97),Cancer,United States,549838,200.8
+

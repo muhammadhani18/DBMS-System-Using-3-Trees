@@ -1,0 +1,44 @@
+1015,2007,Alzheimer's disease (G30),Alzheimer's disease,Alaska,65,22.4
+
+1206,2014,Alzheimer's disease (G30),Alzheimer's disease,Idaho,376,22.4
+
+1393,2007,Alzheimer's disease (G30),Alzheimer's disease,Michigan,2432,22.4
+
+1472,2000,Alzheimer's disease (G30),Alzheimer's disease,Montana,219,22.4
+
+1809,2005,Alzheimer's disease (G30),Alzheimer's disease,Utah,368,22.4
+
+1848,2002,Alzheimer's disease (G30),Alzheimer's disease,Virginia,1368,22.4
+
+1918,2004,Alzheimer's disease (G30),Alzheimer's disease,Wyoming,105,22.4
+
+3074,2000,Chronic lower respiratory diseases (J40-J47),CLRD,Hawaii,278,22.4
+
+3825,2005,Diabetes mellitus (E10-E14),Diabetes,Alaska,93,22.4
+
+3992,2000,Diabetes mellitus (E10-E14),Diabetes,Georgia,1461,22.4
+
+4023,2005,Diabetes mellitus (E10-E14),Diabetes,Idaho,299,22.4
+
+4140,2014,Diabetes mellitus (E10-E14),Diabetes,Maine,414,22.4
+
+4255,2007,Diabetes mellitus (E10-E14),Diabetes,Missouri,1444,22.4
+
+4464,2014,Diabetes mellitus (E10-E14),Diabetes,Oregon,1083,22.4
+
+4510,2004,Diabetes mellitus (E10-E14),Diabetes,Rhode Island,280,22.4
+
+4575,2011,Diabetes mellitus (E10-E14),Diabetes,Texas,5091,22.4
+
+4661,2015,Diabetes mellitus (E10-E14),Diabetes,Washington,1811,22.4
+
+4664,2012,Diabetes mellitus (E10-E14),Diabetes,Washington,1650,22.4
+
+5949,2005,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Iowa,896,22.4
+
+6459,1999,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Texas,3534,22.4
+
+9287,2015,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Utah,630,22.4
+
+9400,2010,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wyoming,131,22.4
+

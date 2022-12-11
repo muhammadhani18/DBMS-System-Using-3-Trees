@@ -1,0 +1,8 @@
+7892,2006,Cerebrovascular diseases (I60-I69),Stroke,Maine,670,41.5
+
+9128,2012,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Oklahoma,670,17.6
+
+9386,2006,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wisconsin,670,12
+
+9622,2009,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Idaho,670,44
+

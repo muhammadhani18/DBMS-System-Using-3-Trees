@@ -1,0 +1,16 @@
+1337,2009,Alzheimer's disease (G30),Alzheimer's disease,Maine,466,26.9
+
+1346,2000,Alzheimer's disease (G30),Alzheimer's disease,Maine,466,31.6
+
+7667,2015,Cerebrovascular diseases (I60-I69),Stroke,Delaware,466,39.4
+
+8016,2008,Cerebrovascular diseases (I60-I69),Stroke,Montana,466,40.3
+
+1337,2009,Alzheimer's disease (G30),Alzheimer's disease,Maine,466,26.9
+
+1346,2000,Alzheimer's disease (G30),Alzheimer's disease,Maine,466,31.6
+
+7667,2015,Cerebrovascular diseases (I60-I69),Stroke,Delaware,466,39.4
+
+8016,2008,Cerebrovascular diseases (I60-I69),Stroke,Montana,466,40.3
+

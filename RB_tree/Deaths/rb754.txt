@@ -1,0 +1,8 @@
+1650,2002,Alzheimer's disease (G30),Alzheimer's disease,Oklahoma,754,21.1
+
+3080,2012,Chronic lower respiratory diseases (J40-J47),CLRD,Idaho,754,46
+
+6115,2001,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Mississippi,754,28
+
+6403,2001,Influenza and pneumonia (J09-J18),Influenza and pneumonia,South Carolina,754,20.5
+

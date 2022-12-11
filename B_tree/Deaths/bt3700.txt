@@ -1,0 +1,4 @@
+9986,2002,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,North Carolina,3700,45.3
+
+9986,2002,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,North Carolina,3700,45.3
+

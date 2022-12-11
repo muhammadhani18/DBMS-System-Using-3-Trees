@@ -1,0 +1,4 @@
+8171,2015,Cerebrovascular diseases (I60-I69),Stroke,Ohio,5945,40.7
+
+9957,2014,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,New York,5945,27.6
+

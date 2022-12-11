@@ -1,0 +1,20 @@
+1206,2014,Alzheimer's disease (G30),Alzheimer's disease,Idaho,376,22.4
+
+1521,2005,Alzheimer's disease (G30),Alzheimer's disease,New Hampshire,376,28.3
+
+1601,2015,Alzheimer's disease (G30),Alzheimer's disease,North Dakota,376,36.7
+
+1810,2004,Alzheimer's disease (G30),Alzheimer's disease,Utah,376,23.6
+
+3608,2006,Chronic lower respiratory diseases (J40-J47),CLRD,South Dakota,376,40.1
+
+4144,2010,Diabetes mellitus (E10-E14),Diabetes,Maine,376,21.8
+
+6228,2014,Influenza and pneumonia (J09-J18),Influenza and pneumonia,New Mexico,376,16.1
+
+7123,2001,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Nevada,376,21.6
+
+8540,2006,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arkansas,376,13.3
+
+9041,2009,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,New Mexico,376,18.2
+

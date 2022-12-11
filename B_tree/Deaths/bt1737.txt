@@ -1,0 +1,8 @@
+2067,1999,Malignant neoplasms (C00-C97),Cancer,Delaware,1737,223.3
+
+6270,2008,Influenza and pneumonia (J09-J18),Influenza and pneumonia,North Carolina,1737,19.1
+
+2067,1999,Malignant neoplasms (C00-C97),Cancer,Delaware,1737,223.3
+
+6270,2008,Influenza and pneumonia (J09-J18),Influenza and pneumonia,North Carolina,1737,19.1
+

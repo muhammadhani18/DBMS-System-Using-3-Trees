@@ -1,0 +1,16 @@
+1336,2010,Alzheimer's disease (G30),Alzheimer's disease,Maine,502,28.6
+
+1770,2008,Alzheimer's disease (G30),Alzheimer's disease,Texas,5280,28.6
+
+4114,2004,Diabetes mellitus (E10-E14),Diabetes,Kentucky,1195,28.6
+
+4618,2004,Diabetes mellitus (E10-E14),Diabetes,Utah,485,28.6
+
+5989,2001,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Kentucky,1114,28.6
+
+6060,2002,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Massachusetts,2087,28.6
+
+7579,2013,Cerebrovascular diseases (I60-I69),Stroke,Arizona,2162,28.6
+
+9926,2011,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,New Jersey,2685,28.6
+

@@ -1,0 +1,10 @@
+1336,2010,Alzheimer's disease (G30),Alzheimer's disease,Maine,502,28.6
+
+3599,2015,Chronic lower respiratory diseases (J40-J47),CLRD,South Dakota,502,45.3
+
+8768,2012,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Kansas,502,17.4
+
+8842,2010,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Maryland,502,8.3
+
+9291,2011,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Utah,502,19.4
+

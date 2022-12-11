@@ -1,0 +1,4 @@
+6250,2010,Influenza and pneumonia (J09-J18),Influenza and pneumonia,New York,4642,20.6
+
+6250,2010,Influenza and pneumonia (J09-J18),Influenza and pneumonia,New York,4642,20.6
+

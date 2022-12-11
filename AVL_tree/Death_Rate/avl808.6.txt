@@ -1,0 +1,4 @@
+236,2012,All Causes,All causes,Georgia,72847,808.6
+
+626,2000,All Causes,All causes,New Mexico,13425,808.6
+

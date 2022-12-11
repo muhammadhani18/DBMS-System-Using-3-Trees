@@ -1,0 +1,20 @@
+3687,1999,Chronic lower respiratory diseases (J40-J47),CLRD,Utah,559,37.6
+
+7937,2015,Cerebrovascular diseases (I60-I69),Stroke,Michigan,4666,37.6
+
+8011,2013,Cerebrovascular diseases (I60-I69),Stroke,Montana,480,37.6
+
+8333,2015,Cerebrovascular diseases (I60-I69),Stroke,United States,140323,37.6
+
+8357,2009,Cerebrovascular diseases (I60-I69),Stroke,Utah,738,37.6
+
+9816,2002,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Minnesota,1928,37.6
+
+10158,2000,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Texas,7407,37.6
+
+10159,1999,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Texas,7227,37.6
+
+10173,2003,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,United States,109277,37.6
+
+10234,2010,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Washington,2609,37.6
+

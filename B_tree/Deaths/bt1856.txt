@@ -1,0 +1,8 @@
+7631,2015,Cerebrovascular diseases (I60-I69),Stroke,Colorado,1856,34.9
+
+9829,2006,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Mississippi,1856,64.7
+
+7631,2015,Cerebrovascular diseases (I60-I69),Stroke,Colorado,1856,34.9
+
+9829,2006,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Mississippi,1856,64.7
+

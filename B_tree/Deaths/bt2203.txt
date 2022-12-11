@@ -1,0 +1,8 @@
+1751,2009,Alzheimer's disease (G30),Alzheimer's disease,Tennessee,2203,35.4
+
+10242,2002,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Washington,2203,36.8
+
+1751,2009,Alzheimer's disease (G30),Alzheimer's disease,Tennessee,2203,35.4
+
+10242,2002,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Washington,2203,36.8
+

@@ -1,0 +1,20 @@
+1312,2016,Alzheimer's disease (G30),Alzheimer's disease,Louisiana,2195,45
+
+1866,2002,Alzheimer's disease (G30),Alzheimer's disease,Washington,2195,39
+
+6302,2012,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Ohio,2195,15.5
+
+7874,2006,Cerebrovascular diseases (I60-I69),Stroke,Louisiana,2195,53.9
+
+9772,2012,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Massachusetts,2195,29.8
+
+1312,2016,Alzheimer's disease (G30),Alzheimer's disease,Louisiana,2195,45
+
+1866,2002,Alzheimer's disease (G30),Alzheimer's disease,Washington,2195,39
+
+6302,2012,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Ohio,2195,15.5
+
+7874,2006,Cerebrovascular diseases (I60-I69),Stroke,Louisiana,2195,53.9
+
+9772,2012,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Massachusetts,2195,29.8
+

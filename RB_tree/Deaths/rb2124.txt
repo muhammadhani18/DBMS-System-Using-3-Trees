@@ -1,0 +1,4 @@
+2050,2016,Malignant neoplasms (C00-C97),Cancer,Delaware,2124,170.8
+
+3278,2012,Chronic lower respiratory diseases (J40-J47),CLRD,Minnesota,2124,35.3
+

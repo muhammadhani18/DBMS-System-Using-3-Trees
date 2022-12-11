@@ -1,0 +1,4 @@
+299,2003,All Causes,All causes,Illinois,105325,846.6
+
+692,2006,All Causes,All causes,Ohio,106825,846.6
+

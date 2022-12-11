@@ -1,0 +1,6 @@
+3002,2000,Chronic lower respiratory diseases (J40-J47),CLRD,Delaware,341,44
+
+3479,2009,Chronic lower respiratory diseases (J40-J47),CLRD,North Dakota,341,41.6
+
+3696,2008,Chronic lower respiratory diseases (J40-J47),CLRD,Vermont,341,47.6
+

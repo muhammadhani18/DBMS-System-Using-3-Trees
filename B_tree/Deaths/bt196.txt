@@ -1,0 +1,32 @@
+2885,2009,Chronic lower respiratory diseases (J40-J47),CLRD,Alaska,196,49.7
+
+3928,2010,Diabetes mellitus (E10-E14),Diabetes,Delaware,196,19.2
+
+4423,2001,Diabetes mellitus (E10-E14),Diabetes,North Dakota,196,25.8
+
+4551,1999,Diabetes mellitus (E10-E14),Diabetes,South Dakota,196,23.1
+
+7559,2016,Cerebrovascular diseases (I60-I69),Stroke,Alaska,196,39
+
+7690,2010,Cerebrovascular diseases (I60-I69),Stroke,District of Columbia,196,32.7
+
+8953,2007,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Montana,196,19.4
+
+9004,2010,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,New Hampshire,196,14.1
+
+2885,2009,Chronic lower respiratory diseases (J40-J47),CLRD,Alaska,196,49.7
+
+3928,2010,Diabetes mellitus (E10-E14),Diabetes,Delaware,196,19.2
+
+4423,2001,Diabetes mellitus (E10-E14),Diabetes,North Dakota,196,25.8
+
+4551,1999,Diabetes mellitus (E10-E14),Diabetes,South Dakota,196,23.1
+
+7559,2016,Cerebrovascular diseases (I60-I69),Stroke,Alaska,196,39
+
+7690,2010,Cerebrovascular diseases (I60-I69),Stroke,District of Columbia,196,32.7
+
+8953,2007,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Montana,196,19.4
+
+9004,2010,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,New Hampshire,196,14.1
+

@@ -1,0 +1,4 @@
+5265,2006,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,New Hampshire,2501,181.1
+
+8447,2009,Cerebrovascular diseases (I60-I69),Stroke,Wisconsin,2501,37.7
+

@@ -1,0 +1,4 @@
+5583,2011,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Virginia,13272,162.2
+
+5652,2014,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Wyoming,1035,162.2
+

@@ -1,0 +1,8 @@
+6719,2009,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Connecticut,585,13.3
+
+6727,2001,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Connecticut,585,15.1
+
+8859,2011,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Massachusetts,585,8.4
+
+9026,2006,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,New Jersey,585,6.5
+

@@ -1,0 +1,28 @@
+1809,2005,Alzheimer's disease (G30),Alzheimer's disease,Utah,368,22.4
+
+3779,2015,Chronic lower respiratory diseases (J40-J47),CLRD,Wyoming,368,57.1
+
+6186,2002,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Nevada,368,22.5
+
+8163,2005,Cerebrovascular diseases (I60-I69),Stroke,North Dakota,368,43
+
+8588,2012,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Connecticut,368,9.9
+
+9432,2012,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Alaska,368,54.1
+
+9990,2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,North Dakota,368,44.1
+
+1809,2005,Alzheimer's disease (G30),Alzheimer's disease,Utah,368,22.4
+
+3779,2015,Chronic lower respiratory diseases (J40-J47),CLRD,Wyoming,368,57.1
+
+6186,2002,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Nevada,368,22.5
+
+8163,2005,Cerebrovascular diseases (I60-I69),Stroke,North Dakota,368,43
+
+8588,2012,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Connecticut,368,9.9
+
+9432,2012,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Alaska,368,54.1
+
+9990,2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,North Dakota,368,44.1
+

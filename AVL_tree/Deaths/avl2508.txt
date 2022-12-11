@@ -1,0 +1,4 @@
+2912,2000,Chronic lower respiratory diseases (J40-J47),CLRD,Arizona,2508,49.3
+
+8263,2013,Cerebrovascular diseases (I60-I69),Stroke,South Carolina,2508,47.6
+

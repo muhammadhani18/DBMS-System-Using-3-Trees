@@ -1,0 +1,52 @@
+1011,2011,Alzheimer's disease (G30),Alzheimer's disease,Alaska,72,20.5
+
+1136,2012,Alzheimer's disease (G30),Alzheimer's disease,District of Columbia,129,20.5
+
+1231,2007,Alzheimer's disease (G30),Alzheimer's disease,Illinois,2734,20.5
+
+1255,2001,Alzheimer's disease (G30),Alzheimer's disease,Indiana,1231,20.5
+
+1291,2001,Alzheimer's disease (G30),Alzheimer's disease,Kansas,642,20.5
+
+1363,2001,Alzheimer's disease (G30),Alzheimer's disease,Maryland,948,20.5
+
+1725,1999,Alzheimer's disease (G30),Alzheimer's disease,South Carolina,690,20.5
+
+1778,2000,Alzheimer's disease (G30),Alzheimer's disease,Texas,3184,20.5
+
+1833,1999,Alzheimer's disease (G30),Alzheimer's disease,Vermont,127,20.5
+
+4189,2001,Diabetes mellitus (E10-E14),Diabetes,Massachusetts,1422,20.5
+
+4249,2013,Diabetes mellitus (E10-E14),Diabetes,Missouri,1477,20.5
+
+4294,2004,Diabetes mellitus (E10-E14),Diabetes,Nebraska,395,20.5
+
+4396,2010,Diabetes mellitus (E10-E14),Diabetes,North Carolina,2042,20.5
+
+4624,2016,Diabetes mellitus (E10-E14),Diabetes,Vermont,166,20.5
+
+5789,2003,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Connecticut,860,20.5
+
+6247,2013,Influenza and pneumonia (J09-J18),Influenza and pneumonia,New York,4892,20.5
+
+6251,2009,Influenza and pneumonia (J09-J18),Influenza and pneumonia,New York,4527,20.5
+
+6253,2007,Influenza and pneumonia (J09-J18),Influenza and pneumonia,New York,4431,20.5
+
+6403,2001,Influenza and pneumonia (J09-J18),Influenza and pneumonia,South Carolina,754,20.5
+
+6430,2010,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Tennessee,1352,20.5
+
+6453,2005,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Texas,3654,20.5
+
+6913,2013,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Kentucky,991,20.5
+
+7459,2008,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Virginia,1537,20.5
+
+8566,2016,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Colorado,1168,20.5
+
+9288,2014,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Utah,559,20.5
+
+10090,2000,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Rhode Island,235,20.5
+

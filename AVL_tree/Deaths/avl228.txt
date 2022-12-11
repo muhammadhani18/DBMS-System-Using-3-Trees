@@ -1,0 +1,12 @@
+1468,2004,Alzheimer's disease (G30),Alzheimer's disease,Montana,228,21.5
+
+4271,2009,Diabetes mellitus (E10-E14),Diabetes,Montana,228,19.4
+
+5893,2007,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Idaho,228,15.7
+
+7420,2011,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Utah,228,11
+
+8703,2005,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Idaho,228,16.5
+
+8999,2015,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,New Hampshire,228,16.5
+

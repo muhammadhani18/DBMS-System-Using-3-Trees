@@ -1,0 +1,4 @@
+9257,2009,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Texas,2809,11.6
+
+10216,2011,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Virginia,2809,34.4
+

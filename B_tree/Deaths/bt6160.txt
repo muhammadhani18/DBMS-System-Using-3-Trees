@@ -1,0 +1,4 @@
+8125,2007,Cerebrovascular diseases (I60-I69),Stroke,New York,6160,28.8
+
+8125,2007,Cerebrovascular diseases (I60-I69),Stroke,New York,6160,28.8
+

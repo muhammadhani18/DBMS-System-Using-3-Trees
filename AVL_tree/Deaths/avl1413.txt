@@ -1,0 +1,4 @@
+6216,2008,Influenza and pneumonia (J09-J18),Influenza and pneumonia,New Jersey,1413,14.2
+
+9782,2002,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Massachusetts,1413,20.7
+

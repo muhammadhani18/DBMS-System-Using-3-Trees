@@ -1,0 +1,16 @@
+1381,2001,Alzheimer's disease (G30),Alzheimer's disease,Massachusetts,1533,20.9
+
+2984,2000,Chronic lower respiratory diseases (J40-J47),CLRD,Connecticut,1533,40.1
+
+6424,2016,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Tennessee,1533,20.1
+
+7015,2001,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Michigan,1533,15.8
+
+1381,2001,Alzheimer's disease (G30),Alzheimer's disease,Massachusetts,1533,20.9
+
+2984,2000,Chronic lower respiratory diseases (J40-J47),CLRD,Connecticut,1533,40.1
+
+6424,2016,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Tennessee,1533,20.1
+
+7015,2001,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Michigan,1533,15.8
+

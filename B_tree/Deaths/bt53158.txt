@@ -1,0 +1,4 @@
+2012,2000,Malignant neoplasms (C00-C97),Cancer,California,53158,182.1
+
+2012,2000,Malignant neoplasms (C00-C97),Cancer,California,53158,182.1
+

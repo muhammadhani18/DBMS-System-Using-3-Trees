@@ -1,0 +1,6 @@
+4042,2004,Diabetes mellitus (E10-E14),Diabetes,Illinois,3069,24.5
+
+6368,2000,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Pennsylvania,3069,20.3
+
+7990,2016,Cerebrovascular diseases (I60-I69),Stroke,Missouri,3069,40.4
+

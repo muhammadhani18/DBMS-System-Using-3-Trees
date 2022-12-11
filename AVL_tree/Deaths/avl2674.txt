@@ -1,0 +1,4 @@
+3238,2016,Chronic lower respiratory diseases (J40-J47),CLRD,Massachusetts,2674,31.4
+
+5081,2009,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Maine,2674,156.4
+

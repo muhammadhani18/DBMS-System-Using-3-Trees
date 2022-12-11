@@ -1,0 +1,20 @@
+4087,2013,Diabetes mellitus (E10-E14),Diabetes,Kansas,654,19.8
+
+4237,2007,Diabetes mellitus (E10-E14),Diabetes,Mississippi,654,22.1
+
+7031,2003,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Minnesota,654,12.3
+
+8481,2011,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Alabama,654,13.2
+
+9621,2010,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Idaho,654,42.1
+
+4087,2013,Diabetes mellitus (E10-E14),Diabetes,Kansas,654,19.8
+
+4237,2007,Diabetes mellitus (E10-E14),Diabetes,Mississippi,654,22.1
+
+7031,2003,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Minnesota,654,12.3
+
+8481,2011,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Alabama,654,13.2
+
+9621,2010,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Idaho,654,42.1
+

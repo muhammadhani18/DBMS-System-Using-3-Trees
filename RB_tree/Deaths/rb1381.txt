@@ -1,0 +1,6 @@
+1450,2004,Alzheimer's disease (G30),Alzheimer's disease,Missouri,1381,21.9
+
+5347,2014,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,North Dakota,1381,149.2
+
+6988,2010,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Massachusetts,1381,17.5
+

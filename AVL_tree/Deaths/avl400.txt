@@ -1,0 +1,14 @@
+1214,2006,Alzheimer's disease (G30),Alzheimer's disease,Idaho,400,29
+
+4297,2001,Diabetes mellitus (E10-E14),Diabetes,Nebraska,400,21.3
+
+4305,2011,Diabetes mellitus (E10-E14),Diabetes,Nevada,400,15.1
+
+7276,2010,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Oregon,400,8.9
+
+8541,2005,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arkansas,400,14.3
+
+8996,2000,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Nevada,400,20.2
+
+10280,2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wyoming,400,65.8
+

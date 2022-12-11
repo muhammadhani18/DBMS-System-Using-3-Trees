@@ -1,0 +1,4 @@
+2158,2016,Malignant neoplasms (C00-C97),Cancer,Illinois,24389,163.5
+
+2630,2012,Malignant neoplasms (C00-C97),Cancer,Rhode Island,2148,163.5
+

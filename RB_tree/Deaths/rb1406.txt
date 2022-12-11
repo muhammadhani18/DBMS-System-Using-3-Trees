@@ -1,0 +1,10 @@
+1263,2011,Alzheimer's disease (G30),Alzheimer's disease,Iowa,1406,32.4
+
+1317,2011,Alzheimer's disease (G30),Alzheimer's disease,Louisiana,1406,32.4
+
+6992,2006,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Massachusetts,1406,18.7
+
+9071,2015,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,North Carolina,1406,13.4
+
+9474,2004,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arkansas,1406,50.6
+

@@ -1,0 +1,4 @@
+7783,2007,Cerebrovascular diseases (I60-I69),Stroke,Illinois,5864,44.7
+
+7952,2000,Cerebrovascular diseases (I60-I69),Stroke,Michigan,5864,61.6
+

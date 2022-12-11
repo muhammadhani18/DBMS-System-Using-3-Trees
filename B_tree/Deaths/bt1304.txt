@@ -1,0 +1,8 @@
+2538,2014,Malignant neoplasms (C00-C97),Cancer,North Dakota,1304,152.3
+
+9475,2003,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arkansas,1304,46.9
+
+2538,2014,Malignant neoplasms (C00-C97),Cancer,North Dakota,1304,152.3
+
+9475,2003,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arkansas,1304,46.9
+

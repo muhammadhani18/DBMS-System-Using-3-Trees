@@ -1,0 +1,16 @@
+5571,2005,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Vermont,1234,180.5
+
+6210,2014,Influenza and pneumonia (J09-J18),Influenza and pneumonia,New Jersey,1234,11.3
+
+6987,2011,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Massachusetts,1234,15.2
+
+10251,2010,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,West Virginia,1234,63.7
+
+5571,2005,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Vermont,1234,180.5
+
+6210,2014,Influenza and pneumonia (J09-J18),Influenza and pneumonia,New Jersey,1234,11.3
+
+6987,2011,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Massachusetts,1234,15.2
+
+10251,2010,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,West Virginia,1234,63.7
+

@@ -1,0 +1,8 @@
+3755,2003,Chronic lower respiratory diseases (J40-J47),CLRD,West Virginia,1296,59.2
+
+4115,2003,Diabetes mellitus (E10-E14),Diabetes,Kentucky,1296,31.6
+
+8438,2000,Cerebrovascular diseases (I60-I69),Stroke,West Virginia,1296,61.3
+
+9768,1999,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Maryland,1296,25.9
+

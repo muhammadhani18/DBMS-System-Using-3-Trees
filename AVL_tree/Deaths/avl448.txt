@@ -1,0 +1,6 @@
+1495,2013,Alzheimer's disease (G30),Alzheimer's disease,Nevada,448,18.4
+
+6558,2008,Influenza and pneumonia (J09-J18),Influenza and pneumonia,West Virginia,448,20
+
+6696,2014,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Colorado,448,8.5
+

@@ -1,0 +1,8 @@
+5555,2003,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Utah,3018,187.4
+
+9451,2010,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arizona,3018,46.7
+
+5555,2003,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Utah,3018,187.4
+
+9451,2010,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arizona,3018,46.7
+

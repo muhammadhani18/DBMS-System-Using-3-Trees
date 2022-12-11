@@ -1,0 +1,8 @@
+3623,2009,Chronic lower respiratory diseases (J40-J47),CLRD,Tennessee,3503,52.9
+
+8002,2004,Cerebrovascular diseases (I60-I69),Stroke,Missouri,3503,56.1
+
+3623,2009,Chronic lower respiratory diseases (J40-J47),CLRD,Tennessee,3503,52.9
+
+8002,2004,Cerebrovascular diseases (I60-I69),Stroke,Missouri,3503,56.1
+

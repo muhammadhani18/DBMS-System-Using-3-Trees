@@ -1,0 +1,8 @@
+5911,2007,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Illinois,2550,19.3
+
+7967,2003,Cerebrovascular diseases (I60-I69),Stroke,Minnesota,2550,47.9
+
+5911,2007,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Illinois,2550,19.3
+
+7967,2003,Cerebrovascular diseases (I60-I69),Stroke,Minnesota,2550,47.9
+

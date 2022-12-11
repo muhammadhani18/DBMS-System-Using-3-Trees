@@ -1,0 +1,16 @@
+1326,2002,Alzheimer's disease (G30),Alzheimer's disease,Louisiana,1111,28.5
+
+5716,2004,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arizona,1111,20.3
+
+6040,2004,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Maryland,1111,21.9
+
+9232,2016,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Tennessee,1111,16.3
+
+1326,2002,Alzheimer's disease (G30),Alzheimer's disease,Louisiana,1111,28.5
+
+5716,2004,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arizona,1111,20.3
+
+6040,2004,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Maryland,1111,21.9
+
+9232,2016,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Tennessee,1111,16.3
+

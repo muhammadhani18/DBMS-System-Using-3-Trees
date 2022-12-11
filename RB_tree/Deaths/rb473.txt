@@ -1,0 +1,8 @@
+1485,2005,Alzheimer's disease (G30),Alzheimer's disease,Nebraska,473,22.3
+
+4284,2014,Diabetes mellitus (E10-E14),Diabetes,Nebraska,473,21.5
+
+6552,2014,Influenza and pneumonia (J09-J18),Influenza and pneumonia,West Virginia,473,19.6
+
+9292,2010,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Utah,473,18.3
+

@@ -1,0 +1,16 @@
+1289,2003,Alzheimer's disease (G30),Alzheimer's disease,Kansas,781,24.7
+
+7339,2002,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,South Carolina,781,20.1
+
+7771,2001,Cerebrovascular diseases (I60-I69),Stroke,Idaho,781,65.4
+
+9872,2014,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Nebraska,781,38.6
+
+1289,2003,Alzheimer's disease (G30),Alzheimer's disease,Kansas,781,24.7
+
+7339,2002,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,South Carolina,781,20.1
+
+7771,2001,Cerebrovascular diseases (I60-I69),Stroke,Idaho,781,65.4
+
+9872,2014,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Nebraska,781,38.6
+

@@ -1,0 +1,4 @@
+4762,2004,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Alaska,589,160.1
+
+6720,2008,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Connecticut,589,13.5
+

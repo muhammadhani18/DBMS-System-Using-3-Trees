@@ -1,0 +1,12 @@
+6109,2007,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Mississippi,554,19.7
+
+6726,2002,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Connecticut,554,14
+
+6901,2007,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Kansas,554,17.6
+
+6904,2004,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Kansas,554,18.1
+
+7256,2012,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Oklahoma,554,13.4
+
+8900,2006,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Minnesota,554,10.6
+

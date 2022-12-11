@@ -1,0 +1,4 @@
+3447,2005,Chronic lower respiratory diseases (J40-J47),CLRD,New York,6818,33.2
+
+3447,2005,Chronic lower respiratory diseases (J40-J47),CLRD,New York,6818,33.2
+

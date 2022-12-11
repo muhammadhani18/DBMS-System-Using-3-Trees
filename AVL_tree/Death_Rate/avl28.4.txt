@@ -1,0 +1,26 @@
+1050,2008,Alzheimer's disease (G30),Alzheimer's disease,Arkansas,893,28.4
+
+1082,2012,Alzheimer's disease (G30),Alzheimer's disease,Colorado,1322,28.4
+
+1331,2015,Alzheimer's disease (G30),Alzheimer's disease,Maine,544,28.4
+
+1586,2012,Alzheimer's disease (G30),Alzheimer's disease,North Carolina,2850,28.4
+
+1594,2004,Alzheimer's disease (G30),Alzheimer's disease,North Carolina,2188,28.4
+
+3436,2016,Chronic lower respiratory diseases (J40-J47),CLRD,New York,6860,28.4
+
+3935,2003,Diabetes mellitus (E10-E14),Diabetes,Delaware,239,28.4
+
+4102,2016,Diabetes mellitus (E10-E14),Diabetes,Kentucky,1479,28.4
+
+4448,2012,Diabetes mellitus (E10-E14),Diabetes,Oklahoma,1201,28.4
+
+5955,1999,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Iowa,1082,28.4
+
+6261,1999,Influenza and pneumonia (J09-J18),Influenza and pneumonia,New York,5482,28.4
+
+7919,2015,Cerebrovascular diseases (I60-I69),Stroke,Massachusetts,2475,28.4
+
+9564,1999,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,District of Columbia,161,28.4
+

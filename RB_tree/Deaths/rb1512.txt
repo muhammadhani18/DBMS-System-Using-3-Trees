@@ -1,0 +1,8 @@
+1899,2005,Alzheimer's disease (G30),Alzheimer's disease,Wisconsin,1512,23.5
+
+3146,2000,Chronic lower respiratory diseases (J40-J47),CLRD,Iowa,1512,42.9
+
+5356,2005,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,North Dakota,1512,181.3
+
+6047,2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Massachusetts,1512,17.1
+

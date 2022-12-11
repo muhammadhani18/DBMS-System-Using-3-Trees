@@ -1,0 +1,14 @@
+1113,1999,Alzheimer's disease (G30),Alzheimer's disease,Connecticut,449,11.4
+
+1435,2001,Alzheimer's disease (G30),Alzheimer's disease,Mississippi,449,16.8
+
+1726,2016,Alzheimer's disease (G30),Alzheimer's disease,South Dakota,449,37.1
+
+4293,2005,Diabetes mellitus (E10-E14),Diabetes,Nebraska,449,23.3
+
+9036,2014,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,New Mexico,449,21
+
+9293,2009,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Utah,449,17.9
+
+9531,2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Delaware,449,46
+

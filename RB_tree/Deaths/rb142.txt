@@ -1,0 +1,12 @@
+1919,2003,Alzheimer's disease (G30),Alzheimer's disease,Wyoming,142,30.9
+
+2892,2002,Chronic lower respiratory diseases (J40-J47),CLRD,Alaska,142,47.5
+
+3815,2015,Diabetes mellitus (E10-E14),Diabetes,Alaska,142,23.9
+
+6593,2009,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wyoming,142,26.7
+
+7307,2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Rhode Island,142,9.8
+
+7321,2002,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Rhode Island,142,11.2
+

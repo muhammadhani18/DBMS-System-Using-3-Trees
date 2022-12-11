@@ -1,0 +1,8 @@
+2588,2000,Malignant neoplasms (C00-C97),Cancer,Oklahoma,7402,207.4
+
+3646,2004,Chronic lower respiratory diseases (J40-J47),CLRD,Texas,7402,41.9
+
+2588,2000,Malignant neoplasms (C00-C97),Cancer,Oklahoma,7402,207.4
+
+3646,2004,Chronic lower respiratory diseases (J40-J47),CLRD,Texas,7402,41.9
+

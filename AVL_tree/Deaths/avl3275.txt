@@ -1,0 +1,4 @@
+2266,2016,Malignant neoplasms (C00-C97),Cancer,Maine,3275,168.9
+
+5299,2008,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,New Mexico,3275,161.3
+

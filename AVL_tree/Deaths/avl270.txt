@@ -1,0 +1,8 @@
+3793,2001,Chronic lower respiratory diseases (J40-J47),CLRD,Wyoming,270,57.9
+
+5874,2008,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Hawaii,270,17.1
+
+7098,2008,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Nebraska,270,12.8
+
+7419,2012,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Utah,270,12.4
+

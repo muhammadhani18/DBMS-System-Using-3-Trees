@@ -1,0 +1,4 @@
+7,2016,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Connecticut,1978,50.3
+
+8216,2006,Cerebrovascular diseases (I60-I69),Stroke,Oregon,1978,48.2
+

@@ -1,0 +1,20 @@
+3904,2016,Diabetes mellitus (E10-E14),Diabetes,Connecticut,699,14.9
+
+6404,2000,Influenza and pneumonia (J09-J18),Influenza and pneumonia,South Carolina,699,19.5
+
+6976,2004,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Maryland,699,13.5
+
+8942,2000,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Missouri,699,12.5
+
+9619,2012,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Idaho,699,43.7
+
+3904,2016,Diabetes mellitus (E10-E14),Diabetes,Connecticut,699,14.9
+
+6404,2000,Influenza and pneumonia (J09-J18),Influenza and pneumonia,South Carolina,699,19.5
+
+6976,2004,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Maryland,699,13.5
+
+8942,2000,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Missouri,699,12.5
+
+9619,2012,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Idaho,699,43.7
+

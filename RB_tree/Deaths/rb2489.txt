@@ -1,0 +1,4 @@
+4963,2001,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Idaho,2489,207
+
+7876,2004,Cerebrovascular diseases (I60-I69),Stroke,Louisiana,2489,59.8
+

@@ -1,0 +1,8 @@
+1231,2007,Alzheimer's disease (G30),Alzheimer's disease,Illinois,2734,20.5
+
+7913,2003,Cerebrovascular diseases (I60-I69),Stroke,Maryland,2734,54.7
+
+1231,2007,Alzheimer's disease (G30),Alzheimer's disease,Illinois,2734,20.5
+
+7913,2003,Cerebrovascular diseases (I60-I69),Stroke,Maryland,2734,54.7
+

@@ -1,0 +1,10 @@
+7592,2000,Cerebrovascular diseases (I60-I69),Stroke,Arizona,2648,53.8
+
+7600,2010,Cerebrovascular diseases (I60-I69),Stroke,Arkansas,1741,53.8
+
+8270,2006,Cerebrovascular diseases (I60-I69),Stroke,South Carolina,2291,53.8
+
+9420,2007,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Alabama,2542,53.8
+
+9735,2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Maine,802,53.8
+

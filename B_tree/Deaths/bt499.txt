@@ -1,0 +1,12 @@
+6177,2011,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Nevada,499,19.7
+
+8069,2009,Cerebrovascular diseases (I60-I69),Stroke,New Hampshire,499,34.1
+
+8814,2002,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Louisiana,499,11.2
+
+6177,2011,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Nevada,499,19.7
+
+8069,2009,Cerebrovascular diseases (I60-I69),Stroke,New Hampshire,499,34.1
+
+8814,2002,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Louisiana,499,11.2
+

@@ -1,0 +1,8 @@
+4493,2003,Diabetes mellitus (E10-E14),Diabetes,Pennsylvania,3732,24.8
+
+7727,2009,Cerebrovascular diseases (I60-I69),Stroke,Georgia,3732,46.9
+
+4493,2003,Diabetes mellitus (E10-E14),Diabetes,Pennsylvania,3732,24.8
+
+7727,2009,Cerebrovascular diseases (I60-I69),Stroke,Georgia,3732,46.9
+

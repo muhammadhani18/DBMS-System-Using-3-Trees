@@ -1,0 +1,38 @@
+1002,2002,Alzheimer's disease (G30),Alzheimer's disease,Alabama,1189,27
+
+1014,2008,Alzheimer's disease (G30),Alzheimer's disease,Alaska,80,27
+
+1268,2006,Alzheimer's disease (G30),Alzheimer's disease,Iowa,1121,27
+
+1386,2014,Alzheimer's disease (G30),Alzheimer's disease,Michigan,3349,27
+
+1920,2002,Alzheimer's disease (G30),Alzheimer's disease,Wyoming,122,27
+
+3855,2011,Diabetes mellitus (E10-E14),Diabetes,Arkansas,908,27
+
+3864,2002,Diabetes mellitus (E10-E14),Diabetes,Arkansas,793,27
+
+4059,2005,Diabetes mellitus (E10-E14),Diabetes,Indiana,1719,27
+
+4208,2000,Diabetes mellitus (E10-E14),Diabetes,Michigan,2603,27
+
+4407,1999,Diabetes mellitus (E10-E14),Diabetes,North Carolina,2050,27
+
+4421,2003,Diabetes mellitus (E10-E14),Diabetes,North Dakota,211,27
+
+4471,2007,Diabetes mellitus (E10-E14),Diabetes,Oregon,1113,27
+
+4616,2006,Diabetes mellitus (E10-E14),Diabetes,Utah,496,27
+
+4638,2002,Diabetes mellitus (E10-E14),Diabetes,Vermont,174,27
+
+5753,2003,Influenza and pneumonia (J09-J18),Influenza and pneumonia,California,8185,27
+
+6059,2003,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Massachusetts,2019,27
+
+7652,2012,Cerebrovascular diseases (I60-I69),Stroke,Connecticut,1273,27
+
+8123,2009,Cerebrovascular diseases (I60-I69),Stroke,New York,5950,27
+
+9934,2003,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,New Jersey,2371,27
+

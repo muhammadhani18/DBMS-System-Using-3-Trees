@@ -1,0 +1,4 @@
+5021,2015,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Kansas,5624,158.5
+
+5021,2015,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Kansas,5624,158.5
+

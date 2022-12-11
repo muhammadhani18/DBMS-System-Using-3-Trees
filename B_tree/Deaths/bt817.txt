@@ -1,0 +1,12 @@
+3206,2012,Chronic lower respiratory diseases (J40-J47),CLRD,Maine,817,45.4
+
+8115,1999,Cerebrovascular diseases (I60-I69),Stroke,New Mexico,817,52.5
+
+10261,2000,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,West Virginia,817,43.2
+
+3206,2012,Chronic lower respiratory diseases (J40-J47),CLRD,Maine,817,45.4
+
+8115,1999,Cerebrovascular diseases (I60-I69),Stroke,New Mexico,817,52.5
+
+10261,2000,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,West Virginia,817,43.2
+

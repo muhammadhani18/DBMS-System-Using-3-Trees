@@ -1,0 +1,8 @@
+1270,2004,Alzheimer's disease (G30),Alzheimer's disease,Iowa,968,24
+
+6912,2014,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Kentucky,968,19.5
+
+1270,2004,Alzheimer's disease (G30),Alzheimer's disease,Iowa,968,24
+
+6912,2014,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Kentucky,968,19.5
+

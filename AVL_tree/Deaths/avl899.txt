@@ -1,0 +1,8 @@
+1091,2003,Alzheimer's disease (G30),Alzheimer's disease,Colorado,899,26.5
+
+1272,2002,Alzheimer's disease (G30),Alzheimer's disease,Iowa,899,22.6
+
+2859,1999,Malignant neoplasms (C00-C97),Cancer,Wyoming,899,195.1
+
+10184,2009,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Utah,899,38.2
+

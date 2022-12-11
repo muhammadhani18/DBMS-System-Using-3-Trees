@@ -1,0 +1,12 @@
+5687,2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Alaska,41,8.4
+
+6501,2011,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Vermont,68,8.4
+
+6635,2003,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Alaska,28,8.4
+
+8847,2005,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Maryland,472,8.4
+
+8851,2001,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Maryland,454,8.4
+
+8859,2011,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Massachusetts,585,8.4
+

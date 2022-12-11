@@ -1,0 +1,8 @@
+1271,2003,Alzheimer's disease (G30),Alzheimer's disease,Iowa,887,22.1
+
+3887,2015,Diabetes mellitus (E10-E14),Diabetes,Colorado,887,15.9
+
+1271,2003,Alzheimer's disease (G30),Alzheimer's disease,Iowa,887,22.1
+
+3887,2015,Diabetes mellitus (E10-E14),Diabetes,Colorado,887,15.9
+

@@ -1,0 +1,12 @@
+3221,2015,Chronic lower respiratory diseases (J40-J47),CLRD,Maryland,2040,30.7
+
+6305,2009,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Ohio,2040,15.4
+
+9776,2008,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Massachusetts,2040,29
+
+3221,2015,Chronic lower respiratory diseases (J40-J47),CLRD,Maryland,2040,30.7
+
+6305,2009,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Ohio,2040,15.4
+
+9776,2008,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Massachusetts,2040,29
+

@@ -1,0 +1,4 @@
+1316,2012,Alzheimer's disease (G30),Alzheimer's disease,Louisiana,1399,31.6
+
+2753,2015,Malignant neoplasms (C00-C97),Cancer,Vermont,1399,165.3
+

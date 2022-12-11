@@ -1,0 +1,28 @@
+4150,2004,Diabetes mellitus (E10-E14),Diabetes,Maine,382,24.7
+
+6338,2012,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Oregon,382,8.1
+
+8158,2010,Cerebrovascular diseases (I60-I69),Stroke,North Dakota,382,42.9
+
+8545,2001,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arkansas,382,14.3
+
+8771,2009,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Kansas,382,13.6
+
+8773,2007,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Kansas,382,13.7
+
+10123,2001,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,South Dakota,382,47.3
+
+4150,2004,Diabetes mellitus (E10-E14),Diabetes,Maine,382,24.7
+
+6338,2012,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Oregon,382,8.1
+
+8158,2010,Cerebrovascular diseases (I60-I69),Stroke,North Dakota,382,42.9
+
+8545,2001,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arkansas,382,14.3
+
+8771,2009,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Kansas,382,13.6
+
+8773,2007,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Kansas,382,13.7
+
+10123,2001,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,South Dakota,382,47.3
+

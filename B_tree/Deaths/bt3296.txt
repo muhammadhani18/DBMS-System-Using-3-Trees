@@ -1,0 +1,8 @@
+5221,2014,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Nebraska,3296,143
+
+7803,2005,Cerebrovascular diseases (I60-I69),Stroke,Indiana,3296,51.9
+
+5221,2014,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Nebraska,3296,143
+
+7803,2005,Cerebrovascular diseases (I60-I69),Stroke,Indiana,3296,51.9
+

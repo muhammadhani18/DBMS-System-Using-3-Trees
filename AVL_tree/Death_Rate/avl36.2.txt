@@ -1,0 +1,22 @@
+1602,2014,Alzheimer's disease (G30),Alzheimer's disease,North Dakota,364,36.2
+
+1728,2014,Alzheimer's disease (G30),Alzheimer's disease,South Dakota,434,36.2
+
+7613,2015,Cerebrovascular diseases (I60-I69),Stroke,California,15065,36.2
+
+7659,2005,Cerebrovascular diseases (I60-I69),Stroke,Connecticut,1528,36.2
+
+8335,2013,Cerebrovascular diseases (I60-I69),Stroke,United States,128978,36.2
+
+9791,2010,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Michigan,3770,36.2
+
+9809,2009,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Minnesota,2037,36.2
+
+9810,2008,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Minnesota,2010,36.2
+
+9813,2005,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Minnesota,1922,36.2
+
+10219,2008,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Virginia,2820,36.2
+
+10223,2004,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Virginia,2630,36.2
+

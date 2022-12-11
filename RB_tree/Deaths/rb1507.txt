@@ -1,0 +1,4 @@
+4651,2007,Diabetes mellitus (E10-E14),Diabetes,Virginia,1507,20
+
+7012,2004,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Michigan,1507,14.8
+

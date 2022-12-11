@@ -1,0 +1,12 @@
+4557,2011,Diabetes mellitus (E10-E14),Diabetes,Tennessee,1748,25
+
+7251,1999,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Ohio,1748,15
+
+10036,2003,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Oklahoma,1748,49.9
+
+4557,2011,Diabetes mellitus (E10-E14),Diabetes,Tennessee,1748,25
+
+7251,1999,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Ohio,1748,15
+
+10036,2003,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Oklahoma,1748,49.9
+

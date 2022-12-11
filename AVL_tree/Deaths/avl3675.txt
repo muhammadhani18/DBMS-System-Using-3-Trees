@@ -1,0 +1,4 @@
+4443,1999,Diabetes mellitus (E10-E14),Diabetes,Ohio,3675,31.4
+
+8397,2005,Cerebrovascular diseases (I60-I69),Stroke,Virginia,3675,53.7
+

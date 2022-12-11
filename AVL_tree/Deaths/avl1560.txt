@@ -1,0 +1,6 @@
+1376,2006,Alzheimer's disease (G30),Alzheimer's disease,Massachusetts,1560,19.8
+
+1713,2011,Alzheimer's disease (G30),Alzheimer's disease,South Carolina,1560,33.1
+
+4649,2009,Diabetes mellitus (E10-E14),Diabetes,Virginia,1560,19.5
+

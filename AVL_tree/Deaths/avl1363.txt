@@ -1,0 +1,8 @@
+6864,2008,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Indiana,1363,20.2
+
+7828,2016,Cerebrovascular diseases (I60-I69),Stroke,Kansas,1363,38.6
+
+7830,2014,Cerebrovascular diseases (I60-I69),Stroke,Kansas,1363,39
+
+8711,2015,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Illinois,1363,10.3
+

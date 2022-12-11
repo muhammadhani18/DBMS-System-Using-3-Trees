@@ -1,0 +1,8 @@
+1180,2004,Alzheimer's disease (G30),Alzheimer's disease,Georgia,1710,27.8
+
+6438,2002,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Tennessee,1710,31
+
+1180,2004,Alzheimer's disease (G30),Alzheimer's disease,Georgia,1710,27.8
+
+6438,2002,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Tennessee,1710,31
+

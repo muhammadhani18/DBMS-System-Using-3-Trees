@@ -1,0 +1,20 @@
+3386,2012,Chronic lower respiratory diseases (J40-J47),CLRD,New Hampshire,674,43.5
+
+6086,2012,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Minnesota,674,10.6
+
+6662,2012,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arkansas,674,19.8
+
+8360,2006,Cerebrovascular diseases (I60-I69),Stroke,Utah,674,38.2
+
+9879,2007,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Nebraska,674,35.8
+
+3386,2012,Chronic lower respiratory diseases (J40-J47),CLRD,New Hampshire,674,43.5
+
+6086,2012,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Minnesota,674,10.6
+
+6662,2012,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arkansas,674,19.8
+
+8360,2006,Cerebrovascular diseases (I60-I69),Stroke,Utah,674,38.2
+
+9879,2007,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Nebraska,674,35.8
+

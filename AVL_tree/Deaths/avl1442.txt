@@ -1,0 +1,6 @@
+4445,2015,Diabetes mellitus (E10-E14),Diabetes,Oklahoma,1442,32.4
+
+6517,2013,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Virginia,1442,17
+
+6863,2009,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Indiana,1442,21.2
+

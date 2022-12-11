@@ -1,0 +1,16 @@
+1662,2008,Alzheimer's disease (G30),Alzheimer's disease,Oregon,1302,29.8
+
+2547,2005,Malignant neoplasms (C00-C97),Cancer,North Dakota,1302,170.5
+
+3802,2010,Diabetes mellitus (E10-E14),Diabetes,Alabama,1302,25
+
+9523,2006,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Connecticut,1302,34.6
+
+1662,2008,Alzheimer's disease (G30),Alzheimer's disease,Oregon,1302,29.8
+
+2547,2005,Malignant neoplasms (C00-C97),Cancer,North Dakota,1302,170.5
+
+3802,2010,Diabetes mellitus (E10-E14),Diabetes,Alabama,1302,25
+
+9523,2006,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Connecticut,1302,34.6
+

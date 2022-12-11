@@ -1,0 +1,6 @@
+2080,2004,Malignant neoplasms (C00-C97),Cancer,District of Columbia,1152,206.4
+
+2319,1999,Malignant neoplasms (C00-C97),Cancer,Massachusetts,13853,206.4
+
+2642,2000,Malignant neoplasms (C00-C97),Cancer,Rhode Island,2433,206.4
+

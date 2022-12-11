@@ -1,0 +1,6 @@
+1691,2015,Alzheimer's disease (G30),Alzheimer's disease,Rhode Island,453,28.8
+
+6335,2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Oregon,453,9
+
+6491,2003,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Utah,453,28.2
+

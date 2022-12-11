@@ -1,0 +1,8 @@
+4937,2009,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Hawaii,2363,146.6
+
+9263,2003,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Texas,2363,11.1
+
+4937,2009,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Hawaii,2363,146.6
+
+9263,2003,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Texas,2363,11.1
+

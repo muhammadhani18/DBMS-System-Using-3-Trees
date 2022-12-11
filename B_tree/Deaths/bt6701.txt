@@ -1,0 +1,4 @@
+8230,2010,Cerebrovascular diseases (I60-I69),Stroke,Pennsylvania,6701,39.3
+
+8230,2010,Cerebrovascular diseases (I60-I69),Stroke,Pennsylvania,6701,39.3
+

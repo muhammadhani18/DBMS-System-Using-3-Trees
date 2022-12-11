@@ -1,0 +1,12 @@
+7879,2001,Cerebrovascular diseases (I60-I69),Stroke,Louisiana,2638,65.4
+
+8448,2008,Cerebrovascular diseases (I60-I69),Stroke,Wisconsin,2638,40.1
+
+10222,2005,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Virginia,2638,35.6
+
+7879,2001,Cerebrovascular diseases (I60-I69),Stroke,Louisiana,2638,65.4
+
+8448,2008,Cerebrovascular diseases (I60-I69),Stroke,Wisconsin,2638,40.1
+
+10222,2005,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Virginia,2638,35.6
+

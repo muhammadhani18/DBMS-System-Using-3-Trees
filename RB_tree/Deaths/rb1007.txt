@@ -1,0 +1,8 @@
+4181,2009,Diabetes mellitus (E10-E14),Diabetes,Massachusetts,1007,13.3
+
+6333,1999,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Oklahoma,1007,28.1
+
+7513,2008,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wisconsin,1007,15.5
+
+8569,2013,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Colorado,1007,18.6
+

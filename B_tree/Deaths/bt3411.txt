@@ -1,0 +1,8 @@
+3051,2005,Chronic lower respiratory diseases (J40-J47),CLRD,Georgia,3411,48.4
+
+5301,2006,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,New Mexico,3411,179.5
+
+3051,2005,Chronic lower respiratory diseases (J40-J47),CLRD,Georgia,3411,48.4
+
+5301,2006,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,New Mexico,3411,179.5
+

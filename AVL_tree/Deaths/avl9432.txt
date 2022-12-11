@@ -1,0 +1,4 @@
+260,2006,All Causes,All causes,Hawaii,9432,643.4
+
+9566,2014,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Florida,9432,41.4
+

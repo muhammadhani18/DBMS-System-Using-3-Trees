@@ -1,0 +1,4 @@
+9279,2005,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,United States,32637,10.9
+
+9279,2005,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,United States,32637,10.9
+

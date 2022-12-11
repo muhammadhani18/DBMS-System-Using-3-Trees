@@ -1,0 +1,6 @@
+1331,2015,Alzheimer's disease (G30),Alzheimer's disease,Maine,544,28.4
+
+2986,2016,Chronic lower respiratory diseases (J40-J47),CLRD,Delaware,544,43.7
+
+6657,1999,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arizona,544,11.1
+

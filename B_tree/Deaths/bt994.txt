@@ -1,0 +1,20 @@
+5660,2006,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Wyoming,994,192.9
+
+5680,2004,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Alabama,994,22.1
+
+6037,2007,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Maryland,994,18
+
+6919,2007,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Kentucky,994,23
+
+7512,2009,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wisconsin,994,15.1
+
+5660,2006,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Wyoming,994,192.9
+
+5680,2004,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Alabama,994,22.1
+
+6037,2007,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Maryland,994,18
+
+6919,2007,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Kentucky,994,23
+
+7512,2009,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wisconsin,994,15.1
+

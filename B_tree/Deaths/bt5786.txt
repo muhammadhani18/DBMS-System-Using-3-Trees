@@ -1,0 +1,4 @@
+9959,2012,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,New York,5786,27.4
+
+9959,2012,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,New York,5786,27.4
+

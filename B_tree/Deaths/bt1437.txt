@@ -1,0 +1,8 @@
+4129,2007,Diabetes mellitus (E10-E14),Diabetes,Louisiana,1437,33.5
+
+7212,2002,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,North Carolina,1437,18.4
+
+4129,2007,Diabetes mellitus (E10-E14),Diabetes,Louisiana,1437,33.5
+
+7212,2002,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,North Carolina,1437,18.4
+

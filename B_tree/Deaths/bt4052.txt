@@ -1,0 +1,8 @@
+1164,2002,Alzheimer's disease (G30),Alzheimer's disease,Florida,4052,18.1
+
+7380,2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Texas,4052,16.1
+
+1164,2002,Alzheimer's disease (G30),Alzheimer's disease,Florida,4052,18.1
+
+7380,2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Texas,4052,16.1
+

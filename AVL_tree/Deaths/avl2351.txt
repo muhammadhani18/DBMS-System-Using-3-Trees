@@ -1,0 +1,6 @@
+3275,2015,Chronic lower respiratory diseases (J40-J47),CLRD,Minnesota,2351,36.4
+
+7190,2006,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,New York,2351,11.2
+
+9418,2009,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Alabama,2351,49
+

@@ -1,0 +1,4 @@
+8303,2009,Cerebrovascular diseases (I60-I69),Stroke,Tennessee,3156,48.7
+
+10137,2004,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Tennessee,3156,53.6
+

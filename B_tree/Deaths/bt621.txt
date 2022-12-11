@@ -1,0 +1,8 @@
+6110,2006,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Mississippi,621,22.3
+
+7743,2011,Cerebrovascular diseases (I60-I69),Stroke,Hawaii,621,35.6
+
+6110,2006,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Mississippi,621,22.3
+
+7743,2011,Cerebrovascular diseases (I60-I69),Stroke,Hawaii,621,35.6
+

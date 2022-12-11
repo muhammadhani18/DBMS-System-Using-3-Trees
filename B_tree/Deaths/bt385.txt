@@ -1,0 +1,12 @@
+4149,2005,Diabetes mellitus (E10-E14),Diabetes,Maine,385,24.7
+
+7112,2012,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Nevada,385,14.4
+
+9433,2011,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Alaska,385,57.3
+
+4149,2005,Diabetes mellitus (E10-E14),Diabetes,Maine,385,24.7
+
+7112,2012,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Nevada,385,14.4
+
+9433,2011,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Alaska,385,57.3
+

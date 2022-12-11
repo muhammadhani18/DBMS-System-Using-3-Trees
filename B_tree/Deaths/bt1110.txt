@@ -1,0 +1,12 @@
+4703,2009,Diabetes mellitus (E10-E14),Diabetes,Wisconsin,1110,17.2
+
+6940,2004,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Louisiana,1110,26.3
+
+10257,2004,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,West Virginia,1110,59
+
+4703,2009,Diabetes mellitus (E10-E14),Diabetes,Wisconsin,1110,17.2
+
+6940,2004,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Louisiana,1110,26.3
+
+10257,2004,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,West Virginia,1110,59
+

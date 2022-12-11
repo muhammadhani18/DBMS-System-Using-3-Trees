@@ -1,0 +1,8 @@
+5791,2001,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Connecticut,854,21.1
+
+5994,2014,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Louisiana,854,17.5
+
+5791,2001,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Connecticut,854,21.1
+
+5994,2014,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Louisiana,854,17.5
+

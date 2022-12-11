@@ -1,0 +1,12 @@
+2734,2016,Malignant neoplasms (C00-C97),Cancer,Utah,3125,122.4
+
+3052,2004,Chronic lower respiratory diseases (J40-J47),CLRD,Georgia,3125,45.7
+
+3407,2009,Chronic lower respiratory diseases (J40-J47),CLRD,New Jersey,3125,31.8
+
+2734,2016,Malignant neoplasms (C00-C97),Cancer,Utah,3125,122.4
+
+3052,2004,Chronic lower respiratory diseases (J40-J47),CLRD,Georgia,3125,45.7
+
+3407,2009,Chronic lower respiratory diseases (J40-J47),CLRD,New Jersey,3125,31.8
+

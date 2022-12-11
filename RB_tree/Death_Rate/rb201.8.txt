@@ -1,0 +1,10 @@
+2365,2007,Malignant neoplasms (C00-C97),Cancer,Mississippi,6002,201.8
+
+2460,2002,Malignant neoplasms (C00-C97),Cancer,New Hampshire,2529,201.8
+
+5189,2010,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Missouri,13840,201.8
+
+5358,2003,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,North Dakota,1632,201.8
+
+5425,2008,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Pennsylvania,33308,201.8
+

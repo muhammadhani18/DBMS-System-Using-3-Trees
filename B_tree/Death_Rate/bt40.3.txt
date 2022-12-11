@@ -1,0 +1,14 @@
+3029,2009,Chronic lower respiratory diseases (J40-J47),CLRD,Florida,10182,40.3
+
+3038,2000,Chronic lower respiratory diseases (J40-J47),CLRD,Florida,8645,40.3
+
+3101,2009,Chronic lower respiratory diseases (J40-J47),CLRD,Illinois,5299,40.3
+
+3560,2000,Chronic lower respiratory diseases (J40-J47),CLRD,Pennsylvania,6079,40.3
+
+3763,2013,Chronic lower respiratory diseases (J40-J47),CLRD,Wisconsin,2789,40.3
+
+7713,2005,Cerebrovascular diseases (I60-I69),Stroke,Florida,9361,40.3
+
+8016,2008,Cerebrovascular diseases (I60-I69),Stroke,Montana,466,40.3
+

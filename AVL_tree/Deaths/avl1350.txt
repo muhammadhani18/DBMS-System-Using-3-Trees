@@ -1,0 +1,4 @@
+3304,2004,Chronic lower respiratory diseases (J40-J47),CLRD,Mississippi,1350,48.3
+
+3753,2005,Chronic lower respiratory diseases (J40-J47),CLRD,West Virginia,1350,60.5
+

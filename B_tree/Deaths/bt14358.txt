@@ -1,0 +1,4 @@
+2115,2005,Malignant neoplasms (C00-C97),Cancer,Georgia,14358,189.9
+
+2115,2005,Malignant neoplasms (C00-C97),Cancer,Georgia,14358,189.9
+

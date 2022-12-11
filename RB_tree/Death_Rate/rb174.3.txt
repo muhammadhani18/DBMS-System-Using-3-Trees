@@ -1,0 +1,4 @@
+2671,2007,Malignant neoplasms (C00-C97),Cancer,South Dakota,1612,174.3
+
+5084,2006,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Maine,2815,174.3
+

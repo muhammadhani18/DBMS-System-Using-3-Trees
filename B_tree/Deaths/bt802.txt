@@ -1,0 +1,20 @@
+1283,2009,Alzheimer's disease (G30),Alzheimer's disease,Kansas,802,23.9
+
+4693,2001,Diabetes mellitus (E10-E14),Diabetes,West Virginia,802,37.7
+
+7330,2011,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,South Carolina,802,16.1
+
+7895,2003,Cerebrovascular diseases (I60-I69),Stroke,Maine,802,52.2
+
+9735,2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Maine,802,53.8
+
+1283,2009,Alzheimer's disease (G30),Alzheimer's disease,Kansas,802,23.9
+
+4693,2001,Diabetes mellitus (E10-E14),Diabetes,West Virginia,802,37.7
+
+7330,2011,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,South Carolina,802,16.1
+
+7895,2003,Cerebrovascular diseases (I60-I69),Stroke,Maine,802,52.2
+
+9735,2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Maine,802,53.8
+

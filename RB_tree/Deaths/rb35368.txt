@@ -1,0 +1,2 @@
+2500,2016,Malignant neoplasms (C00-C97),Cancer,New York,35368,147.5
+

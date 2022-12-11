@@ -1,0 +1,4 @@
+3592,2004,Chronic lower respiratory diseases (J40-J47),CLRD,South Carolina,1792,43.5
+
+5864,2000,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Georgia,1792,29.4
+

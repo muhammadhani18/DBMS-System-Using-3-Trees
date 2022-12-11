@@ -1,0 +1,12 @@
+1352,2012,Alzheimer's disease (G30),Alzheimer's disease,Maryland,906,14.7
+
+1799,2015,Alzheimer's disease (G30),Alzheimer's disease,Utah,906,40.7
+
+8052,2008,Cerebrovascular diseases (I60-I69),Stroke,Nevada,906,40.8
+
+1352,2012,Alzheimer's disease (G30),Alzheimer's disease,Maryland,906,14.7
+
+1799,2015,Alzheimer's disease (G30),Alzheimer's disease,Utah,906,40.7
+
+8052,2008,Cerebrovascular diseases (I60-I69),Stroke,Nevada,906,40.8
+

@@ -1,0 +1,4 @@
+1347,1999,Alzheimer's disease (G30),Alzheimer's disease,Maine,429,29.6
+
+8249,2009,Cerebrovascular diseases (I60-I69),Stroke,Rhode Island,429,31.4
+

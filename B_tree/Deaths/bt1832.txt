@@ -1,0 +1,20 @@
+1374,2008,Alzheimer's disease (G30),Alzheimer's disease,Massachusetts,1832,22.5
+
+3137,2009,Chronic lower respiratory diseases (J40-J47),CLRD,Iowa,1832,48.7
+
+3230,2006,Chronic lower respiratory diseases (J40-J47),CLRD,Maryland,1832,34.4
+
+3287,2003,Chronic lower respiratory diseases (J40-J47),CLRD,Minnesota,1832,35.8
+
+5208,2009,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Montana,1832,154.3
+
+1374,2008,Alzheimer's disease (G30),Alzheimer's disease,Massachusetts,1832,22.5
+
+3137,2009,Chronic lower respiratory diseases (J40-J47),CLRD,Iowa,1832,48.7
+
+3230,2006,Chronic lower respiratory diseases (J40-J47),CLRD,Maryland,1832,34.4
+
+3287,2003,Chronic lower respiratory diseases (J40-J47),CLRD,Minnesota,1832,35.8
+
+5208,2009,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Montana,1832,154.3
+

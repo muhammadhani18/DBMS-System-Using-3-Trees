@@ -1,0 +1,8 @@
+2002,2010,Malignant neoplasms (C00-C97),Cancer,California,56453,156.9
+
+2393,2015,Malignant neoplasms (C00-C97),Cancer,Montana,2130,156.9
+
+2701,2013,Malignant neoplasms (C00-C97),Cancer,Texas,38412,156.9
+
+5206,2011,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Montana,1921,156.9
+

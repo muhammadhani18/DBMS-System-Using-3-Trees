@@ -1,0 +1,12 @@
+4250,2012,Diabetes mellitus (E10-E14),Diabetes,Missouri,1377,19.6
+
+6990,2008,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Massachusetts,1377,17.9
+
+9685,2014,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Kansas,1377,44.1
+
+4250,2012,Diabetes mellitus (E10-E14),Diabetes,Missouri,1377,19.6
+
+6990,2008,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Massachusetts,1377,17.9
+
+9685,2014,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Kansas,1377,44.1
+

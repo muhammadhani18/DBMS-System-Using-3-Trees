@@ -1,0 +1,10 @@
+3142,2004,Chronic lower respiratory diseases (J40-J47),CLRD,Iowa,1547,42.7
+
+5860,2004,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Georgia,1547,23.8
+
+7454,2013,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Virginia,1547,18
+
+7658,2006,Cerebrovascular diseases (I60-I69),Stroke,Connecticut,1547,35.8
+
+9058,2010,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,New York,1547,7.7
+

@@ -1,0 +1,16 @@
+3016,2004,Chronic lower respiratory diseases (J40-J47),CLRD,District of Columbia,165,29.7
+
+6148,2004,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Montana,165,15.5
+
+6370,2016,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Rhode Island,165,11
+
+7133,2009,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,New Hampshire,165,11.4
+
+3016,2004,Chronic lower respiratory diseases (J40-J47),CLRD,District of Columbia,165,29.7
+
+6148,2004,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Montana,165,15.5
+
+6370,2016,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Rhode Island,165,11
+
+7133,2009,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,New Hampshire,165,11.4
+

@@ -1,0 +1,10 @@
+2038,2010,Malignant neoplasms (C00-C97),Cancer,Connecticut,6954,163.4
+
+2593,2013,Malignant neoplasms (C00-C97),Cancer,Oregon,7799,163.4
+
+2664,2014,Malignant neoplasms (C00-C97),Cancer,South Dakota,1698,163.4
+
+2755,2013,Malignant neoplasms (C00-C97),Cancer,Vermont,1318,163.4
+
+5438,2013,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Rhode Island,2364,163.4
+

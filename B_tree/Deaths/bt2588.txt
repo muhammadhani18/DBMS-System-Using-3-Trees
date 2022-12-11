@@ -1,0 +1,4 @@
+8221,2001,Cerebrovascular diseases (I60-I69),Stroke,Oregon,2588,70.2
+
+8221,2001,Cerebrovascular diseases (I60-I69),Stroke,Oregon,2588,70.2
+

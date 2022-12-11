@@ -1,0 +1,4 @@
+9515,2014,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Connecticut,1641,40.9
+
+9515,2014,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Connecticut,1641,40.9
+

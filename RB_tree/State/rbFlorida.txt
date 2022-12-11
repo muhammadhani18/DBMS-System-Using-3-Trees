@@ -1,0 +1,396 @@
+10,2016,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Florida,12561,54.9
+
+214,2016,All Causes,All causes,Florida,197313,666.6
+
+215,2015,All Causes,All causes,Florida,191737,662.9
+
+216,2014,All Causes,All causes,Florida,185956,662
+
+217,2013,All Causes,All causes,Florida,181112,663.4
+
+218,2012,All Causes,All causes,Florida,177291,669.9
+
+219,2011,All Causes,All causes,Florida,173976,677.1
+
+220,2010,All Causes,All causes,Florida,173791,701.1
+
+221,2009,All Causes,All causes,Florida,169924,700.1
+
+222,2008,All Causes,All causes,Florida,170703,718.1
+
+223,2007,All Causes,All causes,Florida,168096,723.3
+
+224,2006,All Causes,All causes,Florida,170066,745.6
+
+225,2005,All Causes,All causes,Florida,170791,761.9
+
+226,2004,All Causes,All causes,Florida,169008,771.6
+
+227,2003,All Causes,All causes,Florida,168657,786.7
+
+228,2002,All Causes,All causes,Florida,167814,796.2
+
+229,2001,All Causes,All causes,Florida,167269,806.1
+
+230,2000,All Causes,All causes,Florida,164395,807.8
+
+231,1999,All Causes,All causes,Florida,163224,812.8
+
+1150,2016,Alzheimer's disease (G30),Alzheimer's disease,Florida,7155,21.5
+
+1151,2015,Alzheimer's disease (G30),Alzheimer's disease,Florida,7031,21.8
+
+1152,2014,Alzheimer's disease (G30),Alzheimer's disease,Florida,5874,18.8
+
+1153,2013,Alzheimer's disease (G30),Alzheimer's disease,Florida,5093,16.9
+
+1154,2012,Alzheimer's disease (G30),Alzheimer's disease,Florida,4422,15.2
+
+1155,2011,Alzheimer's disease (G30),Alzheimer's disease,Florida,4507,16
+
+1156,2010,Alzheimer's disease (G30),Alzheimer's disease,Florida,4831,18.1
+
+1157,2009,Alzheimer's disease (G30),Alzheimer's disease,Florida,4617,17.6
+
+1158,2008,Alzheimer's disease (G30),Alzheimer's disease,Florida,4743,18.6
+
+1159,2007,Alzheimer's disease (G30),Alzheimer's disease,Florida,4644,18.7
+
+1160,2006,Alzheimer's disease (G30),Alzheimer's disease,Florida,4689,19.3
+
+1161,2005,Alzheimer's disease (G30),Alzheimer's disease,Florida,4608,19.4
+
+1162,2004,Alzheimer's disease (G30),Alzheimer's disease,Florida,4307,18.6
+
+1163,2003,Alzheimer's disease (G30),Alzheimer's disease,Florida,4316,18.9
+
+1164,2002,Alzheimer's disease (G30),Alzheimer's disease,Florida,4052,18.1
+
+1165,2001,Alzheimer's disease (G30),Alzheimer's disease,Florida,3643,16.4
+
+1166,2000,Alzheimer's disease (G30),Alzheimer's disease,Florida,3265,15
+
+1167,1999,Alzheimer's disease (G30),Alzheimer's disease,Florida,3059,14.3
+
+2086,2016,Malignant neoplasms (C00-C97),Cancer,Florida,44266,146.9
+
+2087,2015,Malignant neoplasms (C00-C97),Cancer,Florida,44027,150.6
+
+2088,2014,Malignant neoplasms (C00-C97),Cancer,Florida,43212,152.9
+
+2089,2013,Malignant neoplasms (C00-C97),Cancer,Florida,42735,155.9
+
+2090,2012,Malignant neoplasms (C00-C97),Cancer,Florida,42188,158.8
+
+2091,2011,Malignant neoplasms (C00-C97),Cancer,Florida,41681,161.2
+
+2092,2010,Malignant neoplasms (C00-C97),Cancer,Florida,41467,165.6
+
+2093,2009,Malignant neoplasms (C00-C97),Cancer,Florida,40932,166.6
+
+2094,2008,Malignant neoplasms (C00-C97),Cancer,Florida,40814,169.5
+
+2095,2007,Malignant neoplasms (C00-C97),Cancer,Florida,40088,169.8
+
+2096,2006,Malignant neoplasms (C00-C97),Cancer,Florida,40415,174.6
+
+2097,2005,Malignant neoplasms (C00-C97),Cancer,Florida,40592,178.4
+
+2098,2004,Malignant neoplasms (C00-C97),Cancer,Florida,39840,179.4
+
+2099,2003,Malignant neoplasms (C00-C97),Cancer,Florida,39404,181.7
+
+2100,2002,Malignant neoplasms (C00-C97),Cancer,Florida,39140,183.8
+
+2101,2001,Malignant neoplasms (C00-C97),Cancer,Florida,39090,187.4
+
+2102,2000,Malignant neoplasms (C00-C97),Cancer,Florida,39183,191.6
+
+2103,1999,Malignant neoplasms (C00-C97),Cancer,Florida,38478,190.6
+
+3022,2016,Chronic lower respiratory diseases (J40-J47),CLRD,Florida,11970,38
+
+3023,2015,Chronic lower respiratory diseases (J40-J47),CLRD,Florida,11705,38.4
+
+3024,2014,Chronic lower respiratory diseases (J40-J47),CLRD,Florida,11178,38
+
+3025,2013,Chronic lower respiratory diseases (J40-J47),CLRD,Florida,11379,39.9
+
+3026,2012,Chronic lower respiratory diseases (J40-J47),CLRD,Florida,10585,38.4
+
+3027,2011,Chronic lower respiratory diseases (J40-J47),CLRD,Florida,10279,38.5
+
+3028,2010,Chronic lower respiratory diseases (J40-J47),CLRD,Florida,10337,40.1
+
+3029,2009,Chronic lower respiratory diseases (J40-J47),CLRD,Florida,10182,40.3
+
+3030,2008,Chronic lower respiratory diseases (J40-J47),CLRD,Florida,10198,41.1
+
+3031,2007,Chronic lower respiratory diseases (J40-J47),CLRD,Florida,9357,38.6
+
+3032,2006,Chronic lower respiratory diseases (J40-J47),CLRD,Florida,8912,37.5
+
+3033,2005,Chronic lower respiratory diseases (J40-J47),CLRD,Florida,9482,40.4
+
+3034,2004,Chronic lower respiratory diseases (J40-J47),CLRD,Florida,8971,39.1
+
+3035,2003,Chronic lower respiratory diseases (J40-J47),CLRD,Florida,9087,40.4
+
+3036,2002,Chronic lower respiratory diseases (J40-J47),CLRD,Florida,9062,40.9
+
+3037,2001,Chronic lower respiratory diseases (J40-J47),CLRD,Florida,8954,41.2
+
+3038,2000,Chronic lower respiratory diseases (J40-J47),CLRD,Florida,8645,40.3
+
+3039,1999,Chronic lower respiratory diseases (J40-J47),CLRD,Florida,9131,43.1
+
+3958,2016,Diabetes mellitus (E10-E14),Diabetes,Florida,5782,19.5
+
+3959,2015,Diabetes mellitus (E10-E14),Diabetes,Florida,5403,18.6
+
+3960,2014,Diabetes mellitus (E10-E14),Diabetes,Florida,5371,19.2
+
+3961,2013,Diabetes mellitus (E10-E14),Diabetes,Florida,5238,19.2
+
+3962,2012,Diabetes mellitus (E10-E14),Diabetes,Florida,5092,19.2
+
+3963,2011,Diabetes mellitus (E10-E14),Diabetes,Florida,5093,19.7
+
+3964,2010,Diabetes mellitus (E10-E14),Diabetes,Florida,5024,20.1
+
+3965,2009,Diabetes mellitus (E10-E14),Diabetes,Florida,4901,20
+
+3966,2008,Diabetes mellitus (E10-E14),Diabetes,Florida,5161,21.4
+
+3967,2007,Diabetes mellitus (E10-E14),Diabetes,Florida,5110,21.7
+
+3968,2006,Diabetes mellitus (E10-E14),Diabetes,Florida,5172,22.3
+
+3969,2005,Diabetes mellitus (E10-E14),Diabetes,Florida,5193,22.7
+
+3970,2004,Diabetes mellitus (E10-E14),Diabetes,Florida,4809,21.6
+
+3971,2003,Diabetes mellitus (E10-E14),Diabetes,Florida,4762,21.9
+
+3972,2002,Diabetes mellitus (E10-E14),Diabetes,Florida,4583,21.5
+
+3973,2001,Diabetes mellitus (E10-E14),Diabetes,Florida,4631,22.1
+
+3974,2000,Diabetes mellitus (E10-E14),Diabetes,Florida,4449,21.6
+
+3975,1999,Diabetes mellitus (E10-E14),Diabetes,Florida,4357,21.5
+
+4894,2016,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Florida,45659,146.2
+
+4895,2015,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Florida,45441,149.8
+
+4896,2014,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Florida,44511,151.3
+
+4897,2013,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Florida,42656,149.8
+
+4898,2012,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Florida,42125,153
+
+4899,2011,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Florida,40919,153.1
+
+4900,2010,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Florida,41737,162.3
+
+4901,2009,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Florida,41274,163.8
+
+4902,2008,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Florida,42067,170.8
+
+4903,2007,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Florida,42254,175.8
+
+4904,2006,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Florida,44305,187.9
+
+4905,2005,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Florida,46279,200
+
+4906,2004,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Florida,47160,208.7
+
+4907,2003,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Florida,48141,217.3
+
+4908,2002,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Florida,49235,226.1
+
+4909,2001,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Florida,50629,236
+
+4910,2000,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Florida,50336,238.6
+
+4911,1999,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Florida,51434,247.7
+
+5830,2016,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Florida,2808,9.3
+
+5831,2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Florida,2676,8.9
+
+5832,2014,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Florida,2719,9.6
+
+5833,2013,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Florida,2662,9.5
+
+5834,2012,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Florida,2338,8.5
+
+5835,2011,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Florida,2453,9.3
+
+5836,2010,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Florida,2259,8.9
+
+5837,2009,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Florida,2410,9.9
+
+5838,2008,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Florida,2300,9.4
+
+5839,2007,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Florida,2246,9.4
+
+5840,2006,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Florida,2454,10.5
+
+5841,2005,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Florida,2802,12.2
+
+5842,2004,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Florida,3044,13.5
+
+5843,2003,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Florida,2996,13.6
+
+5844,2002,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Florida,3290,15.1
+
+5845,2001,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Florida,3317,15.5
+
+5846,2000,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Florida,3365,16
+
+5847,1999,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Florida,3328,16.1
+
+6767,2016,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Florida,3144,10.2
+
+6768,2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Florida,3203,10.8
+
+6769,2014,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Florida,3076,10.6
+
+6770,2013,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Florida,3130,11.1
+
+6771,2012,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Florida,2912,10.6
+
+6772,2011,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Florida,3012,11.4
+
+6773,2010,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Florida,3297,12.9
+
+6774,2009,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Florida,3050,12.2
+
+6775,2008,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Florida,2946,12.1
+
+6776,2007,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Florida,2923,12.2
+
+6777,2006,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Florida,2620,11.2
+
+6778,2005,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Florida,2416,10.5
+
+6779,2004,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Florida,2252,10
+
+6780,2003,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Florida,2265,10.2
+
+6781,2002,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Florida,2201,10.2
+
+6782,2001,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Florida,2172,10.1
+
+6783,2000,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Florida,1888,8.9
+
+6784,1999,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Florida,1846,8.9
+
+7702,2016,Cerebrovascular diseases (I60-I69),Stroke,Florida,11854,37.3
+
+7703,2015,Cerebrovascular diseases (I60-I69),Stroke,Florida,11433,37.1
+
+7704,2014,Cerebrovascular diseases (I60-I69),Stroke,Florida,9770,33
+
+7705,2013,Cerebrovascular diseases (I60-I69),Stroke,Florida,8698,30.6
+
+7706,2012,Cerebrovascular diseases (I60-I69),Stroke,Florida,8456,30.7
+
+7707,2011,Cerebrovascular diseases (I60-I69),Stroke,Florida,8411,31.5
+
+7708,2010,Cerebrovascular diseases (I60-I69),Stroke,Florida,8432,32.8
+
+7709,2009,Cerebrovascular diseases (I60-I69),Stroke,Florida,8395,33.2
+
+7710,2008,Cerebrovascular diseases (I60-I69),Stroke,Florida,8589,34.8
+
+7711,2007,Cerebrovascular diseases (I60-I69),Stroke,Florida,8781,36.5
+
+7712,2006,Cerebrovascular diseases (I60-I69),Stroke,Florida,8925,37.8
+
+7713,2005,Cerebrovascular diseases (I60-I69),Stroke,Florida,9361,40.3
+
+7714,2004,Cerebrovascular diseases (I60-I69),Stroke,Florida,9715,42.8
+
+7715,2003,Cerebrovascular diseases (I60-I69),Stroke,Florida,9899,44.4
+
+7716,2002,Cerebrovascular diseases (I60-I69),Stroke,Florida,10269,46.9
+
+7717,2001,Cerebrovascular diseases (I60-I69),Stroke,Florida,10414,48.2
+
+7718,2000,Cerebrovascular diseases (I60-I69),Stroke,Florida,10532,49.6
+
+7719,1999,Cerebrovascular diseases (I60-I69),Stroke,Florida,10560,50.5
+
+8638,2016,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Florida,3143,14
+
+8639,2015,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Florida,3205,14.4
+
+8640,2014,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Florida,3035,13.9
+
+8641,2013,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Florida,2928,13.8
+
+8642,2012,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Florida,3002,14.4
+
+8643,2011,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Florida,2880,13.9
+
+8644,2010,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Florida,2789,13.7
+
+8645,2009,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Florida,2858,14.4
+
+8646,2008,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Florida,2740,13.9
+
+8647,2007,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Florida,2587,13.2
+
+8648,2006,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Florida,2440,12.6
+
+8649,2005,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Florida,2347,12.5
+
+8650,2004,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Florida,2389,13
+
+8651,2003,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Florida,2297,12.8
+
+8652,2002,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Florida,2338,13.3
+
+8653,2001,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Florida,2314,13.5
+
+8654,2000,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Florida,2086,12.4
+
+8655,1999,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Florida,2029,12.2
+
+9565,2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Florida,10578,46.2
+
+9566,2014,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Florida,9432,41.4
+
+9567,2013,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Florida,8736,39.1
+
+9568,2012,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Florida,8770,39.9
+
+9569,2011,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Florida,8901,42
+
+9570,2010,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Florida,8875,43.1
+
+9571,2009,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Florida,8746,43.4
+
+9572,2008,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Florida,8939,45.3
+
+9573,2007,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Florida,9113,46.9
+
+9574,2006,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Florida,8917,46.5
+
+9575,2005,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Florida,8868,47.1
+
+9576,2004,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Florida,8229,44.7
+
+9577,2003,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Florida,7919,44.2
+
+9578,2002,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Florida,7396,42
+
+9579,2001,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Florida,6969,40.5
+
+9580,2000,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Florida,6267,37.3
+
+9581,1999,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Florida,5961,35.7
+

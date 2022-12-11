@@ -1,0 +1,24 @@
+3488,2000,Chronic lower respiratory diseases (J40-J47),CLRD,North Dakota,295,38.6
+
+3787,2007,Chronic lower respiratory diseases (J40-J47),CLRD,Wyoming,295,56.7
+
+6385,2001,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Rhode Island,295,22.8
+
+7281,2005,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Oregon,295,7.4
+
+7286,2000,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Oregon,295,8.2
+
+8595,2005,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Connecticut,295,8.1
+
+3488,2000,Chronic lower respiratory diseases (J40-J47),CLRD,North Dakota,295,38.6
+
+3787,2007,Chronic lower respiratory diseases (J40-J47),CLRD,Wyoming,295,56.7
+
+6385,2001,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Rhode Island,295,22.8
+
+7281,2005,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Oregon,295,7.4
+
+7286,2000,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Oregon,295,8.2
+
+8595,2005,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Connecticut,295,8.1
+

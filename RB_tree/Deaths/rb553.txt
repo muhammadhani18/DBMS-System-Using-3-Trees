@@ -1,0 +1,10 @@
+1653,1999,Alzheimer's disease (G30),Alzheimer's disease,Oklahoma,553,15.4
+
+4283,2015,Diabetes mellitus (E10-E14),Diabetes,Nebraska,553,24.8
+
+8837,2015,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Maryland,553,8.8
+
+9030,2002,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,New Jersey,553,6.3
+
+9909,2011,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,New Hampshire,553,38.4
+

@@ -1,0 +1,14 @@
+3344,2000,Chronic lower respiratory diseases (J40-J47),CLRD,Montana,517,53.6
+
+4371,1999,Diabetes mellitus (E10-E14),Diabetes,New Mexico,517,31.4
+
+6342,2008,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Oregon,517,12
+
+6903,2005,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Kansas,517,16.9
+
+6906,2002,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Kansas,517,17.3
+
+9603,2011,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Hawaii,517,34.4
+
+9910,2010,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,New Hampshire,517,37.3
+

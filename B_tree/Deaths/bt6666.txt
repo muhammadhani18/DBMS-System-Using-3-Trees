@@ -1,0 +1,8 @@
+195,1999,All Causes,All causes,Delaware,6666,881.6
+
+2033,2015,Malignant neoplasms (C00-C97),Cancer,Connecticut,6666,146.2
+
+195,1999,All Causes,All causes,Delaware,6666,881.6
+
+2033,2015,Malignant neoplasms (C00-C97),Cancer,Connecticut,6666,146.2
+

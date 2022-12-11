@@ -1,0 +1,4 @@
+1642,2010,Alzheimer's disease (G30),Alzheimer's disease,Oklahoma,1015,26.1
+
+4230,2014,Diabetes mellitus (E10-E14),Diabetes,Mississippi,1015,30.4
+

@@ -1,0 +1,4 @@
+885,2011,All Causes,All causes,Vermont,5433,711
+
+5026,2010,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Kansas,5433,164.9
+

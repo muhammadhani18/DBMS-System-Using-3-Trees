@@ -1,0 +1,4 @@
+5594,2000,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Virginia,15264,245.5
+
+5594,2000,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Virginia,15264,245.5
+

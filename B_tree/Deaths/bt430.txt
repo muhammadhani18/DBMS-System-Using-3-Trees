@@ -1,0 +1,16 @@
+1058,2000,Alzheimer's disease (G30),Alzheimer's disease,Arkansas,430,14.6
+
+1489,2001,Alzheimer's disease (G30),Alzheimer's disease,Nebraska,430,21
+
+1510,2016,Alzheimer's disease (G30),Alzheimer's disease,New Hampshire,430,24.8
+
+7682,2000,Cerebrovascular diseases (I60-I69),Stroke,Delaware,430,57.6
+
+1058,2000,Alzheimer's disease (G30),Alzheimer's disease,Arkansas,430,14.6
+
+1489,2001,Alzheimer's disease (G30),Alzheimer's disease,Nebraska,430,21
+
+1510,2016,Alzheimer's disease (G30),Alzheimer's disease,New Hampshire,430,24.8
+
+7682,2000,Cerebrovascular diseases (I60-I69),Stroke,Delaware,430,57.6
+

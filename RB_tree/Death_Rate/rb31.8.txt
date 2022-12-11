@@ -1,0 +1,12 @@
+1402,2016,Alzheimer's disease (G30),Alzheimer's disease,Minnesota,2219,31.8
+
+1666,2004,Alzheimer's disease (G30),Alzheimer's disease,Oregon,1262,31.8
+
+3407,2009,Chronic lower respiratory diseases (J40-J47),CLRD,New Jersey,3125,31.8
+
+4620,2002,Diabetes mellitus (E10-E14),Diabetes,Utah,514,31.8
+
+9924,2013,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,New Jersey,3028,31.8
+
+10023,1999,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Ohio,3630,31.8
+

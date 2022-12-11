@@ -1,0 +1,4 @@
+6051,2011,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Massachusetts,1418,16.9
+
+7811,2015,Cerebrovascular diseases (I60-I69),Stroke,Iowa,1418,33.2
+

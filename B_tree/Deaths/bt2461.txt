@@ -1,0 +1,8 @@
+3767,2009,Chronic lower respiratory diseases (J40-J47),CLRD,Wisconsin,2461,38.5
+
+4943,2003,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Hawaii,2461,182.2
+
+3767,2009,Chronic lower respiratory diseases (J40-J47),CLRD,Wisconsin,2461,38.5
+
+4943,2003,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Hawaii,2461,182.2
+

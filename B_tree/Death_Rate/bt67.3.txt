@@ -1,0 +1,4 @@
+9939,2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,New Mexico,1430,67.3
+
+9951,2003,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,New Mexico,1227,67.3
+

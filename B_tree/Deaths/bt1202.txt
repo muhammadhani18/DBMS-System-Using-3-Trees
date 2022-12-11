@@ -1,0 +1,16 @@
+1267,2007,Alzheimer's disease (G30),Alzheimer's disease,Iowa,1202,28.7
+
+2763,2005,Malignant neoplasms (C00-C97),Cancer,Vermont,1202,175.9
+
+4176,2014,Diabetes mellitus (E10-E14),Diabetes,Massachusetts,1202,14.5
+
+9677,2005,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Iowa,1202,36.7
+
+1267,2007,Alzheimer's disease (G30),Alzheimer's disease,Iowa,1202,28.7
+
+2763,2005,Malignant neoplasms (C00-C97),Cancer,Vermont,1202,175.9
+
+4176,2014,Diabetes mellitus (E10-E14),Diabetes,Massachusetts,1202,14.5
+
+9677,2005,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Iowa,1202,36.7
+

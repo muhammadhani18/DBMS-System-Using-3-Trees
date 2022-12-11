@@ -1,0 +1,4 @@
+2058,2008,Malignant neoplasms (C00-C97),Cancer,Delaware,1912,193.3
+
+5214,2003,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Montana,1984,193.3
+

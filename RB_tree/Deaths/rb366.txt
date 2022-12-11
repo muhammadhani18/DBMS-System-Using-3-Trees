@@ -1,0 +1,12 @@
+1554,2008,Alzheimer's disease (G30),Alzheimer's disease,New Mexico,366,19
+
+1607,2009,Alzheimer's disease (G30),Alzheimer's disease,North Dakota,366,39
+
+6162,2008,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Nebraska,366,17
+
+6480,2014,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Utah,366,16.2
+
+9434,2010,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Alaska,366,58.7
+
+10117,2007,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,South Dakota,366,42.5
+

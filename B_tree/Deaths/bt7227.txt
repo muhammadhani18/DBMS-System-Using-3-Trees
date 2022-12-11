@@ -1,0 +1,4 @@
+10159,1999,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Texas,7227,37.6
+
+10159,1999,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Texas,7227,37.6
+

@@ -1,0 +1,12 @@
+1959,1999,Malignant neoplasms (C00-C97),Cancer,Alaska,633,190.5
+
+2296,2004,Malignant neoplasms (C00-C97),Cancer,Maryland,10168,190.5
+
+2330,2006,Malignant neoplasms (C00-C97),Cancer,Michigan,20192,190.5
+
+2561,2009,Malignant neoplasms (C00-C97),Cancer,Ohio,25149,190.5
+
+2618,2006,Malignant neoplasms (C00-C97),Cancer,Pennsylvania,29172,190.5
+
+2678,2000,Malignant neoplasms (C00-C97),Cancer,South Dakota,1597,190.5
+

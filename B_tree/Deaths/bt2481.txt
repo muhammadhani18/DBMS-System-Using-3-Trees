@@ -1,0 +1,12 @@
+1708,2016,Alzheimer's disease (G30),Alzheimer's disease,South Carolina,2481,45.3
+
+8205,1999,Cerebrovascular diseases (I60-I69),Stroke,Oklahoma,2481,69.6
+
+8440,2016,Cerebrovascular diseases (I60-I69),Stroke,Wisconsin,2481,33.3
+
+1708,2016,Alzheimer's disease (G30),Alzheimer's disease,South Carolina,2481,45.3
+
+8205,1999,Cerebrovascular diseases (I60-I69),Stroke,Oklahoma,2481,69.6
+
+8440,2016,Cerebrovascular diseases (I60-I69),Stroke,Wisconsin,2481,33.3
+

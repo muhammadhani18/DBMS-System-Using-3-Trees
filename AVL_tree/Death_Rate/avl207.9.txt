@@ -1,0 +1,6 @@
+2391,1999,Malignant neoplasms (C00-C97),Cancer,Missouri,12186,207.9
+
+4782,2002,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Arizona,10852,207.9
+
+5645,2003,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Wisconsin,12479,207.9
+

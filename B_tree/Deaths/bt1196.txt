@@ -1,0 +1,8 @@
+3844,2004,Diabetes mellitus (E10-E14),Diabetes,Arizona,1196,21
+
+9069,1999,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,New York,1196,6.3
+
+3844,2004,Diabetes mellitus (E10-E14),Diabetes,Arizona,1196,21
+
+9069,1999,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,New York,1196,6.3
+

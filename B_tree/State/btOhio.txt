@@ -1,0 +1,1584 @@
+36,2016,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Ohio,7999,66.6
+
+682,2016,All Causes,All causes,Ohio,119572,832.3
+
+683,2015,All Causes,All causes,Ohio,118188,828.4
+
+684,2014,All Causes,All causes,Ohio,114509,810
+
+685,2013,All Causes,All causes,Ohio,113258,811.2
+
+686,2012,All Causes,All causes,Ohio,112498,817.9
+
+687,2011,All Causes,All causes,Ohio,111427,821.8
+
+688,2010,All Causes,All causes,Ohio,108711,815.7
+
+689,2009,All Causes,All causes,Ohio,107156,814.5
+
+690,2008,All Causes,All causes,Ohio,109767,844.3
+
+691,2007,All Causes,All causes,Ohio,106534,831.1
+
+692,2006,All Causes,All causes,Ohio,106825,846.6
+
+693,2005,All Causes,All causes,Ohio,109031,879.1
+
+694,2004,All Causes,All causes,Ohio,106288,867.1
+
+695,2003,All Causes,All causes,Ohio,109110,898.5
+
+696,2002,All Causes,All causes,Ohio,109766,916.7
+
+697,2001,All Causes,All causes,Ohio,108027,912.4
+
+698,2000,All Causes,All causes,Ohio,108125,923.5
+
+699,1999,All Causes,All causes,Ohio,108517,934
+
+1618,2016,Alzheimer's disease (G30),Alzheimer's disease,Ohio,5031,33.4
+
+1619,2015,Alzheimer's disease (G30),Alzheimer's disease,Ohio,4643,31.1
+
+1620,2014,Alzheimer's disease (G30),Alzheimer's disease,Ohio,4083,27.7
+
+1621,2013,Alzheimer's disease (G30),Alzheimer's disease,Ohio,3798,26
+
+1622,2012,Alzheimer's disease (G30),Alzheimer's disease,Ohio,3935,27.4
+
+1623,2011,Alzheimer's disease (G30),Alzheimer's disease,Ohio,4037,28.5
+
+1624,2010,Alzheimer's disease (G30),Alzheimer's disease,Ohio,4109,29.7
+
+1625,2009,Alzheimer's disease (G30),Alzheimer's disease,Ohio,3879,28.5
+
+1626,2008,Alzheimer's disease (G30),Alzheimer's disease,Ohio,4285,32
+
+1627,2007,Alzheimer's disease (G30),Alzheimer's disease,Ohio,3671,27.9
+
+1628,2006,Alzheimer's disease (G30),Alzheimer's disease,Ohio,3565,27.7
+
+1629,2005,Alzheimer's disease (G30),Alzheimer's disease,Ohio,3478,27.7
+
+1630,2004,Alzheimer's disease (G30),Alzheimer's disease,Ohio,2927,23.7
+
+1631,2003,Alzheimer's disease (G30),Alzheimer's disease,Ohio,2902,23.7
+
+1632,2002,Alzheimer's disease (G30),Alzheimer's disease,Ohio,2599,21.7
+
+1633,2001,Alzheimer's disease (G30),Alzheimer's disease,Ohio,2367,20
+
+1634,2000,Alzheimer's disease (G30),Alzheimer's disease,Ohio,2295,19.7
+
+1635,1999,Alzheimer's disease (G30),Alzheimer's disease,Ohio,2099,18.2
+
+2554,2016,Malignant neoplasms (C00-C97),Cancer,Ohio,25509,173.4
+
+2555,2015,Malignant neoplasms (C00-C97),Cancer,Ohio,25396,175.1
+
+2556,2014,Malignant neoplasms (C00-C97),Cancer,Ohio,25433,177.8
+
+2557,2013,Malignant neoplasms (C00-C97),Cancer,Ohio,24986,177.6
+
+2558,2012,Malignant neoplasms (C00-C97),Cancer,Ohio,25261,182.7
+
+2559,2011,Malignant neoplasms (C00-C97),Cancer,Ohio,25140,184.9
+
+2560,2010,Malignant neoplasms (C00-C97),Cancer,Ohio,25083,187.7
+
+2561,2009,Malignant neoplasms (C00-C97),Cancer,Ohio,25149,190.5
+
+2562,2008,Malignant neoplasms (C00-C97),Cancer,Ohio,24998,191.9
+
+2563,2007,Malignant neoplasms (C00-C97),Cancer,Ohio,25230,196.3
+
+2564,2006,Malignant neoplasms (C00-C97),Cancer,Ohio,24975,197.3
+
+2565,2005,Malignant neoplasms (C00-C97),Cancer,Ohio,24702,198.1
+
+2566,2004,Malignant neoplasms (C00-C97),Cancer,Ohio,24940,202.1
+
+2567,2003,Malignant neoplasms (C00-C97),Cancer,Ohio,25076,205.3
+
+2568,2002,Malignant neoplasms (C00-C97),Cancer,Ohio,25173,209
+
+2569,2001,Malignant neoplasms (C00-C97),Cancer,Ohio,24804,208.4
+
+2570,2000,Malignant neoplasms (C00-C97),Cancer,Ohio,24988,212
+
+2571,1999,Malignant neoplasms (C00-C97),Cancer,Ohio,25233,215.4
+
+3490,2016,Chronic lower respiratory diseases (J40-J47),CLRD,Ohio,7015,47.5
+
+3491,2015,Chronic lower respiratory diseases (J40-J47),CLRD,Ohio,7211,49.6
+
+3492,2014,Chronic lower respiratory diseases (J40-J47),CLRD,Ohio,6765,47.2
+
+3493,2013,Chronic lower respiratory diseases (J40-J47),CLRD,Ohio,7007,49.7
+
+3494,2012,Chronic lower respiratory diseases (J40-J47),CLRD,Ohio,7070,51.2
+
+3495,2011,Chronic lower respiratory diseases (J40-J47),CLRD,Ohio,6996,51.7
+
+3496,2010,Chronic lower respiratory diseases (J40-J47),CLRD,Ohio,6717,50.5
+
+3497,2009,Chronic lower respiratory diseases (J40-J47),CLRD,Ohio,6642,50.4
+
+3498,2008,Chronic lower respiratory diseases (J40-J47),CLRD,Ohio,6928,53.3
+
+3499,2007,Chronic lower respiratory diseases (J40-J47),CLRD,Ohio,6454,50.4
+
+3500,2006,Chronic lower respiratory diseases (J40-J47),CLRD,Ohio,6054,47.9
+
+3501,2005,Chronic lower respiratory diseases (J40-J47),CLRD,Ohio,6580,52.8
+
+3502,2004,Chronic lower respiratory diseases (J40-J47),CLRD,Ohio,5896,47.8
+
+3503,2003,Chronic lower respiratory diseases (J40-J47),CLRD,Ohio,5927,48.5
+
+3504,2002,Chronic lower respiratory diseases (J40-J47),CLRD,Ohio,6063,50.2
+
+3505,2001,Chronic lower respiratory diseases (J40-J47),CLRD,Ohio,5881,49.3
+
+3506,2000,Chronic lower respiratory diseases (J40-J47),CLRD,Ohio,5983,50.6
+
+3507,1999,Chronic lower respiratory diseases (J40-J47),CLRD,Ohio,5858,49.9
+
+4426,2016,Diabetes mellitus (E10-E14),Diabetes,Ohio,3568,24.6
+
+4427,2015,Diabetes mellitus (E10-E14),Diabetes,Ohio,3645,25.3
+
+4428,2014,Diabetes mellitus (E10-E14),Diabetes,Ohio,3641,25.7
+
+4429,2013,Diabetes mellitus (E10-E14),Diabetes,Ohio,3563,25.4
+
+4430,2012,Diabetes mellitus (E10-E14),Diabetes,Ohio,3618,26.1
+
+4431,2011,Diabetes mellitus (E10-E14),Diabetes,Ohio,3668,26.8
+
+4432,2010,Diabetes mellitus (E10-E14),Diabetes,Ohio,3470,25.8
+
+4433,2009,Diabetes mellitus (E10-E14),Diabetes,Ohio,3401,25.7
+
+4434,2008,Diabetes mellitus (E10-E14),Diabetes,Ohio,3565,27.2
+
+4435,2007,Diabetes mellitus (E10-E14),Diabetes,Ohio,3722,29
+
+4436,2006,Diabetes mellitus (E10-E14),Diabetes,Ohio,3761,29.6
+
+4437,2005,Diabetes mellitus (E10-E14),Diabetes,Ohio,3794,30.5
+
+4438,2004,Diabetes mellitus (E10-E14),Diabetes,Ohio,3615,29.3
+
+4439,2003,Diabetes mellitus (E10-E14),Diabetes,Ohio,3731,30.6
+
+4440,2002,Diabetes mellitus (E10-E14),Diabetes,Ohio,3846,32
+
+4441,2001,Diabetes mellitus (E10-E14),Diabetes,Ohio,3750,31.5
+
+4442,2000,Diabetes mellitus (E10-E14),Diabetes,Ohio,3691,31.4
+
+4443,1999,Diabetes mellitus (E10-E14),Diabetes,Ohio,3675,31.4
+
+5363,2016,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Ohio,27410,185.1
+
+5364,2015,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Ohio,28069,191.7
+
+5365,2014,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Ohio,27000,186.4
+
+5366,2013,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Ohio,26878,187.9
+
+5367,2012,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Ohio,26426,187.7
+
+5368,2011,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Ohio,26298,190
+
+5369,2010,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Ohio,26164,192.4
+
+5370,2009,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Ohio,25453,190
+
+5371,2008,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Ohio,27324,206.9
+
+5372,2007,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Ohio,26757,205.7
+
+5373,2006,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Ohio,27886,218.5
+
+5374,2005,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Ohio,29003,231.9
+
+5375,2004,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Ohio,29078,235.8
+
+5376,2003,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Ohio,30667,251.2
+
+5377,2002,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Ohio,31388,261.2
+
+5378,2001,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Ohio,32453,273.5
+
+5379,2000,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Ohio,32722,279.2
+
+5380,1999,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Ohio,33192,285.7
+
+6298,2016,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Ohio,2187,15
+
+6299,2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Ohio,2445,16.6
+
+6300,2014,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Ohio,2443,16.9
+
+6301,2013,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Ohio,2374,16.6
+
+6302,2012,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Ohio,2195,15.5
+
+6303,2011,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Ohio,2291,16.6
+
+6304,2010,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Ohio,1975,14.6
+
+6305,2009,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Ohio,2040,15.4
+
+6306,2008,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Ohio,2085,15.8
+
+6307,2007,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Ohio,1743,13.4
+
+6308,2006,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Ohio,1947,15.3
+
+6309,2005,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Ohio,2416,19.4
+
+6310,2004,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Ohio,2204,17.9
+
+6311,2003,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Ohio,2330,19.1
+
+6312,2002,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Ohio,2487,20.8
+
+6313,2001,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Ohio,2401,20.3
+
+6314,2000,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Ohio,2533,21.7
+
+6315,1999,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Ohio,2641,22.9
+
+7234,2016,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Ohio,2262,15.4
+
+7235,2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Ohio,2100,14.5
+
+7236,2014,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Ohio,2002,14.1
+
+7237,2013,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Ohio,1985,14
+
+7238,2012,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Ohio,2056,14.8
+
+7239,2011,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Ohio,1943,14.2
+
+7240,2010,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Ohio,2066,15.4
+
+7241,2009,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Ohio,1909,14.4
+
+7242,2008,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Ohio,1865,14.3
+
+7243,2007,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Ohio,1747,13.5
+
+7244,2006,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Ohio,1758,13.9
+
+7245,2005,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Ohio,1902,15.2
+
+7246,2004,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Ohio,1896,15.4
+
+7247,2003,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Ohio,2093,17.1
+
+7248,2002,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Ohio,2027,16.9
+
+7249,2001,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Ohio,1912,16.1
+
+7250,2000,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Ohio,1829,15.6
+
+7251,1999,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Ohio,1748,15
+
+8170,2016,Cerebrovascular diseases (I60-I69),Stroke,Ohio,5987,40.6
+
+8171,2015,Cerebrovascular diseases (I60-I69),Stroke,Ohio,5945,40.7
+
+8172,2014,Cerebrovascular diseases (I60-I69),Stroke,Ohio,5791,40
+
+8173,2013,Cerebrovascular diseases (I60-I69),Stroke,Ohio,5690,39.9
+
+8174,2012,Cerebrovascular diseases (I60-I69),Stroke,Ohio,5788,41.2
+
+8175,2011,Cerebrovascular diseases (I60-I69),Stroke,Ohio,5691,41.3
+
+8176,2010,Cerebrovascular diseases (I60-I69),Stroke,Ohio,5755,42.6
+
+8177,2009,Cerebrovascular diseases (I60-I69),Stroke,Ohio,5576,41.8
+
+8178,2008,Cerebrovascular diseases (I60-I69),Stroke,Ohio,5951,45.2
+
+8179,2007,Cerebrovascular diseases (I60-I69),Stroke,Ohio,5905,45.5
+
+8180,2006,Cerebrovascular diseases (I60-I69),Stroke,Ohio,5828,45.7
+
+8181,2005,Cerebrovascular diseases (I60-I69),Stroke,Ohio,6279,50.2
+
+8182,2004,Cerebrovascular diseases (I60-I69),Stroke,Ohio,6501,52.8
+
+8183,2003,Cerebrovascular diseases (I60-I69),Stroke,Ohio,6910,56.6
+
+8184,2002,Cerebrovascular diseases (I60-I69),Stroke,Ohio,7252,60.3
+
+8185,2001,Cerebrovascular diseases (I60-I69),Stroke,Ohio,6891,58.1
+
+8186,2000,Cerebrovascular diseases (I60-I69),Stroke,Ohio,7175,61.2
+
+8187,1999,Cerebrovascular diseases (I60-I69),Stroke,Ohio,7235,62.3
+
+9106,2016,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Ohio,1707,14.2
+
+9107,2015,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Ohio,1650,13.9
+
+9108,2014,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Ohio,1491,12.6
+
+9109,2013,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Ohio,1526,12.9
+
+9110,2012,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Ohio,1542,13
+
+9111,2011,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Ohio,1465,12.3
+
+9112,2010,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Ohio,1439,12.2
+
+9113,2009,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Ohio,1176,10
+
+9114,2008,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Ohio,1412,12.2
+
+9115,2007,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Ohio,1295,11.1
+
+9116,2006,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Ohio,1325,11.3
+
+9117,2005,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Ohio,1341,11.5
+
+9118,2004,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Ohio,1319,11.4
+
+9119,2003,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Ohio,1074,9.3
+
+9120,2002,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Ohio,1287,11.2
+
+9121,2001,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Ohio,1219,10.6
+
+9122,2000,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Ohio,1088,9.5
+
+9123,1999,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Ohio,1102,9.7
+
+10007,2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Ohio,6756,55.9
+
+10008,2014,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Ohio,6178,50.8
+
+10009,2013,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Ohio,5497,45
+
+10010,2012,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Ohio,5420,44.7
+
+10011,2011,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Ohio,5275,43.4
+
+10012,2010,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Ohio,5124,42.4
+
+10013,2009,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Ohio,4012,33.1
+
+10014,2008,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Ohio,5093,42.3
+
+10015,2007,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Ohio,4922,41.3
+
+10016,2006,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Ohio,4821,40.5
+
+10017,2005,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Ohio,4438,37.7
+
+10018,2004,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Ohio,4234,36.1
+
+10019,2003,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Ohio,3757,32.2
+
+10020,2002,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Ohio,4146,35.8
+
+10021,2001,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Ohio,3857,33.4
+
+10022,2000,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Ohio,3492,30.5
+
+10023,1999,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Ohio,3630,31.8
+
+36,2016,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Ohio,7999,66.6
+
+682,2016,All Causes,All causes,Ohio,119572,832.3
+
+683,2015,All Causes,All causes,Ohio,118188,828.4
+
+684,2014,All Causes,All causes,Ohio,114509,810
+
+685,2013,All Causes,All causes,Ohio,113258,811.2
+
+686,2012,All Causes,All causes,Ohio,112498,817.9
+
+687,2011,All Causes,All causes,Ohio,111427,821.8
+
+688,2010,All Causes,All causes,Ohio,108711,815.7
+
+689,2009,All Causes,All causes,Ohio,107156,814.5
+
+690,2008,All Causes,All causes,Ohio,109767,844.3
+
+691,2007,All Causes,All causes,Ohio,106534,831.1
+
+692,2006,All Causes,All causes,Ohio,106825,846.6
+
+693,2005,All Causes,All causes,Ohio,109031,879.1
+
+694,2004,All Causes,All causes,Ohio,106288,867.1
+
+695,2003,All Causes,All causes,Ohio,109110,898.5
+
+696,2002,All Causes,All causes,Ohio,109766,916.7
+
+697,2001,All Causes,All causes,Ohio,108027,912.4
+
+698,2000,All Causes,All causes,Ohio,108125,923.5
+
+699,1999,All Causes,All causes,Ohio,108517,934
+
+1618,2016,Alzheimer's disease (G30),Alzheimer's disease,Ohio,5031,33.4
+
+1619,2015,Alzheimer's disease (G30),Alzheimer's disease,Ohio,4643,31.1
+
+1620,2014,Alzheimer's disease (G30),Alzheimer's disease,Ohio,4083,27.7
+
+1621,2013,Alzheimer's disease (G30),Alzheimer's disease,Ohio,3798,26
+
+1622,2012,Alzheimer's disease (G30),Alzheimer's disease,Ohio,3935,27.4
+
+1623,2011,Alzheimer's disease (G30),Alzheimer's disease,Ohio,4037,28.5
+
+1624,2010,Alzheimer's disease (G30),Alzheimer's disease,Ohio,4109,29.7
+
+1625,2009,Alzheimer's disease (G30),Alzheimer's disease,Ohio,3879,28.5
+
+1626,2008,Alzheimer's disease (G30),Alzheimer's disease,Ohio,4285,32
+
+1627,2007,Alzheimer's disease (G30),Alzheimer's disease,Ohio,3671,27.9
+
+1628,2006,Alzheimer's disease (G30),Alzheimer's disease,Ohio,3565,27.7
+
+1629,2005,Alzheimer's disease (G30),Alzheimer's disease,Ohio,3478,27.7
+
+1630,2004,Alzheimer's disease (G30),Alzheimer's disease,Ohio,2927,23.7
+
+1631,2003,Alzheimer's disease (G30),Alzheimer's disease,Ohio,2902,23.7
+
+1632,2002,Alzheimer's disease (G30),Alzheimer's disease,Ohio,2599,21.7
+
+1633,2001,Alzheimer's disease (G30),Alzheimer's disease,Ohio,2367,20
+
+1634,2000,Alzheimer's disease (G30),Alzheimer's disease,Ohio,2295,19.7
+
+1635,1999,Alzheimer's disease (G30),Alzheimer's disease,Ohio,2099,18.2
+
+2554,2016,Malignant neoplasms (C00-C97),Cancer,Ohio,25509,173.4
+
+2555,2015,Malignant neoplasms (C00-C97),Cancer,Ohio,25396,175.1
+
+2556,2014,Malignant neoplasms (C00-C97),Cancer,Ohio,25433,177.8
+
+2557,2013,Malignant neoplasms (C00-C97),Cancer,Ohio,24986,177.6
+
+2558,2012,Malignant neoplasms (C00-C97),Cancer,Ohio,25261,182.7
+
+2559,2011,Malignant neoplasms (C00-C97),Cancer,Ohio,25140,184.9
+
+2560,2010,Malignant neoplasms (C00-C97),Cancer,Ohio,25083,187.7
+
+2561,2009,Malignant neoplasms (C00-C97),Cancer,Ohio,25149,190.5
+
+2562,2008,Malignant neoplasms (C00-C97),Cancer,Ohio,24998,191.9
+
+2563,2007,Malignant neoplasms (C00-C97),Cancer,Ohio,25230,196.3
+
+2564,2006,Malignant neoplasms (C00-C97),Cancer,Ohio,24975,197.3
+
+2565,2005,Malignant neoplasms (C00-C97),Cancer,Ohio,24702,198.1
+
+2566,2004,Malignant neoplasms (C00-C97),Cancer,Ohio,24940,202.1
+
+2567,2003,Malignant neoplasms (C00-C97),Cancer,Ohio,25076,205.3
+
+2568,2002,Malignant neoplasms (C00-C97),Cancer,Ohio,25173,209
+
+2569,2001,Malignant neoplasms (C00-C97),Cancer,Ohio,24804,208.4
+
+2570,2000,Malignant neoplasms (C00-C97),Cancer,Ohio,24988,212
+
+2571,1999,Malignant neoplasms (C00-C97),Cancer,Ohio,25233,215.4
+
+3490,2016,Chronic lower respiratory diseases (J40-J47),CLRD,Ohio,7015,47.5
+
+3491,2015,Chronic lower respiratory diseases (J40-J47),CLRD,Ohio,7211,49.6
+
+3492,2014,Chronic lower respiratory diseases (J40-J47),CLRD,Ohio,6765,47.2
+
+3493,2013,Chronic lower respiratory diseases (J40-J47),CLRD,Ohio,7007,49.7
+
+3494,2012,Chronic lower respiratory diseases (J40-J47),CLRD,Ohio,7070,51.2
+
+3495,2011,Chronic lower respiratory diseases (J40-J47),CLRD,Ohio,6996,51.7
+
+3496,2010,Chronic lower respiratory diseases (J40-J47),CLRD,Ohio,6717,50.5
+
+3497,2009,Chronic lower respiratory diseases (J40-J47),CLRD,Ohio,6642,50.4
+
+3498,2008,Chronic lower respiratory diseases (J40-J47),CLRD,Ohio,6928,53.3
+
+3499,2007,Chronic lower respiratory diseases (J40-J47),CLRD,Ohio,6454,50.4
+
+3500,2006,Chronic lower respiratory diseases (J40-J47),CLRD,Ohio,6054,47.9
+
+3501,2005,Chronic lower respiratory diseases (J40-J47),CLRD,Ohio,6580,52.8
+
+3502,2004,Chronic lower respiratory diseases (J40-J47),CLRD,Ohio,5896,47.8
+
+3503,2003,Chronic lower respiratory diseases (J40-J47),CLRD,Ohio,5927,48.5
+
+3504,2002,Chronic lower respiratory diseases (J40-J47),CLRD,Ohio,6063,50.2
+
+3505,2001,Chronic lower respiratory diseases (J40-J47),CLRD,Ohio,5881,49.3
+
+3506,2000,Chronic lower respiratory diseases (J40-J47),CLRD,Ohio,5983,50.6
+
+3507,1999,Chronic lower respiratory diseases (J40-J47),CLRD,Ohio,5858,49.9
+
+4426,2016,Diabetes mellitus (E10-E14),Diabetes,Ohio,3568,24.6
+
+4427,2015,Diabetes mellitus (E10-E14),Diabetes,Ohio,3645,25.3
+
+4428,2014,Diabetes mellitus (E10-E14),Diabetes,Ohio,3641,25.7
+
+4429,2013,Diabetes mellitus (E10-E14),Diabetes,Ohio,3563,25.4
+
+4430,2012,Diabetes mellitus (E10-E14),Diabetes,Ohio,3618,26.1
+
+4431,2011,Diabetes mellitus (E10-E14),Diabetes,Ohio,3668,26.8
+
+4432,2010,Diabetes mellitus (E10-E14),Diabetes,Ohio,3470,25.8
+
+4433,2009,Diabetes mellitus (E10-E14),Diabetes,Ohio,3401,25.7
+
+4434,2008,Diabetes mellitus (E10-E14),Diabetes,Ohio,3565,27.2
+
+4435,2007,Diabetes mellitus (E10-E14),Diabetes,Ohio,3722,29
+
+4436,2006,Diabetes mellitus (E10-E14),Diabetes,Ohio,3761,29.6
+
+4437,2005,Diabetes mellitus (E10-E14),Diabetes,Ohio,3794,30.5
+
+4438,2004,Diabetes mellitus (E10-E14),Diabetes,Ohio,3615,29.3
+
+4439,2003,Diabetes mellitus (E10-E14),Diabetes,Ohio,3731,30.6
+
+4440,2002,Diabetes mellitus (E10-E14),Diabetes,Ohio,3846,32
+
+4441,2001,Diabetes mellitus (E10-E14),Diabetes,Ohio,3750,31.5
+
+4442,2000,Diabetes mellitus (E10-E14),Diabetes,Ohio,3691,31.4
+
+4443,1999,Diabetes mellitus (E10-E14),Diabetes,Ohio,3675,31.4
+
+5363,2016,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Ohio,27410,185.1
+
+5364,2015,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Ohio,28069,191.7
+
+5365,2014,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Ohio,27000,186.4
+
+5366,2013,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Ohio,26878,187.9
+
+5367,2012,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Ohio,26426,187.7
+
+5368,2011,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Ohio,26298,190
+
+5369,2010,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Ohio,26164,192.4
+
+5370,2009,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Ohio,25453,190
+
+5371,2008,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Ohio,27324,206.9
+
+5372,2007,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Ohio,26757,205.7
+
+5373,2006,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Ohio,27886,218.5
+
+5374,2005,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Ohio,29003,231.9
+
+5375,2004,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Ohio,29078,235.8
+
+5376,2003,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Ohio,30667,251.2
+
+5377,2002,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Ohio,31388,261.2
+
+5378,2001,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Ohio,32453,273.5
+
+5379,2000,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Ohio,32722,279.2
+
+5380,1999,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Ohio,33192,285.7
+
+6298,2016,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Ohio,2187,15
+
+6299,2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Ohio,2445,16.6
+
+6300,2014,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Ohio,2443,16.9
+
+6301,2013,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Ohio,2374,16.6
+
+6302,2012,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Ohio,2195,15.5
+
+6303,2011,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Ohio,2291,16.6
+
+6304,2010,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Ohio,1975,14.6
+
+6305,2009,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Ohio,2040,15.4
+
+6306,2008,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Ohio,2085,15.8
+
+6307,2007,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Ohio,1743,13.4
+
+6308,2006,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Ohio,1947,15.3
+
+6309,2005,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Ohio,2416,19.4
+
+6310,2004,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Ohio,2204,17.9
+
+6311,2003,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Ohio,2330,19.1
+
+6312,2002,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Ohio,2487,20.8
+
+6313,2001,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Ohio,2401,20.3
+
+6314,2000,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Ohio,2533,21.7
+
+6315,1999,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Ohio,2641,22.9
+
+7234,2016,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Ohio,2262,15.4
+
+7235,2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Ohio,2100,14.5
+
+7236,2014,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Ohio,2002,14.1
+
+7237,2013,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Ohio,1985,14
+
+7238,2012,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Ohio,2056,14.8
+
+7239,2011,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Ohio,1943,14.2
+
+7240,2010,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Ohio,2066,15.4
+
+7241,2009,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Ohio,1909,14.4
+
+7242,2008,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Ohio,1865,14.3
+
+7243,2007,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Ohio,1747,13.5
+
+7244,2006,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Ohio,1758,13.9
+
+7245,2005,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Ohio,1902,15.2
+
+7246,2004,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Ohio,1896,15.4
+
+7247,2003,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Ohio,2093,17.1
+
+7248,2002,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Ohio,2027,16.9
+
+7249,2001,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Ohio,1912,16.1
+
+7250,2000,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Ohio,1829,15.6
+
+7251,1999,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Ohio,1748,15
+
+8170,2016,Cerebrovascular diseases (I60-I69),Stroke,Ohio,5987,40.6
+
+8171,2015,Cerebrovascular diseases (I60-I69),Stroke,Ohio,5945,40.7
+
+8172,2014,Cerebrovascular diseases (I60-I69),Stroke,Ohio,5791,40
+
+8173,2013,Cerebrovascular diseases (I60-I69),Stroke,Ohio,5690,39.9
+
+8174,2012,Cerebrovascular diseases (I60-I69),Stroke,Ohio,5788,41.2
+
+8175,2011,Cerebrovascular diseases (I60-I69),Stroke,Ohio,5691,41.3
+
+8176,2010,Cerebrovascular diseases (I60-I69),Stroke,Ohio,5755,42.6
+
+8177,2009,Cerebrovascular diseases (I60-I69),Stroke,Ohio,5576,41.8
+
+8178,2008,Cerebrovascular diseases (I60-I69),Stroke,Ohio,5951,45.2
+
+8179,2007,Cerebrovascular diseases (I60-I69),Stroke,Ohio,5905,45.5
+
+8180,2006,Cerebrovascular diseases (I60-I69),Stroke,Ohio,5828,45.7
+
+8181,2005,Cerebrovascular diseases (I60-I69),Stroke,Ohio,6279,50.2
+
+8182,2004,Cerebrovascular diseases (I60-I69),Stroke,Ohio,6501,52.8
+
+8183,2003,Cerebrovascular diseases (I60-I69),Stroke,Ohio,6910,56.6
+
+8184,2002,Cerebrovascular diseases (I60-I69),Stroke,Ohio,7252,60.3
+
+8185,2001,Cerebrovascular diseases (I60-I69),Stroke,Ohio,6891,58.1
+
+8186,2000,Cerebrovascular diseases (I60-I69),Stroke,Ohio,7175,61.2
+
+8187,1999,Cerebrovascular diseases (I60-I69),Stroke,Ohio,7235,62.3
+
+9106,2016,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Ohio,1707,14.2
+
+9107,2015,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Ohio,1650,13.9
+
+9108,2014,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Ohio,1491,12.6
+
+9109,2013,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Ohio,1526,12.9
+
+9110,2012,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Ohio,1542,13
+
+9111,2011,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Ohio,1465,12.3
+
+9112,2010,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Ohio,1439,12.2
+
+9113,2009,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Ohio,1176,10
+
+9114,2008,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Ohio,1412,12.2
+
+9115,2007,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Ohio,1295,11.1
+
+9116,2006,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Ohio,1325,11.3
+
+9117,2005,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Ohio,1341,11.5
+
+9118,2004,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Ohio,1319,11.4
+
+9119,2003,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Ohio,1074,9.3
+
+9120,2002,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Ohio,1287,11.2
+
+9121,2001,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Ohio,1219,10.6
+
+9122,2000,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Ohio,1088,9.5
+
+9123,1999,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Ohio,1102,9.7
+
+10007,2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Ohio,6756,55.9
+
+10008,2014,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Ohio,6178,50.8
+
+10009,2013,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Ohio,5497,45
+
+10010,2012,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Ohio,5420,44.7
+
+10011,2011,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Ohio,5275,43.4
+
+10012,2010,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Ohio,5124,42.4
+
+10013,2009,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Ohio,4012,33.1
+
+10014,2008,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Ohio,5093,42.3
+
+10015,2007,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Ohio,4922,41.3
+
+10016,2006,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Ohio,4821,40.5
+
+10017,2005,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Ohio,4438,37.7
+
+10018,2004,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Ohio,4234,36.1
+
+10019,2003,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Ohio,3757,32.2
+
+10020,2002,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Ohio,4146,35.8
+
+10021,2001,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Ohio,3857,33.4
+
+10022,2000,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Ohio,3492,30.5
+
+10023,1999,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Ohio,3630,31.8
+
+36,2016,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Ohio,7999,66.6
+
+682,2016,All Causes,All causes,Ohio,119572,832.3
+
+683,2015,All Causes,All causes,Ohio,118188,828.4
+
+684,2014,All Causes,All causes,Ohio,114509,810
+
+685,2013,All Causes,All causes,Ohio,113258,811.2
+
+686,2012,All Causes,All causes,Ohio,112498,817.9
+
+687,2011,All Causes,All causes,Ohio,111427,821.8
+
+688,2010,All Causes,All causes,Ohio,108711,815.7
+
+689,2009,All Causes,All causes,Ohio,107156,814.5
+
+690,2008,All Causes,All causes,Ohio,109767,844.3
+
+691,2007,All Causes,All causes,Ohio,106534,831.1
+
+692,2006,All Causes,All causes,Ohio,106825,846.6
+
+693,2005,All Causes,All causes,Ohio,109031,879.1
+
+694,2004,All Causes,All causes,Ohio,106288,867.1
+
+695,2003,All Causes,All causes,Ohio,109110,898.5
+
+696,2002,All Causes,All causes,Ohio,109766,916.7
+
+697,2001,All Causes,All causes,Ohio,108027,912.4
+
+698,2000,All Causes,All causes,Ohio,108125,923.5
+
+699,1999,All Causes,All causes,Ohio,108517,934
+
+1618,2016,Alzheimer's disease (G30),Alzheimer's disease,Ohio,5031,33.4
+
+1619,2015,Alzheimer's disease (G30),Alzheimer's disease,Ohio,4643,31.1
+
+1620,2014,Alzheimer's disease (G30),Alzheimer's disease,Ohio,4083,27.7
+
+1621,2013,Alzheimer's disease (G30),Alzheimer's disease,Ohio,3798,26
+
+1622,2012,Alzheimer's disease (G30),Alzheimer's disease,Ohio,3935,27.4
+
+1623,2011,Alzheimer's disease (G30),Alzheimer's disease,Ohio,4037,28.5
+
+1624,2010,Alzheimer's disease (G30),Alzheimer's disease,Ohio,4109,29.7
+
+1625,2009,Alzheimer's disease (G30),Alzheimer's disease,Ohio,3879,28.5
+
+1626,2008,Alzheimer's disease (G30),Alzheimer's disease,Ohio,4285,32
+
+1627,2007,Alzheimer's disease (G30),Alzheimer's disease,Ohio,3671,27.9
+
+1628,2006,Alzheimer's disease (G30),Alzheimer's disease,Ohio,3565,27.7
+
+1629,2005,Alzheimer's disease (G30),Alzheimer's disease,Ohio,3478,27.7
+
+1630,2004,Alzheimer's disease (G30),Alzheimer's disease,Ohio,2927,23.7
+
+1631,2003,Alzheimer's disease (G30),Alzheimer's disease,Ohio,2902,23.7
+
+1632,2002,Alzheimer's disease (G30),Alzheimer's disease,Ohio,2599,21.7
+
+1633,2001,Alzheimer's disease (G30),Alzheimer's disease,Ohio,2367,20
+
+1634,2000,Alzheimer's disease (G30),Alzheimer's disease,Ohio,2295,19.7
+
+1635,1999,Alzheimer's disease (G30),Alzheimer's disease,Ohio,2099,18.2
+
+2554,2016,Malignant neoplasms (C00-C97),Cancer,Ohio,25509,173.4
+
+2555,2015,Malignant neoplasms (C00-C97),Cancer,Ohio,25396,175.1
+
+2556,2014,Malignant neoplasms (C00-C97),Cancer,Ohio,25433,177.8
+
+2557,2013,Malignant neoplasms (C00-C97),Cancer,Ohio,24986,177.6
+
+2558,2012,Malignant neoplasms (C00-C97),Cancer,Ohio,25261,182.7
+
+2559,2011,Malignant neoplasms (C00-C97),Cancer,Ohio,25140,184.9
+
+2560,2010,Malignant neoplasms (C00-C97),Cancer,Ohio,25083,187.7
+
+2561,2009,Malignant neoplasms (C00-C97),Cancer,Ohio,25149,190.5
+
+2562,2008,Malignant neoplasms (C00-C97),Cancer,Ohio,24998,191.9
+
+2563,2007,Malignant neoplasms (C00-C97),Cancer,Ohio,25230,196.3
+
+2564,2006,Malignant neoplasms (C00-C97),Cancer,Ohio,24975,197.3
+
+2565,2005,Malignant neoplasms (C00-C97),Cancer,Ohio,24702,198.1
+
+2566,2004,Malignant neoplasms (C00-C97),Cancer,Ohio,24940,202.1
+
+2567,2003,Malignant neoplasms (C00-C97),Cancer,Ohio,25076,205.3
+
+2568,2002,Malignant neoplasms (C00-C97),Cancer,Ohio,25173,209
+
+2569,2001,Malignant neoplasms (C00-C97),Cancer,Ohio,24804,208.4
+
+2570,2000,Malignant neoplasms (C00-C97),Cancer,Ohio,24988,212
+
+2571,1999,Malignant neoplasms (C00-C97),Cancer,Ohio,25233,215.4
+
+3490,2016,Chronic lower respiratory diseases (J40-J47),CLRD,Ohio,7015,47.5
+
+3491,2015,Chronic lower respiratory diseases (J40-J47),CLRD,Ohio,7211,49.6
+
+3492,2014,Chronic lower respiratory diseases (J40-J47),CLRD,Ohio,6765,47.2
+
+3493,2013,Chronic lower respiratory diseases (J40-J47),CLRD,Ohio,7007,49.7
+
+3494,2012,Chronic lower respiratory diseases (J40-J47),CLRD,Ohio,7070,51.2
+
+3495,2011,Chronic lower respiratory diseases (J40-J47),CLRD,Ohio,6996,51.7
+
+3496,2010,Chronic lower respiratory diseases (J40-J47),CLRD,Ohio,6717,50.5
+
+3497,2009,Chronic lower respiratory diseases (J40-J47),CLRD,Ohio,6642,50.4
+
+3498,2008,Chronic lower respiratory diseases (J40-J47),CLRD,Ohio,6928,53.3
+
+3499,2007,Chronic lower respiratory diseases (J40-J47),CLRD,Ohio,6454,50.4
+
+3500,2006,Chronic lower respiratory diseases (J40-J47),CLRD,Ohio,6054,47.9
+
+3501,2005,Chronic lower respiratory diseases (J40-J47),CLRD,Ohio,6580,52.8
+
+3502,2004,Chronic lower respiratory diseases (J40-J47),CLRD,Ohio,5896,47.8
+
+3503,2003,Chronic lower respiratory diseases (J40-J47),CLRD,Ohio,5927,48.5
+
+3504,2002,Chronic lower respiratory diseases (J40-J47),CLRD,Ohio,6063,50.2
+
+3505,2001,Chronic lower respiratory diseases (J40-J47),CLRD,Ohio,5881,49.3
+
+3506,2000,Chronic lower respiratory diseases (J40-J47),CLRD,Ohio,5983,50.6
+
+3507,1999,Chronic lower respiratory diseases (J40-J47),CLRD,Ohio,5858,49.9
+
+4426,2016,Diabetes mellitus (E10-E14),Diabetes,Ohio,3568,24.6
+
+4427,2015,Diabetes mellitus (E10-E14),Diabetes,Ohio,3645,25.3
+
+4428,2014,Diabetes mellitus (E10-E14),Diabetes,Ohio,3641,25.7
+
+4429,2013,Diabetes mellitus (E10-E14),Diabetes,Ohio,3563,25.4
+
+4430,2012,Diabetes mellitus (E10-E14),Diabetes,Ohio,3618,26.1
+
+4431,2011,Diabetes mellitus (E10-E14),Diabetes,Ohio,3668,26.8
+
+4432,2010,Diabetes mellitus (E10-E14),Diabetes,Ohio,3470,25.8
+
+4433,2009,Diabetes mellitus (E10-E14),Diabetes,Ohio,3401,25.7
+
+4434,2008,Diabetes mellitus (E10-E14),Diabetes,Ohio,3565,27.2
+
+4435,2007,Diabetes mellitus (E10-E14),Diabetes,Ohio,3722,29
+
+4436,2006,Diabetes mellitus (E10-E14),Diabetes,Ohio,3761,29.6
+
+4437,2005,Diabetes mellitus (E10-E14),Diabetes,Ohio,3794,30.5
+
+4438,2004,Diabetes mellitus (E10-E14),Diabetes,Ohio,3615,29.3
+
+4439,2003,Diabetes mellitus (E10-E14),Diabetes,Ohio,3731,30.6
+
+4440,2002,Diabetes mellitus (E10-E14),Diabetes,Ohio,3846,32
+
+4441,2001,Diabetes mellitus (E10-E14),Diabetes,Ohio,3750,31.5
+
+4442,2000,Diabetes mellitus (E10-E14),Diabetes,Ohio,3691,31.4
+
+4443,1999,Diabetes mellitus (E10-E14),Diabetes,Ohio,3675,31.4
+
+5363,2016,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Ohio,27410,185.1
+
+5364,2015,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Ohio,28069,191.7
+
+5365,2014,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Ohio,27000,186.4
+
+5366,2013,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Ohio,26878,187.9
+
+5367,2012,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Ohio,26426,187.7
+
+5368,2011,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Ohio,26298,190
+
+5369,2010,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Ohio,26164,192.4
+
+5370,2009,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Ohio,25453,190
+
+5371,2008,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Ohio,27324,206.9
+
+5372,2007,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Ohio,26757,205.7
+
+5373,2006,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Ohio,27886,218.5
+
+5374,2005,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Ohio,29003,231.9
+
+5375,2004,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Ohio,29078,235.8
+
+5376,2003,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Ohio,30667,251.2
+
+5377,2002,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Ohio,31388,261.2
+
+5378,2001,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Ohio,32453,273.5
+
+5379,2000,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Ohio,32722,279.2
+
+5380,1999,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Ohio,33192,285.7
+
+6298,2016,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Ohio,2187,15
+
+6299,2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Ohio,2445,16.6
+
+6300,2014,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Ohio,2443,16.9
+
+6301,2013,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Ohio,2374,16.6
+
+6302,2012,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Ohio,2195,15.5
+
+6303,2011,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Ohio,2291,16.6
+
+6304,2010,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Ohio,1975,14.6
+
+6305,2009,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Ohio,2040,15.4
+
+6306,2008,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Ohio,2085,15.8
+
+6307,2007,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Ohio,1743,13.4
+
+6308,2006,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Ohio,1947,15.3
+
+6309,2005,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Ohio,2416,19.4
+
+6310,2004,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Ohio,2204,17.9
+
+6311,2003,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Ohio,2330,19.1
+
+6312,2002,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Ohio,2487,20.8
+
+6313,2001,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Ohio,2401,20.3
+
+6314,2000,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Ohio,2533,21.7
+
+6315,1999,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Ohio,2641,22.9
+
+7234,2016,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Ohio,2262,15.4
+
+7235,2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Ohio,2100,14.5
+
+7236,2014,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Ohio,2002,14.1
+
+7237,2013,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Ohio,1985,14
+
+7238,2012,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Ohio,2056,14.8
+
+7239,2011,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Ohio,1943,14.2
+
+7240,2010,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Ohio,2066,15.4
+
+7241,2009,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Ohio,1909,14.4
+
+7242,2008,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Ohio,1865,14.3
+
+7243,2007,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Ohio,1747,13.5
+
+7244,2006,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Ohio,1758,13.9
+
+7245,2005,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Ohio,1902,15.2
+
+7246,2004,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Ohio,1896,15.4
+
+7247,2003,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Ohio,2093,17.1
+
+7248,2002,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Ohio,2027,16.9
+
+7249,2001,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Ohio,1912,16.1
+
+7250,2000,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Ohio,1829,15.6
+
+7251,1999,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Ohio,1748,15
+
+8170,2016,Cerebrovascular diseases (I60-I69),Stroke,Ohio,5987,40.6
+
+8171,2015,Cerebrovascular diseases (I60-I69),Stroke,Ohio,5945,40.7
+
+8172,2014,Cerebrovascular diseases (I60-I69),Stroke,Ohio,5791,40
+
+8173,2013,Cerebrovascular diseases (I60-I69),Stroke,Ohio,5690,39.9
+
+8174,2012,Cerebrovascular diseases (I60-I69),Stroke,Ohio,5788,41.2
+
+8175,2011,Cerebrovascular diseases (I60-I69),Stroke,Ohio,5691,41.3
+
+8176,2010,Cerebrovascular diseases (I60-I69),Stroke,Ohio,5755,42.6
+
+8177,2009,Cerebrovascular diseases (I60-I69),Stroke,Ohio,5576,41.8
+
+8178,2008,Cerebrovascular diseases (I60-I69),Stroke,Ohio,5951,45.2
+
+8179,2007,Cerebrovascular diseases (I60-I69),Stroke,Ohio,5905,45.5
+
+8180,2006,Cerebrovascular diseases (I60-I69),Stroke,Ohio,5828,45.7
+
+8181,2005,Cerebrovascular diseases (I60-I69),Stroke,Ohio,6279,50.2
+
+8182,2004,Cerebrovascular diseases (I60-I69),Stroke,Ohio,6501,52.8
+
+8183,2003,Cerebrovascular diseases (I60-I69),Stroke,Ohio,6910,56.6
+
+8184,2002,Cerebrovascular diseases (I60-I69),Stroke,Ohio,7252,60.3
+
+8185,2001,Cerebrovascular diseases (I60-I69),Stroke,Ohio,6891,58.1
+
+8186,2000,Cerebrovascular diseases (I60-I69),Stroke,Ohio,7175,61.2
+
+8187,1999,Cerebrovascular diseases (I60-I69),Stroke,Ohio,7235,62.3
+
+9106,2016,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Ohio,1707,14.2
+
+9107,2015,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Ohio,1650,13.9
+
+9108,2014,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Ohio,1491,12.6
+
+9109,2013,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Ohio,1526,12.9
+
+9110,2012,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Ohio,1542,13
+
+9111,2011,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Ohio,1465,12.3
+
+9112,2010,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Ohio,1439,12.2
+
+9113,2009,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Ohio,1176,10
+
+9114,2008,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Ohio,1412,12.2
+
+9115,2007,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Ohio,1295,11.1
+
+9116,2006,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Ohio,1325,11.3
+
+9117,2005,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Ohio,1341,11.5
+
+9118,2004,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Ohio,1319,11.4
+
+9119,2003,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Ohio,1074,9.3
+
+9120,2002,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Ohio,1287,11.2
+
+9121,2001,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Ohio,1219,10.6
+
+9122,2000,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Ohio,1088,9.5
+
+9123,1999,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Ohio,1102,9.7
+
+10007,2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Ohio,6756,55.9
+
+10008,2014,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Ohio,6178,50.8
+
+10009,2013,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Ohio,5497,45
+
+10010,2012,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Ohio,5420,44.7
+
+10011,2011,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Ohio,5275,43.4
+
+10012,2010,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Ohio,5124,42.4
+
+10013,2009,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Ohio,4012,33.1
+
+10014,2008,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Ohio,5093,42.3
+
+10015,2007,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Ohio,4922,41.3
+
+10016,2006,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Ohio,4821,40.5
+
+10017,2005,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Ohio,4438,37.7
+
+10018,2004,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Ohio,4234,36.1
+
+10019,2003,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Ohio,3757,32.2
+
+10020,2002,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Ohio,4146,35.8
+
+10021,2001,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Ohio,3857,33.4
+
+10022,2000,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Ohio,3492,30.5
+
+10023,1999,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Ohio,3630,31.8
+
+36,2016,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Ohio,7999,66.6
+
+682,2016,All Causes,All causes,Ohio,119572,832.3
+
+683,2015,All Causes,All causes,Ohio,118188,828.4
+
+684,2014,All Causes,All causes,Ohio,114509,810
+
+685,2013,All Causes,All causes,Ohio,113258,811.2
+
+686,2012,All Causes,All causes,Ohio,112498,817.9
+
+687,2011,All Causes,All causes,Ohio,111427,821.8
+
+688,2010,All Causes,All causes,Ohio,108711,815.7
+
+689,2009,All Causes,All causes,Ohio,107156,814.5
+
+690,2008,All Causes,All causes,Ohio,109767,844.3
+
+691,2007,All Causes,All causes,Ohio,106534,831.1
+
+692,2006,All Causes,All causes,Ohio,106825,846.6
+
+693,2005,All Causes,All causes,Ohio,109031,879.1
+
+694,2004,All Causes,All causes,Ohio,106288,867.1
+
+695,2003,All Causes,All causes,Ohio,109110,898.5
+
+696,2002,All Causes,All causes,Ohio,109766,916.7
+
+697,2001,All Causes,All causes,Ohio,108027,912.4
+
+698,2000,All Causes,All causes,Ohio,108125,923.5
+
+699,1999,All Causes,All causes,Ohio,108517,934
+
+1618,2016,Alzheimer's disease (G30),Alzheimer's disease,Ohio,5031,33.4
+
+1619,2015,Alzheimer's disease (G30),Alzheimer's disease,Ohio,4643,31.1
+
+1620,2014,Alzheimer's disease (G30),Alzheimer's disease,Ohio,4083,27.7
+
+1621,2013,Alzheimer's disease (G30),Alzheimer's disease,Ohio,3798,26
+
+1622,2012,Alzheimer's disease (G30),Alzheimer's disease,Ohio,3935,27.4
+
+1623,2011,Alzheimer's disease (G30),Alzheimer's disease,Ohio,4037,28.5
+
+1624,2010,Alzheimer's disease (G30),Alzheimer's disease,Ohio,4109,29.7
+
+1625,2009,Alzheimer's disease (G30),Alzheimer's disease,Ohio,3879,28.5
+
+1626,2008,Alzheimer's disease (G30),Alzheimer's disease,Ohio,4285,32
+
+1627,2007,Alzheimer's disease (G30),Alzheimer's disease,Ohio,3671,27.9
+
+1628,2006,Alzheimer's disease (G30),Alzheimer's disease,Ohio,3565,27.7
+
+1629,2005,Alzheimer's disease (G30),Alzheimer's disease,Ohio,3478,27.7
+
+1630,2004,Alzheimer's disease (G30),Alzheimer's disease,Ohio,2927,23.7
+
+1631,2003,Alzheimer's disease (G30),Alzheimer's disease,Ohio,2902,23.7
+
+1632,2002,Alzheimer's disease (G30),Alzheimer's disease,Ohio,2599,21.7
+
+1633,2001,Alzheimer's disease (G30),Alzheimer's disease,Ohio,2367,20
+
+1634,2000,Alzheimer's disease (G30),Alzheimer's disease,Ohio,2295,19.7
+
+1635,1999,Alzheimer's disease (G30),Alzheimer's disease,Ohio,2099,18.2
+
+2554,2016,Malignant neoplasms (C00-C97),Cancer,Ohio,25509,173.4
+
+2555,2015,Malignant neoplasms (C00-C97),Cancer,Ohio,25396,175.1
+
+2556,2014,Malignant neoplasms (C00-C97),Cancer,Ohio,25433,177.8
+
+2557,2013,Malignant neoplasms (C00-C97),Cancer,Ohio,24986,177.6
+
+2558,2012,Malignant neoplasms (C00-C97),Cancer,Ohio,25261,182.7
+
+2559,2011,Malignant neoplasms (C00-C97),Cancer,Ohio,25140,184.9
+
+2560,2010,Malignant neoplasms (C00-C97),Cancer,Ohio,25083,187.7
+
+2561,2009,Malignant neoplasms (C00-C97),Cancer,Ohio,25149,190.5
+
+2562,2008,Malignant neoplasms (C00-C97),Cancer,Ohio,24998,191.9
+
+2563,2007,Malignant neoplasms (C00-C97),Cancer,Ohio,25230,196.3
+
+2564,2006,Malignant neoplasms (C00-C97),Cancer,Ohio,24975,197.3
+
+2565,2005,Malignant neoplasms (C00-C97),Cancer,Ohio,24702,198.1
+
+2566,2004,Malignant neoplasms (C00-C97),Cancer,Ohio,24940,202.1
+
+2567,2003,Malignant neoplasms (C00-C97),Cancer,Ohio,25076,205.3
+
+2568,2002,Malignant neoplasms (C00-C97),Cancer,Ohio,25173,209
+
+2569,2001,Malignant neoplasms (C00-C97),Cancer,Ohio,24804,208.4
+
+2570,2000,Malignant neoplasms (C00-C97),Cancer,Ohio,24988,212
+
+2571,1999,Malignant neoplasms (C00-C97),Cancer,Ohio,25233,215.4
+
+3490,2016,Chronic lower respiratory diseases (J40-J47),CLRD,Ohio,7015,47.5
+
+3491,2015,Chronic lower respiratory diseases (J40-J47),CLRD,Ohio,7211,49.6
+
+3492,2014,Chronic lower respiratory diseases (J40-J47),CLRD,Ohio,6765,47.2
+
+3493,2013,Chronic lower respiratory diseases (J40-J47),CLRD,Ohio,7007,49.7
+
+3494,2012,Chronic lower respiratory diseases (J40-J47),CLRD,Ohio,7070,51.2
+
+3495,2011,Chronic lower respiratory diseases (J40-J47),CLRD,Ohio,6996,51.7
+
+3496,2010,Chronic lower respiratory diseases (J40-J47),CLRD,Ohio,6717,50.5
+
+3497,2009,Chronic lower respiratory diseases (J40-J47),CLRD,Ohio,6642,50.4
+
+3498,2008,Chronic lower respiratory diseases (J40-J47),CLRD,Ohio,6928,53.3
+
+3499,2007,Chronic lower respiratory diseases (J40-J47),CLRD,Ohio,6454,50.4
+
+3500,2006,Chronic lower respiratory diseases (J40-J47),CLRD,Ohio,6054,47.9
+
+3501,2005,Chronic lower respiratory diseases (J40-J47),CLRD,Ohio,6580,52.8
+
+3502,2004,Chronic lower respiratory diseases (J40-J47),CLRD,Ohio,5896,47.8
+
+3503,2003,Chronic lower respiratory diseases (J40-J47),CLRD,Ohio,5927,48.5
+
+3504,2002,Chronic lower respiratory diseases (J40-J47),CLRD,Ohio,6063,50.2
+
+3505,2001,Chronic lower respiratory diseases (J40-J47),CLRD,Ohio,5881,49.3
+
+3506,2000,Chronic lower respiratory diseases (J40-J47),CLRD,Ohio,5983,50.6
+
+3507,1999,Chronic lower respiratory diseases (J40-J47),CLRD,Ohio,5858,49.9
+
+4426,2016,Diabetes mellitus (E10-E14),Diabetes,Ohio,3568,24.6
+
+4427,2015,Diabetes mellitus (E10-E14),Diabetes,Ohio,3645,25.3
+
+4428,2014,Diabetes mellitus (E10-E14),Diabetes,Ohio,3641,25.7
+
+4429,2013,Diabetes mellitus (E10-E14),Diabetes,Ohio,3563,25.4
+
+4430,2012,Diabetes mellitus (E10-E14),Diabetes,Ohio,3618,26.1
+
+4431,2011,Diabetes mellitus (E10-E14),Diabetes,Ohio,3668,26.8
+
+4432,2010,Diabetes mellitus (E10-E14),Diabetes,Ohio,3470,25.8
+
+4433,2009,Diabetes mellitus (E10-E14),Diabetes,Ohio,3401,25.7
+
+4434,2008,Diabetes mellitus (E10-E14),Diabetes,Ohio,3565,27.2
+
+4435,2007,Diabetes mellitus (E10-E14),Diabetes,Ohio,3722,29
+
+4436,2006,Diabetes mellitus (E10-E14),Diabetes,Ohio,3761,29.6
+
+4437,2005,Diabetes mellitus (E10-E14),Diabetes,Ohio,3794,30.5
+
+4438,2004,Diabetes mellitus (E10-E14),Diabetes,Ohio,3615,29.3
+
+4439,2003,Diabetes mellitus (E10-E14),Diabetes,Ohio,3731,30.6
+
+4440,2002,Diabetes mellitus (E10-E14),Diabetes,Ohio,3846,32
+
+4441,2001,Diabetes mellitus (E10-E14),Diabetes,Ohio,3750,31.5
+
+4442,2000,Diabetes mellitus (E10-E14),Diabetes,Ohio,3691,31.4
+
+4443,1999,Diabetes mellitus (E10-E14),Diabetes,Ohio,3675,31.4
+
+5363,2016,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Ohio,27410,185.1
+
+5364,2015,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Ohio,28069,191.7
+
+5365,2014,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Ohio,27000,186.4
+
+5366,2013,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Ohio,26878,187.9
+
+5367,2012,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Ohio,26426,187.7
+
+5368,2011,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Ohio,26298,190
+
+5369,2010,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Ohio,26164,192.4
+
+5370,2009,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Ohio,25453,190
+
+5371,2008,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Ohio,27324,206.9
+
+5372,2007,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Ohio,26757,205.7
+
+5373,2006,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Ohio,27886,218.5
+
+5374,2005,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Ohio,29003,231.9
+
+5375,2004,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Ohio,29078,235.8
+
+5376,2003,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Ohio,30667,251.2
+
+5377,2002,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Ohio,31388,261.2
+
+5378,2001,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Ohio,32453,273.5
+
+5379,2000,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Ohio,32722,279.2
+
+5380,1999,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Ohio,33192,285.7
+
+6298,2016,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Ohio,2187,15
+
+6299,2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Ohio,2445,16.6
+
+6300,2014,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Ohio,2443,16.9
+
+6301,2013,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Ohio,2374,16.6
+
+6302,2012,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Ohio,2195,15.5
+
+6303,2011,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Ohio,2291,16.6
+
+6304,2010,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Ohio,1975,14.6
+
+6305,2009,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Ohio,2040,15.4
+
+6306,2008,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Ohio,2085,15.8
+
+6307,2007,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Ohio,1743,13.4
+
+6308,2006,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Ohio,1947,15.3
+
+6309,2005,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Ohio,2416,19.4
+
+6310,2004,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Ohio,2204,17.9
+
+6311,2003,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Ohio,2330,19.1
+
+6312,2002,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Ohio,2487,20.8
+
+6313,2001,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Ohio,2401,20.3
+
+6314,2000,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Ohio,2533,21.7
+
+6315,1999,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Ohio,2641,22.9
+
+7234,2016,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Ohio,2262,15.4
+
+7235,2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Ohio,2100,14.5
+
+7236,2014,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Ohio,2002,14.1
+
+7237,2013,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Ohio,1985,14
+
+7238,2012,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Ohio,2056,14.8
+
+7239,2011,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Ohio,1943,14.2
+
+7240,2010,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Ohio,2066,15.4
+
+7241,2009,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Ohio,1909,14.4
+
+7242,2008,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Ohio,1865,14.3
+
+7243,2007,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Ohio,1747,13.5
+
+7244,2006,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Ohio,1758,13.9
+
+7245,2005,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Ohio,1902,15.2
+
+7246,2004,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Ohio,1896,15.4
+
+7247,2003,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Ohio,2093,17.1
+
+7248,2002,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Ohio,2027,16.9
+
+7249,2001,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Ohio,1912,16.1
+
+7250,2000,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Ohio,1829,15.6
+
+7251,1999,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Ohio,1748,15
+
+8170,2016,Cerebrovascular diseases (I60-I69),Stroke,Ohio,5987,40.6
+
+8171,2015,Cerebrovascular diseases (I60-I69),Stroke,Ohio,5945,40.7
+
+8172,2014,Cerebrovascular diseases (I60-I69),Stroke,Ohio,5791,40
+
+8173,2013,Cerebrovascular diseases (I60-I69),Stroke,Ohio,5690,39.9
+
+8174,2012,Cerebrovascular diseases (I60-I69),Stroke,Ohio,5788,41.2
+
+8175,2011,Cerebrovascular diseases (I60-I69),Stroke,Ohio,5691,41.3
+
+8176,2010,Cerebrovascular diseases (I60-I69),Stroke,Ohio,5755,42.6
+
+8177,2009,Cerebrovascular diseases (I60-I69),Stroke,Ohio,5576,41.8
+
+8178,2008,Cerebrovascular diseases (I60-I69),Stroke,Ohio,5951,45.2
+
+8179,2007,Cerebrovascular diseases (I60-I69),Stroke,Ohio,5905,45.5
+
+8180,2006,Cerebrovascular diseases (I60-I69),Stroke,Ohio,5828,45.7
+
+8181,2005,Cerebrovascular diseases (I60-I69),Stroke,Ohio,6279,50.2
+
+8182,2004,Cerebrovascular diseases (I60-I69),Stroke,Ohio,6501,52.8
+
+8183,2003,Cerebrovascular diseases (I60-I69),Stroke,Ohio,6910,56.6
+
+8184,2002,Cerebrovascular diseases (I60-I69),Stroke,Ohio,7252,60.3
+
+8185,2001,Cerebrovascular diseases (I60-I69),Stroke,Ohio,6891,58.1
+
+8186,2000,Cerebrovascular diseases (I60-I69),Stroke,Ohio,7175,61.2
+
+8187,1999,Cerebrovascular diseases (I60-I69),Stroke,Ohio,7235,62.3
+
+9106,2016,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Ohio,1707,14.2
+
+9107,2015,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Ohio,1650,13.9
+
+9108,2014,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Ohio,1491,12.6
+
+9109,2013,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Ohio,1526,12.9
+
+9110,2012,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Ohio,1542,13
+
+9111,2011,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Ohio,1465,12.3
+
+9112,2010,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Ohio,1439,12.2
+
+9113,2009,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Ohio,1176,10
+
+9114,2008,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Ohio,1412,12.2
+
+9115,2007,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Ohio,1295,11.1
+
+9116,2006,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Ohio,1325,11.3
+
+9117,2005,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Ohio,1341,11.5
+
+9118,2004,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Ohio,1319,11.4
+
+9119,2003,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Ohio,1074,9.3
+
+9120,2002,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Ohio,1287,11.2
+
+9121,2001,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Ohio,1219,10.6
+
+9122,2000,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Ohio,1088,9.5
+
+9123,1999,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Ohio,1102,9.7
+
+10007,2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Ohio,6756,55.9
+
+10008,2014,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Ohio,6178,50.8
+
+10009,2013,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Ohio,5497,45
+
+10010,2012,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Ohio,5420,44.7
+
+10011,2011,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Ohio,5275,43.4
+
+10012,2010,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Ohio,5124,42.4
+
+10013,2009,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Ohio,4012,33.1
+
+10014,2008,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Ohio,5093,42.3
+
+10015,2007,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Ohio,4922,41.3
+
+10016,2006,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Ohio,4821,40.5
+
+10017,2005,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Ohio,4438,37.7
+
+10018,2004,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Ohio,4234,36.1
+
+10019,2003,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Ohio,3757,32.2
+
+10020,2002,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Ohio,4146,35.8
+
+10021,2001,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Ohio,3857,33.4
+
+10022,2000,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Ohio,3492,30.5
+
+10023,1999,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Ohio,3630,31.8
+

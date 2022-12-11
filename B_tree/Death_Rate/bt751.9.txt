@@ -1,0 +1,4 @@
+550,2004,All Causes,All causes,Nebraska,14657,751.9
+
+928,2004,All Causes,All causes,Washington,44770,751.9
+

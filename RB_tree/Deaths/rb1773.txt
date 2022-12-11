@@ -1,0 +1,4 @@
+1372,2010,Alzheimer's disease (G30),Alzheimer's disease,Massachusetts,1773,21.2
+
+2920,2010,Chronic lower respiratory diseases (J40-J47),CLRD,Arkansas,1773,53.5
+

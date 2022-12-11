@@ -1,0 +1,8 @@
+3761,2015,Chronic lower respiratory diseases (J40-J47),CLRD,Wisconsin,2846,39.3
+
+4038,2008,Diabetes mellitus (E10-E14),Diabetes,Illinois,2846,21.6
+
+3761,2015,Chronic lower respiratory diseases (J40-J47),CLRD,Wisconsin,2846,39.3
+
+4038,2008,Diabetes mellitus (E10-E14),Diabetes,Illinois,2846,21.6
+

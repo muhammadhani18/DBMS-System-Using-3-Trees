@@ -1,0 +1,8 @@
+4951,2013,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Idaho,2495,145.4
+
+4954,2010,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Idaho,2495,159.3
+
+4951,2013,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Idaho,2495,145.4
+
+4954,2010,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Idaho,2495,159.3
+

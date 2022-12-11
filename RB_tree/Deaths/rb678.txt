@@ -1,0 +1,8 @@
+4354,2016,Diabetes mellitus (E10-E14),Diabetes,New Mexico,678,27.2
+
+5766,2008,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Colorado,678,15.9
+
+8893,2013,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Minnesota,678,12.1
+
+9875,2011,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Nebraska,678,33.6
+

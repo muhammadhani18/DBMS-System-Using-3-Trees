@@ -1,0 +1,4 @@
+3978,2014,Diabetes mellitus (E10-E14),Diabetes,Georgia,2230,22.3
+
+7866,2014,Cerebrovascular diseases (I60-I69),Stroke,Louisiana,2230,45.6
+

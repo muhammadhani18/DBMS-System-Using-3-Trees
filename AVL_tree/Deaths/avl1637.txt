@@ -1,0 +1,6 @@
+6073,2007,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Michigan,1637,15.1
+
+6219,2005,Influenza and pneumonia (J09-J18),Influenza and pneumonia,New Jersey,1637,17.3
+
+7597,2013,Cerebrovascular diseases (I60-I69),Stroke,Arkansas,1637,47.6
+

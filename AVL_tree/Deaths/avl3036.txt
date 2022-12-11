@@ -1,0 +1,6 @@
+2494,2004,Malignant neoplasms (C00-C97),Cancer,New Mexico,3036,162.5
+
+3724,2016,Chronic lower respiratory diseases (J40-J47),CLRD,Washington,3036,37.3
+
+5508,2011,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Utah,3036,144.4
+

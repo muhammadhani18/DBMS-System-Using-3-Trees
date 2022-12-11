@@ -1,0 +1,8 @@
+1300,2010,Alzheimer's disease (G30),Alzheimer's disease,Kentucky,1464,33.5
+
+6525,2005,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Virginia,1464,21.6
+
+1300,2010,Alzheimer's disease (G30),Alzheimer's disease,Kentucky,1464,33.5
+
+6525,2005,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Virginia,1464,21.6
+

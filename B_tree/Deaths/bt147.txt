@@ -1,0 +1,28 @@
+1127,2003,Alzheimer's disease (G30),Alzheimer's disease,Delaware,147,18.6
+
+2891,2003,Chronic lower respiratory diseases (J40-J47),CLRD,Alaska,147,46.9
+
+2893,2001,Chronic lower respiratory diseases (J40-J47),CLRD,Alaska,147,49.9
+
+3005,2015,Chronic lower respiratory diseases (J40-J47),CLRD,District of Columbia,147,23.4
+
+3010,2010,Chronic lower respiratory diseases (J40-J47),CLRD,District of Columbia,147,25.7
+
+6136,2016,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Montana,147,11.1
+
+9217,2013,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,South Dakota,147,18
+
+1127,2003,Alzheimer's disease (G30),Alzheimer's disease,Delaware,147,18.6
+
+2891,2003,Chronic lower respiratory diseases (J40-J47),CLRD,Alaska,147,46.9
+
+2893,2001,Chronic lower respiratory diseases (J40-J47),CLRD,Alaska,147,49.9
+
+3005,2015,Chronic lower respiratory diseases (J40-J47),CLRD,District of Columbia,147,23.4
+
+3010,2010,Chronic lower respiratory diseases (J40-J47),CLRD,District of Columbia,147,25.7
+
+6136,2016,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Montana,147,11.1
+
+9217,2013,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,South Dakota,147,18
+

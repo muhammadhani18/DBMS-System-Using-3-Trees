@@ -1,0 +1,4 @@
+997,2007,Alzheimer's disease (G30),Alzheimer's disease,Alabama,1517,32.6
+
+9668,2014,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Iowa,1517,42.1
+

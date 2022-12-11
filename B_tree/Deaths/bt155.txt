@@ -1,0 +1,32 @@
+1126,2004,Alzheimer's disease (G30),Alzheimer's disease,Delaware,155,19
+
+1617,1999,Alzheimer's disease (G30),Alzheimer's disease,North Dakota,155,18.1
+
+1743,1999,Alzheimer's disease (G30),Alzheimer's disease,South Dakota,155,16.3
+
+4639,2001,Diabetes mellitus (E10-E14),Diabetes,Vermont,155,24.3
+
+5811,1999,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Delaware,155,21.3
+
+6140,2012,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Montana,155,12.2
+
+7072,2016,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Montana,155,11.3
+
+8506,2004,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Alaska,155,23
+
+1126,2004,Alzheimer's disease (G30),Alzheimer's disease,Delaware,155,19
+
+1617,1999,Alzheimer's disease (G30),Alzheimer's disease,North Dakota,155,18.1
+
+1743,1999,Alzheimer's disease (G30),Alzheimer's disease,South Dakota,155,16.3
+
+4639,2001,Diabetes mellitus (E10-E14),Diabetes,Vermont,155,24.3
+
+5811,1999,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Delaware,155,21.3
+
+6140,2012,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Montana,155,12.2
+
+7072,2016,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Montana,155,11.3
+
+8506,2004,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Alaska,155,23
+

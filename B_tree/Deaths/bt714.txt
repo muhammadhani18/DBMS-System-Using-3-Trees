@@ -1,0 +1,20 @@
+3866,2000,Diabetes mellitus (E10-E14),Diabetes,Arkansas,714,24.6
+
+4757,2009,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Alaska,714,158.9
+
+7750,2004,Cerebrovascular diseases (I60-I69),Stroke,Hawaii,714,51
+
+9878,2008,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Nebraska,714,37.1
+
+10191,2002,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Utah,714,35.8
+
+3866,2000,Diabetes mellitus (E10-E14),Diabetes,Arkansas,714,24.6
+
+4757,2009,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Alaska,714,158.9
+
+7750,2004,Cerebrovascular diseases (I60-I69),Stroke,Hawaii,714,51
+
+9878,2008,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Nebraska,714,37.1
+
+10191,2002,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Utah,714,35.8
+

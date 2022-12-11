@@ -1,0 +1,8 @@
+2739,2011,Malignant neoplasms (C00-C97),Cancer,Utah,2746,125.7
+
+4391,2015,Diabetes mellitus (E10-E14),Diabetes,North Carolina,2746,23.6
+
+2739,2011,Malignant neoplasms (C00-C97),Cancer,Utah,2746,125.7
+
+4391,2015,Diabetes mellitus (E10-E14),Diabetes,North Carolina,2746,23.6
+

@@ -1,0 +1,12 @@
+3235,2001,Chronic lower respiratory diseases (J40-J47),CLRD,Maryland,1907,39.5
+
+7646,2000,Cerebrovascular diseases (I60-I69),Stroke,Colorado,1907,58.7
+
+9779,2005,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Massachusetts,1907,28
+
+3235,2001,Chronic lower respiratory diseases (J40-J47),CLRD,Maryland,1907,39.5
+
+7646,2000,Cerebrovascular diseases (I60-I69),Stroke,Colorado,1907,58.7
+
+9779,2005,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Massachusetts,1907,28
+

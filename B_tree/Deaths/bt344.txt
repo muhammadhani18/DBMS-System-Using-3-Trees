@@ -1,0 +1,20 @@
+2996,2006,Chronic lower respiratory diseases (J40-J47),CLRD,Delaware,344,37.9
+
+4024,2004,Diabetes mellitus (E10-E14),Diabetes,Idaho,344,26.5
+
+4146,2008,Diabetes mellitus (E10-E14),Diabetes,Maine,344,20.8
+
+6233,2009,Influenza and pneumonia (J09-J18),Influenza and pneumonia,New Mexico,344,16.7
+
+8385,1999,Cerebrovascular diseases (I60-I69),Stroke,Vermont,344,55.8
+
+2996,2006,Chronic lower respiratory diseases (J40-J47),CLRD,Delaware,344,37.9
+
+4024,2004,Diabetes mellitus (E10-E14),Diabetes,Idaho,344,26.5
+
+4146,2008,Diabetes mellitus (E10-E14),Diabetes,Maine,344,20.8
+
+6233,2009,Influenza and pneumonia (J09-J18),Influenza and pneumonia,New Mexico,344,16.7
+
+8385,1999,Cerebrovascular diseases (I60-I69),Stroke,Vermont,344,55.8
+

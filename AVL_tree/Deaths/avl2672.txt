@@ -1,0 +1,6 @@
+1746,2014,Alzheimer's disease (G30),Alzheimer's disease,Tennessee,2672,38.1
+
+4192,2016,Diabetes mellitus (E10-E14),Diabetes,Michigan,2672,21.5
+
+5910,2008,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Illinois,2672,19.9
+

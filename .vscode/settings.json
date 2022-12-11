@@ -3,5 +3,6 @@
         "*.rmd": "markdown",
         "xstring": "cpp",
         "iostream": "cpp"
-    }
+    },
+    "git.ignoreLimitWarning": true
 }

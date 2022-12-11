@@ -1,0 +1,8 @@
+3523,2001,Chronic lower respiratory diseases (J40-J47),CLRD,Oklahoma,1922,53.3
+
+9813,2005,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Minnesota,1922,36.2
+
+3523,2001,Chronic lower respiratory diseases (J40-J47),CLRD,Oklahoma,1922,53.3
+
+9813,2005,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Minnesota,1922,36.2
+

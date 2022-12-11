@@ -1,0 +1,24 @@
+4415,2009,Diabetes mellitus (E10-E14),Diabetes,North Dakota,214,25.4
+
+4422,2002,Diabetes mellitus (E10-E14),Diabetes,North Dakota,214,27.1
+
+7095,2011,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Nebraska,214,9.7
+
+7686,2014,Cerebrovascular diseases (I60-I69),Stroke,District of Columbia,214,33.6
+
+8463,2011,Cerebrovascular diseases (I60-I69),Stroke,Wyoming,214,37.2
+
+8470,2004,Cerebrovascular diseases (I60-I69),Stroke,Wyoming,214,44.2
+
+4415,2009,Diabetes mellitus (E10-E14),Diabetes,North Dakota,214,25.4
+
+4422,2002,Diabetes mellitus (E10-E14),Diabetes,North Dakota,214,27.1
+
+7095,2011,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Nebraska,214,9.7
+
+7686,2014,Cerebrovascular diseases (I60-I69),Stroke,District of Columbia,214,33.6
+
+8463,2011,Cerebrovascular diseases (I60-I69),Stroke,Wyoming,214,37.2
+
+8470,2004,Cerebrovascular diseases (I60-I69),Stroke,Wyoming,214,44.2
+

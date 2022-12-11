@@ -1,0 +1,8 @@
+2536,2016,Malignant neoplasms (C00-C97),Cancer,North Dakota,1253,142.7
+
+2540,2012,Malignant neoplasms (C00-C97),Cancer,North Dakota,1253,150.7
+
+9067,2001,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,New York,1253,6.5
+
+10253,2008,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,West Virginia,1253,65.5
+

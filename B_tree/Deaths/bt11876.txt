@@ -1,0 +1,4 @@
+1960,2016,Malignant neoplasms (C00-C97),Cancer,Arizona,11876,136.8
+
+1960,2016,Malignant neoplasms (C00-C97),Cancer,Arizona,11876,136.8
+

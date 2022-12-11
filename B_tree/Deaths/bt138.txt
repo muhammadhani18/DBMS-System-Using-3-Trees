@@ -1,0 +1,24 @@
+1906,2016,Alzheimer's disease (G30),Alzheimer's disease,Wyoming,138,21.2
+
+4727,2003,Diabetes mellitus (E10-E14),Diabetes,Wyoming,138,27.8
+
+5800,2010,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Delaware,138,13.8
+
+5804,2006,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Delaware,138,15.6
+
+6287,2009,Influenza and pneumonia (J09-J18),Influenza and pneumonia,North Dakota,138,15.7
+
+6290,2006,Influenza and pneumonia (J09-J18),Influenza and pneumonia,North Dakota,138,15.3
+
+1906,2016,Alzheimer's disease (G30),Alzheimer's disease,Wyoming,138,21.2
+
+4727,2003,Diabetes mellitus (E10-E14),Diabetes,Wyoming,138,27.8
+
+5800,2010,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Delaware,138,13.8
+
+5804,2006,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Delaware,138,15.6
+
+6287,2009,Influenza and pneumonia (J09-J18),Influenza and pneumonia,North Dakota,138,15.7
+
+6290,2006,Influenza and pneumonia (J09-J18),Influenza and pneumonia,North Dakota,138,15.3
+

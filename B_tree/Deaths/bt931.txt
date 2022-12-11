@@ -1,0 +1,8 @@
+1046,2012,Alzheimer's disease (G30),Alzheimer's disease,Arkansas,931,27.9
+
+2843,2015,Malignant neoplasms (C00-C97),Cancer,Wyoming,931,139.4
+
+1046,2012,Alzheimer's disease (G30),Alzheimer's disease,Arkansas,931,27.9
+
+2843,2015,Malignant neoplasms (C00-C97),Cancer,Wyoming,931,139.4
+

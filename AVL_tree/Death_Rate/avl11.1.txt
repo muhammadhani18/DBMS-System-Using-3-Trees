@@ -1,0 +1,50 @@
+6136,2016,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Montana,147,11.1
+
+6442,2016,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Texas,2860,11.1
+
+6631,2007,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Alaska,40,11.1
+
+6657,1999,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arizona,544,11.1
+
+6706,2004,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Colorado,406,11.1
+
+6770,2013,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Florida,3130,11.1
+
+6819,1999,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Hawaii,133,11.1
+
+7187,2009,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,New York,2426,11.1
+
+7188,2008,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,New York,2394,11.1
+
+8670,2002,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Georgia,909,11.1
+
+8691,1999,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Hawaii,136,11.1
+
+8881,2007,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Michigan,1131,11.1
+
+8886,2002,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Michigan,1106,11.1
+
+9100,2004,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,North Dakota,73,11.1
+
+9105,1999,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,North Dakota,73,11.1
+
+9115,2007,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Ohio,1295,11.1
+
+9169,2007,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Pennsylvania,1441,11.1
+
+9171,2005,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Pennsylvania,1430,11.1
+
+9172,2004,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Pennsylvania,1410,11.1
+
+9212,2000,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,South Carolina,443,11.1
+
+9263,2003,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Texas,2363,11.1
+
+9264,2002,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Texas,2311,11.1
+
+9331,2007,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Virginia,880,11.1
+
+9332,2006,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Virginia,876,11.1
+
+9393,1999,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wisconsin,593,11.1
+

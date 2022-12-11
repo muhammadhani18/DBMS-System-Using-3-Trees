@@ -1,0 +1,12 @@
+3147,1999,Chronic lower respiratory diseases (J40-J47),CLRD,Iowa,1643,46.8
+
+4647,2011,Diabetes mellitus (E10-E14),Diabetes,Virginia,1643,19.5
+
+7594,2016,Cerebrovascular diseases (I60-I69),Stroke,Arkansas,1643,45.6
+
+3147,1999,Chronic lower respiratory diseases (J40-J47),CLRD,Iowa,1643,46.8
+
+4647,2011,Diabetes mellitus (E10-E14),Diabetes,Virginia,1643,19.5
+
+7594,2016,Cerebrovascular diseases (I60-I69),Stroke,Arkansas,1643,45.6
+

@@ -1,0 +1,10 @@
+1725,1999,Alzheimer's disease (G30),Alzheimer's disease,South Carolina,690,20.5
+
+4096,2004,Diabetes mellitus (E10-E14),Diabetes,Kansas,690,23.5
+
+5709,2011,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arizona,690,10
+
+6388,2016,Influenza and pneumonia (J09-J18),Influenza and pneumonia,South Carolina,690,12
+
+9736,2014,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Maine,690,45.8
+

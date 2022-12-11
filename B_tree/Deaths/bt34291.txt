@@ -1,0 +1,4 @@
+2709,2005,Malignant neoplasms (C00-C97),Cancer,Texas,34291,178.9
+
+2709,2005,Malignant neoplasms (C00-C97),Cancer,Texas,34291,178.9
+

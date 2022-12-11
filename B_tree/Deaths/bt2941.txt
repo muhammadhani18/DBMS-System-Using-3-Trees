@@ -1,0 +1,8 @@
+3631,2001,Chronic lower respiratory diseases (J40-J47),CLRD,Tennessee,2941,52.2
+
+5085,2005,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Maine,2941,186.5
+
+3631,2001,Chronic lower respiratory diseases (J40-J47),CLRD,Tennessee,2941,52.2
+
+5085,2005,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Maine,2941,186.5
+

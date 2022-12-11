@@ -1,0 +1,6 @@
+1410,2008,Alzheimer's disease (G30),Alzheimer's disease,Minnesota,1344,22.3
+
+1902,2002,Alzheimer's disease (G30),Alzheimer's disease,Wisconsin,1344,22
+
+3811,2001,Diabetes mellitus (E10-E14),Diabetes,Alabama,1344,29.6
+

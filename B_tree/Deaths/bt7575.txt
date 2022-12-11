@@ -1,0 +1,4 @@
+4797,2005,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Arkansas,7575,250.3
+
+4797,2005,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Arkansas,7575,250.3
+

@@ -1,0 +1,4 @@
+2333,2003,Malignant neoplasms (C00-C97),Cancer,Michigan,19713,194.1
+
+2333,2003,Malignant neoplasms (C00-C97),Cancer,Michigan,19713,194.1
+

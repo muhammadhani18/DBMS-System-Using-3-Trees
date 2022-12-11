@@ -1,0 +1,38 @@
+1392,2008,Alzheimer's disease (G30),Alzheimer's disease,Michigan,2739,24.8
+
+1475,2015,Alzheimer's disease (G30),Alzheimer's disease,Nebraska,598,24.8
+
+1510,2016,Alzheimer's disease (G30),Alzheimer's disease,New Hampshire,430,24.8
+
+1645,2007,Alzheimer's disease (G30),Alzheimer's disease,Oklahoma,927,24.8
+
+4094,2006,Diabetes mellitus (E10-E14),Diabetes,Kansas,749,24.8
+
+4122,2014,Diabetes mellitus (E10-E14),Diabetes,Louisiana,1238,24.8
+
+4154,2000,Diabetes mellitus (E10-E14),Diabetes,Maine,357,24.8
+
+4257,2005,Diabetes mellitus (E10-E14),Diabetes,Missouri,1549,24.8
+
+4283,2015,Diabetes mellitus (E10-E14),Diabetes,Nebraska,553,24.8
+
+4469,2009,Diabetes mellitus (E10-E14),Diabetes,Oregon,1073,24.8
+
+4493,2003,Diabetes mellitus (E10-E14),Diabetes,Pennsylvania,3732,24.8
+
+4494,2002,Diabetes mellitus (E10-E14),Diabetes,Pennsylvania,3708,24.8
+
+4555,2013,Diabetes mellitus (E10-E14),Diabetes,Tennessee,1827,24.8
+
+4600,2004,Diabetes mellitus (E10-E14),Diabetes,United States,73138,24.8
+
+5954,2000,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Iowa,937,24.8
+
+6149,2003,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Montana,256,24.8
+
+7049,2003,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Mississippi,676,24.8
+
+9963,2008,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,New York,5042,24.8
+
+10086,2004,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Rhode Island,298,24.8
+

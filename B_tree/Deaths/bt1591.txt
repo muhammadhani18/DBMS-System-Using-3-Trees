@@ -1,0 +1,8 @@
+4065,1999,Diabetes mellitus (E10-E14),Diabetes,Indiana,1591,26.9
+
+4568,2000,Diabetes mellitus (E10-E14),Diabetes,Tennessee,1591,28.5
+
+4065,1999,Diabetes mellitus (E10-E14),Diabetes,Indiana,1591,26.9
+
+4568,2000,Diabetes mellitus (E10-E14),Diabetes,Tennessee,1591,28.5
+

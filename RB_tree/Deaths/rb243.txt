@@ -1,0 +1,12 @@
+1221,1999,Alzheimer's disease (G30),Alzheimer's disease,Idaho,243,21.4
+
+1738,2004,Alzheimer's disease (G30),Alzheimer's disease,South Dakota,243,23.9
+
+8472,2002,Cerebrovascular diseases (I60-I69),Stroke,Wyoming,243,52.8
+
+8947,2013,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Montana,243,23.7
+
+10091,1999,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Rhode Island,243,21.5
+
+10291,2004,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wyoming,243,47.2
+

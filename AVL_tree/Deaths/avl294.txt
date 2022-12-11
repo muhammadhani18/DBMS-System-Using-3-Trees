@@ -1,0 +1,20 @@
+1219,2001,Alzheimer's disease (G30),Alzheimer's disease,Idaho,294,24.7
+
+1464,2008,Alzheimer's disease (G30),Alzheimer's disease,Montana,294,25.4
+
+1614,2002,Alzheimer's disease (G30),Alzheimer's disease,North Dakota,294,33.7
+
+4310,2006,Diabetes mellitus (E10-E14),Diabetes,Nevada,294,13
+
+4335,1999,Diabetes mellitus (E10-E14),Diabetes,New Hampshire,294,25.3
+
+6232,2010,Influenza and pneumonia (J09-J18),Influenza and pneumonia,New Mexico,294,14.2
+
+8596,2004,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Connecticut,294,8.2
+
+8924,2000,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Mississippi,294,10.5
+
+9445,1999,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Alaska,294,55.9
+
+9542,2004,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Delaware,294,35.4
+

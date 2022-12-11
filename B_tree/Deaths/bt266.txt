@@ -1,0 +1,32 @@
+1527,1999,Alzheimer's disease (G30),Alzheimer's disease,New Hampshire,266,23.2
+
+1818,2014,Alzheimer's disease (G30),Alzheimer's disease,Vermont,266,31.9
+
+6160,2010,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Nebraska,266,11.9
+
+6161,2009,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Nebraska,266,12.3
+
+6886,2004,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Iowa,266,7.2
+
+7284,2002,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Oregon,266,7.2
+
+8370,2014,Cerebrovascular diseases (I60-I69),Stroke,Vermont,266,31.7
+
+9371,2003,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,West Virginia,266,14
+
+1527,1999,Alzheimer's disease (G30),Alzheimer's disease,New Hampshire,266,23.2
+
+1818,2014,Alzheimer's disease (G30),Alzheimer's disease,Vermont,266,31.9
+
+6160,2010,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Nebraska,266,11.9
+
+6161,2009,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Nebraska,266,12.3
+
+6886,2004,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Iowa,266,7.2
+
+7284,2002,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Oregon,266,7.2
+
+8370,2014,Cerebrovascular diseases (I60-I69),Stroke,Vermont,266,31.7
+
+9371,2003,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,West Virginia,266,14
+

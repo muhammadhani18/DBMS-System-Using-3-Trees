@@ -1,0 +1,8 @@
+85,2001,All Causes,All causes,Alaska,2974,831.3
+
+6446,2012,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Texas,2974,13.4
+
+8277,1999,Cerebrovascular diseases (I60-I69),Stroke,South Carolina,2974,83.4
+
+9651,2014,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Indiana,2974,43.9
+

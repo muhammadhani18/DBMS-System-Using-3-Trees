@@ -1,0 +1,6 @@
+3722,2000,Chronic lower respiratory diseases (J40-J47),CLRD,Virginia,2820,45.1
+
+7970,2000,Cerebrovascular diseases (I60-I69),Stroke,Minnesota,2820,55.9
+
+10219,2008,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Virginia,2820,36.2
+

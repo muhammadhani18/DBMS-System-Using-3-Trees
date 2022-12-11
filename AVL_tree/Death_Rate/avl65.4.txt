@@ -1,0 +1,4 @@
+7771,2001,Cerebrovascular diseases (I60-I69),Stroke,Idaho,781,65.4
+
+7879,2001,Cerebrovascular diseases (I60-I69),Stroke,Louisiana,2638,65.4
+

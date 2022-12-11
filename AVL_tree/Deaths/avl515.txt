@@ -1,0 +1,6 @@
+1476,2014,Alzheimer's disease (G30),Alzheimer's disease,Nebraska,515,21.9
+
+8532,2014,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arkansas,515,17.3
+
+9139,2001,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Oklahoma,515,14.9
+

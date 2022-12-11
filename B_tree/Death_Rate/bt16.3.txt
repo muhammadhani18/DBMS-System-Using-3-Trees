@@ -1,0 +1,46 @@
+1103,2009,Alzheimer's disease (G30),Alzheimer's disease,Connecticut,778,16.3
+
+1355,2009,Alzheimer's disease (G30),Alzheimer's disease,Maryland,937,16.3
+
+1491,1999,Alzheimer's disease (G30),Alzheimer's disease,Nebraska,331,16.3
+
+1531,2013,Alzheimer's disease (G30),Alzheimer's disease,New Jersey,1812,16.3
+
+1743,1999,Alzheimer's disease (G30),Alzheimer's disease,South Dakota,155,16.3
+
+4010,2000,Diabetes mellitus (E10-E14),Diabetes,Hawaii,203,16.3
+
+5906,2012,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Illinois,2323,16.3
+
+6164,2006,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Nebraska,345,16.3
+
+6267,2011,Influenza and pneumonia (J09-J18),Influenza and pneumonia,North Carolina,1619,16.3
+
+6360,2008,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Pennsylvania,2705,16.3
+
+6411,2011,Influenza and pneumonia (J09-J18),Influenza and pneumonia,South Dakota,178,16.3
+
+6485,2009,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Utah,332,16.3
+
+6521,2009,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Virginia,1237,16.3
+
+6953,2009,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Maine,272,16.3
+
+7069,2001,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Missouri,991,16.3
+
+7200,2014,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,North Carolina,1791,16.3
+
+8522,2006,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arizona,979,16.3
+
+8534,2012,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arkansas,485,16.3
+
+8707,2001,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Idaho,210,16.3
+
+8765,2015,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Kansas,477,16.3
+
+8928,2014,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Missouri,1017,16.3
+
+9221,2009,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,South Dakota,129,16.3
+
+9232,2016,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Tennessee,1111,16.3
+

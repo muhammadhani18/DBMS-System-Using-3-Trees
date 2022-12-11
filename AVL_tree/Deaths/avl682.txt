@@ -1,0 +1,8 @@
+1651,2001,Alzheimer's disease (G30),Alzheimer's disease,Oklahoma,682,19
+
+5957,2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Kansas,682,18.9
+
+7756,2016,Cerebrovascular diseases (I60-I69),Stroke,Idaho,682,37.2
+
+9625,2006,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Idaho,682,47.5
+

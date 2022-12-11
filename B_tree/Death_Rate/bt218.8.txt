@@ -1,0 +1,6 @@
+2370,2002,Malignant neoplasms (C00-C97),Cancer,Mississippi,6069,218.8
+
+2696,2000,Malignant neoplasms (C00-C97),Cancer,Tennessee,12339,218.8
+
+5646,2002,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Wisconsin,12923,218.8
+

@@ -1,0 +1,4 @@
+7941,2011,Cerebrovascular diseases (I60-I69),Stroke,Michigan,4442,38.6
+
+8141,2009,Cerebrovascular diseases (I60-I69),Stroke,North Carolina,4442,47.2
+

@@ -1,0 +1,12 @@
+1032,2008,Alzheimer's disease (G30),Alzheimer's disease,Arizona,2099,34
+
+3411,2005,Chronic lower respiratory diseases (J40-J47),CLRD,New Jersey,3148,34
+
+7812,2014,Cerebrovascular diseases (I60-I69),Stroke,Iowa,1433,34
+
+7956,2014,Cerebrovascular diseases (I60-I69),Stroke,Minnesota,2202,34
+
+9525,2004,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Connecticut,1261,34
+
+9796,2005,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Michigan,3451,34
+

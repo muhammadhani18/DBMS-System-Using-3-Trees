@@ -1,0 +1,6 @@
+4251,2011,Diabetes mellitus (E10-E14),Diabetes,Missouri,1438,20.8
+
+5576,2000,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Vermont,1438,229.4
+
+6433,2007,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Tennessee,1438,23.5
+

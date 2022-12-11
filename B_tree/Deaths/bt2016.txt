@@ -1,0 +1,4 @@
+3280,2010,Chronic lower respiratory diseases (J40-J47),CLRD,Minnesota,2016,35.1
+
+3280,2010,Chronic lower respiratory diseases (J40-J47),CLRD,Minnesota,2016,35.1
+

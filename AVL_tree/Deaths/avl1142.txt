@@ -1,0 +1,4 @@
+4177,2013,Diabetes mellitus (E10-E14),Diabetes,Massachusetts,1142,14.1
+
+6801,1999,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Georgia,1142,18.3
+

@@ -1,0 +1,16 @@
+3782,2012,Chronic lower respiratory diseases (J40-J47),CLRD,Wyoming,334,55.8
+
+5897,2003,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Idaho,334,26.4
+
+8756,2006,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Iowa,334,11.2
+
+10085,2005,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Rhode Island,334,27.6
+
+3782,2012,Chronic lower respiratory diseases (J40-J47),CLRD,Wyoming,334,55.8
+
+5897,2003,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Idaho,334,26.4
+
+8756,2006,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Iowa,334,11.2
+
+10085,2005,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Rhode Island,334,27.6
+

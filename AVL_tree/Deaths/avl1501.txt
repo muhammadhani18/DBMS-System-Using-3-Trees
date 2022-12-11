@@ -1,0 +1,4 @@
+999,2005,Alzheimer's disease (G30),Alzheimer's disease,Alabama,1501,33.4
+
+3158,2006,Chronic lower respiratory diseases (J40-J47),CLRD,Kansas,1501,49.9
+

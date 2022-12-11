@@ -1,0 +1,6 @@
+1638,2014,Alzheimer's disease (G30),Alzheimer's disease,Oklahoma,1227,28.9
+
+3375,2005,Chronic lower respiratory diseases (J40-J47),CLRD,Nevada,1227,60.4
+
+9951,2003,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,New Mexico,1227,67.3
+

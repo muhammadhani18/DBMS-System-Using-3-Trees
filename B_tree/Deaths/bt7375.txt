@@ -1,0 +1,4 @@
+3876,2008,Diabetes mellitus (E10-E14),Diabetes,California,7375,21.5
+
+3876,2008,Diabetes mellitus (E10-E14),Diabetes,California,7375,21.5
+

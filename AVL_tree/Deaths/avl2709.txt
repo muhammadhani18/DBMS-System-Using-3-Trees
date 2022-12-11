@@ -1,0 +1,6 @@
+7900,2016,Cerebrovascular diseases (I60-I69),Stroke,Maryland,2709,39.7
+
+10140,2001,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Tennessee,2709,47.3
+
+10233,2011,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Washington,2709,38.1
+

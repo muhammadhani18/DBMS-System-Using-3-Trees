@@ -1,0 +1,4 @@
+400,2010,All Causes,All causes,Maine,12750,749.6
+
+2303,2015,Malignant neoplasms (C00-C97),Cancer,Massachusetts,12750,152.9
+

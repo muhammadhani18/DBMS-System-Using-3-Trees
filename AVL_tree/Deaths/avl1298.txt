@@ -1,0 +1,4 @@
+2082,2002,Malignant neoplasms (C00-C97),Cancer,District of Columbia,1298,231.8
+
+4880,2012,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,District of Columbia,1298,213
+

@@ -1,0 +1,4 @@
+2436,2008,Malignant neoplasms (C00-C97),Cancer,Nevada,4404,179.4
+
+6248,2012,Influenza and pneumonia (J09-J18),Influenza and pneumonia,New York,4404,18.8
+

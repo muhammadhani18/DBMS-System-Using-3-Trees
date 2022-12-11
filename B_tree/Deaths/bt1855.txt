@@ -1,0 +1,8 @@
+4565,2003,Diabetes mellitus (E10-E14),Diabetes,Tennessee,1855,31.7
+
+5212,2005,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Montana,1855,172.2
+
+4565,2003,Diabetes mellitus (E10-E14),Diabetes,Tennessee,1855,31.7
+
+5212,2005,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Montana,1855,172.2
+

@@ -1,0 +1,24 @@
+1615,2001,Alzheimer's disease (G30),Alzheimer's disease,North Dakota,224,25.5
+
+3927,2011,Diabetes mellitus (E10-E14),Diabetes,Delaware,224,21.5
+
+3952,2004,Diabetes mellitus (E10-E14),Diabetes,District of Columbia,224,40.2
+
+4536,2014,Diabetes mellitus (E10-E14),Diabetes,South Dakota,224,21.3
+
+6379,2007,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Rhode Island,224,16.1
+
+9557,2006,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,District of Columbia,224,39.4
+
+1615,2001,Alzheimer's disease (G30),Alzheimer's disease,North Dakota,224,25.5
+
+3927,2011,Diabetes mellitus (E10-E14),Diabetes,Delaware,224,21.5
+
+3952,2004,Diabetes mellitus (E10-E14),Diabetes,District of Columbia,224,40.2
+
+4536,2014,Diabetes mellitus (E10-E14),Diabetes,South Dakota,224,21.3
+
+6379,2007,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Rhode Island,224,16.1
+
+9557,2006,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,District of Columbia,224,39.4
+

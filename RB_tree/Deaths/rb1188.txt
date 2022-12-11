@@ -1,0 +1,4 @@
+6124,2010,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Missouri,1188,17.4
+
+9676,2006,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Iowa,1188,35.7
+

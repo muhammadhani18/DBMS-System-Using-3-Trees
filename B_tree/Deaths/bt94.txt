@@ -1,0 +1,16 @@
+1139,2009,Alzheimer's disease (G30),Alzheimer's disease,District of Columbia,94,15.7
+
+8615,2003,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Delaware,94,11.4
+
+9228,2002,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,South Dakota,94,12.3
+
+9312,2008,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Vermont,94,14.1
+
+1139,2009,Alzheimer's disease (G30),Alzheimer's disease,District of Columbia,94,15.7
+
+8615,2003,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Delaware,94,11.4
+
+9228,2002,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,South Dakota,94,12.3
+
+9312,2008,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Vermont,94,14.1
+

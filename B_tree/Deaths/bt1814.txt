@@ -1,0 +1,8 @@
+6437,2003,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Tennessee,1814,32.5
+
+9820,2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Mississippi,1814,59.8
+
+6437,2003,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Tennessee,1814,32.5
+
+9820,2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Mississippi,1814,59.8
+

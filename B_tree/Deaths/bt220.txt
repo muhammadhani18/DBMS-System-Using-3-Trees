@@ -1,0 +1,36 @@
+6195,2011,Influenza and pneumonia (J09-J18),Influenza and pneumonia,New Hampshire,220,14.1
+
+6804,2014,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Hawaii,220,11.8
+
+6889,2001,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Iowa,220,6
+
+7090,2016,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Nebraska,220,9.5
+
+7176,2002,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,New Mexico,220,12.9
+
+7424,2007,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Utah,220,12
+
+7693,2007,Cerebrovascular diseases (I60-I69),Stroke,District of Columbia,220,39
+
+8820,2014,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Maine,220,15.7
+
+8965,2013,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Nebraska,220,11.6
+
+6195,2011,Influenza and pneumonia (J09-J18),Influenza and pneumonia,New Hampshire,220,14.1
+
+6804,2014,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Hawaii,220,11.8
+
+6889,2001,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Iowa,220,6
+
+7090,2016,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Nebraska,220,9.5
+
+7176,2002,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,New Mexico,220,12.9
+
+7424,2007,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Utah,220,12
+
+7693,2007,Cerebrovascular diseases (I60-I69),Stroke,District of Columbia,220,39
+
+8820,2014,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Maine,220,15.7
+
+8965,2013,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Nebraska,220,11.6
+

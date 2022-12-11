@@ -1,0 +1,4 @@
+5468,2001,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,South Carolina,9471,248.6
+
+5468,2001,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,South Carolina,9471,248.6
+

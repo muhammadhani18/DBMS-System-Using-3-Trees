@@ -1,0 +1,6 @@
+2128,2010,Malignant neoplasms (C00-C97),Cancer,Hawaii,2266,140.9
+
+2632,2010,Malignant neoplasms (C00-C97),Cancer,Rhode Island,2266,178.3
+
+3588,2008,Chronic lower respiratory diseases (J40-J47),CLRD,South Carolina,2266,48.5
+

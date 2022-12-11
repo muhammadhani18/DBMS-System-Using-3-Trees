@@ -1,0 +1,16 @@
+1190,2012,Alzheimer's disease (G30),Alzheimer's disease,Hawaii,249,12.4
+
+1471,2001,Alzheimer's disease (G30),Alzheimer's disease,Montana,249,24.9
+
+4274,2006,Diabetes mellitus (E10-E14),Diabetes,Montana,249,22.8
+
+7100,2006,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Nebraska,249,12.3
+
+1190,2012,Alzheimer's disease (G30),Alzheimer's disease,Hawaii,249,12.4
+
+1471,2001,Alzheimer's disease (G30),Alzheimer's disease,Montana,249,24.9
+
+4274,2006,Diabetes mellitus (E10-E14),Diabetes,Montana,249,22.8
+
+7100,2006,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Nebraska,249,12.3
+

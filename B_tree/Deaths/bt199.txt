@@ -1,0 +1,16 @@
+5875,2007,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Hawaii,199,12.7
+
+6806,2012,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Hawaii,199,11.2
+
+7312,2010,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Rhode Island,199,14.5
+
+7691,2009,Cerebrovascular diseases (I60-I69),Stroke,District of Columbia,199,34.6
+
+5875,2007,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Hawaii,199,12.7
+
+6806,2012,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Hawaii,199,11.2
+
+7312,2010,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Rhode Island,199,14.5
+
+7691,2009,Cerebrovascular diseases (I60-I69),Stroke,District of Columbia,199,34.6
+

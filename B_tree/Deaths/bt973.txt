@@ -1,0 +1,12 @@
+5924,2012,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Indiana,973,13.5
+
+8668,2004,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Georgia,973,11.3
+
+9240,2008,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Tennessee,973,15.1
+
+5924,2012,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Indiana,973,13.5
+
+8668,2004,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Georgia,973,11.3
+
+9240,2008,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Tennessee,973,15.1
+

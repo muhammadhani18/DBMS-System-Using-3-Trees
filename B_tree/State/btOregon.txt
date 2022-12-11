@@ -1,0 +1,1584 @@
+39,2016,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Oregon,2105,46
+
+718,2016,All Causes,All causes,Oregon,35778,705.9
+
+719,2015,All Causes,All causes,Oregon,35705,722.3
+
+720,2014,All Causes,All causes,Oregon,34151,706.7
+
+721,2013,All Causes,All causes,Oregon,33939,717.5
+
+722,2012,All Causes,All causes,Oregon,32759,706.6
+
+723,2011,All Causes,All causes,Oregon,32788,724.1
+
+724,2010,All Causes,All causes,Oregon,31890,723.1
+
+725,2009,All Causes,All causes,Oregon,31636,728.4
+
+726,2008,All Causes,All causes,Oregon,31967,753.2
+
+727,2007,All Causes,All causes,Oregon,31403,756
+
+728,2006,All Causes,All causes,Oregon,31380,773.3
+
+729,2005,All Causes,All causes,Oregon,31091,787.6
+
+730,2004,All Causes,All causes,Oregon,30313,786.4
+
+731,2003,All Causes,All causes,Oregon,30912,816.9
+
+732,2002,All Causes,All causes,Oregon,31119,839.6
+
+733,2001,All Causes,All causes,Oregon,30158,830.5
+
+734,2000,All Causes,All causes,Oregon,29552,830.9
+
+735,1999,All Causes,All causes,Oregon,29422,837.6
+
+1654,2016,Alzheimer's disease (G30),Alzheimer's disease,Oregon,1786,34.8
+
+1655,2015,Alzheimer's disease (G30),Alzheimer's disease,Oregon,1652,33
+
+1656,2014,Alzheimer's disease (G30),Alzheimer's disease,Oregon,1411,28.5
+
+1657,2013,Alzheimer's disease (G30),Alzheimer's disease,Oregon,1312,27.2
+
+1658,2012,Alzheimer's disease (G30),Alzheimer's disease,Oregon,1326,27.9
+
+1659,2011,Alzheimer's disease (G30),Alzheimer's disease,Oregon,1324,28.3
+
+1660,2010,Alzheimer's disease (G30),Alzheimer's disease,Oregon,1300,28.5
+
+1661,2009,Alzheimer's disease (G30),Alzheimer's disease,Oregon,1212,27.3
+
+1662,2008,Alzheimer's disease (G30),Alzheimer's disease,Oregon,1302,29.8
+
+1663,2007,Alzheimer's disease (G30),Alzheimer's disease,Oregon,1200,27.9
+
+1664,2006,Alzheimer's disease (G30),Alzheimer's disease,Oregon,1231,29.4
+
+1665,2005,Alzheimer's disease (G30),Alzheimer's disease,Oregon,1239,30.5
+
+1666,2004,Alzheimer's disease (G30),Alzheimer's disease,Oregon,1262,31.8
+
+1667,2003,Alzheimer's disease (G30),Alzheimer's disease,Oregon,1157,29.8
+
+1668,2002,Alzheimer's disease (G30),Alzheimer's disease,Oregon,1124,29.6
+
+1669,2001,Alzheimer's disease (G30),Alzheimer's disease,Oregon,1030,27.6
+
+1670,2000,Alzheimer's disease (G30),Alzheimer's disease,Oregon,910,25
+
+1671,1999,Alzheimer's disease (G30),Alzheimer's disease,Oregon,866,24.1
+
+2590,2016,Malignant neoplasms (C00-C97),Cancer,Oregon,8078,155.9
+
+2591,2015,Malignant neoplasms (C00-C97),Cancer,Oregon,8093,160.2
+
+2592,2014,Malignant neoplasms (C00-C97),Cancer,Oregon,7863,160.2
+
+2593,2013,Malignant neoplasms (C00-C97),Cancer,Oregon,7799,163.4
+
+2594,2012,Malignant neoplasms (C00-C97),Cancer,Oregon,7832,168
+
+2595,2011,Malignant neoplasms (C00-C97),Cancer,Oregon,7802,172.6
+
+2596,2010,Malignant neoplasms (C00-C97),Cancer,Oregon,7638,173.9
+
+2597,2009,Malignant neoplasms (C00-C97),Cancer,Oregon,7487,172.7
+
+2598,2008,Malignant neoplasms (C00-C97),Cancer,Oregon,7479,177
+
+2599,2007,Malignant neoplasms (C00-C97),Cancer,Oregon,7393,178.8
+
+2600,2006,Malignant neoplasms (C00-C97),Cancer,Oregon,7309,180.9
+
+2601,2005,Malignant neoplasms (C00-C97),Cancer,Oregon,7326,186.5
+
+2602,2004,Malignant neoplasms (C00-C97),Cancer,Oregon,7236,188.8
+
+2603,2003,Malignant neoplasms (C00-C97),Cancer,Oregon,7232,192.5
+
+2604,2002,Malignant neoplasms (C00-C97),Cancer,Oregon,7249,197.3
+
+2605,2001,Malignant neoplasms (C00-C97),Cancer,Oregon,7057,196.5
+
+2606,2000,Malignant neoplasms (C00-C97),Cancer,Oregon,6951,197.3
+
+2607,1999,Malignant neoplasms (C00-C97),Cancer,Oregon,6905,198.2
+
+3526,2016,Chronic lower respiratory diseases (J40-J47),CLRD,Oregon,2080,40.4
+
+3527,2015,Chronic lower respiratory diseases (J40-J47),CLRD,Oregon,2119,42.4
+
+3528,2014,Chronic lower respiratory diseases (J40-J47),CLRD,Oregon,1955,40.1
+
+3529,2013,Chronic lower respiratory diseases (J40-J47),CLRD,Oregon,2029,43
+
+3530,2012,Chronic lower respiratory diseases (J40-J47),CLRD,Oregon,1915,42.2
+
+3531,2011,Chronic lower respiratory diseases (J40-J47),CLRD,Oregon,2023,45.1
+
+3532,2010,Chronic lower respiratory diseases (J40-J47),CLRD,Oregon,1971,45.3
+
+3533,2009,Chronic lower respiratory diseases (J40-J47),CLRD,Oregon,1943,45.3
+
+3534,2008,Chronic lower respiratory diseases (J40-J47),CLRD,Oregon,1951,46.6
+
+3535,2007,Chronic lower respiratory diseases (J40-J47),CLRD,Oregon,1892,46.1
+
+3536,2006,Chronic lower respiratory diseases (J40-J47),CLRD,Oregon,1828,45.6
+
+3537,2005,Chronic lower respiratory diseases (J40-J47),CLRD,Oregon,1837,47
+
+3538,2004,Chronic lower respiratory diseases (J40-J47),CLRD,Oregon,1778,46.7
+
+3539,2003,Chronic lower respiratory diseases (J40-J47),CLRD,Oregon,1819,48.5
+
+3540,2002,Chronic lower respiratory diseases (J40-J47),CLRD,Oregon,1845,50.2
+
+3541,2001,Chronic lower respiratory diseases (J40-J47),CLRD,Oregon,1726,47.9
+
+3542,2000,Chronic lower respiratory diseases (J40-J47),CLRD,Oregon,1677,47.5
+
+3543,1999,Chronic lower respiratory diseases (J40-J47),CLRD,Oregon,1765,50.4
+
+4462,2016,Diabetes mellitus (E10-E14),Diabetes,Oregon,1240,24
+
+4463,2015,Diabetes mellitus (E10-E14),Diabetes,Oregon,1148,22.9
+
+4464,2014,Diabetes mellitus (E10-E14),Diabetes,Oregon,1083,22.4
+
+4465,2013,Diabetes mellitus (E10-E14),Diabetes,Oregon,1109,23.4
+
+4466,2012,Diabetes mellitus (E10-E14),Diabetes,Oregon,1126,24.3
+
+4467,2011,Diabetes mellitus (E10-E14),Diabetes,Oregon,1113,24.6
+
+4468,2010,Diabetes mellitus (E10-E14),Diabetes,Oregon,1052,23.7
+
+4469,2009,Diabetes mellitus (E10-E14),Diabetes,Oregon,1073,24.8
+
+4470,2008,Diabetes mellitus (E10-E14),Diabetes,Oregon,1025,24
+
+4471,2007,Diabetes mellitus (E10-E14),Diabetes,Oregon,1113,27
+
+4472,2006,Diabetes mellitus (E10-E14),Diabetes,Oregon,1139,28.2
+
+4473,2005,Diabetes mellitus (E10-E14),Diabetes,Oregon,1149,29.3
+
+4474,2004,Diabetes mellitus (E10-E14),Diabetes,Oregon,1073,27.9
+
+4475,2003,Diabetes mellitus (E10-E14),Diabetes,Oregon,1032,27.3
+
+4476,2002,Diabetes mellitus (E10-E14),Diabetes,Oregon,1041,28.2
+
+4477,2001,Diabetes mellitus (E10-E14),Diabetes,Oregon,1011,28
+
+4478,2000,Diabetes mellitus (E10-E14),Diabetes,Oregon,844,23.8
+
+4479,1999,Diabetes mellitus (E10-E14),Diabetes,Oregon,860,24.6
+
+5399,2016,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Oregon,6968,135
+
+5400,2015,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Oregon,6859,136.1
+
+5401,2014,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Oregon,6524,132.1
+
+5402,2013,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Oregon,6523,135.1
+
+5403,2012,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Oregon,6180,130.3
+
+5404,2011,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Oregon,6255,135.3
+
+5405,2010,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Oregon,6198,137.9
+
+5406,2009,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Oregon,6262,141.2
+
+5407,2008,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Oregon,6519,150.8
+
+5408,2007,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Oregon,6655,157.6
+
+5409,2006,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Oregon,6620,160.9
+
+5410,2005,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Oregon,6791,169.7
+
+5411,2004,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Oregon,6725,172.4
+
+5412,2003,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Oregon,7049,184.4
+
+5413,2002,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Oregon,7262,194.2
+
+5414,2001,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Oregon,7075,193.2
+
+5415,2000,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Oregon,7094,198.1
+
+5416,1999,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Oregon,7263,205.7
+
+6334,2016,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Oregon,452,8.9
+
+6335,2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Oregon,453,9
+
+6336,2014,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Oregon,450,9.1
+
+6337,2013,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Oregon,496,10.4
+
+6338,2012,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Oregon,382,8.1
+
+6339,2011,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Oregon,401,8.7
+
+6340,2010,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Oregon,417,9.2
+
+6341,2009,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Oregon,507,11.7
+
+6342,2008,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Oregon,517,12
+
+6343,2007,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Oregon,477,11.2
+
+6344,2006,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Oregon,522,12.6
+
+6345,2005,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Oregon,614,15.2
+
+6346,2004,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Oregon,558,14.1
+
+6347,2003,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Oregon,632,16.4
+
+6348,2002,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Oregon,666,17.7
+
+6349,2001,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Oregon,575,15.5
+
+6350,2000,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Oregon,642,17.8
+
+6351,1999,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Oregon,695,19.5
+
+7270,2016,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Oregon,398,7.7
+
+7271,2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Oregon,409,8.2
+
+7272,2014,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Oregon,378,7.7
+
+7273,2013,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Oregon,327,6.9
+
+7274,2012,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Oregon,320,6.9
+
+7275,2011,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Oregon,316,6.8
+
+7276,2010,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Oregon,400,8.9
+
+7277,2009,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Oregon,387,8.9
+
+7278,2008,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Oregon,397,9.4
+
+7279,2007,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Oregon,426,10.2
+
+7280,2006,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Oregon,353,8.8
+
+7281,2005,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Oregon,295,7.4
+
+7282,2004,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Oregon,308,8
+
+7283,2003,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Oregon,306,8.1
+
+7284,2002,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Oregon,266,7.2
+
+7285,2001,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Oregon,331,9.1
+
+7286,2000,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Oregon,295,8.2
+
+7287,1999,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Oregon,260,7.3
+
+8206,2016,Cerebrovascular diseases (I60-I69),Stroke,Oregon,1943,37.8
+
+8207,2015,Cerebrovascular diseases (I60-I69),Stroke,Oregon,1873,37.5
+
+8208,2014,Cerebrovascular diseases (I60-I69),Stroke,Oregon,1821,37.4
+
+8209,2013,Cerebrovascular diseases (I60-I69),Stroke,Oregon,1775,37.3
+
+8210,2012,Cerebrovascular diseases (I60-I69),Stroke,Oregon,1763,37.5
+
+8211,2011,Cerebrovascular diseases (I60-I69),Stroke,Oregon,1913,41.6
+
+8212,2010,Cerebrovascular diseases (I60-I69),Stroke,Oregon,1793,40.1
+
+8213,2009,Cerebrovascular diseases (I60-I69),Stroke,Oregon,1912,43.5
+
+8214,2008,Cerebrovascular diseases (I60-I69),Stroke,Oregon,1899,44.1
+
+8215,2007,Cerebrovascular diseases (I60-I69),Stroke,Oregon,1835,43.7
+
+8216,2006,Cerebrovascular diseases (I60-I69),Stroke,Oregon,1978,48.2
+
+8217,2005,Cerebrovascular diseases (I60-I69),Stroke,Oregon,2289,57.2
+
+8218,2004,Cerebrovascular diseases (I60-I69),Stroke,Oregon,2328,59.5
+
+8219,2003,Cerebrovascular diseases (I60-I69),Stroke,Oregon,2554,66.7
+
+8220,2002,Cerebrovascular diseases (I60-I69),Stroke,Oregon,2645,70.4
+
+8221,2001,Cerebrovascular diseases (I60-I69),Stroke,Oregon,2588,70.2
+
+8222,2000,Cerebrovascular diseases (I60-I69),Stroke,Oregon,2585,71.6
+
+8223,1999,Cerebrovascular diseases (I60-I69),Stroke,Oregon,2799,78.6
+
+9142,2016,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Oregon,772,17.8
+
+9143,2015,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Oregon,762,17.8
+
+9144,2014,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Oregon,782,18.6
+
+9145,2013,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Oregon,698,16.8
+
+9146,2012,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Oregon,724,17.8
+
+9147,2011,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Oregon,656,16.6
+
+9148,2010,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Oregon,685,17.1
+
+9149,2009,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Oregon,644,16.2
+
+9150,2008,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Oregon,572,14.5
+
+9151,2007,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Oregon,594,15.3
+
+9152,2006,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Oregon,579,15.3
+
+9153,2005,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Oregon,560,14.9
+
+9154,2004,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Oregon,555,15.1
+
+9155,2003,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Oregon,592,16.2
+
+9156,2002,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Oregon,518,14.4
+
+9157,2001,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Oregon,505,14.4
+
+9158,2000,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Oregon,493,14.1
+
+9159,1999,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Oregon,478,13.9
+
+10041,2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Oregon,1999,44.5
+
+10042,2014,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Oregon,1803,41
+
+10043,2013,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Oregon,1755,40.1
+
+10044,2012,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Oregon,1709,39.9
+
+10045,2011,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Oregon,1722,40.6
+
+10046,2010,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Oregon,1566,37.8
+
+10047,2009,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Oregon,1598,39.3
+
+10048,2008,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Oregon,1674,41.7
+
+10049,2007,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Oregon,1646,41.8
+
+10050,2006,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Oregon,1586,40.8
+
+10051,2005,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Oregon,1469,38.8
+
+10052,2004,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Oregon,1444,38.9
+
+10053,2003,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Oregon,1401,38.2
+
+10054,2002,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Oregon,1397,38.4
+
+10055,2001,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Oregon,1313,36.9
+
+10056,2000,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Oregon,1248,35.8
+
+10057,1999,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Oregon,1199,34.7
+
+39,2016,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Oregon,2105,46
+
+718,2016,All Causes,All causes,Oregon,35778,705.9
+
+719,2015,All Causes,All causes,Oregon,35705,722.3
+
+720,2014,All Causes,All causes,Oregon,34151,706.7
+
+721,2013,All Causes,All causes,Oregon,33939,717.5
+
+722,2012,All Causes,All causes,Oregon,32759,706.6
+
+723,2011,All Causes,All causes,Oregon,32788,724.1
+
+724,2010,All Causes,All causes,Oregon,31890,723.1
+
+725,2009,All Causes,All causes,Oregon,31636,728.4
+
+726,2008,All Causes,All causes,Oregon,31967,753.2
+
+727,2007,All Causes,All causes,Oregon,31403,756
+
+728,2006,All Causes,All causes,Oregon,31380,773.3
+
+729,2005,All Causes,All causes,Oregon,31091,787.6
+
+730,2004,All Causes,All causes,Oregon,30313,786.4
+
+731,2003,All Causes,All causes,Oregon,30912,816.9
+
+732,2002,All Causes,All causes,Oregon,31119,839.6
+
+733,2001,All Causes,All causes,Oregon,30158,830.5
+
+734,2000,All Causes,All causes,Oregon,29552,830.9
+
+735,1999,All Causes,All causes,Oregon,29422,837.6
+
+1654,2016,Alzheimer's disease (G30),Alzheimer's disease,Oregon,1786,34.8
+
+1655,2015,Alzheimer's disease (G30),Alzheimer's disease,Oregon,1652,33
+
+1656,2014,Alzheimer's disease (G30),Alzheimer's disease,Oregon,1411,28.5
+
+1657,2013,Alzheimer's disease (G30),Alzheimer's disease,Oregon,1312,27.2
+
+1658,2012,Alzheimer's disease (G30),Alzheimer's disease,Oregon,1326,27.9
+
+1659,2011,Alzheimer's disease (G30),Alzheimer's disease,Oregon,1324,28.3
+
+1660,2010,Alzheimer's disease (G30),Alzheimer's disease,Oregon,1300,28.5
+
+1661,2009,Alzheimer's disease (G30),Alzheimer's disease,Oregon,1212,27.3
+
+1662,2008,Alzheimer's disease (G30),Alzheimer's disease,Oregon,1302,29.8
+
+1663,2007,Alzheimer's disease (G30),Alzheimer's disease,Oregon,1200,27.9
+
+1664,2006,Alzheimer's disease (G30),Alzheimer's disease,Oregon,1231,29.4
+
+1665,2005,Alzheimer's disease (G30),Alzheimer's disease,Oregon,1239,30.5
+
+1666,2004,Alzheimer's disease (G30),Alzheimer's disease,Oregon,1262,31.8
+
+1667,2003,Alzheimer's disease (G30),Alzheimer's disease,Oregon,1157,29.8
+
+1668,2002,Alzheimer's disease (G30),Alzheimer's disease,Oregon,1124,29.6
+
+1669,2001,Alzheimer's disease (G30),Alzheimer's disease,Oregon,1030,27.6
+
+1670,2000,Alzheimer's disease (G30),Alzheimer's disease,Oregon,910,25
+
+1671,1999,Alzheimer's disease (G30),Alzheimer's disease,Oregon,866,24.1
+
+2590,2016,Malignant neoplasms (C00-C97),Cancer,Oregon,8078,155.9
+
+2591,2015,Malignant neoplasms (C00-C97),Cancer,Oregon,8093,160.2
+
+2592,2014,Malignant neoplasms (C00-C97),Cancer,Oregon,7863,160.2
+
+2593,2013,Malignant neoplasms (C00-C97),Cancer,Oregon,7799,163.4
+
+2594,2012,Malignant neoplasms (C00-C97),Cancer,Oregon,7832,168
+
+2595,2011,Malignant neoplasms (C00-C97),Cancer,Oregon,7802,172.6
+
+2596,2010,Malignant neoplasms (C00-C97),Cancer,Oregon,7638,173.9
+
+2597,2009,Malignant neoplasms (C00-C97),Cancer,Oregon,7487,172.7
+
+2598,2008,Malignant neoplasms (C00-C97),Cancer,Oregon,7479,177
+
+2599,2007,Malignant neoplasms (C00-C97),Cancer,Oregon,7393,178.8
+
+2600,2006,Malignant neoplasms (C00-C97),Cancer,Oregon,7309,180.9
+
+2601,2005,Malignant neoplasms (C00-C97),Cancer,Oregon,7326,186.5
+
+2602,2004,Malignant neoplasms (C00-C97),Cancer,Oregon,7236,188.8
+
+2603,2003,Malignant neoplasms (C00-C97),Cancer,Oregon,7232,192.5
+
+2604,2002,Malignant neoplasms (C00-C97),Cancer,Oregon,7249,197.3
+
+2605,2001,Malignant neoplasms (C00-C97),Cancer,Oregon,7057,196.5
+
+2606,2000,Malignant neoplasms (C00-C97),Cancer,Oregon,6951,197.3
+
+2607,1999,Malignant neoplasms (C00-C97),Cancer,Oregon,6905,198.2
+
+3526,2016,Chronic lower respiratory diseases (J40-J47),CLRD,Oregon,2080,40.4
+
+3527,2015,Chronic lower respiratory diseases (J40-J47),CLRD,Oregon,2119,42.4
+
+3528,2014,Chronic lower respiratory diseases (J40-J47),CLRD,Oregon,1955,40.1
+
+3529,2013,Chronic lower respiratory diseases (J40-J47),CLRD,Oregon,2029,43
+
+3530,2012,Chronic lower respiratory diseases (J40-J47),CLRD,Oregon,1915,42.2
+
+3531,2011,Chronic lower respiratory diseases (J40-J47),CLRD,Oregon,2023,45.1
+
+3532,2010,Chronic lower respiratory diseases (J40-J47),CLRD,Oregon,1971,45.3
+
+3533,2009,Chronic lower respiratory diseases (J40-J47),CLRD,Oregon,1943,45.3
+
+3534,2008,Chronic lower respiratory diseases (J40-J47),CLRD,Oregon,1951,46.6
+
+3535,2007,Chronic lower respiratory diseases (J40-J47),CLRD,Oregon,1892,46.1
+
+3536,2006,Chronic lower respiratory diseases (J40-J47),CLRD,Oregon,1828,45.6
+
+3537,2005,Chronic lower respiratory diseases (J40-J47),CLRD,Oregon,1837,47
+
+3538,2004,Chronic lower respiratory diseases (J40-J47),CLRD,Oregon,1778,46.7
+
+3539,2003,Chronic lower respiratory diseases (J40-J47),CLRD,Oregon,1819,48.5
+
+3540,2002,Chronic lower respiratory diseases (J40-J47),CLRD,Oregon,1845,50.2
+
+3541,2001,Chronic lower respiratory diseases (J40-J47),CLRD,Oregon,1726,47.9
+
+3542,2000,Chronic lower respiratory diseases (J40-J47),CLRD,Oregon,1677,47.5
+
+3543,1999,Chronic lower respiratory diseases (J40-J47),CLRD,Oregon,1765,50.4
+
+4462,2016,Diabetes mellitus (E10-E14),Diabetes,Oregon,1240,24
+
+4463,2015,Diabetes mellitus (E10-E14),Diabetes,Oregon,1148,22.9
+
+4464,2014,Diabetes mellitus (E10-E14),Diabetes,Oregon,1083,22.4
+
+4465,2013,Diabetes mellitus (E10-E14),Diabetes,Oregon,1109,23.4
+
+4466,2012,Diabetes mellitus (E10-E14),Diabetes,Oregon,1126,24.3
+
+4467,2011,Diabetes mellitus (E10-E14),Diabetes,Oregon,1113,24.6
+
+4468,2010,Diabetes mellitus (E10-E14),Diabetes,Oregon,1052,23.7
+
+4469,2009,Diabetes mellitus (E10-E14),Diabetes,Oregon,1073,24.8
+
+4470,2008,Diabetes mellitus (E10-E14),Diabetes,Oregon,1025,24
+
+4471,2007,Diabetes mellitus (E10-E14),Diabetes,Oregon,1113,27
+
+4472,2006,Diabetes mellitus (E10-E14),Diabetes,Oregon,1139,28.2
+
+4473,2005,Diabetes mellitus (E10-E14),Diabetes,Oregon,1149,29.3
+
+4474,2004,Diabetes mellitus (E10-E14),Diabetes,Oregon,1073,27.9
+
+4475,2003,Diabetes mellitus (E10-E14),Diabetes,Oregon,1032,27.3
+
+4476,2002,Diabetes mellitus (E10-E14),Diabetes,Oregon,1041,28.2
+
+4477,2001,Diabetes mellitus (E10-E14),Diabetes,Oregon,1011,28
+
+4478,2000,Diabetes mellitus (E10-E14),Diabetes,Oregon,844,23.8
+
+4479,1999,Diabetes mellitus (E10-E14),Diabetes,Oregon,860,24.6
+
+5399,2016,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Oregon,6968,135
+
+5400,2015,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Oregon,6859,136.1
+
+5401,2014,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Oregon,6524,132.1
+
+5402,2013,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Oregon,6523,135.1
+
+5403,2012,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Oregon,6180,130.3
+
+5404,2011,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Oregon,6255,135.3
+
+5405,2010,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Oregon,6198,137.9
+
+5406,2009,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Oregon,6262,141.2
+
+5407,2008,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Oregon,6519,150.8
+
+5408,2007,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Oregon,6655,157.6
+
+5409,2006,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Oregon,6620,160.9
+
+5410,2005,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Oregon,6791,169.7
+
+5411,2004,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Oregon,6725,172.4
+
+5412,2003,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Oregon,7049,184.4
+
+5413,2002,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Oregon,7262,194.2
+
+5414,2001,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Oregon,7075,193.2
+
+5415,2000,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Oregon,7094,198.1
+
+5416,1999,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Oregon,7263,205.7
+
+6334,2016,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Oregon,452,8.9
+
+6335,2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Oregon,453,9
+
+6336,2014,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Oregon,450,9.1
+
+6337,2013,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Oregon,496,10.4
+
+6338,2012,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Oregon,382,8.1
+
+6339,2011,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Oregon,401,8.7
+
+6340,2010,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Oregon,417,9.2
+
+6341,2009,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Oregon,507,11.7
+
+6342,2008,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Oregon,517,12
+
+6343,2007,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Oregon,477,11.2
+
+6344,2006,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Oregon,522,12.6
+
+6345,2005,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Oregon,614,15.2
+
+6346,2004,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Oregon,558,14.1
+
+6347,2003,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Oregon,632,16.4
+
+6348,2002,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Oregon,666,17.7
+
+6349,2001,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Oregon,575,15.5
+
+6350,2000,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Oregon,642,17.8
+
+6351,1999,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Oregon,695,19.5
+
+7270,2016,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Oregon,398,7.7
+
+7271,2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Oregon,409,8.2
+
+7272,2014,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Oregon,378,7.7
+
+7273,2013,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Oregon,327,6.9
+
+7274,2012,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Oregon,320,6.9
+
+7275,2011,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Oregon,316,6.8
+
+7276,2010,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Oregon,400,8.9
+
+7277,2009,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Oregon,387,8.9
+
+7278,2008,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Oregon,397,9.4
+
+7279,2007,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Oregon,426,10.2
+
+7280,2006,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Oregon,353,8.8
+
+7281,2005,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Oregon,295,7.4
+
+7282,2004,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Oregon,308,8
+
+7283,2003,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Oregon,306,8.1
+
+7284,2002,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Oregon,266,7.2
+
+7285,2001,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Oregon,331,9.1
+
+7286,2000,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Oregon,295,8.2
+
+7287,1999,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Oregon,260,7.3
+
+8206,2016,Cerebrovascular diseases (I60-I69),Stroke,Oregon,1943,37.8
+
+8207,2015,Cerebrovascular diseases (I60-I69),Stroke,Oregon,1873,37.5
+
+8208,2014,Cerebrovascular diseases (I60-I69),Stroke,Oregon,1821,37.4
+
+8209,2013,Cerebrovascular diseases (I60-I69),Stroke,Oregon,1775,37.3
+
+8210,2012,Cerebrovascular diseases (I60-I69),Stroke,Oregon,1763,37.5
+
+8211,2011,Cerebrovascular diseases (I60-I69),Stroke,Oregon,1913,41.6
+
+8212,2010,Cerebrovascular diseases (I60-I69),Stroke,Oregon,1793,40.1
+
+8213,2009,Cerebrovascular diseases (I60-I69),Stroke,Oregon,1912,43.5
+
+8214,2008,Cerebrovascular diseases (I60-I69),Stroke,Oregon,1899,44.1
+
+8215,2007,Cerebrovascular diseases (I60-I69),Stroke,Oregon,1835,43.7
+
+8216,2006,Cerebrovascular diseases (I60-I69),Stroke,Oregon,1978,48.2
+
+8217,2005,Cerebrovascular diseases (I60-I69),Stroke,Oregon,2289,57.2
+
+8218,2004,Cerebrovascular diseases (I60-I69),Stroke,Oregon,2328,59.5
+
+8219,2003,Cerebrovascular diseases (I60-I69),Stroke,Oregon,2554,66.7
+
+8220,2002,Cerebrovascular diseases (I60-I69),Stroke,Oregon,2645,70.4
+
+8221,2001,Cerebrovascular diseases (I60-I69),Stroke,Oregon,2588,70.2
+
+8222,2000,Cerebrovascular diseases (I60-I69),Stroke,Oregon,2585,71.6
+
+8223,1999,Cerebrovascular diseases (I60-I69),Stroke,Oregon,2799,78.6
+
+9142,2016,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Oregon,772,17.8
+
+9143,2015,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Oregon,762,17.8
+
+9144,2014,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Oregon,782,18.6
+
+9145,2013,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Oregon,698,16.8
+
+9146,2012,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Oregon,724,17.8
+
+9147,2011,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Oregon,656,16.6
+
+9148,2010,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Oregon,685,17.1
+
+9149,2009,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Oregon,644,16.2
+
+9150,2008,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Oregon,572,14.5
+
+9151,2007,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Oregon,594,15.3
+
+9152,2006,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Oregon,579,15.3
+
+9153,2005,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Oregon,560,14.9
+
+9154,2004,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Oregon,555,15.1
+
+9155,2003,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Oregon,592,16.2
+
+9156,2002,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Oregon,518,14.4
+
+9157,2001,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Oregon,505,14.4
+
+9158,2000,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Oregon,493,14.1
+
+9159,1999,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Oregon,478,13.9
+
+10041,2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Oregon,1999,44.5
+
+10042,2014,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Oregon,1803,41
+
+10043,2013,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Oregon,1755,40.1
+
+10044,2012,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Oregon,1709,39.9
+
+10045,2011,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Oregon,1722,40.6
+
+10046,2010,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Oregon,1566,37.8
+
+10047,2009,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Oregon,1598,39.3
+
+10048,2008,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Oregon,1674,41.7
+
+10049,2007,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Oregon,1646,41.8
+
+10050,2006,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Oregon,1586,40.8
+
+10051,2005,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Oregon,1469,38.8
+
+10052,2004,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Oregon,1444,38.9
+
+10053,2003,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Oregon,1401,38.2
+
+10054,2002,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Oregon,1397,38.4
+
+10055,2001,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Oregon,1313,36.9
+
+10056,2000,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Oregon,1248,35.8
+
+10057,1999,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Oregon,1199,34.7
+
+39,2016,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Oregon,2105,46
+
+718,2016,All Causes,All causes,Oregon,35778,705.9
+
+719,2015,All Causes,All causes,Oregon,35705,722.3
+
+720,2014,All Causes,All causes,Oregon,34151,706.7
+
+721,2013,All Causes,All causes,Oregon,33939,717.5
+
+722,2012,All Causes,All causes,Oregon,32759,706.6
+
+723,2011,All Causes,All causes,Oregon,32788,724.1
+
+724,2010,All Causes,All causes,Oregon,31890,723.1
+
+725,2009,All Causes,All causes,Oregon,31636,728.4
+
+726,2008,All Causes,All causes,Oregon,31967,753.2
+
+727,2007,All Causes,All causes,Oregon,31403,756
+
+728,2006,All Causes,All causes,Oregon,31380,773.3
+
+729,2005,All Causes,All causes,Oregon,31091,787.6
+
+730,2004,All Causes,All causes,Oregon,30313,786.4
+
+731,2003,All Causes,All causes,Oregon,30912,816.9
+
+732,2002,All Causes,All causes,Oregon,31119,839.6
+
+733,2001,All Causes,All causes,Oregon,30158,830.5
+
+734,2000,All Causes,All causes,Oregon,29552,830.9
+
+735,1999,All Causes,All causes,Oregon,29422,837.6
+
+1654,2016,Alzheimer's disease (G30),Alzheimer's disease,Oregon,1786,34.8
+
+1655,2015,Alzheimer's disease (G30),Alzheimer's disease,Oregon,1652,33
+
+1656,2014,Alzheimer's disease (G30),Alzheimer's disease,Oregon,1411,28.5
+
+1657,2013,Alzheimer's disease (G30),Alzheimer's disease,Oregon,1312,27.2
+
+1658,2012,Alzheimer's disease (G30),Alzheimer's disease,Oregon,1326,27.9
+
+1659,2011,Alzheimer's disease (G30),Alzheimer's disease,Oregon,1324,28.3
+
+1660,2010,Alzheimer's disease (G30),Alzheimer's disease,Oregon,1300,28.5
+
+1661,2009,Alzheimer's disease (G30),Alzheimer's disease,Oregon,1212,27.3
+
+1662,2008,Alzheimer's disease (G30),Alzheimer's disease,Oregon,1302,29.8
+
+1663,2007,Alzheimer's disease (G30),Alzheimer's disease,Oregon,1200,27.9
+
+1664,2006,Alzheimer's disease (G30),Alzheimer's disease,Oregon,1231,29.4
+
+1665,2005,Alzheimer's disease (G30),Alzheimer's disease,Oregon,1239,30.5
+
+1666,2004,Alzheimer's disease (G30),Alzheimer's disease,Oregon,1262,31.8
+
+1667,2003,Alzheimer's disease (G30),Alzheimer's disease,Oregon,1157,29.8
+
+1668,2002,Alzheimer's disease (G30),Alzheimer's disease,Oregon,1124,29.6
+
+1669,2001,Alzheimer's disease (G30),Alzheimer's disease,Oregon,1030,27.6
+
+1670,2000,Alzheimer's disease (G30),Alzheimer's disease,Oregon,910,25
+
+1671,1999,Alzheimer's disease (G30),Alzheimer's disease,Oregon,866,24.1
+
+2590,2016,Malignant neoplasms (C00-C97),Cancer,Oregon,8078,155.9
+
+2591,2015,Malignant neoplasms (C00-C97),Cancer,Oregon,8093,160.2
+
+2592,2014,Malignant neoplasms (C00-C97),Cancer,Oregon,7863,160.2
+
+2593,2013,Malignant neoplasms (C00-C97),Cancer,Oregon,7799,163.4
+
+2594,2012,Malignant neoplasms (C00-C97),Cancer,Oregon,7832,168
+
+2595,2011,Malignant neoplasms (C00-C97),Cancer,Oregon,7802,172.6
+
+2596,2010,Malignant neoplasms (C00-C97),Cancer,Oregon,7638,173.9
+
+2597,2009,Malignant neoplasms (C00-C97),Cancer,Oregon,7487,172.7
+
+2598,2008,Malignant neoplasms (C00-C97),Cancer,Oregon,7479,177
+
+2599,2007,Malignant neoplasms (C00-C97),Cancer,Oregon,7393,178.8
+
+2600,2006,Malignant neoplasms (C00-C97),Cancer,Oregon,7309,180.9
+
+2601,2005,Malignant neoplasms (C00-C97),Cancer,Oregon,7326,186.5
+
+2602,2004,Malignant neoplasms (C00-C97),Cancer,Oregon,7236,188.8
+
+2603,2003,Malignant neoplasms (C00-C97),Cancer,Oregon,7232,192.5
+
+2604,2002,Malignant neoplasms (C00-C97),Cancer,Oregon,7249,197.3
+
+2605,2001,Malignant neoplasms (C00-C97),Cancer,Oregon,7057,196.5
+
+2606,2000,Malignant neoplasms (C00-C97),Cancer,Oregon,6951,197.3
+
+2607,1999,Malignant neoplasms (C00-C97),Cancer,Oregon,6905,198.2
+
+3526,2016,Chronic lower respiratory diseases (J40-J47),CLRD,Oregon,2080,40.4
+
+3527,2015,Chronic lower respiratory diseases (J40-J47),CLRD,Oregon,2119,42.4
+
+3528,2014,Chronic lower respiratory diseases (J40-J47),CLRD,Oregon,1955,40.1
+
+3529,2013,Chronic lower respiratory diseases (J40-J47),CLRD,Oregon,2029,43
+
+3530,2012,Chronic lower respiratory diseases (J40-J47),CLRD,Oregon,1915,42.2
+
+3531,2011,Chronic lower respiratory diseases (J40-J47),CLRD,Oregon,2023,45.1
+
+3532,2010,Chronic lower respiratory diseases (J40-J47),CLRD,Oregon,1971,45.3
+
+3533,2009,Chronic lower respiratory diseases (J40-J47),CLRD,Oregon,1943,45.3
+
+3534,2008,Chronic lower respiratory diseases (J40-J47),CLRD,Oregon,1951,46.6
+
+3535,2007,Chronic lower respiratory diseases (J40-J47),CLRD,Oregon,1892,46.1
+
+3536,2006,Chronic lower respiratory diseases (J40-J47),CLRD,Oregon,1828,45.6
+
+3537,2005,Chronic lower respiratory diseases (J40-J47),CLRD,Oregon,1837,47
+
+3538,2004,Chronic lower respiratory diseases (J40-J47),CLRD,Oregon,1778,46.7
+
+3539,2003,Chronic lower respiratory diseases (J40-J47),CLRD,Oregon,1819,48.5
+
+3540,2002,Chronic lower respiratory diseases (J40-J47),CLRD,Oregon,1845,50.2
+
+3541,2001,Chronic lower respiratory diseases (J40-J47),CLRD,Oregon,1726,47.9
+
+3542,2000,Chronic lower respiratory diseases (J40-J47),CLRD,Oregon,1677,47.5
+
+3543,1999,Chronic lower respiratory diseases (J40-J47),CLRD,Oregon,1765,50.4
+
+4462,2016,Diabetes mellitus (E10-E14),Diabetes,Oregon,1240,24
+
+4463,2015,Diabetes mellitus (E10-E14),Diabetes,Oregon,1148,22.9
+
+4464,2014,Diabetes mellitus (E10-E14),Diabetes,Oregon,1083,22.4
+
+4465,2013,Diabetes mellitus (E10-E14),Diabetes,Oregon,1109,23.4
+
+4466,2012,Diabetes mellitus (E10-E14),Diabetes,Oregon,1126,24.3
+
+4467,2011,Diabetes mellitus (E10-E14),Diabetes,Oregon,1113,24.6
+
+4468,2010,Diabetes mellitus (E10-E14),Diabetes,Oregon,1052,23.7
+
+4469,2009,Diabetes mellitus (E10-E14),Diabetes,Oregon,1073,24.8
+
+4470,2008,Diabetes mellitus (E10-E14),Diabetes,Oregon,1025,24
+
+4471,2007,Diabetes mellitus (E10-E14),Diabetes,Oregon,1113,27
+
+4472,2006,Diabetes mellitus (E10-E14),Diabetes,Oregon,1139,28.2
+
+4473,2005,Diabetes mellitus (E10-E14),Diabetes,Oregon,1149,29.3
+
+4474,2004,Diabetes mellitus (E10-E14),Diabetes,Oregon,1073,27.9
+
+4475,2003,Diabetes mellitus (E10-E14),Diabetes,Oregon,1032,27.3
+
+4476,2002,Diabetes mellitus (E10-E14),Diabetes,Oregon,1041,28.2
+
+4477,2001,Diabetes mellitus (E10-E14),Diabetes,Oregon,1011,28
+
+4478,2000,Diabetes mellitus (E10-E14),Diabetes,Oregon,844,23.8
+
+4479,1999,Diabetes mellitus (E10-E14),Diabetes,Oregon,860,24.6
+
+5399,2016,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Oregon,6968,135
+
+5400,2015,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Oregon,6859,136.1
+
+5401,2014,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Oregon,6524,132.1
+
+5402,2013,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Oregon,6523,135.1
+
+5403,2012,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Oregon,6180,130.3
+
+5404,2011,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Oregon,6255,135.3
+
+5405,2010,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Oregon,6198,137.9
+
+5406,2009,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Oregon,6262,141.2
+
+5407,2008,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Oregon,6519,150.8
+
+5408,2007,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Oregon,6655,157.6
+
+5409,2006,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Oregon,6620,160.9
+
+5410,2005,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Oregon,6791,169.7
+
+5411,2004,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Oregon,6725,172.4
+
+5412,2003,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Oregon,7049,184.4
+
+5413,2002,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Oregon,7262,194.2
+
+5414,2001,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Oregon,7075,193.2
+
+5415,2000,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Oregon,7094,198.1
+
+5416,1999,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Oregon,7263,205.7
+
+6334,2016,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Oregon,452,8.9
+
+6335,2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Oregon,453,9
+
+6336,2014,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Oregon,450,9.1
+
+6337,2013,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Oregon,496,10.4
+
+6338,2012,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Oregon,382,8.1
+
+6339,2011,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Oregon,401,8.7
+
+6340,2010,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Oregon,417,9.2
+
+6341,2009,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Oregon,507,11.7
+
+6342,2008,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Oregon,517,12
+
+6343,2007,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Oregon,477,11.2
+
+6344,2006,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Oregon,522,12.6
+
+6345,2005,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Oregon,614,15.2
+
+6346,2004,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Oregon,558,14.1
+
+6347,2003,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Oregon,632,16.4
+
+6348,2002,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Oregon,666,17.7
+
+6349,2001,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Oregon,575,15.5
+
+6350,2000,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Oregon,642,17.8
+
+6351,1999,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Oregon,695,19.5
+
+7270,2016,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Oregon,398,7.7
+
+7271,2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Oregon,409,8.2
+
+7272,2014,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Oregon,378,7.7
+
+7273,2013,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Oregon,327,6.9
+
+7274,2012,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Oregon,320,6.9
+
+7275,2011,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Oregon,316,6.8
+
+7276,2010,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Oregon,400,8.9
+
+7277,2009,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Oregon,387,8.9
+
+7278,2008,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Oregon,397,9.4
+
+7279,2007,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Oregon,426,10.2
+
+7280,2006,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Oregon,353,8.8
+
+7281,2005,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Oregon,295,7.4
+
+7282,2004,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Oregon,308,8
+
+7283,2003,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Oregon,306,8.1
+
+7284,2002,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Oregon,266,7.2
+
+7285,2001,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Oregon,331,9.1
+
+7286,2000,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Oregon,295,8.2
+
+7287,1999,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Oregon,260,7.3
+
+8206,2016,Cerebrovascular diseases (I60-I69),Stroke,Oregon,1943,37.8
+
+8207,2015,Cerebrovascular diseases (I60-I69),Stroke,Oregon,1873,37.5
+
+8208,2014,Cerebrovascular diseases (I60-I69),Stroke,Oregon,1821,37.4
+
+8209,2013,Cerebrovascular diseases (I60-I69),Stroke,Oregon,1775,37.3
+
+8210,2012,Cerebrovascular diseases (I60-I69),Stroke,Oregon,1763,37.5
+
+8211,2011,Cerebrovascular diseases (I60-I69),Stroke,Oregon,1913,41.6
+
+8212,2010,Cerebrovascular diseases (I60-I69),Stroke,Oregon,1793,40.1
+
+8213,2009,Cerebrovascular diseases (I60-I69),Stroke,Oregon,1912,43.5
+
+8214,2008,Cerebrovascular diseases (I60-I69),Stroke,Oregon,1899,44.1
+
+8215,2007,Cerebrovascular diseases (I60-I69),Stroke,Oregon,1835,43.7
+
+8216,2006,Cerebrovascular diseases (I60-I69),Stroke,Oregon,1978,48.2
+
+8217,2005,Cerebrovascular diseases (I60-I69),Stroke,Oregon,2289,57.2
+
+8218,2004,Cerebrovascular diseases (I60-I69),Stroke,Oregon,2328,59.5
+
+8219,2003,Cerebrovascular diseases (I60-I69),Stroke,Oregon,2554,66.7
+
+8220,2002,Cerebrovascular diseases (I60-I69),Stroke,Oregon,2645,70.4
+
+8221,2001,Cerebrovascular diseases (I60-I69),Stroke,Oregon,2588,70.2
+
+8222,2000,Cerebrovascular diseases (I60-I69),Stroke,Oregon,2585,71.6
+
+8223,1999,Cerebrovascular diseases (I60-I69),Stroke,Oregon,2799,78.6
+
+9142,2016,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Oregon,772,17.8
+
+9143,2015,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Oregon,762,17.8
+
+9144,2014,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Oregon,782,18.6
+
+9145,2013,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Oregon,698,16.8
+
+9146,2012,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Oregon,724,17.8
+
+9147,2011,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Oregon,656,16.6
+
+9148,2010,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Oregon,685,17.1
+
+9149,2009,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Oregon,644,16.2
+
+9150,2008,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Oregon,572,14.5
+
+9151,2007,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Oregon,594,15.3
+
+9152,2006,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Oregon,579,15.3
+
+9153,2005,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Oregon,560,14.9
+
+9154,2004,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Oregon,555,15.1
+
+9155,2003,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Oregon,592,16.2
+
+9156,2002,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Oregon,518,14.4
+
+9157,2001,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Oregon,505,14.4
+
+9158,2000,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Oregon,493,14.1
+
+9159,1999,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Oregon,478,13.9
+
+10041,2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Oregon,1999,44.5
+
+10042,2014,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Oregon,1803,41
+
+10043,2013,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Oregon,1755,40.1
+
+10044,2012,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Oregon,1709,39.9
+
+10045,2011,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Oregon,1722,40.6
+
+10046,2010,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Oregon,1566,37.8
+
+10047,2009,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Oregon,1598,39.3
+
+10048,2008,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Oregon,1674,41.7
+
+10049,2007,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Oregon,1646,41.8
+
+10050,2006,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Oregon,1586,40.8
+
+10051,2005,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Oregon,1469,38.8
+
+10052,2004,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Oregon,1444,38.9
+
+10053,2003,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Oregon,1401,38.2
+
+10054,2002,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Oregon,1397,38.4
+
+10055,2001,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Oregon,1313,36.9
+
+10056,2000,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Oregon,1248,35.8
+
+10057,1999,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Oregon,1199,34.7
+
+39,2016,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Oregon,2105,46
+
+718,2016,All Causes,All causes,Oregon,35778,705.9
+
+719,2015,All Causes,All causes,Oregon,35705,722.3
+
+720,2014,All Causes,All causes,Oregon,34151,706.7
+
+721,2013,All Causes,All causes,Oregon,33939,717.5
+
+722,2012,All Causes,All causes,Oregon,32759,706.6
+
+723,2011,All Causes,All causes,Oregon,32788,724.1
+
+724,2010,All Causes,All causes,Oregon,31890,723.1
+
+725,2009,All Causes,All causes,Oregon,31636,728.4
+
+726,2008,All Causes,All causes,Oregon,31967,753.2
+
+727,2007,All Causes,All causes,Oregon,31403,756
+
+728,2006,All Causes,All causes,Oregon,31380,773.3
+
+729,2005,All Causes,All causes,Oregon,31091,787.6
+
+730,2004,All Causes,All causes,Oregon,30313,786.4
+
+731,2003,All Causes,All causes,Oregon,30912,816.9
+
+732,2002,All Causes,All causes,Oregon,31119,839.6
+
+733,2001,All Causes,All causes,Oregon,30158,830.5
+
+734,2000,All Causes,All causes,Oregon,29552,830.9
+
+735,1999,All Causes,All causes,Oregon,29422,837.6
+
+1654,2016,Alzheimer's disease (G30),Alzheimer's disease,Oregon,1786,34.8
+
+1655,2015,Alzheimer's disease (G30),Alzheimer's disease,Oregon,1652,33
+
+1656,2014,Alzheimer's disease (G30),Alzheimer's disease,Oregon,1411,28.5
+
+1657,2013,Alzheimer's disease (G30),Alzheimer's disease,Oregon,1312,27.2
+
+1658,2012,Alzheimer's disease (G30),Alzheimer's disease,Oregon,1326,27.9
+
+1659,2011,Alzheimer's disease (G30),Alzheimer's disease,Oregon,1324,28.3
+
+1660,2010,Alzheimer's disease (G30),Alzheimer's disease,Oregon,1300,28.5
+
+1661,2009,Alzheimer's disease (G30),Alzheimer's disease,Oregon,1212,27.3
+
+1662,2008,Alzheimer's disease (G30),Alzheimer's disease,Oregon,1302,29.8
+
+1663,2007,Alzheimer's disease (G30),Alzheimer's disease,Oregon,1200,27.9
+
+1664,2006,Alzheimer's disease (G30),Alzheimer's disease,Oregon,1231,29.4
+
+1665,2005,Alzheimer's disease (G30),Alzheimer's disease,Oregon,1239,30.5
+
+1666,2004,Alzheimer's disease (G30),Alzheimer's disease,Oregon,1262,31.8
+
+1667,2003,Alzheimer's disease (G30),Alzheimer's disease,Oregon,1157,29.8
+
+1668,2002,Alzheimer's disease (G30),Alzheimer's disease,Oregon,1124,29.6
+
+1669,2001,Alzheimer's disease (G30),Alzheimer's disease,Oregon,1030,27.6
+
+1670,2000,Alzheimer's disease (G30),Alzheimer's disease,Oregon,910,25
+
+1671,1999,Alzheimer's disease (G30),Alzheimer's disease,Oregon,866,24.1
+
+2590,2016,Malignant neoplasms (C00-C97),Cancer,Oregon,8078,155.9
+
+2591,2015,Malignant neoplasms (C00-C97),Cancer,Oregon,8093,160.2
+
+2592,2014,Malignant neoplasms (C00-C97),Cancer,Oregon,7863,160.2
+
+2593,2013,Malignant neoplasms (C00-C97),Cancer,Oregon,7799,163.4
+
+2594,2012,Malignant neoplasms (C00-C97),Cancer,Oregon,7832,168
+
+2595,2011,Malignant neoplasms (C00-C97),Cancer,Oregon,7802,172.6
+
+2596,2010,Malignant neoplasms (C00-C97),Cancer,Oregon,7638,173.9
+
+2597,2009,Malignant neoplasms (C00-C97),Cancer,Oregon,7487,172.7
+
+2598,2008,Malignant neoplasms (C00-C97),Cancer,Oregon,7479,177
+
+2599,2007,Malignant neoplasms (C00-C97),Cancer,Oregon,7393,178.8
+
+2600,2006,Malignant neoplasms (C00-C97),Cancer,Oregon,7309,180.9
+
+2601,2005,Malignant neoplasms (C00-C97),Cancer,Oregon,7326,186.5
+
+2602,2004,Malignant neoplasms (C00-C97),Cancer,Oregon,7236,188.8
+
+2603,2003,Malignant neoplasms (C00-C97),Cancer,Oregon,7232,192.5
+
+2604,2002,Malignant neoplasms (C00-C97),Cancer,Oregon,7249,197.3
+
+2605,2001,Malignant neoplasms (C00-C97),Cancer,Oregon,7057,196.5
+
+2606,2000,Malignant neoplasms (C00-C97),Cancer,Oregon,6951,197.3
+
+2607,1999,Malignant neoplasms (C00-C97),Cancer,Oregon,6905,198.2
+
+3526,2016,Chronic lower respiratory diseases (J40-J47),CLRD,Oregon,2080,40.4
+
+3527,2015,Chronic lower respiratory diseases (J40-J47),CLRD,Oregon,2119,42.4
+
+3528,2014,Chronic lower respiratory diseases (J40-J47),CLRD,Oregon,1955,40.1
+
+3529,2013,Chronic lower respiratory diseases (J40-J47),CLRD,Oregon,2029,43
+
+3530,2012,Chronic lower respiratory diseases (J40-J47),CLRD,Oregon,1915,42.2
+
+3531,2011,Chronic lower respiratory diseases (J40-J47),CLRD,Oregon,2023,45.1
+
+3532,2010,Chronic lower respiratory diseases (J40-J47),CLRD,Oregon,1971,45.3
+
+3533,2009,Chronic lower respiratory diseases (J40-J47),CLRD,Oregon,1943,45.3
+
+3534,2008,Chronic lower respiratory diseases (J40-J47),CLRD,Oregon,1951,46.6
+
+3535,2007,Chronic lower respiratory diseases (J40-J47),CLRD,Oregon,1892,46.1
+
+3536,2006,Chronic lower respiratory diseases (J40-J47),CLRD,Oregon,1828,45.6
+
+3537,2005,Chronic lower respiratory diseases (J40-J47),CLRD,Oregon,1837,47
+
+3538,2004,Chronic lower respiratory diseases (J40-J47),CLRD,Oregon,1778,46.7
+
+3539,2003,Chronic lower respiratory diseases (J40-J47),CLRD,Oregon,1819,48.5
+
+3540,2002,Chronic lower respiratory diseases (J40-J47),CLRD,Oregon,1845,50.2
+
+3541,2001,Chronic lower respiratory diseases (J40-J47),CLRD,Oregon,1726,47.9
+
+3542,2000,Chronic lower respiratory diseases (J40-J47),CLRD,Oregon,1677,47.5
+
+3543,1999,Chronic lower respiratory diseases (J40-J47),CLRD,Oregon,1765,50.4
+
+4462,2016,Diabetes mellitus (E10-E14),Diabetes,Oregon,1240,24
+
+4463,2015,Diabetes mellitus (E10-E14),Diabetes,Oregon,1148,22.9
+
+4464,2014,Diabetes mellitus (E10-E14),Diabetes,Oregon,1083,22.4
+
+4465,2013,Diabetes mellitus (E10-E14),Diabetes,Oregon,1109,23.4
+
+4466,2012,Diabetes mellitus (E10-E14),Diabetes,Oregon,1126,24.3
+
+4467,2011,Diabetes mellitus (E10-E14),Diabetes,Oregon,1113,24.6
+
+4468,2010,Diabetes mellitus (E10-E14),Diabetes,Oregon,1052,23.7
+
+4469,2009,Diabetes mellitus (E10-E14),Diabetes,Oregon,1073,24.8
+
+4470,2008,Diabetes mellitus (E10-E14),Diabetes,Oregon,1025,24
+
+4471,2007,Diabetes mellitus (E10-E14),Diabetes,Oregon,1113,27
+
+4472,2006,Diabetes mellitus (E10-E14),Diabetes,Oregon,1139,28.2
+
+4473,2005,Diabetes mellitus (E10-E14),Diabetes,Oregon,1149,29.3
+
+4474,2004,Diabetes mellitus (E10-E14),Diabetes,Oregon,1073,27.9
+
+4475,2003,Diabetes mellitus (E10-E14),Diabetes,Oregon,1032,27.3
+
+4476,2002,Diabetes mellitus (E10-E14),Diabetes,Oregon,1041,28.2
+
+4477,2001,Diabetes mellitus (E10-E14),Diabetes,Oregon,1011,28
+
+4478,2000,Diabetes mellitus (E10-E14),Diabetes,Oregon,844,23.8
+
+4479,1999,Diabetes mellitus (E10-E14),Diabetes,Oregon,860,24.6
+
+5399,2016,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Oregon,6968,135
+
+5400,2015,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Oregon,6859,136.1
+
+5401,2014,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Oregon,6524,132.1
+
+5402,2013,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Oregon,6523,135.1
+
+5403,2012,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Oregon,6180,130.3
+
+5404,2011,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Oregon,6255,135.3
+
+5405,2010,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Oregon,6198,137.9
+
+5406,2009,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Oregon,6262,141.2
+
+5407,2008,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Oregon,6519,150.8
+
+5408,2007,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Oregon,6655,157.6
+
+5409,2006,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Oregon,6620,160.9
+
+5410,2005,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Oregon,6791,169.7
+
+5411,2004,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Oregon,6725,172.4
+
+5412,2003,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Oregon,7049,184.4
+
+5413,2002,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Oregon,7262,194.2
+
+5414,2001,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Oregon,7075,193.2
+
+5415,2000,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Oregon,7094,198.1
+
+5416,1999,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Oregon,7263,205.7
+
+6334,2016,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Oregon,452,8.9
+
+6335,2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Oregon,453,9
+
+6336,2014,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Oregon,450,9.1
+
+6337,2013,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Oregon,496,10.4
+
+6338,2012,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Oregon,382,8.1
+
+6339,2011,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Oregon,401,8.7
+
+6340,2010,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Oregon,417,9.2
+
+6341,2009,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Oregon,507,11.7
+
+6342,2008,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Oregon,517,12
+
+6343,2007,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Oregon,477,11.2
+
+6344,2006,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Oregon,522,12.6
+
+6345,2005,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Oregon,614,15.2
+
+6346,2004,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Oregon,558,14.1
+
+6347,2003,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Oregon,632,16.4
+
+6348,2002,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Oregon,666,17.7
+
+6349,2001,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Oregon,575,15.5
+
+6350,2000,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Oregon,642,17.8
+
+6351,1999,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Oregon,695,19.5
+
+7270,2016,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Oregon,398,7.7
+
+7271,2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Oregon,409,8.2
+
+7272,2014,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Oregon,378,7.7
+
+7273,2013,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Oregon,327,6.9
+
+7274,2012,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Oregon,320,6.9
+
+7275,2011,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Oregon,316,6.8
+
+7276,2010,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Oregon,400,8.9
+
+7277,2009,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Oregon,387,8.9
+
+7278,2008,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Oregon,397,9.4
+
+7279,2007,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Oregon,426,10.2
+
+7280,2006,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Oregon,353,8.8
+
+7281,2005,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Oregon,295,7.4
+
+7282,2004,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Oregon,308,8
+
+7283,2003,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Oregon,306,8.1
+
+7284,2002,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Oregon,266,7.2
+
+7285,2001,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Oregon,331,9.1
+
+7286,2000,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Oregon,295,8.2
+
+7287,1999,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Oregon,260,7.3
+
+8206,2016,Cerebrovascular diseases (I60-I69),Stroke,Oregon,1943,37.8
+
+8207,2015,Cerebrovascular diseases (I60-I69),Stroke,Oregon,1873,37.5
+
+8208,2014,Cerebrovascular diseases (I60-I69),Stroke,Oregon,1821,37.4
+
+8209,2013,Cerebrovascular diseases (I60-I69),Stroke,Oregon,1775,37.3
+
+8210,2012,Cerebrovascular diseases (I60-I69),Stroke,Oregon,1763,37.5
+
+8211,2011,Cerebrovascular diseases (I60-I69),Stroke,Oregon,1913,41.6
+
+8212,2010,Cerebrovascular diseases (I60-I69),Stroke,Oregon,1793,40.1
+
+8213,2009,Cerebrovascular diseases (I60-I69),Stroke,Oregon,1912,43.5
+
+8214,2008,Cerebrovascular diseases (I60-I69),Stroke,Oregon,1899,44.1
+
+8215,2007,Cerebrovascular diseases (I60-I69),Stroke,Oregon,1835,43.7
+
+8216,2006,Cerebrovascular diseases (I60-I69),Stroke,Oregon,1978,48.2
+
+8217,2005,Cerebrovascular diseases (I60-I69),Stroke,Oregon,2289,57.2
+
+8218,2004,Cerebrovascular diseases (I60-I69),Stroke,Oregon,2328,59.5
+
+8219,2003,Cerebrovascular diseases (I60-I69),Stroke,Oregon,2554,66.7
+
+8220,2002,Cerebrovascular diseases (I60-I69),Stroke,Oregon,2645,70.4
+
+8221,2001,Cerebrovascular diseases (I60-I69),Stroke,Oregon,2588,70.2
+
+8222,2000,Cerebrovascular diseases (I60-I69),Stroke,Oregon,2585,71.6
+
+8223,1999,Cerebrovascular diseases (I60-I69),Stroke,Oregon,2799,78.6
+
+9142,2016,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Oregon,772,17.8
+
+9143,2015,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Oregon,762,17.8
+
+9144,2014,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Oregon,782,18.6
+
+9145,2013,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Oregon,698,16.8
+
+9146,2012,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Oregon,724,17.8
+
+9147,2011,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Oregon,656,16.6
+
+9148,2010,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Oregon,685,17.1
+
+9149,2009,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Oregon,644,16.2
+
+9150,2008,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Oregon,572,14.5
+
+9151,2007,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Oregon,594,15.3
+
+9152,2006,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Oregon,579,15.3
+
+9153,2005,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Oregon,560,14.9
+
+9154,2004,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Oregon,555,15.1
+
+9155,2003,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Oregon,592,16.2
+
+9156,2002,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Oregon,518,14.4
+
+9157,2001,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Oregon,505,14.4
+
+9158,2000,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Oregon,493,14.1
+
+9159,1999,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Oregon,478,13.9
+
+10041,2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Oregon,1999,44.5
+
+10042,2014,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Oregon,1803,41
+
+10043,2013,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Oregon,1755,40.1
+
+10044,2012,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Oregon,1709,39.9
+
+10045,2011,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Oregon,1722,40.6
+
+10046,2010,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Oregon,1566,37.8
+
+10047,2009,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Oregon,1598,39.3
+
+10048,2008,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Oregon,1674,41.7
+
+10049,2007,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Oregon,1646,41.8
+
+10050,2006,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Oregon,1586,40.8
+
+10051,2005,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Oregon,1469,38.8
+
+10052,2004,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Oregon,1444,38.9
+
+10053,2003,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Oregon,1401,38.2
+
+10054,2002,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Oregon,1397,38.4
+
+10055,2001,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Oregon,1313,36.9
+
+10056,2000,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Oregon,1248,35.8
+
+10057,1999,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Oregon,1199,34.7
+

@@ -1,0 +1,6 @@
+1577,2003,Alzheimer's disease (G30),Alzheimer's disease,New York,1866,9
+
+4868,2006,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Delaware,1866,206
+
+6756,2009,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Georgia,1866,23.2
+

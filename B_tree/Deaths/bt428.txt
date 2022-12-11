@@ -1,0 +1,16 @@
+2993,2009,Chronic lower respiratory diseases (J40-J47),CLRD,Delaware,428,43.4
+
+6698,2012,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Colorado,428,8.9
+
+8162,2006,Cerebrovascular diseases (I60-I69),Stroke,North Dakota,428,49.6
+
+10081,2009,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Rhode Island,428,36.1
+
+2993,2009,Chronic lower respiratory diseases (J40-J47),CLRD,Delaware,428,43.4
+
+6698,2012,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Colorado,428,8.9
+
+8162,2006,Cerebrovascular diseases (I60-I69),Stroke,North Dakota,428,49.6
+
+10081,2009,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Rhode Island,428,36.1
+

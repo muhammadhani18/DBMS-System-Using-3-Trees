@@ -1,0 +1,14 @@
+3331,2013,Chronic lower respiratory diseases (J40-J47),CLRD,Montana,647,50.7
+
+3675,2011,Chronic lower respiratory diseases (J40-J47),CLRD,Utah,647,30.2
+
+5728,2010,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arkansas,647,19.9
+
+5961,2011,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Kansas,647,18.8
+
+5966,2006,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Kansas,647,20
+
+7889,2009,Cerebrovascular diseases (I60-I69),Stroke,Maine,647,38
+
+9389,2003,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wisconsin,647,11.6
+

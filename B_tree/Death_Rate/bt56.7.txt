@@ -1,0 +1,8 @@
+3787,2007,Chronic lower respiratory diseases (J40-J47),CLRD,Wyoming,295,56.7
+
+8165,2003,Cerebrovascular diseases (I60-I69),Stroke,North Dakota,476,56.7
+
+8398,2004,Cerebrovascular diseases (I60-I69),Stroke,Virginia,3788,56.7
+
+8473,2001,Cerebrovascular diseases (I60-I69),Stroke,Wyoming,260,56.7
+

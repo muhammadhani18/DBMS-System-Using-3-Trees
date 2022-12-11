@@ -1,0 +1,16 @@
+1329,1999,Alzheimer's disease (G30),Alzheimer's disease,Louisiana,683,17.9
+
+3920,2000,Diabetes mellitus (E10-E14),Diabetes,Connecticut,683,18.1
+
+5708,2012,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arizona,683,9.5
+
+8744,2000,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Indiana,683,11.3
+
+8895,2011,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Minnesota,683,12.5
+
+9020,2012,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,New Jersey,683,7.4
+
+9877,2009,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Nebraska,683,35.6
+
+9880,2006,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Nebraska,683,36.1
+

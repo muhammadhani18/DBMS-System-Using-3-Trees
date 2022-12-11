@@ -1,0 +1,8 @@
+5843,2003,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Florida,2996,13.6
+
+7795,2013,Cerebrovascular diseases (I60-I69),Stroke,Indiana,2996,40.7
+
+5843,2003,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Florida,2996,13.6
+
+7795,2013,Cerebrovascular diseases (I60-I69),Stroke,Indiana,2996,40.7
+

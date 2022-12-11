@@ -1,0 +1,12 @@
+5693,2009,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Alaska,51,12.5
+
+5694,2008,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Alaska,51,13.2
+
+5700,2002,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Alaska,51,19.5
+
+5693,2009,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Alaska,51,12.5
+
+5694,2008,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Alaska,51,13.2
+
+5700,2002,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Alaska,51,19.5
+

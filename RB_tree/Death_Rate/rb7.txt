@@ -1,0 +1,12 @@
+1581,1999,Alzheimer's disease (G30),Alzheimer's disease,New York,1357,7
+
+6496,2016,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Vermont,59,7
+
+6503,2009,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Vermont,52,7
+
+6681,2011,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,California,2599,7
+
+6834,2002,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Idaho,86,7
+
+9059,2009,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,New York,1417,7
+

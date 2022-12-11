@@ -1,0 +1,20 @@
+3086,2006,Chronic lower respiratory diseases (J40-J47),CLRD,Idaho,644,46.9
+
+5778,2014,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Connecticut,644,13.3
+
+6655,2001,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arizona,644,12.5
+
+9149,2009,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Oregon,644,16.2
+
+9737,2013,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Maine,644,42.6
+
+3086,2006,Chronic lower respiratory diseases (J40-J47),CLRD,Idaho,644,46.9
+
+5778,2014,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Connecticut,644,13.3
+
+6655,2001,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arizona,644,12.5
+
+9149,2009,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Oregon,644,16.2
+
+9737,2013,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Maine,644,42.6
+

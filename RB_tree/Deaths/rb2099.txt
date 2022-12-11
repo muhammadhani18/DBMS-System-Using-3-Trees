@@ -1,0 +1,4 @@
+1032,2008,Alzheimer's disease (G30),Alzheimer's disease,Arizona,2099,34
+
+1635,1999,Alzheimer's disease (G30),Alzheimer's disease,Ohio,2099,18.2
+

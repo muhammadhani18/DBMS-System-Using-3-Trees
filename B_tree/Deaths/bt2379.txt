@@ -1,0 +1,8 @@
+7965,2005,Cerebrovascular diseases (I60-I69),Stroke,Minnesota,2379,43.5
+
+9708,2008,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Kentucky,2379,55.2
+
+7965,2005,Cerebrovascular diseases (I60-I69),Stroke,Minnesota,2379,43.5
+
+9708,2008,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Kentucky,2379,55.2
+

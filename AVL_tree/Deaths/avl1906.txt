@@ -1,0 +1,4 @@
+2055,2011,Malignant neoplasms (C00-C97),Cancer,Delaware,1906,179.8
+
+3195,2005,Chronic lower respiratory diseases (J40-J47),CLRD,Louisiana,1906,44.6
+

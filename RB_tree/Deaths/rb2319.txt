@@ -1,0 +1,4 @@
+4941,2005,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Hawaii,2319,160.9
+
+9807,2011,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Minnesota,2319,39.9
+

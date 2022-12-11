@@ -1,0 +1,12 @@
+7604,2006,Cerebrovascular diseases (I60-I69),Stroke,Arkansas,1884,61.2
+
+7605,2005,Cerebrovascular diseases (I60-I69),Stroke,Arkansas,1847,61.2
+
+7899,1999,Cerebrovascular diseases (I60-I69),Stroke,Maine,879,61.2
+
+8186,2000,Cerebrovascular diseases (I60-I69),Stroke,Ohio,7175,61.2
+
+8435,2003,Cerebrovascular diseases (I60-I69),Stroke,West Virginia,1309,61.2
+
+10030,2009,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Oklahoma,2284,61.2
+

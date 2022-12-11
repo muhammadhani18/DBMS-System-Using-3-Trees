@@ -1,0 +1,24 @@
+1142,2006,Alzheimer's disease (G30),Alzheimer's disease,District of Columbia,117,20.7
+
+5803,2007,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Delaware,117,12.7
+
+6596,2006,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wyoming,117,23.5
+
+6744,2002,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Delaware,117,14.5
+
+7219,2013,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,North Dakota,117,12.9
+
+7220,2012,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,North Dakota,117,13.3
+
+1142,2006,Alzheimer's disease (G30),Alzheimer's disease,District of Columbia,117,20.7
+
+5803,2007,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Delaware,117,12.7
+
+6596,2006,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wyoming,117,23.5
+
+6744,2002,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Delaware,117,14.5
+
+7219,2013,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,North Dakota,117,12.9
+
+7220,2012,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,North Dakota,117,13.3
+

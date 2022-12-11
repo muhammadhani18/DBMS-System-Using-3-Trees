@@ -1,0 +1,24 @@
+1111,2001,Alzheimer's disease (G30),Alzheimer's disease,Connecticut,573,14
+
+1481,2009,Alzheimer's disease (G30),Alzheimer's disease,Nebraska,573,25.6
+
+6320,2012,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Oklahoma,573,13.8
+
+8805,2011,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Louisiana,573,12.5
+
+8982,2014,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Nevada,573,19.6
+
+9908,2012,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,New Hampshire,573,40.1
+
+1111,2001,Alzheimer's disease (G30),Alzheimer's disease,Connecticut,573,14
+
+1481,2009,Alzheimer's disease (G30),Alzheimer's disease,Nebraska,573,25.6
+
+6320,2012,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Oklahoma,573,13.8
+
+8805,2011,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Louisiana,573,12.5
+
+8982,2014,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Nevada,573,19.6
+
+9908,2012,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,New Hampshire,573,40.1
+

@@ -1,0 +1,6 @@
+2250,2014,Malignant neoplasms (C00-C97),Cancer,Louisiana,9455,186.1
+
+2424,2002,Malignant neoplasms (C00-C97),Cancer,Nebraska,3433,186.1
+
+2711,2003,Malignant neoplasms (C00-C97),Cancer,Texas,33867,186.1
+

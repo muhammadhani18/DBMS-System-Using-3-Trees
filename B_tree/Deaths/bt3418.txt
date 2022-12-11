@@ -1,0 +1,8 @@
+5091,1999,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Maine,3418,238.7
+
+8085,2011,Cerebrovascular diseases (I60-I69),Stroke,New Jersey,3418,32.9
+
+5091,1999,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Maine,3418,238.7
+
+8085,2011,Cerebrovascular diseases (I60-I69),Stroke,New Jersey,3418,32.9
+

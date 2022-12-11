@@ -1,0 +1,6 @@
+1002,2002,Alzheimer's disease (G30),Alzheimer's disease,Alabama,1189,27
+
+4215,2011,Diabetes mellitus (E10-E14),Diabetes,Minnesota,1189,20.1
+
+9063,2005,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,New York,1189,6
+

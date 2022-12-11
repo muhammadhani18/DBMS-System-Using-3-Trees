@@ -1,0 +1,4 @@
+100,2004,All Causes,All causes,Arizona,43198,771.1
+
+641,2003,All Causes,All causes,New York,155877,771.1
+

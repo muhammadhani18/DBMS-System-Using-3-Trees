@@ -1,0 +1,8 @@
+3753,2005,Chronic lower respiratory diseases (J40-J47),CLRD,West Virginia,1350,60.5
+
+7769,2003,Cerebrovascular diseases (I60-I69),Stroke,Idaho,762,60.5
+
+9443,2001,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Alaska,345,60.5
+
+9706,2010,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Kentucky,2632,60.5
+

@@ -1,0 +1,4 @@
+7862,2000,Cerebrovascular diseases (I60-I69),Stroke,Kentucky,2637,67.7
+
+9947,2007,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,New Mexico,1329,67.7
+

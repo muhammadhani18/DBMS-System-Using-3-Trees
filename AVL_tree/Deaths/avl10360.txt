@@ -1,0 +1,4 @@
+2292,2008,Malignant neoplasms (C00-C97),Cancer,Maryland,10360,180.1
+
+5600,2012,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Washington,10360,139.3
+

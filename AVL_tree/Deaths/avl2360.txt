@@ -1,0 +1,6 @@
+5439,2012,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Rhode Island,2360,165.2
+
+6356,2012,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Pennsylvania,2360,13.5
+
+7191,2005,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,New York,2360,11.4
+

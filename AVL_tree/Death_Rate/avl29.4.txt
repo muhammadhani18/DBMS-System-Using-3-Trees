@@ -1,0 +1,30 @@
+1213,2007,Alzheimer's disease (G30),Alzheimer's disease,Idaho,416,29.4
+
+1242,2014,Alzheimer's disease (G30),Alzheimer's disease,Indiana,2204,29.4
+
+1664,2006,Alzheimer's disease (G30),Alzheimer's disease,Oregon,1231,29.4
+
+1781,2015,Alzheimer's disease (G30),Alzheimer's disease,United States,110561,29.4
+
+2974,2010,Chronic lower respiratory diseases (J40-J47),CLRD,Connecticut,1289,29.4
+
+3222,2014,Chronic lower respiratory diseases (J40-J47),CLRD,Maryland,1909,29.4
+
+4171,2001,Diabetes mellitus (E10-E14),Diabetes,Maryland,1458,29.4
+
+5733,2005,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arkansas,886,29.4
+
+5864,2000,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Georgia,1792,29.4
+
+6600,2002,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wyoming,135,29.4
+
+7654,2010,Cerebrovascular diseases (I60-I69),Stroke,Connecticut,1349,29.4
+
+8247,2011,Cerebrovascular diseases (I60-I69),Stroke,Rhode Island,404,29.4
+
+8373,2011,Cerebrovascular diseases (I60-I69),Stroke,Vermont,227,29.4
+
+9486,2009,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,California,10860,29.4
+
+9552,2011,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,District of Columbia,185,29.4
+

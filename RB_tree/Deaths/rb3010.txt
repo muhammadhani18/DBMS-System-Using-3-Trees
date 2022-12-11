@@ -1,0 +1,4 @@
+1859,2009,Alzheimer's disease (G30),Alzheimer's disease,Washington,3010,44.6
+
+6365,2003,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Pennsylvania,3010,19.2
+

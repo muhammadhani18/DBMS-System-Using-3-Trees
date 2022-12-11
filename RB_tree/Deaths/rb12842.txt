@@ -1,0 +1,2 @@
+2192,2000,Malignant neoplasms (C00-C97),Cancer,Indiana,12842,214.7
+

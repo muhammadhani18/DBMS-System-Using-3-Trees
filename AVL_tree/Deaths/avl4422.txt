@@ -1,0 +1,4 @@
+1154,2012,Alzheimer's disease (G30),Alzheimer's disease,Florida,4422,15.2
+
+9787,2014,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Michigan,4422,41.7
+

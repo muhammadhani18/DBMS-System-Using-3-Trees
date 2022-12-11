@@ -1,0 +1,12 @@
+1508,2000,Alzheimer's disease (G30),Alzheimer's disease,Nevada,195,14.5
+
+4409,2015,Diabetes mellitus (E10-E14),Diabetes,North Dakota,195,22.6
+
+4506,2008,Diabetes mellitus (E10-E14),Diabetes,Rhode Island,195,15.1
+
+4548,2002,Diabetes mellitus (E10-E14),Diabetes,South Dakota,195,22.8
+
+6373,2013,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Rhode Island,195,12.9
+
+6406,2016,Influenza and pneumonia (J09-J18),Influenza and pneumonia,South Dakota,195,16.7
+

@@ -1,0 +1,4 @@
+8421,1999,Cerebrovascular diseases (I60-I69),Stroke,Washington,3718,69.9
+
+8421,1999,Cerebrovascular diseases (I60-I69),Stroke,Washington,3718,69.9
+

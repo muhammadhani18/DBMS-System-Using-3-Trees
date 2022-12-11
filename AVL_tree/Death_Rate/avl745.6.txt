@@ -1,0 +1,4 @@
+71,2016,All Causes,All causes,Alaska,4494,745.6
+
+224,2006,All Causes,All causes,Florida,170066,745.6
+

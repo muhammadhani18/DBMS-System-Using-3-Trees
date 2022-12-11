@@ -1,0 +1,12 @@
+8292,2002,Cerebrovascular diseases (I60-I69),Stroke,South Dakota,518,54.9
+
+8817,1999,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Louisiana,518,11.9
+
+8845,2007,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Maryland,518,9
+
+9156,2002,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Oregon,518,14.4
+
+9631,2000,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Idaho,518,41.5
+
+9866,2003,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Montana,518,54.8
+

@@ -1,0 +1,8 @@
+3769,2007,Chronic lower respiratory diseases (J40-J47),CLRD,Wisconsin,2399,38.6
+
+4958,2006,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Idaho,2399,171.3
+
+3769,2007,Chronic lower respiratory diseases (J40-J47),CLRD,Wisconsin,2399,38.6
+
+4958,2006,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Idaho,2399,171.3
+

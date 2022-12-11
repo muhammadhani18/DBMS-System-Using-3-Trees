@@ -1,0 +1,28 @@
+3337,2007,Chronic lower respiratory diseases (J40-J47),CLRD,Montana,604,54.7
+
+4607,2015,Diabetes mellitus (E10-E14),Diabetes,Utah,604,24.6
+
+5779,2013,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Connecticut,604,12.2
+
+6724,2004,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Connecticut,604,14.8
+
+7254,2014,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Oklahoma,604,14.2
+
+8484,2008,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Alabama,604,12.6
+
+8858,2012,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Massachusetts,604,8.7
+
+3337,2007,Chronic lower respiratory diseases (J40-J47),CLRD,Montana,604,54.7
+
+4607,2015,Diabetes mellitus (E10-E14),Diabetes,Utah,604,24.6
+
+5779,2013,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Connecticut,604,12.2
+
+6724,2004,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Connecticut,604,14.8
+
+7254,2014,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Oklahoma,604,14.2
+
+8484,2008,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Alabama,604,12.6
+
+8858,2012,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Massachusetts,604,8.7
+

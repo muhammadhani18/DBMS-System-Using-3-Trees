@@ -1,0 +1,64 @@
+1143,2005,Alzheimer's disease (G30),Alzheimer's disease,District of Columbia,112,19.7
+
+1274,2000,Alzheimer's disease (G30),Alzheimer's disease,Iowa,769,19.7
+
+1634,2000,Alzheimer's disease (G30),Alzheimer's disease,Ohio,2295,19.7
+
+1837,2013,Alzheimer's disease (G30),Alzheimer's disease,Virginia,1642,19.7
+
+3874,2010,Diabetes mellitus (E10-E14),Diabetes,California,7061,19.7
+
+3919,2001,Diabetes mellitus (E10-E14),Diabetes,Connecticut,759,19.7
+
+3963,2011,Diabetes mellitus (E10-E14),Diabetes,Florida,5093,19.7
+
+4033,2013,Diabetes mellitus (E10-E14),Diabetes,Illinois,2798,19.7
+
+4083,1999,Diabetes mellitus (E10-E14),Diabetes,Iowa,684,19.7
+
+4247,2015,Diabetes mellitus (E10-E14),Diabetes,Missouri,1468,19.7
+
+4267,2013,Diabetes mellitus (E10-E14),Diabetes,Montana,250,19.7
+
+4383,2005,Diabetes mellitus (E10-E14),Diabetes,New York,4051,19.7
+
+4386,2002,Diabetes mellitus (E10-E14),Diabetes,New York,3934,19.7
+
+4706,2006,Diabetes mellitus (E10-E14),Diabetes,Wisconsin,1212,19.7
+
+5749,2007,Influenza and pneumonia (J09-J18),Influenza and pneumonia,California,6546,19.7
+
+5935,2001,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Indiana,1184,19.7
+
+6055,2007,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Massachusetts,1538,19.7
+
+6109,2007,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Mississippi,554,19.7
+
+6125,2009,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Missouri,1330,19.7
+
+6177,2011,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Nevada,499,19.7
+
+6322,2010,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Oklahoma,778,19.7
+
+6400,2004,Influenza and pneumonia (J09-J18),Influenza and pneumonia,South Carolina,770,19.7
+
+6557,2009,Influenza and pneumonia (J09-J18),Influenza and pneumonia,West Virginia,443,19.7
+
+6911,2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Kentucky,998,19.7
+
+7300,2004,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Pennsylvania,3067,19.7
+
+7458,2009,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Virginia,1521,19.7
+
+7460,2007,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Virginia,1439,19.7
+
+7491,2012,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,West Virginia,471,19.7
+
+8570,2012,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Colorado,1052,19.7
+
+8954,2006,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Montana,189,19.7
+
+8988,2008,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Nevada,528,19.7
+
+8994,2002,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Nevada,423,19.7
+

@@ -1,0 +1,4 @@
+3070,2004,Chronic lower respiratory diseases (J40-J47),CLRD,Hawaii,307,22
+
+8369,2015,Cerebrovascular diseases (I60-I69),Stroke,Vermont,307,36.4
+

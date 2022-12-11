@@ -1,0 +1,4 @@
+4832,2006,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Colorado,6124,152.7
+
+5261,2010,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,New Hampshire,2290,152.7
+

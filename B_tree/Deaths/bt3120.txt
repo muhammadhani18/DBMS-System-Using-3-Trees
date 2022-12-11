@@ -1,0 +1,8 @@
+2279,2003,Malignant neoplasms (C00-C97),Cancer,Maine,3120,205.4
+
+8300,2012,Cerebrovascular diseases (I60-I69),Stroke,Tennessee,3120,44.9
+
+2279,2003,Malignant neoplasms (C00-C97),Cancer,Maine,3120,205.4
+
+8300,2012,Cerebrovascular diseases (I60-I69),Stroke,Tennessee,3120,44.9
+

@@ -1,0 +1,396 @@
+13,2016,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Idaho,849,49.5
+
+268,2016,All Causes,All causes,Idaho,13366,725
+
+269,2015,All Causes,All causes,Idaho,13026,727.8
+
+270,2014,All Causes,All causes,Idaho,12613,723.8
+
+271,2013,All Causes,All causes,Idaho,12434,730.6
+
+272,2012,All Causes,All causes,Idaho,11998,726.6
+
+273,2011,All Causes,All causes,Idaho,12027,745
+
+274,2010,All Causes,All causes,Idaho,11429,731.6
+
+275,2009,All Causes,All causes,Idaho,11098,725.1
+
+276,2008,All Causes,All causes,Idaho,10962,736.8
+
+277,2007,All Causes,All causes,Idaho,10822,747
+
+278,2006,All Causes,All causes,Idaho,10613,756
+
+279,2005,All Causes,All causes,Idaho,10556,781.2
+
+280,2004,All Causes,All causes,Idaho,10028,766.2
+
+281,2003,All Causes,All causes,Idaho,10380,812.8
+
+282,2002,All Causes,All causes,Idaho,9923,798.8
+
+283,2001,All Causes,All causes,Idaho,9753,803.5
+
+284,2000,All Causes,All causes,Idaho,9563,809.4
+
+285,1999,All Causes,All causes,Idaho,9579,825.2
+
+1204,2016,Alzheimer's disease (G30),Alzheimer's disease,Idaho,607,33.9
+
+1205,2015,Alzheimer's disease (G30),Alzheimer's disease,Idaho,552,31.6
+
+1206,2014,Alzheimer's disease (G30),Alzheimer's disease,Idaho,376,22.4
+
+1207,2013,Alzheimer's disease (G30),Alzheimer's disease,Idaho,347,21
+
+1208,2012,Alzheimer's disease (G30),Alzheimer's disease,Idaho,354,21.9
+
+1209,2011,Alzheimer's disease (G30),Alzheimer's disease,Idaho,409,25.7
+
+1210,2010,Alzheimer's disease (G30),Alzheimer's disease,Idaho,410,26.8
+
+1211,2009,Alzheimer's disease (G30),Alzheimer's disease,Idaho,369,24.7
+
+1212,2008,Alzheimer's disease (G30),Alzheimer's disease,Idaho,393,27.2
+
+1213,2007,Alzheimer's disease (G30),Alzheimer's disease,Idaho,416,29.4
+
+1214,2006,Alzheimer's disease (G30),Alzheimer's disease,Idaho,400,29
+
+1215,2005,Alzheimer's disease (G30),Alzheimer's disease,Idaho,407,30.7
+
+1216,2004,Alzheimer's disease (G30),Alzheimer's disease,Idaho,343,26.7
+
+1217,2003,Alzheimer's disease (G30),Alzheimer's disease,Idaho,355,28.3
+
+1218,2002,Alzheimer's disease (G30),Alzheimer's disease,Idaho,318,26.1
+
+1219,2001,Alzheimer's disease (G30),Alzheimer's disease,Idaho,294,24.7
+
+1220,2000,Alzheimer's disease (G30),Alzheimer's disease,Idaho,262,22.6
+
+1221,1999,Alzheimer's disease (G30),Alzheimer's disease,Idaho,243,21.4
+
+2140,2016,Malignant neoplasms (C00-C97),Cancer,Idaho,2884,150.9
+
+2141,2015,Malignant neoplasms (C00-C97),Cancer,Idaho,2849,153.6
+
+2142,2014,Malignant neoplasms (C00-C97),Cancer,Idaho,2795,155.4
+
+2143,2013,Malignant neoplasms (C00-C97),Cancer,Idaho,2707,156.2
+
+2144,2012,Malignant neoplasms (C00-C97),Cancer,Idaho,2572,152
+
+2145,2011,Malignant neoplasms (C00-C97),Cancer,Idaho,2573,157.4
+
+2146,2010,Malignant neoplasms (C00-C97),Cancer,Idaho,2530,159.9
+
+2147,2009,Malignant neoplasms (C00-C97),Cancer,Idaho,2458,158.9
+
+2148,2008,Malignant neoplasms (C00-C97),Cancer,Idaho,2511,166.7
+
+2149,2007,Malignant neoplasms (C00-C97),Cancer,Idaho,2405,166.3
+
+2150,2006,Malignant neoplasms (C00-C97),Cancer,Idaho,2306,163.2
+
+2151,2005,Malignant neoplasms (C00-C97),Cancer,Idaho,2368,174.6
+
+2152,2004,Malignant neoplasms (C00-C97),Cancer,Idaho,2227,169.6
+
+2153,2003,Malignant neoplasms (C00-C97),Cancer,Idaho,2321,181.8
+
+2154,2002,Malignant neoplasms (C00-C97),Cancer,Idaho,2138,172.3
+
+2155,2001,Malignant neoplasms (C00-C97),Cancer,Idaho,2093,172.8
+
+2156,2000,Malignant neoplasms (C00-C97),Cancer,Idaho,2128,180.6
+
+2157,1999,Malignant neoplasms (C00-C97),Cancer,Idaho,2162,186.4
+
+3076,2016,Chronic lower respiratory diseases (J40-J47),CLRD,Idaho,865,45.7
+
+3077,2015,Chronic lower respiratory diseases (J40-J47),CLRD,Idaho,843,46.3
+
+3078,2014,Chronic lower respiratory diseases (J40-J47),CLRD,Idaho,819,45.8
+
+3079,2013,Chronic lower respiratory diseases (J40-J47),CLRD,Idaho,808,46.7
+
+3080,2012,Chronic lower respiratory diseases (J40-J47),CLRD,Idaho,754,46
+
+3081,2011,Chronic lower respiratory diseases (J40-J47),CLRD,Idaho,824,51.5
+
+3082,2010,Chronic lower respiratory diseases (J40-J47),CLRD,Idaho,727,47
+
+3083,2009,Chronic lower respiratory diseases (J40-J47),CLRD,Idaho,725,48.2
+
+3084,2008,Chronic lower respiratory diseases (J40-J47),CLRD,Idaho,703,48.2
+
+3085,2007,Chronic lower respiratory diseases (J40-J47),CLRD,Idaho,666,47.1
+
+3086,2006,Chronic lower respiratory diseases (J40-J47),CLRD,Idaho,644,46.9
+
+3087,2005,Chronic lower respiratory diseases (J40-J47),CLRD,Idaho,717,54.1
+
+3088,2004,Chronic lower respiratory diseases (J40-J47),CLRD,Idaho,572,44.5
+
+3089,2003,Chronic lower respiratory diseases (J40-J47),CLRD,Idaho,601,47.9
+
+3090,2002,Chronic lower respiratory diseases (J40-J47),CLRD,Idaho,595,48.7
+
+3091,2001,Chronic lower respiratory diseases (J40-J47),CLRD,Idaho,581,48.6
+
+3092,2000,Chronic lower respiratory diseases (J40-J47),CLRD,Idaho,569,48.8
+
+3093,1999,Chronic lower respiratory diseases (J40-J47),CLRD,Idaho,568,49.5
+
+4012,2016,Diabetes mellitus (E10-E14),Diabetes,Idaho,375,19.8
+
+4013,2015,Diabetes mellitus (E10-E14),Diabetes,Idaho,403,22.1
+
+4014,2014,Diabetes mellitus (E10-E14),Diabetes,Idaho,409,22.9
+
+4015,2013,Diabetes mellitus (E10-E14),Diabetes,Idaho,404,23.8
+
+4016,2012,Diabetes mellitus (E10-E14),Diabetes,Idaho,371,22.9
+
+4017,2011,Diabetes mellitus (E10-E14),Diabetes,Idaho,393,24.2
+
+4018,2010,Diabetes mellitus (E10-E14),Diabetes,Idaho,353,22.5
+
+4019,2009,Diabetes mellitus (E10-E14),Diabetes,Idaho,372,24.3
+
+4020,2008,Diabetes mellitus (E10-E14),Diabetes,Idaho,356,23.9
+
+4021,2007,Diabetes mellitus (E10-E14),Diabetes,Idaho,331,22.9
+
+4022,2006,Diabetes mellitus (E10-E14),Diabetes,Idaho,320,23.1
+
+4023,2005,Diabetes mellitus (E10-E14),Diabetes,Idaho,299,22.4
+
+4024,2004,Diabetes mellitus (E10-E14),Diabetes,Idaho,344,26.5
+
+4025,2003,Diabetes mellitus (E10-E14),Diabetes,Idaho,358,28.3
+
+4026,2002,Diabetes mellitus (E10-E14),Diabetes,Idaho,322,26.1
+
+4027,2001,Diabetes mellitus (E10-E14),Diabetes,Idaho,318,26.4
+
+4028,2000,Diabetes mellitus (E10-E14),Diabetes,Idaho,304,25.9
+
+4029,1999,Diabetes mellitus (E10-E14),Diabetes,Idaho,267,23.1
+
+4948,2016,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Idaho,2969,160
+
+4949,2015,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Idaho,2825,156.4
+
+4950,2014,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Idaho,2676,152.8
+
+4951,2013,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Idaho,2495,145.4
+
+4952,2012,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Idaho,2515,150.9
+
+4953,2011,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Idaho,2522,155.9
+
+4954,2010,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Idaho,2495,159.3
+
+4955,2009,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Idaho,2398,155.7
+
+4956,2008,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Idaho,2330,157.1
+
+4957,2007,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Idaho,2433,167.9
+
+4958,2006,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Idaho,2399,171.3
+
+4959,2005,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Idaho,2450,182.6
+
+4960,2004,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Idaho,2450,188.6
+
+4961,2003,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Idaho,2566,202.1
+
+4962,2002,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Idaho,2532,205.2
+
+4963,2001,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Idaho,2489,207
+
+4964,2000,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Idaho,2519,215.2
+
+4965,1999,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Idaho,2532,220.5
+
+5884,2016,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Idaho,207,11.3
+
+5885,2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Idaho,218,12.4
+
+5886,2014,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Idaho,200,11.3
+
+5887,2013,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Idaho,259,15.1
+
+5888,2012,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Idaho,189,11.3
+
+5889,2011,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Idaho,217,13.5
+
+5890,2010,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Idaho,208,13.5
+
+5891,2009,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Idaho,207,13.6
+
+5892,2008,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Idaho,206,14
+
+5893,2007,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Idaho,228,15.7
+
+5894,2006,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Idaho,225,16.2
+
+5895,2005,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Idaho,289,21.5
+
+5896,2004,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Idaho,219,17
+
+5897,2003,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Idaho,334,26.4
+
+5898,2002,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Idaho,265,21.7
+
+5899,2001,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Idaho,239,19.9
+
+5900,2000,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Idaho,288,24.6
+
+5901,1999,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Idaho,289,25.3
+
+6820,2016,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Idaho,190,10.3
+
+6821,2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Idaho,154,8.7
+
+6822,2014,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Idaho,137,8
+
+6823,2013,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Idaho,148,8.8
+
+6824,2012,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Idaho,148,8.8
+
+6825,2011,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Idaho,154,9.7
+
+6826,2010,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Idaho,186,12.1
+
+6827,2009,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Idaho,186,12.4
+
+6828,2008,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Idaho,173,11.8
+
+6829,2007,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Idaho,134,9.4
+
+6830,2006,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Idaho,130,9.4
+
+6831,2005,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Idaho,110,8.2
+
+6832,2004,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Idaho,109,8.5
+
+6833,2003,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Idaho,97,7.7
+
+6834,2002,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Idaho,86,7
+
+6835,2001,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Idaho,95,8
+
+6836,2000,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Idaho,96,8.2
+
+6837,1999,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Idaho,99,8.6
+
+7756,2016,Cerebrovascular diseases (I60-I69),Stroke,Idaho,682,37.2
+
+7757,2015,Cerebrovascular diseases (I60-I69),Stroke,Idaho,641,36.3
+
+7758,2014,Cerebrovascular diseases (I60-I69),Stroke,Idaho,640,36.8
+
+7759,2013,Cerebrovascular diseases (I60-I69),Stroke,Idaho,598,35.4
+
+7760,2012,Cerebrovascular diseases (I60-I69),Stroke,Idaho,610,37.2
+
+7761,2011,Cerebrovascular diseases (I60-I69),Stroke,Idaho,623,38.8
+
+7762,2010,Cerebrovascular diseases (I60-I69),Stroke,Idaho,642,42
+
+7763,2009,Cerebrovascular diseases (I60-I69),Stroke,Idaho,627,41.6
+
+7764,2008,Cerebrovascular diseases (I60-I69),Stroke,Idaho,609,41.6
+
+7765,2007,Cerebrovascular diseases (I60-I69),Stroke,Idaho,640,44.6
+
+7766,2006,Cerebrovascular diseases (I60-I69),Stroke,Idaho,725,52.7
+
+7767,2005,Cerebrovascular diseases (I60-I69),Stroke,Idaho,718,53.9
+
+7768,2004,Cerebrovascular diseases (I60-I69),Stroke,Idaho,712,55.3
+
+7769,2003,Cerebrovascular diseases (I60-I69),Stroke,Idaho,762,60.5
+
+7770,2002,Cerebrovascular diseases (I60-I69),Stroke,Idaho,736,60.2
+
+7771,2001,Cerebrovascular diseases (I60-I69),Stroke,Idaho,781,65.4
+
+7772,2000,Cerebrovascular diseases (I60-I69),Stroke,Idaho,720,61.8
+
+7773,1999,Cerebrovascular diseases (I60-I69),Stroke,Idaho,771,67.5
+
+8692,2016,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Idaho,351,21.4
+
+8693,2015,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Idaho,359,22.1
+
+8694,2014,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Idaho,320,20
+
+8695,2013,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Idaho,308,19.2
+
+8696,2012,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Idaho,297,19
+
+8697,2011,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Idaho,281,18.2
+
+8698,2010,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Idaho,290,18.8
+
+8699,2009,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Idaho,304,20.3
+
+8700,2008,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Idaho,252,16.7
+
+8701,2007,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Idaho,223,15
+
+8702,2006,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Idaho,222,15.8
+
+8703,2005,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Idaho,228,16.5
+
+8704,2004,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Idaho,236,17.6
+
+8705,2003,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Idaho,217,16.4
+
+8706,2002,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Idaho,202,15.5
+
+8707,2001,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Idaho,210,16.3
+
+8708,2000,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Idaho,167,13.3
+
+8709,1999,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Idaho,181,14.8
+
+9616,2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Idaho,746,44.7
+
+9617,2014,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Idaho,765,46.5
+
+9618,2013,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Idaho,776,47.7
+
+9619,2012,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Idaho,699,43.7
+
+9620,2011,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Idaho,710,44.7
+
+9621,2010,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Idaho,654,42.1
+
+9622,2009,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Idaho,670,44
+
+9623,2008,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Idaho,649,43.2
+
+9624,2007,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Idaho,641,43.4
+
+9625,2006,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Idaho,682,47.5
+
+9626,2005,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Idaho,606,43.7
+
+9627,2004,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Idaho,593,43.6
+
+9628,2003,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Idaho,605,45.6
+
+9629,2002,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Idaho,611,47.1
+
+9630,2001,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Idaho,568,44.2
+
+9631,2000,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Idaho,518,41.5
+
+9632,1999,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Idaho,597,48.3
+

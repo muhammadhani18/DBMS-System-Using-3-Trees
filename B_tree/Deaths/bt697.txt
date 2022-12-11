@@ -1,0 +1,8 @@
+7045,2007,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Mississippi,697,24.3
+
+10189,2004,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Utah,697,33.4
+
+7045,2007,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Mississippi,697,24.3
+
+10189,2004,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Utah,697,33.4
+

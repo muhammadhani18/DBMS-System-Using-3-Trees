@@ -1,0 +1,4 @@
+2247,1999,Malignant neoplasms (C00-C97),Cancer,Kentucky,8925,224.2
+
+7712,2006,Cerebrovascular diseases (I60-I69),Stroke,Florida,8925,37.8
+

@@ -1,0 +1,6 @@
+1963,2013,Malignant neoplasms (C00-C97),Cancer,Arizona,11347,147
+
+1999,2013,Malignant neoplasms (C00-C97),Cancer,California,57714,147
+
+4831,2007,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Colorado,6106,147
+

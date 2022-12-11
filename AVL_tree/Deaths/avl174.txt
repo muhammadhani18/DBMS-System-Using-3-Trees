@@ -1,0 +1,16 @@
+1509,1999,Alzheimer's disease (G30),Alzheimer's disease,Nevada,174,13.6
+
+1739,2003,Alzheimer's disease (G30),Alzheimer's disease,South Dakota,174,17.5
+
+4638,2002,Diabetes mellitus (E10-E14),Diabetes,Vermont,174,27
+
+6282,2014,Influenza and pneumonia (J09-J18),Influenza and pneumonia,North Dakota,174,18.5
+
+6731,2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Delaware,174,14.5
+
+7134,2008,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,New Hampshire,174,12.4
+
+7311,2011,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Rhode Island,174,12.4
+
+8674,2016,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Hawaii,174,12.1
+

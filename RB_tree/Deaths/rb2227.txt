@@ -1,0 +1,8 @@
+2152,2004,Malignant neoplasms (C00-C97),Cancer,Idaho,2227,169.6
+
+2634,2008,Malignant neoplasms (C00-C97),Cancer,Rhode Island,2227,178.1
+
+4939,2007,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Hawaii,2227,146.7
+
+9938,1999,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,New Jersey,2227,26.2
+

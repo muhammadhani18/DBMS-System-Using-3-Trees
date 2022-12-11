@@ -1,0 +1,8 @@
+5292,2015,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,New Mexico,3508,142.4
+
+8296,2016,Cerebrovascular diseases (I60-I69),Stroke,Tennessee,3508,46
+
+5292,2015,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,New Mexico,3508,142.4
+
+8296,2016,Cerebrovascular diseases (I60-I69),Stroke,Tennessee,3508,46
+

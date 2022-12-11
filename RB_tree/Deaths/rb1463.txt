@@ -1,0 +1,4 @@
+5858,2006,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Georgia,1463,20.8
+
+7657,2007,Cerebrovascular diseases (I60-I69),Stroke,Connecticut,1463,33.4
+

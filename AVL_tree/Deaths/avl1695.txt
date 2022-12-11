@@ -1,0 +1,4 @@
+1375,2007,Alzheimer's disease (G30),Alzheimer's disease,Massachusetts,1695,21.1
+
+4131,2005,Diabetes mellitus (E10-E14),Diabetes,Louisiana,1695,38.7
+

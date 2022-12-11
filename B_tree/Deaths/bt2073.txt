@@ -1,0 +1,12 @@
+2957,2009,Chronic lower respiratory diseases (J40-J47),CLRD,Colorado,2073,47.8
+
+7850,2012,Cerebrovascular diseases (I60-I69),Stroke,Kentucky,2073,44.3
+
+7957,2013,Cerebrovascular diseases (I60-I69),Stroke,Minnesota,2073,32
+
+2957,2009,Chronic lower respiratory diseases (J40-J47),CLRD,Colorado,2073,47.8
+
+7850,2012,Cerebrovascular diseases (I60-I69),Stroke,Kentucky,2073,44.3
+
+7957,2013,Cerebrovascular diseases (I60-I69),Stroke,Minnesota,2073,32
+

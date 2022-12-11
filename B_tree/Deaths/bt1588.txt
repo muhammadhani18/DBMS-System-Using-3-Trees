@@ -1,0 +1,12 @@
+6435,2005,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Tennessee,1588,27.5
+
+6441,1999,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Tennessee,1588,29.7
+
+7633,2013,Cerebrovascular diseases (I60-I69),Stroke,Colorado,1588,32
+
+6435,2005,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Tennessee,1588,27.5
+
+6441,1999,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Tennessee,1588,29.7
+
+7633,2013,Cerebrovascular diseases (I60-I69),Stroke,Colorado,1588,32
+

@@ -1,0 +1,6 @@
+3842,2006,Diabetes mellitus (E10-E14),Diabetes,Arizona,1206,19.6
+
+4532,2000,Diabetes mellitus (E10-E14),Diabetes,South Carolina,1206,31.5
+
+5564,2012,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Vermont,1206,150.6
+

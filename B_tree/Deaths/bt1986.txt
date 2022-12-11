@@ -1,0 +1,8 @@
+1444,2010,Alzheimer's disease (G30),Alzheimer's disease,Missouri,1986,28.8
+
+3233,2003,Chronic lower respiratory diseases (J40-J47),CLRD,Maryland,1986,39.5
+
+1444,2010,Alzheimer's disease (G30),Alzheimer's disease,Missouri,1986,28.8
+
+3233,2003,Chronic lower respiratory diseases (J40-J47),CLRD,Maryland,1986,39.5
+

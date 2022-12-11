@@ -1,0 +1,4 @@
+2769,1999,Malignant neoplasms (C00-C97),Cancer,Vermont,1255,203.7
+
+5493,2012,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Tennessee,14454,203.7
+

@@ -1,0 +1,4 @@
+2175,1999,Malignant neoplasms (C00-C97),Cancer,Illinois,25024,210.4
+
+4968,2014,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Illinois,25024,169.7
+

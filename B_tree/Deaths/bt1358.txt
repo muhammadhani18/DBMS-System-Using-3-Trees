@@ -1,0 +1,12 @@
+1409,2009,Alzheimer's disease (G30),Alzheimer's disease,Minnesota,1358,22.2
+
+2931,1999,Chronic lower respiratory diseases (J40-J47),CLRD,Arkansas,1358,46.8
+
+4156,2016,Diabetes mellitus (E10-E14),Diabetes,Maryland,1358,19.6
+
+1409,2009,Alzheimer's disease (G30),Alzheimer's disease,Minnesota,1358,22.2
+
+2931,1999,Chronic lower respiratory diseases (J40-J47),CLRD,Arkansas,1358,46.8
+
+4156,2016,Diabetes mellitus (E10-E14),Diabetes,Maryland,1358,19.6
+

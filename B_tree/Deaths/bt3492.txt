@@ -1,0 +1,12 @@
+3315,2011,Chronic lower respiratory diseases (J40-J47),CLRD,Missouri,3492,50.5
+
+8089,2007,Cerebrovascular diseases (I60-I69),Stroke,New Jersey,3492,36
+
+10022,2000,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Ohio,3492,30.5
+
+3315,2011,Chronic lower respiratory diseases (J40-J47),CLRD,Missouri,3492,50.5
+
+8089,2007,Cerebrovascular diseases (I60-I69),Stroke,New Jersey,3492,36
+
+10022,2000,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Ohio,3492,30.5
+

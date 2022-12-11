@@ -1,0 +1,6 @@
+1379,2003,Alzheimer's disease (G30),Alzheimer's disease,Massachusetts,1609,21.3
+
+2066,2000,Malignant neoplasms (C00-C97),Cancer,Delaware,1609,203.3
+
+10040,1999,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Oklahoma,1609,46.3
+

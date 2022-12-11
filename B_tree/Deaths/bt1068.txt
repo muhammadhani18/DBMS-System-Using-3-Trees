@@ -1,0 +1,16 @@
+3351,2011,Chronic lower respiratory diseases (J40-J47),CLRD,Nebraska,1068,50.5
+
+5712,2008,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arizona,1068,16.8
+
+7364,2013,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Tennessee,1068,14.8
+
+9233,2015,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Tennessee,1068,15.7
+
+3351,2011,Chronic lower respiratory diseases (J40-J47),CLRD,Nebraska,1068,50.5
+
+5712,2008,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arizona,1068,16.8
+
+7364,2013,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Tennessee,1068,14.8
+
+9233,2015,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Tennessee,1068,15.7
+

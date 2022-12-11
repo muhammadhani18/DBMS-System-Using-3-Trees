@@ -1,0 +1,8 @@
+1234,2004,Alzheimer's disease (G30),Alzheimer's disease,Illinois,2595,20.4
+
+3515,2009,Chronic lower respiratory diseases (J40-J47),CLRD,Oklahoma,2595,65.1
+
+4348,2004,Diabetes mellitus (E10-E14),Diabetes,New Jersey,2595,28.2
+
+7878,2002,Cerebrovascular diseases (I60-I69),Stroke,Louisiana,2595,63.8
+

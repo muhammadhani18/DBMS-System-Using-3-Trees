@@ -1,0 +1,4 @@
+10155,2003,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Texas,8425,40.8
+
+10155,2003,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Texas,8425,40.8
+

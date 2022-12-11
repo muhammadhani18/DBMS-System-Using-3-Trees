@@ -1,0 +1,8 @@
+1423,2013,Alzheimer's disease (G30),Alzheimer's disease,Mississippi,925,30.1
+
+1946,2012,Malignant neoplasms (C00-C97),Cancer,Alaska,925,166.5
+
+6034,2010,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Maryland,925,15.7
+
+7517,2004,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wisconsin,925,15.2
+

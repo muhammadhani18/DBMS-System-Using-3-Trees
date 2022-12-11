@@ -1,0 +1,8 @@
+1125,2005,Alzheimer's disease (G30),Alzheimer's disease,Delaware,180,21.2
+
+4503,2011,Diabetes mellitus (E10-E14),Diabetes,Rhode Island,180,13.4
+
+4550,2000,Diabetes mellitus (E10-E14),Diabetes,South Dakota,180,20.7
+
+8957,2003,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Montana,180,19.5
+

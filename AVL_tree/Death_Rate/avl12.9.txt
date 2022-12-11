@@ -1,0 +1,36 @@
+6373,2013,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Rhode Island,195,12.9
+
+6413,2009,Influenza and pneumonia (J09-J18),Influenza and pneumonia,South Dakota,134,12.9
+
+6542,2006,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Washington,814,12.9
+
+6632,2006,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Alaska,44,12.9
+
+6714,2014,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Connecticut,605,12.9
+
+6773,2010,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Florida,3297,12.9
+
+7028,2006,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Minnesota,711,12.9
+
+7087,2001,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Montana,128,12.9
+
+7163,2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,New Mexico,316,12.9
+
+7176,2002,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,New Mexico,220,12.9
+
+7219,2013,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,North Dakota,117,12.9
+
+7252,2016,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Oklahoma,577,12.9
+
+7317,2006,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Rhode Island,167,12.9
+
+8748,2014,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Iowa,407,12.9
+
+8875,2013,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Michigan,1295,12.9
+
+9109,2013,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Ohio,1526,12.9
+
+9245,2003,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Tennessee,762,12.9
+
+9324,2014,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Virginia,1123,12.9
+

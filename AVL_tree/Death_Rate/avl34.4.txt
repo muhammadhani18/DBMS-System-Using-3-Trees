@@ -1,0 +1,24 @@
+1610,2006,Alzheimer's disease (G30),Alzheimer's disease,North Dakota,318,34.4
+
+1612,2004,Alzheimer's disease (G30),Alzheimer's disease,North Dakota,313,34.4
+
+3230,2006,Chronic lower respiratory diseases (J40-J47),CLRD,Maryland,1832,34.4
+
+3482,2006,Chronic lower respiratory diseases (J40-J47),CLRD,North Dakota,283,34.4
+
+3483,2005,Chronic lower respiratory diseases (J40-J47),CLRD,North Dakota,272,34.4
+
+3681,2005,Chronic lower respiratory diseases (J40-J47),CLRD,Utah,592,34.4
+
+3951,2005,Diabetes mellitus (E10-E14),Diabetes,District of Columbia,192,34.4
+
+7882,2016,Cerebrovascular diseases (I60-I69),Stroke,Maine,663,34.4
+
+7961,2009,Cerebrovascular diseases (I60-I69),Stroke,Minnesota,2033,34.4
+
+9603,2011,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Hawaii,517,34.4
+
+9634,2014,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Illinois,4644,34.4
+
+10216,2011,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Virginia,2809,34.4
+

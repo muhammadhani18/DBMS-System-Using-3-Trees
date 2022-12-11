@@ -1,0 +1,8 @@
+3314,2012,Chronic lower respiratory diseases (J40-J47),CLRD,Missouri,3650,51.7
+
+3327,1999,Chronic lower respiratory diseases (J40-J47),CLRD,Missouri,3068,51.7
+
+3495,2011,Chronic lower respiratory diseases (J40-J47),CLRD,Ohio,6996,51.7
+
+7968,2002,Cerebrovascular diseases (I60-I69),Stroke,Minnesota,2706,51.7
+

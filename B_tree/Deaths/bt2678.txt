@@ -1,0 +1,8 @@
+1240,2016,Alzheimer's disease (G30),Alzheimer's disease,Indiana,2678,34.9
+
+7392,2003,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Texas,2678,15.4
+
+1240,2016,Alzheimer's disease (G30),Alzheimer's disease,Indiana,2678,34.9
+
+7392,2003,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Texas,2678,15.4
+

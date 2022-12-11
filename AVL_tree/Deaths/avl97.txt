@@ -1,0 +1,8 @@
+4718,2012,Diabetes mellitus (E10-E14),Diabetes,Wyoming,97,15.9
+
+6507,2005,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Vermont,97,14.4
+
+6833,2003,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Idaho,97,7.7
+
+7360,1999,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,South Dakota,97,10.8
+

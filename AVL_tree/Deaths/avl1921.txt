@@ -1,0 +1,8 @@
+2401,2007,Malignant neoplasms (C00-C97),Cancer,Montana,1921,170.7
+
+4860,2014,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Delaware,1921,168.7
+
+5206,2011,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Montana,1921,156.9
+
+7001,2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Michigan,1921,15.6
+

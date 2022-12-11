@@ -1,0 +1,4 @@
+9419,2008,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Alabama,2509,52.5
+
+9419,2008,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Alabama,2509,52.5
+

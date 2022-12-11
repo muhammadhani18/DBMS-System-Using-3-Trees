@@ -1,0 +1,6 @@
+3300,2008,Chronic lower respiratory diseases (J40-J47),CLRD,Mississippi,1520,51.6
+
+6795,2005,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Georgia,1520,21.2
+
+7978,2010,Cerebrovascular diseases (I60-I69),Stroke,Mississippi,1520,51.2
+

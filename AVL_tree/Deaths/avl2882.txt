@@ -1,0 +1,4 @@
+3325,2001,Chronic lower respiratory diseases (J40-J47),CLRD,Missouri,2882,47.8
+
+7915,2001,Cerebrovascular diseases (I60-I69),Stroke,Maryland,2882,60.2
+

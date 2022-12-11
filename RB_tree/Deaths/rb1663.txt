@@ -1,0 +1,4 @@
+1249,2007,Alzheimer's disease (G30),Alzheimer's disease,Indiana,1663,25.1
+
+7008,2008,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Michigan,1663,15.2
+

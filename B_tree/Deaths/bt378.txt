@@ -1,0 +1,12 @@
+7272,2014,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Oregon,378,7.7
+
+7503,2000,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,West Virginia,378,17.9
+
+9295,2007,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Utah,378,15.8
+
+7272,2014,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Oregon,378,7.7
+
+7503,2000,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,West Virginia,378,17.9
+
+9295,2007,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Utah,378,15.8
+

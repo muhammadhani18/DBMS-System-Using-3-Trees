@@ -1,0 +1,8 @@
+3730,2010,Chronic lower respiratory diseases (J40-J47),CLRD,Washington,2737,40.4
+
+10092,2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,South Carolina,2737,54
+
+3730,2010,Chronic lower respiratory diseases (J40-J47),CLRD,Washington,2737,40.4
+
+10092,2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,South Carolina,2737,54
+

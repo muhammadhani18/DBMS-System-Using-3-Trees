@@ -1,0 +1,40 @@
+1221,1999,Alzheimer's disease (G30),Alzheimer's disease,Idaho,243,21.4
+
+1397,2003,Alzheimer's disease (G30),Alzheimer's disease,Michigan,2133,21.4
+
+1473,1999,Alzheimer's disease (G30),Alzheimer's disease,Montana,205,21.4
+
+1811,2003,Alzheimer's disease (G30),Alzheimer's disease,Utah,332,21.4
+
+3868,2016,Diabetes mellitus (E10-E14),Diabetes,California,9124,21.4
+
+3966,2008,Diabetes mellitus (E10-E14),Diabetes,Florida,5161,21.4
+
+3977,2015,Diabetes mellitus (E10-E14),Diabetes,Georgia,2210,21.4
+
+4148,2006,Diabetes mellitus (E10-E14),Diabetes,Maine,343,21.4
+
+4220,2006,Diabetes mellitus (E10-E14),Diabetes,Minnesota,1158,21.4
+
+4328,2006,Diabetes mellitus (E10-E14),Diabetes,New Hampshire,296,21.4
+
+4628,2012,Diabetes mellitus (E10-E14),Diabetes,Vermont,168,21.4
+
+5808,2002,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Delaware,168,21.4
+
+5936,2000,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Indiana,1270,21.4
+
+6023,2003,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Maine,327,21.4
+
+6249,2011,Influenza and pneumonia (J09-J18),Influenza and pneumonia,New York,4915,21.4
+
+6455,2003,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Texas,3613,21.4
+
+6582,2002,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wisconsin,1291,21.4
+
+8692,2016,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Idaho,351,21.4
+
+8980,2016,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Nevada,650,21.4
+
+9289,2013,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Utah,579,21.4
+

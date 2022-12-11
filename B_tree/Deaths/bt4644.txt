@@ -1,0 +1,8 @@
+1159,2007,Alzheimer's disease (G30),Alzheimer's disease,Florida,4644,18.7
+
+9634,2014,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Illinois,4644,34.4
+
+1159,2007,Alzheimer's disease (G30),Alzheimer's disease,Florida,4644,18.7
+
+9634,2014,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Illinois,4644,34.4
+

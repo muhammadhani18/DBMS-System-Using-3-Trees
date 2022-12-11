@@ -1,0 +1,8 @@
+3389,2009,Chronic lower respiratory diseases (J40-J47),CLRD,New Hampshire,652,45.6
+
+4358,2012,Diabetes mellitus (E10-E14),Diabetes,New Mexico,652,28.3
+
+3389,2009,Chronic lower respiratory diseases (J40-J47),CLRD,New Hampshire,652,45.6
+
+4358,2012,Diabetes mellitus (E10-E14),Diabetes,New Mexico,652,28.3
+

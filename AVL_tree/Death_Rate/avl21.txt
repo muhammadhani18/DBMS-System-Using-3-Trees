@@ -1,0 +1,46 @@
+1207,2013,Alzheimer's disease (G30),Alzheimer's disease,Idaho,347,21
+
+1229,2009,Alzheimer's disease (G30),Alzheimer's disease,Illinois,2891,21
+
+1489,2001,Alzheimer's disease (G30),Alzheimer's disease,Nebraska,430,21
+
+1673,2015,Alzheimer's disease (G30),Alzheimer's disease,Pennsylvania,4012,21
+
+1813,2001,Alzheimer's disease (G30),Alzheimer's disease,Utah,314,21
+
+1909,2013,Alzheimer's disease (G30),Alzheimer's disease,Wyoming,126,21
+
+3844,2004,Diabetes mellitus (E10-E14),Diabetes,Arizona,1196,21
+
+4342,2010,Diabetes mellitus (E10-E14),Diabetes,New Jersey,2098,21
+
+4385,2003,Diabetes mellitus (E10-E14),Diabetes,New York,4227,21
+
+4521,2011,Diabetes mellitus (E10-E14),Diabetes,South Carolina,1090,21
+
+4588,2016,Diabetes mellitus (E10-E14),Diabetes,United States,80058,21
+
+4707,2005,Diabetes mellitus (E10-E14),Diabetes,Wisconsin,1276,21
+
+5980,2010,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Kentucky,943,21
+
+5983,2007,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Kentucky,897,21
+
+6000,2008,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Louisiana,894,21
+
+6202,2004,Influenza and pneumonia (J09-J18),Influenza and pneumonia,New Hampshire,271,21
+
+6252,2008,Influenza and pneumonia (J09-J18),Influenza and pneumonia,New York,4609,21
+
+6471,2005,Influenza and pneumonia (J09-J18),Influenza and pneumonia,United States,63001,21
+
+7124,2000,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Nevada,329,21
+
+7497,2006,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,West Virginia,468,21
+
+9036,2014,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,New Mexico,449,21
+
+9124,2016,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Oklahoma,822,21
+
+9290,2012,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Utah,550,21
+

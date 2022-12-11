@@ -1,0 +1,24 @@
+3332,2012,Chronic lower respiratory diseases (J40-J47),CLRD,Montana,605,48.6
+
+6714,2014,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Connecticut,605,12.9
+
+7035,1999,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Minnesota,605,12.1
+
+7744,2010,Cerebrovascular diseases (I60-I69),Stroke,Hawaii,605,35.8
+
+8256,2002,Cerebrovascular diseases (I60-I69),Stroke,Rhode Island,605,46.7
+
+9628,2003,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Idaho,605,45.6
+
+3332,2012,Chronic lower respiratory diseases (J40-J47),CLRD,Montana,605,48.6
+
+6714,2014,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Connecticut,605,12.9
+
+7035,1999,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Minnesota,605,12.1
+
+7744,2010,Cerebrovascular diseases (I60-I69),Stroke,Hawaii,605,35.8
+
+8256,2002,Cerebrovascular diseases (I60-I69),Stroke,Rhode Island,605,46.7
+
+9628,2003,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Idaho,605,45.6
+

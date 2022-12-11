@@ -1,0 +1,12 @@
+3751,2007,Chronic lower respiratory diseases (J40-J47),CLRD,West Virginia,1331,58.3
+
+4676,2000,Diabetes mellitus (E10-E14),Diabetes,Washington,1331,24.5
+
+4709,2003,Diabetes mellitus (E10-E14),Diabetes,Wisconsin,1331,22.7
+
+3751,2007,Chronic lower respiratory diseases (J40-J47),CLRD,West Virginia,1331,58.3
+
+4676,2000,Diabetes mellitus (E10-E14),Diabetes,Washington,1331,24.5
+
+4709,2003,Diabetes mellitus (E10-E14),Diabetes,Wisconsin,1331,22.7
+

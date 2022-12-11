@@ -1,0 +1,18 @@
+1212,2008,Alzheimer's disease (G30),Alzheimer's disease,Idaho,393,27.2
+
+1518,2008,Alzheimer's disease (G30),Alzheimer's disease,New Hampshire,393,27.4
+
+1807,2007,Alzheimer's disease (G30),Alzheimer's disease,Utah,393,22.1
+
+4017,2011,Diabetes mellitus (E10-E14),Diabetes,Idaho,393,24.2
+
+4296,2002,Diabetes mellitus (E10-E14),Diabetes,Nebraska,393,20.8
+
+7417,2014,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Utah,393,17.2
+
+9612,2002,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Hawaii,393,30.9
+
+10087,2003,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Rhode Island,393,33.9
+
+10114,2010,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,South Dakota,393,44.5
+

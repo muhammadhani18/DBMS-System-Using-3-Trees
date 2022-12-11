@@ -1,0 +1,6 @@
+4243,2001,Diabetes mellitus (E10-E14),Diabetes,Mississippi,661,24.3
+
+5945,2009,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Iowa,661,16.6
+
+7034,2000,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Minnesota,661,13.2
+

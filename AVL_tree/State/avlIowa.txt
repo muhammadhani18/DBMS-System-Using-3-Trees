@@ -1,0 +1,396 @@
+16,2016,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Iowa,1608,45.8
+
+322,2016,All Causes,All causes,Iowa,29538,721.1
+
+323,2015,All Causes,All causes,Iowa,29600,724.6
+
+324,2014,All Causes,All causes,Iowa,29190,722.9
+
+325,2013,All Causes,All causes,Iowa,28948,723.7
+
+326,2012,All Causes,All causes,Iowa,28389,718.3
+
+327,2011,All Causes,All causes,Iowa,28184,722.7
+
+328,2010,All Causes,All causes,Iowa,27745,721.7
+
+329,2009,All Causes,All causes,Iowa,27544,723
+
+330,2008,All Causes,All causes,Iowa,28541,752.6
+
+331,2007,All Causes,All causes,Iowa,27221,724.2
+
+332,2006,All Causes,All causes,Iowa,27362,736.1
+
+333,2005,All Causes,All causes,Iowa,27811,757.5
+
+334,2004,All Causes,All causes,Iowa,26897,738.3
+
+335,2003,All Causes,All causes,Iowa,28062,776.2
+
+336,2002,All Causes,All causes,Iowa,27978,779.9
+
+337,2001,All Causes,All causes,Iowa,27791,780.1
+
+338,2000,All Causes,All causes,Iowa,28060,794.7
+
+339,1999,All Causes,All causes,Iowa,28411,806.4
+
+1258,2016,Alzheimer's disease (G30),Alzheimer's disease,Iowa,1415,31.3
+
+1259,2015,Alzheimer's disease (G30),Alzheimer's disease,Iowa,1339,29.9
+
+1260,2014,Alzheimer's disease (G30),Alzheimer's disease,Iowa,1313,29.6
+
+1261,2013,Alzheimer's disease (G30),Alzheimer's disease,Iowa,1252,28.2
+
+1262,2012,Alzheimer's disease (G30),Alzheimer's disease,Iowa,1336,30.5
+
+1263,2011,Alzheimer's disease (G30),Alzheimer's disease,Iowa,1406,32.4
+
+1264,2010,Alzheimer's disease (G30),Alzheimer's disease,Iowa,1411,32.9
+
+1265,2009,Alzheimer's disease (G30),Alzheimer's disease,Iowa,1265,29.9
+
+1266,2008,Alzheimer's disease (G30),Alzheimer's disease,Iowa,1332,31.5
+
+1267,2007,Alzheimer's disease (G30),Alzheimer's disease,Iowa,1202,28.7
+
+1268,2006,Alzheimer's disease (G30),Alzheimer's disease,Iowa,1121,27
+
+1269,2005,Alzheimer's disease (G30),Alzheimer's disease,Iowa,1082,26.5
+
+1270,2004,Alzheimer's disease (G30),Alzheimer's disease,Iowa,968,24
+
+1271,2003,Alzheimer's disease (G30),Alzheimer's disease,Iowa,887,22.1
+
+1272,2002,Alzheimer's disease (G30),Alzheimer's disease,Iowa,899,22.6
+
+1273,2001,Alzheimer's disease (G30),Alzheimer's disease,Iowa,863,21.8
+
+1274,2000,Alzheimer's disease (G30),Alzheimer's disease,Iowa,769,19.7
+
+1275,1999,Alzheimer's disease (G30),Alzheimer's disease,Iowa,706,18.2
+
+2194,2016,Malignant neoplasms (C00-C97),Cancer,Iowa,6432,159.8
+
+2195,2015,Malignant neoplasms (C00-C97),Cancer,Iowa,6513,164.1
+
+2196,2014,Malignant neoplasms (C00-C97),Cancer,Iowa,6504,166
+
+2197,2013,Malignant neoplasms (C00-C97),Cancer,Iowa,6509,168.4
+
+2198,2012,Malignant neoplasms (C00-C97),Cancer,Iowa,6438,168.6
+
+2199,2011,Malignant neoplasms (C00-C97),Cancer,Iowa,6481,173.1
+
+2200,2010,Malignant neoplasms (C00-C97),Cancer,Iowa,6358,171.9
+
+2201,2009,Malignant neoplasms (C00-C97),Cancer,Iowa,6249,170.4
+
+2202,2008,Malignant neoplasms (C00-C97),Cancer,Iowa,6424,177.1
+
+2203,2007,Malignant neoplasms (C00-C97),Cancer,Iowa,6376,176.8
+
+2204,2006,Malignant neoplasms (C00-C97),Cancer,Iowa,6359,179
+
+2205,2005,Malignant neoplasms (C00-C97),Cancer,Iowa,6453,183.7
+
+2206,2004,Malignant neoplasms (C00-C97),Cancer,Iowa,6340,182.3
+
+2207,2003,Malignant neoplasms (C00-C97),Cancer,Iowa,6469,187.8
+
+2208,2002,Malignant neoplasms (C00-C97),Cancer,Iowa,6473,189.3
+
+2209,2001,Malignant neoplasms (C00-C97),Cancer,Iowa,6404,188.9
+
+2210,2000,Malignant neoplasms (C00-C97),Cancer,Iowa,6448,191.7
+
+2211,1999,Malignant neoplasms (C00-C97),Cancer,Iowa,6346,189.1
+
+3130,2016,Chronic lower respiratory diseases (J40-J47),CLRD,Iowa,2006,48.6
+
+3131,2015,Chronic lower respiratory diseases (J40-J47),CLRD,Iowa,2011,49.1
+
+3132,2014,Chronic lower respiratory diseases (J40-J47),CLRD,Iowa,1915,47.7
+
+3133,2013,Chronic lower respiratory diseases (J40-J47),CLRD,Iowa,1892,47.8
+
+3134,2012,Chronic lower respiratory diseases (J40-J47),CLRD,Iowa,1824,46.8
+
+3135,2011,Chronic lower respiratory diseases (J40-J47),CLRD,Iowa,1833,47.6
+
+3136,2010,Chronic lower respiratory diseases (J40-J47),CLRD,Iowa,1698,44.7
+
+3137,2009,Chronic lower respiratory diseases (J40-J47),CLRD,Iowa,1832,48.7
+
+3138,2008,Chronic lower respiratory diseases (J40-J47),CLRD,Iowa,1848,49.4
+
+3139,2007,Chronic lower respiratory diseases (J40-J47),CLRD,Iowa,1660,44.6
+
+3140,2006,Chronic lower respiratory diseases (J40-J47),CLRD,Iowa,1655,45.2
+
+3141,2005,Chronic lower respiratory diseases (J40-J47),CLRD,Iowa,1703,47
+
+3142,2004,Chronic lower respiratory diseases (J40-J47),CLRD,Iowa,1547,42.7
+
+3143,2003,Chronic lower respiratory diseases (J40-J47),CLRD,Iowa,1674,46.6
+
+3144,2002,Chronic lower respiratory diseases (J40-J47),CLRD,Iowa,1580,44.4
+
+3145,2001,Chronic lower respiratory diseases (J40-J47),CLRD,Iowa,1552,43.6
+
+3146,2000,Chronic lower respiratory diseases (J40-J47),CLRD,Iowa,1512,42.9
+
+3147,1999,Chronic lower respiratory diseases (J40-J47),CLRD,Iowa,1643,46.8
+
+4066,2016,Diabetes mellitus (E10-E14),Diabetes,Iowa,847,20.9
+
+4067,2015,Diabetes mellitus (E10-E14),Diabetes,Iowa,1077,26.7
+
+4068,2014,Diabetes mellitus (E10-E14),Diabetes,Iowa,1019,25.6
+
+4069,2013,Diabetes mellitus (E10-E14),Diabetes,Iowa,747,19
+
+4070,2012,Diabetes mellitus (E10-E14),Diabetes,Iowa,692,17.6
+
+4071,2011,Diabetes mellitus (E10-E14),Diabetes,Iowa,770,19.9
+
+4072,2010,Diabetes mellitus (E10-E14),Diabetes,Iowa,733,19.3
+
+4073,2009,Diabetes mellitus (E10-E14),Diabetes,Iowa,702,18.7
+
+4074,2008,Diabetes mellitus (E10-E14),Diabetes,Iowa,764,20.3
+
+4075,2007,Diabetes mellitus (E10-E14),Diabetes,Iowa,767,20.6
+
+4076,2006,Diabetes mellitus (E10-E14),Diabetes,Iowa,804,22
+
+4077,2005,Diabetes mellitus (E10-E14),Diabetes,Iowa,727,20.1
+
+4078,2004,Diabetes mellitus (E10-E14),Diabetes,Iowa,700,19.5
+
+4079,2003,Diabetes mellitus (E10-E14),Diabetes,Iowa,727,20.2
+
+4080,2002,Diabetes mellitus (E10-E14),Diabetes,Iowa,734,20.8
+
+4081,2001,Diabetes mellitus (E10-E14),Diabetes,Iowa,709,20.1
+
+4082,2000,Diabetes mellitus (E10-E14),Diabetes,Iowa,630,18.1
+
+4083,1999,Diabetes mellitus (E10-E14),Diabetes,Iowa,684,19.7
+
+5002,2016,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Iowa,6937,162.8
+
+5003,2015,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Iowa,6813,160.9
+
+5004,2014,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Iowa,6615,157.3
+
+5005,2013,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Iowa,6995,168.9
+
+5006,2012,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Iowa,7005,170.4
+
+5007,2011,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Iowa,6736,166
+
+5008,2010,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Iowa,6880,173.3
+
+5009,2009,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Iowa,6938,176.1
+
+5010,2008,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Iowa,7284,185.5
+
+5011,2007,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Iowa,6880,177.2
+
+5012,2006,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Iowa,7172,187.1
+
+5013,2005,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Iowa,7437,196.6
+
+5014,2004,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Iowa,7299,195
+
+5015,2003,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Iowa,7840,210.9
+
+5016,2002,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Iowa,8181,221.5
+
+5017,2001,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Iowa,8250,225.1
+
+5018,2000,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Iowa,8559,236.1
+
+5019,1999,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Iowa,8699,240.3
+
+5938,2016,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Iowa,504,11.6
+
+5939,2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Iowa,618,14.2
+
+5940,2014,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Iowa,582,13.7
+
+5941,2013,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Iowa,761,17.8
+
+5942,2012,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Iowa,664,15.6
+
+5943,2011,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Iowa,660,15.7
+
+5944,2010,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Iowa,560,13.7
+
+5945,2009,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Iowa,661,16.6
+
+5946,2008,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Iowa,829,20.3
+
+5947,2007,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Iowa,749,18.5
+
+5948,2006,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Iowa,770,19.3
+
+5949,2005,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Iowa,896,22.4
+
+5950,2004,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Iowa,890,22.7
+
+5951,2003,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Iowa,1032,26.3
+
+5952,2002,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Iowa,942,24.4
+
+5953,2001,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Iowa,877,22.9
+
+5954,2000,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Iowa,937,24.8
+
+5955,1999,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Iowa,1082,28.4
+
+6874,2016,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Iowa,352,8.3
+
+6875,2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Iowa,336,8
+
+6876,2014,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Iowa,313,7.6
+
+6877,2013,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Iowa,369,8.8
+
+6878,2012,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Iowa,322,7.9
+
+6879,2011,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Iowa,316,7.8
+
+6880,2010,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Iowa,323,8.1
+
+6881,2009,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Iowa,302,7.6
+
+6882,2008,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Iowa,304,7.8
+
+6883,2007,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Iowa,272,6.9
+
+6884,2006,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Iowa,225,5.8
+
+6885,2005,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Iowa,250,6.4
+
+6886,2004,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Iowa,266,7.2
+
+6887,2003,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Iowa,241,6.5
+
+6888,2002,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Iowa,261,7.1
+
+6889,2001,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Iowa,220,6
+
+6890,2000,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Iowa,313,8.6
+
+6891,1999,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Iowa,226,6.4
+
+7810,2016,Cerebrovascular diseases (I60-I69),Stroke,Iowa,1388,32.3
+
+7811,2015,Cerebrovascular diseases (I60-I69),Stroke,Iowa,1418,33.2
+
+7812,2014,Cerebrovascular diseases (I60-I69),Stroke,Iowa,1433,34
+
+7813,2013,Cerebrovascular diseases (I60-I69),Stroke,Iowa,1409,33.9
+
+7814,2012,Cerebrovascular diseases (I60-I69),Stroke,Iowa,1422,34.1
+
+7815,2011,Cerebrovascular diseases (I60-I69),Stroke,Iowa,1432,34.9
+
+7816,2010,Cerebrovascular diseases (I60-I69),Stroke,Iowa,1537,38
+
+7817,2009,Cerebrovascular diseases (I60-I69),Stroke,Iowa,1635,41.2
+
+7818,2008,Cerebrovascular diseases (I60-I69),Stroke,Iowa,1732,43.6
+
+7819,2007,Cerebrovascular diseases (I60-I69),Stroke,Iowa,1686,42.8
+
+7820,2006,Cerebrovascular diseases (I60-I69),Stroke,Iowa,1718,43.6
+
+7821,2005,Cerebrovascular diseases (I60-I69),Stroke,Iowa,1902,49.2
+
+7822,2004,Cerebrovascular diseases (I60-I69),Stroke,Iowa,1960,50.5
+
+7823,2003,Cerebrovascular diseases (I60-I69),Stroke,Iowa,2081,54.5
+
+7824,2002,Cerebrovascular diseases (I60-I69),Stroke,Iowa,2226,58.5
+
+7825,2001,Cerebrovascular diseases (I60-I69),Stroke,Iowa,2218,59.1
+
+7826,2000,Cerebrovascular diseases (I60-I69),Stroke,Iowa,2187,58.3
+
+7827,1999,Cerebrovascular diseases (I60-I69),Stroke,Iowa,2317,62.1
+
+8746,2016,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Iowa,451,14.6
+
+8747,2015,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Iowa,433,13.9
+
+8748,2014,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Iowa,407,12.9
+
+8749,2013,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Iowa,447,14.4
+
+8750,2012,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Iowa,383,12.7
+
+8751,2011,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Iowa,422,13.9
+
+8752,2010,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Iowa,372,12.1
+
+8753,2009,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Iowa,361,11.9
+
+8754,2008,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Iowa,380,12.6
+
+8755,2007,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Iowa,322,10.7
+
+8756,2006,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Iowa,334,11.2
+
+8757,2005,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Iowa,333,11.2
+
+8758,2004,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Iowa,343,11.5
+
+8759,2003,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Iowa,352,11.9
+
+8760,2002,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Iowa,314,10.7
+
+8761,2001,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Iowa,304,10.2
+
+8762,2000,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Iowa,289,9.8
+
+8763,1999,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Iowa,305,10.3
+
+9667,2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Iowa,1537,42.1
+
+9668,2014,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Iowa,1517,42.1
+
+9669,2013,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Iowa,1422,40
+
+9670,2012,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Iowa,1369,39.7
+
+9671,2011,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Iowa,1369,39.6
+
+9672,2010,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Iowa,1273,37.2
+
+9673,2009,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Iowa,1255,37
+
+9674,2008,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Iowa,1266,37.8
+
+9675,2007,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Iowa,1252,37.5
+
+9676,2006,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Iowa,1188,35.7
+
+9677,2005,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Iowa,1202,36.7
+
+9678,2004,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Iowa,1108,33.4
+
+9679,2003,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Iowa,1164,35.4
+
+9680,2002,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Iowa,1093,33.6
+
+9681,2001,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Iowa,1051,32.5
+
+9682,2000,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Iowa,1070,33.4
+
+9683,1999,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Iowa,1123,35.2
+

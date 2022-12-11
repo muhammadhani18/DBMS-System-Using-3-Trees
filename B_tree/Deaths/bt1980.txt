@@ -1,0 +1,8 @@
+3524,2000,Chronic lower respiratory diseases (J40-J47),CLRD,Oklahoma,1980,55.2
+
+8194,2010,Cerebrovascular diseases (I60-I69),Stroke,Oklahoma,1980,50
+
+3524,2000,Chronic lower respiratory diseases (J40-J47),CLRD,Oklahoma,1980,55.2
+
+8194,2010,Cerebrovascular diseases (I60-I69),Stroke,Oklahoma,1980,50
+

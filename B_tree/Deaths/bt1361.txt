@@ -1,0 +1,12 @@
+1320,2008,Alzheimer's disease (G30),Alzheimer's disease,Louisiana,1361,33.4
+
+4190,2000,Diabetes mellitus (E10-E14),Diabetes,Massachusetts,1361,19.8
+
+6991,2007,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Massachusetts,1361,18
+
+1320,2008,Alzheimer's disease (G30),Alzheimer's disease,Louisiana,1361,33.4
+
+4190,2000,Diabetes mellitus (E10-E14),Diabetes,Massachusetts,1361,19.8
+
+6991,2007,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Massachusetts,1361,18
+

@@ -1,0 +1,6 @@
+4796,2006,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Arkansas,7431,240.5
+
+5166,2015,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Mississippi,7969,240.5
+
+5624,2006,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,West Virginia,5311,240.5
+

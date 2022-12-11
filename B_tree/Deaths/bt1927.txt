@@ -1,0 +1,12 @@
+1443,2011,Alzheimer's disease (G30),Alzheimer's disease,Missouri,1927,27.4
+
+3236,2000,Chronic lower respiratory diseases (J40-J47),CLRD,Maryland,1927,40.9
+
+7630,2016,Cerebrovascular diseases (I60-I69),Stroke,Colorado,1927,35.2
+
+1443,2011,Alzheimer's disease (G30),Alzheimer's disease,Missouri,1927,27.4
+
+3236,2000,Chronic lower respiratory diseases (J40-J47),CLRD,Maryland,1927,40.9
+
+7630,2016,Cerebrovascular diseases (I60-I69),Stroke,Colorado,1927,35.2
+

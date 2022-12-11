@@ -1,0 +1,6 @@
+7999,2007,Cerebrovascular diseases (I60-I69),Stroke,Missouri,3229,49.4
+
+8388,2014,Cerebrovascular diseases (I60-I69),Stroke,Virginia,3229,37
+
+9769,2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Massachusetts,3229,44
+

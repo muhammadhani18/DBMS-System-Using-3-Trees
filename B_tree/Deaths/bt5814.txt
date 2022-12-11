@@ -1,0 +1,4 @@
+7950,2002,Cerebrovascular diseases (I60-I69),Stroke,Michigan,5814,59
+
+7950,2002,Cerebrovascular diseases (I60-I69),Stroke,Michigan,5814,59
+

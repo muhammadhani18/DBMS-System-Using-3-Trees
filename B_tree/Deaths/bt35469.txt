@@ -1,0 +1,4 @@
+2505,2011,Malignant neoplasms (C00-C97),Cancer,New York,35469,160.6
+
+2505,2011,Malignant neoplasms (C00-C97),Cancer,New York,35469,160.6
+

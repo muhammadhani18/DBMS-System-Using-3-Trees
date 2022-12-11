@@ -1,0 +1,4 @@
+4025,2003,Diabetes mellitus (E10-E14),Diabetes,Idaho,358,28.3
+
+6483,2011,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Utah,358,17.1
+

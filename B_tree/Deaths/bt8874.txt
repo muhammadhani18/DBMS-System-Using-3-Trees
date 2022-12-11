@@ -1,0 +1,8 @@
+178,2016,All Causes,All causes,Delaware,8874,746.2
+
+3642,2008,Chronic lower respiratory diseases (J40-J47),CLRD,Texas,8874,45.1
+
+178,2016,All Causes,All causes,Delaware,8874,746.2
+
+3642,2008,Chronic lower respiratory diseases (J40-J47),CLRD,Texas,8874,45.1
+

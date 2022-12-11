@@ -1,0 +1,10 @@
+1302,2008,Alzheimer's disease (G30),Alzheimer's disease,Kentucky,1370,32.3
+
+3368,2012,Chronic lower respiratory diseases (J40-J47),CLRD,Nevada,1370,52
+
+5574,2002,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Vermont,1370,212
+
+6048,2014,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Massachusetts,1370,15.8
+
+7834,2010,Cerebrovascular diseases (I60-I69),Stroke,Kansas,1370,41.2
+

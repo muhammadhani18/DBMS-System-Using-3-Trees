@@ -1,0 +1,8 @@
+1549,2013,Alzheimer's disease (G30),Alzheimer's disease,New Mexico,339,14.9
+
+2999,2003,Chronic lower respiratory diseases (J40-J47),CLRD,Delaware,339,40.6
+
+1549,2013,Alzheimer's disease (G30),Alzheimer's disease,New Mexico,339,14.9
+
+2999,2003,Chronic lower respiratory diseases (J40-J47),CLRD,Delaware,339,40.6
+

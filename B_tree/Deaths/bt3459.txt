@@ -1,0 +1,12 @@
+2412,2014,Malignant neoplasms (C00-C97),Cancer,Nebraska,3459,159.6
+
+2413,2013,Malignant neoplasms (C00-C97),Cancer,Nebraska,3459,161.3
+
+5227,2008,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Nebraska,3459,163.2
+
+2412,2014,Malignant neoplasms (C00-C97),Cancer,Nebraska,3459,159.6
+
+2413,2013,Malignant neoplasms (C00-C97),Cancer,Nebraska,3459,161.3
+
+5227,2008,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Nebraska,3459,163.2
+

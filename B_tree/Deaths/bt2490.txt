@@ -1,0 +1,4 @@
+10273,2005,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wisconsin,2490,42.8
+
+10273,2005,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wisconsin,2490,42.8
+

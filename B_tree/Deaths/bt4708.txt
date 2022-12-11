@@ -1,0 +1,8 @@
+3459,2011,Chronic lower respiratory diseases (J40-J47),CLRD,North Carolina,4708,46.7
+
+9968,2003,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,New York,4708,23.9
+
+3459,2011,Chronic lower respiratory diseases (J40-J47),CLRD,North Carolina,4708,46.7
+
+9968,2003,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,New York,4708,23.9
+

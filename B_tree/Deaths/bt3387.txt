@@ -1,0 +1,8 @@
+3050,2006,Chronic lower respiratory diseases (J40-J47),CLRD,Georgia,3387,46.3
+
+6449,2009,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Texas,3387,16.5
+
+3050,2006,Chronic lower respiratory diseases (J40-J47),CLRD,Georgia,3387,46.3
+
+6449,2009,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Texas,3387,16.5
+

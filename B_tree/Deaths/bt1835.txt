@@ -1,0 +1,8 @@
+1078,2016,Alzheimer's disease (G30),Alzheimer's disease,Colorado,1835,34.7
+
+8215,2007,Cerebrovascular diseases (I60-I69),Stroke,Oregon,1835,43.7
+
+1078,2016,Alzheimer's disease (G30),Alzheimer's disease,Colorado,1835,34.7
+
+8215,2007,Cerebrovascular diseases (I60-I69),Stroke,Oregon,1835,43.7
+

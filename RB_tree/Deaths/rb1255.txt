@@ -1,0 +1,6 @@
+2769,1999,Malignant neoplasms (C00-C97),Cancer,Vermont,1255,203.7
+
+3797,2015,Diabetes mellitus (E10-E14),Diabetes,Alabama,1255,21.7
+
+9673,2009,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Iowa,1255,37
+

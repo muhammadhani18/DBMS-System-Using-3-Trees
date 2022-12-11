@@ -1,0 +1,6 @@
+2332,2004,Malignant neoplasms (C00-C97),Cancer,Michigan,19653,190.9
+
+2383,2007,Malignant neoplasms (C00-C97),Cancer,Missouri,12380,190.9
+
+2729,2003,Malignant neoplasms (C00-C97),Cancer,United States,556902,190.9
+

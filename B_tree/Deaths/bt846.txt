@@ -1,0 +1,20 @@
+4692,2002,Diabetes mellitus (E10-E14),Diabetes,West Virginia,846,39.5
+
+4751,2015,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Alaska,846,154.1
+
+5730,2008,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arkansas,846,26.8
+
+6093,2005,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Minnesota,846,15.1
+
+7335,2006,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,South Carolina,846,19.5
+
+4692,2002,Diabetes mellitus (E10-E14),Diabetes,West Virginia,846,39.5
+
+4751,2015,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Alaska,846,154.1
+
+5730,2008,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arkansas,846,26.8
+
+6093,2005,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Minnesota,846,15.1
+
+7335,2006,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,South Carolina,846,19.5
+

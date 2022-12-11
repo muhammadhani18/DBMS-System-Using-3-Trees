@@ -1,0 +1,4 @@
+3272,2000,Chronic lower respiratory diseases (J40-J47),CLRD,Michigan,4352,45.3
+
+3272,2000,Chronic lower respiratory diseases (J40-J47),CLRD,Michigan,4352,45.3
+

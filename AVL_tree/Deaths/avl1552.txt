@@ -1,0 +1,4 @@
+1252,2004,Alzheimer's disease (G30),Alzheimer's disease,Indiana,1552,24.9
+
+3145,2001,Chronic lower respiratory diseases (J40-J47),CLRD,Iowa,1552,43.6
+

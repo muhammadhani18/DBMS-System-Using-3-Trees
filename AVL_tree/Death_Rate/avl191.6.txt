@@ -1,0 +1,6 @@
+2102,2000,Malignant neoplasms (C00-C97),Cancer,Florida,39183,191.6
+
+2839,2001,Malignant neoplasms (C00-C97),Cancer,Wisconsin,10777,191.6
+
+5281,2008,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,New Jersey,19056,191.6
+

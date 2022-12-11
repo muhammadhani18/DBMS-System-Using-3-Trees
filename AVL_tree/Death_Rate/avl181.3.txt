@@ -1,0 +1,4 @@
+2526,2008,Malignant neoplasms (C00-C97),Cancer,North Carolina,17453,181.3
+
+5356,2005,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,North Dakota,1512,181.3
+

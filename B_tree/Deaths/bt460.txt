@@ -1,0 +1,24 @@
+1488,2002,Alzheimer's disease (G30),Alzheimer's disease,Nebraska,460,22.3
+
+1730,2012,Alzheimer's disease (G30),Alzheimer's disease,South Dakota,460,39.4
+
+2991,2011,Chronic lower respiratory diseases (J40-J47),CLRD,Delaware,460,44.8
+
+4287,2011,Diabetes mellitus (E10-E14),Diabetes,Nebraska,460,21.7
+
+8013,2011,Cerebrovascular diseases (I60-I69),Stroke,Montana,460,37.9
+
+9914,2006,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,New Hampshire,460,34.1
+
+1488,2002,Alzheimer's disease (G30),Alzheimer's disease,Nebraska,460,22.3
+
+1730,2012,Alzheimer's disease (G30),Alzheimer's disease,South Dakota,460,39.4
+
+2991,2011,Chronic lower respiratory diseases (J40-J47),CLRD,Delaware,460,44.8
+
+4287,2011,Diabetes mellitus (E10-E14),Diabetes,Nebraska,460,21.7
+
+8013,2011,Cerebrovascular diseases (I60-I69),Stroke,Montana,460,37.9
+
+9914,2006,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,New Hampshire,460,34.1
+

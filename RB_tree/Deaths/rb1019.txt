@@ -1,0 +1,4 @@
+4068,2014,Diabetes mellitus (E10-E14),Diabetes,Iowa,1019,25.6
+
+6030,2014,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Maryland,1019,15.6
+

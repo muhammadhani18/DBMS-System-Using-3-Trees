@@ -1,0 +1,8 @@
+4861,2013,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Delaware,1861,168
+
+7662,2002,Cerebrovascular diseases (I60-I69),Stroke,Connecticut,1861,46
+
+4861,2013,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Delaware,1861,168
+
+7662,2002,Cerebrovascular diseases (I60-I69),Stroke,Connecticut,1861,46
+

@@ -1,0 +1,4 @@
+618,2008,All Causes,All causes,New Mexico,16005,788.6
+
+878,2000,All Causes,All causes,Utah,12364,788.6
+

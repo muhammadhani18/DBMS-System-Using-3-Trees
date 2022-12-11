@@ -1,0 +1,8 @@
+7022,2012,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Minnesota,669,10.8
+
+7029,2005,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Minnesota,669,12.3
+
+7030,2004,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Minnesota,669,12.5
+
+8079,1999,Cerebrovascular diseases (I60-I69),Stroke,New Hampshire,669,57.9
+

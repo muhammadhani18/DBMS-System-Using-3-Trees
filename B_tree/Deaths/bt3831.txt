@@ -1,0 +1,4 @@
+22,2016,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Massachusetts,3831,52.8
+
+22,2016,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Massachusetts,3831,52.8
+

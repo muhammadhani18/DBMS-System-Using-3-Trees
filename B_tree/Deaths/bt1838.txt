@@ -1,0 +1,8 @@
+5213,2004,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Montana,1838,175.1
+
+9716,2000,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Kentucky,1838,45.7
+
+5213,2004,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Montana,1838,175.1
+
+9716,2000,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Kentucky,1838,45.7
+

@@ -1,0 +1,6 @@
+1932,2008,Malignant neoplasms (C00-C97),Cancer,Alabama,10182,197.5
+
+2186,2006,Malignant neoplasms (C00-C97),Cancer,Indiana,12903,197.5
+
+2687,2009,Malignant neoplasms (C00-C97),Cancer,Tennessee,13482,197.5
+

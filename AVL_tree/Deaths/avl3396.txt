@@ -1,0 +1,4 @@
+2898,2014,Chronic lower respiratory diseases (J40-J47),CLRD,Arizona,3396,42.2
+
+9596,2001,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Georgia,3396,43.8
+

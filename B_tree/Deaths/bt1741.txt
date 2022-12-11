@@ -1,0 +1,4 @@
+7600,2010,Cerebrovascular diseases (I60-I69),Stroke,Arkansas,1741,53.8
+
+7600,2010,Cerebrovascular diseases (I60-I69),Stroke,Arkansas,1741,53.8
+

@@ -1,0 +1,4 @@
+32,2016,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,New Mexico,1487,69.5
+
+8204,2000,Cerebrovascular diseases (I60-I69),Stroke,Oklahoma,2493,69.5
+

@@ -1,0 +1,16 @@
+1188,2014,Alzheimer's disease (G30),Alzheimer's disease,Hawaii,326,15
+
+9362,2012,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,West Virginia,326,17.1
+
+9440,2004,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Alaska,326,56
+
+9992,2013,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,North Dakota,326,41.7
+
+1188,2014,Alzheimer's disease (G30),Alzheimer's disease,Hawaii,326,15
+
+9362,2012,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,West Virginia,326,17.1
+
+9440,2004,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Alaska,326,56
+
+9992,2013,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,North Dakota,326,41.7
+

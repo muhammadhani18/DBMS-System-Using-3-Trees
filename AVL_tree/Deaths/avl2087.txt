@@ -1,0 +1,4 @@
+1889,2015,Alzheimer's disease (G30),Alzheimer's disease,Wisconsin,2087,27.5
+
+6060,2002,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Massachusetts,2087,28.6
+

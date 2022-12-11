@@ -1,0 +1,2 @@
+7805,2003,Cerebrovascular diseases (I60-I69),Stroke,Indiana,3627,58.7
+

@@ -1,0 +1,8 @@
+2064,2002,Malignant neoplasms (C00-C97),Cancer,Delaware,1621,194.8
+
+2170,2004,Malignant neoplasms (C00-C97),Cancer,Illinois,24289,194.8
+
+2458,2004,Malignant neoplasms (C00-C97),Cancer,New Hampshire,2554,194.8
+
+5304,2003,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,New Mexico,3402,194.8
+

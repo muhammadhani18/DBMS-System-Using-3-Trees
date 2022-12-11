@@ -1,0 +1,6 @@
+6033,2011,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Maryland,1036,17.1
+
+6615,2005,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Alabama,1036,22.1
+
+7363,2014,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Tennessee,1036,14.1
+

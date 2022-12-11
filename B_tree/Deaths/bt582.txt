@@ -1,0 +1,16 @@
+4362,2008,Diabetes mellitus (E10-E14),Diabetes,New Mexico,582,28.3
+
+4368,2002,Diabetes mellitus (E10-E14),Diabetes,New Mexico,582,33
+
+5940,2014,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Iowa,582,13.7
+
+6893,2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Kansas,582,16.8
+
+4362,2008,Diabetes mellitus (E10-E14),Diabetes,New Mexico,582,28.3
+
+4368,2002,Diabetes mellitus (E10-E14),Diabetes,New Mexico,582,33
+
+5940,2014,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Iowa,582,13.7
+
+6893,2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Kansas,582,16.8
+

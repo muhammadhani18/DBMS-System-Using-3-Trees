@@ -1,0 +1,20 @@
+1118,2012,Alzheimer's disease (G30),Alzheimer's disease,Delaware,213,20.2
+
+4505,2009,Diabetes mellitus (E10-E14),Diabetes,Rhode Island,213,16.6
+
+6147,2005,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Montana,213,19.5
+
+6407,2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,South Dakota,213,18.2
+
+8461,2013,Cerebrovascular diseases (I60-I69),Stroke,Wyoming,213,35.1
+
+1118,2012,Alzheimer's disease (G30),Alzheimer's disease,Delaware,213,20.2
+
+4505,2009,Diabetes mellitus (E10-E14),Diabetes,Rhode Island,213,16.6
+
+6147,2005,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Montana,213,19.5
+
+6407,2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,South Dakota,213,18.2
+
+8461,2013,Cerebrovascular diseases (I60-I69),Stroke,Wyoming,213,35.1
+

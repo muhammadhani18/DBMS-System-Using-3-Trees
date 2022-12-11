@@ -1,0 +1,12 @@
+3909,2011,Diabetes mellitus (E10-E14),Diabetes,Connecticut,692,15.5
+
+4070,2012,Diabetes mellitus (E10-E14),Diabetes,Iowa,692,17.6
+
+7040,2012,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Mississippi,692,22.2
+
+3909,2011,Diabetes mellitus (E10-E14),Diabetes,Connecticut,692,15.5
+
+4070,2012,Diabetes mellitus (E10-E14),Diabetes,Iowa,692,17.6
+
+7040,2012,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Mississippi,692,22.2
+

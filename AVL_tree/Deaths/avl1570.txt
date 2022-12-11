@@ -1,0 +1,8 @@
+1380,2002,Alzheimer's disease (G30),Alzheimer's disease,Massachusetts,1570,21.2
+
+1714,2010,Alzheimer's disease (G30),Alzheimer's disease,South Carolina,1570,34.7
+
+2670,2008,Malignant neoplasms (C00-C97),Cancer,South Dakota,1570,168.4
+
+2672,2006,Malignant neoplasms (C00-C97),Cancer,South Dakota,1570,173.1
+

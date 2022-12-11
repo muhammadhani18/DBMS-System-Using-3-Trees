@@ -1,0 +1,8 @@
+4266,2014,Diabetes mellitus (E10-E14),Diabetes,Montana,250,19.2
+
+4267,2013,Diabetes mellitus (E10-E14),Diabetes,Montana,250,19.7
+
+6885,2005,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Iowa,250,6.4
+
+6957,2005,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Maine,250,15.9
+

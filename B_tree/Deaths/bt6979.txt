@@ -1,0 +1,4 @@
+3875,2009,Diabetes mellitus (E10-E14),Diabetes,California,6979,19.8
+
+3875,2009,Diabetes mellitus (E10-E14),Diabetes,California,6979,19.8
+

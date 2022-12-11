@@ -1,0 +1,4 @@
+9973,2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,North Carolina,4991,47.9
+
+9973,2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,North Carolina,4991,47.9
+

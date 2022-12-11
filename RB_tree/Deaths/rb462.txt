@@ -1,0 +1,10 @@
+7501,2002,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,West Virginia,462,21.6
+
+8015,2009,Cerebrovascular diseases (I60-I69),Stroke,Montana,462,39.5
+
+8250,2008,Cerebrovascular diseases (I60-I69),Stroke,Rhode Island,462,34.1
+
+8535,2011,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arkansas,462,16
+
+10110,2014,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,South Dakota,462,49.2
+

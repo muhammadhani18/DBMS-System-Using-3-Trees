@@ -1,0 +1,396 @@
+8,2016,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Delaware,516,52.4
+
+178,2016,All Causes,All causes,Delaware,8874,746.2
+
+179,2015,All Causes,All causes,Delaware,8582,741.5
+
+180,2014,All Causes,All causes,Delaware,8260,734
+
+181,2013,All Causes,All causes,Delaware,7967,726.8
+
+182,2012,All Causes,All causes,Delaware,7875,745.4
+
+183,2011,All Causes,All causes,Delaware,7845,764.2
+
+184,2010,All Causes,All causes,Delaware,7706,769.9
+
+185,2009,All Causes,All causes,Delaware,7534,768
+
+186,2008,All Causes,All causes,Delaware,7622,793.5
+
+187,2007,All Causes,All causes,Delaware,7327,786.1
+
+188,2006,All Causes,All causes,Delaware,7204,795.7
+
+189,2005,All Causes,All causes,Delaware,7472,851.4
+
+190,2004,All Causes,All causes,Delaware,7143,838.2
+
+191,2003,All Causes,All causes,Delaware,7070,852.9
+
+192,2002,All Causes,All causes,Delaware,6861,849.3
+
+193,2001,All Causes,All causes,Delaware,7112,903.1
+
+194,2000,All Causes,All causes,Delaware,6875,897.1
+
+195,1999,All Causes,All causes,Delaware,6666,881.6
+
+1114,2016,Alzheimer's disease (G30),Alzheimer's disease,Delaware,329,27.4
+
+1115,2015,Alzheimer's disease (G30),Alzheimer's disease,Delaware,264,22.6
+
+1116,2014,Alzheimer's disease (G30),Alzheimer's disease,Delaware,188,16.6
+
+1117,2013,Alzheimer's disease (G30),Alzheimer's disease,Delaware,192,17.6
+
+1118,2012,Alzheimer's disease (G30),Alzheimer's disease,Delaware,213,20.2
+
+1119,2011,Alzheimer's disease (G30),Alzheimer's disease,Delaware,203,20
+
+1120,2010,Alzheimer's disease (G30),Alzheimer's disease,Delaware,215,21.9
+
+1121,2009,Alzheimer's disease (G30),Alzheimer's disease,Delaware,163,16.9
+
+1122,2008,Alzheimer's disease (G30),Alzheimer's disease,Delaware,204,21.7
+
+1123,2007,Alzheimer's disease (G30),Alzheimer's disease,Delaware,201,22.1
+
+1124,2006,Alzheimer's disease (G30),Alzheimer's disease,Delaware,189,21.6
+
+1125,2005,Alzheimer's disease (G30),Alzheimer's disease,Delaware,180,21.2
+
+1126,2004,Alzheimer's disease (G30),Alzheimer's disease,Delaware,155,19
+
+1127,2003,Alzheimer's disease (G30),Alzheimer's disease,Delaware,147,18.6
+
+1128,2002,Alzheimer's disease (G30),Alzheimer's disease,Delaware,128,16.7
+
+1129,2001,Alzheimer's disease (G30),Alzheimer's disease,Delaware,135,18
+
+1130,2000,Alzheimer's disease (G30),Alzheimer's disease,Delaware,110,15.1
+
+1131,1999,Alzheimer's disease (G30),Alzheimer's disease,Delaware,107,15
+
+2050,2016,Malignant neoplasms (C00-C97),Cancer,Delaware,2124,170.8
+
+2051,2015,Malignant neoplasms (C00-C97),Cancer,Delaware,2010,165.6
+
+2052,2014,Malignant neoplasms (C00-C97),Cancer,Delaware,1972,167.3
+
+2053,2013,Malignant neoplasms (C00-C97),Cancer,Delaware,1905,167.6
+
+2054,2012,Malignant neoplasms (C00-C97),Cancer,Delaware,1935,177
+
+2055,2011,Malignant neoplasms (C00-C97),Cancer,Delaware,1906,179.8
+
+2056,2010,Malignant neoplasms (C00-C97),Cancer,Delaware,1909,185.7
+
+2057,2009,Malignant neoplasms (C00-C97),Cancer,Delaware,1813,178.7
+
+2058,2008,Malignant neoplasms (C00-C97),Cancer,Delaware,1912,193.3
+
+2059,2007,Malignant neoplasms (C00-C97),Cancer,Delaware,1853,193.5
+
+2060,2006,Malignant neoplasms (C00-C97),Cancer,Delaware,1780,190.7
+
+2061,2005,Malignant neoplasms (C00-C97),Cancer,Delaware,1799,199.1
+
+2062,2004,Malignant neoplasms (C00-C97),Cancer,Delaware,1827,208.3
+
+2063,2003,Malignant neoplasms (C00-C97),Cancer,Delaware,1719,201.5
+
+2064,2002,Malignant neoplasms (C00-C97),Cancer,Delaware,1621,194.8
+
+2065,2001,Malignant neoplasms (C00-C97),Cancer,Delaware,1786,221
+
+2066,2000,Malignant neoplasms (C00-C97),Cancer,Delaware,1609,203.3
+
+2067,1999,Malignant neoplasms (C00-C97),Cancer,Delaware,1737,223.3
+
+2986,2016,Chronic lower respiratory diseases (J40-J47),CLRD,Delaware,544,43.7
+
+2987,2015,Chronic lower respiratory diseases (J40-J47),CLRD,Delaware,510,42.5
+
+2988,2014,Chronic lower respiratory diseases (J40-J47),CLRD,Delaware,458,40.2
+
+2989,2013,Chronic lower respiratory diseases (J40-J47),CLRD,Delaware,482,43.5
+
+2990,2012,Chronic lower respiratory diseases (J40-J47),CLRD,Delaware,420,39.1
+
+2991,2011,Chronic lower respiratory diseases (J40-J47),CLRD,Delaware,460,44.8
+
+2992,2010,Chronic lower respiratory diseases (J40-J47),CLRD,Delaware,441,44
+
+2993,2009,Chronic lower respiratory diseases (J40-J47),CLRD,Delaware,428,43.4
+
+2994,2008,Chronic lower respiratory diseases (J40-J47),CLRD,Delaware,472,48.9
+
+2995,2007,Chronic lower respiratory diseases (J40-J47),CLRD,Delaware,379,40.5
+
+2996,2006,Chronic lower respiratory diseases (J40-J47),CLRD,Delaware,344,37.9
+
+2997,2005,Chronic lower respiratory diseases (J40-J47),CLRD,Delaware,411,46.8
+
+2998,2004,Chronic lower respiratory diseases (J40-J47),CLRD,Delaware,345,40.4
+
+2999,2003,Chronic lower respiratory diseases (J40-J47),CLRD,Delaware,339,40.6
+
+3000,2002,Chronic lower respiratory diseases (J40-J47),CLRD,Delaware,350,43.3
+
+3001,2001,Chronic lower respiratory diseases (J40-J47),CLRD,Delaware,306,38.3
+
+3002,2000,Chronic lower respiratory diseases (J40-J47),CLRD,Delaware,341,44
+
+3003,1999,Chronic lower respiratory diseases (J40-J47),CLRD,Delaware,327,42.7
+
+3922,2016,Diabetes mellitus (E10-E14),Diabetes,Delaware,203,17
+
+3923,2015,Diabetes mellitus (E10-E14),Diabetes,Delaware,215,18.1
+
+3924,2014,Diabetes mellitus (E10-E14),Diabetes,Delaware,226,19.8
+
+3925,2013,Diabetes mellitus (E10-E14),Diabetes,Delaware,218,19.4
+
+3926,2012,Diabetes mellitus (E10-E14),Diabetes,Delaware,241,22.3
+
+3927,2011,Diabetes mellitus (E10-E14),Diabetes,Delaware,224,21.5
+
+3928,2010,Diabetes mellitus (E10-E14),Diabetes,Delaware,196,19.2
+
+3929,2009,Diabetes mellitus (E10-E14),Diabetes,Delaware,206,20.8
+
+3930,2008,Diabetes mellitus (E10-E14),Diabetes,Delaware,217,22.5
+
+3931,2007,Diabetes mellitus (E10-E14),Diabetes,Delaware,223,23.6
+
+3932,2006,Diabetes mellitus (E10-E14),Diabetes,Delaware,191,20.6
+
+3933,2005,Diabetes mellitus (E10-E14),Diabetes,Delaware,233,26.5
+
+3934,2004,Diabetes mellitus (E10-E14),Diabetes,Delaware,210,24.5
+
+3935,2003,Diabetes mellitus (E10-E14),Diabetes,Delaware,239,28.4
+
+3936,2002,Diabetes mellitus (E10-E14),Diabetes,Delaware,215,26.1
+
+3937,2001,Diabetes mellitus (E10-E14),Diabetes,Delaware,218,27.5
+
+3938,2000,Diabetes mellitus (E10-E14),Diabetes,Delaware,193,24.6
+
+3939,1999,Diabetes mellitus (E10-E14),Diabetes,Delaware,179,23.5
+
+4858,2016,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Delaware,1974,163.2
+
+4859,2015,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Delaware,1940,165.2
+
+4860,2014,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Delaware,1921,168.7
+
+4861,2013,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Delaware,1861,168
+
+4862,2012,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Delaware,1790,168.8
+
+4863,2011,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Delaware,1809,175.2
+
+4864,2010,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Delaware,1776,175.7
+
+4865,2009,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Delaware,1796,182.3
+
+4866,2008,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Delaware,1777,184.3
+
+4867,2007,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Delaware,1914,205.1
+
+4868,2006,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Delaware,1866,206
+
+4869,2005,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Delaware,2031,232.3
+
+4870,2004,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Delaware,2015,238.1
+
+4871,2003,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Delaware,2027,247.2
+
+4872,2002,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Delaware,1918,239.9
+
+4873,2001,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Delaware,2033,261.2
+
+4874,2000,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Delaware,1983,262.5
+
+4875,1999,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Delaware,2011,269.2
+
+5794,2016,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Delaware,132,10.7
+
+5795,2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Delaware,189,16.1
+
+5796,2014,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Delaware,156,13.8
+
+5797,2013,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Delaware,150,13.6
+
+5798,2012,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Delaware,121,11.3
+
+5799,2011,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Delaware,133,13
+
+5800,2010,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Delaware,138,13.8
+
+5801,2009,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Delaware,132,13.5
+
+5802,2008,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Delaware,135,14.4
+
+5803,2007,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Delaware,117,12.7
+
+5804,2006,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Delaware,138,15.6
+
+5805,2005,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Delaware,162,18.8
+
+5806,2004,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Delaware,145,17.4
+
+5807,2003,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Delaware,127,15.8
+
+5808,2002,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Delaware,168,21.4
+
+5809,2001,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Delaware,181,23.8
+
+5810,2000,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Delaware,229,31
+
+5811,1999,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Delaware,155,21.3
+
+6730,2016,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Delaware,208,17.1
+
+6731,2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Delaware,174,14.5
+
+6732,2014,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Delaware,173,14.8
+
+6733,2013,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Delaware,178,16
+
+6734,2012,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Delaware,139,12.7
+
+6735,2011,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Delaware,149,14.2
+
+6736,2010,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Delaware,158,15.4
+
+6737,2009,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Delaware,176,17.7
+
+6738,2008,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Delaware,189,19.8
+
+6739,2007,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Delaware,163,17.4
+
+6740,2006,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Delaware,152,16.9
+
+6741,2005,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Delaware,128,14.7
+
+6742,2004,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Delaware,128,15.1
+
+6743,2003,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Delaware,130,15.6
+
+6744,2002,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Delaware,117,14.5
+
+6745,2001,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Delaware,108,13.9
+
+6746,2000,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Delaware,111,14.4
+
+6747,1999,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Delaware,100,13.4
+
+7666,2016,Cerebrovascular diseases (I60-I69),Stroke,Delaware,506,41.6
+
+7667,2015,Cerebrovascular diseases (I60-I69),Stroke,Delaware,466,39.4
+
+7668,2014,Cerebrovascular diseases (I60-I69),Stroke,Delaware,439,38.8
+
+7669,2013,Cerebrovascular diseases (I60-I69),Stroke,Delaware,409,37
+
+7670,2012,Cerebrovascular diseases (I60-I69),Stroke,Delaware,404,38.2
+
+7671,2011,Cerebrovascular diseases (I60-I69),Stroke,Delaware,418,40.5
+
+7672,2010,Cerebrovascular diseases (I60-I69),Stroke,Delaware,407,40.7
+
+7673,2009,Cerebrovascular diseases (I60-I69),Stroke,Delaware,415,42.5
+
+7674,2008,Cerebrovascular diseases (I60-I69),Stroke,Delaware,365,37.9
+
+7675,2007,Cerebrovascular diseases (I60-I69),Stroke,Delaware,374,40.4
+
+7676,2006,Cerebrovascular diseases (I60-I69),Stroke,Delaware,384,42.9
+
+7677,2005,Cerebrovascular diseases (I60-I69),Stroke,Delaware,384,44.3
+
+7678,2004,Cerebrovascular diseases (I60-I69),Stroke,Delaware,350,41.8
+
+7679,2003,Cerebrovascular diseases (I60-I69),Stroke,Delaware,407,49.9
+
+7680,2002,Cerebrovascular diseases (I60-I69),Stroke,Delaware,405,51.4
+
+7681,2001,Cerebrovascular diseases (I60-I69),Stroke,Delaware,383,50.1
+
+7682,2000,Cerebrovascular diseases (I60-I69),Stroke,Delaware,430,57.6
+
+7683,1999,Cerebrovascular diseases (I60-I69),Stroke,Delaware,365,49.4
+
+8602,2016,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Delaware,119,11.5
+
+8603,2015,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Delaware,122,12.6
+
+8604,2014,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Delaware,126,13.2
+
+8605,2013,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Delaware,122,12.5
+
+8606,2012,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Delaware,125,13.2
+
+8607,2011,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Delaware,105,11
+
+8608,2010,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Delaware,106,11.3
+
+8609,2009,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Delaware,107,11.7
+
+8610,2008,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Delaware,109,11.9
+
+8611,2007,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Delaware,95,10.6
+
+8612,2006,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Delaware,91,10.3
+
+8613,2005,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Delaware,83,9.7
+
+8614,2004,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Delaware,93,11
+
+8615,2003,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Delaware,94,11.4
+
+8616,2002,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Delaware,74,9.1
+
+8617,2001,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Delaware,108,13.5
+
+8618,2000,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Delaware,82,10.4
+
+8619,1999,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Delaware,86,11
+
+9531,2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Delaware,449,46
+
+9532,2014,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Delaware,425,43.7
+
+9533,2013,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Delaware,412,42.9
+
+9534,2012,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Delaware,374,38.8
+
+9535,2011,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Delaware,338,36.4
+
+9536,2010,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Delaware,357,39.2
+
+9537,2009,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Delaware,333,36.8
+
+9538,2008,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Delaware,352,39.6
+
+9539,2007,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Delaware,309,34.8
+
+9540,2006,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Delaware,329,38
+
+9541,2005,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Delaware,293,34.5
+
+9542,2004,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Delaware,294,35.4
+
+9543,2003,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Delaware,287,34.9
+
+9544,2002,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Delaware,292,36.4
+
+9545,2001,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Delaware,290,36.6
+
+9546,2000,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Delaware,290,37.5
+
+9547,1999,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Delaware,267,35.3
+

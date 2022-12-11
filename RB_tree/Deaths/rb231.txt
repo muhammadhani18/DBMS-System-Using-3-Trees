@@ -1,0 +1,4 @@
+6010,2016,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Maine,231,12
+
+7695,2005,Cerebrovascular diseases (I60-I69),Stroke,District of Columbia,231,41.2
+

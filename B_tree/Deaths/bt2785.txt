@@ -1,0 +1,8 @@
+4206,2002,Diabetes mellitus (E10-E14),Diabetes,Michigan,2785,28
+
+5082,2008,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Maine,2785,164.6
+
+4206,2002,Diabetes mellitus (E10-E14),Diabetes,Michigan,2785,28
+
+5082,2008,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Maine,2785,164.6
+

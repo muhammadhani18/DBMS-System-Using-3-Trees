@@ -1,0 +1,4 @@
+5128,1999,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Massachusetts,15871,228.5
+
+5384,2013,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Oklahoma,9721,228.5
+

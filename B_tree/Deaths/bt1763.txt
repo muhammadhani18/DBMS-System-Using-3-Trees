@@ -1,0 +1,12 @@
+1842,2008,Alzheimer's disease (G30),Alzheimer's disease,Virginia,1763,24.6
+
+3199,2001,Chronic lower respiratory diseases (J40-J47),CLRD,Louisiana,1763,43.2
+
+8210,2012,Cerebrovascular diseases (I60-I69),Stroke,Oregon,1763,37.5
+
+1842,2008,Alzheimer's disease (G30),Alzheimer's disease,Virginia,1763,24.6
+
+3199,2001,Chronic lower respiratory diseases (J40-J47),CLRD,Louisiana,1763,43.2
+
+8210,2012,Cerebrovascular diseases (I60-I69),Stroke,Oregon,1763,37.5
+

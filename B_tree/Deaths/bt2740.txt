@@ -1,0 +1,12 @@
+2451,2011,Malignant neoplasms (C00-C97),Cancer,New Hampshire,2740,177.5
+
+7551,2006,Cerebrovascular diseases (I60-I69),Stroke,Alabama,2740,57.8
+
+8646,2008,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Florida,2740,13.9
+
+2451,2011,Malignant neoplasms (C00-C97),Cancer,New Hampshire,2740,177.5
+
+7551,2006,Cerebrovascular diseases (I60-I69),Stroke,Alabama,2740,57.8
+
+8646,2008,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Florida,2740,13.9
+

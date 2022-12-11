@@ -1,0 +1,24 @@
+1500,2008,Alzheimer's disease (G30),Alzheimer's disease,Nevada,279,14.5
+
+3061,2013,Chronic lower respiratory diseases (J40-J47),CLRD,Hawaii,279,15.6
+
+7484,2001,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Washington,279,5
+
+7698,2002,Cerebrovascular diseases (I60-I69),Stroke,District of Columbia,279,49.7
+
+9364,2010,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,West Virginia,279,14.1
+
+9998,2007,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,North Dakota,279,38.9
+
+1500,2008,Alzheimer's disease (G30),Alzheimer's disease,Nevada,279,14.5
+
+3061,2013,Chronic lower respiratory diseases (J40-J47),CLRD,Hawaii,279,15.6
+
+7484,2001,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Washington,279,5
+
+7698,2002,Cerebrovascular diseases (I60-I69),Stroke,District of Columbia,279,49.7
+
+9364,2010,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,West Virginia,279,14.1
+
+9998,2007,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,North Dakota,279,38.9
+

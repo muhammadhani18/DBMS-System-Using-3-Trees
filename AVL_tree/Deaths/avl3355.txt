@@ -1,0 +1,6 @@
+2421,2005,Malignant neoplasms (C00-C97),Cancer,Nebraska,3355,175.5
+
+2490,2008,Malignant neoplasms (C00-C97),Cancer,New Mexico,3355,160.3
+
+5225,2010,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Nebraska,3355,154.2
+

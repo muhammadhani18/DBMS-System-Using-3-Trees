@@ -1,0 +1,4 @@
+9923,2014,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,New Jersey,2970,30.9
+
+9923,2014,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,New Jersey,2970,30.9
+

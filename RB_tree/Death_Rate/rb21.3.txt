@@ -1,0 +1,48 @@
+1184,2000,Alzheimer's disease (G30),Alzheimer's disease,Georgia,1235,21.3
+
+1232,2006,Alzheimer's disease (G30),Alzheimer's disease,Illinois,2794,21.3
+
+1379,2003,Alzheimer's disease (G30),Alzheimer's disease,Massachusetts,1609,21.3
+
+1832,2000,Alzheimer's disease (G30),Alzheimer's disease,Vermont,134,21.3
+
+3884,2000,Diabetes mellitus (E10-E14),Diabetes,California,6190,21.3
+
+4142,2012,Diabetes mellitus (E10-E14),Diabetes,Maine,380,21.3
+
+4297,2001,Diabetes mellitus (E10-E14),Diabetes,Nebraska,400,21.3
+
+4536,2014,Diabetes mellitus (E10-E14),Diabetes,South Dakota,224,21.3
+
+4572,2014,Diabetes mellitus (E10-E14),Diabetes,Texas,5348,21.3
+
+4589,2015,Diabetes mellitus (E10-E14),Diabetes,United States,79535,21.3
+
+4663,2013,Diabetes mellitus (E10-E14),Diabetes,Washington,1616,21.3
+
+5811,1999,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Delaware,155,21.3
+
+6126,2008,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Missouri,1414,21.3
+
+6173,2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Nevada,630,21.3
+
+6274,2004,Influenza and pneumonia (J09-J18),Influenza and pneumonia,North Carolina,1686,21.3
+
+6613,2007,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Alabama,1051,21.3
+
+6791,2010,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Georgia,1753,21.3
+
+6792,2008,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Georgia,1668,21.3
+
+6796,2004,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Georgia,1458,21.3
+
+7038,2014,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Mississippi,701,21.3
+
+7117,2007,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Nevada,461,21.3
+
+7496,2007,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,West Virginia,480,21.3
+
+8997,1999,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Nevada,404,21.3
+
+9038,2012,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,New Mexico,442,21.3
+

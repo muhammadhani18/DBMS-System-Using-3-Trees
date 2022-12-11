@@ -1,0 +1,20 @@
+1335,2011,Alzheimer's disease (G30),Alzheimer's disease,Maine,481,26.8
+
+3602,2012,Chronic lower respiratory diseases (J40-J47),CLRD,South Dakota,481,45.7
+
+6553,2013,Influenza and pneumonia (J09-J18),Influenza and pneumonia,West Virginia,481,20.2
+
+7471,2014,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Washington,481,6.2
+
+7487,2016,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,West Virginia,481,19.3
+
+1335,2011,Alzheimer's disease (G30),Alzheimer's disease,Maine,481,26.8
+
+3602,2012,Chronic lower respiratory diseases (J40-J47),CLRD,South Dakota,481,45.7
+
+6553,2013,Influenza and pneumonia (J09-J18),Influenza and pneumonia,West Virginia,481,20.2
+
+7471,2014,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Washington,481,6.2
+
+7487,2016,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,West Virginia,481,19.3
+

@@ -1,0 +1,38 @@
+2998,2004,Chronic lower respiratory diseases (J40-J47),CLRD,Delaware,345,40.4
+
+3033,2005,Chronic lower respiratory diseases (J40-J47),CLRD,Florida,9482,40.4
+
+3035,2003,Chronic lower respiratory diseases (J40-J47),CLRD,Florida,9087,40.4
+
+3105,2005,Chronic lower respiratory diseases (J40-J47),CLRD,Illinois,5067,40.4
+
+3526,2016,Chronic lower respiratory diseases (J40-J47),CLRD,Oregon,2080,40.4
+
+3578,2000,Chronic lower respiratory diseases (J40-J47),CLRD,Rhode Island,500,40.4
+
+3718,2004,Chronic lower respiratory diseases (J40-J47),CLRD,Virginia,2730,40.4
+
+3730,2010,Chronic lower respiratory diseases (J40-J47),CLRD,Washington,2737,40.4
+
+7675,2007,Cerebrovascular diseases (I60-I69),Stroke,Delaware,374,40.4
+
+7846,2016,Cerebrovascular diseases (I60-I69),Stroke,Kentucky,2057,40.4
+
+7890,2008,Cerebrovascular diseases (I60-I69),Stroke,Maine,671,40.4
+
+7891,2007,Cerebrovascular diseases (I60-I69),Stroke,Maine,664,40.4
+
+7990,2016,Cerebrovascular diseases (I60-I69),Stroke,Missouri,3069,40.4
+
+9738,2012,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Maine,602,40.4
+
+10150,2008,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Texas,9189,40.4
+
+10153,2005,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Texas,8598,40.4
+
+10156,2002,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Texas,8232,40.4
+
+10169,2007,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,United States,123706,40.4
+
+10239,2005,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Washington,2543,40.4
+

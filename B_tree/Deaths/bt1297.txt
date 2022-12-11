@@ -1,0 +1,16 @@
+4161,2011,Diabetes mellitus (E10-E14),Diabetes,Maryland,1297,21.2
+
+5715,2005,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arizona,1297,22.6
+
+6996,2002,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Massachusetts,1297,18.1
+
+9948,2006,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,New Mexico,1297,67.6
+
+4161,2011,Diabetes mellitus (E10-E14),Diabetes,Maryland,1297,21.2
+
+5715,2005,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arizona,1297,22.6
+
+6996,2002,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Massachusetts,1297,18.1
+
+9948,2006,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,New Mexico,1297,67.6
+

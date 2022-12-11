@@ -1,0 +1,4 @@
+761,2009,All Causes,All causes,Rhode Island,9395,711
+
+10145,2013,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Texas,9395,37
+

@@ -1,0 +1,8 @@
+2597,2009,Malignant neoplasms (C00-C97),Cancer,Oregon,7487,172.7
+
+4970,2012,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Illinois,24667,172.7
+
+5095,2013,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Maryland,11244,172.7
+
+5641,2007,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Wisconsin,11110,172.7
+

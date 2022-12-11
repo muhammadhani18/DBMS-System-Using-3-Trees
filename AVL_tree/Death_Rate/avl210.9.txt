@@ -1,0 +1,4 @@
+1941,1999,Malignant neoplasms (C00-C97),Cancer,Alabama,9506,210.9
+
+5015,2003,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Iowa,7840,210.9
+

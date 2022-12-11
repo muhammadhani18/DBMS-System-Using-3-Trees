@@ -1,0 +1,6 @@
+2716,2016,Malignant neoplasms (C00-C97),Cancer,United States,598038,155.8
+
+5202,2015,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Montana,2104,155.8
+
+5327,2016,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,North Carolina,18266,155.8
+

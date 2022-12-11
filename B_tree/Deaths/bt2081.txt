@@ -1,0 +1,12 @@
+3833,2015,Diabetes mellitus (E10-E14),Diabetes,Arizona,2081,25.3
+
+7823,2003,Cerebrovascular diseases (I60-I69),Stroke,Iowa,2081,54.5
+
+7958,2012,Cerebrovascular diseases (I60-I69),Stroke,Minnesota,2081,33
+
+3833,2015,Diabetes mellitus (E10-E14),Diabetes,Arizona,2081,25.3
+
+7823,2003,Cerebrovascular diseases (I60-I69),Stroke,Iowa,2081,54.5
+
+7958,2012,Cerebrovascular diseases (I60-I69),Stroke,Minnesota,2081,33
+

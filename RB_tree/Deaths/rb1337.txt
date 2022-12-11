@@ -1,0 +1,6 @@
+4711,2001,Diabetes mellitus (E10-E14),Diabetes,Wisconsin,1337,23.5
+
+6119,2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Missouri,1337,17.9
+
+9519,2010,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Connecticut,1337,33.6
+

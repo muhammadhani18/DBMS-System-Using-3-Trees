@@ -1,0 +1,6 @@
+3122,2006,Chronic lower respiratory diseases (J40-J47),CLRD,Indiana,3291,51
+
+7388,2007,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Texas,3291,17
+
+9800,2001,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Michigan,3291,33.3
+

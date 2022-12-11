@@ -1,0 +1,6 @@
+994,2010,Alzheimer's disease (G30),Alzheimer's disease,Alabama,1523,31.2
+
+3405,2011,Chronic lower respiratory diseases (J40-J47),CLRD,New Jersey,3157,31.2
+
+8252,2006,Cerebrovascular diseases (I60-I69),Stroke,Rhode Island,421,31.2
+

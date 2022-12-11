@@ -1,0 +1,4 @@
+231,1999,All Causes,All causes,Florida,163224,812.8
+
+281,2003,All Causes,All causes,Idaho,10380,812.8
+

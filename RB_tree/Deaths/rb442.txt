@@ -1,0 +1,10 @@
+1548,2014,Alzheimer's disease (G30),Alzheimer's disease,New Mexico,442,18.9
+
+4286,2012,Diabetes mellitus (E10-E14),Diabetes,Nebraska,442,20.7
+
+7498,2005,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,West Virginia,442,20.4
+
+8288,2006,Cerebrovascular diseases (I60-I69),Stroke,South Dakota,442,44
+
+9038,2012,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,New Mexico,442,21.3
+

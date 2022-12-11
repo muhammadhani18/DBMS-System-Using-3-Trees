@@ -1,0 +1,40 @@
+1490,2000,Alzheimer's disease (G30),Alzheimer's disease,Nebraska,353,17.4
+
+3691,2013,Chronic lower respiratory diseases (J40-J47),CLRD,Vermont,353,44.1
+
+4018,2010,Diabetes mellitus (E10-E14),Diabetes,Idaho,353,22.5
+
+4143,2011,Diabetes mellitus (E10-E14),Diabetes,Maine,353,20
+
+6226,2016,Influenza and pneumonia (J09-J18),Influenza and pneumonia,New Mexico,353,14.6
+
+6236,2006,Influenza and pneumonia (J09-J18),Influenza and pneumonia,New Mexico,353,18.9
+
+6237,2005,Influenza and pneumonia (J09-J18),Influenza and pneumonia,New Mexico,353,19.4
+
+7280,2006,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Oregon,353,8.8
+
+8590,2010,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Connecticut,353,9.4
+
+9431,2013,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Alaska,353,52.5
+
+1490,2000,Alzheimer's disease (G30),Alzheimer's disease,Nebraska,353,17.4
+
+3691,2013,Chronic lower respiratory diseases (J40-J47),CLRD,Vermont,353,44.1
+
+4018,2010,Diabetes mellitus (E10-E14),Diabetes,Idaho,353,22.5
+
+4143,2011,Diabetes mellitus (E10-E14),Diabetes,Maine,353,20
+
+6226,2016,Influenza and pneumonia (J09-J18),Influenza and pneumonia,New Mexico,353,14.6
+
+6236,2006,Influenza and pneumonia (J09-J18),Influenza and pneumonia,New Mexico,353,18.9
+
+6237,2005,Influenza and pneumonia (J09-J18),Influenza and pneumonia,New Mexico,353,19.4
+
+7280,2006,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Oregon,353,8.8
+
+8590,2010,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Connecticut,353,9.4
+
+9431,2013,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Alaska,353,52.5
+

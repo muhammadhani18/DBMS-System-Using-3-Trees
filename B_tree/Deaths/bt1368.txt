@@ -1,0 +1,16 @@
+1848,2002,Alzheimer's disease (G30),Alzheimer's disease,Virginia,1368,22.4
+
+2929,2001,Chronic lower respiratory diseases (J40-J47),CLRD,Arkansas,1368,46.5
+
+2970,2014,Chronic lower respiratory diseases (J40-J47),CLRD,Connecticut,1368,30.2
+
+5349,2012,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,North Dakota,1368,151.6
+
+1848,2002,Alzheimer's disease (G30),Alzheimer's disease,Virginia,1368,22.4
+
+2929,2001,Chronic lower respiratory diseases (J40-J47),CLRD,Arkansas,1368,46.5
+
+2970,2014,Chronic lower respiratory diseases (J40-J47),CLRD,Connecticut,1368,30.2
+
+5349,2012,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,North Dakota,1368,151.6
+

@@ -1,0 +1,12 @@
+3956,2000,Diabetes mellitus (E10-E14),Diabetes,District of Columbia,221,39.3
+
+3957,1999,Diabetes mellitus (E10-E14),Diabetes,District of Columbia,221,39.6
+
+5882,2000,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Hawaii,221,18.2
+
+7694,2006,Cerebrovascular diseases (I60-I69),Stroke,District of Columbia,221,40
+
+8375,2009,Cerebrovascular diseases (I60-I69),Stroke,Vermont,221,29.7
+
+8469,2005,Cerebrovascular diseases (I60-I69),Stroke,Wyoming,221,45.1
+

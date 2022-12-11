@@ -1,0 +1,4 @@
+2427,1999,Malignant neoplasms (C00-C97),Cancer,Nebraska,3410,189
+
+2685,2011,Malignant neoplasms (C00-C97),Cancer,Tennessee,13562,189
+

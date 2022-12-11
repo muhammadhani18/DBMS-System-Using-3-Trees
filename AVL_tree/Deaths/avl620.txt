@@ -1,0 +1,8 @@
+1872,2014,Alzheimer's disease (G30),Alzheimer's disease,West Virginia,620,25.5
+
+6900,2008,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Kansas,620,19.6
+
+7885,2013,Cerebrovascular diseases (I60-I69),Stroke,Maine,620,33.4
+
+9286,2016,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Utah,620,21.8
+

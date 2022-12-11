@@ -1,0 +1,4 @@
+5412,2003,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Oregon,7049,184.4
+
+5412,2003,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Oregon,7049,184.4
+

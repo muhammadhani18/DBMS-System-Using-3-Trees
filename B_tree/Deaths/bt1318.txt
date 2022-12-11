@@ -1,0 +1,8 @@
+2755,2013,Malignant neoplasms (C00-C97),Cancer,Vermont,1318,163.4
+
+5928,2008,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Indiana,1318,19.5
+
+2755,2013,Malignant neoplasms (C00-C97),Cancer,Vermont,1318,163.4
+
+5928,2008,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Indiana,1318,19.5
+

@@ -1,0 +1,6 @@
+7770,2002,Cerebrovascular diseases (I60-I69),Stroke,Idaho,736,60.2
+
+8741,2003,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Indiana,736,11.9
+
+9126,2014,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Oklahoma,736,19.1
+

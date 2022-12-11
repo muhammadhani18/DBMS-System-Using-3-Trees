@@ -1,0 +1,6 @@
+2126,2012,Malignant neoplasms (C00-C97),Cancer,Hawaii,2284,134.5
+
+9937,2000,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,New Jersey,2284,26.7
+
+10030,2009,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Oklahoma,2284,61.2
+

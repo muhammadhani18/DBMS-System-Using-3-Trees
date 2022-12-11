@@ -1,0 +1,16 @@
+5771,2003,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Colorado,810,23
+
+6328,2004,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Oklahoma,810,22.5
+
+7366,2011,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Tennessee,810,11.8
+
+8031,2011,Cerebrovascular diseases (I60-I69),Stroke,Nebraska,810,36.9
+
+5771,2003,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Colorado,810,23
+
+6328,2004,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Oklahoma,810,22.5
+
+7366,2011,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Tennessee,810,11.8
+
+8031,2011,Cerebrovascular diseases (I60-I69),Stroke,Nebraska,810,36.9
+

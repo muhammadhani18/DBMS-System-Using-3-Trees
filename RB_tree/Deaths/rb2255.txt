@@ -1,0 +1,4 @@
+7610,2000,Cerebrovascular diseases (I60-I69),Stroke,Arkansas,2255,77.2
+
+7611,1999,Cerebrovascular diseases (I60-I69),Stroke,Arkansas,2255,77.7
+

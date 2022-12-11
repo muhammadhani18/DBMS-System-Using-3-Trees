@@ -1,0 +1,8 @@
+5672,2012,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Alabama,942,17.9
+
+5674,2010,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Alabama,942,18.7
+
+5952,2002,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Iowa,942,24.4
+
+10252,2009,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,West Virginia,942,48.2
+

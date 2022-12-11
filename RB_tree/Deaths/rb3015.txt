@@ -1,0 +1,4 @@
+2864,2012,Chronic lower respiratory diseases (J40-J47),CLRD,Alabama,3015,55.2
+
+10264,2014,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wisconsin,3015,46.9
+

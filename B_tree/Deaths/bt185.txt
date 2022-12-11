@@ -1,0 +1,20 @@
+4412,2012,Diabetes mellitus (E10-E14),Diabetes,North Dakota,185,22
+
+6410,2012,Influenza and pneumonia (J09-J18),Influenza and pneumonia,South Dakota,185,16.6
+
+7571,2003,Cerebrovascular diseases (I60-I69),Stroke,Alaska,185,62.3
+
+9001,2013,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,New Hampshire,185,12.8
+
+9552,2011,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,District of Columbia,185,29.4
+
+4412,2012,Diabetes mellitus (E10-E14),Diabetes,North Dakota,185,22
+
+6410,2012,Influenza and pneumonia (J09-J18),Influenza and pneumonia,South Dakota,185,16.6
+
+7571,2003,Cerebrovascular diseases (I60-I69),Stroke,Alaska,185,62.3
+
+9001,2013,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,New Hampshire,185,12.8
+
+9552,2011,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,District of Columbia,185,29.4
+

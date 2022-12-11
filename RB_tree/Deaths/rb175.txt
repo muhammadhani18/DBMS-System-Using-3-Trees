@@ -1,0 +1,20 @@
+2887,2007,Chronic lower respiratory diseases (J40-J47),CLRD,Alaska,175,45.5
+
+3020,2000,Chronic lower respiratory diseases (J40-J47),CLRD,District of Columbia,175,31.3
+
+4634,2006,Diabetes mellitus (E10-E14),Diabetes,Vermont,175,25
+
+6962,2000,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Maine,175,12
+
+7129,2013,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,New Hampshire,175,11
+
+8681,2009,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Hawaii,175,12.5
+
+8829,2005,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Maine,175,12.4
+
+8835,1999,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Maine,175,13.4
+
+8956,2004,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Montana,175,18.8
+
+8959,2001,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Montana,175,19.3
+

@@ -1,0 +1,12 @@
+1487,2003,Alzheimer's disease (G30),Alzheimer's disease,Nebraska,461,22.2
+
+7117,2007,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Nevada,461,21.3
+
+7472,2013,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Washington,461,6.1
+
+8018,2006,Cerebrovascular diseases (I60-I69),Stroke,Montana,461,41.7
+
+8813,2003,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Louisiana,461,10.3
+
+9870,1999,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Montana,461,50.3
+

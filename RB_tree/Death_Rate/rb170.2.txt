@@ -1,0 +1,6 @@
+2346,2008,Malignant neoplasms (C00-C97),Cancer,Minnesota,9446,170.2
+
+2433,2011,Malignant neoplasms (C00-C97),Cancer,Nevada,4606,170.2
+
+2522,2012,Malignant neoplasms (C00-C97),Cancer,North Carolina,18405,170.2
+

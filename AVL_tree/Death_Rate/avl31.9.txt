@@ -1,0 +1,14 @@
+1818,2014,Alzheimer's disease (G30),Alzheimer's disease,Vermont,266,31.9
+
+3413,2003,Chronic lower respiratory diseases (J40-J47),CLRD,New Jersey,2910,31.9
+
+4228,2016,Diabetes mellitus (E10-E14),Diabetes,Mississippi,1084,31.9
+
+4366,2004,Diabetes mellitus (E10-E14),Diabetes,New Mexico,590,31.9
+
+4585,2001,Diabetes mellitus (E10-E14),Diabetes,Texas,5456,31.9
+
+7582,2010,Cerebrovascular diseases (I60-I69),Stroke,Arizona,2138,31.9
+
+9611,2003,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Hawaii,415,31.9
+

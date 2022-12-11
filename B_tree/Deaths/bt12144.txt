@@ -1,0 +1,4 @@
+2390,2000,Malignant neoplasms (C00-C97),Cancer,Missouri,12144,205.9
+
+2390,2000,Malignant neoplasms (C00-C97),Cancer,Missouri,12144,205.9
+

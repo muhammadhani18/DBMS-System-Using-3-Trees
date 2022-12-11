@@ -1,0 +1,42 @@
+1145,2003,Alzheimer's disease (G30),Alzheimer's disease,District of Columbia,95,17
+
+1707,1999,Alzheimer's disease (G30),Alzheimer's disease,Rhode Island,219,17
+
+1740,2002,Alzheimer's disease (G30),Alzheimer's disease,South Dakota,167,17
+
+3922,2016,Diabetes mellitus (E10-E14),Diabetes,Delaware,203,17
+
+5872,2010,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Hawaii,289,17
+
+5896,2004,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Idaho,219,17
+
+6053,2009,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Massachusetts,1348,17
+
+6122,2012,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Missouri,1213,17
+
+6162,2008,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Nebraska,366,17
+
+6288,2008,Influenza and pneumonia (J09-J18),Influenza and pneumonia,North Dakota,148,17
+
+6292,2004,Influenza and pneumonia (J09-J18),Influenza and pneumonia,North Dakota,148,17
+
+6414,2008,Influenza and pneumonia (J09-J18),Influenza and pneumonia,South Dakota,177,17
+
+6416,2006,Influenza and pneumonia (J09-J18),Influenza and pneumonia,South Dakota,173,17
+
+6451,2007,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Texas,3230,17
+
+6517,2013,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Virginia,1442,17
+
+6838,2016,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Illinois,2518,17
+
+6842,2012,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Illinois,2392,17
+
+7160,2000,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,New Jersey,1495,17
+
+7203,2011,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,North Carolina,1705,17
+
+7388,2007,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Texas,3291,17
+
+8518,2010,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arizona,1093,17
+

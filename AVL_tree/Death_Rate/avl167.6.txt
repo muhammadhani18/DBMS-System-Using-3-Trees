@@ -1,0 +1,8 @@
+2053,2013,Malignant neoplasms (C00-C97),Cancer,Delaware,1905,167.6
+
+2159,2015,Malignant neoplasms (C00-C97),Cancer,Illinois,24713,167.6
+
+2521,2013,Malignant neoplasms (C00-C97),Cancer,North Carolina,18589,167.6
+
+2631,2011,Malignant neoplasms (C00-C97),Cancer,Rhode Island,2170,167.6
+

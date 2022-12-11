@@ -1,0 +1,10 @@
+1037,2003,Alzheimer's disease (G30),Alzheimer's disease,Arizona,1703,32.9
+
+1843,2007,Alzheimer's disease (G30),Alzheimer's disease,Virginia,1703,24.4
+
+3141,2005,Chronic lower respiratory diseases (J40-J47),CLRD,Iowa,1703,47
+
+5865,1999,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Georgia,1703,28.3
+
+9831,2004,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Mississippi,1703,59.9
+

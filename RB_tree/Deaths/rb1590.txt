@@ -1,0 +1,10 @@
+1636,2016,Alzheimer's disease (G30),Alzheimer's disease,Oklahoma,1590,36.1
+
+2677,2001,Malignant neoplasms (C00-C97),Cancer,South Dakota,1590,188.5
+
+3745,2013,Chronic lower respiratory diseases (J40-J47),CLRD,West Virginia,1590,64.6
+
+3750,2008,Chronic lower respiratory diseases (J40-J47),CLRD,West Virginia,1590,68.9
+
+4668,2008,Diabetes mellitus (E10-E14),Diabetes,Washington,1590,24.1
+

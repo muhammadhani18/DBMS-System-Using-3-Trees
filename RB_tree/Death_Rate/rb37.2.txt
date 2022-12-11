@@ -1,0 +1,22 @@
+1582,2016,Alzheimer's disease (G30),Alzheimer's disease,North Carolina,4153,37.2
+
+1606,2010,Alzheimer's disease (G30),Alzheimer's disease,North Dakota,361,37.2
+
+7756,2016,Cerebrovascular diseases (I60-I69),Stroke,Idaho,682,37.2
+
+7760,2012,Cerebrovascular diseases (I60-I69),Stroke,Idaho,610,37.2
+
+8157,2011,Cerebrovascular diseases (I60-I69),Stroke,North Dakota,337,37.2
+
+8160,2008,Cerebrovascular diseases (I60-I69),Stroke,North Dakota,325,37.2
+
+8227,2013,Cerebrovascular diseases (I60-I69),Stroke,Pennsylvania,6604,37.2
+
+8445,2011,Cerebrovascular diseases (I60-I69),Stroke,Wisconsin,2554,37.2
+
+8463,2011,Cerebrovascular diseases (I60-I69),Stroke,Wyoming,214,37.2
+
+8464,2010,Cerebrovascular diseases (I60-I69),Stroke,Wyoming,204,37.2
+
+9672,2010,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Iowa,1273,37.2
+

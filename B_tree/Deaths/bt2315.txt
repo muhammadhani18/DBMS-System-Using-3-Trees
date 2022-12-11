@@ -1,0 +1,8 @@
+7903,2013,Cerebrovascular diseases (I60-I69),Stroke,Maryland,2315,36.1
+
+10101,2006,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,South Carolina,2315,53.3
+
+7903,2013,Cerebrovascular diseases (I60-I69),Stroke,Maryland,2315,36.1
+
+10101,2006,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,South Carolina,2315,53.3
+

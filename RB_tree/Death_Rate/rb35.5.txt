@@ -1,0 +1,12 @@
+8098,2016,Cerebrovascular diseases (I60-I69),Stroke,New Mexico,885,35.5
+
+8154,2014,Cerebrovascular diseases (I60-I69),Stroke,North Dakota,325,35.5
+
+8407,2013,Cerebrovascular diseases (I60-I69),Stroke,Washington,2652,35.5
+
+9746,2004,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Maine,480,35.5
+
+9814,2004,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Minnesota,1867,35.5
+
+10244,2000,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Washington,2049,35.5
+

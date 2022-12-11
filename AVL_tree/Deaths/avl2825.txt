@@ -1,0 +1,6 @@
+4195,2013,Diabetes mellitus (E10-E14),Diabetes,Michigan,2825,23.8
+
+4949,2015,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Idaho,2825,156.4
+
+10266,2012,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wisconsin,2825,44.7
+

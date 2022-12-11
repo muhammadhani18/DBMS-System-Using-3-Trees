@@ -1,0 +1,4 @@
+1844,2006,Alzheimer's disease (G30),Alzheimer's disease,Virginia,1574,23.2
+
+7836,2008,Cerebrovascular diseases (I60-I69),Stroke,Kansas,1574,48.6
+

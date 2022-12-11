@@ -1,0 +1,6 @@
+2964,2002,Chronic lower respiratory diseases (J40-J47),CLRD,Colorado,1848,53
+
+3218,2000,Chronic lower respiratory diseases (J40-J47),CLRD,Maine,768,53
+
+9423,2004,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Alabama,2403,53
+

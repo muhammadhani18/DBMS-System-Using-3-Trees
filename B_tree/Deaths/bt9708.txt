@@ -1,0 +1,8 @@
+587,2003,All Causes,All causes,New Hampshire,9708,767.3
+
+771,1999,All Causes,All causes,Rhode Island,9708,807.5
+
+587,2003,All Causes,All causes,New Hampshire,9708,767.3
+
+771,1999,All Causes,All causes,Rhode Island,9708,807.5
+

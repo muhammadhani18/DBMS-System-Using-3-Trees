@@ -1,0 +1,8 @@
+6118,2016,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Missouri,1150,15.1
+
+7361,2016,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Tennessee,1150,14.9
+
+6118,2016,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Missouri,1150,15.1
+
+7361,2016,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Tennessee,1150,14.9
+

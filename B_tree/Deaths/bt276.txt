@@ -1,0 +1,28 @@
+3702,2002,Chronic lower respiratory diseases (J40-J47),CLRD,Vermont,276,43.1
+
+3996,2014,Diabetes mellitus (E10-E14),Diabetes,Hawaii,276,15.4
+
+4316,2000,Diabetes mellitus (E10-E14),Diabetes,Nevada,276,15.4
+
+4325,2009,Diabetes mellitus (E10-E14),Diabetes,New Hampshire,276,18.7
+
+4499,2015,Diabetes mellitus (E10-E14),Diabetes,Rhode Island,276,20.2
+
+7168,2010,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,New Mexico,276,13.1
+
+9372,2002,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,West Virginia,276,14.9
+
+3702,2002,Chronic lower respiratory diseases (J40-J47),CLRD,Vermont,276,43.1
+
+3996,2014,Diabetes mellitus (E10-E14),Diabetes,Hawaii,276,15.4
+
+4316,2000,Diabetes mellitus (E10-E14),Diabetes,Nevada,276,15.4
+
+4325,2009,Diabetes mellitus (E10-E14),Diabetes,New Hampshire,276,18.7
+
+4499,2015,Diabetes mellitus (E10-E14),Diabetes,Rhode Island,276,20.2
+
+7168,2010,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,New Mexico,276,13.1
+
+9372,2002,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,West Virginia,276,14.9
+

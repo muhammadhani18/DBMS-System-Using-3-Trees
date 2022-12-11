@@ -1,0 +1,42 @@
+5776,2016,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Connecticut,572,11.7
+
+6341,2009,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Oregon,507,11.7
+
+6372,2014,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Rhode Island,176,11.7
+
+6811,2007,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Hawaii,176,11.7
+
+6948,2014,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Maine,223,11.7
+
+7162,2016,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,New Mexico,293,11.7
+
+7373,2004,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Tennessee,680,11.7
+
+7429,2002,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Utah,184,11.7
+
+7538,2001,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wyoming,54,11.7
+
+8488,2004,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Alabama,541,11.7
+
+8609,2009,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Delaware,107,11.7
+
+8660,2012,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Georgia,1168,11.7
+
+8661,2011,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Georgia,1157,11.7
+
+8662,2010,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Georgia,1133,11.7
+
+8743,2001,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Indiana,715,11.7
+
+8923,2001,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Mississippi,328,11.7
+
+8963,2015,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Nebraska,223,11.7
+
+9253,2013,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Texas,3059,11.7
+
+9328,2010,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Virginia,963,11.7
+
+9329,2009,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Virginia,963,11.7
+
+9391,2001,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wisconsin,639,11.7
+

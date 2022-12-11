@@ -1,0 +1,8 @@
+2,2016,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Alaska,439,63.1
+
+3781,2013,Chronic lower respiratory diseases (J40-J47),CLRD,Wyoming,387,63.1
+
+8004,2002,Cerebrovascular diseases (I60-I69),Stroke,Missouri,3885,63.1
+
+8439,1999,Cerebrovascular diseases (I60-I69),Stroke,West Virginia,1323,63.1
+

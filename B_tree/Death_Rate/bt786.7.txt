@@ -1,0 +1,6 @@
+99,2005,All Causes,All causes,Arizona,45827,786.7
+
+227,2003,All Causes,All causes,Florida,168657,786.7
+
+622,2004,All Causes,All causes,New Mexico,14298,786.7
+

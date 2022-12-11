@@ -1,0 +1,8 @@
+1846,2004,Alzheimer's disease (G30),Alzheimer's disease,Virginia,1480,23.2
+
+6429,2011,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Tennessee,1480,21.9
+
+6528,2002,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Virginia,1480,23.7
+
+9760,2007,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Maryland,1480,26.2
+

@@ -1,0 +1,396 @@
+7,2016,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Connecticut,1978,50.3
+
+160,2016,All Causes,All causes,Connecticut,30543,654
+
+161,2015,All Causes,All causes,Connecticut,30535,656.1
+
+162,2014,All Causes,All causes,Connecticut,29860,646.5
+
+163,2013,All Causes,All causes,Connecticut,29632,646.3
+
+164,2012,All Causes,All causes,Connecticut,29316,648.2
+
+165,2011,All Causes,All causes,Connecticut,29526,660.6
+
+166,2010,All Causes,All causes,Connecticut,28692,652.9
+
+167,2009,All Causes,All causes,Connecticut,28585,659.3
+
+168,2008,All Causes,All causes,Connecticut,28794,671.9
+
+169,2007,All Causes,All causes,Connecticut,28651,680.5
+
+170,2006,All Causes,All causes,Connecticut,29260,704.6
+
+171,2005,All Causes,All causes,Connecticut,29467,717.7
+
+172,2004,All Causes,All causes,Connecticut,29314,725.1
+
+173,2003,All Causes,All causes,Connecticut,29627,739.7
+
+174,2002,All Causes,All causes,Connecticut,30122,766.1
+
+175,2001,All Causes,All causes,Connecticut,29827,772.1
+
+176,2000,All Causes,All causes,Connecticut,30129,793
+
+177,1999,All Causes,All causes,Connecticut,29446,783.2
+
+1096,2016,Alzheimer's disease (G30),Alzheimer's disease,Connecticut,1035,20.3
+
+1097,2015,Alzheimer's disease (G30),Alzheimer's disease,Connecticut,966,19
+
+1098,2014,Alzheimer's disease (G30),Alzheimer's disease,Connecticut,923,18.4
+
+1099,2013,Alzheimer's disease (G30),Alzheimer's disease,Connecticut,824,16.2
+
+1100,2012,Alzheimer's disease (G30),Alzheimer's disease,Connecticut,842,16.8
+
+1101,2011,Alzheimer's disease (G30),Alzheimer's disease,Connecticut,813,16.4
+
+1102,2010,Alzheimer's disease (G30),Alzheimer's disease,Connecticut,820,17.1
+
+1103,2009,Alzheimer's disease (G30),Alzheimer's disease,Connecticut,778,16.3
+
+1104,2008,Alzheimer's disease (G30),Alzheimer's disease,Connecticut,839,17.8
+
+1105,2007,Alzheimer's disease (G30),Alzheimer's disease,Connecticut,764,16.6
+
+1106,2006,Alzheimer's disease (G30),Alzheimer's disease,Connecticut,728,16
+
+1107,2005,Alzheimer's disease (G30),Alzheimer's disease,Connecticut,777,17.4
+
+1108,2004,Alzheimer's disease (G30),Alzheimer's disease,Connecticut,684,15.7
+
+1109,2003,Alzheimer's disease (G30),Alzheimer's disease,Connecticut,612,14.2
+
+1110,2002,Alzheimer's disease (G30),Alzheimer's disease,Connecticut,570,13.6
+
+1111,2001,Alzheimer's disease (G30),Alzheimer's disease,Connecticut,573,14
+
+1112,2000,Alzheimer's disease (G30),Alzheimer's disease,Connecticut,526,13.1
+
+1113,1999,Alzheimer's disease (G30),Alzheimer's disease,Connecticut,449,11.4
+
+2032,2016,Malignant neoplasms (C00-C97),Cancer,Connecticut,6696,144.9
+
+2033,2015,Malignant neoplasms (C00-C97),Cancer,Connecticut,6666,146.2
+
+2034,2014,Malignant neoplasms (C00-C97),Cancer,Connecticut,6621,146.7
+
+2035,2013,Malignant neoplasms (C00-C97),Cancer,Connecticut,6619,148.4
+
+2036,2012,Malignant neoplasms (C00-C97),Cancer,Connecticut,6681,152
+
+2037,2011,Malignant neoplasms (C00-C97),Cancer,Connecticut,6837,158.4
+
+2038,2010,Malignant neoplasms (C00-C97),Cancer,Connecticut,6954,163.4
+
+2039,2009,Malignant neoplasms (C00-C97),Cancer,Connecticut,6819,162.8
+
+2040,2008,Malignant neoplasms (C00-C97),Cancer,Connecticut,6830,164.8
+
+2041,2007,Malignant neoplasms (C00-C97),Cancer,Connecticut,6827,167.2
+
+2042,2006,Malignant neoplasms (C00-C97),Cancer,Connecticut,7044,175.5
+
+2043,2005,Malignant neoplasms (C00-C97),Cancer,Connecticut,7052,176.8
+
+2044,2004,Malignant neoplasms (C00-C97),Cancer,Connecticut,7175,182.4
+
+2045,2003,Malignant neoplasms (C00-C97),Cancer,Connecticut,7131,183
+
+2046,2002,Malignant neoplasms (C00-C97),Cancer,Connecticut,7163,186.3
+
+2047,2001,Malignant neoplasms (C00-C97),Cancer,Connecticut,7093,187.6
+
+2048,2000,Malignant neoplasms (C00-C97),Cancer,Connecticut,7065,189.5
+
+2049,1999,Malignant neoplasms (C00-C97),Cancer,Connecticut,7054,191
+
+2968,2016,Chronic lower respiratory diseases (J40-J47),CLRD,Connecticut,1425,30.5
+
+2969,2015,Chronic lower respiratory diseases (J40-J47),CLRD,Connecticut,1369,29.7
+
+2970,2014,Chronic lower respiratory diseases (J40-J47),CLRD,Connecticut,1368,30.2
+
+2971,2013,Chronic lower respiratory diseases (J40-J47),CLRD,Connecticut,1348,29.7
+
+2972,2012,Chronic lower respiratory diseases (J40-J47),CLRD,Connecticut,1387,30.9
+
+2973,2011,Chronic lower respiratory diseases (J40-J47),CLRD,Connecticut,1415,32.1
+
+2974,2010,Chronic lower respiratory diseases (J40-J47),CLRD,Connecticut,1289,29.4
+
+2975,2009,Chronic lower respiratory diseases (J40-J47),CLRD,Connecticut,1448,33.5
+
+2976,2008,Chronic lower respiratory diseases (J40-J47),CLRD,Connecticut,1505,35.3
+
+2977,2007,Chronic lower respiratory diseases (J40-J47),CLRD,Connecticut,1353,32.3
+
+2978,2006,Chronic lower respiratory diseases (J40-J47),CLRD,Connecticut,1458,35
+
+2979,2005,Chronic lower respiratory diseases (J40-J47),CLRD,Connecticut,1471,36.1
+
+2980,2004,Chronic lower respiratory diseases (J40-J47),CLRD,Connecticut,1432,35.4
+
+2981,2003,Chronic lower respiratory diseases (J40-J47),CLRD,Connecticut,1445,36.1
+
+2982,2002,Chronic lower respiratory diseases (J40-J47),CLRD,Connecticut,1453,36.9
+
+2983,2001,Chronic lower respiratory diseases (J40-J47),CLRD,Connecticut,1486,38.2
+
+2984,2000,Chronic lower respiratory diseases (J40-J47),CLRD,Connecticut,1533,40.1
+
+2985,1999,Chronic lower respiratory diseases (J40-J47),CLRD,Connecticut,1435,37.8
+
+3904,2016,Diabetes mellitus (E10-E14),Diabetes,Connecticut,699,14.9
+
+3905,2015,Diabetes mellitus (E10-E14),Diabetes,Connecticut,653,13.9
+
+3906,2014,Diabetes mellitus (E10-E14),Diabetes,Connecticut,685,14.9
+
+3907,2013,Diabetes mellitus (E10-E14),Diabetes,Connecticut,664,14.8
+
+3908,2012,Diabetes mellitus (E10-E14),Diabetes,Connecticut,631,14.2
+
+3909,2011,Diabetes mellitus (E10-E14),Diabetes,Connecticut,692,15.5
+
+3910,2010,Diabetes mellitus (E10-E14),Diabetes,Connecticut,662,15.4
+
+3911,2009,Diabetes mellitus (E10-E14),Diabetes,Connecticut,624,14.5
+
+3912,2008,Diabetes mellitus (E10-E14),Diabetes,Connecticut,624,14.7
+
+3913,2007,Diabetes mellitus (E10-E14),Diabetes,Connecticut,646,15.5
+
+3914,2006,Diabetes mellitus (E10-E14),Diabetes,Connecticut,782,19
+
+3915,2005,Diabetes mellitus (E10-E14),Diabetes,Connecticut,811,20
+
+3916,2004,Diabetes mellitus (E10-E14),Diabetes,Connecticut,767,19.1
+
+3917,2003,Diabetes mellitus (E10-E14),Diabetes,Connecticut,665,16.8
+
+3918,2002,Diabetes mellitus (E10-E14),Diabetes,Connecticut,675,17.3
+
+3919,2001,Diabetes mellitus (E10-E14),Diabetes,Connecticut,759,19.7
+
+3920,2000,Diabetes mellitus (E10-E14),Diabetes,Connecticut,683,18.1
+
+3921,1999,Diabetes mellitus (E10-E14),Diabetes,Connecticut,691,18.5
+
+4840,2016,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Connecticut,7051,144.3
+
+4841,2015,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Connecticut,7205,147.8
+
+4842,2014,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Connecticut,7018,145.6
+
+4843,2013,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Connecticut,7090,148.9
+
+4844,2012,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Connecticut,7282,155.3
+
+4845,2011,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Connecticut,7206,155.2
+
+4846,2010,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Connecticut,7127,155.7
+
+4847,2009,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Connecticut,7105,157.7
+
+4848,2008,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Connecticut,7355,165.6
+
+4849,2007,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Connecticut,7289,167.4
+
+4850,2006,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Connecticut,7490,174.7
+
+4851,2005,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Connecticut,7650,180.7
+
+4852,2004,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Connecticut,7868,189.5
+
+4853,2003,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Connecticut,8389,204.1
+
+4854,2002,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Connecticut,8815,219.3
+
+4855,2001,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Connecticut,8582,218
+
+4856,2000,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Connecticut,8993,232.7
+
+4857,1999,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Connecticut,9127,238.8
+
+5776,2016,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Connecticut,572,11.7
+
+5777,2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Connecticut,667,13.6
+
+5778,2014,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Connecticut,644,13.3
+
+5779,2013,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Connecticut,604,12.2
+
+5780,2012,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Connecticut,558,11.8
+
+5781,2011,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Connecticut,696,14.6
+
+5782,2010,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Connecticut,568,12.1
+
+5783,2009,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Connecticut,696,15.4
+
+5784,2008,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Connecticut,694,15.1
+
+5785,2007,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Connecticut,776,17.2
+
+5786,2006,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Connecticut,800,18.2
+
+5787,2005,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Connecticut,956,21.9
+
+5788,2004,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Connecticut,868,20.3
+
+5789,2003,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Connecticut,860,20.5
+
+5790,2002,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Connecticut,888,21.5
+
+5791,2001,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Connecticut,854,21.1
+
+5792,2000,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Connecticut,890,22.5
+
+5793,1999,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Connecticut,885,22.7
+
+6712,2016,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Connecticut,570,12.1
+
+6713,2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Connecticut,584,12.1
+
+6714,2014,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Connecticut,605,12.9
+
+6715,2013,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Connecticut,565,11.9
+
+6716,2012,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Connecticut,569,12.4
+
+6717,2011,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Connecticut,602,13.1
+
+6718,2010,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Connecticut,599,13.4
+
+6719,2009,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Connecticut,585,13.3
+
+6720,2008,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Connecticut,589,13.5
+
+6721,2007,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Connecticut,566,13.2
+
+6722,2006,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Connecticut,567,13.5
+
+6723,2005,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Connecticut,580,13.7
+
+6724,2004,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Connecticut,604,14.8
+
+6725,2003,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Connecticut,567,14
+
+6726,2002,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Connecticut,554,14
+
+6727,2001,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Connecticut,585,15.1
+
+6728,2000,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Connecticut,524,13.6
+
+6729,1999,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Connecticut,457,12.1
+
+7648,2016,Cerebrovascular diseases (I60-I69),Stroke,Connecticut,1269,26.3
+
+7649,2015,Cerebrovascular diseases (I60-I69),Stroke,Connecticut,1388,28.5
+
+7650,2014,Cerebrovascular diseases (I60-I69),Stroke,Connecticut,1266,26.3
+
+7651,2013,Cerebrovascular diseases (I60-I69),Stroke,Connecticut,1348,28.3
+
+7652,2012,Cerebrovascular diseases (I60-I69),Stroke,Connecticut,1273,27
+
+7653,2011,Cerebrovascular diseases (I60-I69),Stroke,Connecticut,1315,28.3
+
+7654,2010,Cerebrovascular diseases (I60-I69),Stroke,Connecticut,1349,29.4
+
+7655,2009,Cerebrovascular diseases (I60-I69),Stroke,Connecticut,1460,32.4
+
+7656,2008,Cerebrovascular diseases (I60-I69),Stroke,Connecticut,1433,32
+
+7657,2007,Cerebrovascular diseases (I60-I69),Stroke,Connecticut,1463,33.4
+
+7658,2006,Cerebrovascular diseases (I60-I69),Stroke,Connecticut,1547,35.8
+
+7659,2005,Cerebrovascular diseases (I60-I69),Stroke,Connecticut,1528,36.2
+
+7660,2004,Cerebrovascular diseases (I60-I69),Stroke,Connecticut,1635,39.1
+
+7661,2003,Cerebrovascular diseases (I60-I69),Stroke,Connecticut,1828,44
+
+7662,2002,Cerebrovascular diseases (I60-I69),Stroke,Connecticut,1861,46
+
+7663,2001,Cerebrovascular diseases (I60-I69),Stroke,Connecticut,2003,50.1
+
+7664,2000,Cerebrovascular diseases (I60-I69),Stroke,Connecticut,2011,51.4
+
+7665,1999,Cerebrovascular diseases (I60-I69),Stroke,Connecticut,1933,50
+
+8584,2016,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Connecticut,397,10.1
+
+8585,2015,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Connecticut,384,9.9
+
+8586,2014,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Connecticut,379,9.8
+
+8587,2013,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Connecticut,330,8.7
+
+8588,2012,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Connecticut,368,9.9
+
+8589,2011,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Connecticut,370,9.8
+
+8590,2010,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Connecticut,353,9.4
+
+8591,2009,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Connecticut,316,8.5
+
+8592,2008,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Connecticut,315,8.5
+
+8593,2007,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Connecticut,271,7.3
+
+8594,2006,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Connecticut,292,8
+
+8595,2005,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Connecticut,295,8.1
+
+8596,2004,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Connecticut,294,8.2
+
+8597,2003,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Connecticut,272,7.5
+
+8598,2002,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Connecticut,260,7.3
+
+8599,2001,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Connecticut,283,8.1
+
+8600,2000,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Connecticut,304,8.8
+
+8601,1999,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Connecticut,274,7.9
+
+9514,2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Connecticut,1799,44.8
+
+9515,2014,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Connecticut,1641,40.9
+
+9516,2013,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Connecticut,1582,39.3
+
+9517,2012,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Connecticut,1392,34.7
+
+9518,2011,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Connecticut,1339,33.3
+
+9519,2010,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Connecticut,1337,33.6
+
+9520,2009,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Connecticut,1293,33
+
+9521,2008,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Connecticut,1386,35.7
+
+9522,2007,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Connecticut,1343,35.4
+
+9523,2006,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Connecticut,1302,34.6
+
+9524,2005,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Connecticut,1134,30.3
+
+9525,2004,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Connecticut,1261,34
+
+9526,2003,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Connecticut,1112,30.2
+
+9527,2002,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Connecticut,1182,32.5
+
+9528,2001,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Connecticut,1056,29.5
+
+9529,2000,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Connecticut,1175,32.8
+
+9530,1999,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Connecticut,1034,29.3
+

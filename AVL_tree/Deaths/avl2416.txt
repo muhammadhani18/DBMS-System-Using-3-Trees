@@ -1,0 +1,8 @@
+2908,2004,Chronic lower respiratory diseases (J40-J47),CLRD,Arizona,2416,42.9
+
+5909,2009,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Illinois,2416,17.8
+
+6309,2005,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Ohio,2416,19.4
+
+6778,2005,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Florida,2416,10.5
+

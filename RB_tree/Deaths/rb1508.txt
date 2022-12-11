@@ -1,0 +1,6 @@
+4246,2016,Diabetes mellitus (E10-E14),Diabetes,Missouri,1508,20.1
+
+4669,2007,Diabetes mellitus (E10-E14),Diabetes,Washington,1508,23.5
+
+4672,2004,Diabetes mellitus (E10-E14),Diabetes,Washington,1508,25.3
+

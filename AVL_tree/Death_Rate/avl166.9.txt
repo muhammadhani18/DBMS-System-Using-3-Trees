@@ -1,0 +1,6 @@
+2307,2011,Malignant neoplasms (C00-C97),Cancer,Massachusetts,12895,166.9
+
+2508,2008,Malignant neoplasms (C00-C97),Cancer,New York,35351,166.9
+
+4811,2009,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,California,59206,166.9
+

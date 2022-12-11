@@ -1,0 +1,16 @@
+2919,2011,Chronic lower respiratory diseases (J40-J47),CLRD,Arkansas,1985,58.9
+
+3520,2004,Chronic lower respiratory diseases (J40-J47),CLRD,Oklahoma,1985,53.9
+
+5486,2001,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,South Dakota,1985,219.9
+
+7237,2013,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Ohio,1985,14
+
+2919,2011,Chronic lower respiratory diseases (J40-J47),CLRD,Arkansas,1985,58.9
+
+3520,2004,Chronic lower respiratory diseases (J40-J47),CLRD,Oklahoma,1985,53.9
+
+5486,2001,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,South Dakota,1985,219.9
+
+7237,2013,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Ohio,1985,14
+

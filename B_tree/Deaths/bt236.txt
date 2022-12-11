@@ -1,0 +1,24 @@
+4324,2010,Diabetes mellitus (E10-E14),Diabetes,New Hampshire,236,16.1
+
+4515,1999,Diabetes mellitus (E10-E14),Diabetes,Rhode Island,236,20.1
+
+5878,2004,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Hawaii,236,16.9
+
+6019,2007,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Maine,236,14.2
+
+8468,2006,Cerebrovascular diseases (I60-I69),Stroke,Wyoming,236,46.5
+
+8704,2004,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Idaho,236,17.6
+
+4324,2010,Diabetes mellitus (E10-E14),Diabetes,New Hampshire,236,16.1
+
+4515,1999,Diabetes mellitus (E10-E14),Diabetes,Rhode Island,236,20.1
+
+5878,2004,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Hawaii,236,16.9
+
+6019,2007,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Maine,236,14.2
+
+8468,2006,Cerebrovascular diseases (I60-I69),Stroke,Wyoming,236,46.5
+
+8704,2004,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Idaho,236,17.6
+

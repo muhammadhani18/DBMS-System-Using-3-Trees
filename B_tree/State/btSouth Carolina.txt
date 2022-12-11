@@ -1,0 +1,1584 @@
+42,2016,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,South Carolina,3012,58.9
+
+772,2016,All Causes,All causes,South Carolina,48130,829.8
+
+773,2015,All Causes,All causes,South Carolina,47198,840
+
+774,2014,All Causes,All causes,South Carolina,45454,829.1
+
+775,2013,All Causes,All causes,South Carolina,44582,837.8
+
+776,2012,All Causes,All causes,South Carolina,43198,835.2
+
+777,2011,All Causes,All causes,South Carolina,42072,839.5
+
+778,2010,All Causes,All causes,South Carolina,41614,854.8
+
+779,2009,All Causes,All causes,South Carolina,40449,846.9
+
+780,2008,All Causes,All causes,South Carolina,40289,867
+
+781,2007,All Causes,All causes,South Carolina,39439,873.9
+
+782,2006,All Causes,All causes,South Carolina,38761,886.8
+
+783,2005,All Causes,All causes,South Carolina,38707,920.9
+
+784,2004,All Causes,All causes,South Carolina,37276,909.5
+
+785,2003,All Causes,All causes,South Carolina,38112,952.7
+
+786,2002,All Causes,All causes,South Carolina,37736,964.3
+
+787,2001,All Causes,All causes,South Carolina,36612,949.6
+
+788,2000,All Causes,All causes,South Carolina,36948,980.2
+
+789,1999,All Causes,All causes,South Carolina,36053,973.5
+
+1708,2016,Alzheimer's disease (G30),Alzheimer's disease,South Carolina,2481,45.3
+
+1709,2015,Alzheimer's disease (G30),Alzheimer's disease,South Carolina,2453,46.2
+
+1710,2014,Alzheimer's disease (G30),Alzheimer's disease,South Carolina,1938,37.4
+
+1711,2013,Alzheimer's disease (G30),Alzheimer's disease,South Carolina,1623,32.4
+
+1712,2012,Alzheimer's disease (G30),Alzheimer's disease,South Carolina,1634,33.6
+
+1713,2011,Alzheimer's disease (G30),Alzheimer's disease,South Carolina,1560,33.1
+
+1714,2010,Alzheimer's disease (G30),Alzheimer's disease,South Carolina,1570,34.7
+
+1715,2009,Alzheimer's disease (G30),Alzheimer's disease,South Carolina,1478,33.4
+
+1716,2008,Alzheimer's disease (G30),Alzheimer's disease,South Carolina,1492,34.7
+
+1717,2007,Alzheimer's disease (G30),Alzheimer's disease,South Carolina,1396,33.6
+
+1718,2006,Alzheimer's disease (G30),Alzheimer's disease,South Carolina,1364,34.1
+
+1719,2005,Alzheimer's disease (G30),Alzheimer's disease,South Carolina,1316,34.3
+
+1720,2004,Alzheimer's disease (G30),Alzheimer's disease,South Carolina,1245,33.3
+
+1721,2003,Alzheimer's disease (G30),Alzheimer's disease,South Carolina,1051,28.8
+
+1722,2002,Alzheimer's disease (G30),Alzheimer's disease,South Carolina,967,27.1
+
+1723,2001,Alzheimer's disease (G30),Alzheimer's disease,South Carolina,881,24.9
+
+1724,2000,Alzheimer's disease (G30),Alzheimer's disease,South Carolina,874,25.1
+
+1725,1999,Alzheimer's disease (G30),Alzheimer's disease,South Carolina,690,20.5
+
+2644,2016,Malignant neoplasms (C00-C97),Cancer,South Carolina,10356,167.7
+
+2645,2015,Malignant neoplasms (C00-C97),Cancer,South Carolina,9950,166.6
+
+2646,2014,Malignant neoplasms (C00-C97),Cancer,South Carolina,9930,171.4
+
+2647,2013,Malignant neoplasms (C00-C97),Cancer,South Carolina,9745,174
+
+2648,2012,Malignant neoplasms (C00-C97),Cancer,South Carolina,9728,178.8
+
+2649,2011,Malignant neoplasms (C00-C97),Cancer,South Carolina,9543,182
+
+2650,2010,Malignant neoplasms (C00-C97),Cancer,South Carolina,9356,183.6
+
+2651,2009,Malignant neoplasms (C00-C97),Cancer,South Carolina,9123,182.8
+
+2652,2008,Malignant neoplasms (C00-C97),Cancer,South Carolina,9199,190
+
+2653,2007,Malignant neoplasms (C00-C97),Cancer,South Carolina,8867,188.5
+
+2654,2006,Malignant neoplasms (C00-C97),Cancer,South Carolina,8853,194.7
+
+2655,2005,Malignant neoplasms (C00-C97),Cancer,South Carolina,8652,198.2
+
+2656,2004,Malignant neoplasms (C00-C97),Cancer,South Carolina,8348,195.8
+
+2657,2003,Malignant neoplasms (C00-C97),Cancer,South Carolina,8512,204.4
+
+2658,2002,Malignant neoplasms (C00-C97),Cancer,South Carolina,8333,205.8
+
+2659,2001,Malignant neoplasms (C00-C97),Cancer,South Carolina,8272,208.3
+
+2660,2000,Malignant neoplasms (C00-C97),Cancer,South Carolina,8250,212.6
+
+2661,1999,Malignant neoplasms (C00-C97),Cancer,South Carolina,8089,211.7
+
+3580,2016,Chronic lower respiratory diseases (J40-J47),CLRD,South Carolina,2870,47.5
+
+3581,2015,Chronic lower respiratory diseases (J40-J47),CLRD,South Carolina,2908,49.9
+
+3582,2014,Chronic lower respiratory diseases (J40-J47),CLRD,South Carolina,2715,48.2
+
+3583,2013,Chronic lower respiratory diseases (J40-J47),CLRD,South Carolina,2756,50.8
+
+3584,2012,Chronic lower respiratory diseases (J40-J47),CLRD,South Carolina,2467,46.9
+
+3585,2011,Chronic lower respiratory diseases (J40-J47),CLRD,South Carolina,2402,47.6
+
+3586,2010,Chronic lower respiratory diseases (J40-J47),CLRD,South Carolina,2264,46.3
+
+3587,2009,Chronic lower respiratory diseases (J40-J47),CLRD,South Carolina,2317,48.2
+
+3588,2008,Chronic lower respiratory diseases (J40-J47),CLRD,South Carolina,2266,48.5
+
+3589,2007,Chronic lower respiratory diseases (J40-J47),CLRD,South Carolina,2036,44.9
+
+3590,2006,Chronic lower respiratory diseases (J40-J47),CLRD,South Carolina,1935,44
+
+3591,2005,Chronic lower respiratory diseases (J40-J47),CLRD,South Carolina,1977,46.7
+
+3592,2004,Chronic lower respiratory diseases (J40-J47),CLRD,South Carolina,1792,43.5
+
+3593,2003,Chronic lower respiratory diseases (J40-J47),CLRD,South Carolina,1913,47.4
+
+3594,2002,Chronic lower respiratory diseases (J40-J47),CLRD,South Carolina,1889,48.1
+
+3595,2001,Chronic lower respiratory diseases (J40-J47),CLRD,South Carolina,1731,44.8
+
+3596,2000,Chronic lower respiratory diseases (J40-J47),CLRD,South Carolina,1730,45.8
+
+3597,1999,Chronic lower respiratory diseases (J40-J47),CLRD,South Carolina,1752,47
+
+4516,2016,Diabetes mellitus (E10-E14),Diabetes,South Carolina,1369,22.3
+
+4517,2015,Diabetes mellitus (E10-E14),Diabetes,South Carolina,1347,23.4
+
+4518,2014,Diabetes mellitus (E10-E14),Diabetes,South Carolina,1239,21.8
+
+4519,2013,Diabetes mellitus (E10-E14),Diabetes,South Carolina,1240,22.5
+
+4520,2012,Diabetes mellitus (E10-E14),Diabetes,South Carolina,1197,22.3
+
+4521,2011,Diabetes mellitus (E10-E14),Diabetes,South Carolina,1090,21
+
+4522,2010,Diabetes mellitus (E10-E14),Diabetes,South Carolina,1128,22.6
+
+4523,2009,Diabetes mellitus (E10-E14),Diabetes,South Carolina,1128,23.1
+
+4524,2008,Diabetes mellitus (E10-E14),Diabetes,South Carolina,1133,23.9
+
+4525,2007,Diabetes mellitus (E10-E14),Diabetes,South Carolina,1231,26.7
+
+4526,2006,Diabetes mellitus (E10-E14),Diabetes,South Carolina,1136,25.5
+
+4527,2005,Diabetes mellitus (E10-E14),Diabetes,South Carolina,1187,27.6
+
+4528,2004,Diabetes mellitus (E10-E14),Diabetes,South Carolina,1165,27.8
+
+4529,2003,Diabetes mellitus (E10-E14),Diabetes,South Carolina,1161,28.3
+
+4530,2002,Diabetes mellitus (E10-E14),Diabetes,South Carolina,1112,27.8
+
+4531,2001,Diabetes mellitus (E10-E14),Diabetes,South Carolina,1088,27.7
+
+4532,2000,Diabetes mellitus (E10-E14),Diabetes,South Carolina,1206,31.5
+
+4533,1999,Diabetes mellitus (E10-E14),Diabetes,South Carolina,1118,29.6
+
+5453,2016,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,South Carolina,10195,173.8
+
+5454,2015,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,South Carolina,10092,177.8
+
+5455,2014,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,South Carolina,9964,181.1
+
+5456,2013,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,South Carolina,9648,180
+
+5457,2012,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,South Carolina,9364,180.2
+
+5458,2011,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,South Carolina,9295,184.5
+
+5459,2010,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,South Carolina,9295,189.9
+
+5460,2009,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,South Carolina,9068,189.5
+
+5461,2008,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,South Carolina,8996,193.4
+
+5462,2007,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,South Carolina,8992,199.9
+
+5463,2006,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,South Carolina,9030,206.8
+
+5464,2005,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,South Carolina,9359,223.9
+
+5465,2004,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,South Carolina,9182,225.6
+
+5466,2003,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,South Carolina,9510,240.1
+
+5467,2002,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,South Carolina,9659,249.4
+
+5468,2001,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,South Carolina,9471,248.6
+
+5469,2000,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,South Carolina,9893,265.8
+
+5470,1999,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,South Carolina,9981,273.4
+
+6388,2016,Influenza and pneumonia (J09-J18),Influenza and pneumonia,South Carolina,690,12
+
+6389,2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,South Carolina,848,15.3
+
+6390,2014,Influenza and pneumonia (J09-J18),Influenza and pneumonia,South Carolina,751,13.9
+
+6391,2013,Influenza and pneumonia (J09-J18),Influenza and pneumonia,South Carolina,747,14.2
+
+6392,2012,Influenza and pneumonia (J09-J18),Influenza and pneumonia,South Carolina,726,14.4
+
+6393,2011,Influenza and pneumonia (J09-J18),Influenza and pneumonia,South Carolina,768,15.7
+
+6394,2010,Influenza and pneumonia (J09-J18),Influenza and pneumonia,South Carolina,747,15.9
+
+6395,2009,Influenza and pneumonia (J09-J18),Influenza and pneumonia,South Carolina,759,16.4
+
+6396,2008,Influenza and pneumonia (J09-J18),Influenza and pneumonia,South Carolina,727,16.2
+
+6397,2007,Influenza and pneumonia (J09-J18),Influenza and pneumonia,South Carolina,723,16.8
+
+6398,2006,Influenza and pneumonia (J09-J18),Influenza and pneumonia,South Carolina,724,17.3
+
+6399,2005,Influenza and pneumonia (J09-J18),Influenza and pneumonia,South Carolina,771,19.2
+
+6400,2004,Influenza and pneumonia (J09-J18),Influenza and pneumonia,South Carolina,770,19.7
+
+6401,2003,Influenza and pneumonia (J09-J18),Influenza and pneumonia,South Carolina,907,23.8
+
+6402,2002,Influenza and pneumonia (J09-J18),Influenza and pneumonia,South Carolina,910,24.6
+
+6403,2001,Influenza and pneumonia (J09-J18),Influenza and pneumonia,South Carolina,754,20.5
+
+6404,2000,Influenza and pneumonia (J09-J18),Influenza and pneumonia,South Carolina,699,19.5
+
+6405,1999,Influenza and pneumonia (J09-J18),Influenza and pneumonia,South Carolina,883,25.2
+
+7325,2016,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,South Carolina,897,15.3
+
+7326,2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,South Carolina,886,15.5
+
+7327,2014,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,South Carolina,837,15.1
+
+7328,2013,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,South Carolina,869,16
+
+7329,2012,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,South Carolina,860,16.4
+
+7330,2011,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,South Carolina,802,16.1
+
+7331,2010,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,South Carolina,963,19.9
+
+7332,2009,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,South Carolina,893,18.8
+
+7333,2008,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,South Carolina,945,20.3
+
+7334,2007,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,South Carolina,806,17.9
+
+7335,2006,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,South Carolina,846,19.5
+
+7336,2005,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,South Carolina,823,19.6
+
+7337,2004,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,South Carolina,818,20.1
+
+7338,2003,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,South Carolina,797,20.1
+
+7339,2002,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,South Carolina,781,20.1
+
+7340,2001,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,South Carolina,632,16.5
+
+7341,2000,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,South Carolina,539,14.5
+
+7342,1999,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,South Carolina,434,11.8
+
+8260,2016,Cerebrovascular diseases (I60-I69),Stroke,South Carolina,2627,45.5
+
+8261,2015,Cerebrovascular diseases (I60-I69),Stroke,South Carolina,2600,46.7
+
+8262,2014,Cerebrovascular diseases (I60-I69),Stroke,South Carolina,2393,44.2
+
+8263,2013,Cerebrovascular diseases (I60-I69),Stroke,South Carolina,2508,47.6
+
+8264,2012,Cerebrovascular diseases (I60-I69),Stroke,South Carolina,2349,45.9
+
+8265,2011,Cerebrovascular diseases (I60-I69),Stroke,South Carolina,2287,46.3
+
+8266,2010,Cerebrovascular diseases (I60-I69),Stroke,South Carolina,2293,47.9
+
+8267,2009,Cerebrovascular diseases (I60-I69),Stroke,South Carolina,2400,51.3
+
+8268,2008,Cerebrovascular diseases (I60-I69),Stroke,South Carolina,2394,52.6
+
+8269,2007,Cerebrovascular diseases (I60-I69),Stroke,South Carolina,2466,55.8
+
+8270,2006,Cerebrovascular diseases (I60-I69),Stroke,South Carolina,2291,53.8
+
+8271,2005,Cerebrovascular diseases (I60-I69),Stroke,South Carolina,2458,60.2
+
+8272,2004,Cerebrovascular diseases (I60-I69),Stroke,South Carolina,2643,66.5
+
+8273,2003,Cerebrovascular diseases (I60-I69),Stroke,South Carolina,2748,71.2
+
+8274,2002,Cerebrovascular diseases (I60-I69),Stroke,South Carolina,2822,74.4
+
+8275,2001,Cerebrovascular diseases (I60-I69),Stroke,South Carolina,2832,76.2
+
+8276,2000,Cerebrovascular diseases (I60-I69),Stroke,South Carolina,2956,81.4
+
+8277,1999,Cerebrovascular diseases (I60-I69),Stroke,South Carolina,2974,83.4
+
+9196,2016,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,South Carolina,815,15.7
+
+9197,2015,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,South Carolina,742,14.8
+
+9198,2014,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,South Carolina,753,15.2
+
+9199,2013,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,South Carolina,696,14
+
+9200,2012,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,South Carolina,673,13.7
+
+9201,2011,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,South Carolina,658,13.6
+
+9202,2010,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,South Carolina,637,13.5
+
+9203,2009,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,South Carolina,619,13
+
+9204,2008,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,South Carolina,565,12
+
+9205,2007,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,South Carolina,530,11.6
+
+9206,2006,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,South Carolina,524,11.8
+
+9207,2005,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,South Carolina,510,11.8
+
+9208,2004,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,South Carolina,482,11.3
+
+9209,2003,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,South Carolina,476,11.5
+
+9210,2002,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,South Carolina,440,10.8
+
+9211,2001,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,South Carolina,467,11.4
+
+9212,2000,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,South Carolina,443,11.1
+
+9213,1999,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,South Carolina,418,10.5
+
+10092,2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,South Carolina,2737,54
+
+10093,2014,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,South Carolina,2436,48.2
+
+10094,2013,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,South Carolina,2287,46.6
+
+10095,2012,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,South Carolina,2336,48.3
+
+10096,2011,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,South Carolina,2285,48.2
+
+10097,2010,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,South Carolina,2274,48.9
+
+10098,2009,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,South Carolina,2229,48
+
+10099,2008,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,South Carolina,2285,50.4
+
+10100,2007,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,South Carolina,2364,53.2
+
+10101,2006,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,South Carolina,2315,53.3
+
+10102,2005,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,South Carolina,2272,53.4
+
+10103,2004,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,South Carolina,2094,50.1
+
+10104,2003,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,South Carolina,1941,47.5
+
+10105,2002,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,South Carolina,1972,48.7
+
+10106,2001,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,South Carolina,1960,49
+
+10107,2000,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,South Carolina,1974,50
+
+10108,1999,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,South Carolina,1901,49.2
+
+42,2016,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,South Carolina,3012,58.9
+
+772,2016,All Causes,All causes,South Carolina,48130,829.8
+
+773,2015,All Causes,All causes,South Carolina,47198,840
+
+774,2014,All Causes,All causes,South Carolina,45454,829.1
+
+775,2013,All Causes,All causes,South Carolina,44582,837.8
+
+776,2012,All Causes,All causes,South Carolina,43198,835.2
+
+777,2011,All Causes,All causes,South Carolina,42072,839.5
+
+778,2010,All Causes,All causes,South Carolina,41614,854.8
+
+779,2009,All Causes,All causes,South Carolina,40449,846.9
+
+780,2008,All Causes,All causes,South Carolina,40289,867
+
+781,2007,All Causes,All causes,South Carolina,39439,873.9
+
+782,2006,All Causes,All causes,South Carolina,38761,886.8
+
+783,2005,All Causes,All causes,South Carolina,38707,920.9
+
+784,2004,All Causes,All causes,South Carolina,37276,909.5
+
+785,2003,All Causes,All causes,South Carolina,38112,952.7
+
+786,2002,All Causes,All causes,South Carolina,37736,964.3
+
+787,2001,All Causes,All causes,South Carolina,36612,949.6
+
+788,2000,All Causes,All causes,South Carolina,36948,980.2
+
+789,1999,All Causes,All causes,South Carolina,36053,973.5
+
+1708,2016,Alzheimer's disease (G30),Alzheimer's disease,South Carolina,2481,45.3
+
+1709,2015,Alzheimer's disease (G30),Alzheimer's disease,South Carolina,2453,46.2
+
+1710,2014,Alzheimer's disease (G30),Alzheimer's disease,South Carolina,1938,37.4
+
+1711,2013,Alzheimer's disease (G30),Alzheimer's disease,South Carolina,1623,32.4
+
+1712,2012,Alzheimer's disease (G30),Alzheimer's disease,South Carolina,1634,33.6
+
+1713,2011,Alzheimer's disease (G30),Alzheimer's disease,South Carolina,1560,33.1
+
+1714,2010,Alzheimer's disease (G30),Alzheimer's disease,South Carolina,1570,34.7
+
+1715,2009,Alzheimer's disease (G30),Alzheimer's disease,South Carolina,1478,33.4
+
+1716,2008,Alzheimer's disease (G30),Alzheimer's disease,South Carolina,1492,34.7
+
+1717,2007,Alzheimer's disease (G30),Alzheimer's disease,South Carolina,1396,33.6
+
+1718,2006,Alzheimer's disease (G30),Alzheimer's disease,South Carolina,1364,34.1
+
+1719,2005,Alzheimer's disease (G30),Alzheimer's disease,South Carolina,1316,34.3
+
+1720,2004,Alzheimer's disease (G30),Alzheimer's disease,South Carolina,1245,33.3
+
+1721,2003,Alzheimer's disease (G30),Alzheimer's disease,South Carolina,1051,28.8
+
+1722,2002,Alzheimer's disease (G30),Alzheimer's disease,South Carolina,967,27.1
+
+1723,2001,Alzheimer's disease (G30),Alzheimer's disease,South Carolina,881,24.9
+
+1724,2000,Alzheimer's disease (G30),Alzheimer's disease,South Carolina,874,25.1
+
+1725,1999,Alzheimer's disease (G30),Alzheimer's disease,South Carolina,690,20.5
+
+2644,2016,Malignant neoplasms (C00-C97),Cancer,South Carolina,10356,167.7
+
+2645,2015,Malignant neoplasms (C00-C97),Cancer,South Carolina,9950,166.6
+
+2646,2014,Malignant neoplasms (C00-C97),Cancer,South Carolina,9930,171.4
+
+2647,2013,Malignant neoplasms (C00-C97),Cancer,South Carolina,9745,174
+
+2648,2012,Malignant neoplasms (C00-C97),Cancer,South Carolina,9728,178.8
+
+2649,2011,Malignant neoplasms (C00-C97),Cancer,South Carolina,9543,182
+
+2650,2010,Malignant neoplasms (C00-C97),Cancer,South Carolina,9356,183.6
+
+2651,2009,Malignant neoplasms (C00-C97),Cancer,South Carolina,9123,182.8
+
+2652,2008,Malignant neoplasms (C00-C97),Cancer,South Carolina,9199,190
+
+2653,2007,Malignant neoplasms (C00-C97),Cancer,South Carolina,8867,188.5
+
+2654,2006,Malignant neoplasms (C00-C97),Cancer,South Carolina,8853,194.7
+
+2655,2005,Malignant neoplasms (C00-C97),Cancer,South Carolina,8652,198.2
+
+2656,2004,Malignant neoplasms (C00-C97),Cancer,South Carolina,8348,195.8
+
+2657,2003,Malignant neoplasms (C00-C97),Cancer,South Carolina,8512,204.4
+
+2658,2002,Malignant neoplasms (C00-C97),Cancer,South Carolina,8333,205.8
+
+2659,2001,Malignant neoplasms (C00-C97),Cancer,South Carolina,8272,208.3
+
+2660,2000,Malignant neoplasms (C00-C97),Cancer,South Carolina,8250,212.6
+
+2661,1999,Malignant neoplasms (C00-C97),Cancer,South Carolina,8089,211.7
+
+3580,2016,Chronic lower respiratory diseases (J40-J47),CLRD,South Carolina,2870,47.5
+
+3581,2015,Chronic lower respiratory diseases (J40-J47),CLRD,South Carolina,2908,49.9
+
+3582,2014,Chronic lower respiratory diseases (J40-J47),CLRD,South Carolina,2715,48.2
+
+3583,2013,Chronic lower respiratory diseases (J40-J47),CLRD,South Carolina,2756,50.8
+
+3584,2012,Chronic lower respiratory diseases (J40-J47),CLRD,South Carolina,2467,46.9
+
+3585,2011,Chronic lower respiratory diseases (J40-J47),CLRD,South Carolina,2402,47.6
+
+3586,2010,Chronic lower respiratory diseases (J40-J47),CLRD,South Carolina,2264,46.3
+
+3587,2009,Chronic lower respiratory diseases (J40-J47),CLRD,South Carolina,2317,48.2
+
+3588,2008,Chronic lower respiratory diseases (J40-J47),CLRD,South Carolina,2266,48.5
+
+3589,2007,Chronic lower respiratory diseases (J40-J47),CLRD,South Carolina,2036,44.9
+
+3590,2006,Chronic lower respiratory diseases (J40-J47),CLRD,South Carolina,1935,44
+
+3591,2005,Chronic lower respiratory diseases (J40-J47),CLRD,South Carolina,1977,46.7
+
+3592,2004,Chronic lower respiratory diseases (J40-J47),CLRD,South Carolina,1792,43.5
+
+3593,2003,Chronic lower respiratory diseases (J40-J47),CLRD,South Carolina,1913,47.4
+
+3594,2002,Chronic lower respiratory diseases (J40-J47),CLRD,South Carolina,1889,48.1
+
+3595,2001,Chronic lower respiratory diseases (J40-J47),CLRD,South Carolina,1731,44.8
+
+3596,2000,Chronic lower respiratory diseases (J40-J47),CLRD,South Carolina,1730,45.8
+
+3597,1999,Chronic lower respiratory diseases (J40-J47),CLRD,South Carolina,1752,47
+
+4516,2016,Diabetes mellitus (E10-E14),Diabetes,South Carolina,1369,22.3
+
+4517,2015,Diabetes mellitus (E10-E14),Diabetes,South Carolina,1347,23.4
+
+4518,2014,Diabetes mellitus (E10-E14),Diabetes,South Carolina,1239,21.8
+
+4519,2013,Diabetes mellitus (E10-E14),Diabetes,South Carolina,1240,22.5
+
+4520,2012,Diabetes mellitus (E10-E14),Diabetes,South Carolina,1197,22.3
+
+4521,2011,Diabetes mellitus (E10-E14),Diabetes,South Carolina,1090,21
+
+4522,2010,Diabetes mellitus (E10-E14),Diabetes,South Carolina,1128,22.6
+
+4523,2009,Diabetes mellitus (E10-E14),Diabetes,South Carolina,1128,23.1
+
+4524,2008,Diabetes mellitus (E10-E14),Diabetes,South Carolina,1133,23.9
+
+4525,2007,Diabetes mellitus (E10-E14),Diabetes,South Carolina,1231,26.7
+
+4526,2006,Diabetes mellitus (E10-E14),Diabetes,South Carolina,1136,25.5
+
+4527,2005,Diabetes mellitus (E10-E14),Diabetes,South Carolina,1187,27.6
+
+4528,2004,Diabetes mellitus (E10-E14),Diabetes,South Carolina,1165,27.8
+
+4529,2003,Diabetes mellitus (E10-E14),Diabetes,South Carolina,1161,28.3
+
+4530,2002,Diabetes mellitus (E10-E14),Diabetes,South Carolina,1112,27.8
+
+4531,2001,Diabetes mellitus (E10-E14),Diabetes,South Carolina,1088,27.7
+
+4532,2000,Diabetes mellitus (E10-E14),Diabetes,South Carolina,1206,31.5
+
+4533,1999,Diabetes mellitus (E10-E14),Diabetes,South Carolina,1118,29.6
+
+5453,2016,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,South Carolina,10195,173.8
+
+5454,2015,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,South Carolina,10092,177.8
+
+5455,2014,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,South Carolina,9964,181.1
+
+5456,2013,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,South Carolina,9648,180
+
+5457,2012,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,South Carolina,9364,180.2
+
+5458,2011,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,South Carolina,9295,184.5
+
+5459,2010,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,South Carolina,9295,189.9
+
+5460,2009,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,South Carolina,9068,189.5
+
+5461,2008,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,South Carolina,8996,193.4
+
+5462,2007,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,South Carolina,8992,199.9
+
+5463,2006,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,South Carolina,9030,206.8
+
+5464,2005,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,South Carolina,9359,223.9
+
+5465,2004,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,South Carolina,9182,225.6
+
+5466,2003,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,South Carolina,9510,240.1
+
+5467,2002,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,South Carolina,9659,249.4
+
+5468,2001,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,South Carolina,9471,248.6
+
+5469,2000,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,South Carolina,9893,265.8
+
+5470,1999,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,South Carolina,9981,273.4
+
+6388,2016,Influenza and pneumonia (J09-J18),Influenza and pneumonia,South Carolina,690,12
+
+6389,2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,South Carolina,848,15.3
+
+6390,2014,Influenza and pneumonia (J09-J18),Influenza and pneumonia,South Carolina,751,13.9
+
+6391,2013,Influenza and pneumonia (J09-J18),Influenza and pneumonia,South Carolina,747,14.2
+
+6392,2012,Influenza and pneumonia (J09-J18),Influenza and pneumonia,South Carolina,726,14.4
+
+6393,2011,Influenza and pneumonia (J09-J18),Influenza and pneumonia,South Carolina,768,15.7
+
+6394,2010,Influenza and pneumonia (J09-J18),Influenza and pneumonia,South Carolina,747,15.9
+
+6395,2009,Influenza and pneumonia (J09-J18),Influenza and pneumonia,South Carolina,759,16.4
+
+6396,2008,Influenza and pneumonia (J09-J18),Influenza and pneumonia,South Carolina,727,16.2
+
+6397,2007,Influenza and pneumonia (J09-J18),Influenza and pneumonia,South Carolina,723,16.8
+
+6398,2006,Influenza and pneumonia (J09-J18),Influenza and pneumonia,South Carolina,724,17.3
+
+6399,2005,Influenza and pneumonia (J09-J18),Influenza and pneumonia,South Carolina,771,19.2
+
+6400,2004,Influenza and pneumonia (J09-J18),Influenza and pneumonia,South Carolina,770,19.7
+
+6401,2003,Influenza and pneumonia (J09-J18),Influenza and pneumonia,South Carolina,907,23.8
+
+6402,2002,Influenza and pneumonia (J09-J18),Influenza and pneumonia,South Carolina,910,24.6
+
+6403,2001,Influenza and pneumonia (J09-J18),Influenza and pneumonia,South Carolina,754,20.5
+
+6404,2000,Influenza and pneumonia (J09-J18),Influenza and pneumonia,South Carolina,699,19.5
+
+6405,1999,Influenza and pneumonia (J09-J18),Influenza and pneumonia,South Carolina,883,25.2
+
+7325,2016,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,South Carolina,897,15.3
+
+7326,2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,South Carolina,886,15.5
+
+7327,2014,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,South Carolina,837,15.1
+
+7328,2013,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,South Carolina,869,16
+
+7329,2012,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,South Carolina,860,16.4
+
+7330,2011,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,South Carolina,802,16.1
+
+7331,2010,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,South Carolina,963,19.9
+
+7332,2009,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,South Carolina,893,18.8
+
+7333,2008,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,South Carolina,945,20.3
+
+7334,2007,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,South Carolina,806,17.9
+
+7335,2006,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,South Carolina,846,19.5
+
+7336,2005,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,South Carolina,823,19.6
+
+7337,2004,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,South Carolina,818,20.1
+
+7338,2003,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,South Carolina,797,20.1
+
+7339,2002,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,South Carolina,781,20.1
+
+7340,2001,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,South Carolina,632,16.5
+
+7341,2000,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,South Carolina,539,14.5
+
+7342,1999,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,South Carolina,434,11.8
+
+8260,2016,Cerebrovascular diseases (I60-I69),Stroke,South Carolina,2627,45.5
+
+8261,2015,Cerebrovascular diseases (I60-I69),Stroke,South Carolina,2600,46.7
+
+8262,2014,Cerebrovascular diseases (I60-I69),Stroke,South Carolina,2393,44.2
+
+8263,2013,Cerebrovascular diseases (I60-I69),Stroke,South Carolina,2508,47.6
+
+8264,2012,Cerebrovascular diseases (I60-I69),Stroke,South Carolina,2349,45.9
+
+8265,2011,Cerebrovascular diseases (I60-I69),Stroke,South Carolina,2287,46.3
+
+8266,2010,Cerebrovascular diseases (I60-I69),Stroke,South Carolina,2293,47.9
+
+8267,2009,Cerebrovascular diseases (I60-I69),Stroke,South Carolina,2400,51.3
+
+8268,2008,Cerebrovascular diseases (I60-I69),Stroke,South Carolina,2394,52.6
+
+8269,2007,Cerebrovascular diseases (I60-I69),Stroke,South Carolina,2466,55.8
+
+8270,2006,Cerebrovascular diseases (I60-I69),Stroke,South Carolina,2291,53.8
+
+8271,2005,Cerebrovascular diseases (I60-I69),Stroke,South Carolina,2458,60.2
+
+8272,2004,Cerebrovascular diseases (I60-I69),Stroke,South Carolina,2643,66.5
+
+8273,2003,Cerebrovascular diseases (I60-I69),Stroke,South Carolina,2748,71.2
+
+8274,2002,Cerebrovascular diseases (I60-I69),Stroke,South Carolina,2822,74.4
+
+8275,2001,Cerebrovascular diseases (I60-I69),Stroke,South Carolina,2832,76.2
+
+8276,2000,Cerebrovascular diseases (I60-I69),Stroke,South Carolina,2956,81.4
+
+8277,1999,Cerebrovascular diseases (I60-I69),Stroke,South Carolina,2974,83.4
+
+9196,2016,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,South Carolina,815,15.7
+
+9197,2015,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,South Carolina,742,14.8
+
+9198,2014,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,South Carolina,753,15.2
+
+9199,2013,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,South Carolina,696,14
+
+9200,2012,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,South Carolina,673,13.7
+
+9201,2011,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,South Carolina,658,13.6
+
+9202,2010,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,South Carolina,637,13.5
+
+9203,2009,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,South Carolina,619,13
+
+9204,2008,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,South Carolina,565,12
+
+9205,2007,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,South Carolina,530,11.6
+
+9206,2006,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,South Carolina,524,11.8
+
+9207,2005,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,South Carolina,510,11.8
+
+9208,2004,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,South Carolina,482,11.3
+
+9209,2003,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,South Carolina,476,11.5
+
+9210,2002,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,South Carolina,440,10.8
+
+9211,2001,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,South Carolina,467,11.4
+
+9212,2000,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,South Carolina,443,11.1
+
+9213,1999,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,South Carolina,418,10.5
+
+10092,2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,South Carolina,2737,54
+
+10093,2014,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,South Carolina,2436,48.2
+
+10094,2013,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,South Carolina,2287,46.6
+
+10095,2012,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,South Carolina,2336,48.3
+
+10096,2011,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,South Carolina,2285,48.2
+
+10097,2010,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,South Carolina,2274,48.9
+
+10098,2009,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,South Carolina,2229,48
+
+10099,2008,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,South Carolina,2285,50.4
+
+10100,2007,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,South Carolina,2364,53.2
+
+10101,2006,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,South Carolina,2315,53.3
+
+10102,2005,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,South Carolina,2272,53.4
+
+10103,2004,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,South Carolina,2094,50.1
+
+10104,2003,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,South Carolina,1941,47.5
+
+10105,2002,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,South Carolina,1972,48.7
+
+10106,2001,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,South Carolina,1960,49
+
+10107,2000,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,South Carolina,1974,50
+
+10108,1999,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,South Carolina,1901,49.2
+
+42,2016,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,South Carolina,3012,58.9
+
+772,2016,All Causes,All causes,South Carolina,48130,829.8
+
+773,2015,All Causes,All causes,South Carolina,47198,840
+
+774,2014,All Causes,All causes,South Carolina,45454,829.1
+
+775,2013,All Causes,All causes,South Carolina,44582,837.8
+
+776,2012,All Causes,All causes,South Carolina,43198,835.2
+
+777,2011,All Causes,All causes,South Carolina,42072,839.5
+
+778,2010,All Causes,All causes,South Carolina,41614,854.8
+
+779,2009,All Causes,All causes,South Carolina,40449,846.9
+
+780,2008,All Causes,All causes,South Carolina,40289,867
+
+781,2007,All Causes,All causes,South Carolina,39439,873.9
+
+782,2006,All Causes,All causes,South Carolina,38761,886.8
+
+783,2005,All Causes,All causes,South Carolina,38707,920.9
+
+784,2004,All Causes,All causes,South Carolina,37276,909.5
+
+785,2003,All Causes,All causes,South Carolina,38112,952.7
+
+786,2002,All Causes,All causes,South Carolina,37736,964.3
+
+787,2001,All Causes,All causes,South Carolina,36612,949.6
+
+788,2000,All Causes,All causes,South Carolina,36948,980.2
+
+789,1999,All Causes,All causes,South Carolina,36053,973.5
+
+1708,2016,Alzheimer's disease (G30),Alzheimer's disease,South Carolina,2481,45.3
+
+1709,2015,Alzheimer's disease (G30),Alzheimer's disease,South Carolina,2453,46.2
+
+1710,2014,Alzheimer's disease (G30),Alzheimer's disease,South Carolina,1938,37.4
+
+1711,2013,Alzheimer's disease (G30),Alzheimer's disease,South Carolina,1623,32.4
+
+1712,2012,Alzheimer's disease (G30),Alzheimer's disease,South Carolina,1634,33.6
+
+1713,2011,Alzheimer's disease (G30),Alzheimer's disease,South Carolina,1560,33.1
+
+1714,2010,Alzheimer's disease (G30),Alzheimer's disease,South Carolina,1570,34.7
+
+1715,2009,Alzheimer's disease (G30),Alzheimer's disease,South Carolina,1478,33.4
+
+1716,2008,Alzheimer's disease (G30),Alzheimer's disease,South Carolina,1492,34.7
+
+1717,2007,Alzheimer's disease (G30),Alzheimer's disease,South Carolina,1396,33.6
+
+1718,2006,Alzheimer's disease (G30),Alzheimer's disease,South Carolina,1364,34.1
+
+1719,2005,Alzheimer's disease (G30),Alzheimer's disease,South Carolina,1316,34.3
+
+1720,2004,Alzheimer's disease (G30),Alzheimer's disease,South Carolina,1245,33.3
+
+1721,2003,Alzheimer's disease (G30),Alzheimer's disease,South Carolina,1051,28.8
+
+1722,2002,Alzheimer's disease (G30),Alzheimer's disease,South Carolina,967,27.1
+
+1723,2001,Alzheimer's disease (G30),Alzheimer's disease,South Carolina,881,24.9
+
+1724,2000,Alzheimer's disease (G30),Alzheimer's disease,South Carolina,874,25.1
+
+1725,1999,Alzheimer's disease (G30),Alzheimer's disease,South Carolina,690,20.5
+
+2644,2016,Malignant neoplasms (C00-C97),Cancer,South Carolina,10356,167.7
+
+2645,2015,Malignant neoplasms (C00-C97),Cancer,South Carolina,9950,166.6
+
+2646,2014,Malignant neoplasms (C00-C97),Cancer,South Carolina,9930,171.4
+
+2647,2013,Malignant neoplasms (C00-C97),Cancer,South Carolina,9745,174
+
+2648,2012,Malignant neoplasms (C00-C97),Cancer,South Carolina,9728,178.8
+
+2649,2011,Malignant neoplasms (C00-C97),Cancer,South Carolina,9543,182
+
+2650,2010,Malignant neoplasms (C00-C97),Cancer,South Carolina,9356,183.6
+
+2651,2009,Malignant neoplasms (C00-C97),Cancer,South Carolina,9123,182.8
+
+2652,2008,Malignant neoplasms (C00-C97),Cancer,South Carolina,9199,190
+
+2653,2007,Malignant neoplasms (C00-C97),Cancer,South Carolina,8867,188.5
+
+2654,2006,Malignant neoplasms (C00-C97),Cancer,South Carolina,8853,194.7
+
+2655,2005,Malignant neoplasms (C00-C97),Cancer,South Carolina,8652,198.2
+
+2656,2004,Malignant neoplasms (C00-C97),Cancer,South Carolina,8348,195.8
+
+2657,2003,Malignant neoplasms (C00-C97),Cancer,South Carolina,8512,204.4
+
+2658,2002,Malignant neoplasms (C00-C97),Cancer,South Carolina,8333,205.8
+
+2659,2001,Malignant neoplasms (C00-C97),Cancer,South Carolina,8272,208.3
+
+2660,2000,Malignant neoplasms (C00-C97),Cancer,South Carolina,8250,212.6
+
+2661,1999,Malignant neoplasms (C00-C97),Cancer,South Carolina,8089,211.7
+
+3580,2016,Chronic lower respiratory diseases (J40-J47),CLRD,South Carolina,2870,47.5
+
+3581,2015,Chronic lower respiratory diseases (J40-J47),CLRD,South Carolina,2908,49.9
+
+3582,2014,Chronic lower respiratory diseases (J40-J47),CLRD,South Carolina,2715,48.2
+
+3583,2013,Chronic lower respiratory diseases (J40-J47),CLRD,South Carolina,2756,50.8
+
+3584,2012,Chronic lower respiratory diseases (J40-J47),CLRD,South Carolina,2467,46.9
+
+3585,2011,Chronic lower respiratory diseases (J40-J47),CLRD,South Carolina,2402,47.6
+
+3586,2010,Chronic lower respiratory diseases (J40-J47),CLRD,South Carolina,2264,46.3
+
+3587,2009,Chronic lower respiratory diseases (J40-J47),CLRD,South Carolina,2317,48.2
+
+3588,2008,Chronic lower respiratory diseases (J40-J47),CLRD,South Carolina,2266,48.5
+
+3589,2007,Chronic lower respiratory diseases (J40-J47),CLRD,South Carolina,2036,44.9
+
+3590,2006,Chronic lower respiratory diseases (J40-J47),CLRD,South Carolina,1935,44
+
+3591,2005,Chronic lower respiratory diseases (J40-J47),CLRD,South Carolina,1977,46.7
+
+3592,2004,Chronic lower respiratory diseases (J40-J47),CLRD,South Carolina,1792,43.5
+
+3593,2003,Chronic lower respiratory diseases (J40-J47),CLRD,South Carolina,1913,47.4
+
+3594,2002,Chronic lower respiratory diseases (J40-J47),CLRD,South Carolina,1889,48.1
+
+3595,2001,Chronic lower respiratory diseases (J40-J47),CLRD,South Carolina,1731,44.8
+
+3596,2000,Chronic lower respiratory diseases (J40-J47),CLRD,South Carolina,1730,45.8
+
+3597,1999,Chronic lower respiratory diseases (J40-J47),CLRD,South Carolina,1752,47
+
+4516,2016,Diabetes mellitus (E10-E14),Diabetes,South Carolina,1369,22.3
+
+4517,2015,Diabetes mellitus (E10-E14),Diabetes,South Carolina,1347,23.4
+
+4518,2014,Diabetes mellitus (E10-E14),Diabetes,South Carolina,1239,21.8
+
+4519,2013,Diabetes mellitus (E10-E14),Diabetes,South Carolina,1240,22.5
+
+4520,2012,Diabetes mellitus (E10-E14),Diabetes,South Carolina,1197,22.3
+
+4521,2011,Diabetes mellitus (E10-E14),Diabetes,South Carolina,1090,21
+
+4522,2010,Diabetes mellitus (E10-E14),Diabetes,South Carolina,1128,22.6
+
+4523,2009,Diabetes mellitus (E10-E14),Diabetes,South Carolina,1128,23.1
+
+4524,2008,Diabetes mellitus (E10-E14),Diabetes,South Carolina,1133,23.9
+
+4525,2007,Diabetes mellitus (E10-E14),Diabetes,South Carolina,1231,26.7
+
+4526,2006,Diabetes mellitus (E10-E14),Diabetes,South Carolina,1136,25.5
+
+4527,2005,Diabetes mellitus (E10-E14),Diabetes,South Carolina,1187,27.6
+
+4528,2004,Diabetes mellitus (E10-E14),Diabetes,South Carolina,1165,27.8
+
+4529,2003,Diabetes mellitus (E10-E14),Diabetes,South Carolina,1161,28.3
+
+4530,2002,Diabetes mellitus (E10-E14),Diabetes,South Carolina,1112,27.8
+
+4531,2001,Diabetes mellitus (E10-E14),Diabetes,South Carolina,1088,27.7
+
+4532,2000,Diabetes mellitus (E10-E14),Diabetes,South Carolina,1206,31.5
+
+4533,1999,Diabetes mellitus (E10-E14),Diabetes,South Carolina,1118,29.6
+
+5453,2016,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,South Carolina,10195,173.8
+
+5454,2015,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,South Carolina,10092,177.8
+
+5455,2014,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,South Carolina,9964,181.1
+
+5456,2013,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,South Carolina,9648,180
+
+5457,2012,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,South Carolina,9364,180.2
+
+5458,2011,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,South Carolina,9295,184.5
+
+5459,2010,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,South Carolina,9295,189.9
+
+5460,2009,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,South Carolina,9068,189.5
+
+5461,2008,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,South Carolina,8996,193.4
+
+5462,2007,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,South Carolina,8992,199.9
+
+5463,2006,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,South Carolina,9030,206.8
+
+5464,2005,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,South Carolina,9359,223.9
+
+5465,2004,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,South Carolina,9182,225.6
+
+5466,2003,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,South Carolina,9510,240.1
+
+5467,2002,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,South Carolina,9659,249.4
+
+5468,2001,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,South Carolina,9471,248.6
+
+5469,2000,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,South Carolina,9893,265.8
+
+5470,1999,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,South Carolina,9981,273.4
+
+6388,2016,Influenza and pneumonia (J09-J18),Influenza and pneumonia,South Carolina,690,12
+
+6389,2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,South Carolina,848,15.3
+
+6390,2014,Influenza and pneumonia (J09-J18),Influenza and pneumonia,South Carolina,751,13.9
+
+6391,2013,Influenza and pneumonia (J09-J18),Influenza and pneumonia,South Carolina,747,14.2
+
+6392,2012,Influenza and pneumonia (J09-J18),Influenza and pneumonia,South Carolina,726,14.4
+
+6393,2011,Influenza and pneumonia (J09-J18),Influenza and pneumonia,South Carolina,768,15.7
+
+6394,2010,Influenza and pneumonia (J09-J18),Influenza and pneumonia,South Carolina,747,15.9
+
+6395,2009,Influenza and pneumonia (J09-J18),Influenza and pneumonia,South Carolina,759,16.4
+
+6396,2008,Influenza and pneumonia (J09-J18),Influenza and pneumonia,South Carolina,727,16.2
+
+6397,2007,Influenza and pneumonia (J09-J18),Influenza and pneumonia,South Carolina,723,16.8
+
+6398,2006,Influenza and pneumonia (J09-J18),Influenza and pneumonia,South Carolina,724,17.3
+
+6399,2005,Influenza and pneumonia (J09-J18),Influenza and pneumonia,South Carolina,771,19.2
+
+6400,2004,Influenza and pneumonia (J09-J18),Influenza and pneumonia,South Carolina,770,19.7
+
+6401,2003,Influenza and pneumonia (J09-J18),Influenza and pneumonia,South Carolina,907,23.8
+
+6402,2002,Influenza and pneumonia (J09-J18),Influenza and pneumonia,South Carolina,910,24.6
+
+6403,2001,Influenza and pneumonia (J09-J18),Influenza and pneumonia,South Carolina,754,20.5
+
+6404,2000,Influenza and pneumonia (J09-J18),Influenza and pneumonia,South Carolina,699,19.5
+
+6405,1999,Influenza and pneumonia (J09-J18),Influenza and pneumonia,South Carolina,883,25.2
+
+7325,2016,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,South Carolina,897,15.3
+
+7326,2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,South Carolina,886,15.5
+
+7327,2014,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,South Carolina,837,15.1
+
+7328,2013,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,South Carolina,869,16
+
+7329,2012,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,South Carolina,860,16.4
+
+7330,2011,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,South Carolina,802,16.1
+
+7331,2010,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,South Carolina,963,19.9
+
+7332,2009,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,South Carolina,893,18.8
+
+7333,2008,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,South Carolina,945,20.3
+
+7334,2007,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,South Carolina,806,17.9
+
+7335,2006,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,South Carolina,846,19.5
+
+7336,2005,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,South Carolina,823,19.6
+
+7337,2004,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,South Carolina,818,20.1
+
+7338,2003,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,South Carolina,797,20.1
+
+7339,2002,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,South Carolina,781,20.1
+
+7340,2001,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,South Carolina,632,16.5
+
+7341,2000,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,South Carolina,539,14.5
+
+7342,1999,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,South Carolina,434,11.8
+
+8260,2016,Cerebrovascular diseases (I60-I69),Stroke,South Carolina,2627,45.5
+
+8261,2015,Cerebrovascular diseases (I60-I69),Stroke,South Carolina,2600,46.7
+
+8262,2014,Cerebrovascular diseases (I60-I69),Stroke,South Carolina,2393,44.2
+
+8263,2013,Cerebrovascular diseases (I60-I69),Stroke,South Carolina,2508,47.6
+
+8264,2012,Cerebrovascular diseases (I60-I69),Stroke,South Carolina,2349,45.9
+
+8265,2011,Cerebrovascular diseases (I60-I69),Stroke,South Carolina,2287,46.3
+
+8266,2010,Cerebrovascular diseases (I60-I69),Stroke,South Carolina,2293,47.9
+
+8267,2009,Cerebrovascular diseases (I60-I69),Stroke,South Carolina,2400,51.3
+
+8268,2008,Cerebrovascular diseases (I60-I69),Stroke,South Carolina,2394,52.6
+
+8269,2007,Cerebrovascular diseases (I60-I69),Stroke,South Carolina,2466,55.8
+
+8270,2006,Cerebrovascular diseases (I60-I69),Stroke,South Carolina,2291,53.8
+
+8271,2005,Cerebrovascular diseases (I60-I69),Stroke,South Carolina,2458,60.2
+
+8272,2004,Cerebrovascular diseases (I60-I69),Stroke,South Carolina,2643,66.5
+
+8273,2003,Cerebrovascular diseases (I60-I69),Stroke,South Carolina,2748,71.2
+
+8274,2002,Cerebrovascular diseases (I60-I69),Stroke,South Carolina,2822,74.4
+
+8275,2001,Cerebrovascular diseases (I60-I69),Stroke,South Carolina,2832,76.2
+
+8276,2000,Cerebrovascular diseases (I60-I69),Stroke,South Carolina,2956,81.4
+
+8277,1999,Cerebrovascular diseases (I60-I69),Stroke,South Carolina,2974,83.4
+
+9196,2016,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,South Carolina,815,15.7
+
+9197,2015,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,South Carolina,742,14.8
+
+9198,2014,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,South Carolina,753,15.2
+
+9199,2013,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,South Carolina,696,14
+
+9200,2012,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,South Carolina,673,13.7
+
+9201,2011,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,South Carolina,658,13.6
+
+9202,2010,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,South Carolina,637,13.5
+
+9203,2009,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,South Carolina,619,13
+
+9204,2008,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,South Carolina,565,12
+
+9205,2007,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,South Carolina,530,11.6
+
+9206,2006,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,South Carolina,524,11.8
+
+9207,2005,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,South Carolina,510,11.8
+
+9208,2004,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,South Carolina,482,11.3
+
+9209,2003,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,South Carolina,476,11.5
+
+9210,2002,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,South Carolina,440,10.8
+
+9211,2001,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,South Carolina,467,11.4
+
+9212,2000,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,South Carolina,443,11.1
+
+9213,1999,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,South Carolina,418,10.5
+
+10092,2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,South Carolina,2737,54
+
+10093,2014,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,South Carolina,2436,48.2
+
+10094,2013,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,South Carolina,2287,46.6
+
+10095,2012,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,South Carolina,2336,48.3
+
+10096,2011,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,South Carolina,2285,48.2
+
+10097,2010,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,South Carolina,2274,48.9
+
+10098,2009,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,South Carolina,2229,48
+
+10099,2008,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,South Carolina,2285,50.4
+
+10100,2007,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,South Carolina,2364,53.2
+
+10101,2006,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,South Carolina,2315,53.3
+
+10102,2005,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,South Carolina,2272,53.4
+
+10103,2004,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,South Carolina,2094,50.1
+
+10104,2003,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,South Carolina,1941,47.5
+
+10105,2002,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,South Carolina,1972,48.7
+
+10106,2001,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,South Carolina,1960,49
+
+10107,2000,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,South Carolina,1974,50
+
+10108,1999,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,South Carolina,1901,49.2
+
+42,2016,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,South Carolina,3012,58.9
+
+772,2016,All Causes,All causes,South Carolina,48130,829.8
+
+773,2015,All Causes,All causes,South Carolina,47198,840
+
+774,2014,All Causes,All causes,South Carolina,45454,829.1
+
+775,2013,All Causes,All causes,South Carolina,44582,837.8
+
+776,2012,All Causes,All causes,South Carolina,43198,835.2
+
+777,2011,All Causes,All causes,South Carolina,42072,839.5
+
+778,2010,All Causes,All causes,South Carolina,41614,854.8
+
+779,2009,All Causes,All causes,South Carolina,40449,846.9
+
+780,2008,All Causes,All causes,South Carolina,40289,867
+
+781,2007,All Causes,All causes,South Carolina,39439,873.9
+
+782,2006,All Causes,All causes,South Carolina,38761,886.8
+
+783,2005,All Causes,All causes,South Carolina,38707,920.9
+
+784,2004,All Causes,All causes,South Carolina,37276,909.5
+
+785,2003,All Causes,All causes,South Carolina,38112,952.7
+
+786,2002,All Causes,All causes,South Carolina,37736,964.3
+
+787,2001,All Causes,All causes,South Carolina,36612,949.6
+
+788,2000,All Causes,All causes,South Carolina,36948,980.2
+
+789,1999,All Causes,All causes,South Carolina,36053,973.5
+
+1708,2016,Alzheimer's disease (G30),Alzheimer's disease,South Carolina,2481,45.3
+
+1709,2015,Alzheimer's disease (G30),Alzheimer's disease,South Carolina,2453,46.2
+
+1710,2014,Alzheimer's disease (G30),Alzheimer's disease,South Carolina,1938,37.4
+
+1711,2013,Alzheimer's disease (G30),Alzheimer's disease,South Carolina,1623,32.4
+
+1712,2012,Alzheimer's disease (G30),Alzheimer's disease,South Carolina,1634,33.6
+
+1713,2011,Alzheimer's disease (G30),Alzheimer's disease,South Carolina,1560,33.1
+
+1714,2010,Alzheimer's disease (G30),Alzheimer's disease,South Carolina,1570,34.7
+
+1715,2009,Alzheimer's disease (G30),Alzheimer's disease,South Carolina,1478,33.4
+
+1716,2008,Alzheimer's disease (G30),Alzheimer's disease,South Carolina,1492,34.7
+
+1717,2007,Alzheimer's disease (G30),Alzheimer's disease,South Carolina,1396,33.6
+
+1718,2006,Alzheimer's disease (G30),Alzheimer's disease,South Carolina,1364,34.1
+
+1719,2005,Alzheimer's disease (G30),Alzheimer's disease,South Carolina,1316,34.3
+
+1720,2004,Alzheimer's disease (G30),Alzheimer's disease,South Carolina,1245,33.3
+
+1721,2003,Alzheimer's disease (G30),Alzheimer's disease,South Carolina,1051,28.8
+
+1722,2002,Alzheimer's disease (G30),Alzheimer's disease,South Carolina,967,27.1
+
+1723,2001,Alzheimer's disease (G30),Alzheimer's disease,South Carolina,881,24.9
+
+1724,2000,Alzheimer's disease (G30),Alzheimer's disease,South Carolina,874,25.1
+
+1725,1999,Alzheimer's disease (G30),Alzheimer's disease,South Carolina,690,20.5
+
+2644,2016,Malignant neoplasms (C00-C97),Cancer,South Carolina,10356,167.7
+
+2645,2015,Malignant neoplasms (C00-C97),Cancer,South Carolina,9950,166.6
+
+2646,2014,Malignant neoplasms (C00-C97),Cancer,South Carolina,9930,171.4
+
+2647,2013,Malignant neoplasms (C00-C97),Cancer,South Carolina,9745,174
+
+2648,2012,Malignant neoplasms (C00-C97),Cancer,South Carolina,9728,178.8
+
+2649,2011,Malignant neoplasms (C00-C97),Cancer,South Carolina,9543,182
+
+2650,2010,Malignant neoplasms (C00-C97),Cancer,South Carolina,9356,183.6
+
+2651,2009,Malignant neoplasms (C00-C97),Cancer,South Carolina,9123,182.8
+
+2652,2008,Malignant neoplasms (C00-C97),Cancer,South Carolina,9199,190
+
+2653,2007,Malignant neoplasms (C00-C97),Cancer,South Carolina,8867,188.5
+
+2654,2006,Malignant neoplasms (C00-C97),Cancer,South Carolina,8853,194.7
+
+2655,2005,Malignant neoplasms (C00-C97),Cancer,South Carolina,8652,198.2
+
+2656,2004,Malignant neoplasms (C00-C97),Cancer,South Carolina,8348,195.8
+
+2657,2003,Malignant neoplasms (C00-C97),Cancer,South Carolina,8512,204.4
+
+2658,2002,Malignant neoplasms (C00-C97),Cancer,South Carolina,8333,205.8
+
+2659,2001,Malignant neoplasms (C00-C97),Cancer,South Carolina,8272,208.3
+
+2660,2000,Malignant neoplasms (C00-C97),Cancer,South Carolina,8250,212.6
+
+2661,1999,Malignant neoplasms (C00-C97),Cancer,South Carolina,8089,211.7
+
+3580,2016,Chronic lower respiratory diseases (J40-J47),CLRD,South Carolina,2870,47.5
+
+3581,2015,Chronic lower respiratory diseases (J40-J47),CLRD,South Carolina,2908,49.9
+
+3582,2014,Chronic lower respiratory diseases (J40-J47),CLRD,South Carolina,2715,48.2
+
+3583,2013,Chronic lower respiratory diseases (J40-J47),CLRD,South Carolina,2756,50.8
+
+3584,2012,Chronic lower respiratory diseases (J40-J47),CLRD,South Carolina,2467,46.9
+
+3585,2011,Chronic lower respiratory diseases (J40-J47),CLRD,South Carolina,2402,47.6
+
+3586,2010,Chronic lower respiratory diseases (J40-J47),CLRD,South Carolina,2264,46.3
+
+3587,2009,Chronic lower respiratory diseases (J40-J47),CLRD,South Carolina,2317,48.2
+
+3588,2008,Chronic lower respiratory diseases (J40-J47),CLRD,South Carolina,2266,48.5
+
+3589,2007,Chronic lower respiratory diseases (J40-J47),CLRD,South Carolina,2036,44.9
+
+3590,2006,Chronic lower respiratory diseases (J40-J47),CLRD,South Carolina,1935,44
+
+3591,2005,Chronic lower respiratory diseases (J40-J47),CLRD,South Carolina,1977,46.7
+
+3592,2004,Chronic lower respiratory diseases (J40-J47),CLRD,South Carolina,1792,43.5
+
+3593,2003,Chronic lower respiratory diseases (J40-J47),CLRD,South Carolina,1913,47.4
+
+3594,2002,Chronic lower respiratory diseases (J40-J47),CLRD,South Carolina,1889,48.1
+
+3595,2001,Chronic lower respiratory diseases (J40-J47),CLRD,South Carolina,1731,44.8
+
+3596,2000,Chronic lower respiratory diseases (J40-J47),CLRD,South Carolina,1730,45.8
+
+3597,1999,Chronic lower respiratory diseases (J40-J47),CLRD,South Carolina,1752,47
+
+4516,2016,Diabetes mellitus (E10-E14),Diabetes,South Carolina,1369,22.3
+
+4517,2015,Diabetes mellitus (E10-E14),Diabetes,South Carolina,1347,23.4
+
+4518,2014,Diabetes mellitus (E10-E14),Diabetes,South Carolina,1239,21.8
+
+4519,2013,Diabetes mellitus (E10-E14),Diabetes,South Carolina,1240,22.5
+
+4520,2012,Diabetes mellitus (E10-E14),Diabetes,South Carolina,1197,22.3
+
+4521,2011,Diabetes mellitus (E10-E14),Diabetes,South Carolina,1090,21
+
+4522,2010,Diabetes mellitus (E10-E14),Diabetes,South Carolina,1128,22.6
+
+4523,2009,Diabetes mellitus (E10-E14),Diabetes,South Carolina,1128,23.1
+
+4524,2008,Diabetes mellitus (E10-E14),Diabetes,South Carolina,1133,23.9
+
+4525,2007,Diabetes mellitus (E10-E14),Diabetes,South Carolina,1231,26.7
+
+4526,2006,Diabetes mellitus (E10-E14),Diabetes,South Carolina,1136,25.5
+
+4527,2005,Diabetes mellitus (E10-E14),Diabetes,South Carolina,1187,27.6
+
+4528,2004,Diabetes mellitus (E10-E14),Diabetes,South Carolina,1165,27.8
+
+4529,2003,Diabetes mellitus (E10-E14),Diabetes,South Carolina,1161,28.3
+
+4530,2002,Diabetes mellitus (E10-E14),Diabetes,South Carolina,1112,27.8
+
+4531,2001,Diabetes mellitus (E10-E14),Diabetes,South Carolina,1088,27.7
+
+4532,2000,Diabetes mellitus (E10-E14),Diabetes,South Carolina,1206,31.5
+
+4533,1999,Diabetes mellitus (E10-E14),Diabetes,South Carolina,1118,29.6
+
+5453,2016,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,South Carolina,10195,173.8
+
+5454,2015,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,South Carolina,10092,177.8
+
+5455,2014,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,South Carolina,9964,181.1
+
+5456,2013,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,South Carolina,9648,180
+
+5457,2012,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,South Carolina,9364,180.2
+
+5458,2011,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,South Carolina,9295,184.5
+
+5459,2010,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,South Carolina,9295,189.9
+
+5460,2009,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,South Carolina,9068,189.5
+
+5461,2008,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,South Carolina,8996,193.4
+
+5462,2007,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,South Carolina,8992,199.9
+
+5463,2006,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,South Carolina,9030,206.8
+
+5464,2005,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,South Carolina,9359,223.9
+
+5465,2004,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,South Carolina,9182,225.6
+
+5466,2003,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,South Carolina,9510,240.1
+
+5467,2002,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,South Carolina,9659,249.4
+
+5468,2001,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,South Carolina,9471,248.6
+
+5469,2000,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,South Carolina,9893,265.8
+
+5470,1999,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,South Carolina,9981,273.4
+
+6388,2016,Influenza and pneumonia (J09-J18),Influenza and pneumonia,South Carolina,690,12
+
+6389,2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,South Carolina,848,15.3
+
+6390,2014,Influenza and pneumonia (J09-J18),Influenza and pneumonia,South Carolina,751,13.9
+
+6391,2013,Influenza and pneumonia (J09-J18),Influenza and pneumonia,South Carolina,747,14.2
+
+6392,2012,Influenza and pneumonia (J09-J18),Influenza and pneumonia,South Carolina,726,14.4
+
+6393,2011,Influenza and pneumonia (J09-J18),Influenza and pneumonia,South Carolina,768,15.7
+
+6394,2010,Influenza and pneumonia (J09-J18),Influenza and pneumonia,South Carolina,747,15.9
+
+6395,2009,Influenza and pneumonia (J09-J18),Influenza and pneumonia,South Carolina,759,16.4
+
+6396,2008,Influenza and pneumonia (J09-J18),Influenza and pneumonia,South Carolina,727,16.2
+
+6397,2007,Influenza and pneumonia (J09-J18),Influenza and pneumonia,South Carolina,723,16.8
+
+6398,2006,Influenza and pneumonia (J09-J18),Influenza and pneumonia,South Carolina,724,17.3
+
+6399,2005,Influenza and pneumonia (J09-J18),Influenza and pneumonia,South Carolina,771,19.2
+
+6400,2004,Influenza and pneumonia (J09-J18),Influenza and pneumonia,South Carolina,770,19.7
+
+6401,2003,Influenza and pneumonia (J09-J18),Influenza and pneumonia,South Carolina,907,23.8
+
+6402,2002,Influenza and pneumonia (J09-J18),Influenza and pneumonia,South Carolina,910,24.6
+
+6403,2001,Influenza and pneumonia (J09-J18),Influenza and pneumonia,South Carolina,754,20.5
+
+6404,2000,Influenza and pneumonia (J09-J18),Influenza and pneumonia,South Carolina,699,19.5
+
+6405,1999,Influenza and pneumonia (J09-J18),Influenza and pneumonia,South Carolina,883,25.2
+
+7325,2016,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,South Carolina,897,15.3
+
+7326,2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,South Carolina,886,15.5
+
+7327,2014,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,South Carolina,837,15.1
+
+7328,2013,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,South Carolina,869,16
+
+7329,2012,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,South Carolina,860,16.4
+
+7330,2011,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,South Carolina,802,16.1
+
+7331,2010,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,South Carolina,963,19.9
+
+7332,2009,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,South Carolina,893,18.8
+
+7333,2008,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,South Carolina,945,20.3
+
+7334,2007,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,South Carolina,806,17.9
+
+7335,2006,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,South Carolina,846,19.5
+
+7336,2005,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,South Carolina,823,19.6
+
+7337,2004,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,South Carolina,818,20.1
+
+7338,2003,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,South Carolina,797,20.1
+
+7339,2002,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,South Carolina,781,20.1
+
+7340,2001,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,South Carolina,632,16.5
+
+7341,2000,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,South Carolina,539,14.5
+
+7342,1999,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,South Carolina,434,11.8
+
+8260,2016,Cerebrovascular diseases (I60-I69),Stroke,South Carolina,2627,45.5
+
+8261,2015,Cerebrovascular diseases (I60-I69),Stroke,South Carolina,2600,46.7
+
+8262,2014,Cerebrovascular diseases (I60-I69),Stroke,South Carolina,2393,44.2
+
+8263,2013,Cerebrovascular diseases (I60-I69),Stroke,South Carolina,2508,47.6
+
+8264,2012,Cerebrovascular diseases (I60-I69),Stroke,South Carolina,2349,45.9
+
+8265,2011,Cerebrovascular diseases (I60-I69),Stroke,South Carolina,2287,46.3
+
+8266,2010,Cerebrovascular diseases (I60-I69),Stroke,South Carolina,2293,47.9
+
+8267,2009,Cerebrovascular diseases (I60-I69),Stroke,South Carolina,2400,51.3
+
+8268,2008,Cerebrovascular diseases (I60-I69),Stroke,South Carolina,2394,52.6
+
+8269,2007,Cerebrovascular diseases (I60-I69),Stroke,South Carolina,2466,55.8
+
+8270,2006,Cerebrovascular diseases (I60-I69),Stroke,South Carolina,2291,53.8
+
+8271,2005,Cerebrovascular diseases (I60-I69),Stroke,South Carolina,2458,60.2
+
+8272,2004,Cerebrovascular diseases (I60-I69),Stroke,South Carolina,2643,66.5
+
+8273,2003,Cerebrovascular diseases (I60-I69),Stroke,South Carolina,2748,71.2
+
+8274,2002,Cerebrovascular diseases (I60-I69),Stroke,South Carolina,2822,74.4
+
+8275,2001,Cerebrovascular diseases (I60-I69),Stroke,South Carolina,2832,76.2
+
+8276,2000,Cerebrovascular diseases (I60-I69),Stroke,South Carolina,2956,81.4
+
+8277,1999,Cerebrovascular diseases (I60-I69),Stroke,South Carolina,2974,83.4
+
+9196,2016,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,South Carolina,815,15.7
+
+9197,2015,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,South Carolina,742,14.8
+
+9198,2014,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,South Carolina,753,15.2
+
+9199,2013,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,South Carolina,696,14
+
+9200,2012,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,South Carolina,673,13.7
+
+9201,2011,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,South Carolina,658,13.6
+
+9202,2010,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,South Carolina,637,13.5
+
+9203,2009,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,South Carolina,619,13
+
+9204,2008,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,South Carolina,565,12
+
+9205,2007,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,South Carolina,530,11.6
+
+9206,2006,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,South Carolina,524,11.8
+
+9207,2005,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,South Carolina,510,11.8
+
+9208,2004,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,South Carolina,482,11.3
+
+9209,2003,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,South Carolina,476,11.5
+
+9210,2002,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,South Carolina,440,10.8
+
+9211,2001,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,South Carolina,467,11.4
+
+9212,2000,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,South Carolina,443,11.1
+
+9213,1999,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,South Carolina,418,10.5
+
+10092,2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,South Carolina,2737,54
+
+10093,2014,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,South Carolina,2436,48.2
+
+10094,2013,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,South Carolina,2287,46.6
+
+10095,2012,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,South Carolina,2336,48.3
+
+10096,2011,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,South Carolina,2285,48.2
+
+10097,2010,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,South Carolina,2274,48.9
+
+10098,2009,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,South Carolina,2229,48
+
+10099,2008,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,South Carolina,2285,50.4
+
+10100,2007,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,South Carolina,2364,53.2
+
+10101,2006,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,South Carolina,2315,53.3
+
+10102,2005,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,South Carolina,2272,53.4
+
+10103,2004,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,South Carolina,2094,50.1
+
+10104,2003,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,South Carolina,1941,47.5
+
+10105,2002,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,South Carolina,1972,48.7
+
+10106,2001,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,South Carolina,1960,49
+
+10107,2000,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,South Carolina,1974,50
+
+10108,1999,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,South Carolina,1901,49.2
+

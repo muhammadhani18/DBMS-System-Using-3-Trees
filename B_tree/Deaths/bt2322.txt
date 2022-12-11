@@ -1,0 +1,8 @@
+5441,2010,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Rhode Island,2322,167.1
+
+7864,2016,Cerebrovascular diseases (I60-I69),Stroke,Louisiana,2322,46
+
+5441,2010,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Rhode Island,2322,167.1
+
+7864,2016,Cerebrovascular diseases (I60-I69),Stroke,Louisiana,2322,46
+

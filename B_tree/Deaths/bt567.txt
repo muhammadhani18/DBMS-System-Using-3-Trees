@@ -1,0 +1,36 @@
+4764,2002,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Alaska,567,169.3
+
+6106,2010,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Mississippi,567,19.2
+
+6172,2016,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Nevada,567,18.1
+
+6722,2006,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Connecticut,567,13.5
+
+6725,2003,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Connecticut,567,14
+
+7267,2001,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Oklahoma,567,15.8
+
+8795,2003,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Kentucky,567,13.6
+
+8804,2012,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Louisiana,567,12.4
+
+9131,2009,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Oklahoma,567,15.3
+
+4764,2002,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Alaska,567,169.3
+
+6106,2010,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Mississippi,567,19.2
+
+6172,2016,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Nevada,567,18.1
+
+6722,2006,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Connecticut,567,13.5
+
+6725,2003,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Connecticut,567,14
+
+7267,2001,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Oklahoma,567,15.8
+
+8795,2003,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Kentucky,567,13.6
+
+8804,2012,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Louisiana,567,12.4
+
+9131,2009,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Oklahoma,567,15.3
+

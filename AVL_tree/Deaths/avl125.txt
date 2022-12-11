@@ -1,0 +1,8 @@
+1914,2008,Alzheimer's disease (G30),Alzheimer's disease,Wyoming,125,24.3
+
+7074,2014,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Montana,125,9.7
+
+8606,2012,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Delaware,125,13.2
+
+9224,2006,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,South Dakota,125,16
+

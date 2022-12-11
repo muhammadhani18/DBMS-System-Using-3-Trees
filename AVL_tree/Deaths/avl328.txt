@@ -1,0 +1,6 @@
+1558,2004,Alzheimer's disease (G30),Alzheimer's disease,New Mexico,328,19.3
+
+1699,2007,Alzheimer's disease (G30),Alzheimer's disease,Rhode Island,328,22.2
+
+8923,2001,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Mississippi,328,11.7
+

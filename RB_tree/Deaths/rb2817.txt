@@ -1,0 +1,4 @@
+1588,2010,Alzheimer's disease (G30),Alzheimer's disease,North Carolina,2817,30.3
+
+4031,2015,Diabetes mellitus (E10-E14),Diabetes,Illinois,2817,19.2
+

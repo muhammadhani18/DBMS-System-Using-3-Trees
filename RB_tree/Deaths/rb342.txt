@@ -1,0 +1,14 @@
+1814,2000,Alzheimer's disease (G30),Alzheimer's disease,Utah,342,23.6
+
+3058,2016,Chronic lower respiratory diseases (J40-J47),CLRD,Hawaii,342,17.7
+
+3477,2011,Chronic lower respiratory diseases (J40-J47),CLRD,North Dakota,342,39.6
+
+6154,2016,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Nebraska,342,14.3
+
+6386,2000,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Rhode Island,342,26.6
+
+9045,2005,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,New Mexico,342,17.8
+
+9997,2008,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,North Dakota,342,47.2
+

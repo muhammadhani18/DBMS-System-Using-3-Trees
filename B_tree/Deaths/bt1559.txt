@@ -1,0 +1,8 @@
+2925,2005,Chronic lower respiratory diseases (J40-J47),CLRD,Arkansas,1559,51.1
+
+6527,2003,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Virginia,1559,24.2
+
+2925,2005,Chronic lower respiratory diseases (J40-J47),CLRD,Arkansas,1559,51.1
+
+6527,2003,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Virginia,1559,24.2
+

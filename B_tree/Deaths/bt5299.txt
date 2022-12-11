@@ -1,0 +1,8 @@
+3101,2009,Chronic lower respiratory diseases (J40-J47),CLRD,Illinois,5299,40.3
+
+10067,2006,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Pennsylvania,5299,39.5
+
+3101,2009,Chronic lower respiratory diseases (J40-J47),CLRD,Illinois,5299,40.3
+
+10067,2006,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Pennsylvania,5299,39.5
+

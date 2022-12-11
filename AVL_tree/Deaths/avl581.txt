@@ -1,0 +1,8 @@
+3091,2001,Chronic lower respiratory diseases (J40-J47),CLRD,Idaho,581,48.6
+
+3398,2000,Chronic lower respiratory diseases (J40-J47),CLRD,New Hampshire,581,49.4
+
+3677,2009,Chronic lower respiratory diseases (J40-J47),CLRD,Utah,581,29.5
+
+9855,2014,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Montana,581,52.6
+

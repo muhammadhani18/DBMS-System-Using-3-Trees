@@ -1,0 +1,8 @@
+9267,1999,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Texas,2005,10.2
+
+10034,2005,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Oklahoma,2005,56.1
+
+9267,1999,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Texas,2005,10.2
+
+10034,2005,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Oklahoma,2005,56.1
+

@@ -1,0 +1,4 @@
+2318,2000,Malignant neoplasms (C00-C97),Cancer,Massachusetts,14027,207.2
+
+2318,2000,Malignant neoplasms (C00-C97),Cancer,Massachusetts,14027,207.2
+

@@ -1,0 +1,12 @@
+42,2016,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,South Carolina,3012,58.9
+
+2916,2014,Chronic lower respiratory diseases (J40-J47),CLRD,Arkansas,2092,58.9
+
+2919,2011,Chronic lower respiratory diseases (J40-J47),CLRD,Arkansas,1985,58.9
+
+9835,2000,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Mississippi,1653,58.9
+
+9836,1999,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Mississippi,1642,58.9
+
+10289,2006,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wyoming,306,58.9
+

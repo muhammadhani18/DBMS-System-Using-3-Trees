@@ -1,0 +1,8 @@
+1238,2000,Alzheimer's disease (G30),Alzheimer's disease,Illinois,2154,17.7
+
+7959,2011,Cerebrovascular diseases (I60-I69),Stroke,Minnesota,2154,35
+
+1238,2000,Alzheimer's disease (G30),Alzheimer's disease,Illinois,2154,17.7
+
+7959,2011,Cerebrovascular diseases (I60-I69),Stroke,Minnesota,2154,35
+

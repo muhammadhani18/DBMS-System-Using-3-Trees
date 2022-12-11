@@ -1,0 +1,12 @@
+4263,1999,Diabetes mellitus (E10-E14),Diabetes,Missouri,1554,26.3
+
+4667,2009,Diabetes mellitus (E10-E14),Diabetes,Washington,1554,22.8
+
+4671,2005,Diabetes mellitus (E10-E14),Diabetes,Washington,1554,25.5
+
+4263,1999,Diabetes mellitus (E10-E14),Diabetes,Missouri,1554,26.3
+
+4667,2009,Diabetes mellitus (E10-E14),Diabetes,Washington,1554,22.8
+
+4671,2005,Diabetes mellitus (E10-E14),Diabetes,Washington,1554,25.5
+

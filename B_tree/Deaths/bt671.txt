@@ -1,0 +1,20 @@
+3676,2010,Chronic lower respiratory diseases (J40-J47),CLRD,Utah,671,33.2
+
+4242,2002,Diabetes mellitus (E10-E14),Diabetes,Mississippi,671,24.4
+
+4356,2014,Diabetes mellitus (E10-E14),Diabetes,New Mexico,671,27.5
+
+7745,2009,Cerebrovascular diseases (I60-I69),Stroke,Hawaii,671,41
+
+7890,2008,Cerebrovascular diseases (I60-I69),Stroke,Maine,671,40.4
+
+3676,2010,Chronic lower respiratory diseases (J40-J47),CLRD,Utah,671,33.2
+
+4242,2002,Diabetes mellitus (E10-E14),Diabetes,Mississippi,671,24.4
+
+4356,2014,Diabetes mellitus (E10-E14),Diabetes,New Mexico,671,27.5
+
+7745,2009,Cerebrovascular diseases (I60-I69),Stroke,Hawaii,671,41
+
+7890,2008,Cerebrovascular diseases (I60-I69),Stroke,Maine,671,40.4
+

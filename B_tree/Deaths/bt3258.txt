@@ -1,0 +1,4 @@
+9650,2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Indiana,3258,47.7
+
+9650,2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Indiana,3258,47.7
+

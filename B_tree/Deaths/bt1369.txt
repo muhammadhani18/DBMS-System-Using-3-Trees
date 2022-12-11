@@ -1,0 +1,16 @@
+2969,2015,Chronic lower respiratory diseases (J40-J47),CLRD,Connecticut,1369,29.7
+
+4516,2016,Diabetes mellitus (E10-E14),Diabetes,South Carolina,1369,22.3
+
+9670,2012,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Iowa,1369,39.7
+
+9671,2011,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Iowa,1369,39.6
+
+2969,2015,Chronic lower respiratory diseases (J40-J47),CLRD,Connecticut,1369,29.7
+
+4516,2016,Diabetes mellitus (E10-E14),Diabetes,South Carolina,1369,22.3
+
+9670,2012,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Iowa,1369,39.7
+
+9671,2011,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Iowa,1369,39.6
+

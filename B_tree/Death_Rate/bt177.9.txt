@@ -1,0 +1,4 @@
+1976,2000,Malignant neoplasms (C00-C97),Cancer,Arizona,9073,177.9
+
+2402,2006,Malignant neoplasms (C00-C97),Cancer,Montana,1943,177.9
+

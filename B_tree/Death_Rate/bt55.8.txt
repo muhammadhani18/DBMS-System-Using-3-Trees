@@ -1,0 +1,10 @@
+2918,2012,Chronic lower respiratory diseases (J40-J47),CLRD,Arkansas,1910,55.8
+
+3782,2012,Chronic lower respiratory diseases (J40-J47),CLRD,Wyoming,334,55.8
+
+8042,2000,Cerebrovascular diseases (I60-I69),Stroke,Nebraska,1091,55.8
+
+8269,2007,Cerebrovascular diseases (I60-I69),Stroke,South Carolina,2466,55.8
+
+8385,1999,Cerebrovascular diseases (I60-I69),Stroke,Vermont,344,55.8
+

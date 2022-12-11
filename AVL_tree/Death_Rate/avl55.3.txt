@@ -1,0 +1,8 @@
+3118,2010,Chronic lower respiratory diseases (J40-J47),CLRD,Indiana,3794,55.3
+
+7768,2004,Cerebrovascular diseases (I60-I69),Stroke,Idaho,712,55.3
+
+7804,2004,Cerebrovascular diseases (I60-I69),Stroke,Indiana,3454,55.3
+
+9865,2004,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Montana,535,55.3
+

@@ -1,0 +1,10 @@
+1340,2006,Alzheimer's disease (G30),Alzheimer's disease,Maine,477,29.2
+
+1589,2009,Alzheimer's disease (G30),Alzheimer's disease,North Carolina,2646,29.2
+
+8368,2016,Cerebrovascular diseases (I60-I69),Stroke,Vermont,247,29.2
+
+9481,2014,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,California,11804,29.2
+
+9482,2013,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,California,11538,29.2
+

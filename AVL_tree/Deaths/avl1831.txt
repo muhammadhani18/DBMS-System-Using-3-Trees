@@ -1,0 +1,4 @@
+1035,2005,Alzheimer's disease (G30),Alzheimer's disease,Arizona,1831,33
+
+2921,2009,Chronic lower respiratory diseases (J40-J47),CLRD,Arkansas,1831,56.2
+

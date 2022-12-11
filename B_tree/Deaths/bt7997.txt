@@ -1,0 +1,8 @@
+2577,2011,Malignant neoplasms (C00-C97),Cancer,Oklahoma,7997,191.1
+
+5173,2008,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Mississippi,7997,273.2
+
+2577,2011,Malignant neoplasms (C00-C97),Cancer,Oklahoma,7997,191.1
+
+5173,2008,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Mississippi,7997,273.2
+

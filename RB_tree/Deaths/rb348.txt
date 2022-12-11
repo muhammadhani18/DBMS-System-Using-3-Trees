@@ -1,0 +1,12 @@
+1556,2006,Alzheimer's disease (G30),Alzheimer's disease,New Mexico,348,19.3
+
+4155,1999,Diabetes mellitus (E10-E14),Diabetes,Maine,348,24.5
+
+6484,2010,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Utah,348,17.1
+
+7481,2004,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Washington,348,5.9
+
+9297,2005,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Utah,348,15.4
+
+10122,2002,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,South Dakota,348,43.5
+

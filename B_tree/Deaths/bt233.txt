@@ -1,0 +1,20 @@
+3933,2005,Diabetes mellitus (E10-E14),Diabetes,Delaware,233,26.5
+
+4268,2012,Diabetes mellitus (E10-E14),Diabetes,Montana,233,19.1
+
+8465,2009,Cerebrovascular diseases (I60-I69),Stroke,Wyoming,233,42.6
+
+8948,2012,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Montana,233,22.6
+
+9560,2003,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,District of Columbia,233,40.8
+
+3933,2005,Diabetes mellitus (E10-E14),Diabetes,Delaware,233,26.5
+
+4268,2012,Diabetes mellitus (E10-E14),Diabetes,Montana,233,19.1
+
+8465,2009,Cerebrovascular diseases (I60-I69),Stroke,Wyoming,233,42.6
+
+8948,2012,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Montana,233,22.6
+
+9560,2003,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,District of Columbia,233,40.8
+

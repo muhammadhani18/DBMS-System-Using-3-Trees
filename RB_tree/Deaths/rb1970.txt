@@ -1,0 +1,4 @@
+5216,2001,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Montana,1970,199
+
+9160,2016,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Pennsylvania,1970,14.7
+

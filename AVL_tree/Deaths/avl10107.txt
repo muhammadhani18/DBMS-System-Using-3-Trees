@@ -1,0 +1,4 @@
+3634,2016,Chronic lower respiratory diseases (J40-J47),CLRD,Texas,10107,39.5
+
+9493,2002,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,California,10107,30.1
+

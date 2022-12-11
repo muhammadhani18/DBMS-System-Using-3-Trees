@@ -1,0 +1,10 @@
+3789,2005,Chronic lower respiratory diseases (J40-J47),CLRD,Wyoming,291,57.6
+
+4003,2007,Diabetes mellitus (E10-E14),Diabetes,Hawaii,291,19
+
+4333,2001,Diabetes mellitus (E10-E14),Diabetes,New Hampshire,291,23.9
+
+5873,2009,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Hawaii,291,17.8
+
+6158,2012,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Nebraska,291,12.7
+

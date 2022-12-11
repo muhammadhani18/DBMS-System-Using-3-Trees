@@ -1,0 +1,8 @@
+1097,2015,Alzheimer's disease (G30),Alzheimer's disease,Connecticut,966,19
+
+1309,2001,Alzheimer's disease (G30),Alzheimer's disease,Kentucky,966,25.1
+
+1097,2015,Alzheimer's disease (G30),Alzheimer's disease,Connecticut,966,19
+
+1309,2001,Alzheimer's disease (G30),Alzheimer's disease,Kentucky,966,25.1
+

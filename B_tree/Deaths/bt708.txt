@@ -1,0 +1,8 @@
+3899,2003,Diabetes mellitus (E10-E14),Diabetes,Colorado,708,19.1
+
+4754,2012,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Alaska,708,136.5
+
+3899,2003,Diabetes mellitus (E10-E14),Diabetes,Colorado,708,19.1
+
+4754,2012,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Alaska,708,136.5
+

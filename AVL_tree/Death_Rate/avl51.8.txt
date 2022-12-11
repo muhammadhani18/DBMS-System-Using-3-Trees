@@ -1,0 +1,10 @@
+4,2016,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arkansas,1604,51.8
+
+2962,2004,Chronic lower respiratory diseases (J40-J47),CLRD,Colorado,1899,51.8
+
+3152,2012,Chronic lower respiratory diseases (J40-J47),CLRD,Kansas,1687,51.8
+
+3620,2012,Chronic lower respiratory diseases (J40-J47),CLRD,Tennessee,3695,51.8
+
+10138,2003,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Tennessee,3004,51.8
+

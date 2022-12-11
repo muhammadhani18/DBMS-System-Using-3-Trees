@@ -1,0 +1,4 @@
+10278,2000,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wisconsin,2159,38.9
+
+10278,2000,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wisconsin,2159,38.9
+

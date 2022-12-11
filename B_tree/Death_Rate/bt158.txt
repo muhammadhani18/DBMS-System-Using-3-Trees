@@ -1,0 +1,8 @@
+2449,2013,Malignant neoplasms (C00-C97),Cancer,New Hampshire,2584,158
+
+2626,2016,Malignant neoplasms (C00-C97),Cancer,Rhode Island,2171,158
+
+2824,2016,Malignant neoplasms (C00-C97),Cancer,Wisconsin,11498,158
+
+5351,2010,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,North Dakota,1395,158
+

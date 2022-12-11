@@ -1,0 +1,6 @@
+3630,2002,Chronic lower respiratory diseases (J40-J47),CLRD,Tennessee,3011,52.7
+
+4044,2002,Diabetes mellitus (E10-E14),Diabetes,Illinois,3011,24.6
+
+5448,2003,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Rhode Island,3011,231.9
+

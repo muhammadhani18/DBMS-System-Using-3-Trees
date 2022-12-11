@@ -1,0 +1,4 @@
+3128,2000,Chronic lower respiratory diseases (J40-J47),CLRD,Indiana,3052,51.2
+
+3128,2000,Chronic lower respiratory diseases (J40-J47),CLRD,Indiana,3052,51.2
+

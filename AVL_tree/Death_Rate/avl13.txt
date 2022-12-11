@@ -1,0 +1,48 @@
+4309,2007,Diabetes mellitus (E10-E14),Diabetes,Nevada,312,13
+
+4310,2006,Diabetes mellitus (E10-E14),Diabetes,Nevada,294,13
+
+5799,2011,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Delaware,133,13
+
+6215,2009,Influenza and pneumonia (J09-J18),Influenza and pneumonia,New Jersey,1309,13
+
+6285,2011,Influenza and pneumonia (J09-J18),Influenza and pneumonia,North Dakota,120,13
+
+6443,2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Texas,3214,13
+
+7173,2005,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,New Mexico,239,13
+
+7414,1999,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,United States,35525,13
+
+7505,2016,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wisconsin,960,13
+
+8542,2004,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arkansas,361,13
+
+8546,2000,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arkansas,349,13
+
+8650,2004,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Florida,2389,13
+
+8738,2006,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Indiana,824,13
+
+8796,2002,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Kentucky,540,13
+
+8911,2013,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Mississippi,388,13
+
+8914,2010,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Mississippi,388,13
+
+8934,2008,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Missouri,779,13
+
+9070,2016,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,North Carolina,1373,13
+
+9110,2012,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Ohio,1542,13
+
+9203,2009,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,South Carolina,619,13
+
+9270,2014,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,United States,42826,13
+
+9308,2012,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Vermont,87,13
+
+9311,2009,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Vermont,87,13
+
+9317,2003,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Vermont,83,13
+

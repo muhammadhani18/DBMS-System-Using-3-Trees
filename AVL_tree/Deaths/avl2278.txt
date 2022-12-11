@@ -1,0 +1,4 @@
+2127,2011,Malignant neoplasms (C00-C97),Cancer,Hawaii,2278,138.1
+
+4395,2011,Diabetes mellitus (E10-E14),Diabetes,North Carolina,2278,22.1
+

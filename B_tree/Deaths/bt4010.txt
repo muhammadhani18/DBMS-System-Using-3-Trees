@@ -1,0 +1,8 @@
+3,2016,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arizona,4010,54.2
+
+4376,2012,Diabetes mellitus (E10-E14),Diabetes,New York,4010,17.7
+
+3,2016,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arizona,4010,54.2
+
+4376,2012,Diabetes mellitus (E10-E14),Diabetes,New York,4010,17.7
+

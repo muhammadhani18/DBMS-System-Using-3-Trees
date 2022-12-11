@@ -1,0 +1,12 @@
+3917,2003,Diabetes mellitus (E10-E14),Diabetes,Connecticut,665,16.8
+
+4240,2004,Diabetes mellitus (E10-E14),Diabetes,Mississippi,665,23.6
+
+5965,2007,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Kansas,665,20.3
+
+7748,2006,Cerebrovascular diseases (I60-I69),Stroke,Hawaii,665,44.7
+
+9127,2013,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Oklahoma,665,17.2
+
+10193,2000,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Utah,665,34.2
+

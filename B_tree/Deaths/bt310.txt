@@ -1,0 +1,20 @@
+1503,2005,Alzheimer's disease (G30),Alzheimer's disease,Nevada,310,18.1
+
+1816,2016,Alzheimer's disease (G30),Alzheimer's disease,Vermont,310,35.8
+
+3785,2009,Chronic lower respiratory diseases (J40-J47),CLRD,Wyoming,310,57.2
+
+4321,2013,Diabetes mellitus (E10-E14),Diabetes,New Hampshire,310,18.7
+
+4329,2005,Diabetes mellitus (E10-E14),Diabetes,New Hampshire,310,23.4
+
+1503,2005,Alzheimer's disease (G30),Alzheimer's disease,Nevada,310,18.1
+
+1816,2016,Alzheimer's disease (G30),Alzheimer's disease,Vermont,310,35.8
+
+3785,2009,Chronic lower respiratory diseases (J40-J47),CLRD,Wyoming,310,57.2
+
+4321,2013,Diabetes mellitus (E10-E14),Diabetes,New Hampshire,310,18.7
+
+4329,2005,Diabetes mellitus (E10-E14),Diabetes,New Hampshire,310,23.4
+

@@ -1,0 +1,4 @@
+3200,2000,Chronic lower respiratory diseases (J40-J47),CLRD,Louisiana,1684,41.7
+
+3200,2000,Chronic lower respiratory diseases (J40-J47),CLRD,Louisiana,1684,41.7
+

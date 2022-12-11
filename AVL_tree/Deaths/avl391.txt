@@ -1,0 +1,8 @@
+3610,2004,Chronic lower respiratory diseases (J40-J47),CLRD,South Dakota,391,42.9
+
+6495,1999,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Utah,391,27.1
+
+6709,2001,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Colorado,391,11.4
+
+7502,2001,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,West Virginia,391,18.3
+

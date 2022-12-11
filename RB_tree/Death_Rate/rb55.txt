@@ -1,0 +1,6 @@
+3780,2014,Chronic lower respiratory diseases (J40-J47),CLRD,Wyoming,343,55
+
+9430,2014,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Alaska,379,55
+
+10035,2004,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Oklahoma,1947,55
+

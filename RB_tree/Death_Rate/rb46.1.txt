@@ -1,0 +1,6 @@
+3460,2010,Chronic lower respiratory diseases (J40-J47),CLRD,North Carolina,4495,46.1
+
+3535,2007,Chronic lower respiratory diseases (J40-J47),CLRD,Oregon,1892,46.1
+
+8020,2004,Cerebrovascular diseases (I60-I69),Stroke,Montana,484,46.1
+

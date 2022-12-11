@@ -1,0 +1,8 @@
+1028,2012,Alzheimer's disease (G30),Alzheimer's disease,Arizona,2160,30
+
+3521,2003,Chronic lower respiratory diseases (J40-J47),CLRD,Oklahoma,2160,59
+
+1028,2012,Alzheimer's disease (G30),Alzheimer's disease,Arizona,2160,30
+
+3521,2003,Chronic lower respiratory diseases (J40-J47),CLRD,Oklahoma,2160,59
+

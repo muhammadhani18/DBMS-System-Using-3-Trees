@@ -1,0 +1,6 @@
+2146,2010,Malignant neoplasms (C00-C97),Cancer,Idaho,2530,159.9
+
+2869,2007,Chronic lower respiratory diseases (J40-J47),CLRD,Alabama,2530,51.3
+
+5266,2005,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,New Hampshire,2530,189.8
+

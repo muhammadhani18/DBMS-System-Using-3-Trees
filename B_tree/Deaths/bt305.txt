@@ -1,0 +1,12 @@
+1525,2001,Alzheimer's disease (G30),Alzheimer's disease,New Hampshire,305,25.6
+
+3703,2001,Chronic lower respiratory diseases (J40-J47),CLRD,Vermont,305,48.5
+
+8763,1999,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Iowa,305,10.3
+
+1525,2001,Alzheimer's disease (G30),Alzheimer's disease,New Hampshire,305,25.6
+
+3703,2001,Chronic lower respiratory diseases (J40-J47),CLRD,Vermont,305,48.5
+
+8763,1999,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Iowa,305,10.3
+

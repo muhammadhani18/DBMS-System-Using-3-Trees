@@ -1,0 +1,4 @@
+3527,2015,Chronic lower respiratory diseases (J40-J47),CLRD,Oregon,2119,42.4
+
+10031,2008,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Oklahoma,2119,57.2
+

@@ -1,0 +1,4 @@
+10062,2011,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Pennsylvania,6216,44.4
+
+10062,2011,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Pennsylvania,6216,44.4
+

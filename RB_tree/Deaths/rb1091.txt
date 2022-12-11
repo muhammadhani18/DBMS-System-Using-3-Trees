@@ -1,0 +1,6 @@
+4111,2007,Diabetes mellitus (E10-E14),Diabetes,Kentucky,1091,24.4
+
+8042,2000,Cerebrovascular diseases (I60-I69),Stroke,Nebraska,1091,55.8
+
+9897,2006,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Nevada,1091,44.3
+

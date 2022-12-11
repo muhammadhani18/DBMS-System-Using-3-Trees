@@ -1,0 +1,12 @@
+1832,2000,Alzheimer's disease (G30),Alzheimer's disease,Vermont,134,21.3
+
+6280,2016,Influenza and pneumonia (J09-J18),Influenza and pneumonia,North Dakota,134,14.5
+
+6283,2013,Influenza and pneumonia (J09-J18),Influenza and pneumonia,North Dakota,134,14.6
+
+6413,2009,Influenza and pneumonia (J09-J18),Influenza and pneumonia,South Dakota,134,12.9
+
+6513,1999,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Vermont,134,21.7
+
+6829,2007,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Idaho,134,9.4
+

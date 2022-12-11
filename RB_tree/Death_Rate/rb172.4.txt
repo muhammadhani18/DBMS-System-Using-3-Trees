@@ -1,0 +1,4 @@
+2776,2010,Malignant neoplasms (C00-C97),Cancer,Virginia,14080,172.4
+
+5411,2004,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Oregon,6725,172.4
+

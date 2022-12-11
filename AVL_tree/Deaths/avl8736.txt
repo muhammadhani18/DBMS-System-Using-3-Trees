@@ -1,0 +1,4 @@
+2257,2007,Malignant neoplasms (C00-C97),Cancer,Louisiana,8736,199.3
+
+9567,2013,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Florida,8736,39.1
+

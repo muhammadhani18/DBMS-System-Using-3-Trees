@@ -1,0 +1,4 @@
+3365,2015,Chronic lower respiratory diseases (J40-J47),CLRD,Nevada,1617,54.1
+
+6439,2001,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Tennessee,1617,29.5
+

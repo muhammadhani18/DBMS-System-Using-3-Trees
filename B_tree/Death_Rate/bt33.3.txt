@@ -1,0 +1,26 @@
+1321,2007,Alzheimer's disease (G30),Alzheimer's disease,Louisiana,1324,33.3
+
+1720,2004,Alzheimer's disease (G30),Alzheimer's disease,South Carolina,1245,33.3
+
+3449,2003,Chronic lower respiratory diseases (J40-J47),CLRD,New York,6709,33.3
+
+3678,2008,Chronic lower respiratory diseases (J40-J47),CLRD,Utah,638,33.3
+
+4680,2014,Diabetes mellitus (E10-E14),Diabetes,West Virginia,818,33.3
+
+4683,2011,Diabetes mellitus (E10-E14),Diabetes,West Virginia,790,33.3
+
+8047,2013,Cerebrovascular diseases (I60-I69),Stroke,Nevada,905,33.3
+
+8050,2010,Cerebrovascular diseases (I60-I69),Stroke,Nevada,796,33.3
+
+8440,2016,Cerebrovascular diseases (I60-I69),Stroke,Wisconsin,2481,33.3
+
+9518,2011,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Connecticut,1339,33.3
+
+9800,2001,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Michigan,3291,33.3
+
+10218,2009,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Virginia,2622,33.3
+
+10245,1999,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Washington,1914,33.3
+

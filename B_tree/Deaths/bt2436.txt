@@ -1,0 +1,12 @@
+4353,1999,Diabetes mellitus (E10-E14),Diabetes,New Jersey,2436,28
+
+9929,2008,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,New Jersey,2436,26.7
+
+10093,2014,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,South Carolina,2436,48.2
+
+4353,1999,Diabetes mellitus (E10-E14),Diabetes,New Jersey,2436,28
+
+9929,2008,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,New Jersey,2436,26.7
+
+10093,2014,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,South Carolina,2436,48.2
+

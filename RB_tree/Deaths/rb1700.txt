@@ -1,0 +1,12 @@
+1373,2009,Alzheimer's disease (G30),Alzheimer's disease,Massachusetts,1700,20.6
+
+4561,2007,Diabetes mellitus (E10-E14),Diabetes,Tennessee,1700,26.7
+
+5360,2001,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,North Dakota,1700,212.3
+
+6268,2010,Influenza and pneumonia (J09-J18),Influenza and pneumonia,North Carolina,1700,17.7
+
+9054,2014,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,New York,1700,8.1
+
+10038,2001,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Oklahoma,1700,48.5
+

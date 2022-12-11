@@ -1,0 +1,4 @@
+5554,2004,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Utah,2942,178.1
+
+5554,2004,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Utah,2942,178.1
+

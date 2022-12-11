@@ -1,0 +1,6 @@
+184,2010,All Causes,All causes,Delaware,7706,769.9
+
+1071,2005,Alzheimer's disease (G30),Alzheimer's disease,California,7706,24.6
+
+8131,2001,Cerebrovascular diseases (I60-I69),Stroke,New York,7706,38.8
+

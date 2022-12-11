@@ -1,0 +1,12 @@
+2000,2012,Malignant neoplasms (C00-C97),Cancer,California,57676,150.9
+
+2022,2008,Malignant neoplasms (C00-C97),Cancer,Colorado,6719,150.9
+
+2140,2016,Malignant neoplasms (C00-C97),Cancer,Idaho,2884,150.9
+
+2788,2016,Malignant neoplasms (C00-C97),Cancer,Washington,12594,150.9
+
+4952,2012,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Idaho,2515,150.9
+
+5472,2015,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,South Dakota,1711,150.9
+

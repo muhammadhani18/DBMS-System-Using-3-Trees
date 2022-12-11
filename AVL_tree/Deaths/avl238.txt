@@ -1,0 +1,6 @@
+1822,2010,Alzheimer's disease (G30),Alzheimer's disease,Vermont,238,30.8
+
+2878,2016,Chronic lower respiratory diseases (J40-J47),CLRD,Alaska,238,41.5
+
+10004,2001,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,North Dakota,238,33.9
+

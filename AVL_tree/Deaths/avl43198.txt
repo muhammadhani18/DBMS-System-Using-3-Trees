@@ -1,0 +1,4 @@
+100,2004,All Causes,All causes,Arizona,43198,771.1
+
+776,2012,All Causes,All causes,South Carolina,43198,835.2
+

@@ -1,0 +1,12 @@
+27,2016,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Montana,626,54.1
+
+4763,2003,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Alaska,626,185.5
+
+6108,2008,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Mississippi,626,21.9
+
+27,2016,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Montana,626,54.1
+
+4763,2003,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Alaska,626,185.5
+
+6108,2008,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Mississippi,626,21.9
+

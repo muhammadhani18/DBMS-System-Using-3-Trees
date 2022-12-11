@@ -1,0 +1,6 @@
+1371,2011,Alzheimer's disease (G30),Alzheimer's disease,Massachusetts,1819,21.2
+
+3539,2003,Chronic lower respiratory diseases (J40-J47),CLRD,Oregon,1819,48.5
+
+4050,2014,Diabetes mellitus (E10-E14),Diabetes,Indiana,1819,24.4
+

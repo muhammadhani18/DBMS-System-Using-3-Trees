@@ -1,0 +1,1584 @@
+50,2016,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,West Virginia,1705,89.7
+
+934,2016,All Causes,All causes,West Virginia,22732,943.3
+
+935,2015,All Causes,All causes,West Virginia,22752,943.4
+
+936,2014,All Causes,All causes,West Virginia,22186,929.1
+
+937,2013,All Causes,All causes,West Virginia,21843,923.8
+
+938,2012,All Causes,All causes,West Virginia,21915,939.3
+
+939,2011,All Causes,All causes,West Virginia,21867,953.2
+
+940,2010,All Causes,All causes,West Virginia,21275,933.6
+
+941,2009,All Causes,All causes,West Virginia,21386,947.7
+
+942,2008,All Causes,All causes,West Virginia,21557,964.3
+
+943,2007,All Causes,All causes,West Virginia,21086,954.2
+
+944,2006,All Causes,All causes,West Virginia,20672,947.5
+
+945,2005,All Causes,All causes,West Virginia,20780,965.1
+
+946,2004,All Causes,All causes,West Virginia,20793,973
+
+947,2003,All Causes,All causes,West Virginia,21306,1003.1
+
+948,2002,All Causes,All causes,West Virginia,21016,999
+
+949,2001,All Causes,All causes,West Virginia,20967,1000.9
+
+950,2000,All Causes,All causes,West Virginia,21114,1011.1
+
+951,1999,All Causes,All causes,West Virginia,21049,1012.3
+
+1870,2016,Alzheimer's disease (G30),Alzheimer's disease,West Virginia,786,31.7
+
+1871,2015,Alzheimer's disease (G30),Alzheimer's disease,West Virginia,738,30
+
+1872,2014,Alzheimer's disease (G30),Alzheimer's disease,West Virginia,620,25.5
+
+1873,2013,Alzheimer's disease (G30),Alzheimer's disease,West Virginia,590,24.6
+
+1874,2012,Alzheimer's disease (G30),Alzheimer's disease,West Virginia,598,25.3
+
+1875,2011,Alzheimer's disease (G30),Alzheimer's disease,West Virginia,610,26.2
+
+1876,2010,Alzheimer's disease (G30),Alzheimer's disease,West Virginia,594,26
+
+1877,2009,Alzheimer's disease (G30),Alzheimer's disease,West Virginia,563,24.9
+
+1878,2008,Alzheimer's disease (G30),Alzheimer's disease,West Virginia,662,29.7
+
+1879,2007,Alzheimer's disease (G30),Alzheimer's disease,West Virginia,534,24.2
+
+1880,2006,Alzheimer's disease (G30),Alzheimer's disease,West Virginia,496,22.8
+
+1881,2005,Alzheimer's disease (G30),Alzheimer's disease,West Virginia,504,23.6
+
+1882,2004,Alzheimer's disease (G30),Alzheimer's disease,West Virginia,493,23.3
+
+1883,2003,Alzheimer's disease (G30),Alzheimer's disease,West Virginia,470,22.2
+
+1884,2002,Alzheimer's disease (G30),Alzheimer's disease,West Virginia,405,19.2
+
+1885,2001,Alzheimer's disease (G30),Alzheimer's disease,West Virginia,398,19
+
+1886,2000,Alzheimer's disease (G30),Alzheimer's disease,West Virginia,361,17.2
+
+1887,1999,Alzheimer's disease (G30),Alzheimer's disease,West Virginia,314,15
+
+2806,2016,Malignant neoplasms (C00-C97),Cancer,West Virginia,4659,182.2
+
+2807,2015,Malignant neoplasms (C00-C97),Cancer,West Virginia,4839,190.4
+
+2808,2014,Malignant neoplasms (C00-C97),Cancer,West Virginia,4880,195.1
+
+2809,2013,Malignant neoplasms (C00-C97),Cancer,West Virginia,4718,190.8
+
+2810,2012,Malignant neoplasms (C00-C97),Cancer,West Virginia,4684,191.8
+
+2811,2011,Malignant neoplasms (C00-C97),Cancer,West Virginia,4782,200.1
+
+2812,2010,Malignant neoplasms (C00-C97),Cancer,West Virginia,4685,198
+
+2813,2009,Malignant neoplasms (C00-C97),Cancer,West Virginia,4786,204.2
+
+2814,2008,Malignant neoplasms (C00-C97),Cancer,West Virginia,4605,198.5
+
+2815,2007,Malignant neoplasms (C00-C97),Cancer,West Virginia,4690,204.3
+
+2816,2006,Malignant neoplasms (C00-C97),Cancer,West Virginia,4613,203.6
+
+2817,2005,Malignant neoplasms (C00-C97),Cancer,West Virginia,4617,207.4
+
+2818,2004,Malignant neoplasms (C00-C97),Cancer,West Virginia,4694,212.2
+
+2819,2003,Malignant neoplasms (C00-C97),Cancer,West Virginia,4610,211.6
+
+2820,2002,Malignant neoplasms (C00-C97),Cancer,West Virginia,4652,215.2
+
+2821,2001,Malignant neoplasms (C00-C97),Cancer,West Virginia,4685,219.2
+
+2822,2000,Malignant neoplasms (C00-C97),Cancer,West Virginia,4753,223.9
+
+2823,1999,Malignant neoplasms (C00-C97),Cancer,West Virginia,4762,225.1
+
+3742,2016,Chronic lower respiratory diseases (J40-J47),CLRD,West Virginia,1599,62.1
+
+3743,2015,Chronic lower respiratory diseases (J40-J47),CLRD,West Virginia,1628,64.6
+
+3744,2014,Chronic lower respiratory diseases (J40-J47),CLRD,West Virginia,1578,63
+
+3745,2013,Chronic lower respiratory diseases (J40-J47),CLRD,West Virginia,1590,64.6
+
+3746,2012,Chronic lower respiratory diseases (J40-J47),CLRD,West Virginia,1524,62.4
+
+3747,2011,Chronic lower respiratory diseases (J40-J47),CLRD,West Virginia,1571,66.1
+
+3748,2010,Chronic lower respiratory diseases (J40-J47),CLRD,West Virginia,1482,62.7
+
+3749,2009,Chronic lower respiratory diseases (J40-J47),CLRD,West Virginia,1490,63.9
+
+3750,2008,Chronic lower respiratory diseases (J40-J47),CLRD,West Virginia,1590,68.9
+
+3751,2007,Chronic lower respiratory diseases (J40-J47),CLRD,West Virginia,1331,58.3
+
+3752,2006,Chronic lower respiratory diseases (J40-J47),CLRD,West Virginia,1267,56.3
+
+3753,2005,Chronic lower respiratory diseases (J40-J47),CLRD,West Virginia,1350,60.5
+
+3754,2004,Chronic lower respiratory diseases (J40-J47),CLRD,West Virginia,1225,55.6
+
+3755,2003,Chronic lower respiratory diseases (J40-J47),CLRD,West Virginia,1296,59.2
+
+3756,2002,Chronic lower respiratory diseases (J40-J47),CLRD,West Virginia,1228,56.6
+
+3757,2001,Chronic lower respiratory diseases (J40-J47),CLRD,West Virginia,1273,59.2
+
+3758,2000,Chronic lower respiratory diseases (J40-J47),CLRD,West Virginia,1345,62.9
+
+3759,1999,Chronic lower respiratory diseases (J40-J47),CLRD,West Virginia,1236,57.9
+
+4678,2016,Diabetes mellitus (E10-E14),Diabetes,West Virginia,860,34.8
+
+4679,2015,Diabetes mellitus (E10-E14),Diabetes,West Virginia,784,31.7
+
+4680,2014,Diabetes mellitus (E10-E14),Diabetes,West Virginia,818,33.3
+
+4681,2013,Diabetes mellitus (E10-E14),Diabetes,West Virginia,841,34.1
+
+4682,2012,Diabetes mellitus (E10-E14),Diabetes,West Virginia,741,30.5
+
+4683,2011,Diabetes mellitus (E10-E14),Diabetes,West Virginia,790,33.3
+
+4684,2010,Diabetes mellitus (E10-E14),Diabetes,West Virginia,776,32.9
+
+4685,2009,Diabetes mellitus (E10-E14),Diabetes,West Virginia,746,32
+
+4686,2008,Diabetes mellitus (E10-E14),Diabetes,West Virginia,753,32.7
+
+4687,2007,Diabetes mellitus (E10-E14),Diabetes,West Virginia,800,35.2
+
+4688,2006,Diabetes mellitus (E10-E14),Diabetes,West Virginia,743,33
+
+4689,2005,Diabetes mellitus (E10-E14),Diabetes,West Virginia,766,34.5
+
+4690,2004,Diabetes mellitus (E10-E14),Diabetes,West Virginia,840,38.2
+
+4691,2003,Diabetes mellitus (E10-E14),Diabetes,West Virginia,807,37.1
+
+4692,2002,Diabetes mellitus (E10-E14),Diabetes,West Virginia,846,39.5
+
+4693,2001,Diabetes mellitus (E10-E14),Diabetes,West Virginia,802,37.7
+
+4694,2000,Diabetes mellitus (E10-E14),Diabetes,West Virginia,759,35.9
+
+4695,1999,Diabetes mellitus (E10-E14),Diabetes,West Virginia,734,34.8
+
+5614,2016,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,West Virginia,4767,191
+
+5615,2015,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,West Virginia,4727,191.3
+
+5616,2014,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,West Virginia,4692,192.9
+
+5617,2013,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,West Virginia,4666,193.7
+
+5618,2012,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,West Virginia,4942,208.1
+
+5619,2011,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,West Virginia,4914,210.1
+
+5620,2010,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,West Virginia,4897,211.2
+
+5621,2009,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,West Virginia,5038,219.6
+
+5622,2008,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,West Virginia,5264,232.5
+
+5623,2007,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,West Virginia,5208,232.5
+
+5624,2006,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,West Virginia,5311,240.5
+
+5625,2005,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,West Virginia,5538,253.6
+
+5626,2004,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,West Virginia,5674,263.6
+
+5627,2003,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,West Virginia,6186,288.1
+
+5628,2002,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,West Virginia,6189,291.2
+
+5629,2001,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,West Virginia,6325,298.8
+
+5630,2000,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,West Virginia,6435,305
+
+5631,1999,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,West Virginia,6822,325.5
+
+6550,2016,Influenza and pneumonia (J09-J18),Influenza and pneumonia,West Virginia,423,17.3
+
+6551,2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,West Virginia,526,21.2
+
+6552,2014,Influenza and pneumonia (J09-J18),Influenza and pneumonia,West Virginia,473,19.6
+
+6553,2013,Influenza and pneumonia (J09-J18),Influenza and pneumonia,West Virginia,481,20.2
+
+6554,2012,Influenza and pneumonia (J09-J18),Influenza and pneumonia,West Virginia,425,18.1
+
+6555,2011,Influenza and pneumonia (J09-J18),Influenza and pneumonia,West Virginia,455,19.8
+
+6556,2010,Influenza and pneumonia (J09-J18),Influenza and pneumonia,West Virginia,436,19
+
+6557,2009,Influenza and pneumonia (J09-J18),Influenza and pneumonia,West Virginia,443,19.7
+
+6558,2008,Influenza and pneumonia (J09-J18),Influenza and pneumonia,West Virginia,448,20
+
+6559,2007,Influenza and pneumonia (J09-J18),Influenza and pneumonia,West Virginia,408,18.4
+
+6560,2006,Influenza and pneumonia (J09-J18),Influenza and pneumonia,West Virginia,459,21.1
+
+6561,2005,Influenza and pneumonia (J09-J18),Influenza and pneumonia,West Virginia,458,21.2
+
+6562,2004,Influenza and pneumonia (J09-J18),Influenza and pneumonia,West Virginia,474,22.2
+
+6563,2003,Influenza and pneumonia (J09-J18),Influenza and pneumonia,West Virginia,536,25.3
+
+6564,2002,Influenza and pneumonia (J09-J18),Influenza and pneumonia,West Virginia,427,20.3
+
+6565,2001,Influenza and pneumonia (J09-J18),Influenza and pneumonia,West Virginia,483,23
+
+6566,2000,Influenza and pneumonia (J09-J18),Influenza and pneumonia,West Virginia,456,21.7
+
+6567,1999,Influenza and pneumonia (J09-J18),Influenza and pneumonia,West Virginia,520,25
+
+7487,2016,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,West Virginia,481,19.3
+
+7488,2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,West Virginia,510,20.4
+
+7489,2014,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,West Virginia,479,19.6
+
+7490,2013,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,West Virginia,450,18.6
+
+7491,2012,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,West Virginia,471,19.7
+
+7492,2011,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,West Virginia,445,19.1
+
+7493,2010,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,West Virginia,475,20.3
+
+7494,2009,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,West Virginia,504,21.9
+
+7495,2008,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,West Virginia,522,23
+
+7496,2007,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,West Virginia,480,21.3
+
+7497,2006,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,West Virginia,468,21
+
+7498,2005,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,West Virginia,442,20.4
+
+7499,2004,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,West Virginia,450,20.7
+
+7500,2003,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,West Virginia,458,21.2
+
+7501,2002,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,West Virginia,462,21.6
+
+7502,2001,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,West Virginia,391,18.3
+
+7503,2000,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,West Virginia,378,17.9
+
+7504,1999,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,West Virginia,345,16.4
+
+8422,2016,Cerebrovascular diseases (I60-I69),Stroke,West Virginia,1039,41.7
+
+8423,2015,Cerebrovascular diseases (I60-I69),Stroke,West Virginia,1079,43.8
+
+8424,2014,Cerebrovascular diseases (I60-I69),Stroke,West Virginia,1103,45.3
+
+8425,2013,Cerebrovascular diseases (I60-I69),Stroke,West Virginia,983,40.7
+
+8426,2012,Cerebrovascular diseases (I60-I69),Stroke,West Virginia,1140,47.9
+
+8427,2011,Cerebrovascular diseases (I60-I69),Stroke,West Virginia,1049,44.8
+
+8428,2010,Cerebrovascular diseases (I60-I69),Stroke,West Virginia,1104,47.8
+
+8429,2009,Cerebrovascular diseases (I60-I69),Stroke,West Virginia,1073,46.7
+
+8430,2008,Cerebrovascular diseases (I60-I69),Stroke,West Virginia,1096,48.3
+
+8431,2007,Cerebrovascular diseases (I60-I69),Stroke,West Virginia,1113,49.7
+
+8432,2006,Cerebrovascular diseases (I60-I69),Stroke,West Virginia,1072,48.5
+
+8433,2005,Cerebrovascular diseases (I60-I69),Stroke,West Virginia,1151,53.2
+
+8434,2004,Cerebrovascular diseases (I60-I69),Stroke,West Virginia,1178,54.8
+
+8435,2003,Cerebrovascular diseases (I60-I69),Stroke,West Virginia,1309,61.2
+
+8436,2002,Cerebrovascular diseases (I60-I69),Stroke,West Virginia,1260,59.3
+
+8437,2001,Cerebrovascular diseases (I60-I69),Stroke,West Virginia,1272,60.1
+
+8438,2000,Cerebrovascular diseases (I60-I69),Stroke,West Virginia,1296,61.3
+
+8439,1999,Cerebrovascular diseases (I60-I69),Stroke,West Virginia,1323,63.1
+
+9358,2016,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,West Virginia,362,19.3
+
+9359,2015,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,West Virginia,340,17.4
+
+9360,2014,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,West Virginia,359,18.1
+
+9361,2013,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,West Virginia,323,16.4
+
+9362,2012,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,West Virginia,326,17.1
+
+9363,2011,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,West Virginia,306,15.9
+
+9364,2010,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,West Virginia,279,14.1
+
+9365,2009,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,West Virginia,253,13.1
+
+9366,2008,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,West Virginia,261,13.7
+
+9367,2007,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,West Virginia,300,15.7
+
+9368,2006,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,West Virginia,269,14
+
+9369,2005,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,West Virginia,255,13.2
+
+9370,2004,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,West Virginia,285,15.4
+
+9371,2003,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,West Virginia,266,14
+
+9372,2002,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,West Virginia,276,14.9
+
+9373,2001,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,West Virginia,286,15
+
+9374,2000,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,West Virginia,245,13.2
+
+9375,1999,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,West Virginia,229,12.1
+
+10246,2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,West Virginia,1516,77.9
+
+10247,2014,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,West Virginia,1380,71
+
+10248,2013,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,West Virginia,1395,71.7
+
+10249,2012,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,West Virginia,1371,70.8
+
+10250,2011,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,West Virginia,1432,74.8
+
+10251,2010,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,West Virginia,1234,63.7
+
+10252,2009,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,West Virginia,942,48.2
+
+10253,2008,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,West Virginia,1253,65.5
+
+10254,2007,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,West Virginia,1241,65.8
+
+10255,2006,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,West Virginia,1177,62.4
+
+10256,2005,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,West Virginia,940,49.6
+
+10257,2004,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,West Virginia,1110,59
+
+10258,2003,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,West Virginia,1004,53.7
+
+10259,2002,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,West Virginia,956,50.9
+
+10260,2001,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,West Virginia,834,44.7
+
+10261,2000,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,West Virginia,817,43.2
+
+10262,1999,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,West Virginia,798,42
+
+50,2016,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,West Virginia,1705,89.7
+
+934,2016,All Causes,All causes,West Virginia,22732,943.3
+
+935,2015,All Causes,All causes,West Virginia,22752,943.4
+
+936,2014,All Causes,All causes,West Virginia,22186,929.1
+
+937,2013,All Causes,All causes,West Virginia,21843,923.8
+
+938,2012,All Causes,All causes,West Virginia,21915,939.3
+
+939,2011,All Causes,All causes,West Virginia,21867,953.2
+
+940,2010,All Causes,All causes,West Virginia,21275,933.6
+
+941,2009,All Causes,All causes,West Virginia,21386,947.7
+
+942,2008,All Causes,All causes,West Virginia,21557,964.3
+
+943,2007,All Causes,All causes,West Virginia,21086,954.2
+
+944,2006,All Causes,All causes,West Virginia,20672,947.5
+
+945,2005,All Causes,All causes,West Virginia,20780,965.1
+
+946,2004,All Causes,All causes,West Virginia,20793,973
+
+947,2003,All Causes,All causes,West Virginia,21306,1003.1
+
+948,2002,All Causes,All causes,West Virginia,21016,999
+
+949,2001,All Causes,All causes,West Virginia,20967,1000.9
+
+950,2000,All Causes,All causes,West Virginia,21114,1011.1
+
+951,1999,All Causes,All causes,West Virginia,21049,1012.3
+
+1870,2016,Alzheimer's disease (G30),Alzheimer's disease,West Virginia,786,31.7
+
+1871,2015,Alzheimer's disease (G30),Alzheimer's disease,West Virginia,738,30
+
+1872,2014,Alzheimer's disease (G30),Alzheimer's disease,West Virginia,620,25.5
+
+1873,2013,Alzheimer's disease (G30),Alzheimer's disease,West Virginia,590,24.6
+
+1874,2012,Alzheimer's disease (G30),Alzheimer's disease,West Virginia,598,25.3
+
+1875,2011,Alzheimer's disease (G30),Alzheimer's disease,West Virginia,610,26.2
+
+1876,2010,Alzheimer's disease (G30),Alzheimer's disease,West Virginia,594,26
+
+1877,2009,Alzheimer's disease (G30),Alzheimer's disease,West Virginia,563,24.9
+
+1878,2008,Alzheimer's disease (G30),Alzheimer's disease,West Virginia,662,29.7
+
+1879,2007,Alzheimer's disease (G30),Alzheimer's disease,West Virginia,534,24.2
+
+1880,2006,Alzheimer's disease (G30),Alzheimer's disease,West Virginia,496,22.8
+
+1881,2005,Alzheimer's disease (G30),Alzheimer's disease,West Virginia,504,23.6
+
+1882,2004,Alzheimer's disease (G30),Alzheimer's disease,West Virginia,493,23.3
+
+1883,2003,Alzheimer's disease (G30),Alzheimer's disease,West Virginia,470,22.2
+
+1884,2002,Alzheimer's disease (G30),Alzheimer's disease,West Virginia,405,19.2
+
+1885,2001,Alzheimer's disease (G30),Alzheimer's disease,West Virginia,398,19
+
+1886,2000,Alzheimer's disease (G30),Alzheimer's disease,West Virginia,361,17.2
+
+1887,1999,Alzheimer's disease (G30),Alzheimer's disease,West Virginia,314,15
+
+2806,2016,Malignant neoplasms (C00-C97),Cancer,West Virginia,4659,182.2
+
+2807,2015,Malignant neoplasms (C00-C97),Cancer,West Virginia,4839,190.4
+
+2808,2014,Malignant neoplasms (C00-C97),Cancer,West Virginia,4880,195.1
+
+2809,2013,Malignant neoplasms (C00-C97),Cancer,West Virginia,4718,190.8
+
+2810,2012,Malignant neoplasms (C00-C97),Cancer,West Virginia,4684,191.8
+
+2811,2011,Malignant neoplasms (C00-C97),Cancer,West Virginia,4782,200.1
+
+2812,2010,Malignant neoplasms (C00-C97),Cancer,West Virginia,4685,198
+
+2813,2009,Malignant neoplasms (C00-C97),Cancer,West Virginia,4786,204.2
+
+2814,2008,Malignant neoplasms (C00-C97),Cancer,West Virginia,4605,198.5
+
+2815,2007,Malignant neoplasms (C00-C97),Cancer,West Virginia,4690,204.3
+
+2816,2006,Malignant neoplasms (C00-C97),Cancer,West Virginia,4613,203.6
+
+2817,2005,Malignant neoplasms (C00-C97),Cancer,West Virginia,4617,207.4
+
+2818,2004,Malignant neoplasms (C00-C97),Cancer,West Virginia,4694,212.2
+
+2819,2003,Malignant neoplasms (C00-C97),Cancer,West Virginia,4610,211.6
+
+2820,2002,Malignant neoplasms (C00-C97),Cancer,West Virginia,4652,215.2
+
+2821,2001,Malignant neoplasms (C00-C97),Cancer,West Virginia,4685,219.2
+
+2822,2000,Malignant neoplasms (C00-C97),Cancer,West Virginia,4753,223.9
+
+2823,1999,Malignant neoplasms (C00-C97),Cancer,West Virginia,4762,225.1
+
+3742,2016,Chronic lower respiratory diseases (J40-J47),CLRD,West Virginia,1599,62.1
+
+3743,2015,Chronic lower respiratory diseases (J40-J47),CLRD,West Virginia,1628,64.6
+
+3744,2014,Chronic lower respiratory diseases (J40-J47),CLRD,West Virginia,1578,63
+
+3745,2013,Chronic lower respiratory diseases (J40-J47),CLRD,West Virginia,1590,64.6
+
+3746,2012,Chronic lower respiratory diseases (J40-J47),CLRD,West Virginia,1524,62.4
+
+3747,2011,Chronic lower respiratory diseases (J40-J47),CLRD,West Virginia,1571,66.1
+
+3748,2010,Chronic lower respiratory diseases (J40-J47),CLRD,West Virginia,1482,62.7
+
+3749,2009,Chronic lower respiratory diseases (J40-J47),CLRD,West Virginia,1490,63.9
+
+3750,2008,Chronic lower respiratory diseases (J40-J47),CLRD,West Virginia,1590,68.9
+
+3751,2007,Chronic lower respiratory diseases (J40-J47),CLRD,West Virginia,1331,58.3
+
+3752,2006,Chronic lower respiratory diseases (J40-J47),CLRD,West Virginia,1267,56.3
+
+3753,2005,Chronic lower respiratory diseases (J40-J47),CLRD,West Virginia,1350,60.5
+
+3754,2004,Chronic lower respiratory diseases (J40-J47),CLRD,West Virginia,1225,55.6
+
+3755,2003,Chronic lower respiratory diseases (J40-J47),CLRD,West Virginia,1296,59.2
+
+3756,2002,Chronic lower respiratory diseases (J40-J47),CLRD,West Virginia,1228,56.6
+
+3757,2001,Chronic lower respiratory diseases (J40-J47),CLRD,West Virginia,1273,59.2
+
+3758,2000,Chronic lower respiratory diseases (J40-J47),CLRD,West Virginia,1345,62.9
+
+3759,1999,Chronic lower respiratory diseases (J40-J47),CLRD,West Virginia,1236,57.9
+
+4678,2016,Diabetes mellitus (E10-E14),Diabetes,West Virginia,860,34.8
+
+4679,2015,Diabetes mellitus (E10-E14),Diabetes,West Virginia,784,31.7
+
+4680,2014,Diabetes mellitus (E10-E14),Diabetes,West Virginia,818,33.3
+
+4681,2013,Diabetes mellitus (E10-E14),Diabetes,West Virginia,841,34.1
+
+4682,2012,Diabetes mellitus (E10-E14),Diabetes,West Virginia,741,30.5
+
+4683,2011,Diabetes mellitus (E10-E14),Diabetes,West Virginia,790,33.3
+
+4684,2010,Diabetes mellitus (E10-E14),Diabetes,West Virginia,776,32.9
+
+4685,2009,Diabetes mellitus (E10-E14),Diabetes,West Virginia,746,32
+
+4686,2008,Diabetes mellitus (E10-E14),Diabetes,West Virginia,753,32.7
+
+4687,2007,Diabetes mellitus (E10-E14),Diabetes,West Virginia,800,35.2
+
+4688,2006,Diabetes mellitus (E10-E14),Diabetes,West Virginia,743,33
+
+4689,2005,Diabetes mellitus (E10-E14),Diabetes,West Virginia,766,34.5
+
+4690,2004,Diabetes mellitus (E10-E14),Diabetes,West Virginia,840,38.2
+
+4691,2003,Diabetes mellitus (E10-E14),Diabetes,West Virginia,807,37.1
+
+4692,2002,Diabetes mellitus (E10-E14),Diabetes,West Virginia,846,39.5
+
+4693,2001,Diabetes mellitus (E10-E14),Diabetes,West Virginia,802,37.7
+
+4694,2000,Diabetes mellitus (E10-E14),Diabetes,West Virginia,759,35.9
+
+4695,1999,Diabetes mellitus (E10-E14),Diabetes,West Virginia,734,34.8
+
+5614,2016,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,West Virginia,4767,191
+
+5615,2015,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,West Virginia,4727,191.3
+
+5616,2014,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,West Virginia,4692,192.9
+
+5617,2013,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,West Virginia,4666,193.7
+
+5618,2012,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,West Virginia,4942,208.1
+
+5619,2011,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,West Virginia,4914,210.1
+
+5620,2010,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,West Virginia,4897,211.2
+
+5621,2009,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,West Virginia,5038,219.6
+
+5622,2008,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,West Virginia,5264,232.5
+
+5623,2007,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,West Virginia,5208,232.5
+
+5624,2006,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,West Virginia,5311,240.5
+
+5625,2005,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,West Virginia,5538,253.6
+
+5626,2004,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,West Virginia,5674,263.6
+
+5627,2003,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,West Virginia,6186,288.1
+
+5628,2002,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,West Virginia,6189,291.2
+
+5629,2001,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,West Virginia,6325,298.8
+
+5630,2000,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,West Virginia,6435,305
+
+5631,1999,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,West Virginia,6822,325.5
+
+6550,2016,Influenza and pneumonia (J09-J18),Influenza and pneumonia,West Virginia,423,17.3
+
+6551,2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,West Virginia,526,21.2
+
+6552,2014,Influenza and pneumonia (J09-J18),Influenza and pneumonia,West Virginia,473,19.6
+
+6553,2013,Influenza and pneumonia (J09-J18),Influenza and pneumonia,West Virginia,481,20.2
+
+6554,2012,Influenza and pneumonia (J09-J18),Influenza and pneumonia,West Virginia,425,18.1
+
+6555,2011,Influenza and pneumonia (J09-J18),Influenza and pneumonia,West Virginia,455,19.8
+
+6556,2010,Influenza and pneumonia (J09-J18),Influenza and pneumonia,West Virginia,436,19
+
+6557,2009,Influenza and pneumonia (J09-J18),Influenza and pneumonia,West Virginia,443,19.7
+
+6558,2008,Influenza and pneumonia (J09-J18),Influenza and pneumonia,West Virginia,448,20
+
+6559,2007,Influenza and pneumonia (J09-J18),Influenza and pneumonia,West Virginia,408,18.4
+
+6560,2006,Influenza and pneumonia (J09-J18),Influenza and pneumonia,West Virginia,459,21.1
+
+6561,2005,Influenza and pneumonia (J09-J18),Influenza and pneumonia,West Virginia,458,21.2
+
+6562,2004,Influenza and pneumonia (J09-J18),Influenza and pneumonia,West Virginia,474,22.2
+
+6563,2003,Influenza and pneumonia (J09-J18),Influenza and pneumonia,West Virginia,536,25.3
+
+6564,2002,Influenza and pneumonia (J09-J18),Influenza and pneumonia,West Virginia,427,20.3
+
+6565,2001,Influenza and pneumonia (J09-J18),Influenza and pneumonia,West Virginia,483,23
+
+6566,2000,Influenza and pneumonia (J09-J18),Influenza and pneumonia,West Virginia,456,21.7
+
+6567,1999,Influenza and pneumonia (J09-J18),Influenza and pneumonia,West Virginia,520,25
+
+7487,2016,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,West Virginia,481,19.3
+
+7488,2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,West Virginia,510,20.4
+
+7489,2014,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,West Virginia,479,19.6
+
+7490,2013,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,West Virginia,450,18.6
+
+7491,2012,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,West Virginia,471,19.7
+
+7492,2011,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,West Virginia,445,19.1
+
+7493,2010,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,West Virginia,475,20.3
+
+7494,2009,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,West Virginia,504,21.9
+
+7495,2008,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,West Virginia,522,23
+
+7496,2007,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,West Virginia,480,21.3
+
+7497,2006,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,West Virginia,468,21
+
+7498,2005,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,West Virginia,442,20.4
+
+7499,2004,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,West Virginia,450,20.7
+
+7500,2003,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,West Virginia,458,21.2
+
+7501,2002,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,West Virginia,462,21.6
+
+7502,2001,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,West Virginia,391,18.3
+
+7503,2000,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,West Virginia,378,17.9
+
+7504,1999,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,West Virginia,345,16.4
+
+8422,2016,Cerebrovascular diseases (I60-I69),Stroke,West Virginia,1039,41.7
+
+8423,2015,Cerebrovascular diseases (I60-I69),Stroke,West Virginia,1079,43.8
+
+8424,2014,Cerebrovascular diseases (I60-I69),Stroke,West Virginia,1103,45.3
+
+8425,2013,Cerebrovascular diseases (I60-I69),Stroke,West Virginia,983,40.7
+
+8426,2012,Cerebrovascular diseases (I60-I69),Stroke,West Virginia,1140,47.9
+
+8427,2011,Cerebrovascular diseases (I60-I69),Stroke,West Virginia,1049,44.8
+
+8428,2010,Cerebrovascular diseases (I60-I69),Stroke,West Virginia,1104,47.8
+
+8429,2009,Cerebrovascular diseases (I60-I69),Stroke,West Virginia,1073,46.7
+
+8430,2008,Cerebrovascular diseases (I60-I69),Stroke,West Virginia,1096,48.3
+
+8431,2007,Cerebrovascular diseases (I60-I69),Stroke,West Virginia,1113,49.7
+
+8432,2006,Cerebrovascular diseases (I60-I69),Stroke,West Virginia,1072,48.5
+
+8433,2005,Cerebrovascular diseases (I60-I69),Stroke,West Virginia,1151,53.2
+
+8434,2004,Cerebrovascular diseases (I60-I69),Stroke,West Virginia,1178,54.8
+
+8435,2003,Cerebrovascular diseases (I60-I69),Stroke,West Virginia,1309,61.2
+
+8436,2002,Cerebrovascular diseases (I60-I69),Stroke,West Virginia,1260,59.3
+
+8437,2001,Cerebrovascular diseases (I60-I69),Stroke,West Virginia,1272,60.1
+
+8438,2000,Cerebrovascular diseases (I60-I69),Stroke,West Virginia,1296,61.3
+
+8439,1999,Cerebrovascular diseases (I60-I69),Stroke,West Virginia,1323,63.1
+
+9358,2016,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,West Virginia,362,19.3
+
+9359,2015,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,West Virginia,340,17.4
+
+9360,2014,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,West Virginia,359,18.1
+
+9361,2013,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,West Virginia,323,16.4
+
+9362,2012,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,West Virginia,326,17.1
+
+9363,2011,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,West Virginia,306,15.9
+
+9364,2010,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,West Virginia,279,14.1
+
+9365,2009,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,West Virginia,253,13.1
+
+9366,2008,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,West Virginia,261,13.7
+
+9367,2007,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,West Virginia,300,15.7
+
+9368,2006,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,West Virginia,269,14
+
+9369,2005,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,West Virginia,255,13.2
+
+9370,2004,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,West Virginia,285,15.4
+
+9371,2003,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,West Virginia,266,14
+
+9372,2002,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,West Virginia,276,14.9
+
+9373,2001,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,West Virginia,286,15
+
+9374,2000,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,West Virginia,245,13.2
+
+9375,1999,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,West Virginia,229,12.1
+
+10246,2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,West Virginia,1516,77.9
+
+10247,2014,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,West Virginia,1380,71
+
+10248,2013,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,West Virginia,1395,71.7
+
+10249,2012,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,West Virginia,1371,70.8
+
+10250,2011,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,West Virginia,1432,74.8
+
+10251,2010,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,West Virginia,1234,63.7
+
+10252,2009,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,West Virginia,942,48.2
+
+10253,2008,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,West Virginia,1253,65.5
+
+10254,2007,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,West Virginia,1241,65.8
+
+10255,2006,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,West Virginia,1177,62.4
+
+10256,2005,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,West Virginia,940,49.6
+
+10257,2004,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,West Virginia,1110,59
+
+10258,2003,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,West Virginia,1004,53.7
+
+10259,2002,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,West Virginia,956,50.9
+
+10260,2001,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,West Virginia,834,44.7
+
+10261,2000,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,West Virginia,817,43.2
+
+10262,1999,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,West Virginia,798,42
+
+50,2016,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,West Virginia,1705,89.7
+
+934,2016,All Causes,All causes,West Virginia,22732,943.3
+
+935,2015,All Causes,All causes,West Virginia,22752,943.4
+
+936,2014,All Causes,All causes,West Virginia,22186,929.1
+
+937,2013,All Causes,All causes,West Virginia,21843,923.8
+
+938,2012,All Causes,All causes,West Virginia,21915,939.3
+
+939,2011,All Causes,All causes,West Virginia,21867,953.2
+
+940,2010,All Causes,All causes,West Virginia,21275,933.6
+
+941,2009,All Causes,All causes,West Virginia,21386,947.7
+
+942,2008,All Causes,All causes,West Virginia,21557,964.3
+
+943,2007,All Causes,All causes,West Virginia,21086,954.2
+
+944,2006,All Causes,All causes,West Virginia,20672,947.5
+
+945,2005,All Causes,All causes,West Virginia,20780,965.1
+
+946,2004,All Causes,All causes,West Virginia,20793,973
+
+947,2003,All Causes,All causes,West Virginia,21306,1003.1
+
+948,2002,All Causes,All causes,West Virginia,21016,999
+
+949,2001,All Causes,All causes,West Virginia,20967,1000.9
+
+950,2000,All Causes,All causes,West Virginia,21114,1011.1
+
+951,1999,All Causes,All causes,West Virginia,21049,1012.3
+
+1870,2016,Alzheimer's disease (G30),Alzheimer's disease,West Virginia,786,31.7
+
+1871,2015,Alzheimer's disease (G30),Alzheimer's disease,West Virginia,738,30
+
+1872,2014,Alzheimer's disease (G30),Alzheimer's disease,West Virginia,620,25.5
+
+1873,2013,Alzheimer's disease (G30),Alzheimer's disease,West Virginia,590,24.6
+
+1874,2012,Alzheimer's disease (G30),Alzheimer's disease,West Virginia,598,25.3
+
+1875,2011,Alzheimer's disease (G30),Alzheimer's disease,West Virginia,610,26.2
+
+1876,2010,Alzheimer's disease (G30),Alzheimer's disease,West Virginia,594,26
+
+1877,2009,Alzheimer's disease (G30),Alzheimer's disease,West Virginia,563,24.9
+
+1878,2008,Alzheimer's disease (G30),Alzheimer's disease,West Virginia,662,29.7
+
+1879,2007,Alzheimer's disease (G30),Alzheimer's disease,West Virginia,534,24.2
+
+1880,2006,Alzheimer's disease (G30),Alzheimer's disease,West Virginia,496,22.8
+
+1881,2005,Alzheimer's disease (G30),Alzheimer's disease,West Virginia,504,23.6
+
+1882,2004,Alzheimer's disease (G30),Alzheimer's disease,West Virginia,493,23.3
+
+1883,2003,Alzheimer's disease (G30),Alzheimer's disease,West Virginia,470,22.2
+
+1884,2002,Alzheimer's disease (G30),Alzheimer's disease,West Virginia,405,19.2
+
+1885,2001,Alzheimer's disease (G30),Alzheimer's disease,West Virginia,398,19
+
+1886,2000,Alzheimer's disease (G30),Alzheimer's disease,West Virginia,361,17.2
+
+1887,1999,Alzheimer's disease (G30),Alzheimer's disease,West Virginia,314,15
+
+2806,2016,Malignant neoplasms (C00-C97),Cancer,West Virginia,4659,182.2
+
+2807,2015,Malignant neoplasms (C00-C97),Cancer,West Virginia,4839,190.4
+
+2808,2014,Malignant neoplasms (C00-C97),Cancer,West Virginia,4880,195.1
+
+2809,2013,Malignant neoplasms (C00-C97),Cancer,West Virginia,4718,190.8
+
+2810,2012,Malignant neoplasms (C00-C97),Cancer,West Virginia,4684,191.8
+
+2811,2011,Malignant neoplasms (C00-C97),Cancer,West Virginia,4782,200.1
+
+2812,2010,Malignant neoplasms (C00-C97),Cancer,West Virginia,4685,198
+
+2813,2009,Malignant neoplasms (C00-C97),Cancer,West Virginia,4786,204.2
+
+2814,2008,Malignant neoplasms (C00-C97),Cancer,West Virginia,4605,198.5
+
+2815,2007,Malignant neoplasms (C00-C97),Cancer,West Virginia,4690,204.3
+
+2816,2006,Malignant neoplasms (C00-C97),Cancer,West Virginia,4613,203.6
+
+2817,2005,Malignant neoplasms (C00-C97),Cancer,West Virginia,4617,207.4
+
+2818,2004,Malignant neoplasms (C00-C97),Cancer,West Virginia,4694,212.2
+
+2819,2003,Malignant neoplasms (C00-C97),Cancer,West Virginia,4610,211.6
+
+2820,2002,Malignant neoplasms (C00-C97),Cancer,West Virginia,4652,215.2
+
+2821,2001,Malignant neoplasms (C00-C97),Cancer,West Virginia,4685,219.2
+
+2822,2000,Malignant neoplasms (C00-C97),Cancer,West Virginia,4753,223.9
+
+2823,1999,Malignant neoplasms (C00-C97),Cancer,West Virginia,4762,225.1
+
+3742,2016,Chronic lower respiratory diseases (J40-J47),CLRD,West Virginia,1599,62.1
+
+3743,2015,Chronic lower respiratory diseases (J40-J47),CLRD,West Virginia,1628,64.6
+
+3744,2014,Chronic lower respiratory diseases (J40-J47),CLRD,West Virginia,1578,63
+
+3745,2013,Chronic lower respiratory diseases (J40-J47),CLRD,West Virginia,1590,64.6
+
+3746,2012,Chronic lower respiratory diseases (J40-J47),CLRD,West Virginia,1524,62.4
+
+3747,2011,Chronic lower respiratory diseases (J40-J47),CLRD,West Virginia,1571,66.1
+
+3748,2010,Chronic lower respiratory diseases (J40-J47),CLRD,West Virginia,1482,62.7
+
+3749,2009,Chronic lower respiratory diseases (J40-J47),CLRD,West Virginia,1490,63.9
+
+3750,2008,Chronic lower respiratory diseases (J40-J47),CLRD,West Virginia,1590,68.9
+
+3751,2007,Chronic lower respiratory diseases (J40-J47),CLRD,West Virginia,1331,58.3
+
+3752,2006,Chronic lower respiratory diseases (J40-J47),CLRD,West Virginia,1267,56.3
+
+3753,2005,Chronic lower respiratory diseases (J40-J47),CLRD,West Virginia,1350,60.5
+
+3754,2004,Chronic lower respiratory diseases (J40-J47),CLRD,West Virginia,1225,55.6
+
+3755,2003,Chronic lower respiratory diseases (J40-J47),CLRD,West Virginia,1296,59.2
+
+3756,2002,Chronic lower respiratory diseases (J40-J47),CLRD,West Virginia,1228,56.6
+
+3757,2001,Chronic lower respiratory diseases (J40-J47),CLRD,West Virginia,1273,59.2
+
+3758,2000,Chronic lower respiratory diseases (J40-J47),CLRD,West Virginia,1345,62.9
+
+3759,1999,Chronic lower respiratory diseases (J40-J47),CLRD,West Virginia,1236,57.9
+
+4678,2016,Diabetes mellitus (E10-E14),Diabetes,West Virginia,860,34.8
+
+4679,2015,Diabetes mellitus (E10-E14),Diabetes,West Virginia,784,31.7
+
+4680,2014,Diabetes mellitus (E10-E14),Diabetes,West Virginia,818,33.3
+
+4681,2013,Diabetes mellitus (E10-E14),Diabetes,West Virginia,841,34.1
+
+4682,2012,Diabetes mellitus (E10-E14),Diabetes,West Virginia,741,30.5
+
+4683,2011,Diabetes mellitus (E10-E14),Diabetes,West Virginia,790,33.3
+
+4684,2010,Diabetes mellitus (E10-E14),Diabetes,West Virginia,776,32.9
+
+4685,2009,Diabetes mellitus (E10-E14),Diabetes,West Virginia,746,32
+
+4686,2008,Diabetes mellitus (E10-E14),Diabetes,West Virginia,753,32.7
+
+4687,2007,Diabetes mellitus (E10-E14),Diabetes,West Virginia,800,35.2
+
+4688,2006,Diabetes mellitus (E10-E14),Diabetes,West Virginia,743,33
+
+4689,2005,Diabetes mellitus (E10-E14),Diabetes,West Virginia,766,34.5
+
+4690,2004,Diabetes mellitus (E10-E14),Diabetes,West Virginia,840,38.2
+
+4691,2003,Diabetes mellitus (E10-E14),Diabetes,West Virginia,807,37.1
+
+4692,2002,Diabetes mellitus (E10-E14),Diabetes,West Virginia,846,39.5
+
+4693,2001,Diabetes mellitus (E10-E14),Diabetes,West Virginia,802,37.7
+
+4694,2000,Diabetes mellitus (E10-E14),Diabetes,West Virginia,759,35.9
+
+4695,1999,Diabetes mellitus (E10-E14),Diabetes,West Virginia,734,34.8
+
+5614,2016,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,West Virginia,4767,191
+
+5615,2015,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,West Virginia,4727,191.3
+
+5616,2014,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,West Virginia,4692,192.9
+
+5617,2013,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,West Virginia,4666,193.7
+
+5618,2012,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,West Virginia,4942,208.1
+
+5619,2011,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,West Virginia,4914,210.1
+
+5620,2010,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,West Virginia,4897,211.2
+
+5621,2009,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,West Virginia,5038,219.6
+
+5622,2008,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,West Virginia,5264,232.5
+
+5623,2007,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,West Virginia,5208,232.5
+
+5624,2006,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,West Virginia,5311,240.5
+
+5625,2005,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,West Virginia,5538,253.6
+
+5626,2004,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,West Virginia,5674,263.6
+
+5627,2003,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,West Virginia,6186,288.1
+
+5628,2002,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,West Virginia,6189,291.2
+
+5629,2001,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,West Virginia,6325,298.8
+
+5630,2000,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,West Virginia,6435,305
+
+5631,1999,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,West Virginia,6822,325.5
+
+6550,2016,Influenza and pneumonia (J09-J18),Influenza and pneumonia,West Virginia,423,17.3
+
+6551,2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,West Virginia,526,21.2
+
+6552,2014,Influenza and pneumonia (J09-J18),Influenza and pneumonia,West Virginia,473,19.6
+
+6553,2013,Influenza and pneumonia (J09-J18),Influenza and pneumonia,West Virginia,481,20.2
+
+6554,2012,Influenza and pneumonia (J09-J18),Influenza and pneumonia,West Virginia,425,18.1
+
+6555,2011,Influenza and pneumonia (J09-J18),Influenza and pneumonia,West Virginia,455,19.8
+
+6556,2010,Influenza and pneumonia (J09-J18),Influenza and pneumonia,West Virginia,436,19
+
+6557,2009,Influenza and pneumonia (J09-J18),Influenza and pneumonia,West Virginia,443,19.7
+
+6558,2008,Influenza and pneumonia (J09-J18),Influenza and pneumonia,West Virginia,448,20
+
+6559,2007,Influenza and pneumonia (J09-J18),Influenza and pneumonia,West Virginia,408,18.4
+
+6560,2006,Influenza and pneumonia (J09-J18),Influenza and pneumonia,West Virginia,459,21.1
+
+6561,2005,Influenza and pneumonia (J09-J18),Influenza and pneumonia,West Virginia,458,21.2
+
+6562,2004,Influenza and pneumonia (J09-J18),Influenza and pneumonia,West Virginia,474,22.2
+
+6563,2003,Influenza and pneumonia (J09-J18),Influenza and pneumonia,West Virginia,536,25.3
+
+6564,2002,Influenza and pneumonia (J09-J18),Influenza and pneumonia,West Virginia,427,20.3
+
+6565,2001,Influenza and pneumonia (J09-J18),Influenza and pneumonia,West Virginia,483,23
+
+6566,2000,Influenza and pneumonia (J09-J18),Influenza and pneumonia,West Virginia,456,21.7
+
+6567,1999,Influenza and pneumonia (J09-J18),Influenza and pneumonia,West Virginia,520,25
+
+7487,2016,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,West Virginia,481,19.3
+
+7488,2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,West Virginia,510,20.4
+
+7489,2014,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,West Virginia,479,19.6
+
+7490,2013,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,West Virginia,450,18.6
+
+7491,2012,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,West Virginia,471,19.7
+
+7492,2011,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,West Virginia,445,19.1
+
+7493,2010,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,West Virginia,475,20.3
+
+7494,2009,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,West Virginia,504,21.9
+
+7495,2008,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,West Virginia,522,23
+
+7496,2007,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,West Virginia,480,21.3
+
+7497,2006,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,West Virginia,468,21
+
+7498,2005,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,West Virginia,442,20.4
+
+7499,2004,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,West Virginia,450,20.7
+
+7500,2003,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,West Virginia,458,21.2
+
+7501,2002,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,West Virginia,462,21.6
+
+7502,2001,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,West Virginia,391,18.3
+
+7503,2000,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,West Virginia,378,17.9
+
+7504,1999,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,West Virginia,345,16.4
+
+8422,2016,Cerebrovascular diseases (I60-I69),Stroke,West Virginia,1039,41.7
+
+8423,2015,Cerebrovascular diseases (I60-I69),Stroke,West Virginia,1079,43.8
+
+8424,2014,Cerebrovascular diseases (I60-I69),Stroke,West Virginia,1103,45.3
+
+8425,2013,Cerebrovascular diseases (I60-I69),Stroke,West Virginia,983,40.7
+
+8426,2012,Cerebrovascular diseases (I60-I69),Stroke,West Virginia,1140,47.9
+
+8427,2011,Cerebrovascular diseases (I60-I69),Stroke,West Virginia,1049,44.8
+
+8428,2010,Cerebrovascular diseases (I60-I69),Stroke,West Virginia,1104,47.8
+
+8429,2009,Cerebrovascular diseases (I60-I69),Stroke,West Virginia,1073,46.7
+
+8430,2008,Cerebrovascular diseases (I60-I69),Stroke,West Virginia,1096,48.3
+
+8431,2007,Cerebrovascular diseases (I60-I69),Stroke,West Virginia,1113,49.7
+
+8432,2006,Cerebrovascular diseases (I60-I69),Stroke,West Virginia,1072,48.5
+
+8433,2005,Cerebrovascular diseases (I60-I69),Stroke,West Virginia,1151,53.2
+
+8434,2004,Cerebrovascular diseases (I60-I69),Stroke,West Virginia,1178,54.8
+
+8435,2003,Cerebrovascular diseases (I60-I69),Stroke,West Virginia,1309,61.2
+
+8436,2002,Cerebrovascular diseases (I60-I69),Stroke,West Virginia,1260,59.3
+
+8437,2001,Cerebrovascular diseases (I60-I69),Stroke,West Virginia,1272,60.1
+
+8438,2000,Cerebrovascular diseases (I60-I69),Stroke,West Virginia,1296,61.3
+
+8439,1999,Cerebrovascular diseases (I60-I69),Stroke,West Virginia,1323,63.1
+
+9358,2016,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,West Virginia,362,19.3
+
+9359,2015,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,West Virginia,340,17.4
+
+9360,2014,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,West Virginia,359,18.1
+
+9361,2013,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,West Virginia,323,16.4
+
+9362,2012,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,West Virginia,326,17.1
+
+9363,2011,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,West Virginia,306,15.9
+
+9364,2010,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,West Virginia,279,14.1
+
+9365,2009,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,West Virginia,253,13.1
+
+9366,2008,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,West Virginia,261,13.7
+
+9367,2007,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,West Virginia,300,15.7
+
+9368,2006,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,West Virginia,269,14
+
+9369,2005,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,West Virginia,255,13.2
+
+9370,2004,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,West Virginia,285,15.4
+
+9371,2003,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,West Virginia,266,14
+
+9372,2002,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,West Virginia,276,14.9
+
+9373,2001,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,West Virginia,286,15
+
+9374,2000,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,West Virginia,245,13.2
+
+9375,1999,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,West Virginia,229,12.1
+
+10246,2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,West Virginia,1516,77.9
+
+10247,2014,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,West Virginia,1380,71
+
+10248,2013,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,West Virginia,1395,71.7
+
+10249,2012,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,West Virginia,1371,70.8
+
+10250,2011,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,West Virginia,1432,74.8
+
+10251,2010,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,West Virginia,1234,63.7
+
+10252,2009,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,West Virginia,942,48.2
+
+10253,2008,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,West Virginia,1253,65.5
+
+10254,2007,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,West Virginia,1241,65.8
+
+10255,2006,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,West Virginia,1177,62.4
+
+10256,2005,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,West Virginia,940,49.6
+
+10257,2004,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,West Virginia,1110,59
+
+10258,2003,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,West Virginia,1004,53.7
+
+10259,2002,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,West Virginia,956,50.9
+
+10260,2001,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,West Virginia,834,44.7
+
+10261,2000,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,West Virginia,817,43.2
+
+10262,1999,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,West Virginia,798,42
+
+50,2016,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,West Virginia,1705,89.7
+
+934,2016,All Causes,All causes,West Virginia,22732,943.3
+
+935,2015,All Causes,All causes,West Virginia,22752,943.4
+
+936,2014,All Causes,All causes,West Virginia,22186,929.1
+
+937,2013,All Causes,All causes,West Virginia,21843,923.8
+
+938,2012,All Causes,All causes,West Virginia,21915,939.3
+
+939,2011,All Causes,All causes,West Virginia,21867,953.2
+
+940,2010,All Causes,All causes,West Virginia,21275,933.6
+
+941,2009,All Causes,All causes,West Virginia,21386,947.7
+
+942,2008,All Causes,All causes,West Virginia,21557,964.3
+
+943,2007,All Causes,All causes,West Virginia,21086,954.2
+
+944,2006,All Causes,All causes,West Virginia,20672,947.5
+
+945,2005,All Causes,All causes,West Virginia,20780,965.1
+
+946,2004,All Causes,All causes,West Virginia,20793,973
+
+947,2003,All Causes,All causes,West Virginia,21306,1003.1
+
+948,2002,All Causes,All causes,West Virginia,21016,999
+
+949,2001,All Causes,All causes,West Virginia,20967,1000.9
+
+950,2000,All Causes,All causes,West Virginia,21114,1011.1
+
+951,1999,All Causes,All causes,West Virginia,21049,1012.3
+
+1870,2016,Alzheimer's disease (G30),Alzheimer's disease,West Virginia,786,31.7
+
+1871,2015,Alzheimer's disease (G30),Alzheimer's disease,West Virginia,738,30
+
+1872,2014,Alzheimer's disease (G30),Alzheimer's disease,West Virginia,620,25.5
+
+1873,2013,Alzheimer's disease (G30),Alzheimer's disease,West Virginia,590,24.6
+
+1874,2012,Alzheimer's disease (G30),Alzheimer's disease,West Virginia,598,25.3
+
+1875,2011,Alzheimer's disease (G30),Alzheimer's disease,West Virginia,610,26.2
+
+1876,2010,Alzheimer's disease (G30),Alzheimer's disease,West Virginia,594,26
+
+1877,2009,Alzheimer's disease (G30),Alzheimer's disease,West Virginia,563,24.9
+
+1878,2008,Alzheimer's disease (G30),Alzheimer's disease,West Virginia,662,29.7
+
+1879,2007,Alzheimer's disease (G30),Alzheimer's disease,West Virginia,534,24.2
+
+1880,2006,Alzheimer's disease (G30),Alzheimer's disease,West Virginia,496,22.8
+
+1881,2005,Alzheimer's disease (G30),Alzheimer's disease,West Virginia,504,23.6
+
+1882,2004,Alzheimer's disease (G30),Alzheimer's disease,West Virginia,493,23.3
+
+1883,2003,Alzheimer's disease (G30),Alzheimer's disease,West Virginia,470,22.2
+
+1884,2002,Alzheimer's disease (G30),Alzheimer's disease,West Virginia,405,19.2
+
+1885,2001,Alzheimer's disease (G30),Alzheimer's disease,West Virginia,398,19
+
+1886,2000,Alzheimer's disease (G30),Alzheimer's disease,West Virginia,361,17.2
+
+1887,1999,Alzheimer's disease (G30),Alzheimer's disease,West Virginia,314,15
+
+2806,2016,Malignant neoplasms (C00-C97),Cancer,West Virginia,4659,182.2
+
+2807,2015,Malignant neoplasms (C00-C97),Cancer,West Virginia,4839,190.4
+
+2808,2014,Malignant neoplasms (C00-C97),Cancer,West Virginia,4880,195.1
+
+2809,2013,Malignant neoplasms (C00-C97),Cancer,West Virginia,4718,190.8
+
+2810,2012,Malignant neoplasms (C00-C97),Cancer,West Virginia,4684,191.8
+
+2811,2011,Malignant neoplasms (C00-C97),Cancer,West Virginia,4782,200.1
+
+2812,2010,Malignant neoplasms (C00-C97),Cancer,West Virginia,4685,198
+
+2813,2009,Malignant neoplasms (C00-C97),Cancer,West Virginia,4786,204.2
+
+2814,2008,Malignant neoplasms (C00-C97),Cancer,West Virginia,4605,198.5
+
+2815,2007,Malignant neoplasms (C00-C97),Cancer,West Virginia,4690,204.3
+
+2816,2006,Malignant neoplasms (C00-C97),Cancer,West Virginia,4613,203.6
+
+2817,2005,Malignant neoplasms (C00-C97),Cancer,West Virginia,4617,207.4
+
+2818,2004,Malignant neoplasms (C00-C97),Cancer,West Virginia,4694,212.2
+
+2819,2003,Malignant neoplasms (C00-C97),Cancer,West Virginia,4610,211.6
+
+2820,2002,Malignant neoplasms (C00-C97),Cancer,West Virginia,4652,215.2
+
+2821,2001,Malignant neoplasms (C00-C97),Cancer,West Virginia,4685,219.2
+
+2822,2000,Malignant neoplasms (C00-C97),Cancer,West Virginia,4753,223.9
+
+2823,1999,Malignant neoplasms (C00-C97),Cancer,West Virginia,4762,225.1
+
+3742,2016,Chronic lower respiratory diseases (J40-J47),CLRD,West Virginia,1599,62.1
+
+3743,2015,Chronic lower respiratory diseases (J40-J47),CLRD,West Virginia,1628,64.6
+
+3744,2014,Chronic lower respiratory diseases (J40-J47),CLRD,West Virginia,1578,63
+
+3745,2013,Chronic lower respiratory diseases (J40-J47),CLRD,West Virginia,1590,64.6
+
+3746,2012,Chronic lower respiratory diseases (J40-J47),CLRD,West Virginia,1524,62.4
+
+3747,2011,Chronic lower respiratory diseases (J40-J47),CLRD,West Virginia,1571,66.1
+
+3748,2010,Chronic lower respiratory diseases (J40-J47),CLRD,West Virginia,1482,62.7
+
+3749,2009,Chronic lower respiratory diseases (J40-J47),CLRD,West Virginia,1490,63.9
+
+3750,2008,Chronic lower respiratory diseases (J40-J47),CLRD,West Virginia,1590,68.9
+
+3751,2007,Chronic lower respiratory diseases (J40-J47),CLRD,West Virginia,1331,58.3
+
+3752,2006,Chronic lower respiratory diseases (J40-J47),CLRD,West Virginia,1267,56.3
+
+3753,2005,Chronic lower respiratory diseases (J40-J47),CLRD,West Virginia,1350,60.5
+
+3754,2004,Chronic lower respiratory diseases (J40-J47),CLRD,West Virginia,1225,55.6
+
+3755,2003,Chronic lower respiratory diseases (J40-J47),CLRD,West Virginia,1296,59.2
+
+3756,2002,Chronic lower respiratory diseases (J40-J47),CLRD,West Virginia,1228,56.6
+
+3757,2001,Chronic lower respiratory diseases (J40-J47),CLRD,West Virginia,1273,59.2
+
+3758,2000,Chronic lower respiratory diseases (J40-J47),CLRD,West Virginia,1345,62.9
+
+3759,1999,Chronic lower respiratory diseases (J40-J47),CLRD,West Virginia,1236,57.9
+
+4678,2016,Diabetes mellitus (E10-E14),Diabetes,West Virginia,860,34.8
+
+4679,2015,Diabetes mellitus (E10-E14),Diabetes,West Virginia,784,31.7
+
+4680,2014,Diabetes mellitus (E10-E14),Diabetes,West Virginia,818,33.3
+
+4681,2013,Diabetes mellitus (E10-E14),Diabetes,West Virginia,841,34.1
+
+4682,2012,Diabetes mellitus (E10-E14),Diabetes,West Virginia,741,30.5
+
+4683,2011,Diabetes mellitus (E10-E14),Diabetes,West Virginia,790,33.3
+
+4684,2010,Diabetes mellitus (E10-E14),Diabetes,West Virginia,776,32.9
+
+4685,2009,Diabetes mellitus (E10-E14),Diabetes,West Virginia,746,32
+
+4686,2008,Diabetes mellitus (E10-E14),Diabetes,West Virginia,753,32.7
+
+4687,2007,Diabetes mellitus (E10-E14),Diabetes,West Virginia,800,35.2
+
+4688,2006,Diabetes mellitus (E10-E14),Diabetes,West Virginia,743,33
+
+4689,2005,Diabetes mellitus (E10-E14),Diabetes,West Virginia,766,34.5
+
+4690,2004,Diabetes mellitus (E10-E14),Diabetes,West Virginia,840,38.2
+
+4691,2003,Diabetes mellitus (E10-E14),Diabetes,West Virginia,807,37.1
+
+4692,2002,Diabetes mellitus (E10-E14),Diabetes,West Virginia,846,39.5
+
+4693,2001,Diabetes mellitus (E10-E14),Diabetes,West Virginia,802,37.7
+
+4694,2000,Diabetes mellitus (E10-E14),Diabetes,West Virginia,759,35.9
+
+4695,1999,Diabetes mellitus (E10-E14),Diabetes,West Virginia,734,34.8
+
+5614,2016,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,West Virginia,4767,191
+
+5615,2015,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,West Virginia,4727,191.3
+
+5616,2014,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,West Virginia,4692,192.9
+
+5617,2013,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,West Virginia,4666,193.7
+
+5618,2012,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,West Virginia,4942,208.1
+
+5619,2011,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,West Virginia,4914,210.1
+
+5620,2010,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,West Virginia,4897,211.2
+
+5621,2009,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,West Virginia,5038,219.6
+
+5622,2008,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,West Virginia,5264,232.5
+
+5623,2007,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,West Virginia,5208,232.5
+
+5624,2006,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,West Virginia,5311,240.5
+
+5625,2005,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,West Virginia,5538,253.6
+
+5626,2004,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,West Virginia,5674,263.6
+
+5627,2003,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,West Virginia,6186,288.1
+
+5628,2002,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,West Virginia,6189,291.2
+
+5629,2001,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,West Virginia,6325,298.8
+
+5630,2000,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,West Virginia,6435,305
+
+5631,1999,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,West Virginia,6822,325.5
+
+6550,2016,Influenza and pneumonia (J09-J18),Influenza and pneumonia,West Virginia,423,17.3
+
+6551,2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,West Virginia,526,21.2
+
+6552,2014,Influenza and pneumonia (J09-J18),Influenza and pneumonia,West Virginia,473,19.6
+
+6553,2013,Influenza and pneumonia (J09-J18),Influenza and pneumonia,West Virginia,481,20.2
+
+6554,2012,Influenza and pneumonia (J09-J18),Influenza and pneumonia,West Virginia,425,18.1
+
+6555,2011,Influenza and pneumonia (J09-J18),Influenza and pneumonia,West Virginia,455,19.8
+
+6556,2010,Influenza and pneumonia (J09-J18),Influenza and pneumonia,West Virginia,436,19
+
+6557,2009,Influenza and pneumonia (J09-J18),Influenza and pneumonia,West Virginia,443,19.7
+
+6558,2008,Influenza and pneumonia (J09-J18),Influenza and pneumonia,West Virginia,448,20
+
+6559,2007,Influenza and pneumonia (J09-J18),Influenza and pneumonia,West Virginia,408,18.4
+
+6560,2006,Influenza and pneumonia (J09-J18),Influenza and pneumonia,West Virginia,459,21.1
+
+6561,2005,Influenza and pneumonia (J09-J18),Influenza and pneumonia,West Virginia,458,21.2
+
+6562,2004,Influenza and pneumonia (J09-J18),Influenza and pneumonia,West Virginia,474,22.2
+
+6563,2003,Influenza and pneumonia (J09-J18),Influenza and pneumonia,West Virginia,536,25.3
+
+6564,2002,Influenza and pneumonia (J09-J18),Influenza and pneumonia,West Virginia,427,20.3
+
+6565,2001,Influenza and pneumonia (J09-J18),Influenza and pneumonia,West Virginia,483,23
+
+6566,2000,Influenza and pneumonia (J09-J18),Influenza and pneumonia,West Virginia,456,21.7
+
+6567,1999,Influenza and pneumonia (J09-J18),Influenza and pneumonia,West Virginia,520,25
+
+7487,2016,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,West Virginia,481,19.3
+
+7488,2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,West Virginia,510,20.4
+
+7489,2014,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,West Virginia,479,19.6
+
+7490,2013,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,West Virginia,450,18.6
+
+7491,2012,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,West Virginia,471,19.7
+
+7492,2011,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,West Virginia,445,19.1
+
+7493,2010,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,West Virginia,475,20.3
+
+7494,2009,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,West Virginia,504,21.9
+
+7495,2008,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,West Virginia,522,23
+
+7496,2007,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,West Virginia,480,21.3
+
+7497,2006,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,West Virginia,468,21
+
+7498,2005,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,West Virginia,442,20.4
+
+7499,2004,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,West Virginia,450,20.7
+
+7500,2003,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,West Virginia,458,21.2
+
+7501,2002,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,West Virginia,462,21.6
+
+7502,2001,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,West Virginia,391,18.3
+
+7503,2000,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,West Virginia,378,17.9
+
+7504,1999,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,West Virginia,345,16.4
+
+8422,2016,Cerebrovascular diseases (I60-I69),Stroke,West Virginia,1039,41.7
+
+8423,2015,Cerebrovascular diseases (I60-I69),Stroke,West Virginia,1079,43.8
+
+8424,2014,Cerebrovascular diseases (I60-I69),Stroke,West Virginia,1103,45.3
+
+8425,2013,Cerebrovascular diseases (I60-I69),Stroke,West Virginia,983,40.7
+
+8426,2012,Cerebrovascular diseases (I60-I69),Stroke,West Virginia,1140,47.9
+
+8427,2011,Cerebrovascular diseases (I60-I69),Stroke,West Virginia,1049,44.8
+
+8428,2010,Cerebrovascular diseases (I60-I69),Stroke,West Virginia,1104,47.8
+
+8429,2009,Cerebrovascular diseases (I60-I69),Stroke,West Virginia,1073,46.7
+
+8430,2008,Cerebrovascular diseases (I60-I69),Stroke,West Virginia,1096,48.3
+
+8431,2007,Cerebrovascular diseases (I60-I69),Stroke,West Virginia,1113,49.7
+
+8432,2006,Cerebrovascular diseases (I60-I69),Stroke,West Virginia,1072,48.5
+
+8433,2005,Cerebrovascular diseases (I60-I69),Stroke,West Virginia,1151,53.2
+
+8434,2004,Cerebrovascular diseases (I60-I69),Stroke,West Virginia,1178,54.8
+
+8435,2003,Cerebrovascular diseases (I60-I69),Stroke,West Virginia,1309,61.2
+
+8436,2002,Cerebrovascular diseases (I60-I69),Stroke,West Virginia,1260,59.3
+
+8437,2001,Cerebrovascular diseases (I60-I69),Stroke,West Virginia,1272,60.1
+
+8438,2000,Cerebrovascular diseases (I60-I69),Stroke,West Virginia,1296,61.3
+
+8439,1999,Cerebrovascular diseases (I60-I69),Stroke,West Virginia,1323,63.1
+
+9358,2016,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,West Virginia,362,19.3
+
+9359,2015,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,West Virginia,340,17.4
+
+9360,2014,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,West Virginia,359,18.1
+
+9361,2013,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,West Virginia,323,16.4
+
+9362,2012,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,West Virginia,326,17.1
+
+9363,2011,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,West Virginia,306,15.9
+
+9364,2010,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,West Virginia,279,14.1
+
+9365,2009,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,West Virginia,253,13.1
+
+9366,2008,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,West Virginia,261,13.7
+
+9367,2007,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,West Virginia,300,15.7
+
+9368,2006,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,West Virginia,269,14
+
+9369,2005,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,West Virginia,255,13.2
+
+9370,2004,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,West Virginia,285,15.4
+
+9371,2003,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,West Virginia,266,14
+
+9372,2002,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,West Virginia,276,14.9
+
+9373,2001,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,West Virginia,286,15
+
+9374,2000,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,West Virginia,245,13.2
+
+9375,1999,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,West Virginia,229,12.1
+
+10246,2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,West Virginia,1516,77.9
+
+10247,2014,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,West Virginia,1380,71
+
+10248,2013,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,West Virginia,1395,71.7
+
+10249,2012,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,West Virginia,1371,70.8
+
+10250,2011,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,West Virginia,1432,74.8
+
+10251,2010,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,West Virginia,1234,63.7
+
+10252,2009,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,West Virginia,942,48.2
+
+10253,2008,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,West Virginia,1253,65.5
+
+10254,2007,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,West Virginia,1241,65.8
+
+10255,2006,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,West Virginia,1177,62.4
+
+10256,2005,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,West Virginia,940,49.6
+
+10257,2004,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,West Virginia,1110,59
+
+10258,2003,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,West Virginia,1004,53.7
+
+10259,2002,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,West Virginia,956,50.9
+
+10260,2001,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,West Virginia,834,44.7
+
+10261,2000,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,West Virginia,817,43.2
+
+10262,1999,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,West Virginia,798,42
+

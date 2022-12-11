@@ -1,0 +1,4 @@
+326,2012,All Causes,All causes,Iowa,28389,718.3
+
+600,2008,All Causes,All causes,New Jersey,70026,718.3
+

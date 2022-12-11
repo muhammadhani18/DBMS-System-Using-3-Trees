@@ -1,0 +1,6 @@
+1083,2011,Alzheimer's disease (G30),Alzheimer's disease,Colorado,1307,29
+
+4677,1999,Diabetes mellitus (E10-E14),Diabetes,Washington,1307,24.5
+
+6518,2012,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Virginia,1307,15.8
+

@@ -1,0 +1,28 @@
+1484,2006,Alzheimer's disease (G30),Alzheimer's disease,Nebraska,500,23.3
+
+3578,2000,Chronic lower respiratory diseases (J40-J47),CLRD,Rhode Island,500,40.4
+
+6674,2000,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arkansas,500,17.3
+
+7266,2002,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Oklahoma,500,13.9
+
+8068,2010,Cerebrovascular diseases (I60-I69),Stroke,New Hampshire,500,33.5
+
+8848,2004,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Maryland,500,8.8
+
+9035,2015,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,New Mexico,500,23.7
+
+1484,2006,Alzheimer's disease (G30),Alzheimer's disease,Nebraska,500,23.3
+
+3578,2000,Chronic lower respiratory diseases (J40-J47),CLRD,Rhode Island,500,40.4
+
+6674,2000,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arkansas,500,17.3
+
+7266,2002,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Oklahoma,500,13.9
+
+8068,2010,Cerebrovascular diseases (I60-I69),Stroke,New Hampshire,500,33.5
+
+8848,2004,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Maryland,500,8.8
+
+9035,2015,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,New Mexico,500,23.7
+

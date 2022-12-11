@@ -1,0 +1,1584 @@
+18,2016,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Kentucky,3194,71
+
+358,2016,All Causes,All causes,Kentucky,47827,938.4
+
+359,2015,All Causes,All causes,Kentucky,46564,924.7
+
+360,2014,All Causes,All causes,Kentucky,44838,906.3
+
+361,2013,All Causes,All causes,Kentucky,43759,899.9
+
+362,2012,All Causes,All causes,Kentucky,43664,916.3
+
+363,2011,All Causes,All causes,Kentucky,42626,910.3
+
+364,2010,All Causes,All causes,Kentucky,41983,915
+
+365,2009,All Causes,All causes,Kentucky,41380,912.5
+
+366,2008,All Causes,All causes,Kentucky,41329,926.7
+
+367,2007,All Causes,All causes,Kentucky,40090,915.3
+
+368,2006,All Causes,All causes,Kentucky,40102,932.3
+
+369,2005,All Causes,All causes,Kentucky,40223,954.7
+
+370,2004,All Causes,All causes,Kentucky,38646,935.3
+
+371,2003,All Causes,All causes,Kentucky,40241,986.4
+
+372,2002,All Causes,All causes,Kentucky,40697,1009.7
+
+373,2001,All Causes,All causes,Kentucky,39861,997.1
+
+374,2000,All Causes,All causes,Kentucky,39504,998.6
+
+375,1999,All Causes,All causes,Kentucky,39321,1004.1
+
+1294,2016,Alzheimer's disease (G30),Alzheimer's disease,Kentucky,1728,35.1
+
+1295,2015,Alzheimer's disease (G30),Alzheimer's disease,Kentucky,1694,34.9
+
+1296,2014,Alzheimer's disease (G30),Alzheimer's disease,Kentucky,1523,32.1
+
+1297,2013,Alzheimer's disease (G30),Alzheimer's disease,Kentucky,1462,31.4
+
+1298,2012,Alzheimer's disease (G30),Alzheimer's disease,Kentucky,1506,33
+
+1299,2011,Alzheimer's disease (G30),Alzheimer's disease,Kentucky,1459,32.5
+
+1300,2010,Alzheimer's disease (G30),Alzheimer's disease,Kentucky,1464,33.5
+
+1301,2009,Alzheimer's disease (G30),Alzheimer's disease,Kentucky,1345,31.3
+
+1302,2008,Alzheimer's disease (G30),Alzheimer's disease,Kentucky,1370,32.3
+
+1303,2007,Alzheimer's disease (G30),Alzheimer's disease,Kentucky,1198,28.7
+
+1304,2006,Alzheimer's disease (G30),Alzheimer's disease,Kentucky,1153,28.1
+
+1305,2005,Alzheimer's disease (G30),Alzheimer's disease,Kentucky,1147,28.7
+
+1306,2004,Alzheimer's disease (G30),Alzheimer's disease,Kentucky,982,25.1
+
+1307,2003,Alzheimer's disease (G30),Alzheimer's disease,Kentucky,1072,27.7
+
+1308,2002,Alzheimer's disease (G30),Alzheimer's disease,Kentucky,1013,26.3
+
+1309,2001,Alzheimer's disease (G30),Alzheimer's disease,Kentucky,966,25.1
+
+1310,2000,Alzheimer's disease (G30),Alzheimer's disease,Kentucky,845,22.1
+
+1311,1999,Alzheimer's disease (G30),Alzheimer's disease,Kentucky,728,19.3
+
+2230,2016,Malignant neoplasms (C00-C97),Cancer,Kentucky,10363,193.8
+
+2231,2015,Malignant neoplasms (C00-C97),Cancer,Kentucky,10312,195.9
+
+2232,2014,Malignant neoplasms (C00-C97),Cancer,Kentucky,10263,198.8
+
+2233,2013,Malignant neoplasms (C00-C97),Cancer,Kentucky,10085,199.3
+
+2234,2012,Malignant neoplasms (C00-C97),Cancer,Kentucky,10012,201.5
+
+2235,2011,Malignant neoplasms (C00-C97),Cancer,Kentucky,9733,200.8
+
+2236,2010,Malignant neoplasms (C00-C97),Cancer,Kentucky,9930,208.3
+
+2237,2009,Malignant neoplasms (C00-C97),Cancer,Kentucky,9634,204.9
+
+2238,2008,Malignant neoplasms (C00-C97),Cancer,Kentucky,9589,207.8
+
+2239,2007,Malignant neoplasms (C00-C97),Cancer,Kentucky,9692,214.7
+
+2240,2006,Malignant neoplasms (C00-C97),Cancer,Kentucky,9394,212
+
+2241,2005,Malignant neoplasms (C00-C97),Cancer,Kentucky,9505,219.1
+
+2242,2004,Malignant neoplasms (C00-C97),Cancer,Kentucky,9159,215.5
+
+2243,2003,Malignant neoplasms (C00-C97),Cancer,Kentucky,9378,223.7
+
+2244,2002,Malignant neoplasms (C00-C97),Cancer,Kentucky,9438,228.6
+
+2245,2001,Malignant neoplasms (C00-C97),Cancer,Kentucky,9358,229.7
+
+2246,2000,Malignant neoplasms (C00-C97),Cancer,Kentucky,9207,228.7
+
+2247,1999,Malignant neoplasms (C00-C97),Cancer,Kentucky,8925,224.2
+
+3166,2016,Chronic lower respiratory diseases (J40-J47),CLRD,Kentucky,3486,66.3
+
+3167,2015,Chronic lower respiratory diseases (J40-J47),CLRD,Kentucky,3331,64.3
+
+3168,2014,Chronic lower respiratory diseases (J40-J47),CLRD,Kentucky,3214,63.8
+
+3169,2013,Chronic lower respiratory diseases (J40-J47),CLRD,Kentucky,3187,64.6
+
+3170,2012,Chronic lower respiratory diseases (J40-J47),CLRD,Kentucky,3100,64.2
+
+3171,2011,Chronic lower respiratory diseases (J40-J47),CLRD,Kentucky,3020,64.1
+
+3172,2010,Chronic lower respiratory diseases (J40-J47),CLRD,Kentucky,2779,60
+
+3173,2009,Chronic lower respiratory diseases (J40-J47),CLRD,Kentucky,2854,62.2
+
+3174,2008,Chronic lower respiratory diseases (J40-J47),CLRD,Kentucky,2926,65.2
+
+3175,2007,Chronic lower respiratory diseases (J40-J47),CLRD,Kentucky,2629,59.9
+
+3176,2006,Chronic lower respiratory diseases (J40-J47),CLRD,Kentucky,2407,55.6
+
+3177,2005,Chronic lower respiratory diseases (J40-J47),CLRD,Kentucky,2578,61
+
+3178,2004,Chronic lower respiratory diseases (J40-J47),CLRD,Kentucky,2265,54.8
+
+3179,2003,Chronic lower respiratory diseases (J40-J47),CLRD,Kentucky,2391,58.4
+
+3180,2002,Chronic lower respiratory diseases (J40-J47),CLRD,Kentucky,2401,59.3
+
+3181,2001,Chronic lower respiratory diseases (J40-J47),CLRD,Kentucky,2265,56.6
+
+3182,2000,Chronic lower respiratory diseases (J40-J47),CLRD,Kentucky,2170,54.8
+
+3183,1999,Chronic lower respiratory diseases (J40-J47),CLRD,Kentucky,2327,59
+
+4102,2016,Diabetes mellitus (E10-E14),Diabetes,Kentucky,1479,28.4
+
+4103,2015,Diabetes mellitus (E10-E14),Diabetes,Kentucky,1458,28.2
+
+4104,2014,Diabetes mellitus (E10-E14),Diabetes,Kentucky,1175,23.4
+
+4105,2013,Diabetes mellitus (E10-E14),Diabetes,Kentucky,1187,24.1
+
+4106,2012,Diabetes mellitus (E10-E14),Diabetes,Kentucky,1256,25.9
+
+4107,2011,Diabetes mellitus (E10-E14),Diabetes,Kentucky,1268,26.5
+
+4108,2010,Diabetes mellitus (E10-E14),Diabetes,Kentucky,1212,26
+
+4109,2009,Diabetes mellitus (E10-E14),Diabetes,Kentucky,1348,29.3
+
+4110,2008,Diabetes mellitus (E10-E14),Diabetes,Kentucky,1214,26.7
+
+4111,2007,Diabetes mellitus (E10-E14),Diabetes,Kentucky,1091,24.4
+
+4112,2006,Diabetes mellitus (E10-E14),Diabetes,Kentucky,1141,26.2
+
+4113,2005,Diabetes mellitus (E10-E14),Diabetes,Kentucky,1187,27.8
+
+4114,2004,Diabetes mellitus (E10-E14),Diabetes,Kentucky,1195,28.6
+
+4115,2003,Diabetes mellitus (E10-E14),Diabetes,Kentucky,1296,31.6
+
+4116,2002,Diabetes mellitus (E10-E14),Diabetes,Kentucky,1265,31.1
+
+4117,2001,Diabetes mellitus (E10-E14),Diabetes,Kentucky,1099,27.3
+
+4118,2000,Diabetes mellitus (E10-E14),Diabetes,Kentucky,1107,27.9
+
+4119,1999,Diabetes mellitus (E10-E14),Diabetes,Kentucky,1133,28.8
+
+5038,2016,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Kentucky,10519,203
+
+5039,2015,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Kentucky,10077,197.8
+
+5040,2014,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Kentucky,10013,200.5
+
+5041,2013,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Kentucky,9971,203.4
+
+5042,2012,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Kentucky,10024,208.2
+
+5043,2011,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Kentucky,9905,210
+
+5044,2010,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Kentucky,9662,210.1
+
+5045,2009,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Kentucky,9728,214.3
+
+5046,2008,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Kentucky,10061,225.5
+
+5047,2007,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Kentucky,9916,227
+
+5048,2006,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Kentucky,10353,241.4
+
+5049,2005,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Kentucky,10782,257.3
+
+5050,2004,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Kentucky,10465,254.8
+
+5051,2003,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Kentucky,11319,279.2
+
+5052,2002,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Kentucky,11696,292.2
+
+5053,2001,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Kentucky,11808,297.3
+
+5054,2000,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Kentucky,11936,303.6
+
+5055,1999,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Kentucky,12098,310.9
+
+5974,2016,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Kentucky,888,17.3
+
+5975,2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Kentucky,967,19.3
+
+5976,2014,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Kentucky,1017,20.8
+
+5977,2013,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Kentucky,919,19.1
+
+5978,2012,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Kentucky,879,18.7
+
+5979,2011,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Kentucky,961,20.8
+
+5980,2010,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Kentucky,943,21
+
+5981,2009,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Kentucky,1018,22.9
+
+5982,2008,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Kentucky,943,21.6
+
+5983,2007,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Kentucky,897,21
+
+5984,2006,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Kentucky,927,22.1
+
+5985,2005,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Kentucky,1021,24.9
+
+5986,2004,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Kentucky,965,24.1
+
+5987,2003,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Kentucky,1033,26.1
+
+5988,2002,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Kentucky,1236,31.5
+
+5989,2001,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Kentucky,1114,28.6
+
+5990,2000,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Kentucky,1157,29.9
+
+5991,1999,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Kentucky,1198,31.3
+
+6910,2016,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Kentucky,1034,20.3
+
+6911,2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Kentucky,998,19.7
+
+6912,2014,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Kentucky,968,19.5
+
+6913,2013,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Kentucky,991,20.5
+
+6914,2012,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Kentucky,933,19.6
+
+6915,2011,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Kentucky,971,20.9
+
+6916,2010,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Kentucky,1079,23.8
+
+6917,2009,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Kentucky,945,21.1
+
+6918,2008,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Kentucky,993,22.6
+
+6919,2007,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Kentucky,994,23
+
+6920,2006,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Kentucky,922,21.6
+
+6921,2005,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Kentucky,912,21.9
+
+6922,2004,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Kentucky,827,20.3
+
+6923,2003,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Kentucky,838,20.8
+
+6924,2002,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Kentucky,813,20.4
+
+6925,2001,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Kentucky,807,20.4
+
+6926,2000,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Kentucky,756,19.3
+
+6927,1999,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Kentucky,685,17.7
+
+7846,2016,Cerebrovascular diseases (I60-I69),Stroke,Kentucky,2057,40.4
+
+7847,2015,Cerebrovascular diseases (I60-I69),Stroke,Kentucky,2050,40.8
+
+7848,2014,Cerebrovascular diseases (I60-I69),Stroke,Kentucky,2050,41.8
+
+7849,2013,Cerebrovascular diseases (I60-I69),Stroke,Kentucky,1990,41.7
+
+7850,2012,Cerebrovascular diseases (I60-I69),Stroke,Kentucky,2073,44.3
+
+7851,2011,Cerebrovascular diseases (I60-I69),Stroke,Kentucky,2064,44.8
+
+7852,2010,Cerebrovascular diseases (I60-I69),Stroke,Kentucky,1992,44.1
+
+7853,2009,Cerebrovascular diseases (I60-I69),Stroke,Kentucky,2064,46.4
+
+7854,2008,Cerebrovascular diseases (I60-I69),Stroke,Kentucky,2098,47.9
+
+7855,2007,Cerebrovascular diseases (I60-I69),Stroke,Kentucky,2144,49.8
+
+7856,2006,Cerebrovascular diseases (I60-I69),Stroke,Kentucky,2197,51.9
+
+7857,2005,Cerebrovascular diseases (I60-I69),Stroke,Kentucky,2168,52.5
+
+7858,2004,Cerebrovascular diseases (I60-I69),Stroke,Kentucky,2339,58
+
+7859,2003,Cerebrovascular diseases (I60-I69),Stroke,Kentucky,2442,61.3
+
+7860,2002,Cerebrovascular diseases (I60-I69),Stroke,Kentucky,2554,64.9
+
+7861,2001,Cerebrovascular diseases (I60-I69),Stroke,Kentucky,2557,65.2
+
+7862,2000,Cerebrovascular diseases (I60-I69),Stroke,Kentucky,2637,67.7
+
+7863,1999,Cerebrovascular diseases (I60-I69),Stroke,Kentucky,2710,70.4
+
+8782,2016,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Kentucky,756,16.8
+
+8783,2015,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Kentucky,776,17.1
+
+8784,2014,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Kentucky,728,16
+
+8785,2013,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Kentucky,701,15.6
+
+8786,2012,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Kentucky,724,16.2
+
+8787,2011,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Kentucky,675,15.2
+
+8788,2010,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Kentucky,631,14.2
+
+8789,2009,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Kentucky,592,13.5
+
+8790,2008,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Kentucky,612,14
+
+8791,2007,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Kentucky,649,15.1
+
+8792,2006,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Kentucky,622,14.6
+
+8793,2005,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Kentucky,566,13.4
+
+8794,2004,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Kentucky,560,13.3
+
+8795,2003,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Kentucky,567,13.6
+
+8796,2002,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Kentucky,540,13
+
+8797,2001,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Kentucky,495,12.1
+
+8798,2000,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Kentucky,521,12.8
+
+8799,1999,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Kentucky,470,11.6
+
+9701,2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Kentucky,2962,66
+
+9702,2014,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Kentucky,2621,58.3
+
+9703,2013,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Kentucky,2513,55.7
+
+9704,2012,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Kentucky,2741,62
+
+9705,2011,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Kentucky,2608,59.5
+
+9706,2010,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Kentucky,2632,60.5
+
+9707,2009,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Kentucky,2394,55.1
+
+9708,2008,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Kentucky,2379,55.2
+
+9709,2007,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Kentucky,2372,55.6
+
+9710,2006,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Kentucky,2446,57.9
+
+9711,2005,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Kentucky,2405,57.4
+
+9712,2004,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Kentucky,2260,54.8
+
+9713,2003,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Kentucky,2270,55.2
+
+9714,2002,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Kentucky,2090,51.3
+
+9715,2001,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Kentucky,1990,49.1
+
+9716,2000,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Kentucky,1838,45.7
+
+9717,1999,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Kentucky,1730,43.3
+
+18,2016,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Kentucky,3194,71
+
+358,2016,All Causes,All causes,Kentucky,47827,938.4
+
+359,2015,All Causes,All causes,Kentucky,46564,924.7
+
+360,2014,All Causes,All causes,Kentucky,44838,906.3
+
+361,2013,All Causes,All causes,Kentucky,43759,899.9
+
+362,2012,All Causes,All causes,Kentucky,43664,916.3
+
+363,2011,All Causes,All causes,Kentucky,42626,910.3
+
+364,2010,All Causes,All causes,Kentucky,41983,915
+
+365,2009,All Causes,All causes,Kentucky,41380,912.5
+
+366,2008,All Causes,All causes,Kentucky,41329,926.7
+
+367,2007,All Causes,All causes,Kentucky,40090,915.3
+
+368,2006,All Causes,All causes,Kentucky,40102,932.3
+
+369,2005,All Causes,All causes,Kentucky,40223,954.7
+
+370,2004,All Causes,All causes,Kentucky,38646,935.3
+
+371,2003,All Causes,All causes,Kentucky,40241,986.4
+
+372,2002,All Causes,All causes,Kentucky,40697,1009.7
+
+373,2001,All Causes,All causes,Kentucky,39861,997.1
+
+374,2000,All Causes,All causes,Kentucky,39504,998.6
+
+375,1999,All Causes,All causes,Kentucky,39321,1004.1
+
+1294,2016,Alzheimer's disease (G30),Alzheimer's disease,Kentucky,1728,35.1
+
+1295,2015,Alzheimer's disease (G30),Alzheimer's disease,Kentucky,1694,34.9
+
+1296,2014,Alzheimer's disease (G30),Alzheimer's disease,Kentucky,1523,32.1
+
+1297,2013,Alzheimer's disease (G30),Alzheimer's disease,Kentucky,1462,31.4
+
+1298,2012,Alzheimer's disease (G30),Alzheimer's disease,Kentucky,1506,33
+
+1299,2011,Alzheimer's disease (G30),Alzheimer's disease,Kentucky,1459,32.5
+
+1300,2010,Alzheimer's disease (G30),Alzheimer's disease,Kentucky,1464,33.5
+
+1301,2009,Alzheimer's disease (G30),Alzheimer's disease,Kentucky,1345,31.3
+
+1302,2008,Alzheimer's disease (G30),Alzheimer's disease,Kentucky,1370,32.3
+
+1303,2007,Alzheimer's disease (G30),Alzheimer's disease,Kentucky,1198,28.7
+
+1304,2006,Alzheimer's disease (G30),Alzheimer's disease,Kentucky,1153,28.1
+
+1305,2005,Alzheimer's disease (G30),Alzheimer's disease,Kentucky,1147,28.7
+
+1306,2004,Alzheimer's disease (G30),Alzheimer's disease,Kentucky,982,25.1
+
+1307,2003,Alzheimer's disease (G30),Alzheimer's disease,Kentucky,1072,27.7
+
+1308,2002,Alzheimer's disease (G30),Alzheimer's disease,Kentucky,1013,26.3
+
+1309,2001,Alzheimer's disease (G30),Alzheimer's disease,Kentucky,966,25.1
+
+1310,2000,Alzheimer's disease (G30),Alzheimer's disease,Kentucky,845,22.1
+
+1311,1999,Alzheimer's disease (G30),Alzheimer's disease,Kentucky,728,19.3
+
+2230,2016,Malignant neoplasms (C00-C97),Cancer,Kentucky,10363,193.8
+
+2231,2015,Malignant neoplasms (C00-C97),Cancer,Kentucky,10312,195.9
+
+2232,2014,Malignant neoplasms (C00-C97),Cancer,Kentucky,10263,198.8
+
+2233,2013,Malignant neoplasms (C00-C97),Cancer,Kentucky,10085,199.3
+
+2234,2012,Malignant neoplasms (C00-C97),Cancer,Kentucky,10012,201.5
+
+2235,2011,Malignant neoplasms (C00-C97),Cancer,Kentucky,9733,200.8
+
+2236,2010,Malignant neoplasms (C00-C97),Cancer,Kentucky,9930,208.3
+
+2237,2009,Malignant neoplasms (C00-C97),Cancer,Kentucky,9634,204.9
+
+2238,2008,Malignant neoplasms (C00-C97),Cancer,Kentucky,9589,207.8
+
+2239,2007,Malignant neoplasms (C00-C97),Cancer,Kentucky,9692,214.7
+
+2240,2006,Malignant neoplasms (C00-C97),Cancer,Kentucky,9394,212
+
+2241,2005,Malignant neoplasms (C00-C97),Cancer,Kentucky,9505,219.1
+
+2242,2004,Malignant neoplasms (C00-C97),Cancer,Kentucky,9159,215.5
+
+2243,2003,Malignant neoplasms (C00-C97),Cancer,Kentucky,9378,223.7
+
+2244,2002,Malignant neoplasms (C00-C97),Cancer,Kentucky,9438,228.6
+
+2245,2001,Malignant neoplasms (C00-C97),Cancer,Kentucky,9358,229.7
+
+2246,2000,Malignant neoplasms (C00-C97),Cancer,Kentucky,9207,228.7
+
+2247,1999,Malignant neoplasms (C00-C97),Cancer,Kentucky,8925,224.2
+
+3166,2016,Chronic lower respiratory diseases (J40-J47),CLRD,Kentucky,3486,66.3
+
+3167,2015,Chronic lower respiratory diseases (J40-J47),CLRD,Kentucky,3331,64.3
+
+3168,2014,Chronic lower respiratory diseases (J40-J47),CLRD,Kentucky,3214,63.8
+
+3169,2013,Chronic lower respiratory diseases (J40-J47),CLRD,Kentucky,3187,64.6
+
+3170,2012,Chronic lower respiratory diseases (J40-J47),CLRD,Kentucky,3100,64.2
+
+3171,2011,Chronic lower respiratory diseases (J40-J47),CLRD,Kentucky,3020,64.1
+
+3172,2010,Chronic lower respiratory diseases (J40-J47),CLRD,Kentucky,2779,60
+
+3173,2009,Chronic lower respiratory diseases (J40-J47),CLRD,Kentucky,2854,62.2
+
+3174,2008,Chronic lower respiratory diseases (J40-J47),CLRD,Kentucky,2926,65.2
+
+3175,2007,Chronic lower respiratory diseases (J40-J47),CLRD,Kentucky,2629,59.9
+
+3176,2006,Chronic lower respiratory diseases (J40-J47),CLRD,Kentucky,2407,55.6
+
+3177,2005,Chronic lower respiratory diseases (J40-J47),CLRD,Kentucky,2578,61
+
+3178,2004,Chronic lower respiratory diseases (J40-J47),CLRD,Kentucky,2265,54.8
+
+3179,2003,Chronic lower respiratory diseases (J40-J47),CLRD,Kentucky,2391,58.4
+
+3180,2002,Chronic lower respiratory diseases (J40-J47),CLRD,Kentucky,2401,59.3
+
+3181,2001,Chronic lower respiratory diseases (J40-J47),CLRD,Kentucky,2265,56.6
+
+3182,2000,Chronic lower respiratory diseases (J40-J47),CLRD,Kentucky,2170,54.8
+
+3183,1999,Chronic lower respiratory diseases (J40-J47),CLRD,Kentucky,2327,59
+
+4102,2016,Diabetes mellitus (E10-E14),Diabetes,Kentucky,1479,28.4
+
+4103,2015,Diabetes mellitus (E10-E14),Diabetes,Kentucky,1458,28.2
+
+4104,2014,Diabetes mellitus (E10-E14),Diabetes,Kentucky,1175,23.4
+
+4105,2013,Diabetes mellitus (E10-E14),Diabetes,Kentucky,1187,24.1
+
+4106,2012,Diabetes mellitus (E10-E14),Diabetes,Kentucky,1256,25.9
+
+4107,2011,Diabetes mellitus (E10-E14),Diabetes,Kentucky,1268,26.5
+
+4108,2010,Diabetes mellitus (E10-E14),Diabetes,Kentucky,1212,26
+
+4109,2009,Diabetes mellitus (E10-E14),Diabetes,Kentucky,1348,29.3
+
+4110,2008,Diabetes mellitus (E10-E14),Diabetes,Kentucky,1214,26.7
+
+4111,2007,Diabetes mellitus (E10-E14),Diabetes,Kentucky,1091,24.4
+
+4112,2006,Diabetes mellitus (E10-E14),Diabetes,Kentucky,1141,26.2
+
+4113,2005,Diabetes mellitus (E10-E14),Diabetes,Kentucky,1187,27.8
+
+4114,2004,Diabetes mellitus (E10-E14),Diabetes,Kentucky,1195,28.6
+
+4115,2003,Diabetes mellitus (E10-E14),Diabetes,Kentucky,1296,31.6
+
+4116,2002,Diabetes mellitus (E10-E14),Diabetes,Kentucky,1265,31.1
+
+4117,2001,Diabetes mellitus (E10-E14),Diabetes,Kentucky,1099,27.3
+
+4118,2000,Diabetes mellitus (E10-E14),Diabetes,Kentucky,1107,27.9
+
+4119,1999,Diabetes mellitus (E10-E14),Diabetes,Kentucky,1133,28.8
+
+5038,2016,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Kentucky,10519,203
+
+5039,2015,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Kentucky,10077,197.8
+
+5040,2014,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Kentucky,10013,200.5
+
+5041,2013,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Kentucky,9971,203.4
+
+5042,2012,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Kentucky,10024,208.2
+
+5043,2011,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Kentucky,9905,210
+
+5044,2010,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Kentucky,9662,210.1
+
+5045,2009,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Kentucky,9728,214.3
+
+5046,2008,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Kentucky,10061,225.5
+
+5047,2007,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Kentucky,9916,227
+
+5048,2006,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Kentucky,10353,241.4
+
+5049,2005,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Kentucky,10782,257.3
+
+5050,2004,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Kentucky,10465,254.8
+
+5051,2003,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Kentucky,11319,279.2
+
+5052,2002,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Kentucky,11696,292.2
+
+5053,2001,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Kentucky,11808,297.3
+
+5054,2000,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Kentucky,11936,303.6
+
+5055,1999,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Kentucky,12098,310.9
+
+5974,2016,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Kentucky,888,17.3
+
+5975,2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Kentucky,967,19.3
+
+5976,2014,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Kentucky,1017,20.8
+
+5977,2013,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Kentucky,919,19.1
+
+5978,2012,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Kentucky,879,18.7
+
+5979,2011,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Kentucky,961,20.8
+
+5980,2010,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Kentucky,943,21
+
+5981,2009,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Kentucky,1018,22.9
+
+5982,2008,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Kentucky,943,21.6
+
+5983,2007,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Kentucky,897,21
+
+5984,2006,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Kentucky,927,22.1
+
+5985,2005,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Kentucky,1021,24.9
+
+5986,2004,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Kentucky,965,24.1
+
+5987,2003,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Kentucky,1033,26.1
+
+5988,2002,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Kentucky,1236,31.5
+
+5989,2001,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Kentucky,1114,28.6
+
+5990,2000,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Kentucky,1157,29.9
+
+5991,1999,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Kentucky,1198,31.3
+
+6910,2016,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Kentucky,1034,20.3
+
+6911,2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Kentucky,998,19.7
+
+6912,2014,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Kentucky,968,19.5
+
+6913,2013,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Kentucky,991,20.5
+
+6914,2012,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Kentucky,933,19.6
+
+6915,2011,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Kentucky,971,20.9
+
+6916,2010,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Kentucky,1079,23.8
+
+6917,2009,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Kentucky,945,21.1
+
+6918,2008,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Kentucky,993,22.6
+
+6919,2007,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Kentucky,994,23
+
+6920,2006,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Kentucky,922,21.6
+
+6921,2005,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Kentucky,912,21.9
+
+6922,2004,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Kentucky,827,20.3
+
+6923,2003,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Kentucky,838,20.8
+
+6924,2002,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Kentucky,813,20.4
+
+6925,2001,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Kentucky,807,20.4
+
+6926,2000,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Kentucky,756,19.3
+
+6927,1999,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Kentucky,685,17.7
+
+7846,2016,Cerebrovascular diseases (I60-I69),Stroke,Kentucky,2057,40.4
+
+7847,2015,Cerebrovascular diseases (I60-I69),Stroke,Kentucky,2050,40.8
+
+7848,2014,Cerebrovascular diseases (I60-I69),Stroke,Kentucky,2050,41.8
+
+7849,2013,Cerebrovascular diseases (I60-I69),Stroke,Kentucky,1990,41.7
+
+7850,2012,Cerebrovascular diseases (I60-I69),Stroke,Kentucky,2073,44.3
+
+7851,2011,Cerebrovascular diseases (I60-I69),Stroke,Kentucky,2064,44.8
+
+7852,2010,Cerebrovascular diseases (I60-I69),Stroke,Kentucky,1992,44.1
+
+7853,2009,Cerebrovascular diseases (I60-I69),Stroke,Kentucky,2064,46.4
+
+7854,2008,Cerebrovascular diseases (I60-I69),Stroke,Kentucky,2098,47.9
+
+7855,2007,Cerebrovascular diseases (I60-I69),Stroke,Kentucky,2144,49.8
+
+7856,2006,Cerebrovascular diseases (I60-I69),Stroke,Kentucky,2197,51.9
+
+7857,2005,Cerebrovascular diseases (I60-I69),Stroke,Kentucky,2168,52.5
+
+7858,2004,Cerebrovascular diseases (I60-I69),Stroke,Kentucky,2339,58
+
+7859,2003,Cerebrovascular diseases (I60-I69),Stroke,Kentucky,2442,61.3
+
+7860,2002,Cerebrovascular diseases (I60-I69),Stroke,Kentucky,2554,64.9
+
+7861,2001,Cerebrovascular diseases (I60-I69),Stroke,Kentucky,2557,65.2
+
+7862,2000,Cerebrovascular diseases (I60-I69),Stroke,Kentucky,2637,67.7
+
+7863,1999,Cerebrovascular diseases (I60-I69),Stroke,Kentucky,2710,70.4
+
+8782,2016,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Kentucky,756,16.8
+
+8783,2015,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Kentucky,776,17.1
+
+8784,2014,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Kentucky,728,16
+
+8785,2013,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Kentucky,701,15.6
+
+8786,2012,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Kentucky,724,16.2
+
+8787,2011,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Kentucky,675,15.2
+
+8788,2010,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Kentucky,631,14.2
+
+8789,2009,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Kentucky,592,13.5
+
+8790,2008,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Kentucky,612,14
+
+8791,2007,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Kentucky,649,15.1
+
+8792,2006,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Kentucky,622,14.6
+
+8793,2005,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Kentucky,566,13.4
+
+8794,2004,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Kentucky,560,13.3
+
+8795,2003,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Kentucky,567,13.6
+
+8796,2002,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Kentucky,540,13
+
+8797,2001,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Kentucky,495,12.1
+
+8798,2000,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Kentucky,521,12.8
+
+8799,1999,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Kentucky,470,11.6
+
+9701,2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Kentucky,2962,66
+
+9702,2014,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Kentucky,2621,58.3
+
+9703,2013,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Kentucky,2513,55.7
+
+9704,2012,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Kentucky,2741,62
+
+9705,2011,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Kentucky,2608,59.5
+
+9706,2010,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Kentucky,2632,60.5
+
+9707,2009,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Kentucky,2394,55.1
+
+9708,2008,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Kentucky,2379,55.2
+
+9709,2007,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Kentucky,2372,55.6
+
+9710,2006,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Kentucky,2446,57.9
+
+9711,2005,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Kentucky,2405,57.4
+
+9712,2004,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Kentucky,2260,54.8
+
+9713,2003,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Kentucky,2270,55.2
+
+9714,2002,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Kentucky,2090,51.3
+
+9715,2001,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Kentucky,1990,49.1
+
+9716,2000,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Kentucky,1838,45.7
+
+9717,1999,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Kentucky,1730,43.3
+
+18,2016,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Kentucky,3194,71
+
+358,2016,All Causes,All causes,Kentucky,47827,938.4
+
+359,2015,All Causes,All causes,Kentucky,46564,924.7
+
+360,2014,All Causes,All causes,Kentucky,44838,906.3
+
+361,2013,All Causes,All causes,Kentucky,43759,899.9
+
+362,2012,All Causes,All causes,Kentucky,43664,916.3
+
+363,2011,All Causes,All causes,Kentucky,42626,910.3
+
+364,2010,All Causes,All causes,Kentucky,41983,915
+
+365,2009,All Causes,All causes,Kentucky,41380,912.5
+
+366,2008,All Causes,All causes,Kentucky,41329,926.7
+
+367,2007,All Causes,All causes,Kentucky,40090,915.3
+
+368,2006,All Causes,All causes,Kentucky,40102,932.3
+
+369,2005,All Causes,All causes,Kentucky,40223,954.7
+
+370,2004,All Causes,All causes,Kentucky,38646,935.3
+
+371,2003,All Causes,All causes,Kentucky,40241,986.4
+
+372,2002,All Causes,All causes,Kentucky,40697,1009.7
+
+373,2001,All Causes,All causes,Kentucky,39861,997.1
+
+374,2000,All Causes,All causes,Kentucky,39504,998.6
+
+375,1999,All Causes,All causes,Kentucky,39321,1004.1
+
+1294,2016,Alzheimer's disease (G30),Alzheimer's disease,Kentucky,1728,35.1
+
+1295,2015,Alzheimer's disease (G30),Alzheimer's disease,Kentucky,1694,34.9
+
+1296,2014,Alzheimer's disease (G30),Alzheimer's disease,Kentucky,1523,32.1
+
+1297,2013,Alzheimer's disease (G30),Alzheimer's disease,Kentucky,1462,31.4
+
+1298,2012,Alzheimer's disease (G30),Alzheimer's disease,Kentucky,1506,33
+
+1299,2011,Alzheimer's disease (G30),Alzheimer's disease,Kentucky,1459,32.5
+
+1300,2010,Alzheimer's disease (G30),Alzheimer's disease,Kentucky,1464,33.5
+
+1301,2009,Alzheimer's disease (G30),Alzheimer's disease,Kentucky,1345,31.3
+
+1302,2008,Alzheimer's disease (G30),Alzheimer's disease,Kentucky,1370,32.3
+
+1303,2007,Alzheimer's disease (G30),Alzheimer's disease,Kentucky,1198,28.7
+
+1304,2006,Alzheimer's disease (G30),Alzheimer's disease,Kentucky,1153,28.1
+
+1305,2005,Alzheimer's disease (G30),Alzheimer's disease,Kentucky,1147,28.7
+
+1306,2004,Alzheimer's disease (G30),Alzheimer's disease,Kentucky,982,25.1
+
+1307,2003,Alzheimer's disease (G30),Alzheimer's disease,Kentucky,1072,27.7
+
+1308,2002,Alzheimer's disease (G30),Alzheimer's disease,Kentucky,1013,26.3
+
+1309,2001,Alzheimer's disease (G30),Alzheimer's disease,Kentucky,966,25.1
+
+1310,2000,Alzheimer's disease (G30),Alzheimer's disease,Kentucky,845,22.1
+
+1311,1999,Alzheimer's disease (G30),Alzheimer's disease,Kentucky,728,19.3
+
+2230,2016,Malignant neoplasms (C00-C97),Cancer,Kentucky,10363,193.8
+
+2231,2015,Malignant neoplasms (C00-C97),Cancer,Kentucky,10312,195.9
+
+2232,2014,Malignant neoplasms (C00-C97),Cancer,Kentucky,10263,198.8
+
+2233,2013,Malignant neoplasms (C00-C97),Cancer,Kentucky,10085,199.3
+
+2234,2012,Malignant neoplasms (C00-C97),Cancer,Kentucky,10012,201.5
+
+2235,2011,Malignant neoplasms (C00-C97),Cancer,Kentucky,9733,200.8
+
+2236,2010,Malignant neoplasms (C00-C97),Cancer,Kentucky,9930,208.3
+
+2237,2009,Malignant neoplasms (C00-C97),Cancer,Kentucky,9634,204.9
+
+2238,2008,Malignant neoplasms (C00-C97),Cancer,Kentucky,9589,207.8
+
+2239,2007,Malignant neoplasms (C00-C97),Cancer,Kentucky,9692,214.7
+
+2240,2006,Malignant neoplasms (C00-C97),Cancer,Kentucky,9394,212
+
+2241,2005,Malignant neoplasms (C00-C97),Cancer,Kentucky,9505,219.1
+
+2242,2004,Malignant neoplasms (C00-C97),Cancer,Kentucky,9159,215.5
+
+2243,2003,Malignant neoplasms (C00-C97),Cancer,Kentucky,9378,223.7
+
+2244,2002,Malignant neoplasms (C00-C97),Cancer,Kentucky,9438,228.6
+
+2245,2001,Malignant neoplasms (C00-C97),Cancer,Kentucky,9358,229.7
+
+2246,2000,Malignant neoplasms (C00-C97),Cancer,Kentucky,9207,228.7
+
+2247,1999,Malignant neoplasms (C00-C97),Cancer,Kentucky,8925,224.2
+
+3166,2016,Chronic lower respiratory diseases (J40-J47),CLRD,Kentucky,3486,66.3
+
+3167,2015,Chronic lower respiratory diseases (J40-J47),CLRD,Kentucky,3331,64.3
+
+3168,2014,Chronic lower respiratory diseases (J40-J47),CLRD,Kentucky,3214,63.8
+
+3169,2013,Chronic lower respiratory diseases (J40-J47),CLRD,Kentucky,3187,64.6
+
+3170,2012,Chronic lower respiratory diseases (J40-J47),CLRD,Kentucky,3100,64.2
+
+3171,2011,Chronic lower respiratory diseases (J40-J47),CLRD,Kentucky,3020,64.1
+
+3172,2010,Chronic lower respiratory diseases (J40-J47),CLRD,Kentucky,2779,60
+
+3173,2009,Chronic lower respiratory diseases (J40-J47),CLRD,Kentucky,2854,62.2
+
+3174,2008,Chronic lower respiratory diseases (J40-J47),CLRD,Kentucky,2926,65.2
+
+3175,2007,Chronic lower respiratory diseases (J40-J47),CLRD,Kentucky,2629,59.9
+
+3176,2006,Chronic lower respiratory diseases (J40-J47),CLRD,Kentucky,2407,55.6
+
+3177,2005,Chronic lower respiratory diseases (J40-J47),CLRD,Kentucky,2578,61
+
+3178,2004,Chronic lower respiratory diseases (J40-J47),CLRD,Kentucky,2265,54.8
+
+3179,2003,Chronic lower respiratory diseases (J40-J47),CLRD,Kentucky,2391,58.4
+
+3180,2002,Chronic lower respiratory diseases (J40-J47),CLRD,Kentucky,2401,59.3
+
+3181,2001,Chronic lower respiratory diseases (J40-J47),CLRD,Kentucky,2265,56.6
+
+3182,2000,Chronic lower respiratory diseases (J40-J47),CLRD,Kentucky,2170,54.8
+
+3183,1999,Chronic lower respiratory diseases (J40-J47),CLRD,Kentucky,2327,59
+
+4102,2016,Diabetes mellitus (E10-E14),Diabetes,Kentucky,1479,28.4
+
+4103,2015,Diabetes mellitus (E10-E14),Diabetes,Kentucky,1458,28.2
+
+4104,2014,Diabetes mellitus (E10-E14),Diabetes,Kentucky,1175,23.4
+
+4105,2013,Diabetes mellitus (E10-E14),Diabetes,Kentucky,1187,24.1
+
+4106,2012,Diabetes mellitus (E10-E14),Diabetes,Kentucky,1256,25.9
+
+4107,2011,Diabetes mellitus (E10-E14),Diabetes,Kentucky,1268,26.5
+
+4108,2010,Diabetes mellitus (E10-E14),Diabetes,Kentucky,1212,26
+
+4109,2009,Diabetes mellitus (E10-E14),Diabetes,Kentucky,1348,29.3
+
+4110,2008,Diabetes mellitus (E10-E14),Diabetes,Kentucky,1214,26.7
+
+4111,2007,Diabetes mellitus (E10-E14),Diabetes,Kentucky,1091,24.4
+
+4112,2006,Diabetes mellitus (E10-E14),Diabetes,Kentucky,1141,26.2
+
+4113,2005,Diabetes mellitus (E10-E14),Diabetes,Kentucky,1187,27.8
+
+4114,2004,Diabetes mellitus (E10-E14),Diabetes,Kentucky,1195,28.6
+
+4115,2003,Diabetes mellitus (E10-E14),Diabetes,Kentucky,1296,31.6
+
+4116,2002,Diabetes mellitus (E10-E14),Diabetes,Kentucky,1265,31.1
+
+4117,2001,Diabetes mellitus (E10-E14),Diabetes,Kentucky,1099,27.3
+
+4118,2000,Diabetes mellitus (E10-E14),Diabetes,Kentucky,1107,27.9
+
+4119,1999,Diabetes mellitus (E10-E14),Diabetes,Kentucky,1133,28.8
+
+5038,2016,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Kentucky,10519,203
+
+5039,2015,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Kentucky,10077,197.8
+
+5040,2014,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Kentucky,10013,200.5
+
+5041,2013,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Kentucky,9971,203.4
+
+5042,2012,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Kentucky,10024,208.2
+
+5043,2011,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Kentucky,9905,210
+
+5044,2010,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Kentucky,9662,210.1
+
+5045,2009,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Kentucky,9728,214.3
+
+5046,2008,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Kentucky,10061,225.5
+
+5047,2007,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Kentucky,9916,227
+
+5048,2006,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Kentucky,10353,241.4
+
+5049,2005,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Kentucky,10782,257.3
+
+5050,2004,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Kentucky,10465,254.8
+
+5051,2003,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Kentucky,11319,279.2
+
+5052,2002,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Kentucky,11696,292.2
+
+5053,2001,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Kentucky,11808,297.3
+
+5054,2000,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Kentucky,11936,303.6
+
+5055,1999,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Kentucky,12098,310.9
+
+5974,2016,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Kentucky,888,17.3
+
+5975,2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Kentucky,967,19.3
+
+5976,2014,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Kentucky,1017,20.8
+
+5977,2013,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Kentucky,919,19.1
+
+5978,2012,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Kentucky,879,18.7
+
+5979,2011,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Kentucky,961,20.8
+
+5980,2010,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Kentucky,943,21
+
+5981,2009,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Kentucky,1018,22.9
+
+5982,2008,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Kentucky,943,21.6
+
+5983,2007,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Kentucky,897,21
+
+5984,2006,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Kentucky,927,22.1
+
+5985,2005,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Kentucky,1021,24.9
+
+5986,2004,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Kentucky,965,24.1
+
+5987,2003,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Kentucky,1033,26.1
+
+5988,2002,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Kentucky,1236,31.5
+
+5989,2001,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Kentucky,1114,28.6
+
+5990,2000,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Kentucky,1157,29.9
+
+5991,1999,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Kentucky,1198,31.3
+
+6910,2016,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Kentucky,1034,20.3
+
+6911,2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Kentucky,998,19.7
+
+6912,2014,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Kentucky,968,19.5
+
+6913,2013,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Kentucky,991,20.5
+
+6914,2012,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Kentucky,933,19.6
+
+6915,2011,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Kentucky,971,20.9
+
+6916,2010,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Kentucky,1079,23.8
+
+6917,2009,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Kentucky,945,21.1
+
+6918,2008,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Kentucky,993,22.6
+
+6919,2007,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Kentucky,994,23
+
+6920,2006,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Kentucky,922,21.6
+
+6921,2005,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Kentucky,912,21.9
+
+6922,2004,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Kentucky,827,20.3
+
+6923,2003,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Kentucky,838,20.8
+
+6924,2002,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Kentucky,813,20.4
+
+6925,2001,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Kentucky,807,20.4
+
+6926,2000,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Kentucky,756,19.3
+
+6927,1999,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Kentucky,685,17.7
+
+7846,2016,Cerebrovascular diseases (I60-I69),Stroke,Kentucky,2057,40.4
+
+7847,2015,Cerebrovascular diseases (I60-I69),Stroke,Kentucky,2050,40.8
+
+7848,2014,Cerebrovascular diseases (I60-I69),Stroke,Kentucky,2050,41.8
+
+7849,2013,Cerebrovascular diseases (I60-I69),Stroke,Kentucky,1990,41.7
+
+7850,2012,Cerebrovascular diseases (I60-I69),Stroke,Kentucky,2073,44.3
+
+7851,2011,Cerebrovascular diseases (I60-I69),Stroke,Kentucky,2064,44.8
+
+7852,2010,Cerebrovascular diseases (I60-I69),Stroke,Kentucky,1992,44.1
+
+7853,2009,Cerebrovascular diseases (I60-I69),Stroke,Kentucky,2064,46.4
+
+7854,2008,Cerebrovascular diseases (I60-I69),Stroke,Kentucky,2098,47.9
+
+7855,2007,Cerebrovascular diseases (I60-I69),Stroke,Kentucky,2144,49.8
+
+7856,2006,Cerebrovascular diseases (I60-I69),Stroke,Kentucky,2197,51.9
+
+7857,2005,Cerebrovascular diseases (I60-I69),Stroke,Kentucky,2168,52.5
+
+7858,2004,Cerebrovascular diseases (I60-I69),Stroke,Kentucky,2339,58
+
+7859,2003,Cerebrovascular diseases (I60-I69),Stroke,Kentucky,2442,61.3
+
+7860,2002,Cerebrovascular diseases (I60-I69),Stroke,Kentucky,2554,64.9
+
+7861,2001,Cerebrovascular diseases (I60-I69),Stroke,Kentucky,2557,65.2
+
+7862,2000,Cerebrovascular diseases (I60-I69),Stroke,Kentucky,2637,67.7
+
+7863,1999,Cerebrovascular diseases (I60-I69),Stroke,Kentucky,2710,70.4
+
+8782,2016,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Kentucky,756,16.8
+
+8783,2015,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Kentucky,776,17.1
+
+8784,2014,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Kentucky,728,16
+
+8785,2013,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Kentucky,701,15.6
+
+8786,2012,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Kentucky,724,16.2
+
+8787,2011,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Kentucky,675,15.2
+
+8788,2010,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Kentucky,631,14.2
+
+8789,2009,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Kentucky,592,13.5
+
+8790,2008,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Kentucky,612,14
+
+8791,2007,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Kentucky,649,15.1
+
+8792,2006,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Kentucky,622,14.6
+
+8793,2005,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Kentucky,566,13.4
+
+8794,2004,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Kentucky,560,13.3
+
+8795,2003,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Kentucky,567,13.6
+
+8796,2002,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Kentucky,540,13
+
+8797,2001,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Kentucky,495,12.1
+
+8798,2000,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Kentucky,521,12.8
+
+8799,1999,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Kentucky,470,11.6
+
+9701,2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Kentucky,2962,66
+
+9702,2014,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Kentucky,2621,58.3
+
+9703,2013,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Kentucky,2513,55.7
+
+9704,2012,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Kentucky,2741,62
+
+9705,2011,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Kentucky,2608,59.5
+
+9706,2010,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Kentucky,2632,60.5
+
+9707,2009,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Kentucky,2394,55.1
+
+9708,2008,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Kentucky,2379,55.2
+
+9709,2007,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Kentucky,2372,55.6
+
+9710,2006,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Kentucky,2446,57.9
+
+9711,2005,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Kentucky,2405,57.4
+
+9712,2004,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Kentucky,2260,54.8
+
+9713,2003,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Kentucky,2270,55.2
+
+9714,2002,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Kentucky,2090,51.3
+
+9715,2001,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Kentucky,1990,49.1
+
+9716,2000,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Kentucky,1838,45.7
+
+9717,1999,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Kentucky,1730,43.3
+
+18,2016,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Kentucky,3194,71
+
+358,2016,All Causes,All causes,Kentucky,47827,938.4
+
+359,2015,All Causes,All causes,Kentucky,46564,924.7
+
+360,2014,All Causes,All causes,Kentucky,44838,906.3
+
+361,2013,All Causes,All causes,Kentucky,43759,899.9
+
+362,2012,All Causes,All causes,Kentucky,43664,916.3
+
+363,2011,All Causes,All causes,Kentucky,42626,910.3
+
+364,2010,All Causes,All causes,Kentucky,41983,915
+
+365,2009,All Causes,All causes,Kentucky,41380,912.5
+
+366,2008,All Causes,All causes,Kentucky,41329,926.7
+
+367,2007,All Causes,All causes,Kentucky,40090,915.3
+
+368,2006,All Causes,All causes,Kentucky,40102,932.3
+
+369,2005,All Causes,All causes,Kentucky,40223,954.7
+
+370,2004,All Causes,All causes,Kentucky,38646,935.3
+
+371,2003,All Causes,All causes,Kentucky,40241,986.4
+
+372,2002,All Causes,All causes,Kentucky,40697,1009.7
+
+373,2001,All Causes,All causes,Kentucky,39861,997.1
+
+374,2000,All Causes,All causes,Kentucky,39504,998.6
+
+375,1999,All Causes,All causes,Kentucky,39321,1004.1
+
+1294,2016,Alzheimer's disease (G30),Alzheimer's disease,Kentucky,1728,35.1
+
+1295,2015,Alzheimer's disease (G30),Alzheimer's disease,Kentucky,1694,34.9
+
+1296,2014,Alzheimer's disease (G30),Alzheimer's disease,Kentucky,1523,32.1
+
+1297,2013,Alzheimer's disease (G30),Alzheimer's disease,Kentucky,1462,31.4
+
+1298,2012,Alzheimer's disease (G30),Alzheimer's disease,Kentucky,1506,33
+
+1299,2011,Alzheimer's disease (G30),Alzheimer's disease,Kentucky,1459,32.5
+
+1300,2010,Alzheimer's disease (G30),Alzheimer's disease,Kentucky,1464,33.5
+
+1301,2009,Alzheimer's disease (G30),Alzheimer's disease,Kentucky,1345,31.3
+
+1302,2008,Alzheimer's disease (G30),Alzheimer's disease,Kentucky,1370,32.3
+
+1303,2007,Alzheimer's disease (G30),Alzheimer's disease,Kentucky,1198,28.7
+
+1304,2006,Alzheimer's disease (G30),Alzheimer's disease,Kentucky,1153,28.1
+
+1305,2005,Alzheimer's disease (G30),Alzheimer's disease,Kentucky,1147,28.7
+
+1306,2004,Alzheimer's disease (G30),Alzheimer's disease,Kentucky,982,25.1
+
+1307,2003,Alzheimer's disease (G30),Alzheimer's disease,Kentucky,1072,27.7
+
+1308,2002,Alzheimer's disease (G30),Alzheimer's disease,Kentucky,1013,26.3
+
+1309,2001,Alzheimer's disease (G30),Alzheimer's disease,Kentucky,966,25.1
+
+1310,2000,Alzheimer's disease (G30),Alzheimer's disease,Kentucky,845,22.1
+
+1311,1999,Alzheimer's disease (G30),Alzheimer's disease,Kentucky,728,19.3
+
+2230,2016,Malignant neoplasms (C00-C97),Cancer,Kentucky,10363,193.8
+
+2231,2015,Malignant neoplasms (C00-C97),Cancer,Kentucky,10312,195.9
+
+2232,2014,Malignant neoplasms (C00-C97),Cancer,Kentucky,10263,198.8
+
+2233,2013,Malignant neoplasms (C00-C97),Cancer,Kentucky,10085,199.3
+
+2234,2012,Malignant neoplasms (C00-C97),Cancer,Kentucky,10012,201.5
+
+2235,2011,Malignant neoplasms (C00-C97),Cancer,Kentucky,9733,200.8
+
+2236,2010,Malignant neoplasms (C00-C97),Cancer,Kentucky,9930,208.3
+
+2237,2009,Malignant neoplasms (C00-C97),Cancer,Kentucky,9634,204.9
+
+2238,2008,Malignant neoplasms (C00-C97),Cancer,Kentucky,9589,207.8
+
+2239,2007,Malignant neoplasms (C00-C97),Cancer,Kentucky,9692,214.7
+
+2240,2006,Malignant neoplasms (C00-C97),Cancer,Kentucky,9394,212
+
+2241,2005,Malignant neoplasms (C00-C97),Cancer,Kentucky,9505,219.1
+
+2242,2004,Malignant neoplasms (C00-C97),Cancer,Kentucky,9159,215.5
+
+2243,2003,Malignant neoplasms (C00-C97),Cancer,Kentucky,9378,223.7
+
+2244,2002,Malignant neoplasms (C00-C97),Cancer,Kentucky,9438,228.6
+
+2245,2001,Malignant neoplasms (C00-C97),Cancer,Kentucky,9358,229.7
+
+2246,2000,Malignant neoplasms (C00-C97),Cancer,Kentucky,9207,228.7
+
+2247,1999,Malignant neoplasms (C00-C97),Cancer,Kentucky,8925,224.2
+
+3166,2016,Chronic lower respiratory diseases (J40-J47),CLRD,Kentucky,3486,66.3
+
+3167,2015,Chronic lower respiratory diseases (J40-J47),CLRD,Kentucky,3331,64.3
+
+3168,2014,Chronic lower respiratory diseases (J40-J47),CLRD,Kentucky,3214,63.8
+
+3169,2013,Chronic lower respiratory diseases (J40-J47),CLRD,Kentucky,3187,64.6
+
+3170,2012,Chronic lower respiratory diseases (J40-J47),CLRD,Kentucky,3100,64.2
+
+3171,2011,Chronic lower respiratory diseases (J40-J47),CLRD,Kentucky,3020,64.1
+
+3172,2010,Chronic lower respiratory diseases (J40-J47),CLRD,Kentucky,2779,60
+
+3173,2009,Chronic lower respiratory diseases (J40-J47),CLRD,Kentucky,2854,62.2
+
+3174,2008,Chronic lower respiratory diseases (J40-J47),CLRD,Kentucky,2926,65.2
+
+3175,2007,Chronic lower respiratory diseases (J40-J47),CLRD,Kentucky,2629,59.9
+
+3176,2006,Chronic lower respiratory diseases (J40-J47),CLRD,Kentucky,2407,55.6
+
+3177,2005,Chronic lower respiratory diseases (J40-J47),CLRD,Kentucky,2578,61
+
+3178,2004,Chronic lower respiratory diseases (J40-J47),CLRD,Kentucky,2265,54.8
+
+3179,2003,Chronic lower respiratory diseases (J40-J47),CLRD,Kentucky,2391,58.4
+
+3180,2002,Chronic lower respiratory diseases (J40-J47),CLRD,Kentucky,2401,59.3
+
+3181,2001,Chronic lower respiratory diseases (J40-J47),CLRD,Kentucky,2265,56.6
+
+3182,2000,Chronic lower respiratory diseases (J40-J47),CLRD,Kentucky,2170,54.8
+
+3183,1999,Chronic lower respiratory diseases (J40-J47),CLRD,Kentucky,2327,59
+
+4102,2016,Diabetes mellitus (E10-E14),Diabetes,Kentucky,1479,28.4
+
+4103,2015,Diabetes mellitus (E10-E14),Diabetes,Kentucky,1458,28.2
+
+4104,2014,Diabetes mellitus (E10-E14),Diabetes,Kentucky,1175,23.4
+
+4105,2013,Diabetes mellitus (E10-E14),Diabetes,Kentucky,1187,24.1
+
+4106,2012,Diabetes mellitus (E10-E14),Diabetes,Kentucky,1256,25.9
+
+4107,2011,Diabetes mellitus (E10-E14),Diabetes,Kentucky,1268,26.5
+
+4108,2010,Diabetes mellitus (E10-E14),Diabetes,Kentucky,1212,26
+
+4109,2009,Diabetes mellitus (E10-E14),Diabetes,Kentucky,1348,29.3
+
+4110,2008,Diabetes mellitus (E10-E14),Diabetes,Kentucky,1214,26.7
+
+4111,2007,Diabetes mellitus (E10-E14),Diabetes,Kentucky,1091,24.4
+
+4112,2006,Diabetes mellitus (E10-E14),Diabetes,Kentucky,1141,26.2
+
+4113,2005,Diabetes mellitus (E10-E14),Diabetes,Kentucky,1187,27.8
+
+4114,2004,Diabetes mellitus (E10-E14),Diabetes,Kentucky,1195,28.6
+
+4115,2003,Diabetes mellitus (E10-E14),Diabetes,Kentucky,1296,31.6
+
+4116,2002,Diabetes mellitus (E10-E14),Diabetes,Kentucky,1265,31.1
+
+4117,2001,Diabetes mellitus (E10-E14),Diabetes,Kentucky,1099,27.3
+
+4118,2000,Diabetes mellitus (E10-E14),Diabetes,Kentucky,1107,27.9
+
+4119,1999,Diabetes mellitus (E10-E14),Diabetes,Kentucky,1133,28.8
+
+5038,2016,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Kentucky,10519,203
+
+5039,2015,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Kentucky,10077,197.8
+
+5040,2014,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Kentucky,10013,200.5
+
+5041,2013,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Kentucky,9971,203.4
+
+5042,2012,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Kentucky,10024,208.2
+
+5043,2011,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Kentucky,9905,210
+
+5044,2010,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Kentucky,9662,210.1
+
+5045,2009,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Kentucky,9728,214.3
+
+5046,2008,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Kentucky,10061,225.5
+
+5047,2007,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Kentucky,9916,227
+
+5048,2006,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Kentucky,10353,241.4
+
+5049,2005,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Kentucky,10782,257.3
+
+5050,2004,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Kentucky,10465,254.8
+
+5051,2003,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Kentucky,11319,279.2
+
+5052,2002,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Kentucky,11696,292.2
+
+5053,2001,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Kentucky,11808,297.3
+
+5054,2000,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Kentucky,11936,303.6
+
+5055,1999,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Kentucky,12098,310.9
+
+5974,2016,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Kentucky,888,17.3
+
+5975,2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Kentucky,967,19.3
+
+5976,2014,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Kentucky,1017,20.8
+
+5977,2013,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Kentucky,919,19.1
+
+5978,2012,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Kentucky,879,18.7
+
+5979,2011,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Kentucky,961,20.8
+
+5980,2010,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Kentucky,943,21
+
+5981,2009,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Kentucky,1018,22.9
+
+5982,2008,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Kentucky,943,21.6
+
+5983,2007,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Kentucky,897,21
+
+5984,2006,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Kentucky,927,22.1
+
+5985,2005,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Kentucky,1021,24.9
+
+5986,2004,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Kentucky,965,24.1
+
+5987,2003,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Kentucky,1033,26.1
+
+5988,2002,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Kentucky,1236,31.5
+
+5989,2001,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Kentucky,1114,28.6
+
+5990,2000,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Kentucky,1157,29.9
+
+5991,1999,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Kentucky,1198,31.3
+
+6910,2016,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Kentucky,1034,20.3
+
+6911,2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Kentucky,998,19.7
+
+6912,2014,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Kentucky,968,19.5
+
+6913,2013,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Kentucky,991,20.5
+
+6914,2012,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Kentucky,933,19.6
+
+6915,2011,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Kentucky,971,20.9
+
+6916,2010,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Kentucky,1079,23.8
+
+6917,2009,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Kentucky,945,21.1
+
+6918,2008,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Kentucky,993,22.6
+
+6919,2007,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Kentucky,994,23
+
+6920,2006,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Kentucky,922,21.6
+
+6921,2005,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Kentucky,912,21.9
+
+6922,2004,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Kentucky,827,20.3
+
+6923,2003,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Kentucky,838,20.8
+
+6924,2002,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Kentucky,813,20.4
+
+6925,2001,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Kentucky,807,20.4
+
+6926,2000,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Kentucky,756,19.3
+
+6927,1999,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Kentucky,685,17.7
+
+7846,2016,Cerebrovascular diseases (I60-I69),Stroke,Kentucky,2057,40.4
+
+7847,2015,Cerebrovascular diseases (I60-I69),Stroke,Kentucky,2050,40.8
+
+7848,2014,Cerebrovascular diseases (I60-I69),Stroke,Kentucky,2050,41.8
+
+7849,2013,Cerebrovascular diseases (I60-I69),Stroke,Kentucky,1990,41.7
+
+7850,2012,Cerebrovascular diseases (I60-I69),Stroke,Kentucky,2073,44.3
+
+7851,2011,Cerebrovascular diseases (I60-I69),Stroke,Kentucky,2064,44.8
+
+7852,2010,Cerebrovascular diseases (I60-I69),Stroke,Kentucky,1992,44.1
+
+7853,2009,Cerebrovascular diseases (I60-I69),Stroke,Kentucky,2064,46.4
+
+7854,2008,Cerebrovascular diseases (I60-I69),Stroke,Kentucky,2098,47.9
+
+7855,2007,Cerebrovascular diseases (I60-I69),Stroke,Kentucky,2144,49.8
+
+7856,2006,Cerebrovascular diseases (I60-I69),Stroke,Kentucky,2197,51.9
+
+7857,2005,Cerebrovascular diseases (I60-I69),Stroke,Kentucky,2168,52.5
+
+7858,2004,Cerebrovascular diseases (I60-I69),Stroke,Kentucky,2339,58
+
+7859,2003,Cerebrovascular diseases (I60-I69),Stroke,Kentucky,2442,61.3
+
+7860,2002,Cerebrovascular diseases (I60-I69),Stroke,Kentucky,2554,64.9
+
+7861,2001,Cerebrovascular diseases (I60-I69),Stroke,Kentucky,2557,65.2
+
+7862,2000,Cerebrovascular diseases (I60-I69),Stroke,Kentucky,2637,67.7
+
+7863,1999,Cerebrovascular diseases (I60-I69),Stroke,Kentucky,2710,70.4
+
+8782,2016,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Kentucky,756,16.8
+
+8783,2015,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Kentucky,776,17.1
+
+8784,2014,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Kentucky,728,16
+
+8785,2013,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Kentucky,701,15.6
+
+8786,2012,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Kentucky,724,16.2
+
+8787,2011,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Kentucky,675,15.2
+
+8788,2010,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Kentucky,631,14.2
+
+8789,2009,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Kentucky,592,13.5
+
+8790,2008,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Kentucky,612,14
+
+8791,2007,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Kentucky,649,15.1
+
+8792,2006,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Kentucky,622,14.6
+
+8793,2005,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Kentucky,566,13.4
+
+8794,2004,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Kentucky,560,13.3
+
+8795,2003,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Kentucky,567,13.6
+
+8796,2002,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Kentucky,540,13
+
+8797,2001,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Kentucky,495,12.1
+
+8798,2000,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Kentucky,521,12.8
+
+8799,1999,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Kentucky,470,11.6
+
+9701,2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Kentucky,2962,66
+
+9702,2014,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Kentucky,2621,58.3
+
+9703,2013,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Kentucky,2513,55.7
+
+9704,2012,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Kentucky,2741,62
+
+9705,2011,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Kentucky,2608,59.5
+
+9706,2010,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Kentucky,2632,60.5
+
+9707,2009,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Kentucky,2394,55.1
+
+9708,2008,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Kentucky,2379,55.2
+
+9709,2007,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Kentucky,2372,55.6
+
+9710,2006,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Kentucky,2446,57.9
+
+9711,2005,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Kentucky,2405,57.4
+
+9712,2004,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Kentucky,2260,54.8
+
+9713,2003,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Kentucky,2270,55.2
+
+9714,2002,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Kentucky,2090,51.3
+
+9715,2001,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Kentucky,1990,49.1
+
+9716,2000,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Kentucky,1838,45.7
+
+9717,1999,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Kentucky,1730,43.3
+

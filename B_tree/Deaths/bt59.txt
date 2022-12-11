@@ -1,0 +1,8 @@
+6496,2016,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Vermont,59,7
+
+7226,2006,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,North Dakota,59,6.6
+
+6496,2016,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Vermont,59,7
+
+7226,2006,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,North Dakota,59,6.6
+

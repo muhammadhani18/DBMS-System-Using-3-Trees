@@ -1,0 +1,20 @@
+5826,2002,Influenza and pneumonia (J09-J18),Influenza and pneumonia,District of Columbia,81,14.5
+
+6500,2012,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Vermont,81,9.9
+
+6762,2003,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,District of Columbia,81,14.5
+
+9101,2003,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,North Dakota,81,12.3
+
+9314,2006,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Vermont,81,12.2
+
+5826,2002,Influenza and pneumonia (J09-J18),Influenza and pneumonia,District of Columbia,81,14.5
+
+6500,2012,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Vermont,81,9.9
+
+6762,2003,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,District of Columbia,81,14.5
+
+9101,2003,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,North Dakota,81,12.3
+
+9314,2006,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Vermont,81,12.2
+

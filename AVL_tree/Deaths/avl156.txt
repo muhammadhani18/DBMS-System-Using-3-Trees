@@ -1,0 +1,10 @@
+1741,2001,Alzheimer's disease (G30),Alzheimer's disease,South Dakota,156,16
+
+3948,2008,Diabetes mellitus (E10-E14),Diabetes,District of Columbia,156,27.5
+
+5796,2014,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Delaware,156,13.8
+
+6141,2011,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Montana,156,12.8
+
+7318,2005,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Rhode Island,156,11.9
+

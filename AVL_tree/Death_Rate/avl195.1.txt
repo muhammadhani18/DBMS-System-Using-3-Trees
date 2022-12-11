@@ -1,0 +1,12 @@
+2409,1999,Malignant neoplasms (C00-C97),Cancer,Montana,1854,195.1
+
+2808,2014,Malignant neoplasms (C00-C97),Cancer,West Virginia,4880,195.1
+
+2859,1999,Malignant neoplasms (C00-C97),Cancer,Wyoming,899,195.1
+
+4974,2008,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Illinois,26078,195.1
+
+5100,2008,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Maryland,11157,195.1
+
+5240,2013,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Nevada,5434,195.1
+

@@ -1,0 +1,396 @@
+43,2016,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,South Dakota,505,53.4
+
+790,2016,All Causes,All causes,South Dakota,7845,719.5
+
+791,2015,All Causes,All causes,South Dakota,7731,715.4
+
+792,2014,All Causes,All causes,South Dakota,7507,710.4
+
+793,2013,All Causes,All causes,South Dakota,7099,679.3
+
+794,2012,All Causes,All causes,South Dakota,7333,712.3
+
+795,2011,All Causes,All causes,South Dakota,7314,720.6
+
+796,2010,All Causes,All causes,South Dakota,7100,715.1
+
+797,2009,All Causes,All causes,South Dakota,6923,706.2
+
+798,2008,All Causes,All causes,South Dakota,7083,731.9
+
+799,2007,All Causes,All causes,South Dakota,6826,712.9
+
+800,2006,All Causes,All causes,South Dakota,7084,752.5
+
+801,2005,All Causes,All causes,South Dakota,7086,770.7
+
+802,2004,All Causes,All causes,South Dakota,6833,752.4
+
+803,2003,All Causes,All causes,South Dakota,7132,796.6
+
+804,2002,All Causes,All causes,South Dakota,6898,778.6
+
+805,2001,All Causes,All causes,South Dakota,6923,790
+
+806,2000,All Causes,All causes,South Dakota,7021,805.7
+
+807,1999,All Causes,All causes,South Dakota,6953,808.4
+
+1726,2016,Alzheimer's disease (G30),Alzheimer's disease,South Dakota,449,37.1
+
+1727,2015,Alzheimer's disease (G30),Alzheimer's disease,South Dakota,421,34.8
+
+1728,2014,Alzheimer's disease (G30),Alzheimer's disease,South Dakota,434,36.2
+
+1729,2013,Alzheimer's disease (G30),Alzheimer's disease,South Dakota,418,35
+
+1730,2012,Alzheimer's disease (G30),Alzheimer's disease,South Dakota,460,39.4
+
+1731,2011,Alzheimer's disease (G30),Alzheimer's disease,South Dakota,424,36.7
+
+1732,2010,Alzheimer's disease (G30),Alzheimer's disease,South Dakota,398,35.9
+
+1733,2009,Alzheimer's disease (G30),Alzheimer's disease,South Dakota,403,36.8
+
+1734,2008,Alzheimer's disease (G30),Alzheimer's disease,South Dakota,402,37.4
+
+1735,2007,Alzheimer's disease (G30),Alzheimer's disease,South Dakota,346,32.1
+
+1736,2006,Alzheimer's disease (G30),Alzheimer's disease,South Dakota,329,31
+
+1737,2005,Alzheimer's disease (G30),Alzheimer's disease,South Dakota,290,28.3
+
+1738,2004,Alzheimer's disease (G30),Alzheimer's disease,South Dakota,243,23.9
+
+1739,2003,Alzheimer's disease (G30),Alzheimer's disease,South Dakota,174,17.5
+
+1740,2002,Alzheimer's disease (G30),Alzheimer's disease,South Dakota,167,17
+
+1741,2001,Alzheimer's disease (G30),Alzheimer's disease,South Dakota,156,16
+
+1742,2000,Alzheimer's disease (G30),Alzheimer's disease,South Dakota,179,18.5
+
+1743,1999,Alzheimer's disease (G30),Alzheimer's disease,South Dakota,155,16.3
+
+2662,2016,Malignant neoplasms (C00-C97),Cancer,South Dakota,1694,156.7
+
+2663,2015,Malignant neoplasms (C00-C97),Cancer,South Dakota,1640,154
+
+2664,2014,Malignant neoplasms (C00-C97),Cancer,South Dakota,1698,163.4
+
+2665,2013,Malignant neoplasms (C00-C97),Cancer,South Dakota,1577,154.5
+
+2666,2012,Malignant neoplasms (C00-C97),Cancer,South Dakota,1630,163
+
+2667,2011,Malignant neoplasms (C00-C97),Cancer,South Dakota,1665,169.7
+
+2668,2010,Malignant neoplasms (C00-C97),Cancer,South Dakota,1655,171
+
+2669,2009,Malignant neoplasms (C00-C97),Cancer,South Dakota,1503,158.7
+
+2670,2008,Malignant neoplasms (C00-C97),Cancer,South Dakota,1570,168.4
+
+2671,2007,Malignant neoplasms (C00-C97),Cancer,South Dakota,1612,174.3
+
+2672,2006,Malignant neoplasms (C00-C97),Cancer,South Dakota,1570,173.1
+
+2673,2005,Malignant neoplasms (C00-C97),Cancer,South Dakota,1612,182.6
+
+2674,2004,Malignant neoplasms (C00-C97),Cancer,South Dakota,1555,177.5
+
+2675,2003,Malignant neoplasms (C00-C97),Cancer,South Dakota,1636,190.3
+
+2676,2002,Malignant neoplasms (C00-C97),Cancer,South Dakota,1562,183.3
+
+2677,2001,Malignant neoplasms (C00-C97),Cancer,South Dakota,1590,188.5
+
+2678,2000,Malignant neoplasms (C00-C97),Cancer,South Dakota,1597,190.5
+
+2679,1999,Malignant neoplasms (C00-C97),Cancer,South Dakota,1632,197.4
+
+3598,2016,Chronic lower respiratory diseases (J40-J47),CLRD,South Dakota,426,38.3
+
+3599,2015,Chronic lower respiratory diseases (J40-J47),CLRD,South Dakota,502,45.3
+
+3600,2014,Chronic lower respiratory diseases (J40-J47),CLRD,South Dakota,441,40.8
+
+3601,2013,Chronic lower respiratory diseases (J40-J47),CLRD,South Dakota,416,39.3
+
+3602,2012,Chronic lower respiratory diseases (J40-J47),CLRD,South Dakota,481,45.7
+
+3603,2011,Chronic lower respiratory diseases (J40-J47),CLRD,South Dakota,486,47.4
+
+3604,2010,Chronic lower respiratory diseases (J40-J47),CLRD,South Dakota,451,46
+
+3605,2009,Chronic lower respiratory diseases (J40-J47),CLRD,South Dakota,440,44.9
+
+3606,2008,Chronic lower respiratory diseases (J40-J47),CLRD,South Dakota,491,50.7
+
+3607,2007,Chronic lower respiratory diseases (J40-J47),CLRD,South Dakota,457,48
+
+3608,2006,Chronic lower respiratory diseases (J40-J47),CLRD,South Dakota,376,40.1
+
+3609,2005,Chronic lower respiratory diseases (J40-J47),CLRD,South Dakota,440,48.1
+
+3610,2004,Chronic lower respiratory diseases (J40-J47),CLRD,South Dakota,391,42.9
+
+3611,2003,Chronic lower respiratory diseases (J40-J47),CLRD,South Dakota,379,42.9
+
+3612,2002,Chronic lower respiratory diseases (J40-J47),CLRD,South Dakota,383,43.2
+
+3613,2001,Chronic lower respiratory diseases (J40-J47),CLRD,South Dakota,362,41.7
+
+3614,2000,Chronic lower respiratory diseases (J40-J47),CLRD,South Dakota,383,43.6
+
+3615,1999,Chronic lower respiratory diseases (J40-J47),CLRD,South Dakota,335,38.6
+
+4534,2016,Diabetes mellitus (E10-E14),Diabetes,South Dakota,253,23.7
+
+4535,2015,Diabetes mellitus (E10-E14),Diabetes,South Dakota,282,26.3
+
+4536,2014,Diabetes mellitus (E10-E14),Diabetes,South Dakota,224,21.3
+
+4537,2013,Diabetes mellitus (E10-E14),Diabetes,South Dakota,237,22.7
+
+4538,2012,Diabetes mellitus (E10-E14),Diabetes,South Dakota,218,21.5
+
+4539,2011,Diabetes mellitus (E10-E14),Diabetes,South Dakota,263,26.4
+
+4540,2010,Diabetes mellitus (E10-E14),Diabetes,South Dakota,240,24.5
+
+4541,2009,Diabetes mellitus (E10-E14),Diabetes,South Dakota,202,21.1
+
+4542,2008,Diabetes mellitus (E10-E14),Diabetes,South Dakota,216,22.3
+
+4543,2007,Diabetes mellitus (E10-E14),Diabetes,South Dakota,247,26.1
+
+4544,2006,Diabetes mellitus (E10-E14),Diabetes,South Dakota,262,27.6
+
+4545,2005,Diabetes mellitus (E10-E14),Diabetes,South Dakota,241,26.2
+
+4546,2004,Diabetes mellitus (E10-E14),Diabetes,South Dakota,229,25.4
+
+4547,2003,Diabetes mellitus (E10-E14),Diabetes,South Dakota,203,23
+
+4548,2002,Diabetes mellitus (E10-E14),Diabetes,South Dakota,195,22.8
+
+4549,2001,Diabetes mellitus (E10-E14),Diabetes,South Dakota,212,24.4
+
+4550,2000,Diabetes mellitus (E10-E14),Diabetes,South Dakota,180,20.7
+
+4551,1999,Diabetes mellitus (E10-E14),Diabetes,South Dakota,196,23.1
+
+5471,2016,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,South Dakota,1729,153.4
+
+5472,2015,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,South Dakota,1711,150.9
+
+5473,2014,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,South Dakota,1704,154.6
+
+5474,2013,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,South Dakota,1630,150.1
+
+5475,2012,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,South Dakota,1668,155.4
+
+5476,2011,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,South Dakota,1625,154
+
+5477,2010,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,South Dakota,1616,155.2
+
+5478,2009,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,South Dakota,1778,173.3
+
+5479,2008,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,South Dakota,1681,167.4
+
+5480,2007,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,South Dakota,1633,164.9
+
+5481,2006,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,South Dakota,1757,180.6
+
+5482,2005,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,South Dakota,1776,186.3
+
+5483,2004,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,South Dakota,1783,189.2
+
+5484,2003,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,South Dakota,1943,210.2
+
+5485,2002,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,South Dakota,1937,212.1
+
+5486,2001,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,South Dakota,1985,219.9
+
+5487,2000,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,South Dakota,2105,234.5
+
+5488,1999,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,South Dakota,2024,228.6
+
+6406,2016,Influenza and pneumonia (J09-J18),Influenza and pneumonia,South Dakota,195,16.7
+
+6407,2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,South Dakota,213,18.2
+
+6408,2014,Influenza and pneumonia (J09-J18),Influenza and pneumonia,South Dakota,181,16.2
+
+6409,2013,Influenza and pneumonia (J09-J18),Influenza and pneumonia,South Dakota,184,16.2
+
+6410,2012,Influenza and pneumonia (J09-J18),Influenza and pneumonia,South Dakota,185,16.6
+
+6411,2011,Influenza and pneumonia (J09-J18),Influenza and pneumonia,South Dakota,178,16.3
+
+6412,2010,Influenza and pneumonia (J09-J18),Influenza and pneumonia,South Dakota,169,15.8
+
+6413,2009,Influenza and pneumonia (J09-J18),Influenza and pneumonia,South Dakota,134,12.9
+
+6414,2008,Influenza and pneumonia (J09-J18),Influenza and pneumonia,South Dakota,177,17
+
+6415,2007,Influenza and pneumonia (J09-J18),Influenza and pneumonia,South Dakota,189,18.7
+
+6416,2006,Influenza and pneumonia (J09-J18),Influenza and pneumonia,South Dakota,173,17
+
+6417,2005,Influenza and pneumonia (J09-J18),Influenza and pneumonia,South Dakota,241,24.2
+
+6418,2004,Influenza and pneumonia (J09-J18),Influenza and pneumonia,South Dakota,179,18.2
+
+6419,2003,Influenza and pneumonia (J09-J18),Influenza and pneumonia,South Dakota,227,23.2
+
+6420,2002,Influenza and pneumonia (J09-J18),Influenza and pneumonia,South Dakota,240,25.4
+
+6421,2001,Influenza and pneumonia (J09-J18),Influenza and pneumonia,South Dakota,188,19.8
+
+6422,2000,Influenza and pneumonia (J09-J18),Influenza and pneumonia,South Dakota,212,22.7
+
+6423,1999,Influenza and pneumonia (J09-J18),Influenza and pneumonia,South Dakota,264,28.2
+
+7343,2016,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,South Dakota,90,7.6
+
+7344,2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,South Dakota,79,7.4
+
+7345,2014,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,South Dakota,72,6.5
+
+7346,2013,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,South Dakota,64,5.9
+
+7347,2012,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,South Dakota,58,5.6
+
+7348,2011,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,South Dakota,49,4.5
+
+7349,2010,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,South Dakota,74,7.3
+
+7350,2009,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,South Dakota,102,10.1
+
+7351,2008,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,South Dakota,89,9.1
+
+7352,2007,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,South Dakota,77,7.7
+
+7353,2006,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,South Dakota,62,6.4
+
+7354,2005,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,South Dakota,55,5.8
+
+7355,2004,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,South Dakota,92,9.9
+
+7356,2003,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,South Dakota,124,13.1
+
+7357,2002,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,South Dakota,128,13.9
+
+7358,2001,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,South Dakota,103,11.2
+
+7359,2000,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,South Dakota,130,14.7
+
+7360,1999,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,South Dakota,97,10.8
+
+8278,2016,Cerebrovascular diseases (I60-I69),Stroke,South Dakota,420,35.8
+
+8279,2015,Cerebrovascular diseases (I60-I69),Stroke,South Dakota,383,33.2
+
+8280,2014,Cerebrovascular diseases (I60-I69),Stroke,South Dakota,439,38.8
+
+8281,2013,Cerebrovascular diseases (I60-I69),Stroke,South Dakota,418,38
+
+8282,2012,Cerebrovascular diseases (I60-I69),Stroke,South Dakota,408,37.4
+
+8283,2011,Cerebrovascular diseases (I60-I69),Stroke,South Dakota,444,42.3
+
+8284,2010,Cerebrovascular diseases (I60-I69),Stroke,South Dakota,416,39.9
+
+8285,2009,Cerebrovascular diseases (I60-I69),Stroke,South Dakota,418,40.2
+
+8286,2008,Cerebrovascular diseases (I60-I69),Stroke,South Dakota,396,39.1
+
+8287,2007,Cerebrovascular diseases (I60-I69),Stroke,South Dakota,410,40.2
+
+8288,2006,Cerebrovascular diseases (I60-I69),Stroke,South Dakota,442,44
+
+8289,2005,Cerebrovascular diseases (I60-I69),Stroke,South Dakota,511,52.7
+
+8290,2004,Cerebrovascular diseases (I60-I69),Stroke,South Dakota,469,48.7
+
+8291,2003,Cerebrovascular diseases (I60-I69),Stroke,South Dakota,476,50.4
+
+8292,2002,Cerebrovascular diseases (I60-I69),Stroke,South Dakota,518,54.9
+
+8293,2001,Cerebrovascular diseases (I60-I69),Stroke,South Dakota,490,52.9
+
+8294,2000,Cerebrovascular diseases (I60-I69),Stroke,South Dakota,560,61.6
+
+8295,1999,Cerebrovascular diseases (I60-I69),Stroke,South Dakota,547,60
+
+9214,2016,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,South Dakota,163,20.2
+
+9215,2015,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,South Dakota,173,20.4
+
+9216,2014,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,South Dakota,141,17.1
+
+9217,2013,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,South Dakota,147,18
+
+9218,2012,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,South Dakota,141,16.8
+
+9219,2011,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,South Dakota,128,15.7
+
+9220,2010,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,South Dakota,140,17.5
+
+9221,2009,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,South Dakota,129,16.3
+
+9222,2008,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,South Dakota,124,15.7
+
+9223,2007,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,South Dakota,102,12.5
+
+9224,2006,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,South Dakota,125,16
+
+9225,2005,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,South Dakota,121,15.4
+
+9226,2004,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,South Dakota,112,14.8
+
+9227,2003,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,South Dakota,102,13.5
+
+9228,2002,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,South Dakota,94,12.3
+
+9229,2001,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,South Dakota,105,14
+
+9230,2000,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,South Dakota,95,12.7
+
+9231,1999,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,South Dakota,103,13.7
+
+10109,2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,South Dakota,469,49.5
+
+10110,2014,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,South Dakota,462,49.2
+
+10111,2013,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,South Dakota,425,46.7
+
+10112,2012,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,South Dakota,426,47.4
+
+10113,2011,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,South Dakota,411,45
+
+10114,2010,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,South Dakota,393,44.5
+
+10115,2009,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,South Dakota,349,40.7
+
+10116,2008,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,South Dakota,381,43.4
+
+10117,2007,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,South Dakota,366,42.5
+
+10118,2006,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,South Dakota,452,53.4
+
+10119,2005,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,South Dakota,402,48.7
+
+10120,2004,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,South Dakota,416,50.9
+
+10121,2003,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,South Dakota,406,50.5
+
+10122,2002,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,South Dakota,348,43.5
+
+10123,2001,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,South Dakota,382,47.3
+
+10124,2000,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,South Dakota,321,41.2
+
+10125,1999,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,South Dakota,351,44.8
+

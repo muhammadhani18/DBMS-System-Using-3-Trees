@@ -1,0 +1,8 @@
+2375,2015,Malignant neoplasms (C00-C97),Cancer,Missouri,12965,173.4
+
+2947,2001,Chronic lower respiratory diseases (J40-J47),CLRD,California,12965,44.4
+
+2375,2015,Malignant neoplasms (C00-C97),Cancer,Missouri,12965,173.4
+
+2947,2001,Chronic lower respiratory diseases (J40-J47),CLRD,California,12965,44.4
+

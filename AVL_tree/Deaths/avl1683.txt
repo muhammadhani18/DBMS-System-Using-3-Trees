@@ -1,0 +1,4 @@
+4056,2008,Diabetes mellitus (E10-E14),Diabetes,Indiana,1683,24.9
+
+4644,2014,Diabetes mellitus (E10-E14),Diabetes,Virginia,1683,18.5
+

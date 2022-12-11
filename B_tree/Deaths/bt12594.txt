@@ -1,0 +1,8 @@
+401,2009,All Causes,All causes,Maine,12594,752.6
+
+2788,2016,Malignant neoplasms (C00-C97),Cancer,Washington,12594,150.9
+
+401,2009,All Causes,All causes,Maine,12594,752.6
+
+2788,2016,Malignant neoplasms (C00-C97),Cancer,Washington,12594,150.9
+

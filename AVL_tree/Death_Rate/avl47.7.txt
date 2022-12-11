@@ -1,0 +1,16 @@
+2911,2001,Chronic lower respiratory diseases (J40-J47),CLRD,Arizona,2499,47.7
+
+3132,2014,Chronic lower respiratory diseases (J40-J47),CLRD,Iowa,1915,47.7
+
+3349,2013,Chronic lower respiratory diseases (J40-J47),CLRD,Nebraska,1032,47.7
+
+3424,2010,Chronic lower respiratory diseases (J40-J47),CLRD,New Mexico,1022,47.7
+
+9618,2013,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Idaho,776,47.7
+
+9650,2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Indiana,3258,47.7
+
+9984,2004,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,North Carolina,4019,47.7
+
+10139,2002,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Tennessee,2744,47.7
+

@@ -1,0 +1,14 @@
+1121,2009,Alzheimer's disease (G30),Alzheimer's disease,Delaware,163,16.9
+
+1830,2002,Alzheimer's disease (G30),Alzheimer's disease,Vermont,163,25.2
+
+4640,2000,Diabetes mellitus (E10-E14),Diabetes,Vermont,163,26.1
+
+6739,2007,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Delaware,163,17.4
+
+7138,2004,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,New Hampshire,163,12.8
+
+7314,2008,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Rhode Island,163,12
+
+9214,2016,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,South Dakota,163,20.2
+

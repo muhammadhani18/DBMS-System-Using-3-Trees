@@ -1,0 +1,8 @@
+7875,2005,Cerebrovascular diseases (I60-I69),Stroke,Louisiana,2469,58
+
+7902,2014,Cerebrovascular diseases (I60-I69),Stroke,Maryland,2469,38
+
+7875,2005,Cerebrovascular diseases (I60-I69),Stroke,Louisiana,2469,58
+
+7902,2014,Cerebrovascular diseases (I60-I69),Stroke,Maryland,2469,38
+

@@ -1,0 +1,4 @@
+9827,2008,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Mississippi,1693,57.8
+
+9827,2008,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Mississippi,1693,57.8
+

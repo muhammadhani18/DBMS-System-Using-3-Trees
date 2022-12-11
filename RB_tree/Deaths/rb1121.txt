@@ -1,0 +1,4 @@
+1268,2006,Alzheimer's disease (G30),Alzheimer's disease,Iowa,1121,27
+
+6042,2002,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Maryland,1121,23.1
+

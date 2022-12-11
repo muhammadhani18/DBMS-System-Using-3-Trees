@@ -1,0 +1,4 @@
+4400,2006,Diabetes mellitus (E10-E14),Diabetes,North Carolina,2234,24.9
+
+4400,2006,Diabetes mellitus (E10-E14),Diabetes,North Carolina,2234,24.9
+

@@ -1,0 +1,12 @@
+7673,2009,Cerebrovascular diseases (I60-I69),Stroke,Delaware,415,42.5
+
+8012,2012,Cerebrovascular diseases (I60-I69),Stroke,Montana,415,33.1
+
+9611,2003,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Hawaii,415,31.9
+
+7673,2009,Cerebrovascular diseases (I60-I69),Stroke,Delaware,415,42.5
+
+8012,2012,Cerebrovascular diseases (I60-I69),Stroke,Montana,415,33.1
+
+9611,2003,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Hawaii,415,31.9
+

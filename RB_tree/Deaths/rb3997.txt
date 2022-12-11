@@ -1,0 +1,4 @@
+74,2013,All Causes,All causes,Alaska,3997,724.4
+
+9638,2010,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Illinois,3997,30.4
+

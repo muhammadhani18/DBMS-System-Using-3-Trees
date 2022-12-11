@@ -1,0 +1,6 @@
+5894,2006,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Idaho,225,16.2
+
+6809,2009,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Hawaii,225,14.2
+
+6884,2006,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Iowa,225,5.8
+

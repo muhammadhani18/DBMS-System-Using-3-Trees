@@ -1,0 +1,6 @@
+1955,2003,Malignant neoplasms (C00-C97),Cancer,Alaska,735,188.4
+
+5737,2001,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arkansas,735,25.1
+
+7739,2015,Cerebrovascular diseases (I60-I69),Stroke,Hawaii,735,38.2
+

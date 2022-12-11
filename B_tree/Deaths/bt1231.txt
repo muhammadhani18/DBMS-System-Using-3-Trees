@@ -1,0 +1,28 @@
+1255,2001,Alzheimer's disease (G30),Alzheimer's disease,Indiana,1231,20.5
+
+1414,2004,Alzheimer's disease (G30),Alzheimer's disease,Minnesota,1231,22.3
+
+1664,2006,Alzheimer's disease (G30),Alzheimer's disease,Oregon,1231,29.4
+
+3846,2002,Diabetes mellitus (E10-E14),Diabetes,Arizona,1231,23
+
+4525,2007,Diabetes mellitus (E10-E14),Diabetes,South Carolina,1231,26.7
+
+6523,2007,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Virginia,1231,17.2
+
+6998,2000,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Massachusetts,1231,17.6
+
+1255,2001,Alzheimer's disease (G30),Alzheimer's disease,Indiana,1231,20.5
+
+1414,2004,Alzheimer's disease (G30),Alzheimer's disease,Minnesota,1231,22.3
+
+1664,2006,Alzheimer's disease (G30),Alzheimer's disease,Oregon,1231,29.4
+
+3846,2002,Diabetes mellitus (E10-E14),Diabetes,Arizona,1231,23
+
+4525,2007,Diabetes mellitus (E10-E14),Diabetes,South Carolina,1231,26.7
+
+6523,2007,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Virginia,1231,17.2
+
+6998,2000,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Massachusetts,1231,17.6
+

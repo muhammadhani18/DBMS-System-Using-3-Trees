@@ -1,0 +1,4 @@
+2446,2016,Malignant neoplasms (C00-C97),Cancer,New Hampshire,2875,164.1
+
+5915,2003,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Illinois,2875,22.9
+

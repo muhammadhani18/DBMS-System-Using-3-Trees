@@ -1,0 +1,12 @@
+3143,2003,Chronic lower respiratory diseases (J40-J47),CLRD,Iowa,1674,46.6
+
+9753,2014,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Maryland,1674,26.6
+
+10048,2008,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Oregon,1674,41.7
+
+3143,2003,Chronic lower respiratory diseases (J40-J47),CLRD,Iowa,1674,46.6
+
+9753,2014,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Maryland,1674,26.6
+
+10048,2008,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Oregon,1674,41.7
+

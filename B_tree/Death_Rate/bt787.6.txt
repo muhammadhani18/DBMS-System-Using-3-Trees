@@ -1,0 +1,4 @@
+37,2006,All Causes,All causes,Alaska,3354,787.6
+
+729,2005,All Causes,All causes,Oregon,31091,787.6
+

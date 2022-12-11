@@ -1,0 +1,8 @@
+2631,2011,Malignant neoplasms (C00-C97),Cancer,Rhode Island,2170,167.6
+
+3182,2000,Chronic lower respiratory diseases (J40-J47),CLRD,Kentucky,2170,54.8
+
+3279,2011,Chronic lower respiratory diseases (J40-J47),CLRD,Minnesota,2170,37.1
+
+4398,2008,Diabetes mellitus (E10-E14),Diabetes,North Carolina,2170,22.7
+

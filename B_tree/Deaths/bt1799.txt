@@ -1,0 +1,12 @@
+1868,2000,Alzheimer's disease (G30),Alzheimer's disease,Washington,1799,33.4
+
+2061,2005,Malignant neoplasms (C00-C97),Cancer,Delaware,1799,199.1
+
+9514,2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Connecticut,1799,44.8
+
+1868,2000,Alzheimer's disease (G30),Alzheimer's disease,Washington,1799,33.4
+
+2061,2005,Malignant neoplasms (C00-C97),Cancer,Delaware,1799,199.1
+
+9514,2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Connecticut,1799,44.8
+

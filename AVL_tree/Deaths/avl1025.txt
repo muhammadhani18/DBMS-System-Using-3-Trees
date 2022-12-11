@@ -1,0 +1,8 @@
+3203,2015,Chronic lower respiratory diseases (J40-J47),CLRD,Maine,1025,53.6
+
+4470,2008,Diabetes mellitus (E10-E14),Diabetes,Oregon,1025,24
+
+6028,2016,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Maryland,1025,15.1
+
+9894,2009,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Nevada,1025,39
+

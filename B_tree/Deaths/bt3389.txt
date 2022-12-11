@@ -1,0 +1,4 @@
+2425,2001,Malignant neoplasms (C00-C97),Cancer,Nebraska,3389,185.5
+
+2425,2001,Malignant neoplasms (C00-C97),Cancer,Nebraska,3389,185.5
+

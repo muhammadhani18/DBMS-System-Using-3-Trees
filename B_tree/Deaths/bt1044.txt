@@ -1,0 +1,8 @@
+2068,2016,Malignant neoplasms (C00-C97),Cancer,District of Columbia,1044,160.1
+
+5921,2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Indiana,1044,13.9
+
+2068,2016,Malignant neoplasms (C00-C97),Cancer,District of Columbia,1044,160.1
+
+5921,2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Indiana,1044,13.9
+

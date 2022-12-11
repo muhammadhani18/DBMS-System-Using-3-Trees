@@ -1,0 +1,20 @@
+3903,1999,Diabetes mellitus (E10-E14),Diabetes,Colorado,639,19.2
+
+4088,2012,Diabetes mellitus (E10-E14),Diabetes,Kansas,639,19.6
+
+7019,2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Minnesota,639,9.7
+
+8022,2002,Cerebrovascular diseases (I60-I69),Stroke,Montana,639,63
+
+9391,2001,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wisconsin,639,11.7
+
+3903,1999,Diabetes mellitus (E10-E14),Diabetes,Colorado,639,19.2
+
+4088,2012,Diabetes mellitus (E10-E14),Diabetes,Kansas,639,19.6
+
+7019,2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Minnesota,639,9.7
+
+8022,2002,Cerebrovascular diseases (I60-I69),Stroke,Montana,639,63
+
+9391,2001,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wisconsin,639,11.7
+

@@ -1,0 +1,10 @@
+1429,2007,Alzheimer's disease (G30),Alzheimer's disease,Mississippi,797,28.9
+
+3890,2012,Diabetes mellitus (E10-E14),Diabetes,Colorado,797,15.9
+
+7338,2003,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,South Carolina,797,20.1
+
+8578,2004,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Colorado,797,17.2
+
+9337,2001,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Virginia,797,11
+

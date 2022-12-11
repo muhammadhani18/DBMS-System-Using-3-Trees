@@ -1,0 +1,20 @@
+3219,1999,Chronic lower respiratory diseases (J40-J47),CLRD,Maine,751,52.6
+
+6085,2013,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Minnesota,751,11.6
+
+6390,2014,Influenza and pneumonia (J09-J18),Influenza and pneumonia,South Carolina,751,13.9
+
+6966,2014,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Maryland,751,11.5
+
+7521,2000,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wisconsin,751,13.1
+
+3219,1999,Chronic lower respiratory diseases (J40-J47),CLRD,Maine,751,52.6
+
+6085,2013,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Minnesota,751,11.6
+
+6390,2014,Influenza and pneumonia (J09-J18),Influenza and pneumonia,South Carolina,751,13.9
+
+6966,2014,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Maryland,751,11.5
+
+7521,2000,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wisconsin,751,13.1
+

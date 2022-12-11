@@ -1,0 +1,1872 @@
+7315,2010,Cerebrovascular diseases (I60-I69),Stroke,Alaska,167,40.9
+
+7541,2016,Cerebrovascular diseases (I60-I69),Stroke,Alabama,2967,51.6
+
+7542,2015,Cerebrovascular diseases (I60-I69),Stroke,Alabama,2937,52.2
+
+7543,2014,Cerebrovascular diseases (I60-I69),Stroke,Alabama,2663,48.3
+
+7544,2013,Cerebrovascular diseases (I60-I69),Stroke,Alabama,2604,48.1
+
+7545,2012,Cerebrovascular diseases (I60-I69),Stroke,Alabama,2628,49.5
+
+7546,2011,Cerebrovascular diseases (I60-I69),Stroke,Alabama,2568,49.4
+
+7547,2010,Cerebrovascular diseases (I60-I69),Stroke,Alabama,2619,51.6
+
+7548,2009,Cerebrovascular diseases (I60-I69),Stroke,Alabama,2675,53.6
+
+7549,2008,Cerebrovascular diseases (I60-I69),Stroke,Alabama,2863,58.2
+
+7550,2007,Cerebrovascular diseases (I60-I69),Stroke,Alabama,2747,56.9
+
+7551,2006,Cerebrovascular diseases (I60-I69),Stroke,Alabama,2740,57.8
+
+7552,2005,Cerebrovascular diseases (I60-I69),Stroke,Alabama,2952,63.4
+
+7553,2004,Cerebrovascular diseases (I60-I69),Stroke,Alabama,2986,65.5
+
+7554,2003,Cerebrovascular diseases (I60-I69),Stroke,Alabama,3028,67
+
+7555,2002,Cerebrovascular diseases (I60-I69),Stroke,Alabama,3201,71.2
+
+7556,2001,Cerebrovascular diseases (I60-I69),Stroke,Alabama,2998,66.9
+
+7557,2000,Cerebrovascular diseases (I60-I69),Stroke,Alabama,3183,71.5
+
+7558,1999,Cerebrovascular diseases (I60-I69),Stroke,Alabama,3148,71.5
+
+7559,2016,Cerebrovascular diseases (I60-I69),Stroke,Alaska,196,39
+
+7560,2015,Cerebrovascular diseases (I60-I69),Stroke,Alaska,182,36.8
+
+7561,2014,Cerebrovascular diseases (I60-I69),Stroke,Alaska,157,32.3
+
+7562,2013,Cerebrovascular diseases (I60-I69),Stroke,Alaska,189,40.7
+
+7563,2012,Cerebrovascular diseases (I60-I69),Stroke,Alaska,188,42.5
+
+7564,2011,Cerebrovascular diseases (I60-I69),Stroke,Alaska,168,39.4
+
+7565,2009,Cerebrovascular diseases (I60-I69),Stroke,Alaska,162,41.8
+
+7566,2008,Cerebrovascular diseases (I60-I69),Stroke,Alaska,172,44.5
+
+7567,2007,Cerebrovascular diseases (I60-I69),Stroke,Alaska,157,47
+
+7568,2006,Cerebrovascular diseases (I60-I69),Stroke,Alaska,177,48.2
+
+7569,2005,Cerebrovascular diseases (I60-I69),Stroke,Alaska,178,54.9
+
+7570,2004,Cerebrovascular diseases (I60-I69),Stroke,Alaska,172,52.8
+
+7571,2003,Cerebrovascular diseases (I60-I69),Stroke,Alaska,185,62.3
+
+7572,2002,Cerebrovascular diseases (I60-I69),Stroke,Alaska,158,56
+
+7573,2001,Cerebrovascular diseases (I60-I69),Stroke,Alaska,158,57.9
+
+7574,2000,Cerebrovascular diseases (I60-I69),Stroke,Alaska,170,66.1
+
+7575,1999,Cerebrovascular diseases (I60-I69),Stroke,Alaska,171,71.2
+
+7576,2016,Cerebrovascular diseases (I60-I69),Stroke,Arizona,2556,29.8
+
+7577,2015,Cerebrovascular diseases (I60-I69),Stroke,Arizona,2522,30.7
+
+7578,2014,Cerebrovascular diseases (I60-I69),Stroke,Arizona,2235,28.3
+
+7579,2013,Cerebrovascular diseases (I60-I69),Stroke,Arizona,2162,28.6
+
+7580,2012,Cerebrovascular diseases (I60-I69),Stroke,Arizona,2164,29.9
+
+7581,2011,Cerebrovascular diseases (I60-I69),Stroke,Arizona,2148,30.6
+
+7582,2010,Cerebrovascular diseases (I60-I69),Stroke,Arizona,2138,31.9
+
+7583,2009,Cerebrovascular diseases (I60-I69),Stroke,Arizona,2072,31.7
+
+7584,2008,Cerebrovascular diseases (I60-I69),Stroke,Arizona,2147,33.9
+
+7585,2007,Cerebrovascular diseases (I60-I69),Stroke,Arizona,2207,35.9
+
+7586,2006,Cerebrovascular diseases (I60-I69),Stroke,Arizona,2226,37.5
+
+7587,2005,Cerebrovascular diseases (I60-I69),Stroke,Arizona,2364,41.4
+
+7588,2004,Cerebrovascular diseases (I60-I69),Stroke,Arizona,2446,44.6
+
+7589,2003,Cerebrovascular diseases (I60-I69),Stroke,Arizona,2428,45.5
+
+7590,2002,Cerebrovascular diseases (I60-I69),Stroke,Arizona,2535,49.1
+
+7591,2001,Cerebrovascular diseases (I60-I69),Stroke,Arizona,2480,49
+
+7592,2000,Cerebrovascular diseases (I60-I69),Stroke,Arizona,2648,53.8
+
+7593,1999,Cerebrovascular diseases (I60-I69),Stroke,Arizona,2600,54.4
+
+7594,2016,Cerebrovascular diseases (I60-I69),Stroke,Arkansas,1643,45.6
+
+7595,2015,Cerebrovascular diseases (I60-I69),Stroke,Arkansas,1653,46.8
+
+7596,2014,Cerebrovascular diseases (I60-I69),Stroke,Arkansas,1583,45.4
+
+7597,2013,Cerebrovascular diseases (I60-I69),Stroke,Arkansas,1637,47.6
+
+7598,2012,Cerebrovascular diseases (I60-I69),Stroke,Arkansas,1664,49.1
+
+7599,2011,Cerebrovascular diseases (I60-I69),Stroke,Arkansas,1692,50.6
+
+7600,2010,Cerebrovascular diseases (I60-I69),Stroke,Arkansas,1741,53.8
+
+7601,2009,Cerebrovascular diseases (I60-I69),Stroke,Arkansas,1694,52.9
+
+7602,2008,Cerebrovascular diseases (I60-I69),Stroke,Arkansas,1722,54.4
+
+7603,2007,Cerebrovascular diseases (I60-I69),Stroke,Arkansas,1873,60.1
+
+7604,2006,Cerebrovascular diseases (I60-I69),Stroke,Arkansas,1884,61.2
+
+7605,2005,Cerebrovascular diseases (I60-I69),Stroke,Arkansas,1847,61.2
+
+7606,2004,Cerebrovascular diseases (I60-I69),Stroke,Arkansas,1948,65.3
+
+7607,2003,Cerebrovascular diseases (I60-I69),Stroke,Arkansas,2107,71.1
+
+7608,2002,Cerebrovascular diseases (I60-I69),Stroke,Arkansas,2232,75.7
+
+7609,2001,Cerebrovascular diseases (I60-I69),Stroke,Arkansas,2256,76.8
+
+7610,2000,Cerebrovascular diseases (I60-I69),Stroke,Arkansas,2255,77.2
+
+7611,1999,Cerebrovascular diseases (I60-I69),Stroke,Arkansas,2255,77.7
+
+7612,2016,Cerebrovascular diseases (I60-I69),Stroke,California,15680,36.9
+
+7613,2015,Cerebrovascular diseases (I60-I69),Stroke,California,15065,36.2
+
+7614,2014,Cerebrovascular diseases (I60-I69),Stroke,California,13731,33.9
+
+7615,2013,Cerebrovascular diseases (I60-I69),Stroke,California,13698,34.9
+
+7616,2012,Cerebrovascular diseases (I60-I69),Stroke,California,13542,35.4
+
+7617,2011,Cerebrovascular diseases (I60-I69),Stroke,California,13503,36.4
+
+7618,2010,Cerebrovascular diseases (I60-I69),Stroke,California,13662,38.1
+
+7619,2009,Cerebrovascular diseases (I60-I69),Stroke,California,13506,38.5
+
+7620,2008,Cerebrovascular diseases (I60-I69),Stroke,California,14048,41.2
+
+7621,2007,Cerebrovascular diseases (I60-I69),Stroke,California,14557,43.7
+
+7622,2006,Cerebrovascular diseases (I60-I69),Stroke,California,15039,46.4
+
+7623,2005,Cerebrovascular diseases (I60-I69),Stroke,California,15585,49
+
+7624,2004,Cerebrovascular diseases (I60-I69),Stroke,California,16882,54.6
+
+7625,2003,Cerebrovascular diseases (I60-I69),Stroke,California,17692,58.2
+
+7626,2002,Cerebrovascular diseases (I60-I69),Stroke,California,17626,59.3
+
+7627,2001,Cerebrovascular diseases (I60-I69),Stroke,California,18088,62.1
+
+7628,2000,Cerebrovascular diseases (I60-I69),Stroke,California,18185,64
+
+7629,1999,Cerebrovascular diseases (I60-I69),Stroke,California,17962,64.5
+
+7630,2016,Cerebrovascular diseases (I60-I69),Stroke,Colorado,1927,35.2
+
+7631,2015,Cerebrovascular diseases (I60-I69),Stroke,Colorado,1856,34.9
+
+7632,2014,Cerebrovascular diseases (I60-I69),Stroke,Colorado,1714,33.4
+
+7633,2013,Cerebrovascular diseases (I60-I69),Stroke,Colorado,1588,32
+
+7634,2012,Cerebrovascular diseases (I60-I69),Stroke,Colorado,1576,32.6
+
+7635,2011,Cerebrovascular diseases (I60-I69),Stroke,Colorado,1606,34.6
+
+7636,2010,Cerebrovascular diseases (I60-I69),Stroke,Colorado,1607,36.1
+
+7637,2009,Cerebrovascular diseases (I60-I69),Stroke,Colorado,1532,35.2
+
+7638,2008,Cerebrovascular diseases (I60-I69),Stroke,Colorado,1565,37.4
+
+7639,2007,Cerebrovascular diseases (I60-I69),Stroke,Colorado,1600,39.5
+
+7640,2006,Cerebrovascular diseases (I60-I69),Stroke,Colorado,1532,39.1
+
+7641,2005,Cerebrovascular diseases (I60-I69),Stroke,Colorado,1599,42.6
+
+7642,2004,Cerebrovascular diseases (I60-I69),Stroke,Colorado,1638,44.9
+
+7643,2003,Cerebrovascular diseases (I60-I69),Stroke,Colorado,1813,51.5
+
+7644,2002,Cerebrovascular diseases (I60-I69),Stroke,Colorado,1915,55.7
+
+7645,2001,Cerebrovascular diseases (I60-I69),Stroke,Colorado,1825,54.7
+
+7646,2000,Cerebrovascular diseases (I60-I69),Stroke,Colorado,1907,58.7
+
+7647,1999,Cerebrovascular diseases (I60-I69),Stroke,Colorado,1834,57.2
+
+7648,2016,Cerebrovascular diseases (I60-I69),Stroke,Connecticut,1269,26.3
+
+7649,2015,Cerebrovascular diseases (I60-I69),Stroke,Connecticut,1388,28.5
+
+7650,2014,Cerebrovascular diseases (I60-I69),Stroke,Connecticut,1266,26.3
+
+7651,2013,Cerebrovascular diseases (I60-I69),Stroke,Connecticut,1348,28.3
+
+7652,2012,Cerebrovascular diseases (I60-I69),Stroke,Connecticut,1273,27
+
+7653,2011,Cerebrovascular diseases (I60-I69),Stroke,Connecticut,1315,28.3
+
+7654,2010,Cerebrovascular diseases (I60-I69),Stroke,Connecticut,1349,29.4
+
+7655,2009,Cerebrovascular diseases (I60-I69),Stroke,Connecticut,1460,32.4
+
+7656,2008,Cerebrovascular diseases (I60-I69),Stroke,Connecticut,1433,32
+
+7657,2007,Cerebrovascular diseases (I60-I69),Stroke,Connecticut,1463,33.4
+
+7658,2006,Cerebrovascular diseases (I60-I69),Stroke,Connecticut,1547,35.8
+
+7659,2005,Cerebrovascular diseases (I60-I69),Stroke,Connecticut,1528,36.2
+
+7660,2004,Cerebrovascular diseases (I60-I69),Stroke,Connecticut,1635,39.1
+
+7661,2003,Cerebrovascular diseases (I60-I69),Stroke,Connecticut,1828,44
+
+7662,2002,Cerebrovascular diseases (I60-I69),Stroke,Connecticut,1861,46
+
+7663,2001,Cerebrovascular diseases (I60-I69),Stroke,Connecticut,2003,50.1
+
+7664,2000,Cerebrovascular diseases (I60-I69),Stroke,Connecticut,2011,51.4
+
+7665,1999,Cerebrovascular diseases (I60-I69),Stroke,Connecticut,1933,50
+
+7666,2016,Cerebrovascular diseases (I60-I69),Stroke,Delaware,506,41.6
+
+7667,2015,Cerebrovascular diseases (I60-I69),Stroke,Delaware,466,39.4
+
+7668,2014,Cerebrovascular diseases (I60-I69),Stroke,Delaware,439,38.8
+
+7669,2013,Cerebrovascular diseases (I60-I69),Stroke,Delaware,409,37
+
+7670,2012,Cerebrovascular diseases (I60-I69),Stroke,Delaware,404,38.2
+
+7671,2011,Cerebrovascular diseases (I60-I69),Stroke,Delaware,418,40.5
+
+7672,2010,Cerebrovascular diseases (I60-I69),Stroke,Delaware,407,40.7
+
+7673,2009,Cerebrovascular diseases (I60-I69),Stroke,Delaware,415,42.5
+
+7674,2008,Cerebrovascular diseases (I60-I69),Stroke,Delaware,365,37.9
+
+7675,2007,Cerebrovascular diseases (I60-I69),Stroke,Delaware,374,40.4
+
+7676,2006,Cerebrovascular diseases (I60-I69),Stroke,Delaware,384,42.9
+
+7677,2005,Cerebrovascular diseases (I60-I69),Stroke,Delaware,384,44.3
+
+7678,2004,Cerebrovascular diseases (I60-I69),Stroke,Delaware,350,41.8
+
+7679,2003,Cerebrovascular diseases (I60-I69),Stroke,Delaware,407,49.9
+
+7680,2002,Cerebrovascular diseases (I60-I69),Stroke,Delaware,405,51.4
+
+7681,2001,Cerebrovascular diseases (I60-I69),Stroke,Delaware,383,50.1
+
+7682,2000,Cerebrovascular diseases (I60-I69),Stroke,Delaware,430,57.6
+
+7683,1999,Cerebrovascular diseases (I60-I69),Stroke,Delaware,365,49.4
+
+7684,2016,Cerebrovascular diseases (I60-I69),Stroke,District of Columbia,252,38.4
+
+7685,2015,Cerebrovascular diseases (I60-I69),Stroke,District of Columbia,242,38.3
+
+7686,2014,Cerebrovascular diseases (I60-I69),Stroke,District of Columbia,214,33.6
+
+7687,2013,Cerebrovascular diseases (I60-I69),Stroke,District of Columbia,187,30.1
+
+7688,2012,Cerebrovascular diseases (I60-I69),Stroke,District of Columbia,207,33.8
+
+7689,2011,Cerebrovascular diseases (I60-I69),Stroke,District of Columbia,209,34.2
+
+7690,2010,Cerebrovascular diseases (I60-I69),Stroke,District of Columbia,196,32.7
+
+7691,2009,Cerebrovascular diseases (I60-I69),Stroke,District of Columbia,199,34.6
+
+7692,2008,Cerebrovascular diseases (I60-I69),Stroke,District of Columbia,222,38.5
+
+7693,2007,Cerebrovascular diseases (I60-I69),Stroke,District of Columbia,220,39
+
+7694,2006,Cerebrovascular diseases (I60-I69),Stroke,District of Columbia,221,40
+
+7695,2005,Cerebrovascular diseases (I60-I69),Stroke,District of Columbia,231,41.2
+
+7696,2004,Cerebrovascular diseases (I60-I69),Stroke,District of Columbia,218,39.3
+
+7697,2003,Cerebrovascular diseases (I60-I69),Stroke,District of Columbia,257,46
+
+7698,2002,Cerebrovascular diseases (I60-I69),Stroke,District of Columbia,279,49.7
+
+7699,2001,Cerebrovascular diseases (I60-I69),Stroke,District of Columbia,265,47.1
+
+7700,2000,Cerebrovascular diseases (I60-I69),Stroke,District of Columbia,252,44.4
+
+7701,1999,Cerebrovascular diseases (I60-I69),Stroke,District of Columbia,297,53.3
+
+7702,2016,Cerebrovascular diseases (I60-I69),Stroke,Florida,11854,37.3
+
+7703,2015,Cerebrovascular diseases (I60-I69),Stroke,Florida,11433,37.1
+
+7704,2014,Cerebrovascular diseases (I60-I69),Stroke,Florida,9770,33
+
+7705,2013,Cerebrovascular diseases (I60-I69),Stroke,Florida,8698,30.6
+
+7706,2012,Cerebrovascular diseases (I60-I69),Stroke,Florida,8456,30.7
+
+7707,2011,Cerebrovascular diseases (I60-I69),Stroke,Florida,8411,31.5
+
+7708,2010,Cerebrovascular diseases (I60-I69),Stroke,Florida,8432,32.8
+
+7709,2009,Cerebrovascular diseases (I60-I69),Stroke,Florida,8395,33.2
+
+7710,2008,Cerebrovascular diseases (I60-I69),Stroke,Florida,8589,34.8
+
+7711,2007,Cerebrovascular diseases (I60-I69),Stroke,Florida,8781,36.5
+
+7712,2006,Cerebrovascular diseases (I60-I69),Stroke,Florida,8925,37.8
+
+7713,2005,Cerebrovascular diseases (I60-I69),Stroke,Florida,9361,40.3
+
+7714,2004,Cerebrovascular diseases (I60-I69),Stroke,Florida,9715,42.8
+
+7715,2003,Cerebrovascular diseases (I60-I69),Stroke,Florida,9899,44.4
+
+7716,2002,Cerebrovascular diseases (I60-I69),Stroke,Florida,10269,46.9
+
+7717,2001,Cerebrovascular diseases (I60-I69),Stroke,Florida,10414,48.2
+
+7718,2000,Cerebrovascular diseases (I60-I69),Stroke,Florida,10532,49.6
+
+7719,1999,Cerebrovascular diseases (I60-I69),Stroke,Florida,10560,50.5
+
+7720,2016,Cerebrovascular diseases (I60-I69),Stroke,Georgia,4349,44.3
+
+7721,2015,Cerebrovascular diseases (I60-I69),Stroke,Georgia,4335,45.3
+
+7722,2014,Cerebrovascular diseases (I60-I69),Stroke,Georgia,3948,42.6
+
+7723,2013,Cerebrovascular diseases (I60-I69),Stroke,Georgia,3694,41.4
+
+7724,2012,Cerebrovascular diseases (I60-I69),Stroke,Georgia,3636,41.8
+
+7725,2011,Cerebrovascular diseases (I60-I69),Stroke,Georgia,3564,42.7
+
+7726,2010,Cerebrovascular diseases (I60-I69),Stroke,Georgia,3762,46.3
+
+7727,2009,Cerebrovascular diseases (I60-I69),Stroke,Georgia,3732,46.9
+
+7728,2008,Cerebrovascular diseases (I60-I69),Stroke,Georgia,3805,49.5
+
+7729,2007,Cerebrovascular diseases (I60-I69),Stroke,Georgia,3894,52
+
+7730,2006,Cerebrovascular diseases (I60-I69),Stroke,Georgia,3889,53.5
+
+7731,2005,Cerebrovascular diseases (I60-I69),Stroke,Georgia,3854,55.6
+
+7732,2004,Cerebrovascular diseases (I60-I69),Stroke,Georgia,4063,60.8
+
+7733,2003,Cerebrovascular diseases (I60-I69),Stroke,Georgia,4301,65.6
+
+7734,2002,Cerebrovascular diseases (I60-I69),Stroke,Georgia,4261,66.5
+
+7735,2001,Cerebrovascular diseases (I60-I69),Stroke,Georgia,4312,68.3
+
+7736,2000,Cerebrovascular diseases (I60-I69),Stroke,Georgia,4625,74.8
+
+7737,1999,Cerebrovascular diseases (I60-I69),Stroke,Georgia,4416,72.3
+
+7738,2016,Cerebrovascular diseases (I60-I69),Stroke,Hawaii,675,34.3
+
+7739,2015,Cerebrovascular diseases (I60-I69),Stroke,Hawaii,735,38.2
+
+7740,2014,Cerebrovascular diseases (I60-I69),Stroke,Hawaii,655,34.1
+
+7741,2013,Cerebrovascular diseases (I60-I69),Stroke,Hawaii,634,34.9
+
+7742,2012,Cerebrovascular diseases (I60-I69),Stroke,Hawaii,634,35.2
+
+7743,2011,Cerebrovascular diseases (I60-I69),Stroke,Hawaii,621,35.6
+
+7744,2010,Cerebrovascular diseases (I60-I69),Stroke,Hawaii,605,35.8
+
+7745,2009,Cerebrovascular diseases (I60-I69),Stroke,Hawaii,671,41
+
+7746,2008,Cerebrovascular diseases (I60-I69),Stroke,Hawaii,642,40.7
+
+7747,2007,Cerebrovascular diseases (I60-I69),Stroke,Hawaii,643,41.9
+
+7748,2006,Cerebrovascular diseases (I60-I69),Stroke,Hawaii,665,44.7
+
+7749,2005,Cerebrovascular diseases (I60-I69),Stroke,Hawaii,688,47.6
+
+7750,2004,Cerebrovascular diseases (I60-I69),Stroke,Hawaii,714,51
+
+7751,2003,Cerebrovascular diseases (I60-I69),Stroke,Hawaii,752,55.7
+
+7752,2002,Cerebrovascular diseases (I60-I69),Stroke,Hawaii,812,62.1
+
+7753,2001,Cerebrovascular diseases (I60-I69),Stroke,Hawaii,766,60.6
+
+7754,2000,Cerebrovascular diseases (I60-I69),Stroke,Hawaii,747,61.4
+
+7755,1999,Cerebrovascular diseases (I60-I69),Stroke,Hawaii,762,64.2
+
+7756,2016,Cerebrovascular diseases (I60-I69),Stroke,Idaho,682,37.2
+
+7757,2015,Cerebrovascular diseases (I60-I69),Stroke,Idaho,641,36.3
+
+7758,2014,Cerebrovascular diseases (I60-I69),Stroke,Idaho,640,36.8
+
+7759,2013,Cerebrovascular diseases (I60-I69),Stroke,Idaho,598,35.4
+
+7760,2012,Cerebrovascular diseases (I60-I69),Stroke,Idaho,610,37.2
+
+7761,2011,Cerebrovascular diseases (I60-I69),Stroke,Idaho,623,38.8
+
+7762,2010,Cerebrovascular diseases (I60-I69),Stroke,Idaho,642,42
+
+7763,2009,Cerebrovascular diseases (I60-I69),Stroke,Idaho,627,41.6
+
+7764,2008,Cerebrovascular diseases (I60-I69),Stroke,Idaho,609,41.6
+
+7765,2007,Cerebrovascular diseases (I60-I69),Stroke,Idaho,640,44.6
+
+7766,2006,Cerebrovascular diseases (I60-I69),Stroke,Idaho,725,52.7
+
+7767,2005,Cerebrovascular diseases (I60-I69),Stroke,Idaho,718,53.9
+
+7768,2004,Cerebrovascular diseases (I60-I69),Stroke,Idaho,712,55.3
+
+7769,2003,Cerebrovascular diseases (I60-I69),Stroke,Idaho,762,60.5
+
+7770,2002,Cerebrovascular diseases (I60-I69),Stroke,Idaho,736,60.2
+
+7771,2001,Cerebrovascular diseases (I60-I69),Stroke,Idaho,781,65.4
+
+7772,2000,Cerebrovascular diseases (I60-I69),Stroke,Idaho,720,61.8
+
+7773,1999,Cerebrovascular diseases (I60-I69),Stroke,Idaho,771,67.5
+
+7774,2016,Cerebrovascular diseases (I60-I69),Stroke,Illinois,5658,37.8
+
+7775,2015,Cerebrovascular diseases (I60-I69),Stroke,Illinois,5709,38.4
+
+7776,2014,Cerebrovascular diseases (I60-I69),Stroke,Illinois,5489,37.4
+
+7777,2013,Cerebrovascular diseases (I60-I69),Stroke,Illinois,5294,36.7
+
+7778,2012,Cerebrovascular diseases (I60-I69),Stroke,Illinois,5337,37.7
+
+7779,2011,Cerebrovascular diseases (I60-I69),Stroke,Illinois,5372,38.6
+
+7780,2010,Cerebrovascular diseases (I60-I69),Stroke,Illinois,5349,39.3
+
+7781,2009,Cerebrovascular diseases (I60-I69),Stroke,Illinois,5258,39
+
+7782,2008,Cerebrovascular diseases (I60-I69),Stroke,Illinois,5788,43.4
+
+7783,2007,Cerebrovascular diseases (I60-I69),Stroke,Illinois,5864,44.7
+
+7784,2006,Cerebrovascular diseases (I60-I69),Stroke,Illinois,5989,46.3
+
+7785,2005,Cerebrovascular diseases (I60-I69),Stroke,Illinois,6252,49
+
+7786,2004,Cerebrovascular diseases (I60-I69),Stroke,Illinois,6489,51.5
+
+7787,2003,Cerebrovascular diseases (I60-I69),Stroke,Illinois,6909,55.4
+
+7788,2002,Cerebrovascular diseases (I60-I69),Stroke,Illinois,7183,58.3
+
+7789,2001,Cerebrovascular diseases (I60-I69),Stroke,Illinois,7230,59.1
+
+7790,2000,Cerebrovascular diseases (I60-I69),Stroke,Illinois,7429,61.3
+
+7791,1999,Cerebrovascular diseases (I60-I69),Stroke,Illinois,7714,64.4
+
+7792,2016,Cerebrovascular diseases (I60-I69),Stroke,Indiana,3040,39.5
+
+7793,2015,Cerebrovascular diseases (I60-I69),Stroke,Indiana,2959,39.1
+
+7794,2014,Cerebrovascular diseases (I60-I69),Stroke,Indiana,3107,41.7
+
+7795,2013,Cerebrovascular diseases (I60-I69),Stroke,Indiana,2996,40.7
+
+7796,2012,Cerebrovascular diseases (I60-I69),Stroke,Indiana,3073,42.7
+
+7797,2011,Cerebrovascular diseases (I60-I69),Stroke,Indiana,3127,44.2
+
+7798,2010,Cerebrovascular diseases (I60-I69),Stroke,Indiana,3082,44.5
+
+7799,2009,Cerebrovascular diseases (I60-I69),Stroke,Indiana,3004,44
+
+7800,2008,Cerebrovascular diseases (I60-I69),Stroke,Indiana,3114,46.2
+
+7801,2007,Cerebrovascular diseases (I60-I69),Stroke,Indiana,3083,46.6
+
+7802,2006,Cerebrovascular diseases (I60-I69),Stroke,Indiana,3238,49.9
+
+7803,2005,Cerebrovascular diseases (I60-I69),Stroke,Indiana,3296,51.9
+
+7804,2004,Cerebrovascular diseases (I60-I69),Stroke,Indiana,3454,55.3
+
+7805,2003,Cerebrovascular diseases (I60-I69),Stroke,Indiana,3627,58.7
+
+7806,2002,Cerebrovascular diseases (I60-I69),Stroke,Indiana,3717,61
+
+7807,2001,Cerebrovascular diseases (I60-I69),Stroke,Indiana,3877,64.3
+
+7808,2000,Cerebrovascular diseases (I60-I69),Stroke,Indiana,4247,71.5
+
+7809,1999,Cerebrovascular diseases (I60-I69),Stroke,Indiana,4057,69
+
+7810,2016,Cerebrovascular diseases (I60-I69),Stroke,Iowa,1388,32.3
+
+7811,2015,Cerebrovascular diseases (I60-I69),Stroke,Iowa,1418,33.2
+
+7812,2014,Cerebrovascular diseases (I60-I69),Stroke,Iowa,1433,34
+
+7813,2013,Cerebrovascular diseases (I60-I69),Stroke,Iowa,1409,33.9
+
+7814,2012,Cerebrovascular diseases (I60-I69),Stroke,Iowa,1422,34.1
+
+7815,2011,Cerebrovascular diseases (I60-I69),Stroke,Iowa,1432,34.9
+
+7816,2010,Cerebrovascular diseases (I60-I69),Stroke,Iowa,1537,38
+
+7817,2009,Cerebrovascular diseases (I60-I69),Stroke,Iowa,1635,41.2
+
+7818,2008,Cerebrovascular diseases (I60-I69),Stroke,Iowa,1732,43.6
+
+7819,2007,Cerebrovascular diseases (I60-I69),Stroke,Iowa,1686,42.8
+
+7820,2006,Cerebrovascular diseases (I60-I69),Stroke,Iowa,1718,43.6
+
+7821,2005,Cerebrovascular diseases (I60-I69),Stroke,Iowa,1902,49.2
+
+7822,2004,Cerebrovascular diseases (I60-I69),Stroke,Iowa,1960,50.5
+
+7823,2003,Cerebrovascular diseases (I60-I69),Stroke,Iowa,2081,54.5
+
+7824,2002,Cerebrovascular diseases (I60-I69),Stroke,Iowa,2226,58.5
+
+7825,2001,Cerebrovascular diseases (I60-I69),Stroke,Iowa,2218,59.1
+
+7826,2000,Cerebrovascular diseases (I60-I69),Stroke,Iowa,2187,58.3
+
+7827,1999,Cerebrovascular diseases (I60-I69),Stroke,Iowa,2317,62.1
+
+7828,2016,Cerebrovascular diseases (I60-I69),Stroke,Kansas,1363,38.6
+
+7829,2015,Cerebrovascular diseases (I60-I69),Stroke,Kansas,1364,38.6
+
+7830,2014,Cerebrovascular diseases (I60-I69),Stroke,Kansas,1363,39
+
+7831,2013,Cerebrovascular diseases (I60-I69),Stroke,Kansas,1320,38.1
+
+7832,2012,Cerebrovascular diseases (I60-I69),Stroke,Kansas,1343,39.4
+
+7833,2011,Cerebrovascular diseases (I60-I69),Stroke,Kansas,1338,39.7
+
+7834,2010,Cerebrovascular diseases (I60-I69),Stroke,Kansas,1370,41.2
+
+7835,2009,Cerebrovascular diseases (I60-I69),Stroke,Kansas,1416,43.2
+
+7836,2008,Cerebrovascular diseases (I60-I69),Stroke,Kansas,1574,48.6
+
+7837,2007,Cerebrovascular diseases (I60-I69),Stroke,Kansas,1498,46.7
+
+7838,2006,Cerebrovascular diseases (I60-I69),Stroke,Kansas,1489,47.3
+
+7839,2005,Cerebrovascular diseases (I60-I69),Stroke,Kansas,1571,50.3
+
+7840,2004,Cerebrovascular diseases (I60-I69),Stroke,Kansas,1611,52.2
+
+7841,2003,Cerebrovascular diseases (I60-I69),Stroke,Kansas,1758,57.5
+
+7842,2002,Cerebrovascular diseases (I60-I69),Stroke,Kansas,1845,60.4
+
+7843,2001,Cerebrovascular diseases (I60-I69),Stroke,Kansas,1848,60.9
+
+7844,2000,Cerebrovascular diseases (I60-I69),Stroke,Kansas,1830,60.6
+
+7845,1999,Cerebrovascular diseases (I60-I69),Stroke,Kansas,1841,61.6
+
+7846,2016,Cerebrovascular diseases (I60-I69),Stroke,Kentucky,2057,40.4
+
+7847,2015,Cerebrovascular diseases (I60-I69),Stroke,Kentucky,2050,40.8
+
+7848,2014,Cerebrovascular diseases (I60-I69),Stroke,Kentucky,2050,41.8
+
+7849,2013,Cerebrovascular diseases (I60-I69),Stroke,Kentucky,1990,41.7
+
+7850,2012,Cerebrovascular diseases (I60-I69),Stroke,Kentucky,2073,44.3
+
+7851,2011,Cerebrovascular diseases (I60-I69),Stroke,Kentucky,2064,44.8
+
+7852,2010,Cerebrovascular diseases (I60-I69),Stroke,Kentucky,1992,44.1
+
+7853,2009,Cerebrovascular diseases (I60-I69),Stroke,Kentucky,2064,46.4
+
+7854,2008,Cerebrovascular diseases (I60-I69),Stroke,Kentucky,2098,47.9
+
+7855,2007,Cerebrovascular diseases (I60-I69),Stroke,Kentucky,2144,49.8
+
+7856,2006,Cerebrovascular diseases (I60-I69),Stroke,Kentucky,2197,51.9
+
+7857,2005,Cerebrovascular diseases (I60-I69),Stroke,Kentucky,2168,52.5
+
+7858,2004,Cerebrovascular diseases (I60-I69),Stroke,Kentucky,2339,58
+
+7859,2003,Cerebrovascular diseases (I60-I69),Stroke,Kentucky,2442,61.3
+
+7860,2002,Cerebrovascular diseases (I60-I69),Stroke,Kentucky,2554,64.9
+
+7861,2001,Cerebrovascular diseases (I60-I69),Stroke,Kentucky,2557,65.2
+
+7862,2000,Cerebrovascular diseases (I60-I69),Stroke,Kentucky,2637,67.7
+
+7863,1999,Cerebrovascular diseases (I60-I69),Stroke,Kentucky,2710,70.4
+
+7864,2016,Cerebrovascular diseases (I60-I69),Stroke,Louisiana,2322,46
+
+7865,2015,Cerebrovascular diseases (I60-I69),Stroke,Louisiana,2280,46
+
+7866,2014,Cerebrovascular diseases (I60-I69),Stroke,Louisiana,2230,45.6
+
+7867,2013,Cerebrovascular diseases (I60-I69),Stroke,Louisiana,2098,44
+
+7868,2012,Cerebrovascular diseases (I60-I69),Stroke,Louisiana,2039,43.9
+
+7869,2011,Cerebrovascular diseases (I60-I69),Stroke,Louisiana,2071,45.7
+
+7870,2010,Cerebrovascular diseases (I60-I69),Stroke,Louisiana,1977,44.9
+
+7871,2009,Cerebrovascular diseases (I60-I69),Stroke,Louisiana,2061,47.4
+
+7872,2008,Cerebrovascular diseases (I60-I69),Stroke,Louisiana,2084,48.6
+
+7873,2007,Cerebrovascular diseases (I60-I69),Stroke,Louisiana,2147,51.3
+
+7874,2006,Cerebrovascular diseases (I60-I69),Stroke,Louisiana,2195,53.9
+
+7875,2005,Cerebrovascular diseases (I60-I69),Stroke,Louisiana,2469,58
+
+7876,2004,Cerebrovascular diseases (I60-I69),Stroke,Louisiana,2489,59.8
+
+7877,2003,Cerebrovascular diseases (I60-I69),Stroke,Louisiana,2526,61.4
+
+7878,2002,Cerebrovascular diseases (I60-I69),Stroke,Louisiana,2595,63.8
+
+7879,2001,Cerebrovascular diseases (I60-I69),Stroke,Louisiana,2638,65.4
+
+7880,2000,Cerebrovascular diseases (I60-I69),Stroke,Louisiana,2533,63.5
+
+7881,1999,Cerebrovascular diseases (I60-I69),Stroke,Louisiana,2684,68.3
+
+7882,2016,Cerebrovascular diseases (I60-I69),Stroke,Maine,663,34.4
+
+7883,2015,Cerebrovascular diseases (I60-I69),Stroke,Maine,616,32.6
+
+7884,2014,Cerebrovascular diseases (I60-I69),Stroke,Maine,628,33.2
+
+7885,2013,Cerebrovascular diseases (I60-I69),Stroke,Maine,620,33.4
+
+7886,2012,Cerebrovascular diseases (I60-I69),Stroke,Maine,619,34.3
+
+7887,2011,Cerebrovascular diseases (I60-I69),Stroke,Maine,630,35.8
+
+7888,2010,Cerebrovascular diseases (I60-I69),Stroke,Maine,602,34.5
+
+7889,2009,Cerebrovascular diseases (I60-I69),Stroke,Maine,647,38
+
+7890,2008,Cerebrovascular diseases (I60-I69),Stroke,Maine,671,40.4
+
+7891,2007,Cerebrovascular diseases (I60-I69),Stroke,Maine,664,40.4
+
+7892,2006,Cerebrovascular diseases (I60-I69),Stroke,Maine,670,41.5
+
+7893,2005,Cerebrovascular diseases (I60-I69),Stroke,Maine,693,43.8
+
+7894,2004,Cerebrovascular diseases (I60-I69),Stroke,Maine,801,51.5
+
+7895,2003,Cerebrovascular diseases (I60-I69),Stroke,Maine,802,52.2
+
+7896,2002,Cerebrovascular diseases (I60-I69),Stroke,Maine,823,54.5
+
+7897,2001,Cerebrovascular diseases (I60-I69),Stroke,Maine,822,55.2
+
+7898,2000,Cerebrovascular diseases (I60-I69),Stroke,Maine,833,57
+
+7899,1999,Cerebrovascular diseases (I60-I69),Stroke,Maine,879,61.2
+
+7900,2016,Cerebrovascular diseases (I60-I69),Stroke,Maryland,2709,39.7
+
+7901,2015,Cerebrovascular diseases (I60-I69),Stroke,Maryland,2540,37.8
+
+7902,2014,Cerebrovascular diseases (I60-I69),Stroke,Maryland,2469,38
+
+7903,2013,Cerebrovascular diseases (I60-I69),Stroke,Maryland,2315,36.1
+
+7904,2012,Cerebrovascular diseases (I60-I69),Stroke,Maryland,2280,36.5
+
+7905,2011,Cerebrovascular diseases (I60-I69),Stroke,Maryland,2306,37.8
+
+7906,2010,Cerebrovascular diseases (I60-I69),Stroke,Maryland,2279,38.8
+
+7907,2009,Cerebrovascular diseases (I60-I69),Stroke,Maryland,2288,39.4
+
+7908,2008,Cerebrovascular diseases (I60-I69),Stroke,Maryland,2330,41.4
+
+7909,2007,Cerebrovascular diseases (I60-I69),Stroke,Maryland,2364,42.9
+
+7910,2006,Cerebrovascular diseases (I60-I69),Stroke,Maryland,2365,43.8
+
+7911,2005,Cerebrovascular diseases (I60-I69),Stroke,Maryland,2476,47.1
+
+7912,2004,Cerebrovascular diseases (I60-I69),Stroke,Maryland,2718,53.2
+
+7913,2003,Cerebrovascular diseases (I60-I69),Stroke,Maryland,2734,54.7
+
+7914,2002,Cerebrovascular diseases (I60-I69),Stroke,Maryland,2811,57.5
+
+7915,2001,Cerebrovascular diseases (I60-I69),Stroke,Maryland,2882,60.2
+
+7916,2000,Cerebrovascular diseases (I60-I69),Stroke,Maryland,2955,63.4
+
+7917,1999,Cerebrovascular diseases (I60-I69),Stroke,Maryland,2892,63.3
+
+7918,2016,Cerebrovascular diseases (I60-I69),Stroke,Massachusetts,2468,27.9
+
+7919,2015,Cerebrovascular diseases (I60-I69),Stroke,Massachusetts,2475,28.4
+
+7920,2014,Cerebrovascular diseases (I60-I69),Stroke,Massachusetts,2460,28.7
+
+7921,2013,Cerebrovascular diseases (I60-I69),Stroke,Massachusetts,2354,27.7
+
+7922,2012,Cerebrovascular diseases (I60-I69),Stroke,Massachusetts,2371,28.3
+
+7923,2011,Cerebrovascular diseases (I60-I69),Stroke,Massachusetts,2466,30.2
+
+7924,2010,Cerebrovascular diseases (I60-I69),Stroke,Massachusetts,2516,31.3
+
+7925,2009,Cerebrovascular diseases (I60-I69),Stroke,Massachusetts,2579,32.5
+
+7926,2008,Cerebrovascular diseases (I60-I69),Stroke,Massachusetts,2747,35.1
+
+7927,2007,Cerebrovascular diseases (I60-I69),Stroke,Massachusetts,2832,36.7
+
+7928,2006,Cerebrovascular diseases (I60-I69),Stroke,Massachusetts,2880,38.1
+
+7929,2005,Cerebrovascular diseases (I60-I69),Stroke,Massachusetts,2977,39.8
+
+7930,2004,Cerebrovascular diseases (I60-I69),Stroke,Massachusetts,3254,44.1
+
+7931,2003,Cerebrovascular diseases (I60-I69),Stroke,Massachusetts,3407,46.5
+
+7932,2002,Cerebrovascular diseases (I60-I69),Stroke,Massachusetts,3559,49.2
+
+7933,2001,Cerebrovascular diseases (I60-I69),Stroke,Massachusetts,3535,49.3
+
+7934,2000,Cerebrovascular diseases (I60-I69),Stroke,Massachusetts,3669,51.5
+
+7935,1999,Cerebrovascular diseases (I60-I69),Stroke,Massachusetts,3548,50.4
+
+7936,2016,Cerebrovascular diseases (I60-I69),Stroke,Michigan,4874,39
+
+7937,2015,Cerebrovascular diseases (I60-I69),Stroke,Michigan,4666,37.6
+
+7938,2014,Cerebrovascular diseases (I60-I69),Stroke,Michigan,4596,37.9
+
+7939,2013,Cerebrovascular diseases (I60-I69),Stroke,Michigan,4373,36.3
+
+7940,2012,Cerebrovascular diseases (I60-I69),Stroke,Michigan,4414,37.3
+
+7941,2011,Cerebrovascular diseases (I60-I69),Stroke,Michigan,4442,38.6
+
+7942,2010,Cerebrovascular diseases (I60-I69),Stroke,Michigan,4474,39.5
+
+7943,2009,Cerebrovascular diseases (I60-I69),Stroke,Michigan,4435,39.8
+
+7944,2008,Cerebrovascular diseases (I60-I69),Stroke,Michigan,4769,43.4
+
+7945,2007,Cerebrovascular diseases (I60-I69),Stroke,Michigan,4798,44.5
+
+7946,2006,Cerebrovascular diseases (I60-I69),Stroke,Michigan,4752,44.9
+
+7947,2005,Cerebrovascular diseases (I60-I69),Stroke,Michigan,5057,48.9
+
+7948,2004,Cerebrovascular diseases (I60-I69),Stroke,Michigan,5290,52
+
+7949,2003,Cerebrovascular diseases (I60-I69),Stroke,Michigan,5470,54.5
+
+7950,2002,Cerebrovascular diseases (I60-I69),Stroke,Michigan,5814,59
+
+7951,2001,Cerebrovascular diseases (I60-I69),Stroke,Michigan,5701,58.8
+
+7952,2000,Cerebrovascular diseases (I60-I69),Stroke,Michigan,5864,61.6
+
+7953,1999,Cerebrovascular diseases (I60-I69),Stroke,Michigan,6041,64.3
+
+7954,2016,Cerebrovascular diseases (I60-I69),Stroke,Minnesota,2197,32.5
+
+7955,2015,Cerebrovascular diseases (I60-I69),Stroke,Minnesota,2238,33.5
+
+7956,2014,Cerebrovascular diseases (I60-I69),Stroke,Minnesota,2202,34
+
+7957,2013,Cerebrovascular diseases (I60-I69),Stroke,Minnesota,2073,32
+
+7958,2012,Cerebrovascular diseases (I60-I69),Stroke,Minnesota,2081,33
+
+7959,2011,Cerebrovascular diseases (I60-I69),Stroke,Minnesota,2154,35
+
+7960,2010,Cerebrovascular diseases (I60-I69),Stroke,Minnesota,2167,36.1
+
+7961,2009,Cerebrovascular diseases (I60-I69),Stroke,Minnesota,2033,34.4
+
+7962,2008,Cerebrovascular diseases (I60-I69),Stroke,Minnesota,2199,37.7
+
+7963,2007,Cerebrovascular diseases (I60-I69),Stroke,Minnesota,2193,38.4
+
+7964,2006,Cerebrovascular diseases (I60-I69),Stroke,Minnesota,2219,39.7
+
+7965,2005,Cerebrovascular diseases (I60-I69),Stroke,Minnesota,2379,43.5
+
+7966,2004,Cerebrovascular diseases (I60-I69),Stroke,Minnesota,2542,47.1
+
+7967,2003,Cerebrovascular diseases (I60-I69),Stroke,Minnesota,2550,47.9
+
+7968,2002,Cerebrovascular diseases (I60-I69),Stroke,Minnesota,2706,51.7
+
+7969,2001,Cerebrovascular diseases (I60-I69),Stroke,Minnesota,2727,52.8
+
+7970,2000,Cerebrovascular diseases (I60-I69),Stroke,Minnesota,2820,55.9
+
+7971,1999,Cerebrovascular diseases (I60-I69),Stroke,Minnesota,2997,59.6
+
+7972,2016,Cerebrovascular diseases (I60-I69),Stroke,Mississippi,1705,50.6
+
+7973,2015,Cerebrovascular diseases (I60-I69),Stroke,Mississippi,1734,52.6
+
+7974,2014,Cerebrovascular diseases (I60-I69),Stroke,Mississippi,1584,48.8
+
+7975,2013,Cerebrovascular diseases (I60-I69),Stroke,Mississippi,1500,47.2
+
+7976,2012,Cerebrovascular diseases (I60-I69),Stroke,Mississippi,1502,48.3
+
+7977,2011,Cerebrovascular diseases (I60-I69),Stroke,Mississippi,1526,50.6
+
+7978,2010,Cerebrovascular diseases (I60-I69),Stroke,Mississippi,1520,51.2
+
+7979,2009,Cerebrovascular diseases (I60-I69),Stroke,Mississippi,1436,48.8
+
+7980,2008,Cerebrovascular diseases (I60-I69),Stroke,Mississippi,1592,54.7
+
+7981,2007,Cerebrovascular diseases (I60-I69),Stroke,Mississippi,1589,55.7
+
+7982,2006,Cerebrovascular diseases (I60-I69),Stroke,Mississippi,1585,56.1
+
+7983,2005,Cerebrovascular diseases (I60-I69),Stroke,Mississippi,1622,58
+
+7984,2004,Cerebrovascular diseases (I60-I69),Stroke,Mississippi,1651,59.9
+
+7985,2003,Cerebrovascular diseases (I60-I69),Stroke,Mississippi,1736,63.6
+
+7986,2002,Cerebrovascular diseases (I60-I69),Stroke,Mississippi,1926,70.9
+
+7987,2001,Cerebrovascular diseases (I60-I69),Stroke,Mississippi,1935,71.5
+
+7988,2000,Cerebrovascular diseases (I60-I69),Stroke,Mississippi,1999,74.1
+
+7989,1999,Cerebrovascular diseases (I60-I69),Stroke,Mississippi,1854,69.2
+
+7990,2016,Cerebrovascular diseases (I60-I69),Stroke,Missouri,3069,40.4
+
+7991,2015,Cerebrovascular diseases (I60-I69),Stroke,Missouri,3037,40.8
+
+7992,2014,Cerebrovascular diseases (I60-I69),Stroke,Missouri,3030,41
+
+7993,2013,Cerebrovascular diseases (I60-I69),Stroke,Missouri,2935,40.6
+
+7994,2012,Cerebrovascular diseases (I60-I69),Stroke,Missouri,2989,42.2
+
+7995,2011,Cerebrovascular diseases (I60-I69),Stroke,Missouri,3033,43.4
+
+7996,2010,Cerebrovascular diseases (I60-I69),Stroke,Missouri,3001,44
+
+7997,2009,Cerebrovascular diseases (I60-I69),Stroke,Missouri,3017,44.9
+
+7998,2008,Cerebrovascular diseases (I60-I69),Stroke,Missouri,3261,49.2
+
+7999,2007,Cerebrovascular diseases (I60-I69),Stroke,Missouri,3229,49.4
+
+8000,2006,Cerebrovascular diseases (I60-I69),Stroke,Missouri,3247,50.5
+
+8001,2005,Cerebrovascular diseases (I60-I69),Stroke,Missouri,3347,52.9
+
+8002,2004,Cerebrovascular diseases (I60-I69),Stroke,Missouri,3503,56.1
+
+8003,2003,Cerebrovascular diseases (I60-I69),Stroke,Missouri,3580,57.7
+
+8004,2002,Cerebrovascular diseases (I60-I69),Stroke,Missouri,3885,63.1
+
+8005,2001,Cerebrovascular diseases (I60-I69),Stroke,Missouri,3796,62
+
+8006,2000,Cerebrovascular diseases (I60-I69),Stroke,Missouri,3940,65.1
+
+8007,1999,Cerebrovascular diseases (I60-I69),Stroke,Missouri,3950,65.6
+
+8008,2016,Cerebrovascular diseases (I60-I69),Stroke,Montana,440,32.5
+
+8009,2015,Cerebrovascular diseases (I60-I69),Stroke,Montana,458,33.8
+
+8010,2014,Cerebrovascular diseases (I60-I69),Stroke,Montana,480,36.4
+
+8011,2013,Cerebrovascular diseases (I60-I69),Stroke,Montana,480,37.6
+
+8012,2012,Cerebrovascular diseases (I60-I69),Stroke,Montana,415,33.1
+
+8013,2011,Cerebrovascular diseases (I60-I69),Stroke,Montana,460,37.9
+
+8014,2010,Cerebrovascular diseases (I60-I69),Stroke,Montana,494,41.8
+
+8015,2009,Cerebrovascular diseases (I60-I69),Stroke,Montana,462,39.5
+
+8016,2008,Cerebrovascular diseases (I60-I69),Stroke,Montana,466,40.3
+
+8017,2007,Cerebrovascular diseases (I60-I69),Stroke,Montana,443,39
+
+8018,2006,Cerebrovascular diseases (I60-I69),Stroke,Montana,461,41.7
+
+8019,2005,Cerebrovascular diseases (I60-I69),Stroke,Montana,522,48.6
+
+8020,2004,Cerebrovascular diseases (I60-I69),Stroke,Montana,484,46.1
+
+8021,2003,Cerebrovascular diseases (I60-I69),Stroke,Montana,576,56.1
+
+8022,2002,Cerebrovascular diseases (I60-I69),Stroke,Montana,639,63
+
+8023,2001,Cerebrovascular diseases (I60-I69),Stroke,Montana,578,58.1
+
+8024,2000,Cerebrovascular diseases (I60-I69),Stroke,Montana,583,60.1
+
+8025,1999,Cerebrovascular diseases (I60-I69),Stroke,Montana,595,62.2
+
+8026,2016,Cerebrovascular diseases (I60-I69),Stroke,Nebraska,787,33.2
+
+8027,2015,Cerebrovascular diseases (I60-I69),Stroke,Nebraska,776,33.4
+
+8028,2014,Cerebrovascular diseases (I60-I69),Stroke,Nebraska,798,34.7
+
+8029,2013,Cerebrovascular diseases (I60-I69),Stroke,Nebraska,820,36.4
+
+8030,2012,Cerebrovascular diseases (I60-I69),Stroke,Nebraska,776,34.8
+
+8031,2011,Cerebrovascular diseases (I60-I69),Stroke,Nebraska,810,36.9
+
+8032,2010,Cerebrovascular diseases (I60-I69),Stroke,Nebraska,876,40.5
+
+8033,2009,Cerebrovascular diseases (I60-I69),Stroke,Nebraska,857,40.1
+
+8034,2008,Cerebrovascular diseases (I60-I69),Stroke,Nebraska,863,41
+
+8035,2007,Cerebrovascular diseases (I60-I69),Stroke,Nebraska,921,43.8
+
+8036,2006,Cerebrovascular diseases (I60-I69),Stroke,Nebraska,922,44.7
+
+8037,2005,Cerebrovascular diseases (I60-I69),Stroke,Nebraska,986,48.4
+
+8038,2004,Cerebrovascular diseases (I60-I69),Stroke,Nebraska,978,48.5
+
+8039,2003,Cerebrovascular diseases (I60-I69),Stroke,Nebraska,1094,54.7
+
+8040,2002,Cerebrovascular diseases (I60-I69),Stroke,Nebraska,1103,55.2
+
+8041,2001,Cerebrovascular diseases (I60-I69),Stroke,Nebraska,1130,57.5
+
+8042,2000,Cerebrovascular diseases (I60-I69),Stroke,Nebraska,1091,55.8
+
+8043,1999,Cerebrovascular diseases (I60-I69),Stroke,Nebraska,1176,60.2
+
+8044,2016,Cerebrovascular diseases (I60-I69),Stroke,Nevada,1096,35.9
+
+8045,2015,Cerebrovascular diseases (I60-I69),Stroke,Nevada,1078,37
+
+8046,2014,Cerebrovascular diseases (I60-I69),Stroke,Nevada,948,33.8
+
+8047,2013,Cerebrovascular diseases (I60-I69),Stroke,Nevada,905,33.3
+
+8048,2012,Cerebrovascular diseases (I60-I69),Stroke,Nevada,897,34.3
+
+8049,2011,Cerebrovascular diseases (I60-I69),Stroke,Nevada,889,36
+
+8050,2010,Cerebrovascular diseases (I60-I69),Stroke,Nevada,796,33.3
+
+8051,2009,Cerebrovascular diseases (I60-I69),Stroke,Nevada,859,36.9
+
+8052,2008,Cerebrovascular diseases (I60-I69),Stroke,Nevada,906,40.8
+
+8053,2007,Cerebrovascular diseases (I60-I69),Stroke,Nevada,850,39.8
+
+8054,2006,Cerebrovascular diseases (I60-I69),Stroke,Nevada,847,41.3
+
+8055,2005,Cerebrovascular diseases (I60-I69),Stroke,Nevada,945,48.2
+
+8056,2004,Cerebrovascular diseases (I60-I69),Stroke,Nevada,1030,54.6
+
+8057,2003,Cerebrovascular diseases (I60-I69),Stroke,Nevada,1028,57.8
+
+8058,2002,Cerebrovascular diseases (I60-I69),Stroke,Nevada,976,57.7
+
+8059,2001,Cerebrovascular diseases (I60-I69),Stroke,Nevada,913,55.4
+
+8060,2000,Cerebrovascular diseases (I60-I69),Stroke,Nevada,872,56.5
+
+8061,1999,Cerebrovascular diseases (I60-I69),Stroke,Nevada,882,59.4
+
+8062,2016,Cerebrovascular diseases (I60-I69),Stroke,New Hampshire,490,28
+
+8063,2015,Cerebrovascular diseases (I60-I69),Stroke,New Hampshire,457,26.9
+
+8064,2014,Cerebrovascular diseases (I60-I69),Stroke,New Hampshire,474,28.9
+
+8065,2013,Cerebrovascular diseases (I60-I69),Stroke,New Hampshire,441,27.6
+
+8066,2012,Cerebrovascular diseases (I60-I69),Stroke,New Hampshire,457,29.3
+
+8067,2011,Cerebrovascular diseases (I60-I69),Stroke,New Hampshire,490,32.3
+
+8068,2010,Cerebrovascular diseases (I60-I69),Stroke,New Hampshire,500,33.5
+
+8069,2009,Cerebrovascular diseases (I60-I69),Stroke,New Hampshire,499,34.1
+
+8070,2008,Cerebrovascular diseases (I60-I69),Stroke,New Hampshire,484,33.9
+
+8071,2007,Cerebrovascular diseases (I60-I69),Stroke,New Hampshire,489,34.8
+
+8072,2006,Cerebrovascular diseases (I60-I69),Stroke,New Hampshire,494,36.1
+
+8073,2005,Cerebrovascular diseases (I60-I69),Stroke,New Hampshire,497,37.7
+
+8074,2004,Cerebrovascular diseases (I60-I69),Stroke,New Hampshire,586,45.6
+
+8075,2003,Cerebrovascular diseases (I60-I69),Stroke,New Hampshire,536,43
+
+8076,2002,Cerebrovascular diseases (I60-I69),Stroke,New Hampshire,627,51.3
+
+8077,2001,Cerebrovascular diseases (I60-I69),Stroke,New Hampshire,633,52.9
+
+8078,2000,Cerebrovascular diseases (I60-I69),Stroke,New Hampshire,662,56.4
+
+8079,1999,Cerebrovascular diseases (I60-I69),Stroke,New Hampshire,669,57.9
+
+8080,2016,Cerebrovascular diseases (I60-I69),Stroke,New Jersey,3401,30.4
+
+8081,2015,Cerebrovascular diseases (I60-I69),Stroke,New Jersey,3413,31.1
+
+8082,2014,Cerebrovascular diseases (I60-I69),Stroke,New Jersey,3419,31.4
+
+8083,2013,Cerebrovascular diseases (I60-I69),Stroke,New Jersey,3456,32.4
+
+8084,2012,Cerebrovascular diseases (I60-I69),Stroke,New Jersey,3440,32.7
+
+8085,2011,Cerebrovascular diseases (I60-I69),Stroke,New Jersey,3418,32.9
+
+8086,2010,Cerebrovascular diseases (I60-I69),Stroke,New Jersey,3402,33.4
+
+8087,2009,Cerebrovascular diseases (I60-I69),Stroke,New Jersey,3265,32.6
+
+8088,2008,Cerebrovascular diseases (I60-I69),Stroke,New Jersey,3264,33.1
+
+8089,2007,Cerebrovascular diseases (I60-I69),Stroke,New Jersey,3492,36
+
+8090,2006,Cerebrovascular diseases (I60-I69),Stroke,New Jersey,3468,36.3
+
+8091,2005,Cerebrovascular diseases (I60-I69),Stroke,New Jersey,3614,38.5
+
+8092,2004,Cerebrovascular diseases (I60-I69),Stroke,New Jersey,3781,40.8
+
+8093,2003,Cerebrovascular diseases (I60-I69),Stroke,New Jersey,3966,43.1
+
+8094,2002,Cerebrovascular diseases (I60-I69),Stroke,New Jersey,4016,44.3
+
+8095,2001,Cerebrovascular diseases (I60-I69),Stroke,New Jersey,4007,44.8
+
+8096,2000,Cerebrovascular diseases (I60-I69),Stroke,New Jersey,4316,49
+
+8097,1999,Cerebrovascular diseases (I60-I69),Stroke,New Jersey,4122,47.5
+
+8098,2016,Cerebrovascular diseases (I60-I69),Stroke,New Mexico,885,35.5
+
+8099,2015,Cerebrovascular diseases (I60-I69),Stroke,New Mexico,786,32.5
+
+8100,2014,Cerebrovascular diseases (I60-I69),Stroke,New Mexico,822,34.7
+
+8101,2013,Cerebrovascular diseases (I60-I69),Stroke,New Mexico,689,30
+
+8102,2012,Cerebrovascular diseases (I60-I69),Stroke,New Mexico,677,30.3
+
+8103,2011,Cerebrovascular diseases (I60-I69),Stroke,New Mexico,727,33.5
+
+8104,2010,Cerebrovascular diseases (I60-I69),Stroke,New Mexico,806,38.4
+
+8105,2009,Cerebrovascular diseases (I60-I69),Stroke,New Mexico,726,35.2
+
+8106,2008,Cerebrovascular diseases (I60-I69),Stroke,New Mexico,760,38.3
+
+8107,2007,Cerebrovascular diseases (I60-I69),Stroke,New Mexico,804,41.3
+
+8108,2006,Cerebrovascular diseases (I60-I69),Stroke,New Mexico,739,39.3
+
+8109,2005,Cerebrovascular diseases (I60-I69),Stroke,New Mexico,730,40.1
+
+8110,2004,Cerebrovascular diseases (I60-I69),Stroke,New Mexico,721,41.1
+
+8111,2003,Cerebrovascular diseases (I60-I69),Stroke,New Mexico,770,44.6
+
+8112,2002,Cerebrovascular diseases (I60-I69),Stroke,New Mexico,715,42.2
+
+8113,2001,Cerebrovascular diseases (I60-I69),Stroke,New Mexico,824,50.1
+
+8114,2000,Cerebrovascular diseases (I60-I69),Stroke,New Mexico,813,50.6
+
+8115,1999,Cerebrovascular diseases (I60-I69),Stroke,New Mexico,817,52.5
+
+8116,2016,Cerebrovascular diseases (I60-I69),Stroke,New York,6258,25.5
+
+8117,2015,Cerebrovascular diseases (I60-I69),Stroke,New York,6292,26
+
+8118,2014,Cerebrovascular diseases (I60-I69),Stroke,New York,6212,26.1
+
+8119,2013,Cerebrovascular diseases (I60-I69),Stroke,New York,6176,26.3
+
+8120,2012,Cerebrovascular diseases (I60-I69),Stroke,New York,6139,26.6
+
+8121,2011,Cerebrovascular diseases (I60-I69),Stroke,New York,6254,27.6
+
+8122,2010,Cerebrovascular diseases (I60-I69),Stroke,New York,6213,27.9
+
+8123,2009,Cerebrovascular diseases (I60-I69),Stroke,New York,5950,27
+
+8124,2008,Cerebrovascular diseases (I60-I69),Stroke,New York,6123,28.2
+
+8125,2007,Cerebrovascular diseases (I60-I69),Stroke,New York,6160,28.8
+
+8126,2006,Cerebrovascular diseases (I60-I69),Stroke,New York,6398,30.4
+
+8127,2005,Cerebrovascular diseases (I60-I69),Stroke,New York,6622,31.7
+
+8128,2004,Cerebrovascular diseases (I60-I69),Stroke,New York,6927,33.7
+
+8129,2003,Cerebrovascular diseases (I60-I69),Stroke,New York,7281,35.7
+
+8130,2002,Cerebrovascular diseases (I60-I69),Stroke,New York,7625,37.9
+
+8131,2001,Cerebrovascular diseases (I60-I69),Stroke,New York,7706,38.8
+
+8132,2000,Cerebrovascular diseases (I60-I69),Stroke,New York,8006,40.9
+
+8133,1999,Cerebrovascular diseases (I60-I69),Stroke,New York,8124,42.2
+
+8134,2016,Cerebrovascular diseases (I60-I69),Stroke,North Carolina,4940,43
+
+8135,2015,Cerebrovascular diseases (I60-I69),Stroke,North Carolina,5033,44.7
+
+8136,2014,Cerebrovascular diseases (I60-I69),Stroke,North Carolina,4702,43
+
+8137,2013,Cerebrovascular diseases (I60-I69),Stroke,North Carolina,4503,42.4
+
+8138,2012,Cerebrovascular diseases (I60-I69),Stroke,North Carolina,4410,42.8
+
+8139,2011,Cerebrovascular diseases (I60-I69),Stroke,North Carolina,4299,43.2
+
+8140,2010,Cerebrovascular diseases (I60-I69),Stroke,North Carolina,4298,44.7
+
+8141,2009,Cerebrovascular diseases (I60-I69),Stroke,North Carolina,4442,47.2
+
+8142,2008,Cerebrovascular diseases (I60-I69),Stroke,North Carolina,4637,50.8
+
+8143,2007,Cerebrovascular diseases (I60-I69),Stroke,North Carolina,4530,51.1
+
+8144,2006,Cerebrovascular diseases (I60-I69),Stroke,North Carolina,4572,53.2
+
+8145,2005,Cerebrovascular diseases (I60-I69),Stroke,North Carolina,4861,59
+
+8146,2004,Cerebrovascular diseases (I60-I69),Stroke,North Carolina,4955,61.7
+
+8147,2003,Cerebrovascular diseases (I60-I69),Stroke,North Carolina,5203,66.4
+
+8148,2002,Cerebrovascular diseases (I60-I69),Stroke,North Carolina,5259,68.8
+
+8149,2001,Cerebrovascular diseases (I60-I69),Stroke,North Carolina,5401,72.1
+
+8150,2000,Cerebrovascular diseases (I60-I69),Stroke,North Carolina,5749,78.5
+
+8151,1999,Cerebrovascular diseases (I60-I69),Stroke,North Carolina,5626,77.9
+
+8152,2016,Cerebrovascular diseases (I60-I69),Stroke,North Dakota,311,32.7
+
+8153,2015,Cerebrovascular diseases (I60-I69),Stroke,North Dakota,308,33.4
+
+8154,2014,Cerebrovascular diseases (I60-I69),Stroke,North Dakota,325,35.5
+
+8155,2013,Cerebrovascular diseases (I60-I69),Stroke,North Dakota,306,32.4
+
+8156,2012,Cerebrovascular diseases (I60-I69),Stroke,North Dakota,343,37.3
+
+8157,2011,Cerebrovascular diseases (I60-I69),Stroke,North Dakota,337,37.2
+
+8158,2010,Cerebrovascular diseases (I60-I69),Stroke,North Dakota,382,42.9
+
+8159,2009,Cerebrovascular diseases (I60-I69),Stroke,North Dakota,337,38.2
+
+8160,2008,Cerebrovascular diseases (I60-I69),Stroke,North Dakota,325,37.2
+
+8161,2007,Cerebrovascular diseases (I60-I69),Stroke,North Dakota,330,37.9
+
+8162,2006,Cerebrovascular diseases (I60-I69),Stroke,North Dakota,428,49.6
+
+8163,2005,Cerebrovascular diseases (I60-I69),Stroke,North Dakota,368,43
+
+8164,2004,Cerebrovascular diseases (I60-I69),Stroke,North Dakota,475,55.4
+
+8165,2003,Cerebrovascular diseases (I60-I69),Stroke,North Dakota,476,56.7
+
+8166,2002,Cerebrovascular diseases (I60-I69),Stroke,North Dakota,469,55.4
+
+8167,2001,Cerebrovascular diseases (I60-I69),Stroke,North Dakota,507,60.8
+
+8168,2000,Cerebrovascular diseases (I60-I69),Stroke,North Dakota,456,55.6
+
+8169,1999,Cerebrovascular diseases (I60-I69),Stroke,North Dakota,513,63
+
+8170,2016,Cerebrovascular diseases (I60-I69),Stroke,Ohio,5987,40.6
+
+8171,2015,Cerebrovascular diseases (I60-I69),Stroke,Ohio,5945,40.7
+
+8172,2014,Cerebrovascular diseases (I60-I69),Stroke,Ohio,5791,40
+
+8173,2013,Cerebrovascular diseases (I60-I69),Stroke,Ohio,5690,39.9
+
+8174,2012,Cerebrovascular diseases (I60-I69),Stroke,Ohio,5788,41.2
+
+8175,2011,Cerebrovascular diseases (I60-I69),Stroke,Ohio,5691,41.3
+
+8176,2010,Cerebrovascular diseases (I60-I69),Stroke,Ohio,5755,42.6
+
+8177,2009,Cerebrovascular diseases (I60-I69),Stroke,Ohio,5576,41.8
+
+8178,2008,Cerebrovascular diseases (I60-I69),Stroke,Ohio,5951,45.2
+
+8179,2007,Cerebrovascular diseases (I60-I69),Stroke,Ohio,5905,45.5
+
+8180,2006,Cerebrovascular diseases (I60-I69),Stroke,Ohio,5828,45.7
+
+8181,2005,Cerebrovascular diseases (I60-I69),Stroke,Ohio,6279,50.2
+
+8182,2004,Cerebrovascular diseases (I60-I69),Stroke,Ohio,6501,52.8
+
+8183,2003,Cerebrovascular diseases (I60-I69),Stroke,Ohio,6910,56.6
+
+8184,2002,Cerebrovascular diseases (I60-I69),Stroke,Ohio,7252,60.3
+
+8185,2001,Cerebrovascular diseases (I60-I69),Stroke,Ohio,6891,58.1
+
+8186,2000,Cerebrovascular diseases (I60-I69),Stroke,Ohio,7175,61.2
+
+8187,1999,Cerebrovascular diseases (I60-I69),Stroke,Ohio,7235,62.3
+
+8188,2016,Cerebrovascular diseases (I60-I69),Stroke,Oklahoma,1859,41.8
+
+8189,2015,Cerebrovascular diseases (I60-I69),Stroke,Oklahoma,1881,43
+
+8190,2014,Cerebrovascular diseases (I60-I69),Stroke,Oklahoma,1847,43
+
+8191,2013,Cerebrovascular diseases (I60-I69),Stroke,Oklahoma,1880,44.5
+
+8192,2012,Cerebrovascular diseases (I60-I69),Stroke,Oklahoma,1893,45.7
+
+8193,2011,Cerebrovascular diseases (I60-I69),Stroke,Oklahoma,1864,45.8
+
+8194,2010,Cerebrovascular diseases (I60-I69),Stroke,Oklahoma,1980,50
+
+8195,2009,Cerebrovascular diseases (I60-I69),Stroke,Oklahoma,1961,50.1
+
+8196,2008,Cerebrovascular diseases (I60-I69),Stroke,Oklahoma,2079,54
+
+8197,2007,Cerebrovascular diseases (I60-I69),Stroke,Oklahoma,2126,56.2
+
+8198,2006,Cerebrovascular diseases (I60-I69),Stroke,Oklahoma,2085,55.7
+
+8199,2005,Cerebrovascular diseases (I60-I69),Stroke,Oklahoma,2235,60.9
+
+8200,2004,Cerebrovascular diseases (I60-I69),Stroke,Oklahoma,2183,60.3
+
+8201,2003,Cerebrovascular diseases (I60-I69),Stroke,Oklahoma,2485,68.9
+
+8202,2002,Cerebrovascular diseases (I60-I69),Stroke,Oklahoma,2427,67.5
+
+8203,2001,Cerebrovascular diseases (I60-I69),Stroke,Oklahoma,2384,66.4
+
+8204,2000,Cerebrovascular diseases (I60-I69),Stroke,Oklahoma,2493,69.5
+
+8205,1999,Cerebrovascular diseases (I60-I69),Stroke,Oklahoma,2481,69.6
+
+8206,2016,Cerebrovascular diseases (I60-I69),Stroke,Oregon,1943,37.8
+
+8207,2015,Cerebrovascular diseases (I60-I69),Stroke,Oregon,1873,37.5
+
+8208,2014,Cerebrovascular diseases (I60-I69),Stroke,Oregon,1821,37.4
+
+8209,2013,Cerebrovascular diseases (I60-I69),Stroke,Oregon,1775,37.3
+
+8210,2012,Cerebrovascular diseases (I60-I69),Stroke,Oregon,1763,37.5
+
+8211,2011,Cerebrovascular diseases (I60-I69),Stroke,Oregon,1913,41.6
+
+8212,2010,Cerebrovascular diseases (I60-I69),Stroke,Oregon,1793,40.1
+
+8213,2009,Cerebrovascular diseases (I60-I69),Stroke,Oregon,1912,43.5
+
+8214,2008,Cerebrovascular diseases (I60-I69),Stroke,Oregon,1899,44.1
+
+8215,2007,Cerebrovascular diseases (I60-I69),Stroke,Oregon,1835,43.7
+
+8216,2006,Cerebrovascular diseases (I60-I69),Stroke,Oregon,1978,48.2
+
+8217,2005,Cerebrovascular diseases (I60-I69),Stroke,Oregon,2289,57.2
+
+8218,2004,Cerebrovascular diseases (I60-I69),Stroke,Oregon,2328,59.5
+
+8219,2003,Cerebrovascular diseases (I60-I69),Stroke,Oregon,2554,66.7
+
+8220,2002,Cerebrovascular diseases (I60-I69),Stroke,Oregon,2645,70.4
+
+8221,2001,Cerebrovascular diseases (I60-I69),Stroke,Oregon,2588,70.2
+
+8222,2000,Cerebrovascular diseases (I60-I69),Stroke,Oregon,2585,71.6
+
+8223,1999,Cerebrovascular diseases (I60-I69),Stroke,Oregon,2799,78.6
+
+8224,2016,Cerebrovascular diseases (I60-I69),Stroke,Pennsylvania,6730,37
+
+8225,2015,Cerebrovascular diseases (I60-I69),Stroke,Pennsylvania,6987,38.8
+
+8226,2014,Cerebrovascular diseases (I60-I69),Stroke,Pennsylvania,6576,36.7
+
+8227,2013,Cerebrovascular diseases (I60-I69),Stroke,Pennsylvania,6604,37.2
+
+8228,2012,Cerebrovascular diseases (I60-I69),Stroke,Pennsylvania,6546,37.4
+
+8229,2011,Cerebrovascular diseases (I60-I69),Stroke,Pennsylvania,6825,39.6
+
+8230,2010,Cerebrovascular diseases (I60-I69),Stroke,Pennsylvania,6701,39.3
+
+8231,2009,Cerebrovascular diseases (I60-I69),Stroke,Pennsylvania,6842,40.7
+
+8232,2008,Cerebrovascular diseases (I60-I69),Stroke,Pennsylvania,6942,41.9
+
+8233,2007,Cerebrovascular diseases (I60-I69),Stroke,Pennsylvania,7152,43.4
+
+8234,2006,Cerebrovascular diseases (I60-I69),Stroke,Pennsylvania,7151,44.2
+
+8235,2005,Cerebrovascular diseases (I60-I69),Stroke,Pennsylvania,7650,48
+
+8236,2004,Cerebrovascular diseases (I60-I69),Stroke,Pennsylvania,7792,49.6
+
+8237,2003,Cerebrovascular diseases (I60-I69),Stroke,Pennsylvania,8261,52.8
+
+8238,2002,Cerebrovascular diseases (I60-I69),Stroke,Pennsylvania,8579,55.6
+
+8239,2001,Cerebrovascular diseases (I60-I69),Stroke,Pennsylvania,8619,56.4
+
+8240,2000,Cerebrovascular diseases (I60-I69),Stroke,Pennsylvania,8919,59
+
+8241,1999,Cerebrovascular diseases (I60-I69),Stroke,Pennsylvania,8600,57.5
+
+8242,2016,Cerebrovascular diseases (I60-I69),Stroke,Rhode Island,399,26.8
+
+8243,2015,Cerebrovascular diseases (I60-I69),Stroke,Rhode Island,394,27.1
+
+8244,2014,Cerebrovascular diseases (I60-I69),Stroke,Rhode Island,373,25.6
+
+8245,2013,Cerebrovascular diseases (I60-I69),Stroke,Rhode Island,397,27.7
+
+8246,2012,Cerebrovascular diseases (I60-I69),Stroke,Rhode Island,433,30.6
+
+8247,2011,Cerebrovascular diseases (I60-I69),Stroke,Rhode Island,404,29.4
+
+8248,2010,Cerebrovascular diseases (I60-I69),Stroke,Rhode Island,431,31.4
+
+8249,2009,Cerebrovascular diseases (I60-I69),Stroke,Rhode Island,429,31.4
+
+8250,2008,Cerebrovascular diseases (I60-I69),Stroke,Rhode Island,462,34.1
+
+8251,2007,Cerebrovascular diseases (I60-I69),Stroke,Rhode Island,457,33.4
+
+8252,2006,Cerebrovascular diseases (I60-I69),Stroke,Rhode Island,421,31.2
+
+8253,2005,Cerebrovascular diseases (I60-I69),Stroke,Rhode Island,533,39.9
+
+8254,2004,Cerebrovascular diseases (I60-I69),Stroke,Rhode Island,522,39.8
+
+8255,2003,Cerebrovascular diseases (I60-I69),Stroke,Rhode Island,565,42.9
+
+8256,2002,Cerebrovascular diseases (I60-I69),Stroke,Rhode Island,605,46.7
+
+8257,2001,Cerebrovascular diseases (I60-I69),Stroke,Rhode Island,614,48.2
+
+8258,2000,Cerebrovascular diseases (I60-I69),Stroke,Rhode Island,577,45.6
+
+8259,1999,Cerebrovascular diseases (I60-I69),Stroke,Rhode Island,633,50.4
+
+8260,2016,Cerebrovascular diseases (I60-I69),Stroke,South Carolina,2627,45.5
+
+8261,2015,Cerebrovascular diseases (I60-I69),Stroke,South Carolina,2600,46.7
+
+8262,2014,Cerebrovascular diseases (I60-I69),Stroke,South Carolina,2393,44.2
+
+8263,2013,Cerebrovascular diseases (I60-I69),Stroke,South Carolina,2508,47.6
+
+8264,2012,Cerebrovascular diseases (I60-I69),Stroke,South Carolina,2349,45.9
+
+8265,2011,Cerebrovascular diseases (I60-I69),Stroke,South Carolina,2287,46.3
+
+8266,2010,Cerebrovascular diseases (I60-I69),Stroke,South Carolina,2293,47.9
+
+8267,2009,Cerebrovascular diseases (I60-I69),Stroke,South Carolina,2400,51.3
+
+8268,2008,Cerebrovascular diseases (I60-I69),Stroke,South Carolina,2394,52.6
+
+8269,2007,Cerebrovascular diseases (I60-I69),Stroke,South Carolina,2466,55.8
+
+8270,2006,Cerebrovascular diseases (I60-I69),Stroke,South Carolina,2291,53.8
+
+8271,2005,Cerebrovascular diseases (I60-I69),Stroke,South Carolina,2458,60.2
+
+8272,2004,Cerebrovascular diseases (I60-I69),Stroke,South Carolina,2643,66.5
+
+8273,2003,Cerebrovascular diseases (I60-I69),Stroke,South Carolina,2748,71.2
+
+8274,2002,Cerebrovascular diseases (I60-I69),Stroke,South Carolina,2822,74.4
+
+8275,2001,Cerebrovascular diseases (I60-I69),Stroke,South Carolina,2832,76.2
+
+8276,2000,Cerebrovascular diseases (I60-I69),Stroke,South Carolina,2956,81.4
+
+8277,1999,Cerebrovascular diseases (I60-I69),Stroke,South Carolina,2974,83.4
+
+8278,2016,Cerebrovascular diseases (I60-I69),Stroke,South Dakota,420,35.8
+
+8279,2015,Cerebrovascular diseases (I60-I69),Stroke,South Dakota,383,33.2
+
+8280,2014,Cerebrovascular diseases (I60-I69),Stroke,South Dakota,439,38.8
+
+8281,2013,Cerebrovascular diseases (I60-I69),Stroke,South Dakota,418,38
+
+8282,2012,Cerebrovascular diseases (I60-I69),Stroke,South Dakota,408,37.4
+
+8283,2011,Cerebrovascular diseases (I60-I69),Stroke,South Dakota,444,42.3
+
+8284,2010,Cerebrovascular diseases (I60-I69),Stroke,South Dakota,416,39.9
+
+8285,2009,Cerebrovascular diseases (I60-I69),Stroke,South Dakota,418,40.2
+
+8286,2008,Cerebrovascular diseases (I60-I69),Stroke,South Dakota,396,39.1
+
+8287,2007,Cerebrovascular diseases (I60-I69),Stroke,South Dakota,410,40.2
+
+8288,2006,Cerebrovascular diseases (I60-I69),Stroke,South Dakota,442,44
+
+8289,2005,Cerebrovascular diseases (I60-I69),Stroke,South Dakota,511,52.7
+
+8290,2004,Cerebrovascular diseases (I60-I69),Stroke,South Dakota,469,48.7
+
+8291,2003,Cerebrovascular diseases (I60-I69),Stroke,South Dakota,476,50.4
+
+8292,2002,Cerebrovascular diseases (I60-I69),Stroke,South Dakota,518,54.9
+
+8293,2001,Cerebrovascular diseases (I60-I69),Stroke,South Dakota,490,52.9
+
+8294,2000,Cerebrovascular diseases (I60-I69),Stroke,South Dakota,560,61.6
+
+8295,1999,Cerebrovascular diseases (I60-I69),Stroke,South Dakota,547,60
+
+8296,2016,Cerebrovascular diseases (I60-I69),Stroke,Tennessee,3508,46
+
+8297,2015,Cerebrovascular diseases (I60-I69),Stroke,Tennessee,3447,46
+
+8298,2014,Cerebrovascular diseases (I60-I69),Stroke,Tennessee,3326,45.8
+
+8299,2013,Cerebrovascular diseases (I60-I69),Stroke,Tennessee,3157,44.4
+
+8300,2012,Cerebrovascular diseases (I60-I69),Stroke,Tennessee,3120,44.9
+
+8301,2011,Cerebrovascular diseases (I60-I69),Stroke,Tennessee,3218,47.5
+
+8302,2010,Cerebrovascular diseases (I60-I69),Stroke,Tennessee,3205,48.7
+
+8303,2009,Cerebrovascular diseases (I60-I69),Stroke,Tennessee,3156,48.7
+
+8304,2008,Cerebrovascular diseases (I60-I69),Stroke,Tennessee,3356,53.1
+
+8305,2007,Cerebrovascular diseases (I60-I69),Stroke,Tennessee,3450,55.9
+
+8306,2006,Cerebrovascular diseases (I60-I69),Stroke,Tennessee,3407,56.4
+
+8307,2005,Cerebrovascular diseases (I60-I69),Stroke,Tennessee,3659,62.7
+
+8308,2004,Cerebrovascular diseases (I60-I69),Stroke,Tennessee,3680,64.6
+
+8309,2003,Cerebrovascular diseases (I60-I69),Stroke,Tennessee,3883,69.2
+
+8310,2002,Cerebrovascular diseases (I60-I69),Stroke,Tennessee,3980,71.6
+
+8311,2001,Cerebrovascular diseases (I60-I69),Stroke,Tennessee,4037,73.1
+
+8312,2000,Cerebrovascular diseases (I60-I69),Stroke,Tennessee,4266,78.5
+
+8313,1999,Cerebrovascular diseases (I60-I69),Stroke,Tennessee,4103,76.3
+
+8314,2016,Cerebrovascular diseases (I60-I69),Stroke,Texas,10673,42
+
+8315,2015,Cerebrovascular diseases (I60-I69),Stroke,Texas,10485,42.7
+
+8316,2014,Cerebrovascular diseases (I60-I69),Stroke,Texas,9898,41.6
+
+8317,2013,Cerebrovascular diseases (I60-I69),Stroke,Texas,9283,40.2
+
+8318,2012,Cerebrovascular diseases (I60-I69),Stroke,Texas,9305,41.8
+
+8319,2011,Cerebrovascular diseases (I60-I69),Stroke,Texas,9065,41.9
+
+8320,2010,Cerebrovascular diseases (I60-I69),Stroke,Texas,9180,44.4
+
+8321,2009,Cerebrovascular diseases (I60-I69),Stroke,Texas,9137,45.2
+
+8322,2008,Cerebrovascular diseases (I60-I69),Stroke,Texas,9629,49.2
+
+8323,2007,Cerebrovascular diseases (I60-I69),Stroke,Texas,9796,51.5
+
+8324,2006,Cerebrovascular diseases (I60-I69),Stroke,Texas,9366,50.4
+
+8325,2005,Cerebrovascular diseases (I60-I69),Stroke,Texas,9366,52.4
+
+8326,2004,Cerebrovascular diseases (I60-I69),Stroke,Texas,9853,56.9
+
+8327,2003,Cerebrovascular diseases (I60-I69),Stroke,Texas,10303,60.8
+
+8328,2002,Cerebrovascular diseases (I60-I69),Stroke,Texas,10548,63.6
+
+8329,2001,Cerebrovascular diseases (I60-I69),Stroke,Texas,10612,65
+
+8330,2000,Cerebrovascular diseases (I60-I69),Stroke,Texas,10684,66.5
+
+8331,1999,Cerebrovascular diseases (I60-I69),Stroke,Texas,10414,65.9
+
+8332,2016,Cerebrovascular diseases (I60-I69),Stroke,United States,142142,37.3
+
+8333,2015,Cerebrovascular diseases (I60-I69),Stroke,United States,140323,37.6
+
+8334,2014,Cerebrovascular diseases (I60-I69),Stroke,United States,133103,36.5
+
+8335,2013,Cerebrovascular diseases (I60-I69),Stroke,United States,128978,36.2
+
+8336,2012,Cerebrovascular diseases (I60-I69),Stroke,United States,128546,36.9
+
+8337,2011,Cerebrovascular diseases (I60-I69),Stroke,United States,128932,37.9
+
+8338,2010,Cerebrovascular diseases (I60-I69),Stroke,United States,129476,39.1
+
+8339,2009,Cerebrovascular diseases (I60-I69),Stroke,United States,128842,39.6
+
+8340,2008,Cerebrovascular diseases (I60-I69),Stroke,United States,134148,42.1
+
+8341,2007,Cerebrovascular diseases (I60-I69),Stroke,United States,135952,43.5
+
+8342,2006,Cerebrovascular diseases (I60-I69),Stroke,United States,137119,44.8
+
+8343,2005,Cerebrovascular diseases (I60-I69),Stroke,United States,143579,48
+
+8344,2004,Cerebrovascular diseases (I60-I69),Stroke,United States,150074,51.2
+
+8345,2003,Cerebrovascular diseases (I60-I69),Stroke,United States,157689,54.6
+
+8346,2002,Cerebrovascular diseases (I60-I69),Stroke,United States,162672,57.2
+
+8347,2001,Cerebrovascular diseases (I60-I69),Stroke,United States,163538,58.4
+
+8348,2000,Cerebrovascular diseases (I60-I69),Stroke,United States,167661,60.9
+
+8349,1999,Cerebrovascular diseases (I60-I69),Stroke,United States,167366,61.6
+
+8350,2016,Cerebrovascular diseases (I60-I69),Stroke,Utah,932,38.8
+
+8351,2015,Cerebrovascular diseases (I60-I69),Stroke,Utah,888,38.4
+
+8352,2014,Cerebrovascular diseases (I60-I69),Stroke,Utah,856,37.9
+
+8353,2013,Cerebrovascular diseases (I60-I69),Stroke,Utah,836,38.2
+
+8354,2012,Cerebrovascular diseases (I60-I69),Stroke,Utah,809,37.8
+
+8355,2011,Cerebrovascular diseases (I60-I69),Stroke,Utah,782,37.8
+
+8356,2010,Cerebrovascular diseases (I60-I69),Stroke,Utah,739,37.1
+
+8357,2009,Cerebrovascular diseases (I60-I69),Stroke,Utah,738,37.6
+
+8358,2008,Cerebrovascular diseases (I60-I69),Stroke,Utah,748,39.7
+
+8359,2007,Cerebrovascular diseases (I60-I69),Stroke,Utah,755,41.3
+
+8360,2006,Cerebrovascular diseases (I60-I69),Stroke,Utah,674,38.2
+
+8361,2005,Cerebrovascular diseases (I60-I69),Stroke,Utah,794,46.9
+
+8362,2004,Cerebrovascular diseases (I60-I69),Stroke,Utah,790,48.6
+
+8363,2003,Cerebrovascular diseases (I60-I69),Stroke,Utah,876,55.2
+
+8364,2002,Cerebrovascular diseases (I60-I69),Stroke,Utah,903,58.1
+
+8365,2001,Cerebrovascular diseases (I60-I69),Stroke,Utah,870,57.2
+
+8366,2000,Cerebrovascular diseases (I60-I69),Stroke,Utah,975,66
+
+8367,1999,Cerebrovascular diseases (I60-I69),Stroke,Utah,869,60.2
+
+8368,2016,Cerebrovascular diseases (I60-I69),Stroke,Vermont,247,29.2
+
+8369,2015,Cerebrovascular diseases (I60-I69),Stroke,Vermont,307,36.4
+
+8370,2014,Cerebrovascular diseases (I60-I69),Stroke,Vermont,266,31.7
+
+8371,2013,Cerebrovascular diseases (I60-I69),Stroke,Vermont,260,31.7
+
+8372,2012,Cerebrovascular diseases (I60-I69),Stroke,Vermont,281,35.9
+
+8373,2011,Cerebrovascular diseases (I60-I69),Stroke,Vermont,227,29.4
+
+8374,2010,Cerebrovascular diseases (I60-I69),Stroke,Vermont,265,35.3
+
+8375,2009,Cerebrovascular diseases (I60-I69),Stroke,Vermont,221,29.7
+
+8376,2008,Cerebrovascular diseases (I60-I69),Stroke,Vermont,281,38.3
+
+8377,2007,Cerebrovascular diseases (I60-I69),Stroke,Vermont,269,38
+
+8378,2006,Cerebrovascular diseases (I60-I69),Stroke,Vermont,264,38.1
+
+8379,2005,Cerebrovascular diseases (I60-I69),Stroke,Vermont,260,38.2
+
+8380,2004,Cerebrovascular diseases (I60-I69),Stroke,Vermont,302,45
+
+8381,2003,Cerebrovascular diseases (I60-I69),Stroke,Vermont,306,46.2
+
+8382,2002,Cerebrovascular diseases (I60-I69),Stroke,Vermont,335,52
+
+8383,2001,Cerebrovascular diseases (I60-I69),Stroke,Vermont,323,50.9
+
+8384,2000,Cerebrovascular diseases (I60-I69),Stroke,Vermont,343,54.9
+
+8385,1999,Cerebrovascular diseases (I60-I69),Stroke,Vermont,344,55.8
+
+8386,2016,Cerebrovascular diseases (I60-I69),Stroke,Virginia,3502,38.2
+
+8387,2015,Cerebrovascular diseases (I60-I69),Stroke,Virginia,3393,38
+
+8388,2014,Cerebrovascular diseases (I60-I69),Stroke,Virginia,3229,37
+
+8389,2013,Cerebrovascular diseases (I60-I69),Stroke,Virginia,3287,38.6
+
+8390,2012,Cerebrovascular diseases (I60-I69),Stroke,Virginia,3394,40.7
+
+8391,2011,Cerebrovascular diseases (I60-I69),Stroke,Virginia,3347,41.7
+
+8392,2010,Cerebrovascular diseases (I60-I69),Stroke,Virginia,3293,42.1
+
+8393,2009,Cerebrovascular diseases (I60-I69),Stroke,Virginia,3244,42.5
+
+8394,2008,Cerebrovascular diseases (I60-I69),Stroke,Virginia,3301,44.5
+
+8395,2007,Cerebrovascular diseases (I60-I69),Stroke,Virginia,3313,45.7
+
+8396,2006,Cerebrovascular diseases (I60-I69),Stroke,Virginia,3523,50.1
+
+8397,2005,Cerebrovascular diseases (I60-I69),Stroke,Virginia,3675,53.7
+
+8398,2004,Cerebrovascular diseases (I60-I69),Stroke,Virginia,3788,56.7
+
+8399,2003,Cerebrovascular diseases (I60-I69),Stroke,Virginia,3938,60.6
+
+8400,2002,Cerebrovascular diseases (I60-I69),Stroke,Virginia,3960,62.4
+
+8401,2001,Cerebrovascular diseases (I60-I69),Stroke,Virginia,4129,66.3
+
+8402,2000,Cerebrovascular diseases (I60-I69),Stroke,Virginia,4104,67.4
+
+8403,1999,Cerebrovascular diseases (I60-I69),Stroke,Virginia,4110,68.7
+
+8404,2016,Cerebrovascular diseases (I60-I69),Stroke,Washington,2910,35.8
+
+8405,2015,Cerebrovascular diseases (I60-I69),Stroke,Washington,2703,34.2
+
+8406,2014,Cerebrovascular diseases (I60-I69),Stroke,Washington,2649,34.3
+
+8407,2013,Cerebrovascular diseases (I60-I69),Stroke,Washington,2652,35.5
+
+8408,2012,Cerebrovascular diseases (I60-I69),Stroke,Washington,2513,34.3
+
+8409,2011,Cerebrovascular diseases (I60-I69),Stroke,Washington,2557,35.8
+
+8410,2010,Cerebrovascular diseases (I60-I69),Stroke,Washington,2548,37
+
+8411,2009,Cerebrovascular diseases (I60-I69),Stroke,Washington,2591,38.6
+
+8412,2008,Cerebrovascular diseases (I60-I69),Stroke,Washington,2773,42.3
+
+8413,2007,Cerebrovascular diseases (I60-I69),Stroke,Washington,2692,42.1
+
+8414,2006,Cerebrovascular diseases (I60-I69),Stroke,Washington,2725,43.6
+
+8415,2005,Cerebrovascular diseases (I60-I69),Stroke,Washington,2895,48.1
+
+8416,2004,Cerebrovascular diseases (I60-I69),Stroke,Washington,3243,55.1
+
+8417,2003,Cerebrovascular diseases (I60-I69),Stroke,Washington,3595,62.4
+
+8418,2002,Cerebrovascular diseases (I60-I69),Stroke,Washington,3753,66.6
+
+8419,2001,Cerebrovascular diseases (I60-I69),Stroke,Washington,3765,68.1
+
+8420,2000,Cerebrovascular diseases (I60-I69),Stroke,Washington,3714,68.7
+
+8421,1999,Cerebrovascular diseases (I60-I69),Stroke,Washington,3718,69.9
+
+8422,2016,Cerebrovascular diseases (I60-I69),Stroke,West Virginia,1039,41.7
+
+8423,2015,Cerebrovascular diseases (I60-I69),Stroke,West Virginia,1079,43.8
+
+8424,2014,Cerebrovascular diseases (I60-I69),Stroke,West Virginia,1103,45.3
+
+8425,2013,Cerebrovascular diseases (I60-I69),Stroke,West Virginia,983,40.7
+
+8426,2012,Cerebrovascular diseases (I60-I69),Stroke,West Virginia,1140,47.9
+
+8427,2011,Cerebrovascular diseases (I60-I69),Stroke,West Virginia,1049,44.8
+
+8428,2010,Cerebrovascular diseases (I60-I69),Stroke,West Virginia,1104,47.8
+
+8429,2009,Cerebrovascular diseases (I60-I69),Stroke,West Virginia,1073,46.7
+
+8430,2008,Cerebrovascular diseases (I60-I69),Stroke,West Virginia,1096,48.3
+
+8431,2007,Cerebrovascular diseases (I60-I69),Stroke,West Virginia,1113,49.7
+
+8432,2006,Cerebrovascular diseases (I60-I69),Stroke,West Virginia,1072,48.5
+
+8433,2005,Cerebrovascular diseases (I60-I69),Stroke,West Virginia,1151,53.2
+
+8434,2004,Cerebrovascular diseases (I60-I69),Stroke,West Virginia,1178,54.8
+
+8435,2003,Cerebrovascular diseases (I60-I69),Stroke,West Virginia,1309,61.2
+
+8436,2002,Cerebrovascular diseases (I60-I69),Stroke,West Virginia,1260,59.3
+
+8437,2001,Cerebrovascular diseases (I60-I69),Stroke,West Virginia,1272,60.1
+
+8438,2000,Cerebrovascular diseases (I60-I69),Stroke,West Virginia,1296,61.3
+
+8439,1999,Cerebrovascular diseases (I60-I69),Stroke,West Virginia,1323,63.1
+
+8440,2016,Cerebrovascular diseases (I60-I69),Stroke,Wisconsin,2481,33.3
+
+8441,2015,Cerebrovascular diseases (I60-I69),Stroke,Wisconsin,2618,35.6
+
+8442,2014,Cerebrovascular diseases (I60-I69),Stroke,Wisconsin,2511,34.6
+
+8443,2013,Cerebrovascular diseases (I60-I69),Stroke,Wisconsin,2536,36
+
+8444,2012,Cerebrovascular diseases (I60-I69),Stroke,Wisconsin,2520,36
+
+8445,2011,Cerebrovascular diseases (I60-I69),Stroke,Wisconsin,2554,37.2
+
+8446,2010,Cerebrovascular diseases (I60-I69),Stroke,Wisconsin,2609,38.8
+
+8447,2009,Cerebrovascular diseases (I60-I69),Stroke,Wisconsin,2501,37.7
+
+8448,2008,Cerebrovascular diseases (I60-I69),Stroke,Wisconsin,2638,40.1
+
+8449,2007,Cerebrovascular diseases (I60-I69),Stroke,Wisconsin,2738,42.6
+
+8450,2006,Cerebrovascular diseases (I60-I69),Stroke,Wisconsin,2829,44.6
+
+8451,2005,Cerebrovascular diseases (I60-I69),Stroke,Wisconsin,2960,47.4
+
+8452,2004,Cerebrovascular diseases (I60-I69),Stroke,Wisconsin,3071,50
+
+8453,2003,Cerebrovascular diseases (I60-I69),Stroke,Wisconsin,3216,53.1
+
+8454,2002,Cerebrovascular diseases (I60-I69),Stroke,Wisconsin,3479,58.4
+
+8455,2001,Cerebrovascular diseases (I60-I69),Stroke,Wisconsin,3658,62.4
+
+8456,2000,Cerebrovascular diseases (I60-I69),Stroke,Wisconsin,3598,62.2
+
+8457,1999,Cerebrovascular diseases (I60-I69),Stroke,Wisconsin,3869,67.5
+
+8458,2016,Cerebrovascular diseases (I60-I69),Stroke,Wyoming,208,31.7
+
+8459,2015,Cerebrovascular diseases (I60-I69),Stroke,Wyoming,198,31.4
+
+8460,2014,Cerebrovascular diseases (I60-I69),Stroke,Wyoming,189,30.2
+
+8461,2013,Cerebrovascular diseases (I60-I69),Stroke,Wyoming,213,35.1
+
+8462,2012,Cerebrovascular diseases (I60-I69),Stroke,Wyoming,205,34.9
+
+8463,2011,Cerebrovascular diseases (I60-I69),Stroke,Wyoming,214,37.2
+
+8464,2010,Cerebrovascular diseases (I60-I69),Stroke,Wyoming,204,37.2
+
+8465,2009,Cerebrovascular diseases (I60-I69),Stroke,Wyoming,233,42.6
+
+8466,2008,Cerebrovascular diseases (I60-I69),Stroke,Wyoming,234,44.4
+
+8467,2007,Cerebrovascular diseases (I60-I69),Stroke,Wyoming,209,40.5
+
+8468,2006,Cerebrovascular diseases (I60-I69),Stroke,Wyoming,236,46.5
+
+8469,2005,Cerebrovascular diseases (I60-I69),Stroke,Wyoming,221,45.1
+
+8470,2004,Cerebrovascular diseases (I60-I69),Stroke,Wyoming,214,44.2
+
+8471,2003,Cerebrovascular diseases (I60-I69),Stroke,Wyoming,253,53.9
+
+8472,2002,Cerebrovascular diseases (I60-I69),Stroke,Wyoming,243,52.8
+
+8473,2001,Cerebrovascular diseases (I60-I69),Stroke,Wyoming,260,56.7
+
+8474,2000,Cerebrovascular diseases (I60-I69),Stroke,Wyoming,260,58.3
+
+8475,1999,Cerebrovascular diseases (I60-I69),Stroke,Wyoming,265,60.7
+

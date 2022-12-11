@@ -1,0 +1,4 @@
+2123,2015,Malignant neoplasms (C00-C97),Cancer,Hawaii,2462,135.3
+
+5404,2011,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Oregon,6255,135.3
+

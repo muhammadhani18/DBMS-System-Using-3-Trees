@@ -1,0 +1,396 @@
+21,2016,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Maryland,2271,35.7
+
+412,2016,All Causes,All causes,Maryland,48824,717.6
+
+413,2015,All Causes,All causes,Maryland,47247,705.7
+
+414,2014,All Causes,All causes,Maryland,45867,699.5
+
+415,2013,All Causes,All causes,Maryland,45689,710.4
+
+416,2012,All Causes,All causes,Maryland,44477,709.1
+
+417,2011,All Causes,All causes,Maryland,43745,715.8
+
+418,2010,All Causes,All causes,Maryland,43325,728.6
+
+419,2009,All Causes,All causes,Maryland,43843,750.2
+
+420,2008,All Causes,All causes,Maryland,43892,769.6
+
+421,2007,All Causes,All causes,Maryland,43757,784
+
+422,2006,All Causes,All causes,Maryland,43582,795.9
+
+423,2005,All Causes,All causes,Maryland,43892,818.1
+
+424,2004,All Causes,All causes,Maryland,43232,823.7
+
+425,2003,All Causes,All causes,Maryland,44499,864.5
+
+426,2002,All Causes,All causes,Maryland,43970,872.3
+
+427,2001,All Causes,All causes,Maryland,43839,888
+
+428,2000,All Causes,All causes,Maryland,43753,908.9
+
+429,1999,All Causes,All causes,Maryland,43089,907
+
+1348,2016,Alzheimer's disease (G30),Alzheimer's disease,Maryland,1178,17.4
+
+1349,2015,Alzheimer's disease (G30),Alzheimer's disease,Maryland,1095,16.4
+
+1350,2014,Alzheimer's disease (G30),Alzheimer's disease,Maryland,934,14.5
+
+1351,2013,Alzheimer's disease (G30),Alzheimer's disease,Maryland,919,14.3
+
+1352,2012,Alzheimer's disease (G30),Alzheimer's disease,Maryland,906,14.7
+
+1353,2011,Alzheimer's disease (G30),Alzheimer's disease,Maryland,922,15.1
+
+1354,2010,Alzheimer's disease (G30),Alzheimer's disease,Maryland,986,16.8
+
+1355,2009,Alzheimer's disease (G30),Alzheimer's disease,Maryland,937,16.3
+
+1356,2008,Alzheimer's disease (G30),Alzheimer's disease,Maryland,1016,18.2
+
+1357,2007,Alzheimer's disease (G30),Alzheimer's disease,Maryland,881,16.2
+
+1358,2006,Alzheimer's disease (G30),Alzheimer's disease,Maryland,915,17.3
+
+1359,2005,Alzheimer's disease (G30),Alzheimer's disease,Maryland,958,18.7
+
+1360,2004,Alzheimer's disease (G30),Alzheimer's disease,Maryland,905,18.3
+
+1361,2003,Alzheimer's disease (G30),Alzheimer's disease,Maryland,865,17.8
+
+1362,2002,Alzheimer's disease (G30),Alzheimer's disease,Maryland,866,18.4
+
+1363,2001,Alzheimer's disease (G30),Alzheimer's disease,Maryland,948,20.5
+
+1364,2000,Alzheimer's disease (G30),Alzheimer's disease,Maryland,811,18
+
+1365,1999,Alzheimer's disease (G30),Alzheimer's disease,Maryland,681,15.4
+
+2284,2016,Malignant neoplasms (C00-C97),Cancer,Maryland,10911,156.5
+
+2285,2015,Malignant neoplasms (C00-C97),Cancer,Maryland,10568,155
+
+2286,2014,Malignant neoplasms (C00-C97),Cancer,Maryland,10759,161.7
+
+2287,2013,Malignant neoplasms (C00-C97),Cancer,Maryland,10609,162.9
+
+2288,2012,Malignant neoplasms (C00-C97),Cancer,Maryland,10525,165.6
+
+2289,2011,Malignant neoplasms (C00-C97),Cancer,Maryland,10249,166.1
+
+2290,2010,Malignant neoplasms (C00-C97),Cancer,Maryland,10269,171.2
+
+2291,2009,Malignant neoplasms (C00-C97),Cancer,Maryland,10412,176.7
+
+2292,2008,Malignant neoplasms (C00-C97),Cancer,Maryland,10360,180.1
+
+2293,2007,Malignant neoplasms (C00-C97),Cancer,Maryland,10179,180.5
+
+2294,2006,Malignant neoplasms (C00-C97),Cancer,Maryland,10350,187
+
+2295,2005,Malignant neoplasms (C00-C97),Cancer,Maryland,10371,190.4
+
+2296,2004,Malignant neoplasms (C00-C97),Cancer,Maryland,10168,190.5
+
+2297,2003,Malignant neoplasms (C00-C97),Cancer,Maryland,10292,196.4
+
+2298,2002,Malignant neoplasms (C00-C97),Cancer,Maryland,10395,202.2
+
+2299,2001,Malignant neoplasms (C00-C97),Cancer,Maryland,10322,205.4
+
+2300,2000,Malignant neoplasms (C00-C97),Cancer,Maryland,10290,209.7
+
+2301,1999,Malignant neoplasms (C00-C97),Cancer,Maryland,10143,209.5
+
+3220,2016,Chronic lower respiratory diseases (J40-J47),CLRD,Maryland,2072,30.5
+
+3221,2015,Chronic lower respiratory diseases (J40-J47),CLRD,Maryland,2040,30.7
+
+3222,2014,Chronic lower respiratory diseases (J40-J47),CLRD,Maryland,1909,29.4
+
+3223,2013,Chronic lower respiratory diseases (J40-J47),CLRD,Maryland,2051,32.5
+
+3224,2012,Chronic lower respiratory diseases (J40-J47),CLRD,Maryland,1981,32.3
+
+3225,2011,Chronic lower respiratory diseases (J40-J47),CLRD,Maryland,2050,34.3
+
+3226,2010,Chronic lower respiratory diseases (J40-J47),CLRD,Maryland,2039,35
+
+3227,2009,Chronic lower respiratory diseases (J40-J47),CLRD,Maryland,2064,36.3
+
+3228,2008,Chronic lower respiratory diseases (J40-J47),CLRD,Maryland,1982,35.8
+
+3229,2007,Chronic lower respiratory diseases (J40-J47),CLRD,Maryland,1901,35.2
+
+3230,2006,Chronic lower respiratory diseases (J40-J47),CLRD,Maryland,1832,34.4
+
+3231,2005,Chronic lower respiratory diseases (J40-J47),CLRD,Maryland,1908,36.5
+
+3232,2004,Chronic lower respiratory diseases (J40-J47),CLRD,Maryland,1910,37.3
+
+3233,2003,Chronic lower respiratory diseases (J40-J47),CLRD,Maryland,1986,39.5
+
+3234,2002,Chronic lower respiratory diseases (J40-J47),CLRD,Maryland,1944,39.4
+
+3235,2001,Chronic lower respiratory diseases (J40-J47),CLRD,Maryland,1907,39.5
+
+3236,2000,Chronic lower respiratory diseases (J40-J47),CLRD,Maryland,1927,40.9
+
+3237,1999,Chronic lower respiratory diseases (J40-J47),CLRD,Maryland,1943,41.6
+
+4156,2016,Diabetes mellitus (E10-E14),Diabetes,Maryland,1358,19.6
+
+4157,2015,Diabetes mellitus (E10-E14),Diabetes,Maryland,1243,18.3
+
+4158,2014,Diabetes mellitus (E10-E14),Diabetes,Maryland,1305,19.8
+
+4159,2013,Diabetes mellitus (E10-E14),Diabetes,Maryland,1249,19.1
+
+4160,2012,Diabetes mellitus (E10-E14),Diabetes,Maryland,1218,19.2
+
+4161,2011,Diabetes mellitus (E10-E14),Diabetes,Maryland,1297,21.2
+
+4162,2010,Diabetes mellitus (E10-E14),Diabetes,Maryland,1191,19.9
+
+4163,2009,Diabetes mellitus (E10-E14),Diabetes,Maryland,1207,20.6
+
+4164,2008,Diabetes mellitus (E10-E14),Diabetes,Maryland,1239,21.6
+
+4165,2007,Diabetes mellitus (E10-E14),Diabetes,Maryland,1301,23.4
+
+4166,2006,Diabetes mellitus (E10-E14),Diabetes,Maryland,1237,22.5
+
+4167,2005,Diabetes mellitus (E10-E14),Diabetes,Maryland,1388,26
+
+4168,2004,Diabetes mellitus (E10-E14),Diabetes,Maryland,1417,26.9
+
+4169,2003,Diabetes mellitus (E10-E14),Diabetes,Maryland,1454,28.2
+
+4170,2002,Diabetes mellitus (E10-E14),Diabetes,Maryland,1519,30.1
+
+4171,2001,Diabetes mellitus (E10-E14),Diabetes,Maryland,1458,29.4
+
+4172,2000,Diabetes mellitus (E10-E14),Diabetes,Maryland,1515,31.3
+
+4173,1999,Diabetes mellitus (E10-E14),Diabetes,Maryland,1422,29.8
+
+5092,2016,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Maryland,11390,164.3
+
+5093,2015,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Maryland,11481,169.3
+
+5094,2014,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Maryland,11135,167.8
+
+5095,2013,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Maryland,11244,172.7
+
+5096,2012,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Maryland,11023,174.4
+
+5097,2011,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Maryland,10557,171.2
+
+5098,2010,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Maryland,10915,182.2
+
+5099,2009,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Maryland,11210,190.8
+
+5100,2008,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Maryland,11157,195.1
+
+5101,2007,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Maryland,11314,203
+
+5102,2006,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Maryland,11268,206.6
+
+5103,2005,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Maryland,11594,217.9
+
+5104,2004,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Maryland,11346,218.5
+
+5105,2003,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Maryland,12164,239.8
+
+5106,2002,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Maryland,12008,242.4
+
+5107,2001,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Maryland,12310,253.8
+
+5108,2000,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Maryland,12348,261.3
+
+5109,1999,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Maryland,12080,259.2
+
+6028,2016,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Maryland,1025,15.1
+
+6029,2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Maryland,1176,17.7
+
+6030,2014,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Maryland,1019,15.6
+
+6031,2013,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Maryland,1103,17.2
+
+6032,2012,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Maryland,986,15.8
+
+6033,2011,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Maryland,1036,17.1
+
+6034,2010,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Maryland,925,15.7
+
+6035,2009,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Maryland,976,16.9
+
+6036,2008,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Maryland,1008,17.9
+
+6037,2007,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Maryland,994,18
+
+6038,2006,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Maryland,1082,20.1
+
+6039,2005,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Maryland,1194,22.8
+
+6040,2004,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Maryland,1111,21.9
+
+6041,2003,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Maryland,1175,23.6
+
+6042,2002,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Maryland,1121,23.1
+
+6043,2001,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Maryland,928,19.5
+
+6044,2000,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Maryland,1116,24
+
+6045,1999,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Maryland,1140,25.2
+
+6964,2016,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Maryland,823,12.1
+
+6965,2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Maryland,834,12.3
+
+6966,2014,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Maryland,751,11.5
+
+6967,2013,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Maryland,737,11.4
+
+6968,2012,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Maryland,704,11.3
+
+6969,2011,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Maryland,713,11.9
+
+6970,2010,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Maryland,803,13.6
+
+6971,2009,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Maryland,803,13.9
+
+6972,2008,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Maryland,775,13.7
+
+6973,2007,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Maryland,731,13.2
+
+6974,2006,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Maryland,767,14.2
+
+6975,2005,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Maryland,752,14.1
+
+6976,2004,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Maryland,699,13.5
+
+6977,2003,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Maryland,583,11.5
+
+6978,2002,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Maryland,630,12.6
+
+6979,2001,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Maryland,593,12.1
+
+6980,2000,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Maryland,594,12.4
+
+6981,1999,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Maryland,563,12
+
+7900,2016,Cerebrovascular diseases (I60-I69),Stroke,Maryland,2709,39.7
+
+7901,2015,Cerebrovascular diseases (I60-I69),Stroke,Maryland,2540,37.8
+
+7902,2014,Cerebrovascular diseases (I60-I69),Stroke,Maryland,2469,38
+
+7903,2013,Cerebrovascular diseases (I60-I69),Stroke,Maryland,2315,36.1
+
+7904,2012,Cerebrovascular diseases (I60-I69),Stroke,Maryland,2280,36.5
+
+7905,2011,Cerebrovascular diseases (I60-I69),Stroke,Maryland,2306,37.8
+
+7906,2010,Cerebrovascular diseases (I60-I69),Stroke,Maryland,2279,38.8
+
+7907,2009,Cerebrovascular diseases (I60-I69),Stroke,Maryland,2288,39.4
+
+7908,2008,Cerebrovascular diseases (I60-I69),Stroke,Maryland,2330,41.4
+
+7909,2007,Cerebrovascular diseases (I60-I69),Stroke,Maryland,2364,42.9
+
+7910,2006,Cerebrovascular diseases (I60-I69),Stroke,Maryland,2365,43.8
+
+7911,2005,Cerebrovascular diseases (I60-I69),Stroke,Maryland,2476,47.1
+
+7912,2004,Cerebrovascular diseases (I60-I69),Stroke,Maryland,2718,53.2
+
+7913,2003,Cerebrovascular diseases (I60-I69),Stroke,Maryland,2734,54.7
+
+7914,2002,Cerebrovascular diseases (I60-I69),Stroke,Maryland,2811,57.5
+
+7915,2001,Cerebrovascular diseases (I60-I69),Stroke,Maryland,2882,60.2
+
+7916,2000,Cerebrovascular diseases (I60-I69),Stroke,Maryland,2955,63.4
+
+7917,1999,Cerebrovascular diseases (I60-I69),Stroke,Maryland,2892,63.3
+
+8836,2016,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Maryland,586,9.4
+
+8837,2015,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Maryland,553,8.8
+
+8838,2014,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Maryland,606,9.8
+
+8839,2013,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Maryland,569,9.2
+
+8840,2012,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Maryland,583,9.5
+
+8841,2011,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Maryland,558,9.2
+
+8842,2010,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Maryland,502,8.3
+
+8843,2009,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Maryland,551,9.3
+
+8844,2008,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Maryland,507,8.7
+
+8845,2007,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Maryland,518,9
+
+8846,2006,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Maryland,495,8.6
+
+8847,2005,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Maryland,472,8.4
+
+8848,2004,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Maryland,500,8.8
+
+8849,2003,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Maryland,491,8.9
+
+8850,2002,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Maryland,477,8.8
+
+8851,2001,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Maryland,454,8.4
+
+8852,2000,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Maryland,474,9
+
+8853,1999,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Maryland,435,8.3
+
+9752,2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Maryland,1903,29.7
+
+9753,2014,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Maryland,1674,26.6
+
+9754,2013,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Maryland,1732,27.9
+
+9755,2012,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Maryland,1696,27.7
+
+9756,2011,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Maryland,1569,26.1
+
+9757,2010,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Maryland,1446,24.7
+
+9758,2009,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Maryland,1415,24.3
+
+9759,2008,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Maryland,1465,25.6
+
+9760,2007,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Maryland,1480,26.2
+
+9761,2006,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Maryland,1456,26.1
+
+9762,2005,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Maryland,1376,25
+
+9763,2004,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Maryland,1412,26
+
+9764,2003,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Maryland,1432,26.7
+
+9765,2002,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Maryland,1332,25.2
+
+9766,2001,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Maryland,1339,25.8
+
+9767,2000,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Maryland,1182,23.3
+
+9768,1999,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Maryland,1296,25.9
+

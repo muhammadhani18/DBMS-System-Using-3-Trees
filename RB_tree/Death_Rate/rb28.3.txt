@@ -1,0 +1,42 @@
+1087,2007,Alzheimer's disease (G30),Alzheimer's disease,Colorado,1109,28.3
+
+1174,2010,Alzheimer's disease (G30),Alzheimer's disease,Georgia,2080,28.3
+
+1217,2003,Alzheimer's disease (G30),Alzheimer's disease,Idaho,355,28.3
+
+1521,2005,Alzheimer's disease (G30),Alzheimer's disease,New Hampshire,376,28.3
+
+1595,2003,Alzheimer's disease (G30),Alzheimer's disease,North Carolina,2145,28.3
+
+1659,2011,Alzheimer's disease (G30),Alzheimer's disease,Oregon,1324,28.3
+
+1737,2005,Alzheimer's disease (G30),Alzheimer's disease,South Dakota,290,28.3
+
+4025,2003,Diabetes mellitus (E10-E14),Diabetes,Idaho,358,28.3
+
+4358,2012,Diabetes mellitus (E10-E14),Diabetes,New Mexico,652,28.3
+
+4361,2009,Diabetes mellitus (E10-E14),Diabetes,New Mexico,597,28.3
+
+4362,2008,Diabetes mellitus (E10-E14),Diabetes,New Mexico,582,28.3
+
+4452,2008,Diabetes mellitus (E10-E14),Diabetes,Oklahoma,1103,28.3
+
+4529,2003,Diabetes mellitus (E10-E14),Diabetes,South Carolina,1161,28.3
+
+5865,1999,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Georgia,1703,28.3
+
+6135,1999,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Missouri,1716,28.3
+
+6602,2000,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wyoming,126,28.3
+
+7578,2014,Cerebrovascular diseases (I60-I69),Stroke,Arizona,2235,28.3
+
+7651,2013,Cerebrovascular diseases (I60-I69),Stroke,Connecticut,1348,28.3
+
+7653,2011,Cerebrovascular diseases (I60-I69),Stroke,Connecticut,1315,28.3
+
+7922,2012,Cerebrovascular diseases (I60-I69),Stroke,Massachusetts,2371,28.3
+
+9484,2011,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,California,10824,28.3
+

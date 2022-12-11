@@ -1,0 +1,16 @@
+5702,2000,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Alaska,45,16
+
+6624,2014,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Alaska,45,10.1
+
+7535,2004,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wyoming,45,9.3
+
+7539,2000,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wyoming,45,9.9
+
+5702,2000,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Alaska,45,16
+
+6624,2014,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Alaska,45,10.1
+
+7535,2004,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wyoming,45,9.3
+
+7539,2000,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wyoming,45,9.9
+

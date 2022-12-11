@@ -1,0 +1,8 @@
+1534,2010,Alzheimer's disease (G30),Alzheimer's disease,New Jersey,1878,17.7
+
+3191,2009,Chronic lower respiratory diseases (J40-J47),CLRD,Louisiana,1878,42.7
+
+1534,2010,Alzheimer's disease (G30),Alzheimer's disease,New Jersey,1878,17.7
+
+3191,2009,Chronic lower respiratory diseases (J40-J47),CLRD,Louisiana,1878,42.7
+

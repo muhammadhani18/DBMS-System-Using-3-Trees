@@ -1,0 +1,10 @@
+3508,2016,Chronic lower respiratory diseases (J40-J47),CLRD,Oklahoma,2794,61.4
+
+3512,2012,Chronic lower respiratory diseases (J40-J47),CLRD,Oklahoma,2585,61.4
+
+7754,2000,Cerebrovascular diseases (I60-I69),Stroke,Hawaii,747,61.4
+
+7877,2003,Cerebrovascular diseases (I60-I69),Stroke,Louisiana,2526,61.4
+
+9952,2002,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,New Mexico,1105,61.4
+

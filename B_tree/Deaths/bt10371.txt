@@ -1,0 +1,4 @@
+2295,2005,Malignant neoplasms (C00-C97),Cancer,Maryland,10371,190.4
+
+2295,2005,Malignant neoplasms (C00-C97),Cancer,Maryland,10371,190.4
+

@@ -1,0 +1,8 @@
+588,2002,All Causes,All causes,New Hampshire,9853,796
+
+8326,2004,Cerebrovascular diseases (I60-I69),Stroke,Texas,9853,56.9
+
+588,2002,All Causes,All causes,New Hampshire,9853,796
+
+8326,2004,Cerebrovascular diseases (I60-I69),Stroke,Texas,9853,56.9
+

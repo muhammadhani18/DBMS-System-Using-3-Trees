@@ -1,0 +1,4 @@
+3270,2002,Chronic lower respiratory diseases (J40-J47),CLRD,Michigan,4431,44.8
+
+6253,2007,Influenza and pneumonia (J09-J18),Influenza and pneumonia,New York,4431,20.5
+

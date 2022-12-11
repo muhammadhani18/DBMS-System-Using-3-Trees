@@ -1,0 +1,6 @@
+3893,2009,Diabetes mellitus (E10-E14),Diabetes,Colorado,779,17.2
+
+5706,2014,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arizona,779,10
+
+8934,2008,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Missouri,779,13
+

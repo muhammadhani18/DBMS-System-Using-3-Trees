@@ -1,0 +1,8 @@
+2354,2000,Malignant neoplasms (C00-C97),Cancer,Minnesota,9215,191.8
+
+2810,2012,Malignant neoplasms (C00-C97),Cancer,West Virginia,4684,191.8
+
+4944,2002,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Hawaii,2512,191.8
+
+4990,2010,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Indiana,13388,191.8
+

@@ -1,0 +1,4 @@
+553,2001,All Causes,All causes,Nebraska,15174,796.6
+
+803,2003,All Causes,All causes,South Dakota,7132,796.6
+

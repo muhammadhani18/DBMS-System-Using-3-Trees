@@ -1,0 +1,8 @@
+3420,2014,Chronic lower respiratory diseases (J40-J47),CLRD,New Mexico,1127,46.4
+
+6999,1999,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Massachusetts,1127,16.2
+
+3420,2014,Chronic lower respiratory diseases (J40-J47),CLRD,New Mexico,1127,46.4
+
+6999,1999,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Massachusetts,1127,16.2
+

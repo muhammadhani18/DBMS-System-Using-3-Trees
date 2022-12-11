@@ -1,0 +1,6 @@
+4193,2015,Diabetes mellitus (E10-E14),Diabetes,Michigan,2751,22.5
+
+5272,1999,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,New Hampshire,2751,236.2
+
+5444,2007,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Rhode Island,2751,203
+

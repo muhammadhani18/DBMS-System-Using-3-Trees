@@ -1,0 +1,4 @@
+1388,2012,Alzheimer's disease (G30),Alzheimer's disease,Michigan,3064,25.6
+
+3400,2016,Chronic lower respiratory diseases (J40-J47),CLRD,New Jersey,3064,27.9
+

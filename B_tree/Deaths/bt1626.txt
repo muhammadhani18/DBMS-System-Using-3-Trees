@@ -1,0 +1,8 @@
+3156,2008,Chronic lower respiratory diseases (J40-J47),CLRD,Kansas,1626,52.8
+
+4645,2013,Diabetes mellitus (E10-E14),Diabetes,Virginia,1626,18.4
+
+3156,2008,Chronic lower respiratory diseases (J40-J47),CLRD,Kansas,1626,52.8
+
+4645,2013,Diabetes mellitus (E10-E14),Diabetes,Virginia,1626,18.4
+

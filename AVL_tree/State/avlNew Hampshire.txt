@@ -1,0 +1,396 @@
+30,2016,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,New Hampshire,924,66.6
+
+574,2016,All Causes,All causes,New Hampshire,12203,721.5
+
+575,2015,All Causes,All causes,New Hampshire,11984,720.6
+
+576,2014,All Causes,All causes,New Hampshire,11516,706.2
+
+577,2013,All Causes,All causes,New Hampshire,10897,679.1
+
+578,2012,All Causes,All causes,New Hampshire,10730,687.5
+
+579,2011,All Causes,All causes,New Hampshire,10823,710.4
+
+580,2010,All Causes,All causes,New Hampshire,10201,690.4
+
+581,2009,All Causes,All causes,New Hampshire,10100,691.6
+
+582,2008,All Causes,All causes,New Hampshire,10268,715.3
+
+583,2007,All Causes,All causes,New Hampshire,10303,733.2
+
+584,2006,All Causes,All causes,New Hampshire,10060,733.7
+
+585,2005,All Causes,All causes,New Hampshire,10194,766.7
+
+586,2004,All Causes,All causes,New Hampshire,10111,778.9
+
+587,2003,All Causes,All causes,New Hampshire,9708,767.3
+
+588,2002,All Causes,All causes,New Hampshire,9853,796
+
+589,2001,All Causes,All causes,New Hampshire,9815,809.3
+
+590,2000,All Causes,All causes,New Hampshire,9697,815.5
+
+591,1999,All Causes,All causes,New Hampshire,9537,815.5
+
+1510,2016,Alzheimer's disease (G30),Alzheimer's disease,New Hampshire,430,24.8
+
+1511,2015,Alzheimer's disease (G30),Alzheimer's disease,New Hampshire,432,25.5
+
+1512,2014,Alzheimer's disease (G30),Alzheimer's disease,New Hampshire,396,24
+
+1513,2013,Alzheimer's disease (G30),Alzheimer's disease,New Hampshire,351,21.5
+
+1514,2012,Alzheimer's disease (G30),Alzheimer's disease,New Hampshire,392,25.1
+
+1515,2011,Alzheimer's disease (G30),Alzheimer's disease,New Hampshire,395,25.7
+
+1516,2010,Alzheimer's disease (G30),Alzheimer's disease,New Hampshire,396,26.9
+
+1517,2009,Alzheimer's disease (G30),Alzheimer's disease,New Hampshire,367,25
+
+1518,2008,Alzheimer's disease (G30),Alzheimer's disease,New Hampshire,393,27.4
+
+1519,2007,Alzheimer's disease (G30),Alzheimer's disease,New Hampshire,418,29.5
+
+1520,2006,Alzheimer's disease (G30),Alzheimer's disease,New Hampshire,372,27.1
+
+1521,2005,Alzheimer's disease (G30),Alzheimer's disease,New Hampshire,376,28.3
+
+1522,2004,Alzheimer's disease (G30),Alzheimer's disease,New Hampshire,331,25.9
+
+1523,2003,Alzheimer's disease (G30),Alzheimer's disease,New Hampshire,286,23
+
+1524,2002,Alzheimer's disease (G30),Alzheimer's disease,New Hampshire,311,25.6
+
+1525,2001,Alzheimer's disease (G30),Alzheimer's disease,New Hampshire,305,25.6
+
+1526,2000,Alzheimer's disease (G30),Alzheimer's disease,New Hampshire,273,23.4
+
+1527,1999,Alzheimer's disease (G30),Alzheimer's disease,New Hampshire,266,23.2
+
+2446,2016,Malignant neoplasms (C00-C97),Cancer,New Hampshire,2875,164.1
+
+2447,2015,Malignant neoplasms (C00-C97),Cancer,New Hampshire,2773,161.3
+
+2448,2014,Malignant neoplasms (C00-C97),Cancer,New Hampshire,2698,160.4
+
+2449,2013,Malignant neoplasms (C00-C97),Cancer,New Hampshire,2584,158
+
+2450,2012,Malignant neoplasms (C00-C97),Cancer,New Hampshire,2660,167.8
+
+2451,2011,Malignant neoplasms (C00-C97),Cancer,New Hampshire,2740,177.5
+
+2452,2010,Malignant neoplasms (C00-C97),Cancer,New Hampshire,2525,167.9
+
+2453,2009,Malignant neoplasms (C00-C97),Cancer,New Hampshire,2562,173.3
+
+2454,2008,Malignant neoplasms (C00-C97),Cancer,New Hampshire,2576,177.3
+
+2455,2007,Malignant neoplasms (C00-C97),Cancer,New Hampshire,2609,184.7
+
+2456,2006,Malignant neoplasms (C00-C97),Cancer,New Hampshire,2534,183.9
+
+2457,2005,Malignant neoplasms (C00-C97),Cancer,New Hampshire,2549,189.8
+
+2458,2004,Malignant neoplasms (C00-C97),Cancer,New Hampshire,2554,194.8
+
+2459,2003,Malignant neoplasms (C00-C97),Cancer,New Hampshire,2485,193.7
+
+2460,2002,Malignant neoplasms (C00-C97),Cancer,New Hampshire,2529,201.8
+
+2461,2001,Malignant neoplasms (C00-C97),Cancer,New Hampshire,2398,195.9
+
+2462,2000,Malignant neoplasms (C00-C97),Cancer,New Hampshire,2484,206.9
+
+2463,1999,Malignant neoplasms (C00-C97),Cancer,New Hampshire,2408,203.6
+
+3382,2016,Chronic lower respiratory diseases (J40-J47),CLRD,New Hampshire,684,39.3
+
+3383,2015,Chronic lower respiratory diseases (J40-J47),CLRD,New Hampshire,705,41.9
+
+3384,2014,Chronic lower respiratory diseases (J40-J47),CLRD,New Hampshire,680,41.3
+
+3385,2013,Chronic lower respiratory diseases (J40-J47),CLRD,New Hampshire,668,42
+
+3386,2012,Chronic lower respiratory diseases (J40-J47),CLRD,New Hampshire,674,43.5
+
+3387,2011,Chronic lower respiratory diseases (J40-J47),CLRD,New Hampshire,650,43.1
+
+3388,2010,Chronic lower respiratory diseases (J40-J47),CLRD,New Hampshire,609,41.7
+
+3389,2009,Chronic lower respiratory diseases (J40-J47),CLRD,New Hampshire,652,45.6
+
+3390,2008,Chronic lower respiratory diseases (J40-J47),CLRD,New Hampshire,688,48.8
+
+3391,2007,Chronic lower respiratory diseases (J40-J47),CLRD,New Hampshire,611,44.2
+
+3392,2006,Chronic lower respiratory diseases (J40-J47),CLRD,New Hampshire,603,44.9
+
+3393,2005,Chronic lower respiratory diseases (J40-J47),CLRD,New Hampshire,630,48.2
+
+3394,2004,Chronic lower respiratory diseases (J40-J47),CLRD,New Hampshire,600,46.7
+
+3395,2003,Chronic lower respiratory diseases (J40-J47),CLRD,New Hampshire,531,42.8
+
+3396,2002,Chronic lower respiratory diseases (J40-J47),CLRD,New Hampshire,577,47.4
+
+3397,2001,Chronic lower respiratory diseases (J40-J47),CLRD,New Hampshire,616,51.4
+
+3398,2000,Chronic lower respiratory diseases (J40-J47),CLRD,New Hampshire,581,49.4
+
+3399,1999,Chronic lower respiratory diseases (J40-J47),CLRD,New Hampshire,592,51
+
+4318,2016,Diabetes mellitus (E10-E14),Diabetes,New Hampshire,316,17.9
+
+4319,2015,Diabetes mellitus (E10-E14),Diabetes,New Hampshire,308,17.9
+
+4320,2014,Diabetes mellitus (E10-E14),Diabetes,New Hampshire,300,18
+
+4321,2013,Diabetes mellitus (E10-E14),Diabetes,New Hampshire,310,18.7
+
+4322,2012,Diabetes mellitus (E10-E14),Diabetes,New Hampshire,275,17.5
+
+4323,2011,Diabetes mellitus (E10-E14),Diabetes,New Hampshire,280,18.3
+
+4324,2010,Diabetes mellitus (E10-E14),Diabetes,New Hampshire,236,16.1
+
+4325,2009,Diabetes mellitus (E10-E14),Diabetes,New Hampshire,276,18.7
+
+4326,2008,Diabetes mellitus (E10-E14),Diabetes,New Hampshire,297,20.6
+
+4327,2007,Diabetes mellitus (E10-E14),Diabetes,New Hampshire,280,20.2
+
+4328,2006,Diabetes mellitus (E10-E14),Diabetes,New Hampshire,296,21.4
+
+4329,2005,Diabetes mellitus (E10-E14),Diabetes,New Hampshire,310,23.4
+
+4330,2004,Diabetes mellitus (E10-E14),Diabetes,New Hampshire,313,24
+
+4331,2003,Diabetes mellitus (E10-E14),Diabetes,New Hampshire,300,23.6
+
+4332,2002,Diabetes mellitus (E10-E14),Diabetes,New Hampshire,311,25
+
+4333,2001,Diabetes mellitus (E10-E14),Diabetes,New Hampshire,291,23.9
+
+4334,2000,Diabetes mellitus (E10-E14),Diabetes,New Hampshire,297,25.1
+
+4335,1999,Diabetes mellitus (E10-E14),Diabetes,New Hampshire,294,25.3
+
+5255,2016,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,New Hampshire,2631,151.1
+
+5256,2015,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,New Hampshire,2571,149
+
+5257,2014,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,New Hampshire,2464,147.9
+
+5258,2013,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,New Hampshire,2434,148.9
+
+5259,2012,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,New Hampshire,2324,146.1
+
+5260,2011,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,New Hampshire,2333,151
+
+5261,2010,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,New Hampshire,2290,152.7
+
+5262,2009,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,New Hampshire,2268,153.4
+
+5263,2008,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,New Hampshire,2409,166
+
+5264,2007,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,New Hampshire,2511,176.9
+
+5265,2006,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,New Hampshire,2501,181.1
+
+5266,2005,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,New Hampshire,2530,189.8
+
+5267,2004,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,New Hampshire,2639,203.4
+
+5268,2003,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,New Hampshire,2725,216.7
+
+5269,2002,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,New Hampshire,2776,225
+
+5270,2001,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,New Hampshire,2835,234.6
+
+5271,2000,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,New Hampshire,2811,237.3
+
+5272,1999,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,New Hampshire,2751,236.2
+
+6190,2016,Influenza and pneumonia (J09-J18),Influenza and pneumonia,New Hampshire,203,11.8
+
+6191,2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,New Hampshire,275,16.1
+
+6192,2014,Influenza and pneumonia (J09-J18),Influenza and pneumonia,New Hampshire,194,11.5
+
+6193,2013,Influenza and pneumonia (J09-J18),Influenza and pneumonia,New Hampshire,226,13.9
+
+6194,2012,Influenza and pneumonia (J09-J18),Influenza and pneumonia,New Hampshire,204,12.8
+
+6195,2011,Influenza and pneumonia (J09-J18),Influenza and pneumonia,New Hampshire,220,14.1
+
+6196,2010,Influenza and pneumonia (J09-J18),Influenza and pneumonia,New Hampshire,191,12.6
+
+6197,2009,Influenza and pneumonia (J09-J18),Influenza and pneumonia,New Hampshire,194,13.1
+
+6198,2008,Influenza and pneumonia (J09-J18),Influenza and pneumonia,New Hampshire,211,14.6
+
+6199,2007,Influenza and pneumonia (J09-J18),Influenza and pneumonia,New Hampshire,207,14.7
+
+6200,2006,Influenza and pneumonia (J09-J18),Influenza and pneumonia,New Hampshire,212,15.4
+
+6201,2005,Influenza and pneumonia (J09-J18),Influenza and pneumonia,New Hampshire,273,20.8
+
+6202,2004,Influenza and pneumonia (J09-J18),Influenza and pneumonia,New Hampshire,271,21
+
+6203,2003,Influenza and pneumonia (J09-J18),Influenza and pneumonia,New Hampshire,204,16.4
+
+6204,2002,Influenza and pneumonia (J09-J18),Influenza and pneumonia,New Hampshire,237,19.4
+
+6205,2001,Influenza and pneumonia (J09-J18),Influenza and pneumonia,New Hampshire,216,18
+
+6206,2000,Influenza and pneumonia (J09-J18),Influenza and pneumonia,New Hampshire,194,16.5
+
+6207,1999,Influenza and pneumonia (J09-J18),Influenza and pneumonia,New Hampshire,187,16.2
+
+7126,2016,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,New Hampshire,161,9.4
+
+7127,2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,New Hampshire,194,11.4
+
+7128,2014,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,New Hampshire,167,10.2
+
+7129,2013,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,New Hampshire,175,11
+
+7130,2012,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,New Hampshire,161,10.2
+
+7131,2011,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,New Hampshire,172,11.3
+
+7132,2010,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,New Hampshire,206,14.2
+
+7133,2009,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,New Hampshire,165,11.4
+
+7134,2008,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,New Hampshire,174,12.4
+
+7135,2007,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,New Hampshire,149,10.8
+
+7136,2006,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,New Hampshire,160,11.8
+
+7137,2005,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,New Hampshire,173,13.1
+
+7138,2004,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,New Hampshire,163,12.8
+
+7139,2003,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,New Hampshire,150,12
+
+7140,2002,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,New Hampshire,141,11.6
+
+7141,2001,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,New Hampshire,136,11.4
+
+7142,2000,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,New Hampshire,106,9
+
+7143,1999,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,New Hampshire,93,8
+
+8062,2016,Cerebrovascular diseases (I60-I69),Stroke,New Hampshire,490,28
+
+8063,2015,Cerebrovascular diseases (I60-I69),Stroke,New Hampshire,457,26.9
+
+8064,2014,Cerebrovascular diseases (I60-I69),Stroke,New Hampshire,474,28.9
+
+8065,2013,Cerebrovascular diseases (I60-I69),Stroke,New Hampshire,441,27.6
+
+8066,2012,Cerebrovascular diseases (I60-I69),Stroke,New Hampshire,457,29.3
+
+8067,2011,Cerebrovascular diseases (I60-I69),Stroke,New Hampshire,490,32.3
+
+8068,2010,Cerebrovascular diseases (I60-I69),Stroke,New Hampshire,500,33.5
+
+8069,2009,Cerebrovascular diseases (I60-I69),Stroke,New Hampshire,499,34.1
+
+8070,2008,Cerebrovascular diseases (I60-I69),Stroke,New Hampshire,484,33.9
+
+8071,2007,Cerebrovascular diseases (I60-I69),Stroke,New Hampshire,489,34.8
+
+8072,2006,Cerebrovascular diseases (I60-I69),Stroke,New Hampshire,494,36.1
+
+8073,2005,Cerebrovascular diseases (I60-I69),Stroke,New Hampshire,497,37.7
+
+8074,2004,Cerebrovascular diseases (I60-I69),Stroke,New Hampshire,586,45.6
+
+8075,2003,Cerebrovascular diseases (I60-I69),Stroke,New Hampshire,536,43
+
+8076,2002,Cerebrovascular diseases (I60-I69),Stroke,New Hampshire,627,51.3
+
+8077,2001,Cerebrovascular diseases (I60-I69),Stroke,New Hampshire,633,52.9
+
+8078,2000,Cerebrovascular diseases (I60-I69),Stroke,New Hampshire,662,56.4
+
+8079,1999,Cerebrovascular diseases (I60-I69),Stroke,New Hampshire,669,57.9
+
+8998,2016,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,New Hampshire,244,17.2
+
+8999,2015,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,New Hampshire,228,16.5
+
+9000,2014,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,New Hampshire,247,17.8
+
+9001,2013,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,New Hampshire,185,12.8
+
+9002,2012,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,New Hampshire,202,14.1
+
+9003,2011,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,New Hampshire,198,13.8
+
+9004,2010,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,New Hampshire,196,14.1
+
+9005,2009,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,New Hampshire,166,11.9
+
+9006,2008,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,New Hampshire,179,13.1
+
+9007,2007,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,New Hampshire,158,11.2
+
+9008,2006,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,New Hampshire,151,11.2
+
+9009,2005,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,New Hampshire,162,12
+
+9010,2004,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,New Hampshire,133,9.9
+
+9011,2003,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,New Hampshire,158,12
+
+9012,2002,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,New Hampshire,132,10.3
+
+9013,2001,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,New Hampshire,167,13.2
+
+9014,2000,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,New Hampshire,131,10.3
+
+9015,1999,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,New Hampshire,137,11.2
+
+9905,2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,New Hampshire,815,59
+
+9906,2014,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,New Hampshire,716,50.5
+
+9907,2013,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,New Hampshire,619,42.5
+
+9908,2012,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,New Hampshire,573,40.1
+
+9909,2011,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,New Hampshire,553,38.4
+
+9910,2010,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,New Hampshire,517,37.3
+
+9911,2009,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,New Hampshire,482,34.8
+
+9912,2008,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,New Hampshire,488,35.4
+
+9913,2007,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,New Hampshire,527,39
+
+9914,2006,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,New Hampshire,460,34.1
+
+9915,2005,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,New Hampshire,477,36.3
+
+9916,2004,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,New Hampshire,445,34.3
+
+9917,2003,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,New Hampshire,405,31.5
+
+9918,2002,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,New Hampshire,357,28.5
+
+9919,2001,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,New Hampshire,374,30.3
+
+9920,2000,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,New Hampshire,321,26.3
+
+9921,1999,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,New Hampshire,329,27.5
+

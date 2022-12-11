@@ -1,0 +1,8 @@
+4761,2005,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Alaska,627,166.1
+
+7763,2009,Cerebrovascular diseases (I60-I69),Stroke,Idaho,627,41.6
+
+8076,2002,Cerebrovascular diseases (I60-I69),Stroke,New Hampshire,627,51.3
+
+9390,2002,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wisconsin,627,11.3
+

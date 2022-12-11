@@ -1,0 +1,46 @@
+1141,2007,Alzheimer's disease (G30),Alzheimer's disease,District of Columbia,140,24
+
+1270,2004,Alzheimer's disease (G30),Alzheimer's disease,Iowa,968,24
+
+1390,2010,Alzheimer's disease (G30),Alzheimer's disease,Michigan,2736,24
+
+1512,2014,Alzheimer's disease (G30),Alzheimer's disease,New Hampshire,396,24
+
+1616,2000,Alzheimer's disease (G30),Alzheimer's disease,North Dakota,209,24
+
+1758,2002,Alzheimer's disease (G30),Alzheimer's disease,Tennessee,1299,24
+
+1791,2005,Alzheimer's disease (G30),Alzheimer's disease,United States,71599,24
+
+3004,2016,Chronic lower respiratory diseases (J40-J47),CLRD,District of Columbia,152,24
+
+3015,2005,Chronic lower respiratory diseases (J40-J47),CLRD,District of Columbia,132,24
+
+3075,1999,Chronic lower respiratory diseases (J40-J47),CLRD,Hawaii,290,24
+
+3852,2014,Diabetes mellitus (E10-E14),Diabetes,Arkansas,828,24
+
+4041,2005,Diabetes mellitus (E10-E14),Diabetes,Illinois,3034,24
+
+4198,2010,Diabetes mellitus (E10-E14),Diabetes,Michigan,2697,24
+
+4330,2004,Diabetes mellitus (E10-E14),Diabetes,New Hampshire,313,24
+
+4462,2016,Diabetes mellitus (E10-E14),Diabetes,Oregon,1240,24
+
+4470,2008,Diabetes mellitus (E10-E14),Diabetes,Oregon,1025,24
+
+4552,2016,Diabetes mellitus (E10-E14),Diabetes,Tennessee,1883,24
+
+5918,2000,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Illinois,2917,24
+
+6003,2005,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Louisiana,996,24
+
+6006,2002,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Louisiana,956,24
+
+6044,2000,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Maryland,1116,24
+
+6101,2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Mississippi,791,24
+
+6129,2005,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Missouri,1527,24
+

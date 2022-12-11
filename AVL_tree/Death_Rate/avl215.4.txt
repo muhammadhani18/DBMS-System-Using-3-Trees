@@ -1,0 +1,4 @@
+1940,2000,Malignant neoplasms (C00-C97),Cancer,Alabama,9807,215.4
+
+2571,1999,Malignant neoplasms (C00-C97),Cancer,Ohio,25233,215.4
+

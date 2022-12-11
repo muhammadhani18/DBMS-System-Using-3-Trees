@@ -1,0 +1,4 @@
+1537,2007,Alzheimer's disease (G30),Alzheimer's disease,New Jersey,1823,18.2
+
+6221,2003,Influenza and pneumonia (J09-J18),Influenza and pneumonia,New Jersey,1823,19.8
+

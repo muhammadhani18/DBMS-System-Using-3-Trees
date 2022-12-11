@@ -1,0 +1,4 @@
+6273,2005,Influenza and pneumonia (J09-J18),Influenza and pneumonia,North Carolina,1830,22.5
+
+7844,2000,Cerebrovascular diseases (I60-I69),Stroke,Kansas,1830,60.6
+

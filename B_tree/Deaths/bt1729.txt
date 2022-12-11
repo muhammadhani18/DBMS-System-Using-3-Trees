@@ -1,0 +1,12 @@
+3296,2012,Chronic lower respiratory diseases (J40-J47),CLRD,Mississippi,1729,54.7
+
+5471,2016,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,South Dakota,1729,153.4
+
+7206,2008,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,North Carolina,1729,18.7
+
+3296,2012,Chronic lower respiratory diseases (J40-J47),CLRD,Mississippi,1729,54.7
+
+5471,2016,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,South Dakota,1729,153.4
+
+7206,2008,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,North Carolina,1729,18.7
+

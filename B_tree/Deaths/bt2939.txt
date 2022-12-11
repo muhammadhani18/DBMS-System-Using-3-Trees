@@ -1,0 +1,12 @@
+2904,2008,Chronic lower respiratory diseases (J40-J47),CLRD,Arizona,2939,45.5
+
+3323,2003,Chronic lower respiratory diseases (J40-J47),CLRD,Missouri,2939,47.9
+
+9843,2009,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Missouri,2939,47.5
+
+2904,2008,Chronic lower respiratory diseases (J40-J47),CLRD,Arizona,2939,45.5
+
+3323,2003,Chronic lower respiratory diseases (J40-J47),CLRD,Missouri,2939,47.9
+
+9843,2009,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Missouri,2939,47.5
+

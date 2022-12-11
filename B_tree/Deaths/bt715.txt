@@ -1,0 +1,28 @@
+1956,2002,Malignant neoplasms (C00-C97),Cancer,Alaska,715,189.8
+
+5959,2013,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Kansas,715,20.2
+
+8112,2002,Cerebrovascular diseases (I60-I69),Stroke,New Mexico,715,42.2
+
+8478,2014,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Alabama,715,14.5
+
+8743,2001,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Indiana,715,11.7
+
+8938,2004,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Missouri,715,12.4
+
+10187,2006,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Utah,715,31.6
+
+1956,2002,Malignant neoplasms (C00-C97),Cancer,Alaska,715,189.8
+
+5959,2013,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Kansas,715,20.2
+
+8112,2002,Cerebrovascular diseases (I60-I69),Stroke,New Mexico,715,42.2
+
+8478,2014,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Alabama,715,14.5
+
+8743,2001,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Indiana,715,11.7
+
+8938,2004,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Missouri,715,12.4
+
+10187,2006,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Utah,715,31.6
+

@@ -1,0 +1,20 @@
+5944,2010,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Iowa,560,13.7
+
+8294,2000,Cerebrovascular diseases (I60-I69),Stroke,South Dakota,560,61.6
+
+8794,2004,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Kentucky,560,13.3
+
+9032,2000,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,New Jersey,560,6.6
+
+9153,2005,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Oregon,560,14.9
+
+5944,2010,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Iowa,560,13.7
+
+8294,2000,Cerebrovascular diseases (I60-I69),Stroke,South Dakota,560,61.6
+
+8794,2004,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Kentucky,560,13.3
+
+9032,2000,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,New Jersey,560,6.6
+
+9153,2005,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Oregon,560,14.9
+

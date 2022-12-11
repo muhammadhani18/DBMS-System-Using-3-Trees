@@ -1,0 +1,12 @@
+3809,2003,Diabetes mellitus (E10-E14),Diabetes,Alabama,1414,30.4
+
+5354,2007,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,North Dakota,1414,165.9
+
+6126,2008,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Missouri,1414,21.3
+
+3809,2003,Diabetes mellitus (E10-E14),Diabetes,Alabama,1414,30.4
+
+5354,2007,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,North Dakota,1414,165.9
+
+6126,2008,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Missouri,1414,21.3
+

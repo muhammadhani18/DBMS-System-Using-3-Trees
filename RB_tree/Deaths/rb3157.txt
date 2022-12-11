@@ -1,0 +1,4 @@
+3405,2011,Chronic lower respiratory diseases (J40-J47),CLRD,New Jersey,3157,31.2
+
+8299,2013,Cerebrovascular diseases (I60-I69),Stroke,Tennessee,3157,44.4
+

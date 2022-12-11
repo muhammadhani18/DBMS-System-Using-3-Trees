@@ -1,0 +1,1584 @@
+51,2016,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wisconsin,3575,55.6
+
+952,2016,All Causes,All causes,Wisconsin,51815,717.9
+
+953,2015,All Causes,All causes,Wisconsin,51264,715.9
+
+954,2014,All Causes,All causes,Wisconsin,50291,712.1
+
+955,2013,All Causes,All causes,Wisconsin,50026,720.1
+
+956,2012,All Causes,All causes,Wisconsin,48384,707.8
+
+957,2011,All Causes,All causes,Wisconsin,48410,721.1
+
+958,2010,All Causes,All causes,Wisconsin,47308,719
+
+959,2009,All Causes,All causes,Wisconsin,45697,703
+
+960,2008,All Causes,All causes,Wisconsin,46815,730.3
+
+961,2007,All Causes,All causes,Wisconsin,46241,734.2
+
+962,2006,All Causes,All causes,Wisconsin,46153,745.3
+
+963,2005,All Causes,All causes,Wisconsin,46709,765.9
+
+964,2004,All Causes,All causes,Wisconsin,45600,760
+
+965,2003,All Causes,All causes,Wisconsin,46177,780.1
+
+966,2002,All Causes,All causes,Wisconsin,46981,806.1
+
+967,2001,All Causes,All causes,Wisconsin,46628,812.5
+
+968,2000,All Causes,All causes,Wisconsin,46461,820.1
+
+969,1999,All Causes,All causes,Wisconsin,46672,831.5
+
+1888,2016,Alzheimer's disease (G30),Alzheimer's disease,Wisconsin,2256,29.6
+
+1889,2015,Alzheimer's disease (G30),Alzheimer's disease,Wisconsin,2087,27.5
+
+1890,2014,Alzheimer's disease (G30),Alzheimer's disease,Wisconsin,1876,25
+
+1891,2013,Alzheimer's disease (G30),Alzheimer's disease,Wisconsin,1671,22.7
+
+1892,2012,Alzheimer's disease (G30),Alzheimer's disease,Wisconsin,1646,22.6
+
+1893,2011,Alzheimer's disease (G30),Alzheimer's disease,Wisconsin,1807,25.3
+
+1894,2010,Alzheimer's disease (G30),Alzheimer's disease,Wisconsin,1762,25.3
+
+1895,2009,Alzheimer's disease (G30),Alzheimer's disease,Wisconsin,1611,23.3
+
+1896,2008,Alzheimer's disease (G30),Alzheimer's disease,Wisconsin,1655,24.4
+
+1897,2007,Alzheimer's disease (G30),Alzheimer's disease,Wisconsin,1658,24.7
+
+1898,2006,Alzheimer's disease (G30),Alzheimer's disease,Wisconsin,1596,24.4
+
+1899,2005,Alzheimer's disease (G30),Alzheimer's disease,Wisconsin,1512,23.5
+
+1900,2004,Alzheimer's disease (G30),Alzheimer's disease,Wisconsin,1419,22.5
+
+1901,2003,Alzheimer's disease (G30),Alzheimer's disease,Wisconsin,1411,22.6
+
+1902,2002,Alzheimer's disease (G30),Alzheimer's disease,Wisconsin,1344,22
+
+1903,2001,Alzheimer's disease (G30),Alzheimer's disease,Wisconsin,1269,21.1
+
+1904,2000,Alzheimer's disease (G30),Alzheimer's disease,Wisconsin,1177,19.9
+
+1905,1999,Alzheimer's disease (G30),Alzheimer's disease,Wisconsin,1170,19.9
+
+2824,2016,Malignant neoplasms (C00-C97),Cancer,Wisconsin,11498,158
+
+2825,2015,Malignant neoplasms (C00-C97),Cancer,Wisconsin,11423,159.3
+
+2826,2014,Malignant neoplasms (C00-C97),Cancer,Wisconsin,11393,161.8
+
+2827,2013,Malignant neoplasms (C00-C97),Cancer,Wisconsin,11425,165.2
+
+2828,2012,Malignant neoplasms (C00-C97),Cancer,Wisconsin,11252,166.3
+
+2829,2011,Malignant neoplasms (C00-C97),Cancer,Wisconsin,11608,175.5
+
+2830,2010,Malignant neoplasms (C00-C97),Cancer,Wisconsin,11279,174.5
+
+2831,2009,Malignant neoplasms (C00-C97),Cancer,Wisconsin,10866,169.5
+
+2832,2008,Malignant neoplasms (C00-C97),Cancer,Wisconsin,11185,177.8
+
+2833,2007,Malignant neoplasms (C00-C97),Cancer,Wisconsin,10963,177.2
+
+2834,2006,Malignant neoplasms (C00-C97),Cancer,Wisconsin,10925,179.9
+
+2835,2005,Malignant neoplasms (C00-C97),Cancer,Wisconsin,10943,182.8
+
+2836,2004,Malignant neoplasms (C00-C97),Cancer,Wisconsin,10861,184.7
+
+2837,2003,Malignant neoplasms (C00-C97),Cancer,Wisconsin,10648,183.4
+
+2838,2002,Malignant neoplasms (C00-C97),Cancer,Wisconsin,10828,189.6
+
+2839,2001,Malignant neoplasms (C00-C97),Cancer,Wisconsin,10777,191.6
+
+2840,2000,Malignant neoplasms (C00-C97),Cancer,Wisconsin,10638,191.7
+
+2841,1999,Malignant neoplasms (C00-C97),Cancer,Wisconsin,10755,195.5
+
+3760,2016,Chronic lower respiratory diseases (J40-J47),CLRD,Wisconsin,2786,38.3
+
+3761,2015,Chronic lower respiratory diseases (J40-J47),CLRD,Wisconsin,2846,39.3
+
+3762,2014,Chronic lower respiratory diseases (J40-J47),CLRD,Wisconsin,2759,39.3
+
+3763,2013,Chronic lower respiratory diseases (J40-J47),CLRD,Wisconsin,2789,40.3
+
+3764,2012,Chronic lower respiratory diseases (J40-J47),CLRD,Wisconsin,2524,37.1
+
+3765,2011,Chronic lower respiratory diseases (J40-J47),CLRD,Wisconsin,2615,39.5
+
+3766,2010,Chronic lower respiratory diseases (J40-J47),CLRD,Wisconsin,2474,38
+
+3767,2009,Chronic lower respiratory diseases (J40-J47),CLRD,Wisconsin,2461,38.5
+
+3768,2008,Chronic lower respiratory diseases (J40-J47),CLRD,Wisconsin,2538,39.9
+
+3769,2007,Chronic lower respiratory diseases (J40-J47),CLRD,Wisconsin,2399,38.6
+
+3770,2006,Chronic lower respiratory diseases (J40-J47),CLRD,Wisconsin,2354,38.5
+
+3771,2005,Chronic lower respiratory diseases (J40-J47),CLRD,Wisconsin,2449,40.7
+
+3772,2004,Chronic lower respiratory diseases (J40-J47),CLRD,Wisconsin,2312,38.9
+
+3773,2003,Chronic lower respiratory diseases (J40-J47),CLRD,Wisconsin,2299,39.1
+
+3774,2002,Chronic lower respiratory diseases (J40-J47),CLRD,Wisconsin,2335,40.2
+
+3775,2001,Chronic lower respiratory diseases (J40-J47),CLRD,Wisconsin,2375,41.6
+
+3776,2000,Chronic lower respiratory diseases (J40-J47),CLRD,Wisconsin,2316,41.1
+
+3777,1999,Chronic lower respiratory diseases (J40-J47),CLRD,Wisconsin,2270,40.5
+
+4696,2016,Diabetes mellitus (E10-E14),Diabetes,Wisconsin,1440,19.9
+
+4697,2015,Diabetes mellitus (E10-E14),Diabetes,Wisconsin,1382,19.4
+
+4698,2014,Diabetes mellitus (E10-E14),Diabetes,Wisconsin,1352,19.1
+
+4699,2013,Diabetes mellitus (E10-E14),Diabetes,Wisconsin,1285,18.5
+
+4700,2012,Diabetes mellitus (E10-E14),Diabetes,Wisconsin,1289,19
+
+4701,2011,Diabetes mellitus (E10-E14),Diabetes,Wisconsin,1197,17.9
+
+4702,2010,Diabetes mellitus (E10-E14),Diabetes,Wisconsin,1158,17.7
+
+4703,2009,Diabetes mellitus (E10-E14),Diabetes,Wisconsin,1110,17.2
+
+4704,2008,Diabetes mellitus (E10-E14),Diabetes,Wisconsin,1152,18.2
+
+4705,2007,Diabetes mellitus (E10-E14),Diabetes,Wisconsin,1136,18.3
+
+4706,2006,Diabetes mellitus (E10-E14),Diabetes,Wisconsin,1212,19.7
+
+4707,2005,Diabetes mellitus (E10-E14),Diabetes,Wisconsin,1276,21
+
+4708,2004,Diabetes mellitus (E10-E14),Diabetes,Wisconsin,1310,21.9
+
+4709,2003,Diabetes mellitus (E10-E14),Diabetes,Wisconsin,1331,22.7
+
+4710,2002,Diabetes mellitus (E10-E14),Diabetes,Wisconsin,1353,23.4
+
+4711,2001,Diabetes mellitus (E10-E14),Diabetes,Wisconsin,1337,23.5
+
+4712,2000,Diabetes mellitus (E10-E14),Diabetes,Wisconsin,1309,23.3
+
+4713,1999,Diabetes mellitus (E10-E14),Diabetes,Wisconsin,1273,22.9
+
+5632,2016,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Wisconsin,11526,154.9
+
+5633,2015,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Wisconsin,11473,156
+
+5634,2014,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Wisconsin,11229,155.1
+
+5635,2013,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Wisconsin,11362,159.3
+
+5636,2012,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Wisconsin,11282,160.7
+
+5637,2011,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Wisconsin,11266,163.8
+
+5638,2010,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Wisconsin,11115,165.1
+
+5639,2009,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Wisconsin,10834,163.1
+
+5640,2008,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Wisconsin,11275,172.2
+
+5641,2007,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Wisconsin,11110,172.7
+
+5642,2006,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Wisconsin,11451,181.1
+
+5643,2005,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Wisconsin,11842,190.6
+
+5644,2004,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Wisconsin,11909,195.4
+
+5645,2003,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Wisconsin,12479,207.9
+
+5646,2002,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Wisconsin,12923,218.8
+
+5647,2001,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Wisconsin,13023,224.3
+
+5648,2000,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Wisconsin,13601,237.3
+
+5649,1999,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Wisconsin,13827,243.7
+
+6568,2016,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wisconsin,888,11.9
+
+6569,2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wisconsin,1052,14.2
+
+6570,2014,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wisconsin,1002,13.8
+
+6571,2013,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wisconsin,1125,15.6
+
+6572,2012,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wisconsin,996,14.1
+
+6573,2011,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wisconsin,986,14.2
+
+6574,2010,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wisconsin,904,13.3
+
+6575,2009,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wisconsin,979,14.6
+
+6576,2008,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wisconsin,1116,16.7
+
+6577,2007,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wisconsin,1022,15.7
+
+6578,2006,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wisconsin,1014,15.8
+
+6579,2005,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wisconsin,1268,19.9
+
+6580,2004,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wisconsin,1141,18.4
+
+6581,2003,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wisconsin,1165,19
+
+6582,2002,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wisconsin,1291,21.4
+
+6583,2001,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wisconsin,1236,20.8
+
+6584,2000,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wisconsin,1258,21.5
+
+6585,1999,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wisconsin,1425,24.6
+
+7505,2016,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wisconsin,960,13
+
+7506,2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wisconsin,996,13.7
+
+7507,2014,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wisconsin,980,13.5
+
+7508,2013,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wisconsin,993,14
+
+7509,2012,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wisconsin,1024,14.8
+
+7510,2011,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wisconsin,979,14.3
+
+7511,2010,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wisconsin,1163,17.5
+
+7512,2009,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wisconsin,994,15.1
+
+7513,2008,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wisconsin,1007,15.5
+
+7514,2007,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wisconsin,1002,15.6
+
+7515,2006,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wisconsin,962,15.4
+
+7516,2005,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wisconsin,930,15
+
+7517,2004,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wisconsin,925,15.2
+
+7518,2003,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wisconsin,873,14.5
+
+7519,2002,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wisconsin,852,14.5
+
+7520,2001,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wisconsin,791,13.5
+
+7521,2000,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wisconsin,751,13.1
+
+7522,1999,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wisconsin,677,11.9
+
+8440,2016,Cerebrovascular diseases (I60-I69),Stroke,Wisconsin,2481,33.3
+
+8441,2015,Cerebrovascular diseases (I60-I69),Stroke,Wisconsin,2618,35.6
+
+8442,2014,Cerebrovascular diseases (I60-I69),Stroke,Wisconsin,2511,34.6
+
+8443,2013,Cerebrovascular diseases (I60-I69),Stroke,Wisconsin,2536,36
+
+8444,2012,Cerebrovascular diseases (I60-I69),Stroke,Wisconsin,2520,36
+
+8445,2011,Cerebrovascular diseases (I60-I69),Stroke,Wisconsin,2554,37.2
+
+8446,2010,Cerebrovascular diseases (I60-I69),Stroke,Wisconsin,2609,38.8
+
+8447,2009,Cerebrovascular diseases (I60-I69),Stroke,Wisconsin,2501,37.7
+
+8448,2008,Cerebrovascular diseases (I60-I69),Stroke,Wisconsin,2638,40.1
+
+8449,2007,Cerebrovascular diseases (I60-I69),Stroke,Wisconsin,2738,42.6
+
+8450,2006,Cerebrovascular diseases (I60-I69),Stroke,Wisconsin,2829,44.6
+
+8451,2005,Cerebrovascular diseases (I60-I69),Stroke,Wisconsin,2960,47.4
+
+8452,2004,Cerebrovascular diseases (I60-I69),Stroke,Wisconsin,3071,50
+
+8453,2003,Cerebrovascular diseases (I60-I69),Stroke,Wisconsin,3216,53.1
+
+8454,2002,Cerebrovascular diseases (I60-I69),Stroke,Wisconsin,3479,58.4
+
+8455,2001,Cerebrovascular diseases (I60-I69),Stroke,Wisconsin,3658,62.4
+
+8456,2000,Cerebrovascular diseases (I60-I69),Stroke,Wisconsin,3598,62.2
+
+8457,1999,Cerebrovascular diseases (I60-I69),Stroke,Wisconsin,3869,67.5
+
+9376,2016,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wisconsin,866,14.7
+
+9377,2015,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wisconsin,877,14.7
+
+9378,2014,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wisconsin,769,13.1
+
+9379,2013,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wisconsin,850,14.4
+
+9380,2012,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wisconsin,723,12.4
+
+9381,2011,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wisconsin,745,12.8
+
+9382,2010,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wisconsin,793,13.4
+
+9383,2009,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wisconsin,724,12.5
+
+9384,2008,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wisconsin,743,12.8
+
+9385,2007,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wisconsin,729,12.7
+
+9386,2006,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wisconsin,670,12
+
+9387,2005,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wisconsin,643,11.6
+
+9388,2004,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wisconsin,662,11.9
+
+9389,2003,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wisconsin,647,11.6
+
+9390,2002,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wisconsin,627,11.3
+
+9391,2001,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wisconsin,639,11.7
+
+9392,2000,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wisconsin,590,10.9
+
+9393,1999,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wisconsin,593,11.1
+
+10263,2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wisconsin,3206,49.3
+
+10264,2014,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wisconsin,3015,46.9
+
+10265,2013,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wisconsin,2969,46.8
+
+10266,2012,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wisconsin,2825,44.7
+
+10267,2011,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wisconsin,2680,42.8
+
+10268,2010,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wisconsin,2525,40.8
+
+10269,2009,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wisconsin,2449,40
+
+10270,2008,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wisconsin,2484,40.8
+
+10271,2007,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wisconsin,2619,44
+
+10272,2006,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wisconsin,2524,42.7
+
+10273,2005,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wisconsin,2490,42.8
+
+10274,2004,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wisconsin,2303,39.7
+
+10275,2003,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wisconsin,2345,41
+
+10276,2002,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wisconsin,2274,40.1
+
+10277,2001,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wisconsin,2100,37.5
+
+10278,2000,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wisconsin,2159,38.9
+
+10279,1999,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wisconsin,1955,35.6
+
+51,2016,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wisconsin,3575,55.6
+
+952,2016,All Causes,All causes,Wisconsin,51815,717.9
+
+953,2015,All Causes,All causes,Wisconsin,51264,715.9
+
+954,2014,All Causes,All causes,Wisconsin,50291,712.1
+
+955,2013,All Causes,All causes,Wisconsin,50026,720.1
+
+956,2012,All Causes,All causes,Wisconsin,48384,707.8
+
+957,2011,All Causes,All causes,Wisconsin,48410,721.1
+
+958,2010,All Causes,All causes,Wisconsin,47308,719
+
+959,2009,All Causes,All causes,Wisconsin,45697,703
+
+960,2008,All Causes,All causes,Wisconsin,46815,730.3
+
+961,2007,All Causes,All causes,Wisconsin,46241,734.2
+
+962,2006,All Causes,All causes,Wisconsin,46153,745.3
+
+963,2005,All Causes,All causes,Wisconsin,46709,765.9
+
+964,2004,All Causes,All causes,Wisconsin,45600,760
+
+965,2003,All Causes,All causes,Wisconsin,46177,780.1
+
+966,2002,All Causes,All causes,Wisconsin,46981,806.1
+
+967,2001,All Causes,All causes,Wisconsin,46628,812.5
+
+968,2000,All Causes,All causes,Wisconsin,46461,820.1
+
+969,1999,All Causes,All causes,Wisconsin,46672,831.5
+
+1888,2016,Alzheimer's disease (G30),Alzheimer's disease,Wisconsin,2256,29.6
+
+1889,2015,Alzheimer's disease (G30),Alzheimer's disease,Wisconsin,2087,27.5
+
+1890,2014,Alzheimer's disease (G30),Alzheimer's disease,Wisconsin,1876,25
+
+1891,2013,Alzheimer's disease (G30),Alzheimer's disease,Wisconsin,1671,22.7
+
+1892,2012,Alzheimer's disease (G30),Alzheimer's disease,Wisconsin,1646,22.6
+
+1893,2011,Alzheimer's disease (G30),Alzheimer's disease,Wisconsin,1807,25.3
+
+1894,2010,Alzheimer's disease (G30),Alzheimer's disease,Wisconsin,1762,25.3
+
+1895,2009,Alzheimer's disease (G30),Alzheimer's disease,Wisconsin,1611,23.3
+
+1896,2008,Alzheimer's disease (G30),Alzheimer's disease,Wisconsin,1655,24.4
+
+1897,2007,Alzheimer's disease (G30),Alzheimer's disease,Wisconsin,1658,24.7
+
+1898,2006,Alzheimer's disease (G30),Alzheimer's disease,Wisconsin,1596,24.4
+
+1899,2005,Alzheimer's disease (G30),Alzheimer's disease,Wisconsin,1512,23.5
+
+1900,2004,Alzheimer's disease (G30),Alzheimer's disease,Wisconsin,1419,22.5
+
+1901,2003,Alzheimer's disease (G30),Alzheimer's disease,Wisconsin,1411,22.6
+
+1902,2002,Alzheimer's disease (G30),Alzheimer's disease,Wisconsin,1344,22
+
+1903,2001,Alzheimer's disease (G30),Alzheimer's disease,Wisconsin,1269,21.1
+
+1904,2000,Alzheimer's disease (G30),Alzheimer's disease,Wisconsin,1177,19.9
+
+1905,1999,Alzheimer's disease (G30),Alzheimer's disease,Wisconsin,1170,19.9
+
+2824,2016,Malignant neoplasms (C00-C97),Cancer,Wisconsin,11498,158
+
+2825,2015,Malignant neoplasms (C00-C97),Cancer,Wisconsin,11423,159.3
+
+2826,2014,Malignant neoplasms (C00-C97),Cancer,Wisconsin,11393,161.8
+
+2827,2013,Malignant neoplasms (C00-C97),Cancer,Wisconsin,11425,165.2
+
+2828,2012,Malignant neoplasms (C00-C97),Cancer,Wisconsin,11252,166.3
+
+2829,2011,Malignant neoplasms (C00-C97),Cancer,Wisconsin,11608,175.5
+
+2830,2010,Malignant neoplasms (C00-C97),Cancer,Wisconsin,11279,174.5
+
+2831,2009,Malignant neoplasms (C00-C97),Cancer,Wisconsin,10866,169.5
+
+2832,2008,Malignant neoplasms (C00-C97),Cancer,Wisconsin,11185,177.8
+
+2833,2007,Malignant neoplasms (C00-C97),Cancer,Wisconsin,10963,177.2
+
+2834,2006,Malignant neoplasms (C00-C97),Cancer,Wisconsin,10925,179.9
+
+2835,2005,Malignant neoplasms (C00-C97),Cancer,Wisconsin,10943,182.8
+
+2836,2004,Malignant neoplasms (C00-C97),Cancer,Wisconsin,10861,184.7
+
+2837,2003,Malignant neoplasms (C00-C97),Cancer,Wisconsin,10648,183.4
+
+2838,2002,Malignant neoplasms (C00-C97),Cancer,Wisconsin,10828,189.6
+
+2839,2001,Malignant neoplasms (C00-C97),Cancer,Wisconsin,10777,191.6
+
+2840,2000,Malignant neoplasms (C00-C97),Cancer,Wisconsin,10638,191.7
+
+2841,1999,Malignant neoplasms (C00-C97),Cancer,Wisconsin,10755,195.5
+
+3760,2016,Chronic lower respiratory diseases (J40-J47),CLRD,Wisconsin,2786,38.3
+
+3761,2015,Chronic lower respiratory diseases (J40-J47),CLRD,Wisconsin,2846,39.3
+
+3762,2014,Chronic lower respiratory diseases (J40-J47),CLRD,Wisconsin,2759,39.3
+
+3763,2013,Chronic lower respiratory diseases (J40-J47),CLRD,Wisconsin,2789,40.3
+
+3764,2012,Chronic lower respiratory diseases (J40-J47),CLRD,Wisconsin,2524,37.1
+
+3765,2011,Chronic lower respiratory diseases (J40-J47),CLRD,Wisconsin,2615,39.5
+
+3766,2010,Chronic lower respiratory diseases (J40-J47),CLRD,Wisconsin,2474,38
+
+3767,2009,Chronic lower respiratory diseases (J40-J47),CLRD,Wisconsin,2461,38.5
+
+3768,2008,Chronic lower respiratory diseases (J40-J47),CLRD,Wisconsin,2538,39.9
+
+3769,2007,Chronic lower respiratory diseases (J40-J47),CLRD,Wisconsin,2399,38.6
+
+3770,2006,Chronic lower respiratory diseases (J40-J47),CLRD,Wisconsin,2354,38.5
+
+3771,2005,Chronic lower respiratory diseases (J40-J47),CLRD,Wisconsin,2449,40.7
+
+3772,2004,Chronic lower respiratory diseases (J40-J47),CLRD,Wisconsin,2312,38.9
+
+3773,2003,Chronic lower respiratory diseases (J40-J47),CLRD,Wisconsin,2299,39.1
+
+3774,2002,Chronic lower respiratory diseases (J40-J47),CLRD,Wisconsin,2335,40.2
+
+3775,2001,Chronic lower respiratory diseases (J40-J47),CLRD,Wisconsin,2375,41.6
+
+3776,2000,Chronic lower respiratory diseases (J40-J47),CLRD,Wisconsin,2316,41.1
+
+3777,1999,Chronic lower respiratory diseases (J40-J47),CLRD,Wisconsin,2270,40.5
+
+4696,2016,Diabetes mellitus (E10-E14),Diabetes,Wisconsin,1440,19.9
+
+4697,2015,Diabetes mellitus (E10-E14),Diabetes,Wisconsin,1382,19.4
+
+4698,2014,Diabetes mellitus (E10-E14),Diabetes,Wisconsin,1352,19.1
+
+4699,2013,Diabetes mellitus (E10-E14),Diabetes,Wisconsin,1285,18.5
+
+4700,2012,Diabetes mellitus (E10-E14),Diabetes,Wisconsin,1289,19
+
+4701,2011,Diabetes mellitus (E10-E14),Diabetes,Wisconsin,1197,17.9
+
+4702,2010,Diabetes mellitus (E10-E14),Diabetes,Wisconsin,1158,17.7
+
+4703,2009,Diabetes mellitus (E10-E14),Diabetes,Wisconsin,1110,17.2
+
+4704,2008,Diabetes mellitus (E10-E14),Diabetes,Wisconsin,1152,18.2
+
+4705,2007,Diabetes mellitus (E10-E14),Diabetes,Wisconsin,1136,18.3
+
+4706,2006,Diabetes mellitus (E10-E14),Diabetes,Wisconsin,1212,19.7
+
+4707,2005,Diabetes mellitus (E10-E14),Diabetes,Wisconsin,1276,21
+
+4708,2004,Diabetes mellitus (E10-E14),Diabetes,Wisconsin,1310,21.9
+
+4709,2003,Diabetes mellitus (E10-E14),Diabetes,Wisconsin,1331,22.7
+
+4710,2002,Diabetes mellitus (E10-E14),Diabetes,Wisconsin,1353,23.4
+
+4711,2001,Diabetes mellitus (E10-E14),Diabetes,Wisconsin,1337,23.5
+
+4712,2000,Diabetes mellitus (E10-E14),Diabetes,Wisconsin,1309,23.3
+
+4713,1999,Diabetes mellitus (E10-E14),Diabetes,Wisconsin,1273,22.9
+
+5632,2016,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Wisconsin,11526,154.9
+
+5633,2015,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Wisconsin,11473,156
+
+5634,2014,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Wisconsin,11229,155.1
+
+5635,2013,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Wisconsin,11362,159.3
+
+5636,2012,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Wisconsin,11282,160.7
+
+5637,2011,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Wisconsin,11266,163.8
+
+5638,2010,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Wisconsin,11115,165.1
+
+5639,2009,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Wisconsin,10834,163.1
+
+5640,2008,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Wisconsin,11275,172.2
+
+5641,2007,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Wisconsin,11110,172.7
+
+5642,2006,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Wisconsin,11451,181.1
+
+5643,2005,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Wisconsin,11842,190.6
+
+5644,2004,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Wisconsin,11909,195.4
+
+5645,2003,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Wisconsin,12479,207.9
+
+5646,2002,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Wisconsin,12923,218.8
+
+5647,2001,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Wisconsin,13023,224.3
+
+5648,2000,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Wisconsin,13601,237.3
+
+5649,1999,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Wisconsin,13827,243.7
+
+6568,2016,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wisconsin,888,11.9
+
+6569,2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wisconsin,1052,14.2
+
+6570,2014,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wisconsin,1002,13.8
+
+6571,2013,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wisconsin,1125,15.6
+
+6572,2012,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wisconsin,996,14.1
+
+6573,2011,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wisconsin,986,14.2
+
+6574,2010,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wisconsin,904,13.3
+
+6575,2009,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wisconsin,979,14.6
+
+6576,2008,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wisconsin,1116,16.7
+
+6577,2007,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wisconsin,1022,15.7
+
+6578,2006,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wisconsin,1014,15.8
+
+6579,2005,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wisconsin,1268,19.9
+
+6580,2004,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wisconsin,1141,18.4
+
+6581,2003,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wisconsin,1165,19
+
+6582,2002,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wisconsin,1291,21.4
+
+6583,2001,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wisconsin,1236,20.8
+
+6584,2000,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wisconsin,1258,21.5
+
+6585,1999,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wisconsin,1425,24.6
+
+7505,2016,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wisconsin,960,13
+
+7506,2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wisconsin,996,13.7
+
+7507,2014,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wisconsin,980,13.5
+
+7508,2013,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wisconsin,993,14
+
+7509,2012,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wisconsin,1024,14.8
+
+7510,2011,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wisconsin,979,14.3
+
+7511,2010,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wisconsin,1163,17.5
+
+7512,2009,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wisconsin,994,15.1
+
+7513,2008,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wisconsin,1007,15.5
+
+7514,2007,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wisconsin,1002,15.6
+
+7515,2006,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wisconsin,962,15.4
+
+7516,2005,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wisconsin,930,15
+
+7517,2004,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wisconsin,925,15.2
+
+7518,2003,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wisconsin,873,14.5
+
+7519,2002,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wisconsin,852,14.5
+
+7520,2001,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wisconsin,791,13.5
+
+7521,2000,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wisconsin,751,13.1
+
+7522,1999,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wisconsin,677,11.9
+
+8440,2016,Cerebrovascular diseases (I60-I69),Stroke,Wisconsin,2481,33.3
+
+8441,2015,Cerebrovascular diseases (I60-I69),Stroke,Wisconsin,2618,35.6
+
+8442,2014,Cerebrovascular diseases (I60-I69),Stroke,Wisconsin,2511,34.6
+
+8443,2013,Cerebrovascular diseases (I60-I69),Stroke,Wisconsin,2536,36
+
+8444,2012,Cerebrovascular diseases (I60-I69),Stroke,Wisconsin,2520,36
+
+8445,2011,Cerebrovascular diseases (I60-I69),Stroke,Wisconsin,2554,37.2
+
+8446,2010,Cerebrovascular diseases (I60-I69),Stroke,Wisconsin,2609,38.8
+
+8447,2009,Cerebrovascular diseases (I60-I69),Stroke,Wisconsin,2501,37.7
+
+8448,2008,Cerebrovascular diseases (I60-I69),Stroke,Wisconsin,2638,40.1
+
+8449,2007,Cerebrovascular diseases (I60-I69),Stroke,Wisconsin,2738,42.6
+
+8450,2006,Cerebrovascular diseases (I60-I69),Stroke,Wisconsin,2829,44.6
+
+8451,2005,Cerebrovascular diseases (I60-I69),Stroke,Wisconsin,2960,47.4
+
+8452,2004,Cerebrovascular diseases (I60-I69),Stroke,Wisconsin,3071,50
+
+8453,2003,Cerebrovascular diseases (I60-I69),Stroke,Wisconsin,3216,53.1
+
+8454,2002,Cerebrovascular diseases (I60-I69),Stroke,Wisconsin,3479,58.4
+
+8455,2001,Cerebrovascular diseases (I60-I69),Stroke,Wisconsin,3658,62.4
+
+8456,2000,Cerebrovascular diseases (I60-I69),Stroke,Wisconsin,3598,62.2
+
+8457,1999,Cerebrovascular diseases (I60-I69),Stroke,Wisconsin,3869,67.5
+
+9376,2016,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wisconsin,866,14.7
+
+9377,2015,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wisconsin,877,14.7
+
+9378,2014,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wisconsin,769,13.1
+
+9379,2013,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wisconsin,850,14.4
+
+9380,2012,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wisconsin,723,12.4
+
+9381,2011,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wisconsin,745,12.8
+
+9382,2010,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wisconsin,793,13.4
+
+9383,2009,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wisconsin,724,12.5
+
+9384,2008,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wisconsin,743,12.8
+
+9385,2007,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wisconsin,729,12.7
+
+9386,2006,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wisconsin,670,12
+
+9387,2005,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wisconsin,643,11.6
+
+9388,2004,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wisconsin,662,11.9
+
+9389,2003,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wisconsin,647,11.6
+
+9390,2002,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wisconsin,627,11.3
+
+9391,2001,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wisconsin,639,11.7
+
+9392,2000,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wisconsin,590,10.9
+
+9393,1999,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wisconsin,593,11.1
+
+10263,2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wisconsin,3206,49.3
+
+10264,2014,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wisconsin,3015,46.9
+
+10265,2013,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wisconsin,2969,46.8
+
+10266,2012,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wisconsin,2825,44.7
+
+10267,2011,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wisconsin,2680,42.8
+
+10268,2010,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wisconsin,2525,40.8
+
+10269,2009,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wisconsin,2449,40
+
+10270,2008,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wisconsin,2484,40.8
+
+10271,2007,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wisconsin,2619,44
+
+10272,2006,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wisconsin,2524,42.7
+
+10273,2005,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wisconsin,2490,42.8
+
+10274,2004,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wisconsin,2303,39.7
+
+10275,2003,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wisconsin,2345,41
+
+10276,2002,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wisconsin,2274,40.1
+
+10277,2001,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wisconsin,2100,37.5
+
+10278,2000,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wisconsin,2159,38.9
+
+10279,1999,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wisconsin,1955,35.6
+
+51,2016,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wisconsin,3575,55.6
+
+952,2016,All Causes,All causes,Wisconsin,51815,717.9
+
+953,2015,All Causes,All causes,Wisconsin,51264,715.9
+
+954,2014,All Causes,All causes,Wisconsin,50291,712.1
+
+955,2013,All Causes,All causes,Wisconsin,50026,720.1
+
+956,2012,All Causes,All causes,Wisconsin,48384,707.8
+
+957,2011,All Causes,All causes,Wisconsin,48410,721.1
+
+958,2010,All Causes,All causes,Wisconsin,47308,719
+
+959,2009,All Causes,All causes,Wisconsin,45697,703
+
+960,2008,All Causes,All causes,Wisconsin,46815,730.3
+
+961,2007,All Causes,All causes,Wisconsin,46241,734.2
+
+962,2006,All Causes,All causes,Wisconsin,46153,745.3
+
+963,2005,All Causes,All causes,Wisconsin,46709,765.9
+
+964,2004,All Causes,All causes,Wisconsin,45600,760
+
+965,2003,All Causes,All causes,Wisconsin,46177,780.1
+
+966,2002,All Causes,All causes,Wisconsin,46981,806.1
+
+967,2001,All Causes,All causes,Wisconsin,46628,812.5
+
+968,2000,All Causes,All causes,Wisconsin,46461,820.1
+
+969,1999,All Causes,All causes,Wisconsin,46672,831.5
+
+1888,2016,Alzheimer's disease (G30),Alzheimer's disease,Wisconsin,2256,29.6
+
+1889,2015,Alzheimer's disease (G30),Alzheimer's disease,Wisconsin,2087,27.5
+
+1890,2014,Alzheimer's disease (G30),Alzheimer's disease,Wisconsin,1876,25
+
+1891,2013,Alzheimer's disease (G30),Alzheimer's disease,Wisconsin,1671,22.7
+
+1892,2012,Alzheimer's disease (G30),Alzheimer's disease,Wisconsin,1646,22.6
+
+1893,2011,Alzheimer's disease (G30),Alzheimer's disease,Wisconsin,1807,25.3
+
+1894,2010,Alzheimer's disease (G30),Alzheimer's disease,Wisconsin,1762,25.3
+
+1895,2009,Alzheimer's disease (G30),Alzheimer's disease,Wisconsin,1611,23.3
+
+1896,2008,Alzheimer's disease (G30),Alzheimer's disease,Wisconsin,1655,24.4
+
+1897,2007,Alzheimer's disease (G30),Alzheimer's disease,Wisconsin,1658,24.7
+
+1898,2006,Alzheimer's disease (G30),Alzheimer's disease,Wisconsin,1596,24.4
+
+1899,2005,Alzheimer's disease (G30),Alzheimer's disease,Wisconsin,1512,23.5
+
+1900,2004,Alzheimer's disease (G30),Alzheimer's disease,Wisconsin,1419,22.5
+
+1901,2003,Alzheimer's disease (G30),Alzheimer's disease,Wisconsin,1411,22.6
+
+1902,2002,Alzheimer's disease (G30),Alzheimer's disease,Wisconsin,1344,22
+
+1903,2001,Alzheimer's disease (G30),Alzheimer's disease,Wisconsin,1269,21.1
+
+1904,2000,Alzheimer's disease (G30),Alzheimer's disease,Wisconsin,1177,19.9
+
+1905,1999,Alzheimer's disease (G30),Alzheimer's disease,Wisconsin,1170,19.9
+
+2824,2016,Malignant neoplasms (C00-C97),Cancer,Wisconsin,11498,158
+
+2825,2015,Malignant neoplasms (C00-C97),Cancer,Wisconsin,11423,159.3
+
+2826,2014,Malignant neoplasms (C00-C97),Cancer,Wisconsin,11393,161.8
+
+2827,2013,Malignant neoplasms (C00-C97),Cancer,Wisconsin,11425,165.2
+
+2828,2012,Malignant neoplasms (C00-C97),Cancer,Wisconsin,11252,166.3
+
+2829,2011,Malignant neoplasms (C00-C97),Cancer,Wisconsin,11608,175.5
+
+2830,2010,Malignant neoplasms (C00-C97),Cancer,Wisconsin,11279,174.5
+
+2831,2009,Malignant neoplasms (C00-C97),Cancer,Wisconsin,10866,169.5
+
+2832,2008,Malignant neoplasms (C00-C97),Cancer,Wisconsin,11185,177.8
+
+2833,2007,Malignant neoplasms (C00-C97),Cancer,Wisconsin,10963,177.2
+
+2834,2006,Malignant neoplasms (C00-C97),Cancer,Wisconsin,10925,179.9
+
+2835,2005,Malignant neoplasms (C00-C97),Cancer,Wisconsin,10943,182.8
+
+2836,2004,Malignant neoplasms (C00-C97),Cancer,Wisconsin,10861,184.7
+
+2837,2003,Malignant neoplasms (C00-C97),Cancer,Wisconsin,10648,183.4
+
+2838,2002,Malignant neoplasms (C00-C97),Cancer,Wisconsin,10828,189.6
+
+2839,2001,Malignant neoplasms (C00-C97),Cancer,Wisconsin,10777,191.6
+
+2840,2000,Malignant neoplasms (C00-C97),Cancer,Wisconsin,10638,191.7
+
+2841,1999,Malignant neoplasms (C00-C97),Cancer,Wisconsin,10755,195.5
+
+3760,2016,Chronic lower respiratory diseases (J40-J47),CLRD,Wisconsin,2786,38.3
+
+3761,2015,Chronic lower respiratory diseases (J40-J47),CLRD,Wisconsin,2846,39.3
+
+3762,2014,Chronic lower respiratory diseases (J40-J47),CLRD,Wisconsin,2759,39.3
+
+3763,2013,Chronic lower respiratory diseases (J40-J47),CLRD,Wisconsin,2789,40.3
+
+3764,2012,Chronic lower respiratory diseases (J40-J47),CLRD,Wisconsin,2524,37.1
+
+3765,2011,Chronic lower respiratory diseases (J40-J47),CLRD,Wisconsin,2615,39.5
+
+3766,2010,Chronic lower respiratory diseases (J40-J47),CLRD,Wisconsin,2474,38
+
+3767,2009,Chronic lower respiratory diseases (J40-J47),CLRD,Wisconsin,2461,38.5
+
+3768,2008,Chronic lower respiratory diseases (J40-J47),CLRD,Wisconsin,2538,39.9
+
+3769,2007,Chronic lower respiratory diseases (J40-J47),CLRD,Wisconsin,2399,38.6
+
+3770,2006,Chronic lower respiratory diseases (J40-J47),CLRD,Wisconsin,2354,38.5
+
+3771,2005,Chronic lower respiratory diseases (J40-J47),CLRD,Wisconsin,2449,40.7
+
+3772,2004,Chronic lower respiratory diseases (J40-J47),CLRD,Wisconsin,2312,38.9
+
+3773,2003,Chronic lower respiratory diseases (J40-J47),CLRD,Wisconsin,2299,39.1
+
+3774,2002,Chronic lower respiratory diseases (J40-J47),CLRD,Wisconsin,2335,40.2
+
+3775,2001,Chronic lower respiratory diseases (J40-J47),CLRD,Wisconsin,2375,41.6
+
+3776,2000,Chronic lower respiratory diseases (J40-J47),CLRD,Wisconsin,2316,41.1
+
+3777,1999,Chronic lower respiratory diseases (J40-J47),CLRD,Wisconsin,2270,40.5
+
+4696,2016,Diabetes mellitus (E10-E14),Diabetes,Wisconsin,1440,19.9
+
+4697,2015,Diabetes mellitus (E10-E14),Diabetes,Wisconsin,1382,19.4
+
+4698,2014,Diabetes mellitus (E10-E14),Diabetes,Wisconsin,1352,19.1
+
+4699,2013,Diabetes mellitus (E10-E14),Diabetes,Wisconsin,1285,18.5
+
+4700,2012,Diabetes mellitus (E10-E14),Diabetes,Wisconsin,1289,19
+
+4701,2011,Diabetes mellitus (E10-E14),Diabetes,Wisconsin,1197,17.9
+
+4702,2010,Diabetes mellitus (E10-E14),Diabetes,Wisconsin,1158,17.7
+
+4703,2009,Diabetes mellitus (E10-E14),Diabetes,Wisconsin,1110,17.2
+
+4704,2008,Diabetes mellitus (E10-E14),Diabetes,Wisconsin,1152,18.2
+
+4705,2007,Diabetes mellitus (E10-E14),Diabetes,Wisconsin,1136,18.3
+
+4706,2006,Diabetes mellitus (E10-E14),Diabetes,Wisconsin,1212,19.7
+
+4707,2005,Diabetes mellitus (E10-E14),Diabetes,Wisconsin,1276,21
+
+4708,2004,Diabetes mellitus (E10-E14),Diabetes,Wisconsin,1310,21.9
+
+4709,2003,Diabetes mellitus (E10-E14),Diabetes,Wisconsin,1331,22.7
+
+4710,2002,Diabetes mellitus (E10-E14),Diabetes,Wisconsin,1353,23.4
+
+4711,2001,Diabetes mellitus (E10-E14),Diabetes,Wisconsin,1337,23.5
+
+4712,2000,Diabetes mellitus (E10-E14),Diabetes,Wisconsin,1309,23.3
+
+4713,1999,Diabetes mellitus (E10-E14),Diabetes,Wisconsin,1273,22.9
+
+5632,2016,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Wisconsin,11526,154.9
+
+5633,2015,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Wisconsin,11473,156
+
+5634,2014,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Wisconsin,11229,155.1
+
+5635,2013,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Wisconsin,11362,159.3
+
+5636,2012,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Wisconsin,11282,160.7
+
+5637,2011,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Wisconsin,11266,163.8
+
+5638,2010,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Wisconsin,11115,165.1
+
+5639,2009,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Wisconsin,10834,163.1
+
+5640,2008,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Wisconsin,11275,172.2
+
+5641,2007,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Wisconsin,11110,172.7
+
+5642,2006,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Wisconsin,11451,181.1
+
+5643,2005,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Wisconsin,11842,190.6
+
+5644,2004,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Wisconsin,11909,195.4
+
+5645,2003,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Wisconsin,12479,207.9
+
+5646,2002,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Wisconsin,12923,218.8
+
+5647,2001,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Wisconsin,13023,224.3
+
+5648,2000,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Wisconsin,13601,237.3
+
+5649,1999,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Wisconsin,13827,243.7
+
+6568,2016,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wisconsin,888,11.9
+
+6569,2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wisconsin,1052,14.2
+
+6570,2014,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wisconsin,1002,13.8
+
+6571,2013,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wisconsin,1125,15.6
+
+6572,2012,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wisconsin,996,14.1
+
+6573,2011,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wisconsin,986,14.2
+
+6574,2010,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wisconsin,904,13.3
+
+6575,2009,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wisconsin,979,14.6
+
+6576,2008,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wisconsin,1116,16.7
+
+6577,2007,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wisconsin,1022,15.7
+
+6578,2006,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wisconsin,1014,15.8
+
+6579,2005,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wisconsin,1268,19.9
+
+6580,2004,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wisconsin,1141,18.4
+
+6581,2003,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wisconsin,1165,19
+
+6582,2002,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wisconsin,1291,21.4
+
+6583,2001,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wisconsin,1236,20.8
+
+6584,2000,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wisconsin,1258,21.5
+
+6585,1999,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wisconsin,1425,24.6
+
+7505,2016,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wisconsin,960,13
+
+7506,2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wisconsin,996,13.7
+
+7507,2014,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wisconsin,980,13.5
+
+7508,2013,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wisconsin,993,14
+
+7509,2012,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wisconsin,1024,14.8
+
+7510,2011,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wisconsin,979,14.3
+
+7511,2010,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wisconsin,1163,17.5
+
+7512,2009,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wisconsin,994,15.1
+
+7513,2008,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wisconsin,1007,15.5
+
+7514,2007,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wisconsin,1002,15.6
+
+7515,2006,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wisconsin,962,15.4
+
+7516,2005,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wisconsin,930,15
+
+7517,2004,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wisconsin,925,15.2
+
+7518,2003,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wisconsin,873,14.5
+
+7519,2002,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wisconsin,852,14.5
+
+7520,2001,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wisconsin,791,13.5
+
+7521,2000,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wisconsin,751,13.1
+
+7522,1999,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wisconsin,677,11.9
+
+8440,2016,Cerebrovascular diseases (I60-I69),Stroke,Wisconsin,2481,33.3
+
+8441,2015,Cerebrovascular diseases (I60-I69),Stroke,Wisconsin,2618,35.6
+
+8442,2014,Cerebrovascular diseases (I60-I69),Stroke,Wisconsin,2511,34.6
+
+8443,2013,Cerebrovascular diseases (I60-I69),Stroke,Wisconsin,2536,36
+
+8444,2012,Cerebrovascular diseases (I60-I69),Stroke,Wisconsin,2520,36
+
+8445,2011,Cerebrovascular diseases (I60-I69),Stroke,Wisconsin,2554,37.2
+
+8446,2010,Cerebrovascular diseases (I60-I69),Stroke,Wisconsin,2609,38.8
+
+8447,2009,Cerebrovascular diseases (I60-I69),Stroke,Wisconsin,2501,37.7
+
+8448,2008,Cerebrovascular diseases (I60-I69),Stroke,Wisconsin,2638,40.1
+
+8449,2007,Cerebrovascular diseases (I60-I69),Stroke,Wisconsin,2738,42.6
+
+8450,2006,Cerebrovascular diseases (I60-I69),Stroke,Wisconsin,2829,44.6
+
+8451,2005,Cerebrovascular diseases (I60-I69),Stroke,Wisconsin,2960,47.4
+
+8452,2004,Cerebrovascular diseases (I60-I69),Stroke,Wisconsin,3071,50
+
+8453,2003,Cerebrovascular diseases (I60-I69),Stroke,Wisconsin,3216,53.1
+
+8454,2002,Cerebrovascular diseases (I60-I69),Stroke,Wisconsin,3479,58.4
+
+8455,2001,Cerebrovascular diseases (I60-I69),Stroke,Wisconsin,3658,62.4
+
+8456,2000,Cerebrovascular diseases (I60-I69),Stroke,Wisconsin,3598,62.2
+
+8457,1999,Cerebrovascular diseases (I60-I69),Stroke,Wisconsin,3869,67.5
+
+9376,2016,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wisconsin,866,14.7
+
+9377,2015,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wisconsin,877,14.7
+
+9378,2014,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wisconsin,769,13.1
+
+9379,2013,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wisconsin,850,14.4
+
+9380,2012,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wisconsin,723,12.4
+
+9381,2011,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wisconsin,745,12.8
+
+9382,2010,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wisconsin,793,13.4
+
+9383,2009,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wisconsin,724,12.5
+
+9384,2008,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wisconsin,743,12.8
+
+9385,2007,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wisconsin,729,12.7
+
+9386,2006,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wisconsin,670,12
+
+9387,2005,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wisconsin,643,11.6
+
+9388,2004,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wisconsin,662,11.9
+
+9389,2003,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wisconsin,647,11.6
+
+9390,2002,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wisconsin,627,11.3
+
+9391,2001,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wisconsin,639,11.7
+
+9392,2000,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wisconsin,590,10.9
+
+9393,1999,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wisconsin,593,11.1
+
+10263,2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wisconsin,3206,49.3
+
+10264,2014,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wisconsin,3015,46.9
+
+10265,2013,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wisconsin,2969,46.8
+
+10266,2012,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wisconsin,2825,44.7
+
+10267,2011,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wisconsin,2680,42.8
+
+10268,2010,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wisconsin,2525,40.8
+
+10269,2009,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wisconsin,2449,40
+
+10270,2008,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wisconsin,2484,40.8
+
+10271,2007,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wisconsin,2619,44
+
+10272,2006,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wisconsin,2524,42.7
+
+10273,2005,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wisconsin,2490,42.8
+
+10274,2004,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wisconsin,2303,39.7
+
+10275,2003,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wisconsin,2345,41
+
+10276,2002,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wisconsin,2274,40.1
+
+10277,2001,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wisconsin,2100,37.5
+
+10278,2000,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wisconsin,2159,38.9
+
+10279,1999,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wisconsin,1955,35.6
+
+51,2016,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wisconsin,3575,55.6
+
+952,2016,All Causes,All causes,Wisconsin,51815,717.9
+
+953,2015,All Causes,All causes,Wisconsin,51264,715.9
+
+954,2014,All Causes,All causes,Wisconsin,50291,712.1
+
+955,2013,All Causes,All causes,Wisconsin,50026,720.1
+
+956,2012,All Causes,All causes,Wisconsin,48384,707.8
+
+957,2011,All Causes,All causes,Wisconsin,48410,721.1
+
+958,2010,All Causes,All causes,Wisconsin,47308,719
+
+959,2009,All Causes,All causes,Wisconsin,45697,703
+
+960,2008,All Causes,All causes,Wisconsin,46815,730.3
+
+961,2007,All Causes,All causes,Wisconsin,46241,734.2
+
+962,2006,All Causes,All causes,Wisconsin,46153,745.3
+
+963,2005,All Causes,All causes,Wisconsin,46709,765.9
+
+964,2004,All Causes,All causes,Wisconsin,45600,760
+
+965,2003,All Causes,All causes,Wisconsin,46177,780.1
+
+966,2002,All Causes,All causes,Wisconsin,46981,806.1
+
+967,2001,All Causes,All causes,Wisconsin,46628,812.5
+
+968,2000,All Causes,All causes,Wisconsin,46461,820.1
+
+969,1999,All Causes,All causes,Wisconsin,46672,831.5
+
+1888,2016,Alzheimer's disease (G30),Alzheimer's disease,Wisconsin,2256,29.6
+
+1889,2015,Alzheimer's disease (G30),Alzheimer's disease,Wisconsin,2087,27.5
+
+1890,2014,Alzheimer's disease (G30),Alzheimer's disease,Wisconsin,1876,25
+
+1891,2013,Alzheimer's disease (G30),Alzheimer's disease,Wisconsin,1671,22.7
+
+1892,2012,Alzheimer's disease (G30),Alzheimer's disease,Wisconsin,1646,22.6
+
+1893,2011,Alzheimer's disease (G30),Alzheimer's disease,Wisconsin,1807,25.3
+
+1894,2010,Alzheimer's disease (G30),Alzheimer's disease,Wisconsin,1762,25.3
+
+1895,2009,Alzheimer's disease (G30),Alzheimer's disease,Wisconsin,1611,23.3
+
+1896,2008,Alzheimer's disease (G30),Alzheimer's disease,Wisconsin,1655,24.4
+
+1897,2007,Alzheimer's disease (G30),Alzheimer's disease,Wisconsin,1658,24.7
+
+1898,2006,Alzheimer's disease (G30),Alzheimer's disease,Wisconsin,1596,24.4
+
+1899,2005,Alzheimer's disease (G30),Alzheimer's disease,Wisconsin,1512,23.5
+
+1900,2004,Alzheimer's disease (G30),Alzheimer's disease,Wisconsin,1419,22.5
+
+1901,2003,Alzheimer's disease (G30),Alzheimer's disease,Wisconsin,1411,22.6
+
+1902,2002,Alzheimer's disease (G30),Alzheimer's disease,Wisconsin,1344,22
+
+1903,2001,Alzheimer's disease (G30),Alzheimer's disease,Wisconsin,1269,21.1
+
+1904,2000,Alzheimer's disease (G30),Alzheimer's disease,Wisconsin,1177,19.9
+
+1905,1999,Alzheimer's disease (G30),Alzheimer's disease,Wisconsin,1170,19.9
+
+2824,2016,Malignant neoplasms (C00-C97),Cancer,Wisconsin,11498,158
+
+2825,2015,Malignant neoplasms (C00-C97),Cancer,Wisconsin,11423,159.3
+
+2826,2014,Malignant neoplasms (C00-C97),Cancer,Wisconsin,11393,161.8
+
+2827,2013,Malignant neoplasms (C00-C97),Cancer,Wisconsin,11425,165.2
+
+2828,2012,Malignant neoplasms (C00-C97),Cancer,Wisconsin,11252,166.3
+
+2829,2011,Malignant neoplasms (C00-C97),Cancer,Wisconsin,11608,175.5
+
+2830,2010,Malignant neoplasms (C00-C97),Cancer,Wisconsin,11279,174.5
+
+2831,2009,Malignant neoplasms (C00-C97),Cancer,Wisconsin,10866,169.5
+
+2832,2008,Malignant neoplasms (C00-C97),Cancer,Wisconsin,11185,177.8
+
+2833,2007,Malignant neoplasms (C00-C97),Cancer,Wisconsin,10963,177.2
+
+2834,2006,Malignant neoplasms (C00-C97),Cancer,Wisconsin,10925,179.9
+
+2835,2005,Malignant neoplasms (C00-C97),Cancer,Wisconsin,10943,182.8
+
+2836,2004,Malignant neoplasms (C00-C97),Cancer,Wisconsin,10861,184.7
+
+2837,2003,Malignant neoplasms (C00-C97),Cancer,Wisconsin,10648,183.4
+
+2838,2002,Malignant neoplasms (C00-C97),Cancer,Wisconsin,10828,189.6
+
+2839,2001,Malignant neoplasms (C00-C97),Cancer,Wisconsin,10777,191.6
+
+2840,2000,Malignant neoplasms (C00-C97),Cancer,Wisconsin,10638,191.7
+
+2841,1999,Malignant neoplasms (C00-C97),Cancer,Wisconsin,10755,195.5
+
+3760,2016,Chronic lower respiratory diseases (J40-J47),CLRD,Wisconsin,2786,38.3
+
+3761,2015,Chronic lower respiratory diseases (J40-J47),CLRD,Wisconsin,2846,39.3
+
+3762,2014,Chronic lower respiratory diseases (J40-J47),CLRD,Wisconsin,2759,39.3
+
+3763,2013,Chronic lower respiratory diseases (J40-J47),CLRD,Wisconsin,2789,40.3
+
+3764,2012,Chronic lower respiratory diseases (J40-J47),CLRD,Wisconsin,2524,37.1
+
+3765,2011,Chronic lower respiratory diseases (J40-J47),CLRD,Wisconsin,2615,39.5
+
+3766,2010,Chronic lower respiratory diseases (J40-J47),CLRD,Wisconsin,2474,38
+
+3767,2009,Chronic lower respiratory diseases (J40-J47),CLRD,Wisconsin,2461,38.5
+
+3768,2008,Chronic lower respiratory diseases (J40-J47),CLRD,Wisconsin,2538,39.9
+
+3769,2007,Chronic lower respiratory diseases (J40-J47),CLRD,Wisconsin,2399,38.6
+
+3770,2006,Chronic lower respiratory diseases (J40-J47),CLRD,Wisconsin,2354,38.5
+
+3771,2005,Chronic lower respiratory diseases (J40-J47),CLRD,Wisconsin,2449,40.7
+
+3772,2004,Chronic lower respiratory diseases (J40-J47),CLRD,Wisconsin,2312,38.9
+
+3773,2003,Chronic lower respiratory diseases (J40-J47),CLRD,Wisconsin,2299,39.1
+
+3774,2002,Chronic lower respiratory diseases (J40-J47),CLRD,Wisconsin,2335,40.2
+
+3775,2001,Chronic lower respiratory diseases (J40-J47),CLRD,Wisconsin,2375,41.6
+
+3776,2000,Chronic lower respiratory diseases (J40-J47),CLRD,Wisconsin,2316,41.1
+
+3777,1999,Chronic lower respiratory diseases (J40-J47),CLRD,Wisconsin,2270,40.5
+
+4696,2016,Diabetes mellitus (E10-E14),Diabetes,Wisconsin,1440,19.9
+
+4697,2015,Diabetes mellitus (E10-E14),Diabetes,Wisconsin,1382,19.4
+
+4698,2014,Diabetes mellitus (E10-E14),Diabetes,Wisconsin,1352,19.1
+
+4699,2013,Diabetes mellitus (E10-E14),Diabetes,Wisconsin,1285,18.5
+
+4700,2012,Diabetes mellitus (E10-E14),Diabetes,Wisconsin,1289,19
+
+4701,2011,Diabetes mellitus (E10-E14),Diabetes,Wisconsin,1197,17.9
+
+4702,2010,Diabetes mellitus (E10-E14),Diabetes,Wisconsin,1158,17.7
+
+4703,2009,Diabetes mellitus (E10-E14),Diabetes,Wisconsin,1110,17.2
+
+4704,2008,Diabetes mellitus (E10-E14),Diabetes,Wisconsin,1152,18.2
+
+4705,2007,Diabetes mellitus (E10-E14),Diabetes,Wisconsin,1136,18.3
+
+4706,2006,Diabetes mellitus (E10-E14),Diabetes,Wisconsin,1212,19.7
+
+4707,2005,Diabetes mellitus (E10-E14),Diabetes,Wisconsin,1276,21
+
+4708,2004,Diabetes mellitus (E10-E14),Diabetes,Wisconsin,1310,21.9
+
+4709,2003,Diabetes mellitus (E10-E14),Diabetes,Wisconsin,1331,22.7
+
+4710,2002,Diabetes mellitus (E10-E14),Diabetes,Wisconsin,1353,23.4
+
+4711,2001,Diabetes mellitus (E10-E14),Diabetes,Wisconsin,1337,23.5
+
+4712,2000,Diabetes mellitus (E10-E14),Diabetes,Wisconsin,1309,23.3
+
+4713,1999,Diabetes mellitus (E10-E14),Diabetes,Wisconsin,1273,22.9
+
+5632,2016,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Wisconsin,11526,154.9
+
+5633,2015,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Wisconsin,11473,156
+
+5634,2014,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Wisconsin,11229,155.1
+
+5635,2013,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Wisconsin,11362,159.3
+
+5636,2012,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Wisconsin,11282,160.7
+
+5637,2011,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Wisconsin,11266,163.8
+
+5638,2010,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Wisconsin,11115,165.1
+
+5639,2009,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Wisconsin,10834,163.1
+
+5640,2008,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Wisconsin,11275,172.2
+
+5641,2007,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Wisconsin,11110,172.7
+
+5642,2006,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Wisconsin,11451,181.1
+
+5643,2005,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Wisconsin,11842,190.6
+
+5644,2004,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Wisconsin,11909,195.4
+
+5645,2003,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Wisconsin,12479,207.9
+
+5646,2002,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Wisconsin,12923,218.8
+
+5647,2001,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Wisconsin,13023,224.3
+
+5648,2000,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Wisconsin,13601,237.3
+
+5649,1999,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Wisconsin,13827,243.7
+
+6568,2016,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wisconsin,888,11.9
+
+6569,2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wisconsin,1052,14.2
+
+6570,2014,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wisconsin,1002,13.8
+
+6571,2013,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wisconsin,1125,15.6
+
+6572,2012,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wisconsin,996,14.1
+
+6573,2011,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wisconsin,986,14.2
+
+6574,2010,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wisconsin,904,13.3
+
+6575,2009,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wisconsin,979,14.6
+
+6576,2008,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wisconsin,1116,16.7
+
+6577,2007,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wisconsin,1022,15.7
+
+6578,2006,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wisconsin,1014,15.8
+
+6579,2005,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wisconsin,1268,19.9
+
+6580,2004,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wisconsin,1141,18.4
+
+6581,2003,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wisconsin,1165,19
+
+6582,2002,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wisconsin,1291,21.4
+
+6583,2001,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wisconsin,1236,20.8
+
+6584,2000,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wisconsin,1258,21.5
+
+6585,1999,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wisconsin,1425,24.6
+
+7505,2016,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wisconsin,960,13
+
+7506,2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wisconsin,996,13.7
+
+7507,2014,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wisconsin,980,13.5
+
+7508,2013,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wisconsin,993,14
+
+7509,2012,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wisconsin,1024,14.8
+
+7510,2011,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wisconsin,979,14.3
+
+7511,2010,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wisconsin,1163,17.5
+
+7512,2009,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wisconsin,994,15.1
+
+7513,2008,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wisconsin,1007,15.5
+
+7514,2007,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wisconsin,1002,15.6
+
+7515,2006,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wisconsin,962,15.4
+
+7516,2005,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wisconsin,930,15
+
+7517,2004,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wisconsin,925,15.2
+
+7518,2003,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wisconsin,873,14.5
+
+7519,2002,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wisconsin,852,14.5
+
+7520,2001,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wisconsin,791,13.5
+
+7521,2000,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wisconsin,751,13.1
+
+7522,1999,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wisconsin,677,11.9
+
+8440,2016,Cerebrovascular diseases (I60-I69),Stroke,Wisconsin,2481,33.3
+
+8441,2015,Cerebrovascular diseases (I60-I69),Stroke,Wisconsin,2618,35.6
+
+8442,2014,Cerebrovascular diseases (I60-I69),Stroke,Wisconsin,2511,34.6
+
+8443,2013,Cerebrovascular diseases (I60-I69),Stroke,Wisconsin,2536,36
+
+8444,2012,Cerebrovascular diseases (I60-I69),Stroke,Wisconsin,2520,36
+
+8445,2011,Cerebrovascular diseases (I60-I69),Stroke,Wisconsin,2554,37.2
+
+8446,2010,Cerebrovascular diseases (I60-I69),Stroke,Wisconsin,2609,38.8
+
+8447,2009,Cerebrovascular diseases (I60-I69),Stroke,Wisconsin,2501,37.7
+
+8448,2008,Cerebrovascular diseases (I60-I69),Stroke,Wisconsin,2638,40.1
+
+8449,2007,Cerebrovascular diseases (I60-I69),Stroke,Wisconsin,2738,42.6
+
+8450,2006,Cerebrovascular diseases (I60-I69),Stroke,Wisconsin,2829,44.6
+
+8451,2005,Cerebrovascular diseases (I60-I69),Stroke,Wisconsin,2960,47.4
+
+8452,2004,Cerebrovascular diseases (I60-I69),Stroke,Wisconsin,3071,50
+
+8453,2003,Cerebrovascular diseases (I60-I69),Stroke,Wisconsin,3216,53.1
+
+8454,2002,Cerebrovascular diseases (I60-I69),Stroke,Wisconsin,3479,58.4
+
+8455,2001,Cerebrovascular diseases (I60-I69),Stroke,Wisconsin,3658,62.4
+
+8456,2000,Cerebrovascular diseases (I60-I69),Stroke,Wisconsin,3598,62.2
+
+8457,1999,Cerebrovascular diseases (I60-I69),Stroke,Wisconsin,3869,67.5
+
+9376,2016,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wisconsin,866,14.7
+
+9377,2015,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wisconsin,877,14.7
+
+9378,2014,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wisconsin,769,13.1
+
+9379,2013,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wisconsin,850,14.4
+
+9380,2012,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wisconsin,723,12.4
+
+9381,2011,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wisconsin,745,12.8
+
+9382,2010,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wisconsin,793,13.4
+
+9383,2009,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wisconsin,724,12.5
+
+9384,2008,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wisconsin,743,12.8
+
+9385,2007,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wisconsin,729,12.7
+
+9386,2006,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wisconsin,670,12
+
+9387,2005,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wisconsin,643,11.6
+
+9388,2004,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wisconsin,662,11.9
+
+9389,2003,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wisconsin,647,11.6
+
+9390,2002,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wisconsin,627,11.3
+
+9391,2001,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wisconsin,639,11.7
+
+9392,2000,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wisconsin,590,10.9
+
+9393,1999,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wisconsin,593,11.1
+
+10263,2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wisconsin,3206,49.3
+
+10264,2014,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wisconsin,3015,46.9
+
+10265,2013,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wisconsin,2969,46.8
+
+10266,2012,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wisconsin,2825,44.7
+
+10267,2011,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wisconsin,2680,42.8
+
+10268,2010,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wisconsin,2525,40.8
+
+10269,2009,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wisconsin,2449,40
+
+10270,2008,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wisconsin,2484,40.8
+
+10271,2007,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wisconsin,2619,44
+
+10272,2006,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wisconsin,2524,42.7
+
+10273,2005,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wisconsin,2490,42.8
+
+10274,2004,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wisconsin,2303,39.7
+
+10275,2003,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wisconsin,2345,41
+
+10276,2002,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wisconsin,2274,40.1
+
+10277,2001,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wisconsin,2100,37.5
+
+10278,2000,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wisconsin,2159,38.9
+
+10279,1999,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wisconsin,1955,35.6
+

@@ -1,0 +1,4 @@
+3390,2008,Chronic lower respiratory diseases (J40-J47),CLRD,New Hampshire,688,48.8
+
+7749,2005,Cerebrovascular diseases (I60-I69),Stroke,Hawaii,688,47.6
+

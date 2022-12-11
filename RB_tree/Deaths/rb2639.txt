@@ -1,0 +1,4 @@
+1566,2014,Alzheimer's disease (G30),Alzheimer's disease,New York,2639,10.7
+
+5267,2004,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,New Hampshire,2639,203.4
+

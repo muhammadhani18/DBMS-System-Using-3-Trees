@@ -1,0 +1,8 @@
+4682,2012,Diabetes mellitus (E10-E14),Diabetes,West Virginia,741,30.5
+
+5739,1999,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arkansas,741,25.5
+
+4682,2012,Diabetes mellitus (E10-E14),Diabetes,West Virginia,741,30.5
+
+5739,1999,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arkansas,741,25.5
+

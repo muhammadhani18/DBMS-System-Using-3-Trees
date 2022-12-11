@@ -1,0 +1,4 @@
+10213,2014,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Virginia,3146,36.8
+
+10213,2014,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Virginia,3146,36.8
+

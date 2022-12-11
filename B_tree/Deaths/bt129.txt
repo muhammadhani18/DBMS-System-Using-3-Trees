@@ -1,0 +1,32 @@
+1133,2015,Alzheimer's disease (G30),Alzheimer's disease,District of Columbia,129,19.2
+
+1136,2012,Alzheimer's disease (G30),Alzheimer's disease,District of Columbia,129,20.5
+
+3013,2007,Chronic lower respiratory diseases (J40-J47),CLRD,District of Columbia,129,23.5
+
+3947,2009,Diabetes mellitus (E10-E14),Diabetes,District of Columbia,129,22.5
+
+7079,2009,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Montana,129,11.3
+
+9184,2010,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Rhode Island,129,12.3
+
+9221,2009,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,South Dakota,129,16.3
+
+9397,2013,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wyoming,129,21.5
+
+1133,2015,Alzheimer's disease (G30),Alzheimer's disease,District of Columbia,129,19.2
+
+1136,2012,Alzheimer's disease (G30),Alzheimer's disease,District of Columbia,129,20.5
+
+3013,2007,Chronic lower respiratory diseases (J40-J47),CLRD,District of Columbia,129,23.5
+
+3947,2009,Diabetes mellitus (E10-E14),Diabetes,District of Columbia,129,22.5
+
+7079,2009,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Montana,129,11.3
+
+9184,2010,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Rhode Island,129,12.3
+
+9221,2009,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,South Dakota,129,16.3
+
+9397,2013,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wyoming,129,21.5
+

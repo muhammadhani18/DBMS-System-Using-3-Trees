@@ -1,0 +1,4 @@
+7625,2003,Cerebrovascular diseases (I60-I69),Stroke,California,17692,58.2
+
+7625,2003,Cerebrovascular diseases (I60-I69),Stroke,California,17692,58.2
+

@@ -1,0 +1,4 @@
+1177,2007,Alzheimer's disease (G30),Alzheimer's disease,Georgia,1849,27.2
+
+5207,2010,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Montana,1849,154.2
+

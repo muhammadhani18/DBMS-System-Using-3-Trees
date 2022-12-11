@@ -1,0 +1,6 @@
+3838,2010,Diabetes mellitus (E10-E14),Diabetes,Arizona,1389,20.3
+
+4884,2008,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,District of Columbia,1389,244.3
+
+6130,2004,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Missouri,1389,22.1
+

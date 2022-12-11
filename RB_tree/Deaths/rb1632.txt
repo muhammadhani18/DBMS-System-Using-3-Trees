@@ -1,0 +1,8 @@
+1448,2006,Alzheimer's disease (G30),Alzheimer's disease,Missouri,1632,25.1
+
+2679,1999,Malignant neoplasms (C00-C97),Cancer,South Dakota,1632,197.4
+
+4652,2006,Diabetes mellitus (E10-E14),Diabetes,Virginia,1632,22.1
+
+5358,2003,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,North Dakota,1632,201.8
+

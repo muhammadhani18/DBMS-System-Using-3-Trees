@@ -1,0 +1,12 @@
+1324,2004,Alzheimer's disease (G30),Alzheimer's disease,Louisiana,1267,32
+
+1544,2000,Alzheimer's disease (G30),Alzheimer's disease,New Jersey,1267,14.4
+
+3309,1999,Chronic lower respiratory diseases (J40-J47),CLRD,Mississippi,1267,47.2
+
+3752,2006,Chronic lower respiratory diseases (J40-J47),CLRD,West Virginia,1267,56.3
+
+9478,2000,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Arkansas,1267,46.5
+
+9949,2005,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,New Mexico,1267,67
+

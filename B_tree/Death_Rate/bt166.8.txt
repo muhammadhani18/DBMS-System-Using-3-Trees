@@ -1,0 +1,4 @@
+2214,2014,Malignant neoplasms (C00-C97),Cancer,Kansas,5587,166.8
+
+2548,2004,Malignant neoplasms (C00-C97),Cancer,North Dakota,1265,166.8
+

@@ -1,0 +1,8 @@
+2399,2009,Malignant neoplasms (C00-C97),Cancer,Montana,1914,163
+
+2961,2005,Chronic lower respiratory diseases (J40-J47),CLRD,Colorado,1914,50.9
+
+4867,2007,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Delaware,1914,205.1
+
+10245,1999,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Washington,1914,33.3
+

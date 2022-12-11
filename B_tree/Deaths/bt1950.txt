@@ -1,0 +1,4 @@
+6075,2005,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Michigan,1950,18.9
+
+6075,2005,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Michigan,1950,18.9
+

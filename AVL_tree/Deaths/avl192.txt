@@ -1,0 +1,10 @@
+1117,2013,Alzheimer's disease (G30),Alzheimer's disease,Delaware,192,17.6
+
+1197,2005,Alzheimer's disease (G30),Alzheimer's disease,Hawaii,192,13.1
+
+2880,2014,Chronic lower respiratory diseases (J40-J47),CLRD,Alaska,192,38.8
+
+3951,2005,Diabetes mellitus (E10-E14),Diabetes,District of Columbia,192,34.4
+
+4414,2010,Diabetes mellitus (E10-E14),Diabetes,North Dakota,192,22.2
+

@@ -1,0 +1,4 @@
+5209,2008,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Montana,1975,170.6
+
+6304,2010,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Ohio,1975,14.6
+

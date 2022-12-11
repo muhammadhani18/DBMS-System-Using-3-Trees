@@ -1,0 +1,8 @@
+2048,2000,Malignant neoplasms (C00-C97),Cancer,Connecticut,7065,189.5
+
+2382,2008,Malignant neoplasms (C00-C97),Cancer,Missouri,12523,189.5
+
+4852,2004,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Connecticut,7868,189.5
+
+5460,2009,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,South Carolina,9068,189.5
+

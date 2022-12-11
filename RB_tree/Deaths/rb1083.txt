@@ -1,0 +1,10 @@
+1419,1999,Alzheimer's disease (G30),Alzheimer's disease,Minnesota,1083,21.1
+
+3839,2009,Diabetes mellitus (E10-E14),Diabetes,Arizona,1083,16.2
+
+4464,2014,Diabetes mellitus (E10-E14),Diabetes,Oregon,1083,22.4
+
+7066,2004,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Missouri,1083,17.4
+
+8568,2014,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Colorado,1083,19.9
+

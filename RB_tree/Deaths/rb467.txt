@@ -1,0 +1,6 @@
+1343,2003,Alzheimer's disease (G30),Alzheimer's disease,Maine,467,30.2
+
+9211,2001,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,South Carolina,467,11.4
+
+9601,2013,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Hawaii,467,30.1
+

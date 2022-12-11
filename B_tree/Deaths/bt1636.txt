@@ -1,0 +1,8 @@
+1541,2003,Alzheimer's disease (G30),Alzheimer's disease,New Jersey,1636,17.7
+
+2675,2003,Malignant neoplasms (C00-C97),Cancer,South Dakota,1636,190.3
+
+1541,2003,Alzheimer's disease (G30),Alzheimer's disease,New Jersey,1636,17.7
+
+2675,2003,Malignant neoplasms (C00-C97),Cancer,South Dakota,1636,190.3
+

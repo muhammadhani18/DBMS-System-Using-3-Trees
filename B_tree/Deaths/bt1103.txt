@@ -1,0 +1,24 @@
+1003,2001,Alzheimer's disease (G30),Alzheimer's disease,Alabama,1103,25.1
+
+4452,2008,Diabetes mellitus (E10-E14),Diabetes,Oklahoma,1103,28.3
+
+6031,2013,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Maryland,1103,17.2
+
+8040,2002,Cerebrovascular diseases (I60-I69),Stroke,Nebraska,1103,55.2
+
+8424,2014,Cerebrovascular diseases (I60-I69),Stroke,West Virginia,1103,45.3
+
+10180,2013,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Utah,1103,43.4
+
+1003,2001,Alzheimer's disease (G30),Alzheimer's disease,Alabama,1103,25.1
+
+4452,2008,Diabetes mellitus (E10-E14),Diabetes,Oklahoma,1103,28.3
+
+6031,2013,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Maryland,1103,17.2
+
+8040,2002,Cerebrovascular diseases (I60-I69),Stroke,Nebraska,1103,55.2
+
+8424,2014,Cerebrovascular diseases (I60-I69),Stroke,West Virginia,1103,45.3
+
+10180,2013,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Utah,1103,43.4
+

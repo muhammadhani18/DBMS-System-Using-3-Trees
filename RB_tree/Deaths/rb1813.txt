@@ -1,0 +1,4 @@
+2057,2009,Malignant neoplasms (C00-C97),Cancer,Delaware,1813,178.7
+
+7643,2003,Cerebrovascular diseases (I60-I69),Stroke,Colorado,1813,51.5
+

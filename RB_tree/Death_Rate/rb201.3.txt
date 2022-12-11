@@ -1,0 +1,6 @@
+1987,2007,Malignant neoplasms (C00-C97),Cancer,Arkansas,6388,201.3
+
+2442,2002,Malignant neoplasms (C00-C97),Cancer,Nevada,3937,201.3
+
+5426,2007,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Pennsylvania,32862,201.3
+

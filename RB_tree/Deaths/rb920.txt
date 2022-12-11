@@ -1,0 +1,4 @@
+3850,2016,Diabetes mellitus (E10-E14),Diabetes,Arkansas,920,25.4
+
+6944,2000,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Louisiana,920,22.8
+

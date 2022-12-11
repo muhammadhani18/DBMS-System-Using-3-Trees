@@ -1,0 +1,4 @@
+2343,2011,Malignant neoplasms (C00-C97),Cancer,Minnesota,9489,160.8
+
+2343,2011,Malignant neoplasms (C00-C97),Cancer,Minnesota,9489,160.8
+

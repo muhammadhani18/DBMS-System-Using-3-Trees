@@ -1,0 +1,62 @@
+1071,2005,Alzheimer's disease (G30),Alzheimer's disease,California,7706,24.6
+
+1253,2003,Alzheimer's disease (G30),Alzheimer's disease,Indiana,1515,24.6
+
+1327,2001,Alzheimer's disease (G30),Alzheimer's disease,Louisiana,957,24.6
+
+1389,2011,Alzheimer's disease (G30),Alzheimer's disease,Michigan,2876,24.6
+
+1467,2005,Alzheimer's disease (G30),Alzheimer's disease,Montana,267,24.6
+
+1492,2016,Alzheimer's disease (G30),Alzheimer's disease,Nevada,686,24.6
+
+1597,2001,Alzheimer's disease (G30),Alzheimer's disease,North Carolina,1786,24.6
+
+1766,2012,Alzheimer's disease (G30),Alzheimer's disease,Texas,5175,24.6
+
+1842,2008,Alzheimer's disease (G30),Alzheimer's disease,Virginia,1763,24.6
+
+1873,2013,Alzheimer's disease (G30),Alzheimer's disease,West Virginia,590,24.6
+
+3854,2012,Diabetes mellitus (E10-E14),Diabetes,Arkansas,833,24.6
+
+3866,2000,Diabetes mellitus (E10-E14),Diabetes,Arkansas,714,24.6
+
+3938,2000,Diabetes mellitus (E10-E14),Diabetes,Delaware,193,24.6
+
+4043,2003,Diabetes mellitus (E10-E14),Diabetes,Illinois,3044,24.6
+
+4044,2002,Diabetes mellitus (E10-E14),Diabetes,Illinois,3011,24.6
+
+4197,2011,Diabetes mellitus (E10-E14),Diabetes,Michigan,2811,24.6
+
+4226,2000,Diabetes mellitus (E10-E14),Diabetes,Minnesota,1209,24.6
+
+4262,2000,Diabetes mellitus (E10-E14),Diabetes,Missouri,1458,24.6
+
+4426,2016,Diabetes mellitus (E10-E14),Diabetes,Ohio,3568,24.6
+
+4467,2011,Diabetes mellitus (E10-E14),Diabetes,Oregon,1113,24.6
+
+4479,1999,Diabetes mellitus (E10-E14),Diabetes,Oregon,860,24.6
+
+4606,2016,Diabetes mellitus (E10-E14),Diabetes,Utah,624,24.6
+
+4607,2015,Diabetes mellitus (E10-E14),Diabetes,Utah,604,24.6
+
+4610,2012,Diabetes mellitus (E10-E14),Diabetes,Utah,541,24.6
+
+4657,2001,Diabetes mellitus (E10-E14),Diabetes,Virginia,1613,24.6
+
+5900,2000,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Idaho,288,24.6
+
+6332,2000,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Oklahoma,885,24.6
+
+6402,2002,Influenza and pneumonia (J09-J18),Influenza and pneumonia,South Carolina,910,24.6
+
+6585,1999,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wisconsin,1425,24.6
+
+7044,2008,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Mississippi,723,24.6
+
+9554,2009,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,District of Columbia,145,24.6
+

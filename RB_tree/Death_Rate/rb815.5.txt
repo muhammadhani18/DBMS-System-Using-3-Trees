@@ -1,0 +1,4 @@
+590,2000,All Causes,All causes,New Hampshire,9697,815.5
+
+591,1999,All Causes,All causes,New Hampshire,9537,815.5
+

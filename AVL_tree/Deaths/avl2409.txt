@@ -1,0 +1,6 @@
+4394,2012,Diabetes mellitus (E10-E14),Diabetes,North Carolina,2409,22.6
+
+5263,2008,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,New Hampshire,2409,166
+
+9725,2008,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Louisiana,2409,54.9
+

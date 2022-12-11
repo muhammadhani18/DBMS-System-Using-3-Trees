@@ -1,0 +1,46 @@
+1230,2008,Alzheimer's disease (G30),Alzheimer's disease,Illinois,3192,23.6
+
+1477,2013,Alzheimer's disease (G30),Alzheimer's disease,Nebraska,557,23.6
+
+1810,2004,Alzheimer's disease (G30),Alzheimer's disease,Utah,376,23.6
+
+1814,2000,Alzheimer's disease (G30),Alzheimer's disease,Utah,342,23.6
+
+1845,2005,Alzheimer's disease (G30),Alzheimer's disease,Virginia,1550,23.6
+
+1881,2005,Alzheimer's disease (G30),Alzheimer's disease,West Virginia,504,23.6
+
+3931,2007,Diabetes mellitus (E10-E14),Diabetes,Delaware,223,23.6
+
+3981,2011,Diabetes mellitus (E10-E14),Diabetes,Georgia,2121,23.6
+
+4221,2005,Diabetes mellitus (E10-E14),Diabetes,Minnesota,1258,23.6
+
+4240,2004,Diabetes mellitus (E10-E14),Diabetes,Mississippi,665,23.6
+
+4258,2004,Diabetes mellitus (E10-E14),Diabetes,Missouri,1461,23.6
+
+4264,2016,Diabetes mellitus (E10-E14),Diabetes,Montana,311,23.6
+
+4280,2000,Diabetes mellitus (E10-E14),Diabetes,Montana,227,23.6
+
+4331,2003,Diabetes mellitus (E10-E14),Diabetes,New Hampshire,300,23.6
+
+4391,2015,Diabetes mellitus (E10-E14),Diabetes,North Carolina,2746,23.6
+
+4492,2004,Diabetes mellitus (E10-E14),Diabetes,Pennsylvania,3579,23.6
+
+4598,2006,Diabetes mellitus (E10-E14),Diabetes,United States,72449,23.6
+
+4659,1999,Diabetes mellitus (E10-E14),Diabetes,Virginia,1486,23.6
+
+6041,2003,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Maryland,1175,23.6
+
+6326,2006,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Oklahoma,879,23.6
+
+6387,1999,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Rhode Island,300,23.6
+
+6663,2011,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arkansas,787,23.6
+
+7121,2003,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Nevada,439,23.6
+

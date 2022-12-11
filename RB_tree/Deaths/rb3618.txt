@@ -1,0 +1,4 @@
+78,2009,All Causes,All causes,Alaska,3618,763.8
+
+4430,2012,Diabetes mellitus (E10-E14),Diabetes,Ohio,3618,26.1
+

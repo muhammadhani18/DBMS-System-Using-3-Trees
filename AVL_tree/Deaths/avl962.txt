@@ -1,0 +1,8 @@
+2842,2016,Malignant neoplasms (C00-C97),Cancer,Wyoming,962,140.9
+
+5656,2010,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Wyoming,962,169.8
+
+5920,2016,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Indiana,962,12.6
+
+7515,2006,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wisconsin,962,15.4
+

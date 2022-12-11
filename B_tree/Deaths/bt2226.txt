@@ -1,0 +1,12 @@
+2627,2015,Malignant neoplasms (C00-C97),Cancer,Rhode Island,2226,163.1
+
+7586,2006,Cerebrovascular diseases (I60-I69),Stroke,Arizona,2226,37.5
+
+7824,2002,Cerebrovascular diseases (I60-I69),Stroke,Iowa,2226,58.5
+
+2627,2015,Malignant neoplasms (C00-C97),Cancer,Rhode Island,2226,163.1
+
+7586,2006,Cerebrovascular diseases (I60-I69),Stroke,Arizona,2226,37.5
+
+7824,2002,Cerebrovascular diseases (I60-I69),Stroke,Iowa,2226,58.5
+

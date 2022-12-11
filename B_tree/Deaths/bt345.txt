@@ -1,0 +1,24 @@
+2998,2004,Chronic lower respiratory diseases (J40-J47),CLRD,Delaware,345,40.4
+
+3788,2006,Chronic lower respiratory diseases (J40-J47),CLRD,Wyoming,345,67.4
+
+6164,2006,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Nebraska,345,16.3
+
+7504,1999,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,West Virginia,345,16.4
+
+8778,2002,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Kansas,345,12.7
+
+9443,2001,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Alaska,345,60.5
+
+2998,2004,Chronic lower respiratory diseases (J40-J47),CLRD,Delaware,345,40.4
+
+3788,2006,Chronic lower respiratory diseases (J40-J47),CLRD,Wyoming,345,67.4
+
+6164,2006,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Nebraska,345,16.3
+
+7504,1999,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,West Virginia,345,16.4
+
+8778,2002,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Kansas,345,12.7
+
+9443,2001,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Alaska,345,60.5
+

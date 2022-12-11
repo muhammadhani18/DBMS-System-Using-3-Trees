@@ -1,0 +1,12 @@
+6218,2006,Influenza and pneumonia (J09-J18),Influenza and pneumonia,New Jersey,1315,13.7
+
+7214,2000,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,North Carolina,1315,17.6
+
+7653,2011,Cerebrovascular diseases (I60-I69),Stroke,Connecticut,1315,28.3
+
+6218,2006,Influenza and pneumonia (J09-J18),Influenza and pneumonia,New Jersey,1315,13.7
+
+7214,2000,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,North Carolina,1315,17.6
+
+7653,2011,Cerebrovascular diseases (I60-I69),Stroke,Connecticut,1315,28.3
+

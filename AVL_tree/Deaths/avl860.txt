@@ -1,0 +1,14 @@
+1285,2007,Alzheimer's disease (G30),Alzheimer's disease,Kansas,860,25.8
+
+4479,1999,Diabetes mellitus (E10-E14),Diabetes,Oregon,860,24.6
+
+4678,2016,Diabetes mellitus (E10-E14),Diabetes,West Virginia,860,34.8
+
+5789,2003,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Connecticut,860,20.5
+
+7329,2012,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,South Carolina,860,16.4
+
+8933,2009,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Missouri,860,14.3
+
+9901,2002,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Nevada,860,41.7
+

@@ -1,0 +1,8 @@
+978,2008,All Causes,All causes,Wyoming,4227,778.9
+
+4385,2003,Diabetes mellitus (E10-E14),Diabetes,New York,4227,21
+
+978,2008,All Causes,All causes,Wyoming,4227,778.9
+
+4385,2003,Diabetes mellitus (E10-E14),Diabetes,New York,4227,21
+

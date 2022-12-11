@@ -1,0 +1,26 @@
+1048,2010,Alzheimer's disease (G30),Alzheimer's disease,Arkansas,955,29.6
+
+1260,2014,Alzheimer's disease (G30),Alzheimer's disease,Iowa,1313,29.6
+
+1330,2016,Alzheimer's disease (G30),Alzheimer's disease,Maine,577,29.6
+
+1347,1999,Alzheimer's disease (G30),Alzheimer's disease,Maine,429,29.6
+
+1668,2002,Alzheimer's disease (G30),Alzheimer's disease,Oregon,1124,29.6
+
+1888,2016,Alzheimer's disease (G30),Alzheimer's disease,Wisconsin,2256,29.6
+
+3401,2015,Chronic lower respiratory diseases (J40-J47),CLRD,New Jersey,3202,29.6
+
+3811,2001,Diabetes mellitus (E10-E14),Diabetes,Alabama,1344,29.6
+
+4436,2006,Diabetes mellitus (E10-E14),Diabetes,Ohio,3761,29.6
+
+4533,1999,Diabetes mellitus (E10-E14),Diabetes,South Carolina,1118,29.6
+
+9398,2012,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wyoming,171,29.6
+
+9604,2010,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Hawaii,432,29.6
+
+9610,2004,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Hawaii,390,29.6
+

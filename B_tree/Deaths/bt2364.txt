@@ -1,0 +1,16 @@
+5438,2013,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Rhode Island,2364,163.4
+
+7587,2005,Cerebrovascular diseases (I60-I69),Stroke,Arizona,2364,41.4
+
+7909,2007,Cerebrovascular diseases (I60-I69),Stroke,Maryland,2364,42.9
+
+10100,2007,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,South Carolina,2364,53.2
+
+5438,2013,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Rhode Island,2364,163.4
+
+7587,2005,Cerebrovascular diseases (I60-I69),Stroke,Arizona,2364,41.4
+
+7909,2007,Cerebrovascular diseases (I60-I69),Stroke,Maryland,2364,42.9
+
+10100,2007,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,South Carolina,2364,53.2
+

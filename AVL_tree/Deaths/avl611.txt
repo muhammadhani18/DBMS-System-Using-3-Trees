@@ -1,0 +1,4 @@
+3391,2007,Chronic lower respiratory diseases (J40-J47),CLRD,New Hampshire,611,44.2
+
+9629,2002,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Idaho,611,47.1
+

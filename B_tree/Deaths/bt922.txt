@@ -1,0 +1,16 @@
+1353,2011,Alzheimer's disease (G30),Alzheimer's disease,Maryland,922,15.1
+
+2844,2014,Malignant neoplasms (C00-C97),Cancer,Wyoming,922,140.7
+
+6920,2006,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Kentucky,922,21.6
+
+8036,2006,Cerebrovascular diseases (I60-I69),Stroke,Nebraska,922,44.7
+
+1353,2011,Alzheimer's disease (G30),Alzheimer's disease,Maryland,922,15.1
+
+2844,2014,Malignant neoplasms (C00-C97),Cancer,Wyoming,922,140.7
+
+6920,2006,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Kentucky,922,21.6
+
+8036,2006,Cerebrovascular diseases (I60-I69),Stroke,Nebraska,922,44.7
+

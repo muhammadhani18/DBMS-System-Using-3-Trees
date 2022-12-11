@@ -1,0 +1,8 @@
+1473,1999,Alzheimer's disease (G30),Alzheimer's disease,Montana,205,21.4
+
+1825,2007,Alzheimer's disease (G30),Alzheimer's disease,Vermont,205,28.7
+
+6014,2012,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Maine,205,11.6
+
+8462,2012,Cerebrovascular diseases (I60-I69),Stroke,Wyoming,205,34.9
+

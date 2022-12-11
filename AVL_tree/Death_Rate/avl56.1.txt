@@ -1,0 +1,8 @@
+7982,2006,Cerebrovascular diseases (I60-I69),Stroke,Mississippi,1585,56.1
+
+8002,2004,Cerebrovascular diseases (I60-I69),Stroke,Missouri,3503,56.1
+
+8021,2003,Cerebrovascular diseases (I60-I69),Stroke,Montana,576,56.1
+
+10034,2005,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Oklahoma,2005,56.1
+

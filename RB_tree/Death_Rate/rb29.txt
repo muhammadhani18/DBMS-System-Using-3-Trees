@@ -1,0 +1,12 @@
+1083,2011,Alzheimer's disease (G30),Alzheimer's disease,Colorado,1307,29
+
+1092,2002,Alzheimer's disease (G30),Alzheimer's disease,Colorado,954,29
+
+1214,2006,Alzheimer's disease (G30),Alzheimer's disease,Idaho,400,29
+
+4435,2007,Diabetes mellitus (E10-E14),Diabetes,Ohio,3722,29
+
+9776,2008,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Massachusetts,2040,29
+
+9931,2006,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,New Jersey,2590,29
+

@@ -1,0 +1,6 @@
+2114,2006,Malignant neoplasms (C00-C97),Cancer,Georgia,14474,184
+
+2779,2007,Malignant neoplasms (C00-C97),Cancer,Virginia,14009,184
+
+4973,2009,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Illinois,24931,184
+

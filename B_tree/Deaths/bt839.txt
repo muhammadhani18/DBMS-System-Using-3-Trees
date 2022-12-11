@@ -1,0 +1,12 @@
+1104,2008,Alzheimer's disease (G30),Alzheimer's disease,Connecticut,839,17.8
+
+1951,2007,Malignant neoplasms (C00-C97),Cancer,Alaska,839,182.6
+
+3860,2006,Diabetes mellitus (E10-E14),Diabetes,Arkansas,839,27.2
+
+1104,2008,Alzheimer's disease (G30),Alzheimer's disease,Connecticut,839,17.8
+
+1951,2007,Malignant neoplasms (C00-C97),Cancer,Alaska,839,182.6
+
+3860,2006,Diabetes mellitus (E10-E14),Diabetes,Arkansas,839,27.2
+

@@ -1,0 +1,8 @@
+1585,2013,Alzheimer's disease (G30),Alzheimer's disease,North Carolina,2872,27.7
+
+5553,2005,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Utah,2872,167.9
+
+1585,2013,Alzheimer's disease (G30),Alzheimer's disease,North Carolina,2872,27.7
+
+5553,2005,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Utah,2872,167.9
+

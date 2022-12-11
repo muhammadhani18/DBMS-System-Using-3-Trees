@@ -1,0 +1,4 @@
+505,2013,All Causes,All causes,Missouri,57444,807.7
+
+836,2006,All Causes,All causes,Texas,157150,807.7
+

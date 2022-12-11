@@ -1,0 +1,6 @@
+1241,2015,Alzheimer's disease (G30),Alzheimer's disease,Indiana,2513,33.1
+
+8408,2012,Cerebrovascular diseases (I60-I69),Stroke,Washington,2513,34.3
+
+9703,2013,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Kentucky,2513,55.7
+

@@ -1,0 +1,6 @@
+2419,2007,Malignant neoplasms (C00-C97),Cancer,Nebraska,3479,176.6
+
+2420,2006,Malignant neoplasms (C00-C97),Cancer,Nebraska,3430,176.6
+
+4942,2004,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Hawaii,2457,176.6
+

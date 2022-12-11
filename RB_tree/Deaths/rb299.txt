@@ -1,0 +1,12 @@
+1694,2012,Alzheimer's disease (G30),Alzheimer's disease,Rhode Island,299,19.8
+
+3067,2007,Chronic lower respiratory diseases (J40-J47),CLRD,Hawaii,299,19.9
+
+4023,2005,Diabetes mellitus (E10-E14),Diabetes,Idaho,299,22.4
+
+8781,1999,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Kansas,299,11.2
+
+10286,2009,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wyoming,299,53.7
+
+10288,2007,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wyoming,299,56.5
+

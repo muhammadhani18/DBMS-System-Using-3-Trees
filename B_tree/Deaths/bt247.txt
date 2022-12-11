@@ -1,0 +1,16 @@
+1195,2007,Alzheimer's disease (G30),Alzheimer's disease,Hawaii,247,15.7
+
+4543,2007,Diabetes mellitus (E10-E14),Diabetes,South Dakota,247,26.1
+
+8368,2016,Cerebrovascular diseases (I60-I69),Stroke,Vermont,247,29.2
+
+9000,2014,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,New Hampshire,247,17.8
+
+1195,2007,Alzheimer's disease (G30),Alzheimer's disease,Hawaii,247,15.7
+
+4543,2007,Diabetes mellitus (E10-E14),Diabetes,South Dakota,247,26.1
+
+8368,2016,Cerebrovascular diseases (I60-I69),Stroke,Vermont,247,29.2
+
+9000,2014,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,New Hampshire,247,17.8
+

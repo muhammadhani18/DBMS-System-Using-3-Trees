@@ -1,0 +1,8 @@
+5450,2001,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Rhode Island,3076,244.3
+
+6769,2014,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Florida,3076,10.6
+
+5450,2001,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Rhode Island,3076,244.3
+
+6769,2014,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Florida,3076,10.6
+

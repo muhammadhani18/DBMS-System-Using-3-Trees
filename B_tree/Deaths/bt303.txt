@@ -1,0 +1,16 @@
+1703,2003,Alzheimer's disease (G30),Alzheimer's disease,Rhode Island,303,22
+
+1812,2002,Alzheimer's disease (G30),Alzheimer's disease,Utah,303,19.9
+
+3065,2009,Chronic lower respiratory diseases (J40-J47),CLRD,Hawaii,303,19.1
+
+10203,2007,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Vermont,303,44.9
+
+1703,2003,Alzheimer's disease (G30),Alzheimer's disease,Rhode Island,303,22
+
+1812,2002,Alzheimer's disease (G30),Alzheimer's disease,Utah,303,19.9
+
+3065,2009,Chronic lower respiratory diseases (J40-J47),CLRD,Hawaii,303,19.1
+
+10203,2007,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Vermont,303,44.9
+

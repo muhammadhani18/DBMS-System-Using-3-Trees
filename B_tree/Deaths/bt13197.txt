@@ -1,0 +1,4 @@
+4746,2002,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Alabama,13197,291.3
+
+4746,2002,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Alabama,13197,291.3
+

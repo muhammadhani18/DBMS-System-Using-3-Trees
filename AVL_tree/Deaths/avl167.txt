@@ -1,0 +1,16 @@
+1740,2002,Alzheimer's disease (G30),Alzheimer's disease,South Dakota,167,17
+
+7128,2014,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,New Hampshire,167,10.2
+
+7315,2010,Cerebrovascular diseases (I60-I69),Stroke,Alaska,167,40.9
+
+7316,2007,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Rhode Island,167,12.6
+
+7317,2006,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Rhode Island,167,12.9
+
+8496,2014,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Alaska,167,22.1
+
+8708,2000,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Idaho,167,13.3
+
+9013,2001,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,New Hampshire,167,13.2
+

@@ -1,0 +1,4 @@
+3153,2011,Chronic lower respiratory diseases (J40-J47),CLRD,Kansas,1647,51.3
+
+9164,2012,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Pennsylvania,1647,12.4
+

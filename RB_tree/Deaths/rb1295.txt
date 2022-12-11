@@ -1,0 +1,8 @@
+1318,2010,Alzheimer's disease (G30),Alzheimer's disease,Louisiana,1295,30.8
+
+8658,2014,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Georgia,1295,12.6
+
+8875,2013,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Michigan,1295,12.9
+
+9115,2007,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Ohio,1295,11.1
+

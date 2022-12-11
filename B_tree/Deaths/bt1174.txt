@@ -1,0 +1,20 @@
+3347,2015,Chronic lower respiratory diseases (J40-J47),CLRD,Nebraska,1174,52.2
+
+3378,2002,Chronic lower respiratory diseases (J40-J47),CLRD,Nevada,1174,65.9
+
+9076,2010,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,North Carolina,1174,12
+
+9077,2009,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,North Carolina,1174,12.2
+
+9691,2008,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Kansas,1174,40
+
+3347,2015,Chronic lower respiratory diseases (J40-J47),CLRD,Nebraska,1174,52.2
+
+3378,2002,Chronic lower respiratory diseases (J40-J47),CLRD,Nevada,1174,65.9
+
+9076,2010,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,North Carolina,1174,12
+
+9077,2009,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,North Carolina,1174,12.2
+
+9691,2008,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Kansas,1174,40
+

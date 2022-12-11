@@ -1,0 +1,4 @@
+4997,2003,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Indiana,15467,249.4
+
+5467,2002,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,South Carolina,9659,249.4
+

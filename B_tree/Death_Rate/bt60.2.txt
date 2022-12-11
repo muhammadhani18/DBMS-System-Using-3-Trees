@@ -1,0 +1,10 @@
+7770,2002,Cerebrovascular diseases (I60-I69),Stroke,Idaho,736,60.2
+
+7915,2001,Cerebrovascular diseases (I60-I69),Stroke,Maryland,2882,60.2
+
+8043,1999,Cerebrovascular diseases (I60-I69),Stroke,Nebraska,1176,60.2
+
+8271,2005,Cerebrovascular diseases (I60-I69),Stroke,South Carolina,2458,60.2
+
+8367,1999,Cerebrovascular diseases (I60-I69),Stroke,Utah,869,60.2
+

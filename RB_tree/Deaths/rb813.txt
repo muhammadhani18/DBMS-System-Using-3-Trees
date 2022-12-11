@@ -1,0 +1,8 @@
+1101,2011,Alzheimer's disease (G30),Alzheimer's disease,Connecticut,813,16.4
+
+6924,2002,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Kentucky,813,20.4
+
+7026,2008,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Minnesota,813,14.1
+
+8114,2000,Cerebrovascular diseases (I60-I69),Stroke,New Mexico,813,50.6
+

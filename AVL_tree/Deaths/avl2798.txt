@@ -1,0 +1,4 @@
+4033,2013,Diabetes mellitus (E10-E14),Diabetes,Illinois,2798,19.7
+
+7290,2014,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Pennsylvania,2798,15.7
+

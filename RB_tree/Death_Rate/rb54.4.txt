@@ -1,0 +1,8 @@
+3217,2001,Chronic lower respiratory diseases (J40-J47),CLRD,Maine,800,54.4
+
+7593,1999,Cerebrovascular diseases (I60-I69),Stroke,Arizona,2600,54.4
+
+7602,2008,Cerebrovascular diseases (I60-I69),Stroke,Arkansas,1722,54.4
+
+9416,2011,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Alabama,2662,54.4
+

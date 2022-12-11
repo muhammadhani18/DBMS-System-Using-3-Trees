@@ -1,0 +1,20 @@
+4454,2006,Diabetes mellitus (E10-E14),Diabetes,Oklahoma,1166,30.6
+
+5569,2007,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Vermont,1166,162.4
+
+5714,2006,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arizona,1166,19.6
+
+9322,2016,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Virginia,1166,13.2
+
+9889,2014,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Nevada,1166,40.2
+
+4454,2006,Diabetes mellitus (E10-E14),Diabetes,Oklahoma,1166,30.6
+
+5569,2007,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Vermont,1166,162.4
+
+5714,2006,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arizona,1166,19.6
+
+9322,2016,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Virginia,1166,13.2
+
+9889,2014,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Nevada,1166,40.2
+

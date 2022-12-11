@@ -1,0 +1,12 @@
+4815,2005,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,California,64916,203
+
+5038,2016,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Kentucky,10519,203
+
+5087,2003,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Maine,3106,203
+
+5101,2007,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Maryland,11314,203
+
+5444,2007,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Rhode Island,2751,203
+
+5589,2005,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Virginia,14192,203
+

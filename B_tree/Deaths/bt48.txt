@@ -1,0 +1,8 @@
+1018,2004,Alzheimer's disease (G30),Alzheimer's disease,Alaska,48,18
+
+5695,2007,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Alaska,48,13.7
+
+1018,2004,Alzheimer's disease (G30),Alzheimer's disease,Alaska,48,18
+
+5695,2007,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Alaska,48,13.7
+

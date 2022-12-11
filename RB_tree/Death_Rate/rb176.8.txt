@@ -1,0 +1,4 @@
+2043,2005,Malignant neoplasms (C00-C97),Cancer,Connecticut,7052,176.8
+
+2203,2007,Malignant neoplasms (C00-C97),Cancer,Iowa,6376,176.8
+

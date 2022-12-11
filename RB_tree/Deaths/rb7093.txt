@@ -1,0 +1,4 @@
+2047,2001,Malignant neoplasms (C00-C97),Cancer,Connecticut,7093,187.6
+
+3881,2003,Diabetes mellitus (E10-E14),Diabetes,California,7093,22.8
+

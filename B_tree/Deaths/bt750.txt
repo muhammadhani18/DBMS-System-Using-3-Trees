@@ -1,0 +1,8 @@
+6094,2004,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Minnesota,750,13.6
+
+8477,2015,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Alabama,750,14.9
+
+6094,2004,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Minnesota,750,13.6
+
+8477,2015,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Alabama,750,14.9
+

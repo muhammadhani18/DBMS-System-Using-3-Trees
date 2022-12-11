@@ -1,0 +1,8 @@
+2478,2002,Malignant neoplasms (C00-C97),Cancer,New Jersey,17827,198.1
+
+2565,2005,Malignant neoplasms (C00-C97),Cancer,Ohio,24702,198.1
+
+2783,2003,Malignant neoplasms (C00-C97),Cancer,Virginia,13781,198.1
+
+5415,2000,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Oregon,7094,198.1
+

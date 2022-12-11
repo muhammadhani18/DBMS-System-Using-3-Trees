@@ -1,0 +1,30 @@
+1211,2009,Alzheimer's disease (G30),Alzheimer's disease,Idaho,369,24.7
+
+1219,2001,Alzheimer's disease (G30),Alzheimer's disease,Idaho,294,24.7
+
+1289,2003,Alzheimer's disease (G30),Alzheimer's disease,Kansas,781,24.7
+
+1785,2011,Alzheimer's disease (G30),Alzheimer's disease,United States,84974,24.7
+
+1897,2007,Alzheimer's disease (G30),Alzheimer's disease,Wisconsin,1658,24.7
+
+3017,2003,Chronic lower respiratory diseases (J40-J47),CLRD,District of Columbia,137,24.7
+
+3851,2015,Diabetes mellitus (E10-E14),Diabetes,Arkansas,886,24.7
+
+4149,2005,Diabetes mellitus (E10-E14),Diabetes,Maine,385,24.7
+
+4150,2004,Diabetes mellitus (E10-E14),Diabetes,Maine,382,24.7
+
+4558,2010,Diabetes mellitus (E10-E14),Diabetes,Tennessee,1687,24.7
+
+4670,2006,Diabetes mellitus (E10-E14),Diabetes,Washington,1543,24.7
+
+6008,2000,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Louisiana,972,24.7
+
+6081,1999,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Michigan,2307,24.7
+
+7042,2010,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Mississippi,738,24.7
+
+9757,2010,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Maryland,1446,24.7
+

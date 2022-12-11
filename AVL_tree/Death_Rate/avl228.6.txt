@@ -1,0 +1,4 @@
+2244,2002,Malignant neoplasms (C00-C97),Cancer,Kentucky,9438,228.6
+
+5488,1999,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,South Dakota,2024,228.6
+

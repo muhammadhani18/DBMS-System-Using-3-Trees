@@ -1,0 +1,8 @@
+7146,2014,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,New Jersey,1502,13.8
+
+7976,2012,Cerebrovascular diseases (I60-I69),Stroke,Mississippi,1502,48.3
+
+7146,2014,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,New Jersey,1502,13.8
+
+7976,2012,Cerebrovascular diseases (I60-I69),Stroke,Mississippi,1502,48.3
+

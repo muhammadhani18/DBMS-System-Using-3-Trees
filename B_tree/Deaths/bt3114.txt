@@ -1,0 +1,4 @@
+7800,2008,Cerebrovascular diseases (I60-I69),Stroke,Indiana,3114,46.2
+
+7800,2008,Cerebrovascular diseases (I60-I69),Stroke,Indiana,3114,46.2
+

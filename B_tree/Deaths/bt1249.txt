@@ -1,0 +1,20 @@
+2767,2001,Malignant neoplasms (C00-C97),Cancer,Vermont,1249,196.4
+
+4127,2009,Diabetes mellitus (E10-E14),Diabetes,Louisiana,1249,27.8
+
+4159,2013,Diabetes mellitus (E10-E14),Diabetes,Maryland,1249,19.1
+
+4227,1999,Diabetes mellitus (E10-E14),Diabetes,Minnesota,1249,25.7
+
+7463,2004,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Virginia,1249,18.5
+
+2767,2001,Malignant neoplasms (C00-C97),Cancer,Vermont,1249,196.4
+
+4127,2009,Diabetes mellitus (E10-E14),Diabetes,Louisiana,1249,27.8
+
+4159,2013,Diabetes mellitus (E10-E14),Diabetes,Maryland,1249,19.1
+
+4227,1999,Diabetes mellitus (E10-E14),Diabetes,Minnesota,1249,25.7
+
+7463,2004,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Virginia,1249,18.5
+

@@ -1,0 +1,4 @@
+1138,2010,Alzheimer's disease (G30),Alzheimer's disease,District of Columbia,114,18.7
+
+1921,2001,Alzheimer's disease (G30),Alzheimer's disease,Wyoming,114,25.4
+

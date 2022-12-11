@@ -1,0 +1,4 @@
+2307,2011,Malignant neoplasms (C00-C97),Cancer,Massachusetts,12895,166.9
+
+2307,2011,Malignant neoplasms (C00-C97),Cancer,Massachusetts,12895,166.9
+

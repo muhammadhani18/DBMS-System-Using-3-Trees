@@ -1,0 +1,4 @@
+8240,2000,Cerebrovascular diseases (I60-I69),Stroke,Pennsylvania,8919,59
+
+8240,2000,Cerebrovascular diseases (I60-I69),Stroke,Pennsylvania,8919,59
+

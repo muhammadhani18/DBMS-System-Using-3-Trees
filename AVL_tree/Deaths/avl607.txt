@@ -1,0 +1,6 @@
+1204,2016,Alzheimer's disease (G30),Alzheimer's disease,Idaho,607,33.9
+
+4766,2000,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Alaska,607,211.7
+
+5774,2000,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Colorado,607,18.6
+

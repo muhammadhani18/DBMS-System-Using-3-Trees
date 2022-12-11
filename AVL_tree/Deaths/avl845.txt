@@ -1,0 +1,4 @@
+1310,2000,Alzheimer's disease (G30),Alzheimer's disease,Kentucky,845,22.1
+
+6098,2000,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Minnesota,845,16.4
+

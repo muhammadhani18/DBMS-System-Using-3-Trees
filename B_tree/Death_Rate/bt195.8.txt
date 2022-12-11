@@ -1,0 +1,6 @@
+2384,2006,Malignant neoplasms (C00-C97),Cancer,Missouri,12519,195.8
+
+2656,2004,Malignant neoplasms (C00-C97),Cancer,South Carolina,8348,195.8
+
+2804,2000,Malignant neoplasms (C00-C97),Cancer,Washington,10668,195.8
+

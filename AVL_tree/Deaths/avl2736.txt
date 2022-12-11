@@ -1,0 +1,4 @@
+1390,2010,Alzheimer's disease (G30),Alzheimer's disease,Michigan,2736,24
+
+7292,2012,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Pennsylvania,2736,15.8
+

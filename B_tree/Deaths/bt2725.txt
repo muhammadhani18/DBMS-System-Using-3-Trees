@@ -1,0 +1,12 @@
+5268,2003,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,New Hampshire,2725,216.7
+
+8414,2006,Cerebrovascular diseases (I60-I69),Stroke,Washington,2725,43.6
+
+9497,2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Colorado,2725,49.7
+
+5268,2003,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,New Hampshire,2725,216.7
+
+8414,2006,Cerebrovascular diseases (I60-I69),Stroke,Washington,2725,43.6
+
+9497,2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Colorado,2725,49.7
+

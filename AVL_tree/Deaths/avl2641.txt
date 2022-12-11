@@ -1,0 +1,4 @@
+6315,1999,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Ohio,2641,22.9
+
+9850,2002,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Missouri,2641,45.6
+

@@ -1,0 +1,8 @@
+2228,2000,Malignant neoplasms (C00-C97),Cancer,Kansas,5223,187
+
+2294,2006,Malignant neoplasms (C00-C97),Cancer,Maryland,10350,187
+
+2355,1999,Malignant neoplasms (C00-C97),Cancer,Minnesota,8892,187
+
+5423,2010,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Pennsylvania,31556,187
+

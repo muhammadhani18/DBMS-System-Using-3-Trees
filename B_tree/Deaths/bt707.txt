@@ -1,0 +1,12 @@
+4238,2006,Diabetes mellitus (E10-E14),Diabetes,Mississippi,707,24.5
+
+4756,2010,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Alaska,707,151.5
+
+6659,2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arkansas,707,19.8
+
+4238,2006,Diabetes mellitus (E10-E14),Diabetes,Mississippi,707,24.5
+
+4756,2010,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Alaska,707,151.5
+
+6659,2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arkansas,707,19.8
+

@@ -1,0 +1,8 @@
+5937,1999,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Indiana,1362,23.2
+
+6799,2001,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Georgia,1362,21.1
+
+5937,1999,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Indiana,1362,23.2
+
+6799,2001,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Georgia,1362,21.1
+

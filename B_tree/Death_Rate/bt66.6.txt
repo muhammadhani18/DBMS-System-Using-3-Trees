@@ -1,0 +1,6 @@
+30,2016,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,New Hampshire,924,66.6
+
+36,2016,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Ohio,7999,66.6
+
+8418,2002,Cerebrovascular diseases (I60-I69),Stroke,Washington,3753,66.6
+

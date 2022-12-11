@@ -1,0 +1,4 @@
+7629,1999,Cerebrovascular diseases (I60-I69),Stroke,California,17962,64.5
+
+9444,2000,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Alaska,343,64.5
+

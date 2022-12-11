@@ -1,0 +1,20 @@
+2853,2005,Malignant neoplasms (C00-C97),Cancer,Wyoming,886,169.2
+
+3851,2015,Diabetes mellitus (E10-E14),Diabetes,Arkansas,886,24.7
+
+5733,2005,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arkansas,886,29.4
+
+7326,2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,South Carolina,886,15.5
+
+8526,2002,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arizona,886,16.6
+
+2853,2005,Malignant neoplasms (C00-C97),Cancer,Wyoming,886,169.2
+
+3851,2015,Diabetes mellitus (E10-E14),Diabetes,Arkansas,886,24.7
+
+5733,2005,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arkansas,886,29.4
+
+7326,2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,South Carolina,886,15.5
+
+8526,2002,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arizona,886,16.6
+

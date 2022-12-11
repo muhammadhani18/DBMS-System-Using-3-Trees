@@ -1,0 +1,8 @@
+3674,2012,Chronic lower respiratory diseases (J40-J47),CLRD,Utah,663,30.6
+
+7882,2016,Cerebrovascular diseases (I60-I69),Stroke,Maine,663,34.4
+
+3674,2012,Chronic lower respiratory diseases (J40-J47),CLRD,Utah,663,30.6
+
+7882,2016,Cerebrovascular diseases (I60-I69),Stroke,Maine,663,34.4
+

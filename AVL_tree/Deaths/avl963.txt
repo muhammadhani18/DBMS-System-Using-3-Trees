@@ -1,0 +1,8 @@
+1041,1999,Alzheimer's disease (G30),Alzheimer's disease,Arizona,963,20.8
+
+7331,2010,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,South Carolina,963,19.9
+
+9328,2010,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Virginia,963,11.7
+
+9329,2009,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Virginia,963,11.7
+

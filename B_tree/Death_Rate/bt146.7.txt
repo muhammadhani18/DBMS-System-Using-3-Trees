@@ -1,0 +1,8 @@
+2034,2014,Malignant neoplasms (C00-C97),Cancer,Connecticut,6621,146.7
+
+4774,2010,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Arizona,9954,146.7
+
+4939,2007,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Hawaii,2227,146.7
+
+5159,2004,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Minnesota,7891,146.7
+

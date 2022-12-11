@@ -1,0 +1,4 @@
+3522,2002,Chronic lower respiratory diseases (J40-J47),CLRD,Oklahoma,1988,54.8
+
+4340,2012,Diabetes mellitus (E10-E14),Diabetes,New Jersey,1988,19.3
+

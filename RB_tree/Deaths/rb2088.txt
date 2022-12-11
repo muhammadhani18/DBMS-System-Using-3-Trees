@@ -1,0 +1,4 @@
+2134,2004,Malignant neoplasms (C00-C97),Cancer,Hawaii,2088,150.5
+
+3980,2012,Diabetes mellitus (E10-E14),Diabetes,Georgia,2088,22.6
+

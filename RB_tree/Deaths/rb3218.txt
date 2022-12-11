@@ -1,0 +1,6 @@
+2277,2005,Malignant neoplasms (C00-C97),Cancer,Maine,3218,204.8
+
+8301,2011,Cerebrovascular diseases (I60-I69),Stroke,Tennessee,3218,47.5
+
+9922,2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,New Jersey,3218,33.7
+

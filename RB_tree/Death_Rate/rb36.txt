@@ -1,0 +1,14 @@
+1314,2014,Alzheimer's disease (G30),Alzheimer's disease,Louisiana,1670,36
+
+3276,2014,Chronic lower respiratory diseases (J40-J47),CLRD,Minnesota,2277,36
+
+3564,2014,Chronic lower respiratory diseases (J40-J47),CLRD,Rhode Island,505,36
+
+8049,2011,Cerebrovascular diseases (I60-I69),Stroke,Nevada,889,36
+
+8089,2007,Cerebrovascular diseases (I60-I69),Stroke,New Jersey,3492,36
+
+8443,2013,Cerebrovascular diseases (I60-I69),Stroke,Wisconsin,2536,36
+
+8444,2012,Cerebrovascular diseases (I60-I69),Stroke,Wisconsin,2520,36
+

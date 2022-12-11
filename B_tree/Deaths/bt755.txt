@@ -1,0 +1,8 @@
+1290,2002,Alzheimer's disease (G30),Alzheimer's disease,Kansas,755,24.1
+
+8359,2007,Cerebrovascular diseases (I60-I69),Stroke,Utah,755,41.3
+
+1290,2002,Alzheimer's disease (G30),Alzheimer's disease,Kansas,755,24.1
+
+8359,2007,Cerebrovascular diseases (I60-I69),Stroke,Utah,755,41.3
+

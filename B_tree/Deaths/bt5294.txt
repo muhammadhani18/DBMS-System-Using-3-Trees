@@ -1,0 +1,12 @@
+2220,2008,Malignant neoplasms (C00-C97),Cancer,Kansas,5294,173.1
+
+5027,2009,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Kansas,5294,163
+
+7777,2013,Cerebrovascular diseases (I60-I69),Stroke,Illinois,5294,36.7
+
+2220,2008,Malignant neoplasms (C00-C97),Cancer,Kansas,5294,173.1
+
+5027,2009,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Kansas,5294,163
+
+7777,2013,Cerebrovascular diseases (I60-I69),Stroke,Illinois,5294,36.7
+

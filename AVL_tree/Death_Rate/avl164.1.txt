@@ -1,0 +1,8 @@
+2195,2015,Malignant neoplasms (C00-C97),Cancer,Iowa,6513,164.1
+
+2415,2011,Malignant neoplasms (C00-C97),Cancer,Nebraska,3410,164.1
+
+2446,2016,Malignant neoplasms (C00-C97),Cancer,New Hampshire,2875,164.1
+
+5119,2008,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Massachusetts,12776,164.1
+

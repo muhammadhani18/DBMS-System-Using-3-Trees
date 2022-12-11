@@ -1,0 +1,4 @@
+6102,2014,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Mississippi,763,23.5
+
+7036,2016,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Mississippi,763,22.8
+

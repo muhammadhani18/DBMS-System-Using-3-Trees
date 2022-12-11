@@ -1,0 +1,4 @@
+40,2016,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Pennsylvania,8410,61.8
+
+7772,2000,Cerebrovascular diseases (I60-I69),Stroke,Idaho,720,61.8
+

@@ -1,0 +1,4 @@
+5030,2006,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Kansas,5849,186.3
+
+5744,2012,Influenza and pneumonia (J09-J18),Influenza and pneumonia,California,5849,15.2
+

@@ -1,0 +1,4 @@
+8147,2003,Cerebrovascular diseases (I60-I69),Stroke,North Carolina,5203,66.4
+
+8203,2001,Cerebrovascular diseases (I60-I69),Stroke,Oklahoma,2384,66.4
+

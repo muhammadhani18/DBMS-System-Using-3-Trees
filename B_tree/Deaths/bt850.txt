@@ -1,0 +1,12 @@
+3856,2010,Diabetes mellitus (E10-E14),Diabetes,Arkansas,850,25.8
+
+8053,2007,Cerebrovascular diseases (I60-I69),Stroke,Nevada,850,39.8
+
+9379,2013,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wisconsin,850,14.4
+
+3856,2010,Diabetes mellitus (E10-E14),Diabetes,Arkansas,850,25.8
+
+8053,2007,Cerebrovascular diseases (I60-I69),Stroke,Nevada,850,39.8
+
+9379,2013,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wisconsin,850,14.4
+

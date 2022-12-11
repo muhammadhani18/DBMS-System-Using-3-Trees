@@ -1,0 +1,4 @@
+6298,2016,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Ohio,2187,15
+
+7826,2000,Cerebrovascular diseases (I60-I69),Stroke,Iowa,2187,58.3
+

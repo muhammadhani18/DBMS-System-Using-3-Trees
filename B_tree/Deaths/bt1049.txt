@@ -1,0 +1,8 @@
+6616,2004,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Alabama,1049,22.8
+
+8427,2011,Cerebrovascular diseases (I60-I69),Stroke,West Virginia,1049,44.8
+
+6616,2004,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Alabama,1049,22.8
+
+8427,2011,Cerebrovascular diseases (I60-I69),Stroke,West Virginia,1049,44.8
+

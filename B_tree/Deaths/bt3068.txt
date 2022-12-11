@@ -1,0 +1,8 @@
+3327,1999,Chronic lower respiratory diseases (J40-J47),CLRD,Missouri,3068,51.7
+
+6363,2005,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Pennsylvania,3068,19.2
+
+3327,1999,Chronic lower respiratory diseases (J40-J47),CLRD,Missouri,3068,51.7
+
+6363,2005,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Pennsylvania,3068,19.2
+

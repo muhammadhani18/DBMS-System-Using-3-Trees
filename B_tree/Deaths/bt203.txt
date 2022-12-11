@@ -1,0 +1,32 @@
+1119,2011,Alzheimer's disease (G30),Alzheimer's disease,Delaware,203,20
+
+3922,2016,Diabetes mellitus (E10-E14),Diabetes,Delaware,203,17
+
+4010,2000,Diabetes mellitus (E10-E14),Diabetes,Hawaii,203,16.3
+
+4424,2000,Diabetes mellitus (E10-E14),Diabetes,North Dakota,203,26.6
+
+4425,1999,Diabetes mellitus (E10-E14),Diabetes,North Dakota,203,26.7
+
+4547,2003,Diabetes mellitus (E10-E14),Diabetes,South Dakota,203,23
+
+6190,2016,Influenza and pneumonia (J09-J18),Influenza and pneumonia,New Hampshire,203,11.8
+
+8952,2008,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Montana,203,20.6
+
+1119,2011,Alzheimer's disease (G30),Alzheimer's disease,Delaware,203,20
+
+3922,2016,Diabetes mellitus (E10-E14),Diabetes,Delaware,203,17
+
+4010,2000,Diabetes mellitus (E10-E14),Diabetes,Hawaii,203,16.3
+
+4424,2000,Diabetes mellitus (E10-E14),Diabetes,North Dakota,203,26.6
+
+4425,1999,Diabetes mellitus (E10-E14),Diabetes,North Dakota,203,26.7
+
+4547,2003,Diabetes mellitus (E10-E14),Diabetes,South Dakota,203,23
+
+6190,2016,Influenza and pneumonia (J09-J18),Influenza and pneumonia,New Hampshire,203,11.8
+
+8952,2008,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Montana,203,20.6
+

@@ -1,0 +1,12 @@
+6942,2002,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Louisiana,983,23.9
+
+7367,2010,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Tennessee,983,14.8
+
+8425,2013,Cerebrovascular diseases (I60-I69),Stroke,West Virginia,983,40.7
+
+6942,2002,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Louisiana,983,23.9
+
+7367,2010,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Tennessee,983,14.8
+
+8425,2013,Cerebrovascular diseases (I60-I69),Stroke,West Virginia,983,40.7
+

@@ -1,0 +1,12 @@
+1383,1999,Alzheimer's disease (G30),Alzheimer's disease,Massachusetts,1182,16.5
+
+9527,2002,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Connecticut,1182,32.5
+
+9767,2000,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Maryland,1182,23.3
+
+1383,1999,Alzheimer's disease (G30),Alzheimer's disease,Massachusetts,1182,16.5
+
+9527,2002,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Connecticut,1182,32.5
+
+9767,2000,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Maryland,1182,23.3
+

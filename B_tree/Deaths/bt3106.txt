@@ -1,0 +1,8 @@
+3406,2010,Chronic lower respiratory diseases (J40-J47),CLRD,New Jersey,3106,31.4
+
+5087,2003,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Maine,3106,203
+
+3406,2010,Chronic lower respiratory diseases (J40-J47),CLRD,New Jersey,3106,31.4
+
+5087,2003,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Maine,3106,203
+

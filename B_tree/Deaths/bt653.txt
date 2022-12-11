@@ -1,0 +1,8 @@
+3905,2015,Diabetes mellitus (E10-E14),Diabetes,Connecticut,653,13.9
+
+7021,2013,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Minnesota,653,10.2
+
+3905,2015,Diabetes mellitus (E10-E14),Diabetes,Connecticut,653,13.9
+
+7021,2013,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Minnesota,653,10.2
+

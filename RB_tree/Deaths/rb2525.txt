@@ -1,0 +1,4 @@
+2452,2010,Malignant neoplasms (C00-C97),Cancer,New Hampshire,2525,167.9
+
+10268,2010,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wisconsin,2525,40.8
+

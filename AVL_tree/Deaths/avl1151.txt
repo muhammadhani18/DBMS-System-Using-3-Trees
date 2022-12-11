@@ -1,0 +1,4 @@
+2079,2005,Malignant neoplasms (C00-C97),Cancer,District of Columbia,1151,205.3
+
+8433,2005,Cerebrovascular diseases (I60-I69),Stroke,West Virginia,1151,53.2
+

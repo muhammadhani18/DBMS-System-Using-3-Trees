@@ -1,0 +1,4 @@
+2592,2014,Malignant neoplasms (C00-C97),Cancer,Oregon,7863,160.2
+
+2592,2014,Malignant neoplasms (C00-C97),Cancer,Oregon,7863,160.2
+

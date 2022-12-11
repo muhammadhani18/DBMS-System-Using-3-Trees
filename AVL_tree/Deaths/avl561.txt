@@ -1,0 +1,4 @@
+4611,2011,Diabetes mellitus (E10-E14),Diabetes,Utah,561,26
+
+5971,2001,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Kansas,561,18.4
+

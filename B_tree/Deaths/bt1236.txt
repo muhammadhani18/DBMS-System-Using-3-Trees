@@ -1,0 +1,16 @@
+3759,1999,Chronic lower respiratory diseases (J40-J47),CLRD,West Virginia,1236,57.9
+
+5988,2002,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Kentucky,1236,31.5
+
+6583,2001,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wisconsin,1236,20.8
+
+7465,2002,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Virginia,1236,19
+
+3759,1999,Chronic lower respiratory diseases (J40-J47),CLRD,West Virginia,1236,57.9
+
+5988,2002,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Kentucky,1236,31.5
+
+6583,2001,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wisconsin,1236,20.8
+
+7465,2002,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Virginia,1236,19
+

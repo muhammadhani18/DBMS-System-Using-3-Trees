@@ -1,0 +1,8 @@
+5385,2012,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Oklahoma,9198,220.4
+
+9496,1999,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,California,9198,28.7
+
+5385,2012,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Oklahoma,9198,220.4
+
+9496,1999,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,California,9198,28.7
+

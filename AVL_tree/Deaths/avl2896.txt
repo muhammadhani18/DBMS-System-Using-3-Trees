@@ -1,0 +1,4 @@
+5557,2001,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Utah,2896,187.7
+
+9255,2011,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Texas,2896,11.5
+

@@ -1,0 +1,12 @@
+7591,2001,Cerebrovascular diseases (I60-I69),Stroke,Arizona,2480,49
+
+9659,2006,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Indiana,2480,38.9
+
+9660,2005,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Indiana,2480,39.3
+
+7591,2001,Cerebrovascular diseases (I60-I69),Stroke,Arizona,2480,49
+
+9659,2006,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Indiana,2480,38.9
+
+9660,2005,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Indiana,2480,39.3
+

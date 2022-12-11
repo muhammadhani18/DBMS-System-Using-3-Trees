@@ -1,0 +1,8 @@
+4654,2004,Diabetes mellitus (E10-E14),Diabetes,Virginia,1602,22.9
+
+6426,2014,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Tennessee,1602,22.1
+
+4654,2004,Diabetes mellitus (E10-E14),Diabetes,Virginia,1602,22.9
+
+6426,2014,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Tennessee,1602,22.1
+

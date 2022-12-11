@@ -1,0 +1,6 @@
+1425,2011,Alzheimer's disease (G30),Alzheimer's disease,Mississippi,975,33.6
+
+5663,2003,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Wyoming,975,202.1
+
+8366,2000,Cerebrovascular diseases (I60-I69),Stroke,Utah,975,66
+

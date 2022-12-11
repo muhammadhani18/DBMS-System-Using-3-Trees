@@ -1,0 +1,8 @@
+2107,2013,Malignant neoplasms (C00-C97),Cancer,Georgia,16417,167.7
+
+2644,2016,Malignant neoplasms (C00-C97),Cancer,South Carolina,10356,167.7
+
+5440,2011,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Rhode Island,2390,167.7
+
+5507,2016,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Texas,43772,167.7
+

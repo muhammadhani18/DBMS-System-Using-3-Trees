@@ -1,0 +1,18 @@
+1066,2010,Alzheimer's disease (G30),Alzheimer's disease,California,10856,30.1
+
+1385,2015,Alzheimer's disease (G30),Alzheimer's disease,Michigan,3771,30.1
+
+1423,2013,Alzheimer's disease (G30),Alzheimer's disease,Mississippi,925,30.1
+
+4170,2002,Diabetes mellitus (E10-E14),Diabetes,Maryland,1519,30.1
+
+7687,2013,Cerebrovascular diseases (I60-I69),Stroke,District of Columbia,187,30.1
+
+9493,2002,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,California,10107,30.1
+
+9600,2014,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Hawaii,476,30.1
+
+9601,2013,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Hawaii,467,30.1
+
+9602,2012,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Hawaii,458,30.1
+

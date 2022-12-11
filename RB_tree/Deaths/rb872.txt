@@ -1,0 +1,2 @@
+8060,2000,Cerebrovascular diseases (I60-I69),Stroke,Nevada,872,56.5
+

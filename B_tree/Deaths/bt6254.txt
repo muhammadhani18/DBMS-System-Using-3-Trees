@@ -1,0 +1,4 @@
+8121,2011,Cerebrovascular diseases (I60-I69),Stroke,New York,6254,27.6
+
+8121,2011,Cerebrovascular diseases (I60-I69),Stroke,New York,6254,27.6
+

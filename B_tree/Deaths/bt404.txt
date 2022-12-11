@@ -1,0 +1,20 @@
+4015,2013,Diabetes mellitus (E10-E14),Diabetes,Idaho,404,23.8
+
+4152,2002,Diabetes mellitus (E10-E14),Diabetes,Maine,404,27.1
+
+7670,2012,Cerebrovascular diseases (I60-I69),Stroke,Delaware,404,38.2
+
+8247,2011,Cerebrovascular diseases (I60-I69),Stroke,Rhode Island,404,29.4
+
+8997,1999,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Nevada,404,21.3
+
+4015,2013,Diabetes mellitus (E10-E14),Diabetes,Idaho,404,23.8
+
+4152,2002,Diabetes mellitus (E10-E14),Diabetes,Maine,404,27.1
+
+7670,2012,Cerebrovascular diseases (I60-I69),Stroke,Delaware,404,38.2
+
+8247,2011,Cerebrovascular diseases (I60-I69),Stroke,Rhode Island,404,29.4
+
+8997,1999,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Nevada,404,21.3
+

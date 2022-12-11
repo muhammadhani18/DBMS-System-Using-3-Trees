@@ -1,0 +1,4 @@
+8095,2001,Cerebrovascular diseases (I60-I69),Stroke,New Jersey,4007,44.8
+
+8095,2001,Cerebrovascular diseases (I60-I69),Stroke,New Jersey,4007,44.8
+

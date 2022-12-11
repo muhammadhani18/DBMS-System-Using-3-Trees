@@ -1,0 +1,12 @@
+3798,2014,Diabetes mellitus (E10-E14),Diabetes,Alabama,1281,22.8
+
+6524,2006,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Virginia,1281,18.4
+
+9945,2009,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,New Mexico,1281,63.8
+
+3798,2014,Diabetes mellitus (E10-E14),Diabetes,Alabama,1281,22.8
+
+6524,2006,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Virginia,1281,18.4
+
+9945,2009,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,New Mexico,1281,63.8
+

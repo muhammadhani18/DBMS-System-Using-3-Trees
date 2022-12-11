@@ -1,0 +1,6 @@
+1327,2001,Alzheimer's disease (G30),Alzheimer's disease,Louisiana,957,24.6
+
+5659,2007,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Wyoming,957,180.4
+
+9346,2010,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Washington,957,13.9
+

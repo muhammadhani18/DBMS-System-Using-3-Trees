@@ -1,0 +1,8 @@
+4233,2011,Diabetes mellitus (E10-E14),Diabetes,Mississippi,996,32
+
+6003,2005,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Louisiana,996,24
+
+6572,2012,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wisconsin,996,14.1
+
+7506,2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wisconsin,996,13.7
+

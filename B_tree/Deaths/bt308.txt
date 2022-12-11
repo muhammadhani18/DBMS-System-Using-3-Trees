@@ -1,0 +1,44 @@
+3487,2001,Chronic lower respiratory diseases (J40-J47),CLRD,North Dakota,308,39.6
+
+3790,2004,Chronic lower respiratory diseases (J40-J47),CLRD,Wyoming,308,62.8
+
+4001,2009,Diabetes mellitus (E10-E14),Diabetes,Hawaii,308,19.5
+
+4319,2015,Diabetes mellitus (E10-E14),Diabetes,New Hampshire,308,17.9
+
+6022,2004,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Maine,308,20
+
+6238,2004,Influenza and pneumonia (J09-J18),Influenza and pneumonia,New Mexico,308,17.7
+
+7282,2004,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Oregon,308,8
+
+8153,2015,Cerebrovascular diseases (I60-I69),Stroke,North Dakota,308,33.4
+
+8695,2013,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Idaho,308,19.2
+
+10201,2009,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Vermont,308,43.5
+
+10283,2012,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wyoming,308,52.9
+
+3487,2001,Chronic lower respiratory diseases (J40-J47),CLRD,North Dakota,308,39.6
+
+3790,2004,Chronic lower respiratory diseases (J40-J47),CLRD,Wyoming,308,62.8
+
+4001,2009,Diabetes mellitus (E10-E14),Diabetes,Hawaii,308,19.5
+
+4319,2015,Diabetes mellitus (E10-E14),Diabetes,New Hampshire,308,17.9
+
+6022,2004,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Maine,308,20
+
+6238,2004,Influenza and pneumonia (J09-J18),Influenza and pneumonia,New Mexico,308,17.7
+
+7282,2004,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Oregon,308,8
+
+8153,2015,Cerebrovascular diseases (I60-I69),Stroke,North Dakota,308,33.4
+
+8695,2013,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Idaho,308,19.2
+
+10201,2009,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Vermont,308,43.5
+
+10283,2012,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wyoming,308,52.9
+

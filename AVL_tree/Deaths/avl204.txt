@@ -1,0 +1,18 @@
+1122,2008,Alzheimer's disease (G30),Alzheimer's disease,Delaware,204,21.7
+
+2879,2015,Chronic lower respiratory diseases (J40-J47),CLRD,Alaska,204,37.8
+
+4008,2002,Diabetes mellitus (E10-E14),Diabetes,Hawaii,204,15.5
+
+4419,2005,Diabetes mellitus (E10-E14),Diabetes,North Dakota,204,26.2
+
+6194,2012,Influenza and pneumonia (J09-J18),Influenza and pneumonia,New Hampshire,204,12.8
+
+6203,2003,Influenza and pneumonia (J09-J18),Influenza and pneumonia,New Hampshire,204,16.4
+
+8464,2010,Cerebrovascular diseases (I60-I69),Stroke,Wyoming,204,37.2
+
+8676,2014,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Hawaii,204,13.8
+
+9563,2000,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,District of Columbia,204,35.7
+

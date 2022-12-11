@@ -1,0 +1,4 @@
+153,2005,All Causes,All causes,Colorado,29627,752.1
+
+173,2003,All Causes,All causes,Connecticut,29627,739.7
+

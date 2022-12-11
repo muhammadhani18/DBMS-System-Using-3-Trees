@@ -1,0 +1,8 @@
+1100,2012,Alzheimer's disease (G30),Alzheimer's disease,Connecticut,842,16.8
+
+3207,2011,Chronic lower respiratory diseases (J40-J47),CLRD,Maine,842,48.4
+
+1100,2012,Alzheimer's disease (G30),Alzheimer's disease,Connecticut,842,16.8
+
+3207,2011,Chronic lower respiratory diseases (J40-J47),CLRD,Maine,842,48.4
+

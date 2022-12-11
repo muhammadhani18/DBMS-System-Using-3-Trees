@@ -1,0 +1,4 @@
+1625,2009,Alzheimer's disease (G30),Alzheimer's disease,Ohio,3879,28.5
+
+9591,2006,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Georgia,3879,45.1
+

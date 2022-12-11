@@ -1,0 +1,36 @@
+1000,2004,Alzheimer's disease (G30),Alzheimer's disease,Alabama,1385,31.4
+
+1085,2009,Alzheimer's disease (G30),Alzheimer's disease,Colorado,1319,31.4
+
+1297,2013,Alzheimer's disease (G30),Alzheimer's disease,Kentucky,1462,31.4
+
+3238,2016,Chronic lower respiratory diseases (J40-J47),CLRD,Massachusetts,2674,31.4
+
+3240,2014,Chronic lower respiratory diseases (J40-J47),CLRD,Massachusetts,2592,31.4
+
+3406,2010,Chronic lower respiratory diseases (J40-J47),CLRD,New Jersey,3106,31.4
+
+3409,2007,Chronic lower respiratory diseases (J40-J47),CLRD,New Jersey,2991,31.4
+
+3442,2010,Chronic lower respiratory diseases (J40-J47),CLRD,New York,6847,31.4
+
+3443,2009,Chronic lower respiratory diseases (J40-J47),CLRD,New York,6740,31.4
+
+4365,2005,Diabetes mellitus (E10-E14),Diabetes,New Mexico,595,31.4
+
+4371,1999,Diabetes mellitus (E10-E14),Diabetes,New Mexico,517,31.4
+
+4442,2000,Diabetes mellitus (E10-E14),Diabetes,Ohio,3691,31.4
+
+4443,1999,Diabetes mellitus (E10-E14),Diabetes,Ohio,3675,31.4
+
+4623,1999,Diabetes mellitus (E10-E14),Diabetes,Utah,472,31.4
+
+8082,2014,Cerebrovascular diseases (I60-I69),Stroke,New Jersey,3419,31.4
+
+8248,2010,Cerebrovascular diseases (I60-I69),Stroke,Rhode Island,431,31.4
+
+8249,2009,Cerebrovascular diseases (I60-I69),Stroke,Rhode Island,429,31.4
+
+8459,2015,Cerebrovascular diseases (I60-I69),Stroke,Wyoming,198,31.4
+

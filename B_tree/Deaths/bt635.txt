@@ -1,0 +1,8 @@
+3902,2000,Diabetes mellitus (E10-E14),Diabetes,Colorado,635,18.5
+
+4091,2009,Diabetes mellitus (E10-E14),Diabetes,Kansas,635,20.3
+
+3902,2000,Diabetes mellitus (E10-E14),Diabetes,Colorado,635,18.5
+
+4091,2009,Diabetes mellitus (E10-E14),Diabetes,Kansas,635,20.3
+

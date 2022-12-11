@@ -1,0 +1,40 @@
+3820,2010,Diabetes mellitus (E10-E14),Diabetes,Alaska,86,19.6
+
+3828,2002,Diabetes mellitus (E10-E14),Diabetes,Alaska,86,22
+
+5827,2001,Influenza and pneumonia (J09-J18),Influenza and pneumonia,District of Columbia,86,15.3
+
+6508,2004,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Vermont,86,12.7
+
+6834,2002,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Idaho,86,7
+
+7448,2001,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Vermont,86,13.5
+
+7524,2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wyoming,86,13.3
+
+8619,1999,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Delaware,86,11
+
+9096,2008,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,North Dakota,86,13.1
+
+9192,2002,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Rhode Island,86,7.9
+
+3820,2010,Diabetes mellitus (E10-E14),Diabetes,Alaska,86,19.6
+
+3828,2002,Diabetes mellitus (E10-E14),Diabetes,Alaska,86,22
+
+5827,2001,Influenza and pneumonia (J09-J18),Influenza and pneumonia,District of Columbia,86,15.3
+
+6508,2004,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Vermont,86,12.7
+
+6834,2002,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Idaho,86,7
+
+7448,2001,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Vermont,86,13.5
+
+7524,2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wyoming,86,13.3
+
+8619,1999,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Delaware,86,11
+
+9096,2008,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,North Dakota,86,13.1
+
+9192,2002,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Rhode Island,86,7.9
+

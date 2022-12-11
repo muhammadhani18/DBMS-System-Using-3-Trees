@@ -1,0 +1,20 @@
+1526,2000,Alzheimer's disease (G30),Alzheimer's disease,New Hampshire,273,23.4
+
+3484,2004,Chronic lower respiratory diseases (J40-J47),CLRD,North Dakota,273,34.6
+
+3489,1999,Chronic lower respiratory diseases (J40-J47),CLRD,North Dakota,273,35.8
+
+6201,2005,Influenza and pneumonia (J09-J18),Influenza and pneumonia,New Hampshire,273,20.8
+
+10292,2003,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wyoming,273,55.1
+
+1526,2000,Alzheimer's disease (G30),Alzheimer's disease,New Hampshire,273,23.4
+
+3484,2004,Chronic lower respiratory diseases (J40-J47),CLRD,North Dakota,273,34.6
+
+3489,1999,Chronic lower respiratory diseases (J40-J47),CLRD,North Dakota,273,35.8
+
+6201,2005,Influenza and pneumonia (J09-J18),Influenza and pneumonia,New Hampshire,273,20.8
+
+10292,2003,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wyoming,273,55.1
+

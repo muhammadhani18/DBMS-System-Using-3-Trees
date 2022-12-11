@@ -1,0 +1,4 @@
+8405,2015,Cerebrovascular diseases (I60-I69),Stroke,Washington,2703,34.2
+
+10221,2006,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Virginia,2703,35.8
+

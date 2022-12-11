@@ -1,0 +1,4 @@
+5446,2005,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Rhode Island,3005,226.9
+
+5520,2004,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Texas,40196,226.9
+

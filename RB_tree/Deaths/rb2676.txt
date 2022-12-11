@@ -1,0 +1,6 @@
+4950,2014,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Idaho,2676,152.8
+
+5831,2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Florida,2676,8.9
+
+6686,2006,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,California,2676,8.2
+

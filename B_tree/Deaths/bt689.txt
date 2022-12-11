@@ -1,0 +1,12 @@
+1957,2001,Malignant neoplasms (C00-C97),Cancer,Alaska,689,193.7
+
+8101,2013,Cerebrovascular diseases (I60-I69),Stroke,New Mexico,689,30
+
+9021,2011,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,New Jersey,689,7.5
+
+1957,2001,Malignant neoplasms (C00-C97),Cancer,Alaska,689,193.7
+
+8101,2013,Cerebrovascular diseases (I60-I69),Stroke,New Mexico,689,30
+
+9021,2011,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,New Jersey,689,7.5
+

@@ -1,0 +1,4 @@
+2140,2016,Malignant neoplasms (C00-C97),Cancer,Idaho,2884,150.9
+
+6355,2013,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Pennsylvania,2884,16.2
+

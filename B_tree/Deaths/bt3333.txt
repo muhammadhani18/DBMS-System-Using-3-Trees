@@ -1,0 +1,8 @@
+5296,2011,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,New Mexico,3333,150.3
+
+9595,2002,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Georgia,3333,42.3
+
+5296,2011,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,New Mexico,3333,150.3
+
+9595,2002,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Georgia,3333,42.3
+

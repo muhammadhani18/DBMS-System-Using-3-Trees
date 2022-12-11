@@ -1,0 +1,4 @@
+1404,2014,Alzheimer's disease (G30),Alzheimer's disease,Minnesota,1628,24.2
+
+3743,2015,Chronic lower respiratory diseases (J40-J47),CLRD,West Virginia,1628,64.6
+

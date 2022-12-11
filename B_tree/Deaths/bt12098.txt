@@ -1,0 +1,4 @@
+5055,1999,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Kentucky,12098,310.9
+
+5055,1999,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Kentucky,12098,310.9
+

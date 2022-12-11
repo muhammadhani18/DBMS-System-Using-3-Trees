@@ -1,0 +1,8 @@
+4439,2003,Diabetes mellitus (E10-E14),Diabetes,Ohio,3731,30.6
+
+9585,2012,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Georgia,3731,39
+
+4439,2003,Diabetes mellitus (E10-E14),Diabetes,Ohio,3731,30.6
+
+9585,2012,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Georgia,3731,39
+

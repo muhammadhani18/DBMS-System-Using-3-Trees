@@ -1,0 +1,4 @@
+5075,2015,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Maine,3009,157.3
+
+9846,2006,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Missouri,3009,50.1
+

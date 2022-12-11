@@ -1,0 +1,8 @@
+7841,2003,Cerebrovascular diseases (I60-I69),Stroke,Kansas,1758,57.5
+
+7914,2002,Cerebrovascular diseases (I60-I69),Stroke,Maryland,2811,57.5
+
+8041,2001,Cerebrovascular diseases (I60-I69),Stroke,Nebraska,1130,57.5
+
+8241,1999,Cerebrovascular diseases (I60-I69),Stroke,Pennsylvania,8600,57.5
+

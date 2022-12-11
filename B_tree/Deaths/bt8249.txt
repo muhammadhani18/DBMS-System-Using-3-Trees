@@ -1,0 +1,4 @@
+3870,2014,Diabetes mellitus (E10-E14),Diabetes,California,8249,20.4
+
+3870,2014,Diabetes mellitus (E10-E14),Diabetes,California,8249,20.4
+

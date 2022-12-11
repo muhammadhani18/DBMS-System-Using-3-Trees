@@ -1,0 +1,12 @@
+2546,2006,Malignant neoplasms (C00-C97),Cancer,North Dakota,1387,180.2
+
+2972,2012,Chronic lower respiratory diseases (J40-J47),CLRD,Connecticut,1387,30.9
+
+7211,2003,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,North Carolina,1387,17.3
+
+2546,2006,Malignant neoplasms (C00-C97),Cancer,North Dakota,1387,180.2
+
+2972,2012,Chronic lower respiratory diseases (J40-J47),CLRD,Connecticut,1387,30.9
+
+7211,2003,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,North Carolina,1387,17.3
+

@@ -1,0 +1,12 @@
+1422,2014,Alzheimer's disease (G30),Alzheimer's disease,Mississippi,1098,35.2
+
+5929,2007,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Indiana,1098,16.5
+
+8884,2004,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Michigan,1098,10.9
+
+1422,2014,Alzheimer's disease (G30),Alzheimer's disease,Mississippi,1098,35.2
+
+5929,2007,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Indiana,1098,16.5
+
+8884,2004,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Michigan,1098,10.9
+

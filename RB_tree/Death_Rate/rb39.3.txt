@@ -1,0 +1,40 @@
+1798,2016,Alzheimer's disease (G30),Alzheimer's disease,Utah,904,39.3
+
+1862,2006,Alzheimer's disease (G30),Alzheimer's disease,Washington,2470,39.3
+
+3097,2013,Chronic lower respiratory diseases (J40-J47),CLRD,Illinois,5532,39.3
+
+3382,2016,Chronic lower respiratory diseases (J40-J47),CLRD,New Hampshire,684,39.3
+
+3547,2013,Chronic lower respiratory diseases (J40-J47),CLRD,Pennsylvania,6716,39.3
+
+3555,2005,Chronic lower respiratory diseases (J40-J47),CLRD,Pennsylvania,6149,39.3
+
+3558,2002,Chronic lower respiratory diseases (J40-J47),CLRD,Pennsylvania,6017,39.3
+
+3601,2013,Chronic lower respiratory diseases (J40-J47),CLRD,South Dakota,416,39.3
+
+3761,2015,Chronic lower respiratory diseases (J40-J47),CLRD,Wisconsin,2846,39.3
+
+3762,2014,Chronic lower respiratory diseases (J40-J47),CLRD,Wisconsin,2759,39.3
+
+3956,2000,Diabetes mellitus (E10-E14),Diabetes,District of Columbia,221,39.3
+
+7696,2004,Cerebrovascular diseases (I60-I69),Stroke,District of Columbia,218,39.3
+
+7780,2010,Cerebrovascular diseases (I60-I69),Stroke,Illinois,5349,39.3
+
+8108,2006,Cerebrovascular diseases (I60-I69),Stroke,New Mexico,739,39.3
+
+8230,2010,Cerebrovascular diseases (I60-I69),Stroke,Pennsylvania,6701,39.3
+
+9516,2013,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Connecticut,1582,39.3
+
+9656,2009,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Indiana,2577,39.3
+
+9660,2005,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Indiana,2480,39.3
+
+10047,2009,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Oregon,1598,39.3
+
+10168,2008,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,United States,121902,39.3
+

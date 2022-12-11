@@ -1,0 +1,12 @@
+6217,2007,Influenza and pneumonia (J09-J18),Influenza and pneumonia,New Jersey,1343,13.8
+
+7832,2012,Cerebrovascular diseases (I60-I69),Stroke,Kansas,1343,39.4
+
+9522,2007,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Connecticut,1343,35.4
+
+6217,2007,Influenza and pneumonia (J09-J18),Influenza and pneumonia,New Jersey,1343,13.8
+
+7832,2012,Cerebrovascular diseases (I60-I69),Stroke,Kansas,1343,39.4
+
+9522,2007,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Connecticut,1343,35.4
+

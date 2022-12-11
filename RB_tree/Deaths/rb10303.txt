@@ -1,0 +1,4 @@
+583,2007,All Causes,All causes,New Hampshire,10303,733.2
+
+8327,2003,Cerebrovascular diseases (I60-I69),Stroke,Texas,10303,60.8
+

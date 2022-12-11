@@ -1,0 +1,4 @@
+9643,2005,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Illinois,4182,33
+
+9643,2005,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Illinois,4182,33
+

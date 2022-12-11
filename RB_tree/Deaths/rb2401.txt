@@ -1,0 +1,6 @@
+2122,2016,Malignant neoplasms (C00-C97),Cancer,Hawaii,2401,128.7
+
+3180,2002,Chronic lower respiratory diseases (J40-J47),CLRD,Kentucky,2401,59.3
+
+6313,2001,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Ohio,2401,20.3
+

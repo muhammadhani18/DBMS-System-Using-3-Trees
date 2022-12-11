@@ -1,0 +1,8 @@
+4956,2008,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Idaho,2330,157.1
+
+6311,2003,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Ohio,2330,19.1
+
+7908,2008,Cerebrovascular diseases (I60-I69),Stroke,Maryland,2330,41.4
+
+9501,2011,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Colorado,2330,46.5
+

@@ -1,0 +1,6 @@
+2847,2011,Malignant neoplasms (C00-C97),Cancer,Wyoming,936,156
+
+2849,2009,Malignant neoplasms (C00-C97),Cancer,Wyoming,936,164.7
+
+3431,2003,Chronic lower respiratory diseases (J40-J47),CLRD,New Mexico,936,53.3
+

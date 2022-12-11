@@ -1,0 +1,32 @@
+3066,2008,Chronic lower respiratory diseases (J40-J47),CLRD,Hawaii,293,19.2
+
+3068,2006,Chronic lower respiratory diseases (J40-J47),CLRD,Hawaii,293,20
+
+7162,2016,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,New Mexico,293,11.7
+
+7485,2000,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Washington,293,5.4
+
+8779,2001,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Kansas,293,10.9
+
+9541,2005,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Delaware,293,34.5
+
+9615,1999,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Hawaii,293,24.3
+
+10089,2001,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Rhode Island,293,25.3
+
+3066,2008,Chronic lower respiratory diseases (J40-J47),CLRD,Hawaii,293,19.2
+
+3068,2006,Chronic lower respiratory diseases (J40-J47),CLRD,Hawaii,293,20
+
+7162,2016,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,New Mexico,293,11.7
+
+7485,2000,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Washington,293,5.4
+
+8779,2001,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Kansas,293,10.9
+
+9541,2005,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Delaware,293,34.5
+
+9615,1999,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Hawaii,293,24.3
+
+10089,2001,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Rhode Island,293,25.3
+

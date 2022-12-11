@@ -1,0 +1,8 @@
+4076,2006,Diabetes mellitus (E10-E14),Diabetes,Iowa,804,22
+
+8107,2007,Cerebrovascular diseases (I60-I69),Stroke,New Mexico,804,41.3
+
+4076,2006,Diabetes mellitus (E10-E14),Diabetes,Iowa,804,22
+
+8107,2007,Cerebrovascular diseases (I60-I69),Stroke,New Mexico,804,41.3
+

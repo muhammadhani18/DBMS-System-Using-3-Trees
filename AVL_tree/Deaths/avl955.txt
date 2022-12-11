@@ -1,0 +1,8 @@
+1048,2010,Alzheimer's disease (G30),Alzheimer's disease,Arkansas,955,29.6
+
+2846,2012,Malignant neoplasms (C00-C97),Cancer,Wyoming,955,154.2
+
+9083,2003,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,North Carolina,955,11.2
+
+9237,2011,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Tennessee,955,14.4
+

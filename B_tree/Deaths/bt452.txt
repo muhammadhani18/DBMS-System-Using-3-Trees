@@ -1,0 +1,16 @@
+1057,2001,Alzheimer's disease (G30),Alzheimer's disease,Arkansas,452,15.3
+
+4288,2010,Diabetes mellitus (E10-E14),Diabetes,Nebraska,452,21.7
+
+6334,2016,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Oregon,452,8.9
+
+10118,2006,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,South Dakota,452,53.4
+
+1057,2001,Alzheimer's disease (G30),Alzheimer's disease,Arkansas,452,15.3
+
+4288,2010,Diabetes mellitus (E10-E14),Diabetes,Nebraska,452,21.7
+
+6334,2016,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Oregon,452,8.9
+
+10118,2006,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,South Dakota,452,53.4
+

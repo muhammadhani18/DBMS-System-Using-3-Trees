@@ -1,0 +1,10 @@
+2971,2013,Chronic lower respiratory diseases (J40-J47),CLRD,Connecticut,1348,29.7
+
+4109,2009,Diabetes mellitus (E10-E14),Diabetes,Kentucky,1348,29.3
+
+4254,2008,Diabetes mellitus (E10-E14),Diabetes,Missouri,1348,20.4
+
+6053,2009,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Massachusetts,1348,17
+
+7651,2013,Cerebrovascular diseases (I60-I69),Stroke,Connecticut,1348,28.3
+

@@ -1,0 +1,8 @@
+2183,2009,Malignant neoplasms (C00-C97),Cancer,Indiana,13093,190.4
+
+2295,2005,Malignant neoplasms (C00-C97),Cancer,Maryland,10371,190.4
+
+2801,2003,Malignant neoplasms (C00-C97),Cancer,Washington,11064,190.4
+
+2807,2015,Malignant neoplasms (C00-C97),Cancer,West Virginia,4839,190.4
+

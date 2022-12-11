@@ -1,0 +1,4 @@
+3626,2006,Chronic lower respiratory diseases (J40-J47),CLRD,Tennessee,2980,48.1
+
+5551,2007,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Utah,2980,161
+

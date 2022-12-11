@@ -1,0 +1,32 @@
+4688,2006,Diabetes mellitus (E10-E14),Diabetes,West Virginia,743,33
+
+5964,2008,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Kansas,743,22.5
+
+5972,2000,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Kansas,743,24.2
+
+6541,2007,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Washington,743,11.4
+
+8742,2002,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Indiana,743,12.1
+
+9384,2008,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wisconsin,743,12.8
+
+9882,2004,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Nebraska,743,39.7
+
+10188,2005,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Utah,743,34.6
+
+4688,2006,Diabetes mellitus (E10-E14),Diabetes,West Virginia,743,33
+
+5964,2008,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Kansas,743,22.5
+
+5972,2000,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Kansas,743,24.2
+
+6541,2007,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Washington,743,11.4
+
+8742,2002,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Indiana,743,12.1
+
+9384,2008,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wisconsin,743,12.8
+
+9882,2004,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Nebraska,743,39.7
+
+10188,2005,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Utah,743,34.6
+

@@ -1,0 +1,8 @@
+2416,2010,Malignant neoplasms (C00-C97),Cancer,Nebraska,3438,167.4
+
+9987,2001,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,North Carolina,3438,42.6
+
+2416,2010,Malignant neoplasms (C00-C97),Cancer,Nebraska,3438,167.4
+
+9987,2001,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,North Carolina,3438,42.6
+

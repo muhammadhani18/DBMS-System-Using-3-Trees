@@ -1,0 +1,8 @@
+1044,2014,Alzheimer's disease (G30),Alzheimer's disease,Arkansas,1193,34.8
+
+4212,2014,Diabetes mellitus (E10-E14),Diabetes,Minnesota,1193,18.7
+
+1044,2014,Alzheimer's disease (G30),Alzheimer's disease,Arkansas,1193,34.8
+
+4212,2014,Diabetes mellitus (E10-E14),Diabetes,Minnesota,1193,18.7
+

@@ -1,0 +1,4 @@
+2310,2008,Malignant neoplasms (C00-C97),Cancer,Massachusetts,13031,177.2
+
+2310,2008,Malignant neoplasms (C00-C97),Cancer,Massachusetts,13031,177.2
+

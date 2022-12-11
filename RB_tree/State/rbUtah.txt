@@ -1,0 +1,396 @@
+46,2016,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Utah,1211,43.8
+
+862,2016,All Causes,All causes,Utah,17913,714.7
+
+863,2015,All Causes,All causes,Utah,17334,712.1
+
+864,2014,All Causes,All causes,Utah,16719,709.6
+
+865,2013,All Causes,All causes,Utah,16366,710.4
+
+866,2012,All Causes,All causes,Utah,15676,700
+
+867,2011,All Causes,All causes,Utah,15266,699.1
+
+868,2010,All Causes,All causes,Utah,14776,703.2
+
+869,2009,All Causes,All causes,Utah,14138,686.5
+
+870,2008,All Causes,All causes,Utah,14040,703.8
+
+871,2007,All Causes,All causes,Utah,14143,729.4
+
+872,2006,All Causes,All causes,Utah,13764,733.7
+
+873,2005,All Causes,All causes,Utah,13432,749.4
+
+874,2004,All Causes,All causes,Utah,13331,768.8
+
+875,2003,All Causes,All causes,Utah,13412,793.6
+
+876,2002,All Causes,All causes,Utah,13116,794
+
+877,2001,All Causes,All causes,Utah,12662,785.2
+
+878,2000,All Causes,All causes,Utah,12364,788.6
+
+879,1999,All Causes,All causes,Utah,12058,781.6
+
+1798,2016,Alzheimer's disease (G30),Alzheimer's disease,Utah,904,39.3
+
+1799,2015,Alzheimer's disease (G30),Alzheimer's disease,Utah,906,40.7
+
+1800,2014,Alzheimer's disease (G30),Alzheimer's disease,Utah,584,26.7
+
+1801,2013,Alzheimer's disease (G30),Alzheimer's disease,Utah,412,19.4
+
+1802,2012,Alzheimer's disease (G30),Alzheimer's disease,Utah,411,19.9
+
+1803,2011,Alzheimer's disease (G30),Alzheimer's disease,Utah,402,20
+
+1804,2010,Alzheimer's disease (G30),Alzheimer's disease,Utah,375,19.3
+
+1805,2009,Alzheimer's disease (G30),Alzheimer's disease,Utah,371,19.6
+
+1806,2008,Alzheimer's disease (G30),Alzheimer's disease,Utah,409,22.5
+
+1807,2007,Alzheimer's disease (G30),Alzheimer's disease,Utah,393,22.1
+
+1808,2006,Alzheimer's disease (G30),Alzheimer's disease,Utah,390,22.7
+
+1809,2005,Alzheimer's disease (G30),Alzheimer's disease,Utah,368,22.4
+
+1810,2004,Alzheimer's disease (G30),Alzheimer's disease,Utah,376,23.6
+
+1811,2003,Alzheimer's disease (G30),Alzheimer's disease,Utah,332,21.4
+
+1812,2002,Alzheimer's disease (G30),Alzheimer's disease,Utah,303,19.9
+
+1813,2001,Alzheimer's disease (G30),Alzheimer's disease,Utah,314,21
+
+1814,2000,Alzheimer's disease (G30),Alzheimer's disease,Utah,342,23.6
+
+1815,1999,Alzheimer's disease (G30),Alzheimer's disease,Utah,245,17.3
+
+2734,2016,Malignant neoplasms (C00-C97),Cancer,Utah,3125,122.4
+
+2735,2015,Malignant neoplasms (C00-C97),Cancer,Utah,3091,125.2
+
+2736,2014,Malignant neoplasms (C00-C97),Cancer,Utah,3043,127.4
+
+2737,2013,Malignant neoplasms (C00-C97),Cancer,Utah,2971,127.6
+
+2738,2012,Malignant neoplasms (C00-C97),Cancer,Utah,2876,128.2
+
+2739,2011,Malignant neoplasms (C00-C97),Cancer,Utah,2746,125.7
+
+2740,2010,Malignant neoplasms (C00-C97),Cancer,Utah,2810,133.7
+
+2741,2009,Malignant neoplasms (C00-C97),Cancer,Utah,2555,124.7
+
+2742,2008,Malignant neoplasms (C00-C97),Cancer,Utah,2492,125.4
+
+2743,2007,Malignant neoplasms (C00-C97),Cancer,Utah,2572,133.2
+
+2744,2006,Malignant neoplasms (C00-C97),Cancer,Utah,2615,139.9
+
+2745,2005,Malignant neoplasms (C00-C97),Cancer,Utah,2520,140.9
+
+2746,2004,Malignant neoplasms (C00-C97),Cancer,Utah,2445,141.1
+
+2747,2003,Malignant neoplasms (C00-C97),Cancer,Utah,2444,144.6
+
+2748,2002,Malignant neoplasms (C00-C97),Cancer,Utah,2376,144.4
+
+2749,2001,Malignant neoplasms (C00-C97),Cancer,Utah,2313,144.3
+
+2750,2000,Malignant neoplasms (C00-C97),Cancer,Utah,2359,151.2
+
+2751,1999,Malignant neoplasms (C00-C97),Cancer,Utah,2393,155.7
+
+3670,2016,Chronic lower respiratory diseases (J40-J47),CLRD,Utah,875,35.8
+
+3671,2015,Chronic lower respiratory diseases (J40-J47),CLRD,Utah,811,33.9
+
+3672,2014,Chronic lower respiratory diseases (J40-J47),CLRD,Utah,757,32.6
+
+3673,2013,Chronic lower respiratory diseases (J40-J47),CLRD,Utah,718,32
+
+3674,2012,Chronic lower respiratory diseases (J40-J47),CLRD,Utah,663,30.6
+
+3675,2011,Chronic lower respiratory diseases (J40-J47),CLRD,Utah,647,30.2
+
+3676,2010,Chronic lower respiratory diseases (J40-J47),CLRD,Utah,671,33.2
+
+3677,2009,Chronic lower respiratory diseases (J40-J47),CLRD,Utah,581,29.5
+
+3678,2008,Chronic lower respiratory diseases (J40-J47),CLRD,Utah,638,33.3
+
+3679,2007,Chronic lower respiratory diseases (J40-J47),CLRD,Utah,617,33.2
+
+3680,2006,Chronic lower respiratory diseases (J40-J47),CLRD,Utah,591,32.9
+
+3681,2005,Chronic lower respiratory diseases (J40-J47),CLRD,Utah,592,34.4
+
+3682,2004,Chronic lower respiratory diseases (J40-J47),CLRD,Utah,595,35.6
+
+3683,2003,Chronic lower respiratory diseases (J40-J47),CLRD,Utah,569,35
+
+3684,2002,Chronic lower respiratory diseases (J40-J47),CLRD,Utah,603,38.1
+
+3685,2001,Chronic lower respiratory diseases (J40-J47),CLRD,Utah,525,33.9
+
+3686,2000,Chronic lower respiratory diseases (J40-J47),CLRD,Utah,524,34.6
+
+3687,1999,Chronic lower respiratory diseases (J40-J47),CLRD,Utah,559,37.6
+
+4606,2016,Diabetes mellitus (E10-E14),Diabetes,Utah,624,24.6
+
+4607,2015,Diabetes mellitus (E10-E14),Diabetes,Utah,604,24.6
+
+4608,2014,Diabetes mellitus (E10-E14),Diabetes,Utah,570,24.3
+
+4609,2013,Diabetes mellitus (E10-E14),Diabetes,Utah,578,25.3
+
+4610,2012,Diabetes mellitus (E10-E14),Diabetes,Utah,541,24.6
+
+4611,2011,Diabetes mellitus (E10-E14),Diabetes,Utah,561,26
+
+4612,2010,Diabetes mellitus (E10-E14),Diabetes,Utah,471,22.7
+
+4613,2009,Diabetes mellitus (E10-E14),Diabetes,Utah,463,22.6
+
+4614,2008,Diabetes mellitus (E10-E14),Diabetes,Utah,468,23.7
+
+4615,2007,Diabetes mellitus (E10-E14),Diabetes,Utah,548,28.8
+
+4616,2006,Diabetes mellitus (E10-E14),Diabetes,Utah,496,27
+
+4617,2005,Diabetes mellitus (E10-E14),Diabetes,Utah,541,31
+
+4618,2004,Diabetes mellitus (E10-E14),Diabetes,Utah,485,28.6
+
+4619,2003,Diabetes mellitus (E10-E14),Diabetes,Utah,520,31.5
+
+4620,2002,Diabetes mellitus (E10-E14),Diabetes,Utah,514,31.8
+
+4621,2001,Diabetes mellitus (E10-E14),Diabetes,Utah,509,32.2
+
+4622,2000,Diabetes mellitus (E10-E14),Diabetes,Utah,530,34.8
+
+4623,1999,Diabetes mellitus (E10-E14),Diabetes,Utah,472,31.4
+
+5113,2012,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Utah,3091,142.4
+
+5508,2011,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Utah,3036,144.4
+
+5544,2016,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Utah,3636,150
+
+5545,2015,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Utah,3598,152.9
+
+5546,2014,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Utah,3431,151
+
+5547,2013,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Utah,3323,149
+
+5548,2010,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Utah,2889,143.2
+
+5549,2009,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Utah,2813,142.2
+
+5550,2008,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Utah,2844,148.7
+
+5551,2007,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Utah,2980,161
+
+5552,2006,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Utah,2932,163.7
+
+5553,2005,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Utah,2872,167.9
+
+5554,2004,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Utah,2942,178.1
+
+5555,2003,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Utah,3018,187.4
+
+5556,2002,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Utah,2977,188.6
+
+5557,2001,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Utah,2896,187.7
+
+5558,2000,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Utah,2909,194
+
+5559,1999,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Utah,2786,190.1
+
+6478,2016,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Utah,380,15.5
+
+6479,2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Utah,372,15.7
+
+6480,2014,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Utah,366,16.2
+
+6481,2013,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Utah,413,18.6
+
+6482,2012,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Utah,337,15.6
+
+6483,2011,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Utah,358,17.1
+
+6484,2010,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Utah,348,17.1
+
+6485,2009,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Utah,332,16.3
+
+6486,2008,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Utah,343,18
+
+6487,2007,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Utah,313,17.1
+
+6488,2006,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Utah,343,19.2
+
+6489,2005,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Utah,333,19.5
+
+6490,2004,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Utah,384,23.3
+
+6491,2003,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Utah,453,28.2
+
+6492,2002,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Utah,424,27.4
+
+6493,2001,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Utah,411,27.2
+
+6494,2000,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Utah,388,26.1
+
+6495,1999,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Utah,391,27.1
+
+7415,2016,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Utah,370,15.2
+
+7416,2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Utah,363,15.6
+
+7417,2014,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Utah,393,17.2
+
+7418,2013,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Utah,312,14.1
+
+7419,2012,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Utah,270,12.4
+
+7420,2011,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Utah,228,11
+
+7421,2010,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Utah,263,13.1
+
+7422,2009,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Utah,212,10.7
+
+7423,2008,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Utah,212,11
+
+7424,2007,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Utah,220,12
+
+7425,2006,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Utah,210,11.6
+
+7426,2005,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Utah,177,10.3
+
+7427,2004,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Utah,235,14.3
+
+7428,2003,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Utah,207,12.7
+
+7429,2002,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Utah,184,11.7
+
+7430,2001,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Utah,178,11.5
+
+7431,2000,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Utah,170,11.3
+
+7432,1999,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Utah,135,9.1
+
+8350,2016,Cerebrovascular diseases (I60-I69),Stroke,Utah,932,38.8
+
+8351,2015,Cerebrovascular diseases (I60-I69),Stroke,Utah,888,38.4
+
+8352,2014,Cerebrovascular diseases (I60-I69),Stroke,Utah,856,37.9
+
+8353,2013,Cerebrovascular diseases (I60-I69),Stroke,Utah,836,38.2
+
+8354,2012,Cerebrovascular diseases (I60-I69),Stroke,Utah,809,37.8
+
+8355,2011,Cerebrovascular diseases (I60-I69),Stroke,Utah,782,37.8
+
+8356,2010,Cerebrovascular diseases (I60-I69),Stroke,Utah,739,37.1
+
+8357,2009,Cerebrovascular diseases (I60-I69),Stroke,Utah,738,37.6
+
+8358,2008,Cerebrovascular diseases (I60-I69),Stroke,Utah,748,39.7
+
+8359,2007,Cerebrovascular diseases (I60-I69),Stroke,Utah,755,41.3
+
+8360,2006,Cerebrovascular diseases (I60-I69),Stroke,Utah,674,38.2
+
+8361,2005,Cerebrovascular diseases (I60-I69),Stroke,Utah,794,46.9
+
+8362,2004,Cerebrovascular diseases (I60-I69),Stroke,Utah,790,48.6
+
+8363,2003,Cerebrovascular diseases (I60-I69),Stroke,Utah,876,55.2
+
+8364,2002,Cerebrovascular diseases (I60-I69),Stroke,Utah,903,58.1
+
+8365,2001,Cerebrovascular diseases (I60-I69),Stroke,Utah,870,57.2
+
+8366,2000,Cerebrovascular diseases (I60-I69),Stroke,Utah,975,66
+
+8367,1999,Cerebrovascular diseases (I60-I69),Stroke,Utah,869,60.2
+
+9286,2016,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Utah,620,21.8
+
+9287,2015,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Utah,630,22.4
+
+9288,2014,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Utah,559,20.5
+
+9289,2013,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Utah,579,21.4
+
+9290,2012,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Utah,550,21
+
+9291,2011,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Utah,502,19.4
+
+9292,2010,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Utah,473,18.3
+
+9293,2009,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Utah,449,17.9
+
+9294,2008,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Utah,390,15.9
+
+9295,2007,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Utah,378,15.8
+
+9296,2006,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Utah,362,16
+
+9297,2005,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Utah,348,15.4
+
+9298,2004,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Utah,377,17.2
+
+9299,2003,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Utah,336,15.4
+
+9300,2002,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Utah,340,16.2
+
+9301,2001,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Utah,321,15.5
+
+9302,2000,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Utah,298,14.7
+
+9303,1999,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Utah,282,14
+
+10178,2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Utah,1223,45.6
+
+10179,2014,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Utah,1167,45.5
+
+10180,2013,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Utah,1103,43.4
+
+10181,2012,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Utah,1097,44.5
+
+10182,2011,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Utah,1058,42.9
+
+10183,2010,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Utah,970,40.6
+
+10184,2009,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Utah,899,38.2
+
+10185,2008,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Utah,881,37.8
+
+10186,2007,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Utah,811,35.6
+
+10187,2006,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Utah,715,31.6
+
+10188,2005,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Utah,743,34.6
+
+10189,2004,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Utah,697,33.4
+
+10190,2003,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Utah,702,34.7
+
+10191,2002,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Utah,714,35.8
+
+10192,2001,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Utah,643,32.5
+
+10193,2000,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Utah,665,34.2
+
+10194,1999,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Utah,650,33.4
+

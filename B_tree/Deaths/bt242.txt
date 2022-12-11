@@ -1,0 +1,8 @@
+1706,2000,Alzheimer's disease (G30),Alzheimer's disease,Rhode Island,242,18.4
+
+7685,2015,Cerebrovascular diseases (I60-I69),Stroke,District of Columbia,242,38.3
+
+1706,2000,Alzheimer's disease (G30),Alzheimer's disease,Rhode Island,242,18.4
+
+7685,2015,Cerebrovascular diseases (I60-I69),Stroke,District of Columbia,242,38.3
+

@@ -1,0 +1,6 @@
+1760,2000,Alzheimer's disease (G30),Alzheimer's disease,Tennessee,1024,19.2
+
+3423,2011,Chronic lower respiratory diseases (J40-J47),CLRD,New Mexico,1024,46.2
+
+7509,2012,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Wisconsin,1024,14.8
+

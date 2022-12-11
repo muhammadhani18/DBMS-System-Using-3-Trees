@@ -1,0 +1,4 @@
+4787,2015,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Arkansas,7938,223.2
+
+5034,2002,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Kansas,6680,223.2
+

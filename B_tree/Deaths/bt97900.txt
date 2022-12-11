@@ -1,0 +1,4 @@
+10176,2000,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,United States,97900,34.9
+
+10176,2000,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,United States,97900,34.9
+

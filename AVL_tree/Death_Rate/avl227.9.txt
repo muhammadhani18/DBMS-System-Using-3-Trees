@@ -1,0 +1,6 @@
+2264,2000,Malignant neoplasms (C00-C97),Cancer,Louisiana,9400,227.9
+
+2373,1999,Malignant neoplasms (C00-C97),Cancer,Mississippi,6143,227.9
+
+4995,2005,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Indiana,14542,227.9
+

@@ -1,0 +1,4 @@
+7593,1999,Cerebrovascular diseases (I60-I69),Stroke,Arizona,2600,54.4
+
+8261,2015,Cerebrovascular diseases (I60-I69),Stroke,South Carolina,2600,46.7
+

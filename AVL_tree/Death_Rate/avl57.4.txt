@@ -1,0 +1,6 @@
+19,2016,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Louisiana,2710,57.4
+
+3318,2008,Chronic lower respiratory diseases (J40-J47),CLRD,Missouri,3765,57.4
+
+9711,2005,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Kentucky,2405,57.4
+

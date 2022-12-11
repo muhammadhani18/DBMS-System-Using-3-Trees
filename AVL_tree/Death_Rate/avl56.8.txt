@@ -1,0 +1,10 @@
+9726,2007,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Louisiana,2466,56.8
+
+9727,2006,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Louisiana,2422,56.8
+
+9825,2010,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Mississippi,1685,56.8
+
+9858,2011,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Montana,609,56.8
+
+9954,2000,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,New Mexico,995,56.8
+

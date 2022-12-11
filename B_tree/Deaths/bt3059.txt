@@ -1,0 +1,8 @@
+1167,1999,Alzheimer's disease (G30),Alzheimer's disease,Florida,3059,14.3
+
+9253,2013,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Texas,3059,11.7
+
+1167,1999,Alzheimer's disease (G30),Alzheimer's disease,Florida,3059,14.3
+
+9253,2013,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Texas,3059,11.7
+

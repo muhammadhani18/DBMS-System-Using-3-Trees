@@ -1,0 +1,4 @@
+10168,2008,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,United States,121902,39.3
+
+10168,2008,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,United States,121902,39.3
+

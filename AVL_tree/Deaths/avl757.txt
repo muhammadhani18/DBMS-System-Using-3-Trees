@@ -1,0 +1,4 @@
+3672,2014,Chronic lower respiratory diseases (J40-J47),CLRD,Utah,757,32.6
+
+9019,2013,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,New Jersey,757,8
+

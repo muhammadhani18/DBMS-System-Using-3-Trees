@@ -1,0 +1,4 @@
+2678,2000,Malignant neoplasms (C00-C97),Cancer,South Dakota,1597,190.5
+
+7155,2005,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,New Jersey,1597,17.1
+

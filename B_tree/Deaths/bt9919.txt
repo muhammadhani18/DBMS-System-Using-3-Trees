@@ -1,0 +1,4 @@
+1970,2006,Malignant neoplasms (C00-C97),Cancer,Arizona,9919,160
+
+1970,2006,Malignant neoplasms (C00-C97),Cancer,Arizona,9919,160
+

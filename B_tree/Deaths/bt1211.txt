@@ -1,0 +1,4 @@
+46,2016,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Utah,1211,43.8
+
+46,2016,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Utah,1211,43.8
+

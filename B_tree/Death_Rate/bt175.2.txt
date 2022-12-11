@@ -1,0 +1,4 @@
+2269,2013,Malignant neoplasms (C00-C97),Cancer,Maine,3227,175.2
+
+4863,2011,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Delaware,1809,175.2
+

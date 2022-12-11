@@ -1,0 +1,8 @@
+4657,2001,Diabetes mellitus (E10-E14),Diabetes,Virginia,1613,24.6
+
+6071,2009,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Michigan,1613,14.5
+
+4657,2001,Diabetes mellitus (E10-E14),Diabetes,Virginia,1613,24.6
+
+6071,2009,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Michigan,1613,14.5
+

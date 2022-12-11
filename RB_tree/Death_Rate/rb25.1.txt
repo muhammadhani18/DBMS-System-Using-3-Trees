@@ -1,0 +1,30 @@
+1003,2001,Alzheimer's disease (G30),Alzheimer's disease,Alabama,1103,25.1
+
+1249,2007,Alzheimer's disease (G30),Alzheimer's disease,Indiana,1663,25.1
+
+1286,2006,Alzheimer's disease (G30),Alzheimer's disease,Kansas,830,25.1
+
+1306,2004,Alzheimer's disease (G30),Alzheimer's disease,Kentucky,982,25.1
+
+1309,2001,Alzheimer's disease (G30),Alzheimer's disease,Kentucky,966,25.1
+
+1448,2006,Alzheimer's disease (G30),Alzheimer's disease,Missouri,1632,25.1
+
+1514,2012,Alzheimer's disease (G30),Alzheimer's disease,New Hampshire,392,25.1
+
+1724,2000,Alzheimer's disease (G30),Alzheimer's disease,South Carolina,874,25.1
+
+1786,2010,Alzheimer's disease (G30),Alzheimer's disease,United States,83494,25.1
+
+4334,2000,Diabetes mellitus (E10-E14),Diabetes,New Hampshire,297,25.1
+
+4604,2000,Diabetes mellitus (E10-E14),Diabetes,United States,69301,25.1
+
+5732,2006,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arkansas,772,25.1
+
+5737,2001,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arkansas,735,25.1
+
+6276,2002,Influenza and pneumonia (J09-J18),Influenza and pneumonia,North Carolina,1898,25.1
+
+6530,2000,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Virginia,1510,25.1
+

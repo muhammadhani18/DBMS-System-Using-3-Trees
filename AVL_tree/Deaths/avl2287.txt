@@ -1,0 +1,6 @@
+3277,2013,Chronic lower respiratory diseases (J40-J47),CLRD,Minnesota,2287,37.1
+
+8265,2011,Cerebrovascular diseases (I60-I69),Stroke,South Carolina,2287,46.3
+
+10094,2013,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,South Carolina,2287,46.6
+

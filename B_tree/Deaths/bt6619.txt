@@ -1,0 +1,4 @@
+2035,2013,Malignant neoplasms (C00-C97),Cancer,Connecticut,6619,148.4
+
+2035,2013,Malignant neoplasms (C00-C97),Cancer,Connecticut,6619,148.4
+

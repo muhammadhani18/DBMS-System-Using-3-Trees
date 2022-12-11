@@ -1,0 +1,8 @@
+4533,1999,Diabetes mellitus (E10-E14),Diabetes,South Carolina,1118,29.6
+
+7064,2006,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Missouri,1118,17.4
+
+7467,2000,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Virginia,1118,17.9
+
+9323,2015,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Virginia,1118,12.7
+

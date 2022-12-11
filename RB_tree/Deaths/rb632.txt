@@ -1,0 +1,4 @@
+6347,2003,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Oregon,632,16.4
+
+7340,2001,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,South Carolina,632,16.5
+

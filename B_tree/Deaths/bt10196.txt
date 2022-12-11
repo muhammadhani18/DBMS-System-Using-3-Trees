@@ -1,0 +1,4 @@
+1930,2010,Malignant neoplasms (C00-C97),Cancer,Alabama,10196,191.7
+
+1930,2010,Malignant neoplasms (C00-C97),Cancer,Alabama,10196,191.7
+

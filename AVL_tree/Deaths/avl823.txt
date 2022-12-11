@@ -1,0 +1,6 @@
+6964,2016,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Maryland,823,12.1
+
+7336,2005,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,South Carolina,823,19.6
+
+7896,2002,Cerebrovascular diseases (I60-I69),Stroke,Maine,823,54.5
+

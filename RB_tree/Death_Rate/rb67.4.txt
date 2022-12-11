@@ -1,0 +1,6 @@
+3514,2010,Chronic lower respiratory diseases (J40-J47),CLRD,Oklahoma,2720,67.4
+
+3788,2006,Chronic lower respiratory diseases (J40-J47),CLRD,Wyoming,345,67.4
+
+8402,2000,Cerebrovascular diseases (I60-I69),Stroke,Virginia,4104,67.4
+

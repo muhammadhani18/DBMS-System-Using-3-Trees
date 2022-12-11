@@ -1,0 +1,16 @@
+1947,2011,Malignant neoplasms (C00-C97),Cancer,Alaska,935,175.5
+
+2042,2006,Malignant neoplasms (C00-C97),Cancer,Connecticut,7044,175.5
+
+2309,2009,Malignant neoplasms (C00-C97),Cancer,Massachusetts,13112,175.5
+
+2421,2005,Malignant neoplasms (C00-C97),Cancer,Nebraska,3355,175.5
+
+2550,2002,Malignant neoplasms (C00-C97),Cancer,North Dakota,1293,175.5
+
+2612,2012,Malignant neoplasms (C00-C97),Cancer,Pennsylvania,28909,175.5
+
+2796,2008,Malignant neoplasms (C00-C97),Cancer,Washington,11618,175.5
+
+2829,2011,Malignant neoplasms (C00-C97),Cancer,Wisconsin,11608,175.5
+

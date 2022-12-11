@@ -1,0 +1,4 @@
+1961,2015,Malignant neoplasms (C00-C97),Cancer,Arizona,11776,141.3
+
+2129,2009,Malignant neoplasms (C00-C97),Cancer,Hawaii,2244,141.3
+

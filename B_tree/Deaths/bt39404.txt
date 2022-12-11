@@ -1,0 +1,4 @@
+2099,2003,Malignant neoplasms (C00-C97),Cancer,Florida,39404,181.7
+
+2099,2003,Malignant neoplasms (C00-C97),Cancer,Florida,39404,181.7
+

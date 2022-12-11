@@ -1,0 +1,8 @@
+2660,2000,Malignant neoplasms (C00-C97),Cancer,South Carolina,8250,212.6
+
+5017,2001,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Iowa,8250,225.1
+
+2660,2000,Malignant neoplasms (C00-C97),Cancer,South Carolina,8250,212.6
+
+5017,2001,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Iowa,8250,225.1
+

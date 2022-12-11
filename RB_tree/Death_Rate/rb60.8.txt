@@ -1,0 +1,6 @@
+7732,2004,Cerebrovascular diseases (I60-I69),Stroke,Georgia,4063,60.8
+
+8167,2001,Cerebrovascular diseases (I60-I69),Stroke,North Dakota,507,60.8
+
+8327,2003,Cerebrovascular diseases (I60-I69),Stroke,Texas,10303,60.8
+

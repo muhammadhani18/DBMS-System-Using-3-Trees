@@ -1,0 +1,8 @@
+39,2016,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Oregon,2105,46
+
+5487,2000,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,South Dakota,2105,234.5
+
+39,2016,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Oregon,2105,46
+
+5487,2000,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,South Dakota,2105,234.5
+

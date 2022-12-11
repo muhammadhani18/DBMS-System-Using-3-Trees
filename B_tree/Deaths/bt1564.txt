@@ -1,0 +1,12 @@
+4057,2007,Diabetes mellitus (E10-E14),Diabetes,Indiana,1564,23.5
+
+4658,2000,Diabetes mellitus (E10-E14),Diabetes,Virginia,1564,24.4
+
+6427,2013,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Tennessee,1564,22.1
+
+4057,2007,Diabetes mellitus (E10-E14),Diabetes,Indiana,1564,23.5
+
+4658,2000,Diabetes mellitus (E10-E14),Diabetes,Virginia,1564,24.4
+
+6427,2013,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Tennessee,1564,22.1
+

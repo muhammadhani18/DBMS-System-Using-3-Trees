@@ -1,0 +1,16 @@
+1451,2003,Alzheimer's disease (G30),Alzheimer's disease,Missouri,1293,20.6
+
+2550,2002,Malignant neoplasms (C00-C97),Cancer,North Dakota,1293,175.5
+
+6865,2007,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Indiana,1293,19.6
+
+9520,2009,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Connecticut,1293,33
+
+1451,2003,Alzheimer's disease (G30),Alzheimer's disease,Missouri,1293,20.6
+
+2550,2002,Malignant neoplasms (C00-C97),Cancer,North Dakota,1293,175.5
+
+6865,2007,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Indiana,1293,19.6
+
+9520,2009,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Connecticut,1293,33
+

@@ -1,0 +1,4 @@
+1985,2009,Malignant neoplasms (C00-C97),Cancer,Arkansas,6513,198.3
+
+2195,2015,Malignant neoplasms (C00-C97),Cancer,Iowa,6513,164.1
+

@@ -1,0 +1,8 @@
+8,2016,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Delaware,516,52.4
+
+2873,2003,Chronic lower respiratory diseases (J40-J47),CLRD,Alabama,2434,52.4
+
+8325,2005,Cerebrovascular diseases (I60-I69),Stroke,Texas,9366,52.4
+
+10134,2007,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Tennessee,3257,52.4
+

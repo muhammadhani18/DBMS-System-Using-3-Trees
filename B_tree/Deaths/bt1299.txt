@@ -1,0 +1,8 @@
+1412,2006,Alzheimer's disease (G30),Alzheimer's disease,Minnesota,1299,22.6
+
+1758,2002,Alzheimer's disease (G30),Alzheimer's disease,Tennessee,1299,24
+
+1412,2006,Alzheimer's disease (G30),Alzheimer's disease,Minnesota,1299,22.6
+
+1758,2002,Alzheimer's disease (G30),Alzheimer's disease,Tennessee,1299,24
+

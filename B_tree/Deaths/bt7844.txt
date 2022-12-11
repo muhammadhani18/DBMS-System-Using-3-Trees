@@ -1,0 +1,4 @@
+5148,2015,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Minnesota,7844,116.6
+
+5148,2015,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Minnesota,7844,116.6
+

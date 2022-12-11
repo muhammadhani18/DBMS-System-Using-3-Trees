@@ -1,0 +1,4 @@
+9588,2009,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Georgia,3812,42.1
+
+9588,2009,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Georgia,3812,42.1
+

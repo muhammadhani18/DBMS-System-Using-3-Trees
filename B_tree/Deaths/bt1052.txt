@@ -1,0 +1,24 @@
+3350,2012,Chronic lower respiratory diseases (J40-J47),CLRD,Nebraska,1052,48.9
+
+3421,2013,Chronic lower respiratory diseases (J40-J47),CLRD,New Mexico,1052,44.7
+
+4468,2010,Diabetes mellitus (E10-E14),Diabetes,Oregon,1052,23.7
+
+6569,2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wisconsin,1052,14.2
+
+8570,2012,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Colorado,1052,19.7
+
+8927,2015,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Missouri,1052,17.1
+
+3350,2012,Chronic lower respiratory diseases (J40-J47),CLRD,Nebraska,1052,48.9
+
+3421,2013,Chronic lower respiratory diseases (J40-J47),CLRD,New Mexico,1052,44.7
+
+4468,2010,Diabetes mellitus (E10-E14),Diabetes,Oregon,1052,23.7
+
+6569,2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wisconsin,1052,14.2
+
+8570,2012,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Colorado,1052,19.7
+
+8927,2015,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Missouri,1052,17.1
+

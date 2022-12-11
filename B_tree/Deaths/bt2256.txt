@@ -1,0 +1,12 @@
+1888,2016,Alzheimer's disease (G30),Alzheimer's disease,Wisconsin,2256,29.6
+
+5435,2016,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Rhode Island,2256,152.4
+
+7609,2001,Cerebrovascular diseases (I60-I69),Stroke,Arkansas,2256,76.8
+
+1888,2016,Alzheimer's disease (G30),Alzheimer's disease,Wisconsin,2256,29.6
+
+5435,2016,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Rhode Island,2256,152.4
+
+7609,2001,Cerebrovascular diseases (I60-I69),Stroke,Arkansas,2256,76.8
+

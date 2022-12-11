@@ -1,0 +1,8 @@
+4680,2014,Diabetes mellitus (E10-E14),Diabetes,West Virginia,818,33.3
+
+7337,2004,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,South Carolina,818,20.1
+
+4680,2014,Diabetes mellitus (E10-E14),Diabetes,West Virginia,818,33.3
+
+7337,2004,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,South Carolina,818,20.1
+

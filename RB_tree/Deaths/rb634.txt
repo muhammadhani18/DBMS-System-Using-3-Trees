@@ -1,0 +1,10 @@
+1474,2016,Alzheimer's disease (G30),Alzheimer's disease,Nebraska,634,26.2
+
+4758,2008,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Alaska,634,150.1
+
+6652,2004,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arizona,634,11.2
+
+7741,2013,Cerebrovascular diseases (I60-I69),Stroke,Hawaii,634,34.9
+
+7742,2012,Cerebrovascular diseases (I60-I69),Stroke,Hawaii,634,35.2
+

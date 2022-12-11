@@ -1,0 +1,4 @@
+2854,2004,Malignant neoplasms (C00-C97),Cancer,Wyoming,875,171.7
+
+5121,2006,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Massachusetts,12947,171.7
+

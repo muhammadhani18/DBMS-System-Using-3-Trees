@@ -1,0 +1,8 @@
+3149,2015,Chronic lower respiratory diseases (J40-J47),CLRD,Kansas,1704,49.7
+
+5473,2014,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,South Dakota,1704,154.6
+
+3149,2015,Chronic lower respiratory diseases (J40-J47),CLRD,Kansas,1704,49.7
+
+5473,2014,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,South Dakota,1704,154.6
+

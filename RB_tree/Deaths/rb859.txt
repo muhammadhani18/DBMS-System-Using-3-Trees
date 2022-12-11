@@ -1,0 +1,4 @@
+2856,2002,Malignant neoplasms (C00-C97),Cancer,Wyoming,859,177.1
+
+8051,2009,Cerebrovascular diseases (I60-I69),Stroke,Nevada,859,36.9
+

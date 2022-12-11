@@ -1,0 +1,20 @@
+3018,2002,Chronic lower respiratory diseases (J40-J47),CLRD,District of Columbia,133,23.7
+
+5799,2011,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Delaware,133,13
+
+6284,2012,Influenza and pneumonia (J09-J18),Influenza and pneumonia,North Dakota,133,14.3
+
+6289,2007,Influenza and pneumonia (J09-J18),Influenza and pneumonia,North Dakota,133,14.9
+
+6511,2001,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Vermont,133,20.7
+
+6819,1999,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Hawaii,133,11.1
+
+7078,2010,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Montana,133,11.3
+
+8682,2008,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Hawaii,133,9.7
+
+8683,2007,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Hawaii,133,9.5
+
+9010,2004,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,New Hampshire,133,9.9
+

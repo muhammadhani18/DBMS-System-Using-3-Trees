@@ -1,0 +1,6 @@
+4117,2001,Diabetes mellitus (E10-E14),Diabetes,Kentucky,1099,27.3
+
+4178,2012,Diabetes mellitus (E10-E14),Diabetes,Massachusetts,1099,13.6
+
+7067,2003,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Missouri,1099,17.8
+

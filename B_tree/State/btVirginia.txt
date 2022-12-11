@@ -1,0 +1,1584 @@
+48,2016,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Virginia,3710,42.4
+
+898,2016,All Causes,All causes,Virginia,66473,715.5
+
+899,2015,All Causes,All causes,Virginia,65577,721.6
+
+900,2014,All Causes,All causes,Virginia,63598,717.5
+
+901,2013,All Causes,All causes,Virginia,62716,724.8
+
+902,2012,All Causes,All causes,Virginia,61564,730.2
+
+903,2011,All Causes,All causes,Virginia,60804,741.6
+
+904,2010,All Causes,All causes,Virginia,59032,741.6
+
+905,2009,All Causes,All causes,Virginia,58653,750.8
+
+906,2008,All Causes,All causes,Virginia,59100,776.7
+
+907,2007,All Causes,All causes,Virginia,58225,784
+
+908,2006,All Causes,All causes,Virginia,57690,795
+
+909,2005,All Causes,All causes,Virginia,57855,817.4
+
+910,2004,All Causes,All causes,Virginia,56550,820.5
+
+911,2003,All Causes,All causes,Virginia,58282,863.3
+
+912,2002,All Causes,All causes,Virginia,57196,865.9
+
+913,2001,All Causes,All causes,Virginia,56280,869.9
+
+914,2000,All Causes,All causes,Virginia,56282,890.4
+
+915,1999,All Causes,All causes,Virginia,55320,889.6
+
+1834,2016,Alzheimer's disease (G30),Alzheimer's disease,Virginia,2408,26.8
+
+1835,2015,Alzheimer's disease (G30),Alzheimer's disease,Virginia,2248,25.6
+
+1836,2014,Alzheimer's disease (G30),Alzheimer's disease,Virginia,1775,20.8
+
+1837,2013,Alzheimer's disease (G30),Alzheimer's disease,Virginia,1642,19.7
+
+1838,2012,Alzheimer's disease (G30),Alzheimer's disease,Virginia,1712,21.2
+
+1839,2011,Alzheimer's disease (G30),Alzheimer's disease,Virginia,1807,23.1
+
+1840,2010,Alzheimer's disease (G30),Alzheimer's disease,Virginia,1848,24.5
+
+1841,2009,Alzheimer's disease (G30),Alzheimer's disease,Virginia,1738,23.5
+
+1842,2008,Alzheimer's disease (G30),Alzheimer's disease,Virginia,1763,24.6
+
+1843,2007,Alzheimer's disease (G30),Alzheimer's disease,Virginia,1703,24.4
+
+1844,2006,Alzheimer's disease (G30),Alzheimer's disease,Virginia,1574,23.2
+
+1845,2005,Alzheimer's disease (G30),Alzheimer's disease,Virginia,1550,23.6
+
+1846,2004,Alzheimer's disease (G30),Alzheimer's disease,Virginia,1480,23.2
+
+1847,2003,Alzheimer's disease (G30),Alzheimer's disease,Virginia,1466,23.4
+
+1848,2002,Alzheimer's disease (G30),Alzheimer's disease,Virginia,1368,22.4
+
+1849,2001,Alzheimer's disease (G30),Alzheimer's disease,Virginia,1184,19.8
+
+1850,2000,Alzheimer's disease (G30),Alzheimer's disease,Virginia,1094,18.7
+
+1851,1999,Alzheimer's disease (G30),Alzheimer's disease,Virginia,917,15.9
+
+2770,2016,Malignant neoplasms (C00-C97),Cancer,Virginia,15027,156.1
+
+2771,2015,Malignant neoplasms (C00-C97),Cancer,Virginia,14947,159.5
+
+2772,2014,Malignant neoplasms (C00-C97),Cancer,Virginia,14749,161.5
+
+2773,2013,Malignant neoplasms (C00-C97),Cancer,Virginia,14414,162
+
+2774,2012,Malignant neoplasms (C00-C97),Cancer,Virginia,14294,165
+
+2775,2011,Malignant neoplasms (C00-C97),Cancer,Virginia,14376,170.8
+
+2776,2010,Malignant neoplasms (C00-C97),Cancer,Virginia,14080,172.4
+
+2777,2009,Malignant neoplasms (C00-C97),Cancer,Virginia,14122,176.2
+
+2778,2008,Malignant neoplasms (C00-C97),Cancer,Virginia,13983,179.1
+
+2779,2007,Malignant neoplasms (C00-C97),Cancer,Virginia,14009,184
+
+2780,2006,Malignant neoplasms (C00-C97),Cancer,Virginia,13829,185.3
+
+2781,2005,Malignant neoplasms (C00-C97),Cancer,Virginia,13877,190
+
+2782,2004,Malignant neoplasms (C00-C97),Cancer,Virginia,13385,188.5
+
+2783,2003,Malignant neoplasms (C00-C97),Cancer,Virginia,13781,198.1
+
+2784,2002,Malignant neoplasms (C00-C97),Cancer,Virginia,13602,200
+
+2785,2001,Malignant neoplasms (C00-C97),Cancer,Virginia,13345,200.5
+
+2786,2000,Malignant neoplasms (C00-C97),Cancer,Virginia,13528,208.6
+
+2787,1999,Malignant neoplasms (C00-C97),Cancer,Virginia,13365,209.1
+
+3706,2016,Chronic lower respiratory diseases (J40-J47),CLRD,Virginia,3233,34.6
+
+3707,2015,Chronic lower respiratory diseases (J40-J47),CLRD,Virginia,3370,37.1
+
+3708,2014,Chronic lower respiratory diseases (J40-J47),CLRD,Virginia,3108,35.3
+
+3709,2013,Chronic lower respiratory diseases (J40-J47),CLRD,Virginia,3181,37.3
+
+3710,2012,Chronic lower respiratory diseases (J40-J47),CLRD,Virginia,3070,36.9
+
+3711,2011,Chronic lower respiratory diseases (J40-J47),CLRD,Virginia,3112,38.6
+
+3712,2010,Chronic lower respiratory diseases (J40-J47),CLRD,Virginia,2969,38.1
+
+3713,2009,Chronic lower respiratory diseases (J40-J47),CLRD,Virginia,3013,39.6
+
+3714,2008,Chronic lower respiratory diseases (J40-J47),CLRD,Virginia,3023,40.6
+
+3715,2007,Chronic lower respiratory diseases (J40-J47),CLRD,Virginia,2770,38.3
+
+3716,2006,Chronic lower respiratory diseases (J40-J47),CLRD,Virginia,2697,38
+
+3717,2005,Chronic lower respiratory diseases (J40-J47),CLRD,Virginia,2897,41.8
+
+3718,2004,Chronic lower respiratory diseases (J40-J47),CLRD,Virginia,2730,40.4
+
+3719,2003,Chronic lower respiratory diseases (J40-J47),CLRD,Virginia,2983,45
+
+3720,2002,Chronic lower respiratory diseases (J40-J47),CLRD,Virginia,2752,42.2
+
+3721,2001,Chronic lower respiratory diseases (J40-J47),CLRD,Virginia,2744,43.1
+
+3722,2000,Chronic lower respiratory diseases (J40-J47),CLRD,Virginia,2820,45.1
+
+3723,1999,Chronic lower respiratory diseases (J40-J47),CLRD,Virginia,2699,43.8
+
+4642,2016,Diabetes mellitus (E10-E14),Diabetes,Virginia,2062,21.7
+
+4643,2015,Diabetes mellitus (E10-E14),Diabetes,Virginia,2044,21.9
+
+4644,2014,Diabetes mellitus (E10-E14),Diabetes,Virginia,1683,18.5
+
+4645,2013,Diabetes mellitus (E10-E14),Diabetes,Virginia,1626,18.4
+
+4646,2012,Diabetes mellitus (E10-E14),Diabetes,Virginia,1603,18.6
+
+4647,2011,Diabetes mellitus (E10-E14),Diabetes,Virginia,1643,19.5
+
+4648,2010,Diabetes mellitus (E10-E14),Diabetes,Virginia,1530,18.8
+
+4649,2009,Diabetes mellitus (E10-E14),Diabetes,Virginia,1560,19.5
+
+4650,2008,Diabetes mellitus (E10-E14),Diabetes,Virginia,1534,19.8
+
+4651,2007,Diabetes mellitus (E10-E14),Diabetes,Virginia,1507,20
+
+4652,2006,Diabetes mellitus (E10-E14),Diabetes,Virginia,1632,22.1
+
+4653,2005,Diabetes mellitus (E10-E14),Diabetes,Virginia,1642,22.9
+
+4654,2004,Diabetes mellitus (E10-E14),Diabetes,Virginia,1602,22.9
+
+4655,2003,Diabetes mellitus (E10-E14),Diabetes,Virginia,1587,23
+
+4656,2002,Diabetes mellitus (E10-E14),Diabetes,Virginia,1558,23.2
+
+4657,2001,Diabetes mellitus (E10-E14),Diabetes,Virginia,1613,24.6
+
+4658,2000,Diabetes mellitus (E10-E14),Diabetes,Virginia,1564,24.4
+
+4659,1999,Diabetes mellitus (E10-E14),Diabetes,Virginia,1486,23.6
+
+5578,2016,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Virginia,14124,150.7
+
+5579,2015,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Virginia,14077,154.2
+
+5580,2014,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Virginia,13874,156.1
+
+5581,2013,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Virginia,13663,157.3
+
+5582,2012,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Virginia,13386,158.6
+
+5583,2011,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Virginia,13272,162.2
+
+5584,2010,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Virginia,13404,168.5
+
+5585,2009,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Virginia,13397,172
+
+5586,2008,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Virginia,13675,180.6
+
+5587,2007,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Virginia,13750,186.7
+
+5588,2006,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Virginia,14021,195.2
+
+5589,2005,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Virginia,14192,203
+
+5590,2004,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Virginia,14284,210.4
+
+5591,2003,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Virginia,14756,222.1
+
+5592,2002,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Virginia,14952,230
+
+5593,2001,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Virginia,14913,234.5
+
+5594,2000,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Virginia,15264,245.5
+
+5595,1999,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Virginia,15329,250.9
+
+6514,2016,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Virginia,1177,12.7
+
+6515,2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Virginia,1416,15.7
+
+6516,2014,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Virginia,1498,17.1
+
+6517,2013,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Virginia,1442,17
+
+6518,2012,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Virginia,1307,15.8
+
+6519,2011,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Virginia,1421,17.6
+
+6520,2010,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Virginia,1195,15.5
+
+6521,2009,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Virginia,1237,16.3
+
+6522,2008,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Virginia,1324,17.9
+
+6523,2007,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Virginia,1231,17.2
+
+6524,2006,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Virginia,1281,18.4
+
+6525,2005,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Virginia,1464,21.6
+
+6526,2004,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Virginia,1449,22.1
+
+6527,2003,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Virginia,1559,24.2
+
+6528,2002,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Virginia,1480,23.7
+
+6529,2001,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Virginia,1481,24.1
+
+6530,2000,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Virginia,1510,25.1
+
+6531,1999,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Virginia,1594,27.1
+
+7451,2016,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Virginia,1543,16.6
+
+7452,2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Virginia,1470,16.1
+
+7453,2014,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Virginia,1553,17.6
+
+7454,2013,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Virginia,1547,18
+
+7455,2012,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Virginia,1523,18.3
+
+7456,2011,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Virginia,1419,17.5
+
+7457,2010,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Virginia,1595,20.2
+
+7458,2009,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Virginia,1521,19.7
+
+7459,2008,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Virginia,1537,20.5
+
+7460,2007,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Virginia,1439,19.7
+
+7461,2006,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Virginia,1400,19.6
+
+7462,2005,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Virginia,1277,18.4
+
+7463,2004,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Virginia,1249,18.5
+
+7464,2003,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Virginia,1244,18.7
+
+7465,2002,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Virginia,1236,19
+
+7466,2001,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Virginia,1128,17.8
+
+7467,2000,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Virginia,1118,17.9
+
+7468,1999,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Virginia,1035,16.9
+
+8386,2016,Cerebrovascular diseases (I60-I69),Stroke,Virginia,3502,38.2
+
+8387,2015,Cerebrovascular diseases (I60-I69),Stroke,Virginia,3393,38
+
+8388,2014,Cerebrovascular diseases (I60-I69),Stroke,Virginia,3229,37
+
+8389,2013,Cerebrovascular diseases (I60-I69),Stroke,Virginia,3287,38.6
+
+8390,2012,Cerebrovascular diseases (I60-I69),Stroke,Virginia,3394,40.7
+
+8391,2011,Cerebrovascular diseases (I60-I69),Stroke,Virginia,3347,41.7
+
+8392,2010,Cerebrovascular diseases (I60-I69),Stroke,Virginia,3293,42.1
+
+8393,2009,Cerebrovascular diseases (I60-I69),Stroke,Virginia,3244,42.5
+
+8394,2008,Cerebrovascular diseases (I60-I69),Stroke,Virginia,3301,44.5
+
+8395,2007,Cerebrovascular diseases (I60-I69),Stroke,Virginia,3313,45.7
+
+8396,2006,Cerebrovascular diseases (I60-I69),Stroke,Virginia,3523,50.1
+
+8397,2005,Cerebrovascular diseases (I60-I69),Stroke,Virginia,3675,53.7
+
+8398,2004,Cerebrovascular diseases (I60-I69),Stroke,Virginia,3788,56.7
+
+8399,2003,Cerebrovascular diseases (I60-I69),Stroke,Virginia,3938,60.6
+
+8400,2002,Cerebrovascular diseases (I60-I69),Stroke,Virginia,3960,62.4
+
+8401,2001,Cerebrovascular diseases (I60-I69),Stroke,Virginia,4129,66.3
+
+8402,2000,Cerebrovascular diseases (I60-I69),Stroke,Virginia,4104,67.4
+
+8403,1999,Cerebrovascular diseases (I60-I69),Stroke,Virginia,4110,68.7
+
+9322,2016,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Virginia,1166,13.2
+
+9323,2015,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Virginia,1118,12.7
+
+9324,2014,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Virginia,1123,12.9
+
+9325,2013,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Virginia,1072,12.5
+
+9326,2012,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Virginia,1063,12.7
+
+9327,2011,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Virginia,1054,12.6
+
+9328,2010,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Virginia,963,11.7
+
+9329,2009,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Virginia,963,11.7
+
+9330,2008,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Virginia,948,11.8
+
+9331,2007,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Virginia,880,11.1
+
+9332,2006,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Virginia,876,11.1
+
+9333,2005,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Virginia,866,11.2
+
+9334,2004,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Virginia,828,10.9
+
+9335,2003,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Virginia,808,10.9
+
+9336,2002,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Virginia,799,10.9
+
+9337,2001,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Virginia,797,11
+
+9338,2000,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Virginia,768,10.8
+
+9339,1999,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Virginia,791,11.2
+
+10212,2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Virginia,3429,39.6
+
+10213,2014,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Virginia,3146,36.8
+
+10214,2013,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Virginia,2951,34.9
+
+10215,2012,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Virginia,2883,34.5
+
+10216,2011,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Virginia,2809,34.4
+
+10217,2010,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Virginia,2527,31.6
+
+10218,2009,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Virginia,2622,33.3
+
+10219,2008,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Virginia,2820,36.2
+
+10220,2007,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Virginia,2931,38.3
+
+10221,2006,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Virginia,2703,35.8
+
+10222,2005,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Virginia,2638,35.6
+
+10223,2004,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Virginia,2630,36.2
+
+10224,2003,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Virginia,2644,37
+
+10225,2002,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Virginia,2479,35.2
+
+10226,2001,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Virginia,2432,35.2
+
+10227,2000,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Virginia,2396,35.4
+
+10228,1999,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Virginia,2214,33.2
+
+48,2016,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Virginia,3710,42.4
+
+898,2016,All Causes,All causes,Virginia,66473,715.5
+
+899,2015,All Causes,All causes,Virginia,65577,721.6
+
+900,2014,All Causes,All causes,Virginia,63598,717.5
+
+901,2013,All Causes,All causes,Virginia,62716,724.8
+
+902,2012,All Causes,All causes,Virginia,61564,730.2
+
+903,2011,All Causes,All causes,Virginia,60804,741.6
+
+904,2010,All Causes,All causes,Virginia,59032,741.6
+
+905,2009,All Causes,All causes,Virginia,58653,750.8
+
+906,2008,All Causes,All causes,Virginia,59100,776.7
+
+907,2007,All Causes,All causes,Virginia,58225,784
+
+908,2006,All Causes,All causes,Virginia,57690,795
+
+909,2005,All Causes,All causes,Virginia,57855,817.4
+
+910,2004,All Causes,All causes,Virginia,56550,820.5
+
+911,2003,All Causes,All causes,Virginia,58282,863.3
+
+912,2002,All Causes,All causes,Virginia,57196,865.9
+
+913,2001,All Causes,All causes,Virginia,56280,869.9
+
+914,2000,All Causes,All causes,Virginia,56282,890.4
+
+915,1999,All Causes,All causes,Virginia,55320,889.6
+
+1834,2016,Alzheimer's disease (G30),Alzheimer's disease,Virginia,2408,26.8
+
+1835,2015,Alzheimer's disease (G30),Alzheimer's disease,Virginia,2248,25.6
+
+1836,2014,Alzheimer's disease (G30),Alzheimer's disease,Virginia,1775,20.8
+
+1837,2013,Alzheimer's disease (G30),Alzheimer's disease,Virginia,1642,19.7
+
+1838,2012,Alzheimer's disease (G30),Alzheimer's disease,Virginia,1712,21.2
+
+1839,2011,Alzheimer's disease (G30),Alzheimer's disease,Virginia,1807,23.1
+
+1840,2010,Alzheimer's disease (G30),Alzheimer's disease,Virginia,1848,24.5
+
+1841,2009,Alzheimer's disease (G30),Alzheimer's disease,Virginia,1738,23.5
+
+1842,2008,Alzheimer's disease (G30),Alzheimer's disease,Virginia,1763,24.6
+
+1843,2007,Alzheimer's disease (G30),Alzheimer's disease,Virginia,1703,24.4
+
+1844,2006,Alzheimer's disease (G30),Alzheimer's disease,Virginia,1574,23.2
+
+1845,2005,Alzheimer's disease (G30),Alzheimer's disease,Virginia,1550,23.6
+
+1846,2004,Alzheimer's disease (G30),Alzheimer's disease,Virginia,1480,23.2
+
+1847,2003,Alzheimer's disease (G30),Alzheimer's disease,Virginia,1466,23.4
+
+1848,2002,Alzheimer's disease (G30),Alzheimer's disease,Virginia,1368,22.4
+
+1849,2001,Alzheimer's disease (G30),Alzheimer's disease,Virginia,1184,19.8
+
+1850,2000,Alzheimer's disease (G30),Alzheimer's disease,Virginia,1094,18.7
+
+1851,1999,Alzheimer's disease (G30),Alzheimer's disease,Virginia,917,15.9
+
+2770,2016,Malignant neoplasms (C00-C97),Cancer,Virginia,15027,156.1
+
+2771,2015,Malignant neoplasms (C00-C97),Cancer,Virginia,14947,159.5
+
+2772,2014,Malignant neoplasms (C00-C97),Cancer,Virginia,14749,161.5
+
+2773,2013,Malignant neoplasms (C00-C97),Cancer,Virginia,14414,162
+
+2774,2012,Malignant neoplasms (C00-C97),Cancer,Virginia,14294,165
+
+2775,2011,Malignant neoplasms (C00-C97),Cancer,Virginia,14376,170.8
+
+2776,2010,Malignant neoplasms (C00-C97),Cancer,Virginia,14080,172.4
+
+2777,2009,Malignant neoplasms (C00-C97),Cancer,Virginia,14122,176.2
+
+2778,2008,Malignant neoplasms (C00-C97),Cancer,Virginia,13983,179.1
+
+2779,2007,Malignant neoplasms (C00-C97),Cancer,Virginia,14009,184
+
+2780,2006,Malignant neoplasms (C00-C97),Cancer,Virginia,13829,185.3
+
+2781,2005,Malignant neoplasms (C00-C97),Cancer,Virginia,13877,190
+
+2782,2004,Malignant neoplasms (C00-C97),Cancer,Virginia,13385,188.5
+
+2783,2003,Malignant neoplasms (C00-C97),Cancer,Virginia,13781,198.1
+
+2784,2002,Malignant neoplasms (C00-C97),Cancer,Virginia,13602,200
+
+2785,2001,Malignant neoplasms (C00-C97),Cancer,Virginia,13345,200.5
+
+2786,2000,Malignant neoplasms (C00-C97),Cancer,Virginia,13528,208.6
+
+2787,1999,Malignant neoplasms (C00-C97),Cancer,Virginia,13365,209.1
+
+3706,2016,Chronic lower respiratory diseases (J40-J47),CLRD,Virginia,3233,34.6
+
+3707,2015,Chronic lower respiratory diseases (J40-J47),CLRD,Virginia,3370,37.1
+
+3708,2014,Chronic lower respiratory diseases (J40-J47),CLRD,Virginia,3108,35.3
+
+3709,2013,Chronic lower respiratory diseases (J40-J47),CLRD,Virginia,3181,37.3
+
+3710,2012,Chronic lower respiratory diseases (J40-J47),CLRD,Virginia,3070,36.9
+
+3711,2011,Chronic lower respiratory diseases (J40-J47),CLRD,Virginia,3112,38.6
+
+3712,2010,Chronic lower respiratory diseases (J40-J47),CLRD,Virginia,2969,38.1
+
+3713,2009,Chronic lower respiratory diseases (J40-J47),CLRD,Virginia,3013,39.6
+
+3714,2008,Chronic lower respiratory diseases (J40-J47),CLRD,Virginia,3023,40.6
+
+3715,2007,Chronic lower respiratory diseases (J40-J47),CLRD,Virginia,2770,38.3
+
+3716,2006,Chronic lower respiratory diseases (J40-J47),CLRD,Virginia,2697,38
+
+3717,2005,Chronic lower respiratory diseases (J40-J47),CLRD,Virginia,2897,41.8
+
+3718,2004,Chronic lower respiratory diseases (J40-J47),CLRD,Virginia,2730,40.4
+
+3719,2003,Chronic lower respiratory diseases (J40-J47),CLRD,Virginia,2983,45
+
+3720,2002,Chronic lower respiratory diseases (J40-J47),CLRD,Virginia,2752,42.2
+
+3721,2001,Chronic lower respiratory diseases (J40-J47),CLRD,Virginia,2744,43.1
+
+3722,2000,Chronic lower respiratory diseases (J40-J47),CLRD,Virginia,2820,45.1
+
+3723,1999,Chronic lower respiratory diseases (J40-J47),CLRD,Virginia,2699,43.8
+
+4642,2016,Diabetes mellitus (E10-E14),Diabetes,Virginia,2062,21.7
+
+4643,2015,Diabetes mellitus (E10-E14),Diabetes,Virginia,2044,21.9
+
+4644,2014,Diabetes mellitus (E10-E14),Diabetes,Virginia,1683,18.5
+
+4645,2013,Diabetes mellitus (E10-E14),Diabetes,Virginia,1626,18.4
+
+4646,2012,Diabetes mellitus (E10-E14),Diabetes,Virginia,1603,18.6
+
+4647,2011,Diabetes mellitus (E10-E14),Diabetes,Virginia,1643,19.5
+
+4648,2010,Diabetes mellitus (E10-E14),Diabetes,Virginia,1530,18.8
+
+4649,2009,Diabetes mellitus (E10-E14),Diabetes,Virginia,1560,19.5
+
+4650,2008,Diabetes mellitus (E10-E14),Diabetes,Virginia,1534,19.8
+
+4651,2007,Diabetes mellitus (E10-E14),Diabetes,Virginia,1507,20
+
+4652,2006,Diabetes mellitus (E10-E14),Diabetes,Virginia,1632,22.1
+
+4653,2005,Diabetes mellitus (E10-E14),Diabetes,Virginia,1642,22.9
+
+4654,2004,Diabetes mellitus (E10-E14),Diabetes,Virginia,1602,22.9
+
+4655,2003,Diabetes mellitus (E10-E14),Diabetes,Virginia,1587,23
+
+4656,2002,Diabetes mellitus (E10-E14),Diabetes,Virginia,1558,23.2
+
+4657,2001,Diabetes mellitus (E10-E14),Diabetes,Virginia,1613,24.6
+
+4658,2000,Diabetes mellitus (E10-E14),Diabetes,Virginia,1564,24.4
+
+4659,1999,Diabetes mellitus (E10-E14),Diabetes,Virginia,1486,23.6
+
+5578,2016,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Virginia,14124,150.7
+
+5579,2015,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Virginia,14077,154.2
+
+5580,2014,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Virginia,13874,156.1
+
+5581,2013,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Virginia,13663,157.3
+
+5582,2012,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Virginia,13386,158.6
+
+5583,2011,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Virginia,13272,162.2
+
+5584,2010,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Virginia,13404,168.5
+
+5585,2009,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Virginia,13397,172
+
+5586,2008,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Virginia,13675,180.6
+
+5587,2007,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Virginia,13750,186.7
+
+5588,2006,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Virginia,14021,195.2
+
+5589,2005,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Virginia,14192,203
+
+5590,2004,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Virginia,14284,210.4
+
+5591,2003,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Virginia,14756,222.1
+
+5592,2002,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Virginia,14952,230
+
+5593,2001,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Virginia,14913,234.5
+
+5594,2000,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Virginia,15264,245.5
+
+5595,1999,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Virginia,15329,250.9
+
+6514,2016,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Virginia,1177,12.7
+
+6515,2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Virginia,1416,15.7
+
+6516,2014,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Virginia,1498,17.1
+
+6517,2013,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Virginia,1442,17
+
+6518,2012,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Virginia,1307,15.8
+
+6519,2011,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Virginia,1421,17.6
+
+6520,2010,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Virginia,1195,15.5
+
+6521,2009,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Virginia,1237,16.3
+
+6522,2008,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Virginia,1324,17.9
+
+6523,2007,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Virginia,1231,17.2
+
+6524,2006,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Virginia,1281,18.4
+
+6525,2005,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Virginia,1464,21.6
+
+6526,2004,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Virginia,1449,22.1
+
+6527,2003,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Virginia,1559,24.2
+
+6528,2002,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Virginia,1480,23.7
+
+6529,2001,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Virginia,1481,24.1
+
+6530,2000,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Virginia,1510,25.1
+
+6531,1999,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Virginia,1594,27.1
+
+7451,2016,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Virginia,1543,16.6
+
+7452,2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Virginia,1470,16.1
+
+7453,2014,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Virginia,1553,17.6
+
+7454,2013,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Virginia,1547,18
+
+7455,2012,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Virginia,1523,18.3
+
+7456,2011,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Virginia,1419,17.5
+
+7457,2010,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Virginia,1595,20.2
+
+7458,2009,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Virginia,1521,19.7
+
+7459,2008,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Virginia,1537,20.5
+
+7460,2007,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Virginia,1439,19.7
+
+7461,2006,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Virginia,1400,19.6
+
+7462,2005,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Virginia,1277,18.4
+
+7463,2004,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Virginia,1249,18.5
+
+7464,2003,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Virginia,1244,18.7
+
+7465,2002,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Virginia,1236,19
+
+7466,2001,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Virginia,1128,17.8
+
+7467,2000,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Virginia,1118,17.9
+
+7468,1999,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Virginia,1035,16.9
+
+8386,2016,Cerebrovascular diseases (I60-I69),Stroke,Virginia,3502,38.2
+
+8387,2015,Cerebrovascular diseases (I60-I69),Stroke,Virginia,3393,38
+
+8388,2014,Cerebrovascular diseases (I60-I69),Stroke,Virginia,3229,37
+
+8389,2013,Cerebrovascular diseases (I60-I69),Stroke,Virginia,3287,38.6
+
+8390,2012,Cerebrovascular diseases (I60-I69),Stroke,Virginia,3394,40.7
+
+8391,2011,Cerebrovascular diseases (I60-I69),Stroke,Virginia,3347,41.7
+
+8392,2010,Cerebrovascular diseases (I60-I69),Stroke,Virginia,3293,42.1
+
+8393,2009,Cerebrovascular diseases (I60-I69),Stroke,Virginia,3244,42.5
+
+8394,2008,Cerebrovascular diseases (I60-I69),Stroke,Virginia,3301,44.5
+
+8395,2007,Cerebrovascular diseases (I60-I69),Stroke,Virginia,3313,45.7
+
+8396,2006,Cerebrovascular diseases (I60-I69),Stroke,Virginia,3523,50.1
+
+8397,2005,Cerebrovascular diseases (I60-I69),Stroke,Virginia,3675,53.7
+
+8398,2004,Cerebrovascular diseases (I60-I69),Stroke,Virginia,3788,56.7
+
+8399,2003,Cerebrovascular diseases (I60-I69),Stroke,Virginia,3938,60.6
+
+8400,2002,Cerebrovascular diseases (I60-I69),Stroke,Virginia,3960,62.4
+
+8401,2001,Cerebrovascular diseases (I60-I69),Stroke,Virginia,4129,66.3
+
+8402,2000,Cerebrovascular diseases (I60-I69),Stroke,Virginia,4104,67.4
+
+8403,1999,Cerebrovascular diseases (I60-I69),Stroke,Virginia,4110,68.7
+
+9322,2016,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Virginia,1166,13.2
+
+9323,2015,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Virginia,1118,12.7
+
+9324,2014,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Virginia,1123,12.9
+
+9325,2013,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Virginia,1072,12.5
+
+9326,2012,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Virginia,1063,12.7
+
+9327,2011,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Virginia,1054,12.6
+
+9328,2010,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Virginia,963,11.7
+
+9329,2009,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Virginia,963,11.7
+
+9330,2008,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Virginia,948,11.8
+
+9331,2007,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Virginia,880,11.1
+
+9332,2006,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Virginia,876,11.1
+
+9333,2005,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Virginia,866,11.2
+
+9334,2004,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Virginia,828,10.9
+
+9335,2003,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Virginia,808,10.9
+
+9336,2002,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Virginia,799,10.9
+
+9337,2001,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Virginia,797,11
+
+9338,2000,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Virginia,768,10.8
+
+9339,1999,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Virginia,791,11.2
+
+10212,2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Virginia,3429,39.6
+
+10213,2014,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Virginia,3146,36.8
+
+10214,2013,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Virginia,2951,34.9
+
+10215,2012,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Virginia,2883,34.5
+
+10216,2011,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Virginia,2809,34.4
+
+10217,2010,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Virginia,2527,31.6
+
+10218,2009,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Virginia,2622,33.3
+
+10219,2008,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Virginia,2820,36.2
+
+10220,2007,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Virginia,2931,38.3
+
+10221,2006,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Virginia,2703,35.8
+
+10222,2005,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Virginia,2638,35.6
+
+10223,2004,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Virginia,2630,36.2
+
+10224,2003,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Virginia,2644,37
+
+10225,2002,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Virginia,2479,35.2
+
+10226,2001,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Virginia,2432,35.2
+
+10227,2000,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Virginia,2396,35.4
+
+10228,1999,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Virginia,2214,33.2
+
+48,2016,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Virginia,3710,42.4
+
+898,2016,All Causes,All causes,Virginia,66473,715.5
+
+899,2015,All Causes,All causes,Virginia,65577,721.6
+
+900,2014,All Causes,All causes,Virginia,63598,717.5
+
+901,2013,All Causes,All causes,Virginia,62716,724.8
+
+902,2012,All Causes,All causes,Virginia,61564,730.2
+
+903,2011,All Causes,All causes,Virginia,60804,741.6
+
+904,2010,All Causes,All causes,Virginia,59032,741.6
+
+905,2009,All Causes,All causes,Virginia,58653,750.8
+
+906,2008,All Causes,All causes,Virginia,59100,776.7
+
+907,2007,All Causes,All causes,Virginia,58225,784
+
+908,2006,All Causes,All causes,Virginia,57690,795
+
+909,2005,All Causes,All causes,Virginia,57855,817.4
+
+910,2004,All Causes,All causes,Virginia,56550,820.5
+
+911,2003,All Causes,All causes,Virginia,58282,863.3
+
+912,2002,All Causes,All causes,Virginia,57196,865.9
+
+913,2001,All Causes,All causes,Virginia,56280,869.9
+
+914,2000,All Causes,All causes,Virginia,56282,890.4
+
+915,1999,All Causes,All causes,Virginia,55320,889.6
+
+1834,2016,Alzheimer's disease (G30),Alzheimer's disease,Virginia,2408,26.8
+
+1835,2015,Alzheimer's disease (G30),Alzheimer's disease,Virginia,2248,25.6
+
+1836,2014,Alzheimer's disease (G30),Alzheimer's disease,Virginia,1775,20.8
+
+1837,2013,Alzheimer's disease (G30),Alzheimer's disease,Virginia,1642,19.7
+
+1838,2012,Alzheimer's disease (G30),Alzheimer's disease,Virginia,1712,21.2
+
+1839,2011,Alzheimer's disease (G30),Alzheimer's disease,Virginia,1807,23.1
+
+1840,2010,Alzheimer's disease (G30),Alzheimer's disease,Virginia,1848,24.5
+
+1841,2009,Alzheimer's disease (G30),Alzheimer's disease,Virginia,1738,23.5
+
+1842,2008,Alzheimer's disease (G30),Alzheimer's disease,Virginia,1763,24.6
+
+1843,2007,Alzheimer's disease (G30),Alzheimer's disease,Virginia,1703,24.4
+
+1844,2006,Alzheimer's disease (G30),Alzheimer's disease,Virginia,1574,23.2
+
+1845,2005,Alzheimer's disease (G30),Alzheimer's disease,Virginia,1550,23.6
+
+1846,2004,Alzheimer's disease (G30),Alzheimer's disease,Virginia,1480,23.2
+
+1847,2003,Alzheimer's disease (G30),Alzheimer's disease,Virginia,1466,23.4
+
+1848,2002,Alzheimer's disease (G30),Alzheimer's disease,Virginia,1368,22.4
+
+1849,2001,Alzheimer's disease (G30),Alzheimer's disease,Virginia,1184,19.8
+
+1850,2000,Alzheimer's disease (G30),Alzheimer's disease,Virginia,1094,18.7
+
+1851,1999,Alzheimer's disease (G30),Alzheimer's disease,Virginia,917,15.9
+
+2770,2016,Malignant neoplasms (C00-C97),Cancer,Virginia,15027,156.1
+
+2771,2015,Malignant neoplasms (C00-C97),Cancer,Virginia,14947,159.5
+
+2772,2014,Malignant neoplasms (C00-C97),Cancer,Virginia,14749,161.5
+
+2773,2013,Malignant neoplasms (C00-C97),Cancer,Virginia,14414,162
+
+2774,2012,Malignant neoplasms (C00-C97),Cancer,Virginia,14294,165
+
+2775,2011,Malignant neoplasms (C00-C97),Cancer,Virginia,14376,170.8
+
+2776,2010,Malignant neoplasms (C00-C97),Cancer,Virginia,14080,172.4
+
+2777,2009,Malignant neoplasms (C00-C97),Cancer,Virginia,14122,176.2
+
+2778,2008,Malignant neoplasms (C00-C97),Cancer,Virginia,13983,179.1
+
+2779,2007,Malignant neoplasms (C00-C97),Cancer,Virginia,14009,184
+
+2780,2006,Malignant neoplasms (C00-C97),Cancer,Virginia,13829,185.3
+
+2781,2005,Malignant neoplasms (C00-C97),Cancer,Virginia,13877,190
+
+2782,2004,Malignant neoplasms (C00-C97),Cancer,Virginia,13385,188.5
+
+2783,2003,Malignant neoplasms (C00-C97),Cancer,Virginia,13781,198.1
+
+2784,2002,Malignant neoplasms (C00-C97),Cancer,Virginia,13602,200
+
+2785,2001,Malignant neoplasms (C00-C97),Cancer,Virginia,13345,200.5
+
+2786,2000,Malignant neoplasms (C00-C97),Cancer,Virginia,13528,208.6
+
+2787,1999,Malignant neoplasms (C00-C97),Cancer,Virginia,13365,209.1
+
+3706,2016,Chronic lower respiratory diseases (J40-J47),CLRD,Virginia,3233,34.6
+
+3707,2015,Chronic lower respiratory diseases (J40-J47),CLRD,Virginia,3370,37.1
+
+3708,2014,Chronic lower respiratory diseases (J40-J47),CLRD,Virginia,3108,35.3
+
+3709,2013,Chronic lower respiratory diseases (J40-J47),CLRD,Virginia,3181,37.3
+
+3710,2012,Chronic lower respiratory diseases (J40-J47),CLRD,Virginia,3070,36.9
+
+3711,2011,Chronic lower respiratory diseases (J40-J47),CLRD,Virginia,3112,38.6
+
+3712,2010,Chronic lower respiratory diseases (J40-J47),CLRD,Virginia,2969,38.1
+
+3713,2009,Chronic lower respiratory diseases (J40-J47),CLRD,Virginia,3013,39.6
+
+3714,2008,Chronic lower respiratory diseases (J40-J47),CLRD,Virginia,3023,40.6
+
+3715,2007,Chronic lower respiratory diseases (J40-J47),CLRD,Virginia,2770,38.3
+
+3716,2006,Chronic lower respiratory diseases (J40-J47),CLRD,Virginia,2697,38
+
+3717,2005,Chronic lower respiratory diseases (J40-J47),CLRD,Virginia,2897,41.8
+
+3718,2004,Chronic lower respiratory diseases (J40-J47),CLRD,Virginia,2730,40.4
+
+3719,2003,Chronic lower respiratory diseases (J40-J47),CLRD,Virginia,2983,45
+
+3720,2002,Chronic lower respiratory diseases (J40-J47),CLRD,Virginia,2752,42.2
+
+3721,2001,Chronic lower respiratory diseases (J40-J47),CLRD,Virginia,2744,43.1
+
+3722,2000,Chronic lower respiratory diseases (J40-J47),CLRD,Virginia,2820,45.1
+
+3723,1999,Chronic lower respiratory diseases (J40-J47),CLRD,Virginia,2699,43.8
+
+4642,2016,Diabetes mellitus (E10-E14),Diabetes,Virginia,2062,21.7
+
+4643,2015,Diabetes mellitus (E10-E14),Diabetes,Virginia,2044,21.9
+
+4644,2014,Diabetes mellitus (E10-E14),Diabetes,Virginia,1683,18.5
+
+4645,2013,Diabetes mellitus (E10-E14),Diabetes,Virginia,1626,18.4
+
+4646,2012,Diabetes mellitus (E10-E14),Diabetes,Virginia,1603,18.6
+
+4647,2011,Diabetes mellitus (E10-E14),Diabetes,Virginia,1643,19.5
+
+4648,2010,Diabetes mellitus (E10-E14),Diabetes,Virginia,1530,18.8
+
+4649,2009,Diabetes mellitus (E10-E14),Diabetes,Virginia,1560,19.5
+
+4650,2008,Diabetes mellitus (E10-E14),Diabetes,Virginia,1534,19.8
+
+4651,2007,Diabetes mellitus (E10-E14),Diabetes,Virginia,1507,20
+
+4652,2006,Diabetes mellitus (E10-E14),Diabetes,Virginia,1632,22.1
+
+4653,2005,Diabetes mellitus (E10-E14),Diabetes,Virginia,1642,22.9
+
+4654,2004,Diabetes mellitus (E10-E14),Diabetes,Virginia,1602,22.9
+
+4655,2003,Diabetes mellitus (E10-E14),Diabetes,Virginia,1587,23
+
+4656,2002,Diabetes mellitus (E10-E14),Diabetes,Virginia,1558,23.2
+
+4657,2001,Diabetes mellitus (E10-E14),Diabetes,Virginia,1613,24.6
+
+4658,2000,Diabetes mellitus (E10-E14),Diabetes,Virginia,1564,24.4
+
+4659,1999,Diabetes mellitus (E10-E14),Diabetes,Virginia,1486,23.6
+
+5578,2016,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Virginia,14124,150.7
+
+5579,2015,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Virginia,14077,154.2
+
+5580,2014,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Virginia,13874,156.1
+
+5581,2013,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Virginia,13663,157.3
+
+5582,2012,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Virginia,13386,158.6
+
+5583,2011,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Virginia,13272,162.2
+
+5584,2010,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Virginia,13404,168.5
+
+5585,2009,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Virginia,13397,172
+
+5586,2008,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Virginia,13675,180.6
+
+5587,2007,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Virginia,13750,186.7
+
+5588,2006,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Virginia,14021,195.2
+
+5589,2005,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Virginia,14192,203
+
+5590,2004,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Virginia,14284,210.4
+
+5591,2003,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Virginia,14756,222.1
+
+5592,2002,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Virginia,14952,230
+
+5593,2001,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Virginia,14913,234.5
+
+5594,2000,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Virginia,15264,245.5
+
+5595,1999,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Virginia,15329,250.9
+
+6514,2016,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Virginia,1177,12.7
+
+6515,2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Virginia,1416,15.7
+
+6516,2014,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Virginia,1498,17.1
+
+6517,2013,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Virginia,1442,17
+
+6518,2012,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Virginia,1307,15.8
+
+6519,2011,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Virginia,1421,17.6
+
+6520,2010,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Virginia,1195,15.5
+
+6521,2009,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Virginia,1237,16.3
+
+6522,2008,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Virginia,1324,17.9
+
+6523,2007,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Virginia,1231,17.2
+
+6524,2006,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Virginia,1281,18.4
+
+6525,2005,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Virginia,1464,21.6
+
+6526,2004,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Virginia,1449,22.1
+
+6527,2003,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Virginia,1559,24.2
+
+6528,2002,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Virginia,1480,23.7
+
+6529,2001,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Virginia,1481,24.1
+
+6530,2000,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Virginia,1510,25.1
+
+6531,1999,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Virginia,1594,27.1
+
+7451,2016,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Virginia,1543,16.6
+
+7452,2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Virginia,1470,16.1
+
+7453,2014,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Virginia,1553,17.6
+
+7454,2013,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Virginia,1547,18
+
+7455,2012,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Virginia,1523,18.3
+
+7456,2011,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Virginia,1419,17.5
+
+7457,2010,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Virginia,1595,20.2
+
+7458,2009,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Virginia,1521,19.7
+
+7459,2008,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Virginia,1537,20.5
+
+7460,2007,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Virginia,1439,19.7
+
+7461,2006,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Virginia,1400,19.6
+
+7462,2005,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Virginia,1277,18.4
+
+7463,2004,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Virginia,1249,18.5
+
+7464,2003,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Virginia,1244,18.7
+
+7465,2002,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Virginia,1236,19
+
+7466,2001,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Virginia,1128,17.8
+
+7467,2000,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Virginia,1118,17.9
+
+7468,1999,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Virginia,1035,16.9
+
+8386,2016,Cerebrovascular diseases (I60-I69),Stroke,Virginia,3502,38.2
+
+8387,2015,Cerebrovascular diseases (I60-I69),Stroke,Virginia,3393,38
+
+8388,2014,Cerebrovascular diseases (I60-I69),Stroke,Virginia,3229,37
+
+8389,2013,Cerebrovascular diseases (I60-I69),Stroke,Virginia,3287,38.6
+
+8390,2012,Cerebrovascular diseases (I60-I69),Stroke,Virginia,3394,40.7
+
+8391,2011,Cerebrovascular diseases (I60-I69),Stroke,Virginia,3347,41.7
+
+8392,2010,Cerebrovascular diseases (I60-I69),Stroke,Virginia,3293,42.1
+
+8393,2009,Cerebrovascular diseases (I60-I69),Stroke,Virginia,3244,42.5
+
+8394,2008,Cerebrovascular diseases (I60-I69),Stroke,Virginia,3301,44.5
+
+8395,2007,Cerebrovascular diseases (I60-I69),Stroke,Virginia,3313,45.7
+
+8396,2006,Cerebrovascular diseases (I60-I69),Stroke,Virginia,3523,50.1
+
+8397,2005,Cerebrovascular diseases (I60-I69),Stroke,Virginia,3675,53.7
+
+8398,2004,Cerebrovascular diseases (I60-I69),Stroke,Virginia,3788,56.7
+
+8399,2003,Cerebrovascular diseases (I60-I69),Stroke,Virginia,3938,60.6
+
+8400,2002,Cerebrovascular diseases (I60-I69),Stroke,Virginia,3960,62.4
+
+8401,2001,Cerebrovascular diseases (I60-I69),Stroke,Virginia,4129,66.3
+
+8402,2000,Cerebrovascular diseases (I60-I69),Stroke,Virginia,4104,67.4
+
+8403,1999,Cerebrovascular diseases (I60-I69),Stroke,Virginia,4110,68.7
+
+9322,2016,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Virginia,1166,13.2
+
+9323,2015,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Virginia,1118,12.7
+
+9324,2014,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Virginia,1123,12.9
+
+9325,2013,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Virginia,1072,12.5
+
+9326,2012,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Virginia,1063,12.7
+
+9327,2011,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Virginia,1054,12.6
+
+9328,2010,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Virginia,963,11.7
+
+9329,2009,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Virginia,963,11.7
+
+9330,2008,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Virginia,948,11.8
+
+9331,2007,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Virginia,880,11.1
+
+9332,2006,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Virginia,876,11.1
+
+9333,2005,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Virginia,866,11.2
+
+9334,2004,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Virginia,828,10.9
+
+9335,2003,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Virginia,808,10.9
+
+9336,2002,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Virginia,799,10.9
+
+9337,2001,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Virginia,797,11
+
+9338,2000,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Virginia,768,10.8
+
+9339,1999,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Virginia,791,11.2
+
+10212,2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Virginia,3429,39.6
+
+10213,2014,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Virginia,3146,36.8
+
+10214,2013,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Virginia,2951,34.9
+
+10215,2012,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Virginia,2883,34.5
+
+10216,2011,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Virginia,2809,34.4
+
+10217,2010,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Virginia,2527,31.6
+
+10218,2009,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Virginia,2622,33.3
+
+10219,2008,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Virginia,2820,36.2
+
+10220,2007,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Virginia,2931,38.3
+
+10221,2006,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Virginia,2703,35.8
+
+10222,2005,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Virginia,2638,35.6
+
+10223,2004,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Virginia,2630,36.2
+
+10224,2003,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Virginia,2644,37
+
+10225,2002,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Virginia,2479,35.2
+
+10226,2001,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Virginia,2432,35.2
+
+10227,2000,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Virginia,2396,35.4
+
+10228,1999,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Virginia,2214,33.2
+
+48,2016,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Virginia,3710,42.4
+
+898,2016,All Causes,All causes,Virginia,66473,715.5
+
+899,2015,All Causes,All causes,Virginia,65577,721.6
+
+900,2014,All Causes,All causes,Virginia,63598,717.5
+
+901,2013,All Causes,All causes,Virginia,62716,724.8
+
+902,2012,All Causes,All causes,Virginia,61564,730.2
+
+903,2011,All Causes,All causes,Virginia,60804,741.6
+
+904,2010,All Causes,All causes,Virginia,59032,741.6
+
+905,2009,All Causes,All causes,Virginia,58653,750.8
+
+906,2008,All Causes,All causes,Virginia,59100,776.7
+
+907,2007,All Causes,All causes,Virginia,58225,784
+
+908,2006,All Causes,All causes,Virginia,57690,795
+
+909,2005,All Causes,All causes,Virginia,57855,817.4
+
+910,2004,All Causes,All causes,Virginia,56550,820.5
+
+911,2003,All Causes,All causes,Virginia,58282,863.3
+
+912,2002,All Causes,All causes,Virginia,57196,865.9
+
+913,2001,All Causes,All causes,Virginia,56280,869.9
+
+914,2000,All Causes,All causes,Virginia,56282,890.4
+
+915,1999,All Causes,All causes,Virginia,55320,889.6
+
+1834,2016,Alzheimer's disease (G30),Alzheimer's disease,Virginia,2408,26.8
+
+1835,2015,Alzheimer's disease (G30),Alzheimer's disease,Virginia,2248,25.6
+
+1836,2014,Alzheimer's disease (G30),Alzheimer's disease,Virginia,1775,20.8
+
+1837,2013,Alzheimer's disease (G30),Alzheimer's disease,Virginia,1642,19.7
+
+1838,2012,Alzheimer's disease (G30),Alzheimer's disease,Virginia,1712,21.2
+
+1839,2011,Alzheimer's disease (G30),Alzheimer's disease,Virginia,1807,23.1
+
+1840,2010,Alzheimer's disease (G30),Alzheimer's disease,Virginia,1848,24.5
+
+1841,2009,Alzheimer's disease (G30),Alzheimer's disease,Virginia,1738,23.5
+
+1842,2008,Alzheimer's disease (G30),Alzheimer's disease,Virginia,1763,24.6
+
+1843,2007,Alzheimer's disease (G30),Alzheimer's disease,Virginia,1703,24.4
+
+1844,2006,Alzheimer's disease (G30),Alzheimer's disease,Virginia,1574,23.2
+
+1845,2005,Alzheimer's disease (G30),Alzheimer's disease,Virginia,1550,23.6
+
+1846,2004,Alzheimer's disease (G30),Alzheimer's disease,Virginia,1480,23.2
+
+1847,2003,Alzheimer's disease (G30),Alzheimer's disease,Virginia,1466,23.4
+
+1848,2002,Alzheimer's disease (G30),Alzheimer's disease,Virginia,1368,22.4
+
+1849,2001,Alzheimer's disease (G30),Alzheimer's disease,Virginia,1184,19.8
+
+1850,2000,Alzheimer's disease (G30),Alzheimer's disease,Virginia,1094,18.7
+
+1851,1999,Alzheimer's disease (G30),Alzheimer's disease,Virginia,917,15.9
+
+2770,2016,Malignant neoplasms (C00-C97),Cancer,Virginia,15027,156.1
+
+2771,2015,Malignant neoplasms (C00-C97),Cancer,Virginia,14947,159.5
+
+2772,2014,Malignant neoplasms (C00-C97),Cancer,Virginia,14749,161.5
+
+2773,2013,Malignant neoplasms (C00-C97),Cancer,Virginia,14414,162
+
+2774,2012,Malignant neoplasms (C00-C97),Cancer,Virginia,14294,165
+
+2775,2011,Malignant neoplasms (C00-C97),Cancer,Virginia,14376,170.8
+
+2776,2010,Malignant neoplasms (C00-C97),Cancer,Virginia,14080,172.4
+
+2777,2009,Malignant neoplasms (C00-C97),Cancer,Virginia,14122,176.2
+
+2778,2008,Malignant neoplasms (C00-C97),Cancer,Virginia,13983,179.1
+
+2779,2007,Malignant neoplasms (C00-C97),Cancer,Virginia,14009,184
+
+2780,2006,Malignant neoplasms (C00-C97),Cancer,Virginia,13829,185.3
+
+2781,2005,Malignant neoplasms (C00-C97),Cancer,Virginia,13877,190
+
+2782,2004,Malignant neoplasms (C00-C97),Cancer,Virginia,13385,188.5
+
+2783,2003,Malignant neoplasms (C00-C97),Cancer,Virginia,13781,198.1
+
+2784,2002,Malignant neoplasms (C00-C97),Cancer,Virginia,13602,200
+
+2785,2001,Malignant neoplasms (C00-C97),Cancer,Virginia,13345,200.5
+
+2786,2000,Malignant neoplasms (C00-C97),Cancer,Virginia,13528,208.6
+
+2787,1999,Malignant neoplasms (C00-C97),Cancer,Virginia,13365,209.1
+
+3706,2016,Chronic lower respiratory diseases (J40-J47),CLRD,Virginia,3233,34.6
+
+3707,2015,Chronic lower respiratory diseases (J40-J47),CLRD,Virginia,3370,37.1
+
+3708,2014,Chronic lower respiratory diseases (J40-J47),CLRD,Virginia,3108,35.3
+
+3709,2013,Chronic lower respiratory diseases (J40-J47),CLRD,Virginia,3181,37.3
+
+3710,2012,Chronic lower respiratory diseases (J40-J47),CLRD,Virginia,3070,36.9
+
+3711,2011,Chronic lower respiratory diseases (J40-J47),CLRD,Virginia,3112,38.6
+
+3712,2010,Chronic lower respiratory diseases (J40-J47),CLRD,Virginia,2969,38.1
+
+3713,2009,Chronic lower respiratory diseases (J40-J47),CLRD,Virginia,3013,39.6
+
+3714,2008,Chronic lower respiratory diseases (J40-J47),CLRD,Virginia,3023,40.6
+
+3715,2007,Chronic lower respiratory diseases (J40-J47),CLRD,Virginia,2770,38.3
+
+3716,2006,Chronic lower respiratory diseases (J40-J47),CLRD,Virginia,2697,38
+
+3717,2005,Chronic lower respiratory diseases (J40-J47),CLRD,Virginia,2897,41.8
+
+3718,2004,Chronic lower respiratory diseases (J40-J47),CLRD,Virginia,2730,40.4
+
+3719,2003,Chronic lower respiratory diseases (J40-J47),CLRD,Virginia,2983,45
+
+3720,2002,Chronic lower respiratory diseases (J40-J47),CLRD,Virginia,2752,42.2
+
+3721,2001,Chronic lower respiratory diseases (J40-J47),CLRD,Virginia,2744,43.1
+
+3722,2000,Chronic lower respiratory diseases (J40-J47),CLRD,Virginia,2820,45.1
+
+3723,1999,Chronic lower respiratory diseases (J40-J47),CLRD,Virginia,2699,43.8
+
+4642,2016,Diabetes mellitus (E10-E14),Diabetes,Virginia,2062,21.7
+
+4643,2015,Diabetes mellitus (E10-E14),Diabetes,Virginia,2044,21.9
+
+4644,2014,Diabetes mellitus (E10-E14),Diabetes,Virginia,1683,18.5
+
+4645,2013,Diabetes mellitus (E10-E14),Diabetes,Virginia,1626,18.4
+
+4646,2012,Diabetes mellitus (E10-E14),Diabetes,Virginia,1603,18.6
+
+4647,2011,Diabetes mellitus (E10-E14),Diabetes,Virginia,1643,19.5
+
+4648,2010,Diabetes mellitus (E10-E14),Diabetes,Virginia,1530,18.8
+
+4649,2009,Diabetes mellitus (E10-E14),Diabetes,Virginia,1560,19.5
+
+4650,2008,Diabetes mellitus (E10-E14),Diabetes,Virginia,1534,19.8
+
+4651,2007,Diabetes mellitus (E10-E14),Diabetes,Virginia,1507,20
+
+4652,2006,Diabetes mellitus (E10-E14),Diabetes,Virginia,1632,22.1
+
+4653,2005,Diabetes mellitus (E10-E14),Diabetes,Virginia,1642,22.9
+
+4654,2004,Diabetes mellitus (E10-E14),Diabetes,Virginia,1602,22.9
+
+4655,2003,Diabetes mellitus (E10-E14),Diabetes,Virginia,1587,23
+
+4656,2002,Diabetes mellitus (E10-E14),Diabetes,Virginia,1558,23.2
+
+4657,2001,Diabetes mellitus (E10-E14),Diabetes,Virginia,1613,24.6
+
+4658,2000,Diabetes mellitus (E10-E14),Diabetes,Virginia,1564,24.4
+
+4659,1999,Diabetes mellitus (E10-E14),Diabetes,Virginia,1486,23.6
+
+5578,2016,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Virginia,14124,150.7
+
+5579,2015,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Virginia,14077,154.2
+
+5580,2014,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Virginia,13874,156.1
+
+5581,2013,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Virginia,13663,157.3
+
+5582,2012,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Virginia,13386,158.6
+
+5583,2011,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Virginia,13272,162.2
+
+5584,2010,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Virginia,13404,168.5
+
+5585,2009,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Virginia,13397,172
+
+5586,2008,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Virginia,13675,180.6
+
+5587,2007,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Virginia,13750,186.7
+
+5588,2006,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Virginia,14021,195.2
+
+5589,2005,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Virginia,14192,203
+
+5590,2004,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Virginia,14284,210.4
+
+5591,2003,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Virginia,14756,222.1
+
+5592,2002,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Virginia,14952,230
+
+5593,2001,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Virginia,14913,234.5
+
+5594,2000,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Virginia,15264,245.5
+
+5595,1999,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Virginia,15329,250.9
+
+6514,2016,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Virginia,1177,12.7
+
+6515,2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Virginia,1416,15.7
+
+6516,2014,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Virginia,1498,17.1
+
+6517,2013,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Virginia,1442,17
+
+6518,2012,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Virginia,1307,15.8
+
+6519,2011,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Virginia,1421,17.6
+
+6520,2010,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Virginia,1195,15.5
+
+6521,2009,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Virginia,1237,16.3
+
+6522,2008,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Virginia,1324,17.9
+
+6523,2007,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Virginia,1231,17.2
+
+6524,2006,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Virginia,1281,18.4
+
+6525,2005,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Virginia,1464,21.6
+
+6526,2004,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Virginia,1449,22.1
+
+6527,2003,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Virginia,1559,24.2
+
+6528,2002,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Virginia,1480,23.7
+
+6529,2001,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Virginia,1481,24.1
+
+6530,2000,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Virginia,1510,25.1
+
+6531,1999,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Virginia,1594,27.1
+
+7451,2016,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Virginia,1543,16.6
+
+7452,2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Virginia,1470,16.1
+
+7453,2014,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Virginia,1553,17.6
+
+7454,2013,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Virginia,1547,18
+
+7455,2012,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Virginia,1523,18.3
+
+7456,2011,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Virginia,1419,17.5
+
+7457,2010,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Virginia,1595,20.2
+
+7458,2009,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Virginia,1521,19.7
+
+7459,2008,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Virginia,1537,20.5
+
+7460,2007,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Virginia,1439,19.7
+
+7461,2006,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Virginia,1400,19.6
+
+7462,2005,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Virginia,1277,18.4
+
+7463,2004,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Virginia,1249,18.5
+
+7464,2003,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Virginia,1244,18.7
+
+7465,2002,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Virginia,1236,19
+
+7466,2001,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Virginia,1128,17.8
+
+7467,2000,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Virginia,1118,17.9
+
+7468,1999,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Virginia,1035,16.9
+
+8386,2016,Cerebrovascular diseases (I60-I69),Stroke,Virginia,3502,38.2
+
+8387,2015,Cerebrovascular diseases (I60-I69),Stroke,Virginia,3393,38
+
+8388,2014,Cerebrovascular diseases (I60-I69),Stroke,Virginia,3229,37
+
+8389,2013,Cerebrovascular diseases (I60-I69),Stroke,Virginia,3287,38.6
+
+8390,2012,Cerebrovascular diseases (I60-I69),Stroke,Virginia,3394,40.7
+
+8391,2011,Cerebrovascular diseases (I60-I69),Stroke,Virginia,3347,41.7
+
+8392,2010,Cerebrovascular diseases (I60-I69),Stroke,Virginia,3293,42.1
+
+8393,2009,Cerebrovascular diseases (I60-I69),Stroke,Virginia,3244,42.5
+
+8394,2008,Cerebrovascular diseases (I60-I69),Stroke,Virginia,3301,44.5
+
+8395,2007,Cerebrovascular diseases (I60-I69),Stroke,Virginia,3313,45.7
+
+8396,2006,Cerebrovascular diseases (I60-I69),Stroke,Virginia,3523,50.1
+
+8397,2005,Cerebrovascular diseases (I60-I69),Stroke,Virginia,3675,53.7
+
+8398,2004,Cerebrovascular diseases (I60-I69),Stroke,Virginia,3788,56.7
+
+8399,2003,Cerebrovascular diseases (I60-I69),Stroke,Virginia,3938,60.6
+
+8400,2002,Cerebrovascular diseases (I60-I69),Stroke,Virginia,3960,62.4
+
+8401,2001,Cerebrovascular diseases (I60-I69),Stroke,Virginia,4129,66.3
+
+8402,2000,Cerebrovascular diseases (I60-I69),Stroke,Virginia,4104,67.4
+
+8403,1999,Cerebrovascular diseases (I60-I69),Stroke,Virginia,4110,68.7
+
+9322,2016,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Virginia,1166,13.2
+
+9323,2015,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Virginia,1118,12.7
+
+9324,2014,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Virginia,1123,12.9
+
+9325,2013,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Virginia,1072,12.5
+
+9326,2012,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Virginia,1063,12.7
+
+9327,2011,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Virginia,1054,12.6
+
+9328,2010,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Virginia,963,11.7
+
+9329,2009,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Virginia,963,11.7
+
+9330,2008,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Virginia,948,11.8
+
+9331,2007,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Virginia,880,11.1
+
+9332,2006,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Virginia,876,11.1
+
+9333,2005,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Virginia,866,11.2
+
+9334,2004,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Virginia,828,10.9
+
+9335,2003,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Virginia,808,10.9
+
+9336,2002,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Virginia,799,10.9
+
+9337,2001,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Virginia,797,11
+
+9338,2000,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Virginia,768,10.8
+
+9339,1999,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Virginia,791,11.2
+
+10212,2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Virginia,3429,39.6
+
+10213,2014,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Virginia,3146,36.8
+
+10214,2013,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Virginia,2951,34.9
+
+10215,2012,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Virginia,2883,34.5
+
+10216,2011,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Virginia,2809,34.4
+
+10217,2010,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Virginia,2527,31.6
+
+10218,2009,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Virginia,2622,33.3
+
+10219,2008,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Virginia,2820,36.2
+
+10220,2007,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Virginia,2931,38.3
+
+10221,2006,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Virginia,2703,35.8
+
+10222,2005,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Virginia,2638,35.6
+
+10223,2004,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Virginia,2630,36.2
+
+10224,2003,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Virginia,2644,37
+
+10225,2002,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Virginia,2479,35.2
+
+10226,2001,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Virginia,2432,35.2
+
+10227,2000,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Virginia,2396,35.4
+
+10228,1999,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Virginia,2214,33.2
+

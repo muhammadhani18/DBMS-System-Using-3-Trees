@@ -1,0 +1,4 @@
+662,2000,All Causes,All causes,North Carolina,71935,952.7
+
+785,2003,All Causes,All causes,South Carolina,38112,952.7
+

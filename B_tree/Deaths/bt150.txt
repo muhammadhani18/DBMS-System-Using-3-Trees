@@ -1,0 +1,24 @@
+3007,2013,Chronic lower respiratory diseases (J40-J47),CLRD,District of Columbia,150,25
+
+3019,2001,Chronic lower respiratory diseases (J40-J47),CLRD,District of Columbia,150,26.8
+
+4636,2004,Diabetes mellitus (E10-E14),Diabetes,Vermont,150,22.6
+
+5797,2013,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Delaware,150,13.6
+
+6813,2005,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Hawaii,150,10.5
+
+7139,2003,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,New Hampshire,150,12
+
+3007,2013,Chronic lower respiratory diseases (J40-J47),CLRD,District of Columbia,150,25
+
+3019,2001,Chronic lower respiratory diseases (J40-J47),CLRD,District of Columbia,150,26.8
+
+4636,2004,Diabetes mellitus (E10-E14),Diabetes,Vermont,150,22.6
+
+5797,2013,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Delaware,150,13.6
+
+6813,2005,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Hawaii,150,10.5
+
+7139,2003,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,New Hampshire,150,12
+

@@ -1,0 +1,24 @@
+1710,2014,Alzheimer's disease (G30),Alzheimer's disease,South Carolina,1938,37.4
+
+1734,2008,Alzheimer's disease (G30),Alzheimer's disease,South Dakota,402,37.4
+
+3285,2005,Chronic lower respiratory diseases (J40-J47),CLRD,Minnesota,1965,37.4
+
+3955,2001,Diabetes mellitus (E10-E14),Diabetes,District of Columbia,209,37.4
+
+7638,2008,Cerebrovascular diseases (I60-I69),Stroke,Colorado,1565,37.4
+
+7776,2014,Cerebrovascular diseases (I60-I69),Stroke,Illinois,5489,37.4
+
+8208,2014,Cerebrovascular diseases (I60-I69),Stroke,Oregon,1821,37.4
+
+8228,2012,Cerebrovascular diseases (I60-I69),Stroke,Pennsylvania,6546,37.4
+
+8282,2012,Cerebrovascular diseases (I60-I69),Stroke,South Dakota,408,37.4
+
+9881,2005,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Nebraska,704,37.4
+
+10143,2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Texas,9976,37.4
+
+10146,2012,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Texas,9313,37.4
+

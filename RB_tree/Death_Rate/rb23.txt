@@ -1,0 +1,36 @@
+1523,2003,Alzheimer's disease (G30),Alzheimer's disease,New Hampshire,286,23
+
+3846,2002,Diabetes mellitus (E10-E14),Diabetes,Arizona,1231,23
+
+3979,2013,Diabetes mellitus (E10-E14),Diabetes,Georgia,2199,23
+
+4101,1999,Diabetes mellitus (E10-E14),Diabetes,Kansas,650,23
+
+4196,2012,Diabetes mellitus (E10-E14),Diabetes,Michigan,2685,23
+
+4273,2007,Diabetes mellitus (E10-E14),Diabetes,Montana,258,23
+
+4547,2003,Diabetes mellitus (E10-E14),Diabetes,South Dakota,203,23
+
+4655,2003,Diabetes mellitus (E10-E14),Diabetes,Virginia,1587,23
+
+5771,2003,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Colorado,810,23
+
+5913,2005,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Illinois,2949,23
+
+6171,1999,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Nebraska,459,23
+
+6254,2006,Influenza and pneumonia (J09-J18),Influenza and pneumonia,New York,4892,23
+
+6565,2001,Influenza and pneumonia (J09-J18),Influenza and pneumonia,West Virginia,483,23
+
+6614,2006,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Alabama,1104,23
+
+6919,2007,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Kentucky,994,23
+
+7495,2008,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,West Virginia,522,23
+
+8498,2012,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Alaska,168,23
+
+8506,2004,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Alaska,155,23
+

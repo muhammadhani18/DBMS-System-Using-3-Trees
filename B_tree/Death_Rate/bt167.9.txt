@@ -1,0 +1,10 @@
+2452,2010,Malignant neoplasms (C00-C97),Cancer,New Hampshire,2525,167.9
+
+2754,2014,Malignant neoplasms (C00-C97),Cancer,Vermont,1379,167.9
+
+4957,2007,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Idaho,2433,167.9
+
+5332,2011,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,North Carolina,17003,167.9
+
+5553,2005,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Utah,2872,167.9
+

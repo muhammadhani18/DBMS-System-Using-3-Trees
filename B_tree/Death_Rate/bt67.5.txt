@@ -1,0 +1,6 @@
+7773,1999,Cerebrovascular diseases (I60-I69),Stroke,Idaho,771,67.5
+
+8202,2002,Cerebrovascular diseases (I60-I69),Stroke,Oklahoma,2427,67.5
+
+8457,1999,Cerebrovascular diseases (I60-I69),Stroke,Wisconsin,3869,67.5
+

@@ -1,0 +1,16 @@
+2496,2002,Malignant neoplasms (C00-C97),Cancer,New Mexico,3067,173.2
+
+3056,2000,Chronic lower respiratory diseases (J40-J47),CLRD,Georgia,3067,48.7
+
+3629,2003,Chronic lower respiratory diseases (J40-J47),CLRD,Tennessee,3067,52.8
+
+7300,2004,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Pennsylvania,3067,19.7
+
+2496,2002,Malignant neoplasms (C00-C97),Cancer,New Mexico,3067,173.2
+
+3056,2000,Chronic lower respiratory diseases (J40-J47),CLRD,Georgia,3067,48.7
+
+3629,2003,Chronic lower respiratory diseases (J40-J47),CLRD,Tennessee,3067,52.8
+
+7300,2004,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Pennsylvania,3067,19.7
+

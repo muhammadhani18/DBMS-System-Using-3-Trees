@@ -1,0 +1,4 @@
+1668,2002,Alzheimer's disease (G30),Alzheimer's disease,Oregon,1124,29.6
+
+3376,2004,Chronic lower respiratory diseases (J40-J47),CLRD,Nevada,1124,57.2
+

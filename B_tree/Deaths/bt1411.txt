@@ -1,0 +1,20 @@
+1264,2010,Alzheimer's disease (G30),Alzheimer's disease,Iowa,1411,32.9
+
+1656,2014,Alzheimer's disease (G30),Alzheimer's disease,Oregon,1411,28.5
+
+1901,2003,Alzheimer's disease (G30),Alzheimer's disease,Wisconsin,1411,22.6
+
+3164,2000,Chronic lower respiratory diseases (J40-J47),CLRD,Kansas,1411,49.1
+
+6856,2016,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Indiana,1411,18.4
+
+1264,2010,Alzheimer's disease (G30),Alzheimer's disease,Iowa,1411,32.9
+
+1656,2014,Alzheimer's disease (G30),Alzheimer's disease,Oregon,1411,28.5
+
+1901,2003,Alzheimer's disease (G30),Alzheimer's disease,Wisconsin,1411,22.6
+
+3164,2000,Chronic lower respiratory diseases (J40-J47),CLRD,Kansas,1411,49.1
+
+6856,2016,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Indiana,1411,18.4
+

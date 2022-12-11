@@ -1,0 +1,4 @@
+5006,2012,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Iowa,7005,170.4
+
+5006,2012,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Iowa,7005,170.4
+

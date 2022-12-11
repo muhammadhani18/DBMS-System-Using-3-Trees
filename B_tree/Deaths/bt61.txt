@@ -1,0 +1,12 @@
+1017,2005,Alzheimer's disease (G30),Alzheimer's disease,Alaska,61,22.2
+
+1020,2002,Alzheimer's disease (G30),Alzheimer's disease,Alaska,61,25.8
+
+5686,2016,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Alaska,61,12.5
+
+1017,2005,Alzheimer's disease (G30),Alzheimer's disease,Alaska,61,22.2
+
+1020,2002,Alzheimer's disease (G30),Alzheimer's disease,Alaska,61,25.8
+
+5686,2016,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Alaska,61,12.5
+

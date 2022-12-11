@@ -1,0 +1,8 @@
+3720,2002,Chronic lower respiratory diseases (J40-J47),CLRD,Virginia,2752,42.2
+
+4200,2008,Diabetes mellitus (E10-E14),Diabetes,Michigan,2752,25.2
+
+3720,2002,Chronic lower respiratory diseases (J40-J47),CLRD,Virginia,2752,42.2
+
+4200,2008,Diabetes mellitus (E10-E14),Diabetes,Michigan,2752,25.2
+

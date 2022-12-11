@@ -1,0 +1,8 @@
+1368,2014,Alzheimer's disease (G30),Alzheimer's disease,Massachusetts,1688,19
+
+4062,2002,Diabetes mellitus (E10-E14),Diabetes,Indiana,1688,27.6
+
+1368,2014,Alzheimer's disease (G30),Alzheimer's disease,Massachusetts,1688,19
+
+4062,2002,Diabetes mellitus (E10-E14),Diabetes,Indiana,1688,27.6
+

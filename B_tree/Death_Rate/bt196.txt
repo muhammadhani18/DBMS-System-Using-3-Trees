@@ -1,0 +1,4 @@
+2584,2004,Malignant neoplasms (C00-C97),Cancer,Oklahoma,7269,196
+
+4975,2007,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Illinois,25813,196
+

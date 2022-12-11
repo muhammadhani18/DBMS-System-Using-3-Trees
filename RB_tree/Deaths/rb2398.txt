@@ -1,0 +1,10 @@
+1236,2002,Alzheimer's disease (G30),Alzheimer's disease,Illinois,2398,19.3
+
+2461,2001,Malignant neoplasms (C00-C97),Cancer,New Hampshire,2398,195.9
+
+2641,2001,Malignant neoplasms (C00-C97),Cancer,Rhode Island,2398,202.5
+
+4955,2009,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Idaho,2398,155.7
+
+9852,2000,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Missouri,2398,41.9
+

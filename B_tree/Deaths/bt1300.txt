@@ -1,0 +1,8 @@
+1660,2010,Alzheimer's disease (G30),Alzheimer's disease,Oregon,1300,28.5
+
+3800,2012,Diabetes mellitus (E10-E14),Diabetes,Alabama,1300,23.9
+
+1660,2010,Alzheimer's disease (G30),Alzheimer's disease,Oregon,1300,28.5
+
+3800,2012,Diabetes mellitus (E10-E14),Diabetes,Alabama,1300,23.9
+

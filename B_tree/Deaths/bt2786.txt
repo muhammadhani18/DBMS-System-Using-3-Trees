@@ -1,0 +1,12 @@
+3760,2016,Chronic lower respiratory diseases (J40-J47),CLRD,Wisconsin,2786,38.3
+
+5559,1999,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Utah,2786,190.1
+
+9849,2003,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Missouri,2786,47.6
+
+3760,2016,Chronic lower respiratory diseases (J40-J47),CLRD,Wisconsin,2786,38.3
+
+5559,1999,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Utah,2786,190.1
+
+9849,2003,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Missouri,2786,47.6
+

@@ -1,0 +1,6 @@
+2050,2016,Malignant neoplasms (C00-C97),Cancer,Delaware,2124,170.8
+
+2775,2011,Malignant neoplasms (C00-C97),Cancer,Virginia,14376,170.8
+
+4902,2008,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Florida,42067,170.8
+

@@ -1,0 +1,20 @@
+5780,2012,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Connecticut,558,11.8
+
+6346,2004,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Oregon,558,14.1
+
+8841,2011,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Maryland,558,9.2
+
+8981,2015,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Nevada,558,18.4
+
+9863,2006,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Montana,558,55.7
+
+5780,2012,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Connecticut,558,11.8
+
+6346,2004,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Oregon,558,14.1
+
+8841,2011,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Maryland,558,9.2
+
+8981,2015,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Nevada,558,18.4
+
+9863,2006,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Montana,558,55.7
+

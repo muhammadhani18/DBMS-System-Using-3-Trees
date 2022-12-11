@@ -1,0 +1,4 @@
+1089,2005,Alzheimer's disease (G30),Alzheimer's disease,Colorado,1064,29.5
+
+4458,2002,Diabetes mellitus (E10-E14),Diabetes,Oklahoma,1064,29.5
+

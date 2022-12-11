@@ -1,0 +1,6 @@
+2275,2007,Malignant neoplasms (C00-C97),Cancer,Maine,3112,189.9
+
+3711,2011,Chronic lower respiratory diseases (J40-J47),CLRD,Virginia,3112,38.6
+
+6682,2010,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,California,3112,8.7
+

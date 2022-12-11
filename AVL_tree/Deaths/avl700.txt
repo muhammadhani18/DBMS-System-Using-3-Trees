@@ -1,0 +1,10 @@
+4078,2004,Diabetes mellitus (E10-E14),Diabetes,Iowa,700,19.5
+
+5723,2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arkansas,700,20
+
+7043,2009,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Mississippi,700,23.7
+
+8943,1999,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Missouri,700,12.6
+
+9876,2010,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Nebraska,700,35.8
+

@@ -1,0 +1,8 @@
+1400,2000,Alzheimer's disease (G30),Alzheimer's disease,Michigan,1646,17.5
+
+1892,2012,Alzheimer's disease (G30),Alzheimer's disease,Wisconsin,1646,22.6
+
+4055,2009,Diabetes mellitus (E10-E14),Diabetes,Indiana,1646,24.1
+
+10049,2007,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Oregon,1646,41.8
+

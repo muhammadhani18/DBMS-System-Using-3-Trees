@@ -1,0 +1,4 @@
+7782,2008,Cerebrovascular diseases (I60-I69),Stroke,Illinois,5788,43.4
+
+8174,2012,Cerebrovascular diseases (I60-I69),Stroke,Ohio,5788,41.2
+

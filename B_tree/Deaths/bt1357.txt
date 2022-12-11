@@ -1,0 +1,8 @@
+1581,1999,Alzheimer's disease (G30),Alzheimer's disease,New York,1357,7
+
+9784,2000,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Massachusetts,1357,20.2
+
+1581,1999,Alzheimer's disease (G30),Alzheimer's disease,New York,1357,7
+
+9784,2000,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Massachusetts,1357,20.2
+

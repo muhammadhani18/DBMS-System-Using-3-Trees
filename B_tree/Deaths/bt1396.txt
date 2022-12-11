@@ -1,0 +1,12 @@
+1717,2007,Alzheimer's disease (G30),Alzheimer's disease,South Carolina,1396,33.6
+
+9061,2007,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,New York,1396,7.1
+
+9170,2006,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Pennsylvania,1396,10.8
+
+1717,2007,Alzheimer's disease (G30),Alzheimer's disease,South Carolina,1396,33.6
+
+9061,2007,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,New York,1396,7.1
+
+9170,2006,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Pennsylvania,1396,10.8
+

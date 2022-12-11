@@ -1,0 +1,4 @@
+4166,2006,Diabetes mellitus (E10-E14),Diabetes,Maryland,1237,22.5
+
+6521,2009,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Virginia,1237,16.3
+

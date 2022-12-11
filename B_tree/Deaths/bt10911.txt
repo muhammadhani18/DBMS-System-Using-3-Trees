@@ -1,0 +1,4 @@
+2284,2016,Malignant neoplasms (C00-C97),Cancer,Maryland,10911,156.5
+
+2284,2016,Malignant neoplasms (C00-C97),Cancer,Maryland,10911,156.5
+

@@ -1,0 +1,4 @@
+537,1999,All Causes,All causes,Montana,8128,857.6
+
+5754,2002,Influenza and pneumonia (J09-J18),Influenza and pneumonia,California,8128,27.5
+

@@ -1,0 +1,12 @@
+4350,2002,Diabetes mellitus (E10-E14),Diabetes,New Jersey,2532,28.1
+
+4962,2002,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Idaho,2532,205.2
+
+4965,1999,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Idaho,2532,220.5
+
+4350,2002,Diabetes mellitus (E10-E14),Diabetes,New Jersey,2532,28.1
+
+4962,2002,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Idaho,2532,205.2
+
+4965,1999,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Idaho,2532,220.5
+

@@ -1,0 +1,16 @@
+1944,2014,Malignant neoplasms (C00-C97),Cancer,Alaska,972,164.2
+
+6008,2000,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Louisiana,972,24.7
+
+8520,2008,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arizona,972,15.5
+
+8669,2003,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Georgia,972,11.6
+
+1944,2014,Malignant neoplasms (C00-C97),Cancer,Alaska,972,164.2
+
+6008,2000,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Louisiana,972,24.7
+
+8520,2008,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arizona,972,15.5
+
+8669,2003,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Georgia,972,11.6
+

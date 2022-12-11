@@ -1,0 +1,12 @@
+4182,2008,Diabetes mellitus (E10-E14),Diabetes,Massachusetts,1079,14.5
+
+6916,2010,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Kentucky,1079,23.8
+
+8423,2015,Cerebrovascular diseases (I60-I69),Stroke,West Virginia,1079,43.8
+
+4182,2008,Diabetes mellitus (E10-E14),Diabetes,Massachusetts,1079,14.5
+
+6916,2010,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Kentucky,1079,23.8
+
+8423,2015,Cerebrovascular diseases (I60-I69),Stroke,West Virginia,1079,43.8
+

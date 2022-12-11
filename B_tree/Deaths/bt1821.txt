@@ -1,0 +1,8 @@
+7199,2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,North Carolina,1821,16
+
+8208,2014,Cerebrovascular diseases (I60-I69),Stroke,Oregon,1821,37.4
+
+7199,2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,North Carolina,1821,16
+
+8208,2014,Cerebrovascular diseases (I60-I69),Stroke,Oregon,1821,37.4
+

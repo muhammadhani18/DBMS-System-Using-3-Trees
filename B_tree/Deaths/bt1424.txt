@@ -1,0 +1,8 @@
+4187,2003,Diabetes mellitus (E10-E14),Diabetes,Massachusetts,1424,20.2
+
+6432,2008,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Tennessee,1424,22.7
+
+4187,2003,Diabetes mellitus (E10-E14),Diabetes,Massachusetts,1424,20.2
+
+6432,2008,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Tennessee,1424,22.7
+

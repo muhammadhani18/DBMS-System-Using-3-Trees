@@ -1,0 +1,12 @@
+3734,2006,Chronic lower respiratory diseases (J40-J47),CLRD,Washington,2662,43.5
+
+5833,2013,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Florida,2662,9.5
+
+9416,2011,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Alabama,2662,54.4
+
+3734,2006,Chronic lower respiratory diseases (J40-J47),CLRD,Washington,2662,43.5
+
+5833,2013,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Florida,2662,9.5
+
+9416,2011,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Alabama,2662,54.4
+

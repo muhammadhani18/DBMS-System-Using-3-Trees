@@ -1,0 +1,6 @@
+1211,2009,Alzheimer's disease (G30),Alzheimer's disease,Idaho,369,24.7
+
+6239,2003,Influenza and pneumonia (J09-J18),Influenza and pneumonia,New Mexico,369,21.6
+
+6877,2013,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Iowa,369,8.8
+

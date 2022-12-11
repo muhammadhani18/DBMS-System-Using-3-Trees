@@ -1,0 +1,1584 @@
+19,2016,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Louisiana,2710,57.4
+
+376,2016,All Causes,All causes,Louisiana,44306,870.5
+
+377,2015,All Causes,All causes,Louisiana,43716,874.2
+
+378,2014,All Causes,All causes,Louisiana,43869,894.2
+
+379,2013,All Causes,All causes,Louisiana,43270,897.7
+
+380,2012,All Causes,All causes,Louisiana,42320,898.6
+
+381,2011,All Causes,All causes,Louisiana,40890,886.6
+
+382,2010,All Causes,All causes,Louisiana,40667,903.8
+
+383,2009,All Causes,All causes,Louisiana,40282,907.8
+
+384,2008,All Causes,All causes,Louisiana,41220,946
+
+385,2007,All Causes,All causes,Louisiana,39966,937.5
+
+386,2006,All Causes,All causes,Louisiana,40045,960.5
+
+387,2005,All Causes,All causes,Louisiana,44355,1023.7
+
+388,2004,All Causes,All causes,Louisiana,42215,989.4
+
+389,2003,All Causes,All causes,Louisiana,42719,1013.7
+
+390,2002,All Causes,All causes,Louisiana,41984,1008.5
+
+391,2001,All Causes,All causes,Louisiana,41757,1013.1
+
+392,2000,All Causes,All causes,Louisiana,41138,1006.3
+
+393,1999,All Causes,All causes,Louisiana,41238,1021.6
+
+1312,2016,Alzheimer's disease (G30),Alzheimer's disease,Louisiana,2195,45
+
+1313,2015,Alzheimer's disease (G30),Alzheimer's disease,Louisiana,2018,42.5
+
+1314,2014,Alzheimer's disease (G30),Alzheimer's disease,Louisiana,1670,36
+
+1315,2013,Alzheimer's disease (G30),Alzheimer's disease,Louisiana,1505,32.9
+
+1316,2012,Alzheimer's disease (G30),Alzheimer's disease,Louisiana,1399,31.6
+
+1317,2011,Alzheimer's disease (G30),Alzheimer's disease,Louisiana,1406,32.4
+
+1318,2010,Alzheimer's disease (G30),Alzheimer's disease,Louisiana,1295,30.8
+
+1319,2009,Alzheimer's disease (G30),Alzheimer's disease,Louisiana,1336,32.3
+
+1320,2008,Alzheimer's disease (G30),Alzheimer's disease,Louisiana,1361,33.4
+
+1321,2007,Alzheimer's disease (G30),Alzheimer's disease,Louisiana,1324,33.3
+
+1322,2006,Alzheimer's disease (G30),Alzheimer's disease,Louisiana,1282,32.9
+
+1323,2005,Alzheimer's disease (G30),Alzheimer's disease,Louisiana,1405,34.8
+
+1324,2004,Alzheimer's disease (G30),Alzheimer's disease,Louisiana,1267,32
+
+1325,2003,Alzheimer's disease (G30),Alzheimer's disease,Louisiana,1184,30
+
+1326,2002,Alzheimer's disease (G30),Alzheimer's disease,Louisiana,1111,28.5
+
+1327,2001,Alzheimer's disease (G30),Alzheimer's disease,Louisiana,957,24.6
+
+1328,2000,Alzheimer's disease (G30),Alzheimer's disease,Louisiana,811,20.9
+
+1329,1999,Alzheimer's disease (G30),Alzheimer's disease,Louisiana,683,17.9
+
+2248,2016,Malignant neoplasms (C00-C97),Cancer,Louisiana,9149,171.9
+
+2249,2015,Malignant neoplasms (C00-C97),Cancer,Louisiana,9397,180.2
+
+2250,2014,Malignant neoplasms (C00-C97),Cancer,Louisiana,9455,186.1
+
+2251,2013,Malignant neoplasms (C00-C97),Cancer,Louisiana,9419,188.5
+
+2252,2012,Malignant neoplasms (C00-C97),Cancer,Louisiana,9308,190.7
+
+2253,2011,Malignant neoplasms (C00-C97),Cancer,Louisiana,9233,193.7
+
+2254,2010,Malignant neoplasms (C00-C97),Cancer,Louisiana,9203,197.6
+
+2255,2009,Malignant neoplasms (C00-C97),Cancer,Louisiana,9098,198.6
+
+2256,2008,Malignant neoplasms (C00-C97),Cancer,Louisiana,9197,205.7
+
+2257,2007,Malignant neoplasms (C00-C97),Cancer,Louisiana,8736,199.3
+
+2258,2006,Malignant neoplasms (C00-C97),Cancer,Louisiana,8853,206.1
+
+2259,2005,Malignant neoplasms (C00-C97),Cancer,Louisiana,9249,208.6
+
+2260,2004,Malignant neoplasms (C00-C97),Cancer,Louisiana,9434,216.3
+
+2261,2003,Malignant neoplasms (C00-C97),Cancer,Louisiana,9533,221.8
+
+2262,2002,Malignant neoplasms (C00-C97),Cancer,Louisiana,9441,222.8
+
+2263,2001,Malignant neoplasms (C00-C97),Cancer,Louisiana,9517,228
+
+2264,2000,Malignant neoplasms (C00-C97),Cancer,Louisiana,9400,227.9
+
+2265,1999,Malignant neoplasms (C00-C97),Cancer,Louisiana,9412,230.5
+
+3184,2016,Chronic lower respiratory diseases (J40-J47),CLRD,Louisiana,2221,43
+
+3185,2015,Chronic lower respiratory diseases (J40-J47),CLRD,Louisiana,2178,43.2
+
+3186,2014,Chronic lower respiratory diseases (J40-J47),CLRD,Louisiana,2237,45.5
+
+3187,2013,Chronic lower respiratory diseases (J40-J47),CLRD,Louisiana,2274,47.3
+
+3188,2012,Chronic lower respiratory diseases (J40-J47),CLRD,Louisiana,2074,44.5
+
+3189,2011,Chronic lower respiratory diseases (J40-J47),CLRD,Louisiana,1904,41.5
+
+3190,2010,Chronic lower respiratory diseases (J40-J47),CLRD,Louisiana,1939,43.6
+
+3191,2009,Chronic lower respiratory diseases (J40-J47),CLRD,Louisiana,1878,42.7
+
+3192,2008,Chronic lower respiratory diseases (J40-J47),CLRD,Louisiana,1896,44
+
+3193,2007,Chronic lower respiratory diseases (J40-J47),CLRD,Louisiana,1685,40
+
+3194,2006,Chronic lower respiratory diseases (J40-J47),CLRD,Louisiana,1687,40.8
+
+3195,2005,Chronic lower respiratory diseases (J40-J47),CLRD,Louisiana,1906,44.6
+
+3196,2004,Chronic lower respiratory diseases (J40-J47),CLRD,Louisiana,1615,38.4
+
+3197,2003,Chronic lower respiratory diseases (J40-J47),CLRD,Louisiana,1731,41.4
+
+3198,2002,Chronic lower respiratory diseases (J40-J47),CLRD,Louisiana,1696,41.2
+
+3199,2001,Chronic lower respiratory diseases (J40-J47),CLRD,Louisiana,1763,43.2
+
+3200,2000,Chronic lower respiratory diseases (J40-J47),CLRD,Louisiana,1684,41.7
+
+3201,1999,Chronic lower respiratory diseases (J40-J47),CLRD,Louisiana,1610,40.2
+
+4120,2016,Diabetes mellitus (E10-E14),Diabetes,Louisiana,1324,25.5
+
+4121,2015,Diabetes mellitus (E10-E14),Diabetes,Louisiana,1199,23.5
+
+4122,2014,Diabetes mellitus (E10-E14),Diabetes,Louisiana,1238,24.8
+
+4123,2013,Diabetes mellitus (E10-E14),Diabetes,Louisiana,1329,26.9
+
+4124,2012,Diabetes mellitus (E10-E14),Diabetes,Louisiana,1290,26.9
+
+4125,2011,Diabetes mellitus (E10-E14),Diabetes,Louisiana,1265,27.1
+
+4126,2010,Diabetes mellitus (E10-E14),Diabetes,Louisiana,1205,26.4
+
+4127,2009,Diabetes mellitus (E10-E14),Diabetes,Louisiana,1249,27.8
+
+4128,2008,Diabetes mellitus (E10-E14),Diabetes,Louisiana,1332,30.3
+
+4129,2007,Diabetes mellitus (E10-E14),Diabetes,Louisiana,1437,33.5
+
+4130,2006,Diabetes mellitus (E10-E14),Diabetes,Louisiana,1536,36.3
+
+4131,2005,Diabetes mellitus (E10-E14),Diabetes,Louisiana,1695,38.7
+
+4132,2004,Diabetes mellitus (E10-E14),Diabetes,Louisiana,1717,39.9
+
+4133,2003,Diabetes mellitus (E10-E14),Diabetes,Louisiana,1740,40.9
+
+4134,2002,Diabetes mellitus (E10-E14),Diabetes,Louisiana,1774,42.3
+
+4135,2001,Diabetes mellitus (E10-E14),Diabetes,Louisiana,1734,41.9
+
+4136,2000,Diabetes mellitus (E10-E14),Diabetes,Louisiana,1694,41.4
+
+4137,1999,Diabetes mellitus (E10-E14),Diabetes,Louisiana,1687,41.8
+
+5056,2016,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Louisiana,10943,213.1
+
+5057,2015,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Louisiana,10665,212.1
+
+5058,2014,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Louisiana,10647,216.3
+
+5059,2013,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Louisiana,10346,214.1
+
+5060,2012,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Louisiana,10074,213.1
+
+5061,2011,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Louisiana,9781,212.4
+
+5062,2010,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Louisiana,10282,229.4
+
+5063,2009,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Louisiana,10169,229.9
+
+5064,2008,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Louisiana,10347,238.5
+
+5065,2007,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Louisiana,9947,234.9
+
+5066,2006,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Louisiana,10026,241.4
+
+5067,2005,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Louisiana,11008,256.9
+
+5068,2004,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Louisiana,10852,257.9
+
+5069,2003,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Louisiana,11540,277.5
+
+5070,2002,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Louisiana,11185,272.4
+
+5071,2001,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Louisiana,11474,282.6
+
+5072,2000,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Louisiana,11629,288.7
+
+5073,1999,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Louisiana,12007,302.3
+
+5992,2016,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Louisiana,720,14.3
+
+5993,2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Louisiana,753,15.3
+
+5994,2014,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Louisiana,854,17.5
+
+5995,2013,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Louisiana,892,18.6
+
+5996,2012,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Louisiana,808,17.5
+
+5997,2011,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Louisiana,851,18.9
+
+5998,2010,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Louisiana,878,20.2
+
+5999,2009,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Louisiana,891,20.7
+
+6000,2008,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Louisiana,894,21
+
+6001,2007,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Louisiana,870,21.1
+
+6002,2006,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Louisiana,833,20.6
+
+6003,2005,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Louisiana,996,24
+
+6004,2004,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Louisiana,913,22.2
+
+6005,2003,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Louisiana,915,22.7
+
+6006,2002,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Louisiana,956,24
+
+6007,2001,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Louisiana,941,23.7
+
+6008,2000,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Louisiana,972,24.7
+
+6009,1999,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Louisiana,1008,26
+
+6928,2016,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Louisiana,1153,22.6
+
+6929,2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Louisiana,1160,23.2
+
+6930,2014,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Louisiana,1217,24.9
+
+6931,2013,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Louisiana,1108,23.1
+
+6932,2012,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Louisiana,1138,24.3
+
+6933,2011,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Louisiana,1169,25.5
+
+6934,2010,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Louisiana,1218,27.3
+
+6935,2009,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Louisiana,1160,26.6
+
+6936,2008,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Louisiana,1195,27.7
+
+6937,2007,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Louisiana,1152,27.4
+
+6938,2006,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Louisiana,1074,26.1
+
+6939,2005,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Louisiana,1187,27.8
+
+6940,2004,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Louisiana,1110,26.3
+
+6941,2003,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Louisiana,1065,25.5
+
+6942,2002,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Louisiana,983,23.9
+
+6943,2001,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Louisiana,993,24.3
+
+6944,2000,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Louisiana,920,22.8
+
+6945,1999,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Louisiana,911,22.9
+
+7864,2016,Cerebrovascular diseases (I60-I69),Stroke,Louisiana,2322,46
+
+7865,2015,Cerebrovascular diseases (I60-I69),Stroke,Louisiana,2280,46
+
+7866,2014,Cerebrovascular diseases (I60-I69),Stroke,Louisiana,2230,45.6
+
+7867,2013,Cerebrovascular diseases (I60-I69),Stroke,Louisiana,2098,44
+
+7868,2012,Cerebrovascular diseases (I60-I69),Stroke,Louisiana,2039,43.9
+
+7869,2011,Cerebrovascular diseases (I60-I69),Stroke,Louisiana,2071,45.7
+
+7870,2010,Cerebrovascular diseases (I60-I69),Stroke,Louisiana,1977,44.9
+
+7871,2009,Cerebrovascular diseases (I60-I69),Stroke,Louisiana,2061,47.4
+
+7872,2008,Cerebrovascular diseases (I60-I69),Stroke,Louisiana,2084,48.6
+
+7873,2007,Cerebrovascular diseases (I60-I69),Stroke,Louisiana,2147,51.3
+
+7874,2006,Cerebrovascular diseases (I60-I69),Stroke,Louisiana,2195,53.9
+
+7875,2005,Cerebrovascular diseases (I60-I69),Stroke,Louisiana,2469,58
+
+7876,2004,Cerebrovascular diseases (I60-I69),Stroke,Louisiana,2489,59.8
+
+7877,2003,Cerebrovascular diseases (I60-I69),Stroke,Louisiana,2526,61.4
+
+7878,2002,Cerebrovascular diseases (I60-I69),Stroke,Louisiana,2595,63.8
+
+7879,2001,Cerebrovascular diseases (I60-I69),Stroke,Louisiana,2638,65.4
+
+7880,2000,Cerebrovascular diseases (I60-I69),Stroke,Louisiana,2533,63.5
+
+7881,1999,Cerebrovascular diseases (I60-I69),Stroke,Louisiana,2684,68.3
+
+8800,2016,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Louisiana,677,14.2
+
+8801,2015,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Louisiana,722,15.2
+
+8802,2014,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Louisiana,679,14.3
+
+8803,2013,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Louisiana,583,12.4
+
+8804,2012,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Louisiana,567,12.4
+
+8805,2011,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Louisiana,573,12.5
+
+8806,2010,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Louisiana,557,12.3
+
+8807,2009,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Louisiana,490,10.9
+
+8808,2008,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Louisiana,532,12
+
+8809,2007,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Louisiana,522,12
+
+8810,2006,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Louisiana,492,11.5
+
+8811,2005,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Louisiana,505,11
+
+8812,2004,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Louisiana,537,11.9
+
+8813,2003,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Louisiana,461,10.3
+
+8814,2002,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Louisiana,499,11.2
+
+8815,2001,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Louisiana,493,11.2
+
+8816,2000,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Louisiana,468,10.7
+
+8817,1999,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Louisiana,518,11.9
+
+9718,2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Louisiana,2578,54.7
+
+9719,2014,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Louisiana,2344,49.8
+
+9720,2013,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Louisiana,2333,50.5
+
+9721,2012,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Louisiana,2362,51.1
+
+9722,2011,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Louisiana,2091,45.8
+
+9723,2010,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Louisiana,1999,44.4
+
+9724,2009,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Louisiana,2142,48
+
+9725,2008,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Louisiana,2409,54.9
+
+9726,2007,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Louisiana,2466,56.8
+
+9727,2006,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Louisiana,2422,56.8
+
+9728,2005,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Louisiana,3072,68.5
+
+9729,2004,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Louisiana,2300,51.4
+
+9730,2003,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Louisiana,2208,49.8
+
+9731,2002,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Louisiana,2115,48.1
+
+9732,2001,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Louisiana,2029,46.5
+
+9733,2000,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Louisiana,2006,45.9
+
+9734,1999,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Louisiana,1940,44.7
+
+19,2016,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Louisiana,2710,57.4
+
+376,2016,All Causes,All causes,Louisiana,44306,870.5
+
+377,2015,All Causes,All causes,Louisiana,43716,874.2
+
+378,2014,All Causes,All causes,Louisiana,43869,894.2
+
+379,2013,All Causes,All causes,Louisiana,43270,897.7
+
+380,2012,All Causes,All causes,Louisiana,42320,898.6
+
+381,2011,All Causes,All causes,Louisiana,40890,886.6
+
+382,2010,All Causes,All causes,Louisiana,40667,903.8
+
+383,2009,All Causes,All causes,Louisiana,40282,907.8
+
+384,2008,All Causes,All causes,Louisiana,41220,946
+
+385,2007,All Causes,All causes,Louisiana,39966,937.5
+
+386,2006,All Causes,All causes,Louisiana,40045,960.5
+
+387,2005,All Causes,All causes,Louisiana,44355,1023.7
+
+388,2004,All Causes,All causes,Louisiana,42215,989.4
+
+389,2003,All Causes,All causes,Louisiana,42719,1013.7
+
+390,2002,All Causes,All causes,Louisiana,41984,1008.5
+
+391,2001,All Causes,All causes,Louisiana,41757,1013.1
+
+392,2000,All Causes,All causes,Louisiana,41138,1006.3
+
+393,1999,All Causes,All causes,Louisiana,41238,1021.6
+
+1312,2016,Alzheimer's disease (G30),Alzheimer's disease,Louisiana,2195,45
+
+1313,2015,Alzheimer's disease (G30),Alzheimer's disease,Louisiana,2018,42.5
+
+1314,2014,Alzheimer's disease (G30),Alzheimer's disease,Louisiana,1670,36
+
+1315,2013,Alzheimer's disease (G30),Alzheimer's disease,Louisiana,1505,32.9
+
+1316,2012,Alzheimer's disease (G30),Alzheimer's disease,Louisiana,1399,31.6
+
+1317,2011,Alzheimer's disease (G30),Alzheimer's disease,Louisiana,1406,32.4
+
+1318,2010,Alzheimer's disease (G30),Alzheimer's disease,Louisiana,1295,30.8
+
+1319,2009,Alzheimer's disease (G30),Alzheimer's disease,Louisiana,1336,32.3
+
+1320,2008,Alzheimer's disease (G30),Alzheimer's disease,Louisiana,1361,33.4
+
+1321,2007,Alzheimer's disease (G30),Alzheimer's disease,Louisiana,1324,33.3
+
+1322,2006,Alzheimer's disease (G30),Alzheimer's disease,Louisiana,1282,32.9
+
+1323,2005,Alzheimer's disease (G30),Alzheimer's disease,Louisiana,1405,34.8
+
+1324,2004,Alzheimer's disease (G30),Alzheimer's disease,Louisiana,1267,32
+
+1325,2003,Alzheimer's disease (G30),Alzheimer's disease,Louisiana,1184,30
+
+1326,2002,Alzheimer's disease (G30),Alzheimer's disease,Louisiana,1111,28.5
+
+1327,2001,Alzheimer's disease (G30),Alzheimer's disease,Louisiana,957,24.6
+
+1328,2000,Alzheimer's disease (G30),Alzheimer's disease,Louisiana,811,20.9
+
+1329,1999,Alzheimer's disease (G30),Alzheimer's disease,Louisiana,683,17.9
+
+2248,2016,Malignant neoplasms (C00-C97),Cancer,Louisiana,9149,171.9
+
+2249,2015,Malignant neoplasms (C00-C97),Cancer,Louisiana,9397,180.2
+
+2250,2014,Malignant neoplasms (C00-C97),Cancer,Louisiana,9455,186.1
+
+2251,2013,Malignant neoplasms (C00-C97),Cancer,Louisiana,9419,188.5
+
+2252,2012,Malignant neoplasms (C00-C97),Cancer,Louisiana,9308,190.7
+
+2253,2011,Malignant neoplasms (C00-C97),Cancer,Louisiana,9233,193.7
+
+2254,2010,Malignant neoplasms (C00-C97),Cancer,Louisiana,9203,197.6
+
+2255,2009,Malignant neoplasms (C00-C97),Cancer,Louisiana,9098,198.6
+
+2256,2008,Malignant neoplasms (C00-C97),Cancer,Louisiana,9197,205.7
+
+2257,2007,Malignant neoplasms (C00-C97),Cancer,Louisiana,8736,199.3
+
+2258,2006,Malignant neoplasms (C00-C97),Cancer,Louisiana,8853,206.1
+
+2259,2005,Malignant neoplasms (C00-C97),Cancer,Louisiana,9249,208.6
+
+2260,2004,Malignant neoplasms (C00-C97),Cancer,Louisiana,9434,216.3
+
+2261,2003,Malignant neoplasms (C00-C97),Cancer,Louisiana,9533,221.8
+
+2262,2002,Malignant neoplasms (C00-C97),Cancer,Louisiana,9441,222.8
+
+2263,2001,Malignant neoplasms (C00-C97),Cancer,Louisiana,9517,228
+
+2264,2000,Malignant neoplasms (C00-C97),Cancer,Louisiana,9400,227.9
+
+2265,1999,Malignant neoplasms (C00-C97),Cancer,Louisiana,9412,230.5
+
+3184,2016,Chronic lower respiratory diseases (J40-J47),CLRD,Louisiana,2221,43
+
+3185,2015,Chronic lower respiratory diseases (J40-J47),CLRD,Louisiana,2178,43.2
+
+3186,2014,Chronic lower respiratory diseases (J40-J47),CLRD,Louisiana,2237,45.5
+
+3187,2013,Chronic lower respiratory diseases (J40-J47),CLRD,Louisiana,2274,47.3
+
+3188,2012,Chronic lower respiratory diseases (J40-J47),CLRD,Louisiana,2074,44.5
+
+3189,2011,Chronic lower respiratory diseases (J40-J47),CLRD,Louisiana,1904,41.5
+
+3190,2010,Chronic lower respiratory diseases (J40-J47),CLRD,Louisiana,1939,43.6
+
+3191,2009,Chronic lower respiratory diseases (J40-J47),CLRD,Louisiana,1878,42.7
+
+3192,2008,Chronic lower respiratory diseases (J40-J47),CLRD,Louisiana,1896,44
+
+3193,2007,Chronic lower respiratory diseases (J40-J47),CLRD,Louisiana,1685,40
+
+3194,2006,Chronic lower respiratory diseases (J40-J47),CLRD,Louisiana,1687,40.8
+
+3195,2005,Chronic lower respiratory diseases (J40-J47),CLRD,Louisiana,1906,44.6
+
+3196,2004,Chronic lower respiratory diseases (J40-J47),CLRD,Louisiana,1615,38.4
+
+3197,2003,Chronic lower respiratory diseases (J40-J47),CLRD,Louisiana,1731,41.4
+
+3198,2002,Chronic lower respiratory diseases (J40-J47),CLRD,Louisiana,1696,41.2
+
+3199,2001,Chronic lower respiratory diseases (J40-J47),CLRD,Louisiana,1763,43.2
+
+3200,2000,Chronic lower respiratory diseases (J40-J47),CLRD,Louisiana,1684,41.7
+
+3201,1999,Chronic lower respiratory diseases (J40-J47),CLRD,Louisiana,1610,40.2
+
+4120,2016,Diabetes mellitus (E10-E14),Diabetes,Louisiana,1324,25.5
+
+4121,2015,Diabetes mellitus (E10-E14),Diabetes,Louisiana,1199,23.5
+
+4122,2014,Diabetes mellitus (E10-E14),Diabetes,Louisiana,1238,24.8
+
+4123,2013,Diabetes mellitus (E10-E14),Diabetes,Louisiana,1329,26.9
+
+4124,2012,Diabetes mellitus (E10-E14),Diabetes,Louisiana,1290,26.9
+
+4125,2011,Diabetes mellitus (E10-E14),Diabetes,Louisiana,1265,27.1
+
+4126,2010,Diabetes mellitus (E10-E14),Diabetes,Louisiana,1205,26.4
+
+4127,2009,Diabetes mellitus (E10-E14),Diabetes,Louisiana,1249,27.8
+
+4128,2008,Diabetes mellitus (E10-E14),Diabetes,Louisiana,1332,30.3
+
+4129,2007,Diabetes mellitus (E10-E14),Diabetes,Louisiana,1437,33.5
+
+4130,2006,Diabetes mellitus (E10-E14),Diabetes,Louisiana,1536,36.3
+
+4131,2005,Diabetes mellitus (E10-E14),Diabetes,Louisiana,1695,38.7
+
+4132,2004,Diabetes mellitus (E10-E14),Diabetes,Louisiana,1717,39.9
+
+4133,2003,Diabetes mellitus (E10-E14),Diabetes,Louisiana,1740,40.9
+
+4134,2002,Diabetes mellitus (E10-E14),Diabetes,Louisiana,1774,42.3
+
+4135,2001,Diabetes mellitus (E10-E14),Diabetes,Louisiana,1734,41.9
+
+4136,2000,Diabetes mellitus (E10-E14),Diabetes,Louisiana,1694,41.4
+
+4137,1999,Diabetes mellitus (E10-E14),Diabetes,Louisiana,1687,41.8
+
+5056,2016,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Louisiana,10943,213.1
+
+5057,2015,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Louisiana,10665,212.1
+
+5058,2014,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Louisiana,10647,216.3
+
+5059,2013,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Louisiana,10346,214.1
+
+5060,2012,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Louisiana,10074,213.1
+
+5061,2011,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Louisiana,9781,212.4
+
+5062,2010,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Louisiana,10282,229.4
+
+5063,2009,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Louisiana,10169,229.9
+
+5064,2008,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Louisiana,10347,238.5
+
+5065,2007,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Louisiana,9947,234.9
+
+5066,2006,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Louisiana,10026,241.4
+
+5067,2005,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Louisiana,11008,256.9
+
+5068,2004,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Louisiana,10852,257.9
+
+5069,2003,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Louisiana,11540,277.5
+
+5070,2002,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Louisiana,11185,272.4
+
+5071,2001,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Louisiana,11474,282.6
+
+5072,2000,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Louisiana,11629,288.7
+
+5073,1999,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Louisiana,12007,302.3
+
+5992,2016,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Louisiana,720,14.3
+
+5993,2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Louisiana,753,15.3
+
+5994,2014,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Louisiana,854,17.5
+
+5995,2013,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Louisiana,892,18.6
+
+5996,2012,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Louisiana,808,17.5
+
+5997,2011,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Louisiana,851,18.9
+
+5998,2010,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Louisiana,878,20.2
+
+5999,2009,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Louisiana,891,20.7
+
+6000,2008,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Louisiana,894,21
+
+6001,2007,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Louisiana,870,21.1
+
+6002,2006,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Louisiana,833,20.6
+
+6003,2005,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Louisiana,996,24
+
+6004,2004,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Louisiana,913,22.2
+
+6005,2003,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Louisiana,915,22.7
+
+6006,2002,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Louisiana,956,24
+
+6007,2001,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Louisiana,941,23.7
+
+6008,2000,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Louisiana,972,24.7
+
+6009,1999,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Louisiana,1008,26
+
+6928,2016,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Louisiana,1153,22.6
+
+6929,2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Louisiana,1160,23.2
+
+6930,2014,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Louisiana,1217,24.9
+
+6931,2013,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Louisiana,1108,23.1
+
+6932,2012,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Louisiana,1138,24.3
+
+6933,2011,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Louisiana,1169,25.5
+
+6934,2010,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Louisiana,1218,27.3
+
+6935,2009,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Louisiana,1160,26.6
+
+6936,2008,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Louisiana,1195,27.7
+
+6937,2007,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Louisiana,1152,27.4
+
+6938,2006,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Louisiana,1074,26.1
+
+6939,2005,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Louisiana,1187,27.8
+
+6940,2004,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Louisiana,1110,26.3
+
+6941,2003,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Louisiana,1065,25.5
+
+6942,2002,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Louisiana,983,23.9
+
+6943,2001,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Louisiana,993,24.3
+
+6944,2000,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Louisiana,920,22.8
+
+6945,1999,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Louisiana,911,22.9
+
+7864,2016,Cerebrovascular diseases (I60-I69),Stroke,Louisiana,2322,46
+
+7865,2015,Cerebrovascular diseases (I60-I69),Stroke,Louisiana,2280,46
+
+7866,2014,Cerebrovascular diseases (I60-I69),Stroke,Louisiana,2230,45.6
+
+7867,2013,Cerebrovascular diseases (I60-I69),Stroke,Louisiana,2098,44
+
+7868,2012,Cerebrovascular diseases (I60-I69),Stroke,Louisiana,2039,43.9
+
+7869,2011,Cerebrovascular diseases (I60-I69),Stroke,Louisiana,2071,45.7
+
+7870,2010,Cerebrovascular diseases (I60-I69),Stroke,Louisiana,1977,44.9
+
+7871,2009,Cerebrovascular diseases (I60-I69),Stroke,Louisiana,2061,47.4
+
+7872,2008,Cerebrovascular diseases (I60-I69),Stroke,Louisiana,2084,48.6
+
+7873,2007,Cerebrovascular diseases (I60-I69),Stroke,Louisiana,2147,51.3
+
+7874,2006,Cerebrovascular diseases (I60-I69),Stroke,Louisiana,2195,53.9
+
+7875,2005,Cerebrovascular diseases (I60-I69),Stroke,Louisiana,2469,58
+
+7876,2004,Cerebrovascular diseases (I60-I69),Stroke,Louisiana,2489,59.8
+
+7877,2003,Cerebrovascular diseases (I60-I69),Stroke,Louisiana,2526,61.4
+
+7878,2002,Cerebrovascular diseases (I60-I69),Stroke,Louisiana,2595,63.8
+
+7879,2001,Cerebrovascular diseases (I60-I69),Stroke,Louisiana,2638,65.4
+
+7880,2000,Cerebrovascular diseases (I60-I69),Stroke,Louisiana,2533,63.5
+
+7881,1999,Cerebrovascular diseases (I60-I69),Stroke,Louisiana,2684,68.3
+
+8800,2016,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Louisiana,677,14.2
+
+8801,2015,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Louisiana,722,15.2
+
+8802,2014,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Louisiana,679,14.3
+
+8803,2013,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Louisiana,583,12.4
+
+8804,2012,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Louisiana,567,12.4
+
+8805,2011,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Louisiana,573,12.5
+
+8806,2010,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Louisiana,557,12.3
+
+8807,2009,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Louisiana,490,10.9
+
+8808,2008,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Louisiana,532,12
+
+8809,2007,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Louisiana,522,12
+
+8810,2006,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Louisiana,492,11.5
+
+8811,2005,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Louisiana,505,11
+
+8812,2004,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Louisiana,537,11.9
+
+8813,2003,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Louisiana,461,10.3
+
+8814,2002,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Louisiana,499,11.2
+
+8815,2001,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Louisiana,493,11.2
+
+8816,2000,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Louisiana,468,10.7
+
+8817,1999,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Louisiana,518,11.9
+
+9718,2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Louisiana,2578,54.7
+
+9719,2014,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Louisiana,2344,49.8
+
+9720,2013,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Louisiana,2333,50.5
+
+9721,2012,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Louisiana,2362,51.1
+
+9722,2011,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Louisiana,2091,45.8
+
+9723,2010,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Louisiana,1999,44.4
+
+9724,2009,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Louisiana,2142,48
+
+9725,2008,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Louisiana,2409,54.9
+
+9726,2007,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Louisiana,2466,56.8
+
+9727,2006,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Louisiana,2422,56.8
+
+9728,2005,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Louisiana,3072,68.5
+
+9729,2004,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Louisiana,2300,51.4
+
+9730,2003,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Louisiana,2208,49.8
+
+9731,2002,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Louisiana,2115,48.1
+
+9732,2001,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Louisiana,2029,46.5
+
+9733,2000,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Louisiana,2006,45.9
+
+9734,1999,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Louisiana,1940,44.7
+
+19,2016,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Louisiana,2710,57.4
+
+376,2016,All Causes,All causes,Louisiana,44306,870.5
+
+377,2015,All Causes,All causes,Louisiana,43716,874.2
+
+378,2014,All Causes,All causes,Louisiana,43869,894.2
+
+379,2013,All Causes,All causes,Louisiana,43270,897.7
+
+380,2012,All Causes,All causes,Louisiana,42320,898.6
+
+381,2011,All Causes,All causes,Louisiana,40890,886.6
+
+382,2010,All Causes,All causes,Louisiana,40667,903.8
+
+383,2009,All Causes,All causes,Louisiana,40282,907.8
+
+384,2008,All Causes,All causes,Louisiana,41220,946
+
+385,2007,All Causes,All causes,Louisiana,39966,937.5
+
+386,2006,All Causes,All causes,Louisiana,40045,960.5
+
+387,2005,All Causes,All causes,Louisiana,44355,1023.7
+
+388,2004,All Causes,All causes,Louisiana,42215,989.4
+
+389,2003,All Causes,All causes,Louisiana,42719,1013.7
+
+390,2002,All Causes,All causes,Louisiana,41984,1008.5
+
+391,2001,All Causes,All causes,Louisiana,41757,1013.1
+
+392,2000,All Causes,All causes,Louisiana,41138,1006.3
+
+393,1999,All Causes,All causes,Louisiana,41238,1021.6
+
+1312,2016,Alzheimer's disease (G30),Alzheimer's disease,Louisiana,2195,45
+
+1313,2015,Alzheimer's disease (G30),Alzheimer's disease,Louisiana,2018,42.5
+
+1314,2014,Alzheimer's disease (G30),Alzheimer's disease,Louisiana,1670,36
+
+1315,2013,Alzheimer's disease (G30),Alzheimer's disease,Louisiana,1505,32.9
+
+1316,2012,Alzheimer's disease (G30),Alzheimer's disease,Louisiana,1399,31.6
+
+1317,2011,Alzheimer's disease (G30),Alzheimer's disease,Louisiana,1406,32.4
+
+1318,2010,Alzheimer's disease (G30),Alzheimer's disease,Louisiana,1295,30.8
+
+1319,2009,Alzheimer's disease (G30),Alzheimer's disease,Louisiana,1336,32.3
+
+1320,2008,Alzheimer's disease (G30),Alzheimer's disease,Louisiana,1361,33.4
+
+1321,2007,Alzheimer's disease (G30),Alzheimer's disease,Louisiana,1324,33.3
+
+1322,2006,Alzheimer's disease (G30),Alzheimer's disease,Louisiana,1282,32.9
+
+1323,2005,Alzheimer's disease (G30),Alzheimer's disease,Louisiana,1405,34.8
+
+1324,2004,Alzheimer's disease (G30),Alzheimer's disease,Louisiana,1267,32
+
+1325,2003,Alzheimer's disease (G30),Alzheimer's disease,Louisiana,1184,30
+
+1326,2002,Alzheimer's disease (G30),Alzheimer's disease,Louisiana,1111,28.5
+
+1327,2001,Alzheimer's disease (G30),Alzheimer's disease,Louisiana,957,24.6
+
+1328,2000,Alzheimer's disease (G30),Alzheimer's disease,Louisiana,811,20.9
+
+1329,1999,Alzheimer's disease (G30),Alzheimer's disease,Louisiana,683,17.9
+
+2248,2016,Malignant neoplasms (C00-C97),Cancer,Louisiana,9149,171.9
+
+2249,2015,Malignant neoplasms (C00-C97),Cancer,Louisiana,9397,180.2
+
+2250,2014,Malignant neoplasms (C00-C97),Cancer,Louisiana,9455,186.1
+
+2251,2013,Malignant neoplasms (C00-C97),Cancer,Louisiana,9419,188.5
+
+2252,2012,Malignant neoplasms (C00-C97),Cancer,Louisiana,9308,190.7
+
+2253,2011,Malignant neoplasms (C00-C97),Cancer,Louisiana,9233,193.7
+
+2254,2010,Malignant neoplasms (C00-C97),Cancer,Louisiana,9203,197.6
+
+2255,2009,Malignant neoplasms (C00-C97),Cancer,Louisiana,9098,198.6
+
+2256,2008,Malignant neoplasms (C00-C97),Cancer,Louisiana,9197,205.7
+
+2257,2007,Malignant neoplasms (C00-C97),Cancer,Louisiana,8736,199.3
+
+2258,2006,Malignant neoplasms (C00-C97),Cancer,Louisiana,8853,206.1
+
+2259,2005,Malignant neoplasms (C00-C97),Cancer,Louisiana,9249,208.6
+
+2260,2004,Malignant neoplasms (C00-C97),Cancer,Louisiana,9434,216.3
+
+2261,2003,Malignant neoplasms (C00-C97),Cancer,Louisiana,9533,221.8
+
+2262,2002,Malignant neoplasms (C00-C97),Cancer,Louisiana,9441,222.8
+
+2263,2001,Malignant neoplasms (C00-C97),Cancer,Louisiana,9517,228
+
+2264,2000,Malignant neoplasms (C00-C97),Cancer,Louisiana,9400,227.9
+
+2265,1999,Malignant neoplasms (C00-C97),Cancer,Louisiana,9412,230.5
+
+3184,2016,Chronic lower respiratory diseases (J40-J47),CLRD,Louisiana,2221,43
+
+3185,2015,Chronic lower respiratory diseases (J40-J47),CLRD,Louisiana,2178,43.2
+
+3186,2014,Chronic lower respiratory diseases (J40-J47),CLRD,Louisiana,2237,45.5
+
+3187,2013,Chronic lower respiratory diseases (J40-J47),CLRD,Louisiana,2274,47.3
+
+3188,2012,Chronic lower respiratory diseases (J40-J47),CLRD,Louisiana,2074,44.5
+
+3189,2011,Chronic lower respiratory diseases (J40-J47),CLRD,Louisiana,1904,41.5
+
+3190,2010,Chronic lower respiratory diseases (J40-J47),CLRD,Louisiana,1939,43.6
+
+3191,2009,Chronic lower respiratory diseases (J40-J47),CLRD,Louisiana,1878,42.7
+
+3192,2008,Chronic lower respiratory diseases (J40-J47),CLRD,Louisiana,1896,44
+
+3193,2007,Chronic lower respiratory diseases (J40-J47),CLRD,Louisiana,1685,40
+
+3194,2006,Chronic lower respiratory diseases (J40-J47),CLRD,Louisiana,1687,40.8
+
+3195,2005,Chronic lower respiratory diseases (J40-J47),CLRD,Louisiana,1906,44.6
+
+3196,2004,Chronic lower respiratory diseases (J40-J47),CLRD,Louisiana,1615,38.4
+
+3197,2003,Chronic lower respiratory diseases (J40-J47),CLRD,Louisiana,1731,41.4
+
+3198,2002,Chronic lower respiratory diseases (J40-J47),CLRD,Louisiana,1696,41.2
+
+3199,2001,Chronic lower respiratory diseases (J40-J47),CLRD,Louisiana,1763,43.2
+
+3200,2000,Chronic lower respiratory diseases (J40-J47),CLRD,Louisiana,1684,41.7
+
+3201,1999,Chronic lower respiratory diseases (J40-J47),CLRD,Louisiana,1610,40.2
+
+4120,2016,Diabetes mellitus (E10-E14),Diabetes,Louisiana,1324,25.5
+
+4121,2015,Diabetes mellitus (E10-E14),Diabetes,Louisiana,1199,23.5
+
+4122,2014,Diabetes mellitus (E10-E14),Diabetes,Louisiana,1238,24.8
+
+4123,2013,Diabetes mellitus (E10-E14),Diabetes,Louisiana,1329,26.9
+
+4124,2012,Diabetes mellitus (E10-E14),Diabetes,Louisiana,1290,26.9
+
+4125,2011,Diabetes mellitus (E10-E14),Diabetes,Louisiana,1265,27.1
+
+4126,2010,Diabetes mellitus (E10-E14),Diabetes,Louisiana,1205,26.4
+
+4127,2009,Diabetes mellitus (E10-E14),Diabetes,Louisiana,1249,27.8
+
+4128,2008,Diabetes mellitus (E10-E14),Diabetes,Louisiana,1332,30.3
+
+4129,2007,Diabetes mellitus (E10-E14),Diabetes,Louisiana,1437,33.5
+
+4130,2006,Diabetes mellitus (E10-E14),Diabetes,Louisiana,1536,36.3
+
+4131,2005,Diabetes mellitus (E10-E14),Diabetes,Louisiana,1695,38.7
+
+4132,2004,Diabetes mellitus (E10-E14),Diabetes,Louisiana,1717,39.9
+
+4133,2003,Diabetes mellitus (E10-E14),Diabetes,Louisiana,1740,40.9
+
+4134,2002,Diabetes mellitus (E10-E14),Diabetes,Louisiana,1774,42.3
+
+4135,2001,Diabetes mellitus (E10-E14),Diabetes,Louisiana,1734,41.9
+
+4136,2000,Diabetes mellitus (E10-E14),Diabetes,Louisiana,1694,41.4
+
+4137,1999,Diabetes mellitus (E10-E14),Diabetes,Louisiana,1687,41.8
+
+5056,2016,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Louisiana,10943,213.1
+
+5057,2015,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Louisiana,10665,212.1
+
+5058,2014,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Louisiana,10647,216.3
+
+5059,2013,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Louisiana,10346,214.1
+
+5060,2012,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Louisiana,10074,213.1
+
+5061,2011,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Louisiana,9781,212.4
+
+5062,2010,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Louisiana,10282,229.4
+
+5063,2009,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Louisiana,10169,229.9
+
+5064,2008,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Louisiana,10347,238.5
+
+5065,2007,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Louisiana,9947,234.9
+
+5066,2006,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Louisiana,10026,241.4
+
+5067,2005,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Louisiana,11008,256.9
+
+5068,2004,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Louisiana,10852,257.9
+
+5069,2003,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Louisiana,11540,277.5
+
+5070,2002,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Louisiana,11185,272.4
+
+5071,2001,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Louisiana,11474,282.6
+
+5072,2000,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Louisiana,11629,288.7
+
+5073,1999,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Louisiana,12007,302.3
+
+5992,2016,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Louisiana,720,14.3
+
+5993,2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Louisiana,753,15.3
+
+5994,2014,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Louisiana,854,17.5
+
+5995,2013,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Louisiana,892,18.6
+
+5996,2012,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Louisiana,808,17.5
+
+5997,2011,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Louisiana,851,18.9
+
+5998,2010,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Louisiana,878,20.2
+
+5999,2009,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Louisiana,891,20.7
+
+6000,2008,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Louisiana,894,21
+
+6001,2007,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Louisiana,870,21.1
+
+6002,2006,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Louisiana,833,20.6
+
+6003,2005,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Louisiana,996,24
+
+6004,2004,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Louisiana,913,22.2
+
+6005,2003,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Louisiana,915,22.7
+
+6006,2002,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Louisiana,956,24
+
+6007,2001,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Louisiana,941,23.7
+
+6008,2000,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Louisiana,972,24.7
+
+6009,1999,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Louisiana,1008,26
+
+6928,2016,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Louisiana,1153,22.6
+
+6929,2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Louisiana,1160,23.2
+
+6930,2014,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Louisiana,1217,24.9
+
+6931,2013,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Louisiana,1108,23.1
+
+6932,2012,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Louisiana,1138,24.3
+
+6933,2011,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Louisiana,1169,25.5
+
+6934,2010,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Louisiana,1218,27.3
+
+6935,2009,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Louisiana,1160,26.6
+
+6936,2008,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Louisiana,1195,27.7
+
+6937,2007,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Louisiana,1152,27.4
+
+6938,2006,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Louisiana,1074,26.1
+
+6939,2005,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Louisiana,1187,27.8
+
+6940,2004,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Louisiana,1110,26.3
+
+6941,2003,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Louisiana,1065,25.5
+
+6942,2002,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Louisiana,983,23.9
+
+6943,2001,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Louisiana,993,24.3
+
+6944,2000,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Louisiana,920,22.8
+
+6945,1999,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Louisiana,911,22.9
+
+7864,2016,Cerebrovascular diseases (I60-I69),Stroke,Louisiana,2322,46
+
+7865,2015,Cerebrovascular diseases (I60-I69),Stroke,Louisiana,2280,46
+
+7866,2014,Cerebrovascular diseases (I60-I69),Stroke,Louisiana,2230,45.6
+
+7867,2013,Cerebrovascular diseases (I60-I69),Stroke,Louisiana,2098,44
+
+7868,2012,Cerebrovascular diseases (I60-I69),Stroke,Louisiana,2039,43.9
+
+7869,2011,Cerebrovascular diseases (I60-I69),Stroke,Louisiana,2071,45.7
+
+7870,2010,Cerebrovascular diseases (I60-I69),Stroke,Louisiana,1977,44.9
+
+7871,2009,Cerebrovascular diseases (I60-I69),Stroke,Louisiana,2061,47.4
+
+7872,2008,Cerebrovascular diseases (I60-I69),Stroke,Louisiana,2084,48.6
+
+7873,2007,Cerebrovascular diseases (I60-I69),Stroke,Louisiana,2147,51.3
+
+7874,2006,Cerebrovascular diseases (I60-I69),Stroke,Louisiana,2195,53.9
+
+7875,2005,Cerebrovascular diseases (I60-I69),Stroke,Louisiana,2469,58
+
+7876,2004,Cerebrovascular diseases (I60-I69),Stroke,Louisiana,2489,59.8
+
+7877,2003,Cerebrovascular diseases (I60-I69),Stroke,Louisiana,2526,61.4
+
+7878,2002,Cerebrovascular diseases (I60-I69),Stroke,Louisiana,2595,63.8
+
+7879,2001,Cerebrovascular diseases (I60-I69),Stroke,Louisiana,2638,65.4
+
+7880,2000,Cerebrovascular diseases (I60-I69),Stroke,Louisiana,2533,63.5
+
+7881,1999,Cerebrovascular diseases (I60-I69),Stroke,Louisiana,2684,68.3
+
+8800,2016,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Louisiana,677,14.2
+
+8801,2015,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Louisiana,722,15.2
+
+8802,2014,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Louisiana,679,14.3
+
+8803,2013,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Louisiana,583,12.4
+
+8804,2012,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Louisiana,567,12.4
+
+8805,2011,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Louisiana,573,12.5
+
+8806,2010,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Louisiana,557,12.3
+
+8807,2009,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Louisiana,490,10.9
+
+8808,2008,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Louisiana,532,12
+
+8809,2007,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Louisiana,522,12
+
+8810,2006,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Louisiana,492,11.5
+
+8811,2005,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Louisiana,505,11
+
+8812,2004,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Louisiana,537,11.9
+
+8813,2003,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Louisiana,461,10.3
+
+8814,2002,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Louisiana,499,11.2
+
+8815,2001,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Louisiana,493,11.2
+
+8816,2000,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Louisiana,468,10.7
+
+8817,1999,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Louisiana,518,11.9
+
+9718,2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Louisiana,2578,54.7
+
+9719,2014,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Louisiana,2344,49.8
+
+9720,2013,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Louisiana,2333,50.5
+
+9721,2012,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Louisiana,2362,51.1
+
+9722,2011,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Louisiana,2091,45.8
+
+9723,2010,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Louisiana,1999,44.4
+
+9724,2009,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Louisiana,2142,48
+
+9725,2008,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Louisiana,2409,54.9
+
+9726,2007,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Louisiana,2466,56.8
+
+9727,2006,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Louisiana,2422,56.8
+
+9728,2005,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Louisiana,3072,68.5
+
+9729,2004,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Louisiana,2300,51.4
+
+9730,2003,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Louisiana,2208,49.8
+
+9731,2002,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Louisiana,2115,48.1
+
+9732,2001,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Louisiana,2029,46.5
+
+9733,2000,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Louisiana,2006,45.9
+
+9734,1999,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Louisiana,1940,44.7
+
+19,2016,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Louisiana,2710,57.4
+
+376,2016,All Causes,All causes,Louisiana,44306,870.5
+
+377,2015,All Causes,All causes,Louisiana,43716,874.2
+
+378,2014,All Causes,All causes,Louisiana,43869,894.2
+
+379,2013,All Causes,All causes,Louisiana,43270,897.7
+
+380,2012,All Causes,All causes,Louisiana,42320,898.6
+
+381,2011,All Causes,All causes,Louisiana,40890,886.6
+
+382,2010,All Causes,All causes,Louisiana,40667,903.8
+
+383,2009,All Causes,All causes,Louisiana,40282,907.8
+
+384,2008,All Causes,All causes,Louisiana,41220,946
+
+385,2007,All Causes,All causes,Louisiana,39966,937.5
+
+386,2006,All Causes,All causes,Louisiana,40045,960.5
+
+387,2005,All Causes,All causes,Louisiana,44355,1023.7
+
+388,2004,All Causes,All causes,Louisiana,42215,989.4
+
+389,2003,All Causes,All causes,Louisiana,42719,1013.7
+
+390,2002,All Causes,All causes,Louisiana,41984,1008.5
+
+391,2001,All Causes,All causes,Louisiana,41757,1013.1
+
+392,2000,All Causes,All causes,Louisiana,41138,1006.3
+
+393,1999,All Causes,All causes,Louisiana,41238,1021.6
+
+1312,2016,Alzheimer's disease (G30),Alzheimer's disease,Louisiana,2195,45
+
+1313,2015,Alzheimer's disease (G30),Alzheimer's disease,Louisiana,2018,42.5
+
+1314,2014,Alzheimer's disease (G30),Alzheimer's disease,Louisiana,1670,36
+
+1315,2013,Alzheimer's disease (G30),Alzheimer's disease,Louisiana,1505,32.9
+
+1316,2012,Alzheimer's disease (G30),Alzheimer's disease,Louisiana,1399,31.6
+
+1317,2011,Alzheimer's disease (G30),Alzheimer's disease,Louisiana,1406,32.4
+
+1318,2010,Alzheimer's disease (G30),Alzheimer's disease,Louisiana,1295,30.8
+
+1319,2009,Alzheimer's disease (G30),Alzheimer's disease,Louisiana,1336,32.3
+
+1320,2008,Alzheimer's disease (G30),Alzheimer's disease,Louisiana,1361,33.4
+
+1321,2007,Alzheimer's disease (G30),Alzheimer's disease,Louisiana,1324,33.3
+
+1322,2006,Alzheimer's disease (G30),Alzheimer's disease,Louisiana,1282,32.9
+
+1323,2005,Alzheimer's disease (G30),Alzheimer's disease,Louisiana,1405,34.8
+
+1324,2004,Alzheimer's disease (G30),Alzheimer's disease,Louisiana,1267,32
+
+1325,2003,Alzheimer's disease (G30),Alzheimer's disease,Louisiana,1184,30
+
+1326,2002,Alzheimer's disease (G30),Alzheimer's disease,Louisiana,1111,28.5
+
+1327,2001,Alzheimer's disease (G30),Alzheimer's disease,Louisiana,957,24.6
+
+1328,2000,Alzheimer's disease (G30),Alzheimer's disease,Louisiana,811,20.9
+
+1329,1999,Alzheimer's disease (G30),Alzheimer's disease,Louisiana,683,17.9
+
+2248,2016,Malignant neoplasms (C00-C97),Cancer,Louisiana,9149,171.9
+
+2249,2015,Malignant neoplasms (C00-C97),Cancer,Louisiana,9397,180.2
+
+2250,2014,Malignant neoplasms (C00-C97),Cancer,Louisiana,9455,186.1
+
+2251,2013,Malignant neoplasms (C00-C97),Cancer,Louisiana,9419,188.5
+
+2252,2012,Malignant neoplasms (C00-C97),Cancer,Louisiana,9308,190.7
+
+2253,2011,Malignant neoplasms (C00-C97),Cancer,Louisiana,9233,193.7
+
+2254,2010,Malignant neoplasms (C00-C97),Cancer,Louisiana,9203,197.6
+
+2255,2009,Malignant neoplasms (C00-C97),Cancer,Louisiana,9098,198.6
+
+2256,2008,Malignant neoplasms (C00-C97),Cancer,Louisiana,9197,205.7
+
+2257,2007,Malignant neoplasms (C00-C97),Cancer,Louisiana,8736,199.3
+
+2258,2006,Malignant neoplasms (C00-C97),Cancer,Louisiana,8853,206.1
+
+2259,2005,Malignant neoplasms (C00-C97),Cancer,Louisiana,9249,208.6
+
+2260,2004,Malignant neoplasms (C00-C97),Cancer,Louisiana,9434,216.3
+
+2261,2003,Malignant neoplasms (C00-C97),Cancer,Louisiana,9533,221.8
+
+2262,2002,Malignant neoplasms (C00-C97),Cancer,Louisiana,9441,222.8
+
+2263,2001,Malignant neoplasms (C00-C97),Cancer,Louisiana,9517,228
+
+2264,2000,Malignant neoplasms (C00-C97),Cancer,Louisiana,9400,227.9
+
+2265,1999,Malignant neoplasms (C00-C97),Cancer,Louisiana,9412,230.5
+
+3184,2016,Chronic lower respiratory diseases (J40-J47),CLRD,Louisiana,2221,43
+
+3185,2015,Chronic lower respiratory diseases (J40-J47),CLRD,Louisiana,2178,43.2
+
+3186,2014,Chronic lower respiratory diseases (J40-J47),CLRD,Louisiana,2237,45.5
+
+3187,2013,Chronic lower respiratory diseases (J40-J47),CLRD,Louisiana,2274,47.3
+
+3188,2012,Chronic lower respiratory diseases (J40-J47),CLRD,Louisiana,2074,44.5
+
+3189,2011,Chronic lower respiratory diseases (J40-J47),CLRD,Louisiana,1904,41.5
+
+3190,2010,Chronic lower respiratory diseases (J40-J47),CLRD,Louisiana,1939,43.6
+
+3191,2009,Chronic lower respiratory diseases (J40-J47),CLRD,Louisiana,1878,42.7
+
+3192,2008,Chronic lower respiratory diseases (J40-J47),CLRD,Louisiana,1896,44
+
+3193,2007,Chronic lower respiratory diseases (J40-J47),CLRD,Louisiana,1685,40
+
+3194,2006,Chronic lower respiratory diseases (J40-J47),CLRD,Louisiana,1687,40.8
+
+3195,2005,Chronic lower respiratory diseases (J40-J47),CLRD,Louisiana,1906,44.6
+
+3196,2004,Chronic lower respiratory diseases (J40-J47),CLRD,Louisiana,1615,38.4
+
+3197,2003,Chronic lower respiratory diseases (J40-J47),CLRD,Louisiana,1731,41.4
+
+3198,2002,Chronic lower respiratory diseases (J40-J47),CLRD,Louisiana,1696,41.2
+
+3199,2001,Chronic lower respiratory diseases (J40-J47),CLRD,Louisiana,1763,43.2
+
+3200,2000,Chronic lower respiratory diseases (J40-J47),CLRD,Louisiana,1684,41.7
+
+3201,1999,Chronic lower respiratory diseases (J40-J47),CLRD,Louisiana,1610,40.2
+
+4120,2016,Diabetes mellitus (E10-E14),Diabetes,Louisiana,1324,25.5
+
+4121,2015,Diabetes mellitus (E10-E14),Diabetes,Louisiana,1199,23.5
+
+4122,2014,Diabetes mellitus (E10-E14),Diabetes,Louisiana,1238,24.8
+
+4123,2013,Diabetes mellitus (E10-E14),Diabetes,Louisiana,1329,26.9
+
+4124,2012,Diabetes mellitus (E10-E14),Diabetes,Louisiana,1290,26.9
+
+4125,2011,Diabetes mellitus (E10-E14),Diabetes,Louisiana,1265,27.1
+
+4126,2010,Diabetes mellitus (E10-E14),Diabetes,Louisiana,1205,26.4
+
+4127,2009,Diabetes mellitus (E10-E14),Diabetes,Louisiana,1249,27.8
+
+4128,2008,Diabetes mellitus (E10-E14),Diabetes,Louisiana,1332,30.3
+
+4129,2007,Diabetes mellitus (E10-E14),Diabetes,Louisiana,1437,33.5
+
+4130,2006,Diabetes mellitus (E10-E14),Diabetes,Louisiana,1536,36.3
+
+4131,2005,Diabetes mellitus (E10-E14),Diabetes,Louisiana,1695,38.7
+
+4132,2004,Diabetes mellitus (E10-E14),Diabetes,Louisiana,1717,39.9
+
+4133,2003,Diabetes mellitus (E10-E14),Diabetes,Louisiana,1740,40.9
+
+4134,2002,Diabetes mellitus (E10-E14),Diabetes,Louisiana,1774,42.3
+
+4135,2001,Diabetes mellitus (E10-E14),Diabetes,Louisiana,1734,41.9
+
+4136,2000,Diabetes mellitus (E10-E14),Diabetes,Louisiana,1694,41.4
+
+4137,1999,Diabetes mellitus (E10-E14),Diabetes,Louisiana,1687,41.8
+
+5056,2016,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Louisiana,10943,213.1
+
+5057,2015,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Louisiana,10665,212.1
+
+5058,2014,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Louisiana,10647,216.3
+
+5059,2013,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Louisiana,10346,214.1
+
+5060,2012,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Louisiana,10074,213.1
+
+5061,2011,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Louisiana,9781,212.4
+
+5062,2010,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Louisiana,10282,229.4
+
+5063,2009,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Louisiana,10169,229.9
+
+5064,2008,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Louisiana,10347,238.5
+
+5065,2007,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Louisiana,9947,234.9
+
+5066,2006,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Louisiana,10026,241.4
+
+5067,2005,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Louisiana,11008,256.9
+
+5068,2004,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Louisiana,10852,257.9
+
+5069,2003,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Louisiana,11540,277.5
+
+5070,2002,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Louisiana,11185,272.4
+
+5071,2001,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Louisiana,11474,282.6
+
+5072,2000,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Louisiana,11629,288.7
+
+5073,1999,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Louisiana,12007,302.3
+
+5992,2016,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Louisiana,720,14.3
+
+5993,2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Louisiana,753,15.3
+
+5994,2014,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Louisiana,854,17.5
+
+5995,2013,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Louisiana,892,18.6
+
+5996,2012,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Louisiana,808,17.5
+
+5997,2011,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Louisiana,851,18.9
+
+5998,2010,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Louisiana,878,20.2
+
+5999,2009,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Louisiana,891,20.7
+
+6000,2008,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Louisiana,894,21
+
+6001,2007,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Louisiana,870,21.1
+
+6002,2006,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Louisiana,833,20.6
+
+6003,2005,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Louisiana,996,24
+
+6004,2004,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Louisiana,913,22.2
+
+6005,2003,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Louisiana,915,22.7
+
+6006,2002,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Louisiana,956,24
+
+6007,2001,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Louisiana,941,23.7
+
+6008,2000,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Louisiana,972,24.7
+
+6009,1999,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Louisiana,1008,26
+
+6928,2016,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Louisiana,1153,22.6
+
+6929,2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Louisiana,1160,23.2
+
+6930,2014,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Louisiana,1217,24.9
+
+6931,2013,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Louisiana,1108,23.1
+
+6932,2012,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Louisiana,1138,24.3
+
+6933,2011,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Louisiana,1169,25.5
+
+6934,2010,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Louisiana,1218,27.3
+
+6935,2009,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Louisiana,1160,26.6
+
+6936,2008,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Louisiana,1195,27.7
+
+6937,2007,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Louisiana,1152,27.4
+
+6938,2006,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Louisiana,1074,26.1
+
+6939,2005,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Louisiana,1187,27.8
+
+6940,2004,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Louisiana,1110,26.3
+
+6941,2003,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Louisiana,1065,25.5
+
+6942,2002,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Louisiana,983,23.9
+
+6943,2001,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Louisiana,993,24.3
+
+6944,2000,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Louisiana,920,22.8
+
+6945,1999,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Louisiana,911,22.9
+
+7864,2016,Cerebrovascular diseases (I60-I69),Stroke,Louisiana,2322,46
+
+7865,2015,Cerebrovascular diseases (I60-I69),Stroke,Louisiana,2280,46
+
+7866,2014,Cerebrovascular diseases (I60-I69),Stroke,Louisiana,2230,45.6
+
+7867,2013,Cerebrovascular diseases (I60-I69),Stroke,Louisiana,2098,44
+
+7868,2012,Cerebrovascular diseases (I60-I69),Stroke,Louisiana,2039,43.9
+
+7869,2011,Cerebrovascular diseases (I60-I69),Stroke,Louisiana,2071,45.7
+
+7870,2010,Cerebrovascular diseases (I60-I69),Stroke,Louisiana,1977,44.9
+
+7871,2009,Cerebrovascular diseases (I60-I69),Stroke,Louisiana,2061,47.4
+
+7872,2008,Cerebrovascular diseases (I60-I69),Stroke,Louisiana,2084,48.6
+
+7873,2007,Cerebrovascular diseases (I60-I69),Stroke,Louisiana,2147,51.3
+
+7874,2006,Cerebrovascular diseases (I60-I69),Stroke,Louisiana,2195,53.9
+
+7875,2005,Cerebrovascular diseases (I60-I69),Stroke,Louisiana,2469,58
+
+7876,2004,Cerebrovascular diseases (I60-I69),Stroke,Louisiana,2489,59.8
+
+7877,2003,Cerebrovascular diseases (I60-I69),Stroke,Louisiana,2526,61.4
+
+7878,2002,Cerebrovascular diseases (I60-I69),Stroke,Louisiana,2595,63.8
+
+7879,2001,Cerebrovascular diseases (I60-I69),Stroke,Louisiana,2638,65.4
+
+7880,2000,Cerebrovascular diseases (I60-I69),Stroke,Louisiana,2533,63.5
+
+7881,1999,Cerebrovascular diseases (I60-I69),Stroke,Louisiana,2684,68.3
+
+8800,2016,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Louisiana,677,14.2
+
+8801,2015,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Louisiana,722,15.2
+
+8802,2014,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Louisiana,679,14.3
+
+8803,2013,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Louisiana,583,12.4
+
+8804,2012,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Louisiana,567,12.4
+
+8805,2011,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Louisiana,573,12.5
+
+8806,2010,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Louisiana,557,12.3
+
+8807,2009,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Louisiana,490,10.9
+
+8808,2008,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Louisiana,532,12
+
+8809,2007,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Louisiana,522,12
+
+8810,2006,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Louisiana,492,11.5
+
+8811,2005,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Louisiana,505,11
+
+8812,2004,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Louisiana,537,11.9
+
+8813,2003,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Louisiana,461,10.3
+
+8814,2002,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Louisiana,499,11.2
+
+8815,2001,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Louisiana,493,11.2
+
+8816,2000,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Louisiana,468,10.7
+
+8817,1999,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Louisiana,518,11.9
+
+9718,2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Louisiana,2578,54.7
+
+9719,2014,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Louisiana,2344,49.8
+
+9720,2013,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Louisiana,2333,50.5
+
+9721,2012,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Louisiana,2362,51.1
+
+9722,2011,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Louisiana,2091,45.8
+
+9723,2010,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Louisiana,1999,44.4
+
+9724,2009,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Louisiana,2142,48
+
+9725,2008,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Louisiana,2409,54.9
+
+9726,2007,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Louisiana,2466,56.8
+
+9727,2006,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Louisiana,2422,56.8
+
+9728,2005,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Louisiana,3072,68.5
+
+9729,2004,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Louisiana,2300,51.4
+
+9730,2003,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Louisiana,2208,49.8
+
+9731,2002,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Louisiana,2115,48.1
+
+9732,2001,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Louisiana,2029,46.5
+
+9733,2000,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Louisiana,2006,45.9
+
+9734,1999,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Louisiana,1940,44.7
+

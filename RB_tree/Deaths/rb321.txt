@@ -1,0 +1,12 @@
+1697,2009,Alzheimer's disease (G30),Alzheimer's disease,Rhode Island,321,21.7
+
+4265,2015,Diabetes mellitus (E10-E14),Diabetes,Montana,321,24.5
+
+9301,2001,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Utah,321,15.5
+
+9441,2003,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Alaska,321,55.4
+
+9920,2000,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,New Hampshire,321,26.3
+
+10124,2000,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,South Dakota,321,41.2
+

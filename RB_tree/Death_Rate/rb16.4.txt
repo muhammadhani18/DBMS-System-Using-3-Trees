@@ -1,0 +1,48 @@
+1101,2011,Alzheimer's disease (G30),Alzheimer's disease,Connecticut,813,16.4
+
+1165,2001,Alzheimer's disease (G30),Alzheimer's disease,Florida,3643,16.4
+
+1349,2015,Alzheimer's disease (G30),Alzheimer's disease,Maryland,1095,16.4
+
+1563,1999,Alzheimer's disease (G30),Alzheimer's disease,New Mexico,248,16.4
+
+3891,2011,Diabetes mellitus (E10-E14),Diabetes,Colorado,790,16.4
+
+5746,2010,Influenza and pneumonia (J09-J18),Influenza and pneumonia,California,5882,16.4
+
+5852,2012,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Georgia,1390,16.4
+
+5881,2001,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Hawaii,207,16.4
+
+5962,2010,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Kansas,550,16.4
+
+6098,2000,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Minnesota,845,16.4
+
+6139,2013,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Montana,210,16.4
+
+6203,2003,Influenza and pneumonia (J09-J18),Influenza and pneumonia,New Hampshire,204,16.4
+
+6347,2003,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Oregon,632,16.4
+
+6395,2009,Influenza and pneumonia (J09-J18),Influenza and pneumonia,South Carolina,759,16.4
+
+6766,1999,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,District of Columbia,91,16.4
+
+6855,1999,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Illinois,1965,16.4
+
+7014,2002,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Michigan,1618,16.4
+
+7261,2007,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Oklahoma,623,16.4
+
+7329,2012,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,South Carolina,860,16.4
+
+7504,1999,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,West Virginia,345,16.4
+
+8523,2005,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arizona,945,16.4
+
+8705,2003,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Idaho,217,16.4
+
+9361,2013,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,West Virginia,323,16.4
+
+9409,2001,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wyoming,83,16.4
+

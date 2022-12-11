@@ -1,0 +1,4 @@
+1175,2009,Alzheimer's disease (G30),Alzheimer's disease,Georgia,1865,25.9
+
+7242,2008,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Ohio,1865,14.3
+

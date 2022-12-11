@@ -1,0 +1,20 @@
+3371,2009,Chronic lower respiratory diseases (J40-J47),CLRD,Nevada,1244,53.3
+
+5570,2006,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Vermont,1244,177.2
+
+6868,2004,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Indiana,1244,19.9
+
+7464,2003,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Virginia,1244,18.7
+
+8514,2014,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arizona,1244,18
+
+3371,2009,Chronic lower respiratory diseases (J40-J47),CLRD,Nevada,1244,53.3
+
+5570,2006,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Vermont,1244,177.2
+
+6868,2004,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Indiana,1244,19.9
+
+7464,2003,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Virginia,1244,18.7
+
+8514,2014,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arizona,1244,18
+

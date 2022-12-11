@@ -1,0 +1,4 @@
+3281,2009,Chronic lower respiratory diseases (J40-J47),CLRD,Minnesota,1961,34.8
+
+8195,2009,Cerebrovascular diseases (I60-I69),Stroke,Oklahoma,1961,50.1
+

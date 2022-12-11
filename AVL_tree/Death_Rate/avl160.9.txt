@@ -1,0 +1,6 @@
+4941,2005,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Hawaii,2319,160.9
+
+5003,2015,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Iowa,6813,160.9
+
+5409,2006,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Oregon,6620,160.9
+

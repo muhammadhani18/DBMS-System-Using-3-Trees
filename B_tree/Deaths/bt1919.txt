@@ -1,0 +1,4 @@
+9812,2006,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Minnesota,1919,35.4
+
+9812,2006,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Minnesota,1919,35.4
+

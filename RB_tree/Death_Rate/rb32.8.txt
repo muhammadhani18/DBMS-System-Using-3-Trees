@@ -1,0 +1,14 @@
+7708,2010,Cerebrovascular diseases (I60-I69),Stroke,Florida,8432,32.8
+
+9529,2000,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Connecticut,1175,32.8
+
+9644,2004,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Illinois,4133,32.8
+
+9647,2001,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Illinois,4077,32.8
+
+9648,2000,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Illinois,4041,32.8
+
+9797,2004,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Michigan,3312,32.8
+
+9802,1999,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Michigan,3188,32.8
+

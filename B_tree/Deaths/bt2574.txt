@@ -1,0 +1,8 @@
+3250,2004,Chronic lower respiratory diseases (J40-J47),CLRD,Massachusetts,2574,35.9
+
+9803,2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Minnesota,2574,42
+
+3250,2004,Chronic lower respiratory diseases (J40-J47),CLRD,Massachusetts,2574,35.9
+
+9803,2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Minnesota,2574,42
+

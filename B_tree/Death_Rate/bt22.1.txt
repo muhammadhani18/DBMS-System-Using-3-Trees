@@ -1,0 +1,56 @@
+1123,2007,Alzheimer's disease (G30),Alzheimer's disease,Delaware,201,22.1
+
+1271,2003,Alzheimer's disease (G30),Alzheimer's disease,Iowa,887,22.1
+
+1310,2000,Alzheimer's disease (G30),Alzheimer's disease,Kentucky,845,22.1
+
+1417,2001,Alzheimer's disease (G30),Alzheimer's disease,Minnesota,1173,22.1
+
+1649,2003,Alzheimer's disease (G30),Alzheimer's disease,Oklahoma,794,22.1
+
+1680,2008,Alzheimer's disease (G30),Alzheimer's disease,Pennsylvania,3863,22.1
+
+1793,2003,Alzheimer's disease (G30),Alzheimer's disease,United States,63457,22.1
+
+1807,2007,Alzheimer's disease (G30),Alzheimer's disease,Utah,393,22.1
+
+3973,2001,Diabetes mellitus (E10-E14),Diabetes,Florida,4631,22.1
+
+3991,2001,Diabetes mellitus (E10-E14),Diabetes,Georgia,1475,22.1
+
+4013,2015,Diabetes mellitus (E10-E14),Diabetes,Idaho,403,22.1
+
+4089,2011,Diabetes mellitus (E10-E14),Diabetes,Kansas,711,22.1
+
+4237,2007,Diabetes mellitus (E10-E14),Diabetes,Mississippi,654,22.1
+
+4395,2011,Diabetes mellitus (E10-E14),Diabetes,North Carolina,2278,22.1
+
+4481,2015,Diabetes mellitus (E10-E14),Diabetes,Pennsylvania,3777,22.1
+
+4652,2006,Diabetes mellitus (E10-E14),Diabetes,Virginia,1632,22.1
+
+5680,2004,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Alabama,994,22.1
+
+5729,2009,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arkansas,705,22.1
+
+5933,2003,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Indiana,1365,22.1
+
+5984,2006,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Kentucky,927,22.1
+
+6130,2004,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Missouri,1389,22.1
+
+6187,2001,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Nevada,352,22.1
+
+6426,2014,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Tennessee,1602,22.1
+
+6427,2013,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Tennessee,1564,22.1
+
+6526,2004,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Virginia,1449,22.1
+
+6615,2005,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Alabama,1036,22.1
+
+8496,2014,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Alaska,167,22.1
+
+8693,2015,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Idaho,359,22.1
+

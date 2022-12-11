@@ -1,0 +1,6 @@
+4185,2005,Diabetes mellitus (E10-E14),Diabetes,Massachusetts,1271,17.7
+
+6986,2012,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Massachusetts,1271,15.5
+
+8512,2016,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Arizona,1271,17.7
+

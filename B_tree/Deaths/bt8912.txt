@@ -1,0 +1,4 @@
+3032,2006,Chronic lower respiratory diseases (J40-J47),CLRD,Florida,8912,37.5
+
+3032,2006,Chronic lower respiratory diseases (J40-J47),CLRD,Florida,8912,37.5
+

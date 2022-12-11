@@ -1,0 +1,8 @@
+3295,2013,Chronic lower respiratory diseases (J40-J47),CLRD,Mississippi,1755,54.3
+
+10043,2013,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Oregon,1755,40.1
+
+3295,2013,Chronic lower respiratory diseases (J40-J47),CLRD,Mississippi,1755,54.3
+
+10043,2013,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Oregon,1755,40.1
+

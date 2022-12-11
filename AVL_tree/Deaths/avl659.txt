@@ -1,0 +1,4 @@
+3900,2002,Diabetes mellitus (E10-E14),Diabetes,Colorado,659,18
+
+5759,2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Colorado,659,12.3
+

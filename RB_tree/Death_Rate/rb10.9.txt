@@ -1,0 +1,36 @@
+1200,2002,Alzheimer's disease (G30),Alzheimer's disease,Hawaii,141,10.9
+
+1568,2012,Alzheimer's disease (G30),Alzheimer's disease,New York,2640,10.9
+
+6083,2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Minnesota,738,10.9
+
+6506,2006,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Vermont,77,10.9
+
+8665,2007,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Georgia,997,10.9
+
+8689,2001,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Hawaii,136,10.9
+
+8779,2001,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Kansas,293,10.9
+
+8807,2009,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Louisiana,490,10.9
+
+8884,2004,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Michigan,1098,10.9
+
+8973,2005,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Nebraska,187,10.9
+
+8977,2001,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Nebraska,187,10.9
+
+9261,2005,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Texas,2418,10.9
+
+9265,2001,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Texas,2225,10.9
+
+9279,2005,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,United States,32637,10.9
+
+9334,2004,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Virginia,828,10.9
+
+9335,2003,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Virginia,808,10.9
+
+9336,2002,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Virginia,799,10.9
+
+9392,2000,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Wisconsin,590,10.9
+

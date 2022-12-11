@@ -1,0 +1,12 @@
+1199,2003,Alzheimer's disease (G30),Alzheimer's disease,Hawaii,161,11.9
+
+6374,2012,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Rhode Island,161,11.2
+
+7126,2016,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,New Hampshire,161,9.4
+
+7130,2012,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,New Hampshire,161,10.2
+
+8833,2001,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Maine,161,12.1
+
+9564,1999,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,District of Columbia,161,28.4
+

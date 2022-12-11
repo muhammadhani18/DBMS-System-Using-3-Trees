@@ -1,0 +1,8 @@
+84,2002,All Causes,All causes,Alaska,3030,802.4
+
+7992,2014,Cerebrovascular diseases (I60-I69),Stroke,Missouri,3030,41
+
+84,2002,All Causes,All causes,Alaska,3030,802.4
+
+7992,2014,Cerebrovascular diseases (I60-I69),Stroke,Missouri,3030,41
+

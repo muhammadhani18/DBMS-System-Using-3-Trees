@@ -1,0 +1,34 @@
+1408,2010,Alzheimer's disease (G30),Alzheimer's disease,Minnesota,1451,23.4
+
+1526,2000,Alzheimer's disease (G30),Alzheimer's disease,New Hampshire,273,23.4
+
+1847,2003,Alzheimer's disease (G30),Alzheimer's disease,Virginia,1466,23.4
+
+3005,2015,Chronic lower respiratory diseases (J40-J47),CLRD,District of Columbia,147,23.4
+
+3836,2012,Diabetes mellitus (E10-E14),Diabetes,Arizona,1736,23.4
+
+4104,2014,Diabetes mellitus (E10-E14),Diabetes,Kentucky,1175,23.4
+
+4165,2007,Diabetes mellitus (E10-E14),Diabetes,Maryland,1301,23.4
+
+4291,2007,Diabetes mellitus (E10-E14),Diabetes,Nebraska,472,23.4
+
+4329,2005,Diabetes mellitus (E10-E14),Diabetes,New Hampshire,310,23.4
+
+4465,2013,Diabetes mellitus (E10-E14),Diabetes,Oregon,1109,23.4
+
+4517,2015,Diabetes mellitus (E10-E14),Diabetes,South Carolina,1347,23.4
+
+4553,2015,Diabetes mellitus (E10-E14),Diabetes,Tennessee,1798,23.4
+
+4710,2002,Diabetes mellitus (E10-E14),Diabetes,Wisconsin,1353,23.4
+
+6100,2016,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Mississippi,785,23.4
+
+6594,2008,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Wyoming,123,23.4
+
+6611,2009,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Alabama,1180,23.4
+
+10088,2002,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Rhode Island,277,23.4
+

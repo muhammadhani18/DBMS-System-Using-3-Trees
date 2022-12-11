@@ -1,0 +1,4 @@
+1970,2006,Malignant neoplasms (C00-C97),Cancer,Arizona,9919,160
+
+4948,2016,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Idaho,2969,160
+

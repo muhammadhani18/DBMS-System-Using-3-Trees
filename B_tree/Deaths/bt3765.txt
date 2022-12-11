@@ -1,0 +1,12 @@
+3318,2008,Chronic lower respiratory diseases (J40-J47),CLRD,Missouri,3765,57.4
+
+4482,2014,Diabetes mellitus (E10-E14),Diabetes,Pennsylvania,3765,22
+
+8419,2001,Cerebrovascular diseases (I60-I69),Stroke,Washington,3765,68.1
+
+3318,2008,Chronic lower respiratory diseases (J40-J47),CLRD,Missouri,3765,57.4
+
+4482,2014,Diabetes mellitus (E10-E14),Diabetes,Pennsylvania,3765,22
+
+8419,2001,Cerebrovascular diseases (I60-I69),Stroke,Washington,3765,68.1
+

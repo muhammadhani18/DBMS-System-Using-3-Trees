@@ -1,0 +1,28 @@
+1215,2005,Alzheimer's disease (G30),Alzheimer's disease,Idaho,407,30.7
+
+4139,2015,Diabetes mellitus (E10-E14),Diabetes,Maine,407,21.9
+
+4295,2003,Diabetes mellitus (E10-E14),Diabetes,Nebraska,407,21.1
+
+7672,2010,Cerebrovascular diseases (I60-I69),Stroke,Delaware,407,40.7
+
+7679,2003,Cerebrovascular diseases (I60-I69),Stroke,Delaware,407,49.9
+
+8748,2014,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Iowa,407,12.9
+
+9750,2000,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Maine,407,30.9
+
+1215,2005,Alzheimer's disease (G30),Alzheimer's disease,Idaho,407,30.7
+
+4139,2015,Diabetes mellitus (E10-E14),Diabetes,Maine,407,21.9
+
+4295,2003,Diabetes mellitus (E10-E14),Diabetes,Nebraska,407,21.1
+
+7672,2010,Cerebrovascular diseases (I60-I69),Stroke,Delaware,407,40.7
+
+7679,2003,Cerebrovascular diseases (I60-I69),Stroke,Delaware,407,49.9
+
+8748,2014,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Iowa,407,12.9
+
+9750,2000,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Maine,407,30.9
+

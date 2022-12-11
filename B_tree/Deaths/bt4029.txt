@@ -1,0 +1,8 @@
+985,2001,All Causes,All causes,Wyoming,4029,858.8
+
+3114,2014,Chronic lower respiratory diseases (J40-J47),CLRD,Indiana,4029,54
+
+985,2001,All Causes,All causes,Wyoming,4029,858.8
+
+3114,2014,Chronic lower respiratory diseases (J40-J47),CLRD,Indiana,4029,54
+

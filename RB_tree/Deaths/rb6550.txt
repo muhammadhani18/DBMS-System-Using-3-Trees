@@ -1,0 +1,4 @@
+2024,2006,Malignant neoplasms (C00-C97),Cancer,Colorado,6550,157.5
+
+3548,2012,Chronic lower respiratory diseases (J40-J47),CLRD,Pennsylvania,6550,38.8
+

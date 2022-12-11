@@ -1,0 +1,16 @@
+2889,2005,Chronic lower respiratory diseases (J40-J47),CLRD,Alaska,158,42.7
+
+6736,2010,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Delaware,158,15.4
+
+7572,2002,Cerebrovascular diseases (I60-I69),Stroke,Alaska,158,56
+
+7573,2001,Cerebrovascular diseases (I60-I69),Stroke,Alaska,158,57.9
+
+8828,2006,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Maine,158,11
+
+8960,2000,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Montana,158,17.5
+
+9007,2007,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,New Hampshire,158,11.2
+
+9011,2003,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,New Hampshire,158,12
+

@@ -1,0 +1,4 @@
+2482,2016,Malignant neoplasms (C00-C97),Cancer,New Mexico,3560,138.8
+
+4480,2016,Diabetes mellitus (E10-E14),Diabetes,Pennsylvania,3560,20.3
+

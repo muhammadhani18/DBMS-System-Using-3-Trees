@@ -1,0 +1,4 @@
+1407,2011,Alzheimer's disease (G30),Alzheimer's disease,Minnesota,1451,22.8
+
+1408,2010,Alzheimer's disease (G30),Alzheimer's disease,Minnesota,1451,23.4
+

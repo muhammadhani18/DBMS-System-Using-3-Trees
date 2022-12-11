@@ -1,0 +1,6 @@
+2620,2004,Malignant neoplasms (C00-C97),Cancer,Pennsylvania,29424,196.1
+
+2715,1999,Malignant neoplasms (C00-C97),Cancer,Texas,32755,196.1
+
+5535,2007,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,United States,616067,196.1
+

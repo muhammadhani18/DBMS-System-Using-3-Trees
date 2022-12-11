@@ -1,0 +1,8 @@
+285,1999,All Causes,All causes,Idaho,9579,825.2
+
+760,2010,All Causes,All causes,Rhode Island,9579,721.7
+
+285,1999,All Causes,All causes,Idaho,9579,825.2
+
+760,2010,All Causes,All causes,Rhode Island,9579,721.7
+

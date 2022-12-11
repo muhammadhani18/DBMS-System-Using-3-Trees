@@ -1,0 +1,8 @@
+2334,2002,Malignant neoplasms (C00-C97),Cancer,Michigan,19985,199.9
+
+2335,2001,Malignant neoplasms (C00-C97),Cancer,Michigan,19689,199.9
+
+2532,2002,Malignant neoplasms (C00-C97),Cancer,North Carolina,16210,199.9
+
+5462,2007,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,South Carolina,8992,199.9
+

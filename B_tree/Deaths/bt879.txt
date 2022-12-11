@@ -1,0 +1,16 @@
+5978,2012,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Kentucky,879,18.7
+
+6323,2009,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Oklahoma,879,22.6
+
+6326,2006,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Oklahoma,879,23.6
+
+7899,1999,Cerebrovascular diseases (I60-I69),Stroke,Maine,879,61.2
+
+5978,2012,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Kentucky,879,18.7
+
+6323,2009,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Oklahoma,879,22.6
+
+6326,2006,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Oklahoma,879,23.6
+
+7899,1999,Cerebrovascular diseases (I60-I69),Stroke,Maine,879,61.2
+

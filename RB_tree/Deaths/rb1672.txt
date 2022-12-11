@@ -1,0 +1,4 @@
+6064,2016,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Michigan,1672,13.7
+
+6440,2000,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Tennessee,1672,30.9
+

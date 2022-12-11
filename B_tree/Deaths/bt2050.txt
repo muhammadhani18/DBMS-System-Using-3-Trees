@@ -1,0 +1,20 @@
+1867,2001,Alzheimer's disease (G30),Alzheimer's disease,Washington,2050,37.1
+
+3225,2011,Chronic lower respiratory diseases (J40-J47),CLRD,Maryland,2050,34.3
+
+4407,1999,Diabetes mellitus (E10-E14),Diabetes,North Carolina,2050,27
+
+7847,2015,Cerebrovascular diseases (I60-I69),Stroke,Kentucky,2050,40.8
+
+7848,2014,Cerebrovascular diseases (I60-I69),Stroke,Kentucky,2050,41.8
+
+1867,2001,Alzheimer's disease (G30),Alzheimer's disease,Washington,2050,37.1
+
+3225,2011,Chronic lower respiratory diseases (J40-J47),CLRD,Maryland,2050,34.3
+
+4407,1999,Diabetes mellitus (E10-E14),Diabetes,North Carolina,2050,27
+
+7847,2015,Cerebrovascular diseases (I60-I69),Stroke,Kentucky,2050,40.8
+
+7848,2014,Cerebrovascular diseases (I60-I69),Stroke,Kentucky,2050,41.8
+

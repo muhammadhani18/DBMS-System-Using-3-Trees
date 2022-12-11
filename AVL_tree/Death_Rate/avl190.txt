@@ -1,0 +1,12 @@
+1981,2013,Malignant neoplasms (C00-C97),Cancer,Arkansas,6688,190
+
+2652,2008,Malignant neoplasms (C00-C97),Cancer,South Carolina,9199,190
+
+2781,2005,Malignant neoplasms (C00-C97),Cancer,Virginia,13877,190
+
+4780,2004,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Arizona,10539,190
+
+5368,2011,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Ohio,26298,190
+
+5370,2009,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Ohio,25453,190
+

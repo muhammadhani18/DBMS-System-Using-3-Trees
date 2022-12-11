@@ -1,0 +1,14 @@
+1173,2011,Alzheimer's disease (G30),Alzheimer's disease,Georgia,2218,28.9
+
+1245,2011,Alzheimer's disease (G30),Alzheimer's disease,Indiana,2058,28.9
+
+1429,2007,Alzheimer's disease (G30),Alzheimer's disease,Mississippi,797,28.9
+
+1638,2014,Alzheimer's disease (G30),Alzheimer's disease,Oklahoma,1227,28.9
+
+4204,2004,Diabetes mellitus (E10-E14),Diabetes,Michigan,2953,28.9
+
+6062,2000,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Massachusetts,2078,28.9
+
+8064,2014,Cerebrovascular diseases (I60-I69),Stroke,New Hampshire,474,28.9
+

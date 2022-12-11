@@ -1,0 +1,12 @@
+3615,1999,Chronic lower respiratory diseases (J40-J47),CLRD,South Dakota,335,38.6
+
+3694,2010,Chronic lower respiratory diseases (J40-J47),CLRD,Vermont,335,45.3
+
+8382,2002,Cerebrovascular diseases (I60-I69),Stroke,Vermont,335,52
+
+3615,1999,Chronic lower respiratory diseases (J40-J47),CLRD,South Dakota,335,38.6
+
+3694,2010,Chronic lower respiratory diseases (J40-J47),CLRD,Vermont,335,45.3
+
+8382,2002,Cerebrovascular diseases (I60-I69),Stroke,Vermont,335,52
+

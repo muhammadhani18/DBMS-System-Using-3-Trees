@@ -1,0 +1,8 @@
+1396,2004,Alzheimer's disease (G30),Alzheimer's disease,Michigan,2232,22
+
+7608,2002,Cerebrovascular diseases (I60-I69),Stroke,Arkansas,2232,75.7
+
+1396,2004,Alzheimer's disease (G30),Alzheimer's disease,Michigan,2232,22
+
+7608,2002,Cerebrovascular diseases (I60-I69),Stroke,Arkansas,2232,75.7
+

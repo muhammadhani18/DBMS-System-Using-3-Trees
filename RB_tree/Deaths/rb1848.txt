@@ -1,0 +1,8 @@
+1840,2010,Alzheimer's disease (G30),Alzheimer's disease,Virginia,1848,24.5
+
+2964,2002,Chronic lower respiratory diseases (J40-J47),CLRD,Colorado,1848,53
+
+3138,2008,Chronic lower respiratory diseases (J40-J47),CLRD,Iowa,1848,49.4
+
+7843,2001,Cerebrovascular diseases (I60-I69),Stroke,Kansas,1848,60.9
+

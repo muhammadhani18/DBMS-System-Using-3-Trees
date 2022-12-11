@@ -1,0 +1,32 @@
+1616,2000,Alzheimer's disease (G30),Alzheimer's disease,North Dakota,209,24
+
+3955,2001,Diabetes mellitus (E10-E14),Diabetes,District of Columbia,209,37.4
+
+4420,2004,Diabetes mellitus (E10-E14),Diabetes,North Dakota,209,26.6
+
+6805,2013,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Hawaii,209,11.3
+
+7689,2011,Cerebrovascular diseases (I60-I69),Stroke,District of Columbia,209,34.2
+
+8467,2007,Cerebrovascular diseases (I60-I69),Stroke,Wyoming,209,40.5
+
+8822,2012,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Maine,209,14.5
+
+10211,1999,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Vermont,209,34.2
+
+1616,2000,Alzheimer's disease (G30),Alzheimer's disease,North Dakota,209,24
+
+3955,2001,Diabetes mellitus (E10-E14),Diabetes,District of Columbia,209,37.4
+
+4420,2004,Diabetes mellitus (E10-E14),Diabetes,North Dakota,209,26.6
+
+6805,2013,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Hawaii,209,11.3
+
+7689,2011,Cerebrovascular diseases (I60-I69),Stroke,District of Columbia,209,34.2
+
+8467,2007,Cerebrovascular diseases (I60-I69),Stroke,Wyoming,209,40.5
+
+8822,2012,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Maine,209,14.5
+
+10211,1999,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Vermont,209,34.2
+

@@ -1,0 +1,20 @@
+3895,2007,Diabetes mellitus (E10-E14),Diabetes,Colorado,710,16.8
+
+4095,2005,Diabetes mellitus (E10-E14),Diabetes,Kansas,710,23.8
+
+5724,2014,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arkansas,710,20.7
+
+9620,2011,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Idaho,710,44.7
+
+9904,1999,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Nevada,710,38.5
+
+3895,2007,Diabetes mellitus (E10-E14),Diabetes,Colorado,710,16.8
+
+4095,2005,Diabetes mellitus (E10-E14),Diabetes,Kansas,710,23.8
+
+5724,2014,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arkansas,710,20.7
+
+9620,2011,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Idaho,710,44.7
+
+9904,1999,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Nevada,710,38.5
+

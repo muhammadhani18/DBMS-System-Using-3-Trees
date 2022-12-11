@@ -1,0 +1,8 @@
+1623,2011,Alzheimer's disease (G30),Alzheimer's disease,Ohio,4037,28.5
+
+8311,2001,Cerebrovascular diseases (I60-I69),Stroke,Tennessee,4037,73.1
+
+1623,2011,Alzheimer's disease (G30),Alzheimer's disease,Ohio,4037,28.5
+
+8311,2001,Cerebrovascular diseases (I60-I69),Stroke,Tennessee,4037,73.1
+

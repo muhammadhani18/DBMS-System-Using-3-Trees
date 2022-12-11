@@ -1,0 +1,28 @@
+5956,2016,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Kansas,522,14.4
+
+6344,2006,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Oregon,522,12.6
+
+7495,2008,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,West Virginia,522,23
+
+8019,2005,Cerebrovascular diseases (I60-I69),Stroke,Montana,522,48.6
+
+8254,2004,Cerebrovascular diseases (I60-I69),Stroke,Rhode Island,522,39.8
+
+8809,2007,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Louisiana,522,12
+
+9135,2005,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Oklahoma,522,14.8
+
+5956,2016,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Kansas,522,14.4
+
+6344,2006,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Oregon,522,12.6
+
+7495,2008,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,West Virginia,522,23
+
+8019,2005,Cerebrovascular diseases (I60-I69),Stroke,Montana,522,48.6
+
+8254,2004,Cerebrovascular diseases (I60-I69),Stroke,Rhode Island,522,39.8
+
+8809,2007,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Louisiana,522,12
+
+9135,2005,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Oklahoma,522,14.8
+

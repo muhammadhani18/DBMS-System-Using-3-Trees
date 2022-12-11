@@ -1,0 +1,22 @@
+1579,2001,Alzheimer's disease (G30),Alzheimer's disease,New York,1705,8.5
+
+5834,2012,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Florida,2338,8.5
+
+6649,2007,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arizona,528,8.5
+
+6685,2007,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,California,2835,8.5
+
+6695,2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Colorado,458,8.5
+
+6696,2014,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Colorado,448,8.5
+
+6832,2004,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Idaho,109,8.5
+
+7445,2004,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Vermont,57,8.5
+
+8563,2001,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,California,2831,8.5
+
+8591,2009,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Connecticut,316,8.5
+
+8592,2008,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Connecticut,315,8.5
+

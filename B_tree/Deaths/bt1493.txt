@@ -1,0 +1,4 @@
+4256,2006,Diabetes mellitus (E10-E14),Diabetes,Missouri,1493,23.5
+
+4256,2006,Diabetes mellitus (E10-E14),Diabetes,Missouri,1493,23.5
+

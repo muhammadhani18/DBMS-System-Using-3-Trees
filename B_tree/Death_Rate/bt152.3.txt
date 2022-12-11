@@ -1,0 +1,4 @@
+2538,2014,Malignant neoplasms (C00-C97),Cancer,North Dakota,1304,152.3
+
+5077,2013,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Maine,2807,152.3
+

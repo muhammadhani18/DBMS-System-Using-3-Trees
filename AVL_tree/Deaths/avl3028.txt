@@ -1,0 +1,4 @@
+7554,2003,Cerebrovascular diseases (I60-I69),Stroke,Alabama,3028,67
+
+9924,2013,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,New Jersey,3028,31.8
+

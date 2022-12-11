@@ -1,0 +1,6 @@
+3312,2014,Chronic lower respiratory diseases (J40-J47),CLRD,Missouri,3762,51.4
+
+7726,2010,Cerebrovascular diseases (I60-I69),Stroke,Georgia,3762,46.3
+
+9592,2005,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Georgia,3762,45
+

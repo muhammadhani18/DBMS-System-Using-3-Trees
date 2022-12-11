@@ -1,0 +1,4 @@
+7328,2013,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,South Carolina,869,16
+
+8367,1999,Cerebrovascular diseases (I60-I69),Stroke,Utah,869,60.2
+

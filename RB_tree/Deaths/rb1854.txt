@@ -1,0 +1,4 @@
+2409,1999,Malignant neoplasms (C00-C97),Cancer,Montana,1854,195.1
+
+7989,1999,Cerebrovascular diseases (I60-I69),Stroke,Mississippi,1854,69.2
+

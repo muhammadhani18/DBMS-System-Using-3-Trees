@@ -1,0 +1,12 @@
+1103,2009,Alzheimer's disease (G30),Alzheimer's disease,Connecticut,778,16.3
+
+6322,2010,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Oklahoma,778,19.7
+
+9246,2002,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Tennessee,778,13.3
+
+1103,2009,Alzheimer's disease (G30),Alzheimer's disease,Connecticut,778,16.3
+
+6322,2010,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Oklahoma,778,19.7
+
+9246,2002,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Tennessee,778,13.3
+

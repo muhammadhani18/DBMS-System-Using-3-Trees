@@ -1,0 +1,8 @@
+3112,2016,Chronic lower respiratory diseases (J40-J47),CLRD,Indiana,4214,54.6
+
+7624,2004,Cerebrovascular diseases (I60-I69),Stroke,California,16882,54.6
+
+8056,2004,Cerebrovascular diseases (I60-I69),Stroke,Nevada,1030,54.6
+
+8345,2003,Cerebrovascular diseases (I60-I69),Stroke,United States,157689,54.6
+

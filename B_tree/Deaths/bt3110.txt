@@ -1,0 +1,4 @@
+9838,2014,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Missouri,3110,48.7
+
+9838,2014,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Missouri,3110,48.7
+

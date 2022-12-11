@@ -1,0 +1,8 @@
+4197,2011,Diabetes mellitus (E10-E14),Diabetes,Michigan,2811,24.6
+
+4390,2016,Diabetes mellitus (E10-E14),Diabetes,North Carolina,2811,23.5
+
+5271,2000,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,New Hampshire,2811,237.3
+
+7914,2002,Cerebrovascular diseases (I60-I69),Stroke,Maryland,2811,57.5
+

@@ -1,0 +1,6 @@
+2414,2012,Malignant neoplasms (C00-C97),Cancer,Nebraska,3479,164.7
+
+2419,2007,Malignant neoplasms (C00-C97),Cancer,Nebraska,3479,176.6
+
+8454,2002,Cerebrovascular diseases (I60-I69),Stroke,Wisconsin,3479,58.4
+

@@ -1,0 +1,8 @@
+4338,2014,Diabetes mellitus (E10-E14),Diabetes,New Jersey,2062,19.3
+
+4642,2016,Diabetes mellitus (E10-E14),Diabetes,Virginia,2062,21.7
+
+4338,2014,Diabetes mellitus (E10-E14),Diabetes,New Jersey,2062,19.3
+
+4642,2016,Diabetes mellitus (E10-E14),Diabetes,Virginia,2062,21.7
+

@@ -1,0 +1,8 @@
+2454,2008,Malignant neoplasms (C00-C97),Cancer,New Hampshire,2576,177.3
+
+6846,2008,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Illinois,2576,19.6
+
+2454,2008,Malignant neoplasms (C00-C97),Cancer,New Hampshire,2576,177.3
+
+6846,2008,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Illinois,2576,19.6
+

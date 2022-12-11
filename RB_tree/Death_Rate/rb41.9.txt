@@ -1,0 +1,20 @@
+3383,2015,Chronic lower respiratory diseases (J40-J47),CLRD,New Hampshire,705,41.9
+
+3646,2004,Chronic lower respiratory diseases (J40-J47),CLRD,Texas,7402,41.9
+
+4135,2001,Diabetes mellitus (E10-E14),Diabetes,Louisiana,1734,41.9
+
+7747,2007,Cerebrovascular diseases (I60-I69),Stroke,Hawaii,643,41.9
+
+8232,2008,Cerebrovascular diseases (I60-I69),Stroke,Pennsylvania,6942,41.9
+
+8319,2011,Cerebrovascular diseases (I60-I69),Stroke,Texas,9065,41.9
+
+9852,2000,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Missouri,2398,41.9
+
+9890,2013,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Nevada,1184,41.9
+
+9900,2003,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Nevada,911,41.9
+
+10229,2015,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Washington,3192,41.9
+

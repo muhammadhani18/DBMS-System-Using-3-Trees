@@ -1,0 +1,4 @@
+4488,2008,Diabetes mellitus (E10-E14),Diabetes,Pennsylvania,3313,20.8
+
+8395,2007,Cerebrovascular diseases (I60-I69),Stroke,Virginia,3313,45.7
+

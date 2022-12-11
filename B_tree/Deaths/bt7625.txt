@@ -1,0 +1,4 @@
+8130,2002,Cerebrovascular diseases (I60-I69),Stroke,New York,7625,37.9
+
+8130,2002,Cerebrovascular diseases (I60-I69),Stroke,New York,7625,37.9
+

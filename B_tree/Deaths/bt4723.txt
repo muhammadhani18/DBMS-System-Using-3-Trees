@@ -1,0 +1,8 @@
+198,2014,All Causes,All causes,District of Columbia,4723,743.8
+
+3106,2004,Chronic lower respiratory diseases (J40-J47),CLRD,Illinois,4723,38.1
+
+198,2014,All Causes,All causes,District of Columbia,4723,743.8
+
+3106,2004,Chronic lower respiratory diseases (J40-J47),CLRD,Illinois,4723,38.1
+

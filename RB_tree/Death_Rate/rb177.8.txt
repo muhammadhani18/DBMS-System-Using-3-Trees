@@ -1,0 +1,18 @@
+1952,2006,Malignant neoplasms (C00-C97),Cancer,Alaska,790,177.8
+
+2325,2011,Malignant neoplasms (C00-C97),Cancer,Michigan,20420,177.8
+
+2512,2004,Malignant neoplasms (C00-C97),Cancer,New York,36100,177.8
+
+2556,2014,Malignant neoplasms (C00-C97),Cancer,Ohio,25433,177.8
+
+2572,2016,Malignant neoplasms (C00-C97),Cancer,Oklahoma,8115,177.8
+
+2832,2008,Malignant neoplasms (C00-C97),Cancer,Wisconsin,11185,177.8
+
+5309,2016,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,New York,44076,177.8
+
+5418,2015,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Pennsylvania,32042,177.8
+
+5454,2015,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,South Carolina,10092,177.8
+

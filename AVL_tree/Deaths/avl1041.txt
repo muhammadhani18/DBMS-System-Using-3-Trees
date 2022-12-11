@@ -1,0 +1,6 @@
+1545,1999,Alzheimer's disease (G30),Alzheimer's disease,New Jersey,1041,12
+
+2074,2010,Malignant neoplasms (C00-C97),Cancer,District of Columbia,1041,178.3
+
+4476,2002,Diabetes mellitus (E10-E14),Diabetes,Oregon,1041,28.2
+

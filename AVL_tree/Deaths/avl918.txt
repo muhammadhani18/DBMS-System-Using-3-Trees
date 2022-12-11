@@ -1,0 +1,4 @@
+1045,2013,Alzheimer's disease (G30),Alzheimer's disease,Arkansas,918,27.2
+
+5678,2006,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Alabama,918,19.5
+

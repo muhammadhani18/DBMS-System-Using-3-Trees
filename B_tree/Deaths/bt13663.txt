@@ -1,0 +1,8 @@
+4992,2008,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Indiana,13663,201.6
+
+5581,2013,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Virginia,13663,157.3
+
+4992,2008,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Indiana,13663,201.6
+
+5581,2013,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Virginia,13663,157.3
+

@@ -1,0 +1,4 @@
+3853,2013,Diabetes mellitus (E10-E14),Diabetes,Arkansas,835,24.2
+
+3888,2014,Diabetes mellitus (E10-E14),Diabetes,Colorado,835,15.5
+

@@ -1,0 +1,12 @@
+1334,2012,Alzheimer's disease (G30),Alzheimer's disease,Maine,432,23.5
+
+1511,2015,Alzheimer's disease (G30),Alzheimer's disease,New Hampshire,432,25.5
+
+9604,2010,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Hawaii,432,29.6
+
+1334,2012,Alzheimer's disease (G30),Alzheimer's disease,Maine,432,23.5
+
+1511,2015,Alzheimer's disease (G30),Alzheimer's disease,New Hampshire,432,25.5
+
+9604,2010,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Hawaii,432,29.6
+

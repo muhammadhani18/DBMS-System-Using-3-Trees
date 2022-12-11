@@ -1,0 +1,6 @@
+1884,2002,Alzheimer's disease (G30),Alzheimer's disease,West Virginia,405,19.2
+
+7680,2002,Cerebrovascular diseases (I60-I69),Stroke,Delaware,405,51.4
+
+9917,2003,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,New Hampshire,405,31.5
+

@@ -1,0 +1,22 @@
+1748,2012,Alzheimer's disease (G30),Alzheimer's disease,Tennessee,2434,36.3
+
+1754,2006,Alzheimer's disease (G30),Alzheimer's disease,Tennessee,2115,36.3
+
+3227,2009,Chronic lower respiratory diseases (J40-J47),CLRD,Maryland,2064,36.3
+
+3574,2004,Chronic lower respiratory diseases (J40-J47),CLRD,Rhode Island,463,36.3
+
+4130,2006,Diabetes mellitus (E10-E14),Diabetes,Louisiana,1536,36.3
+
+7757,2015,Cerebrovascular diseases (I60-I69),Stroke,Idaho,641,36.3
+
+7939,2013,Cerebrovascular diseases (I60-I69),Stroke,Michigan,4373,36.3
+
+8090,2006,Cerebrovascular diseases (I60-I69),Stroke,New Jersey,3468,36.3
+
+9749,2001,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Maine,490,36.3
+
+9915,2005,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,New Hampshire,477,36.3
+
+10207,2003,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Vermont,235,36.3
+

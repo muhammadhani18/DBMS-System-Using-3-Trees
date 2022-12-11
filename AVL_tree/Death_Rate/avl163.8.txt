@@ -1,0 +1,6 @@
+2005,2007,Malignant neoplasms (C00-C97),Cancer,California,55011,163.8
+
+4901,2009,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Florida,41274,163.8
+
+5637,2011,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Wisconsin,11266,163.8
+

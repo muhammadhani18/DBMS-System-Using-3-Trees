@@ -1,0 +1,8 @@
+2063,2003,Malignant neoplasms (C00-C97),Cancer,Delaware,1719,201.5
+
+2234,2012,Malignant neoplasms (C00-C97),Cancer,Kentucky,10012,201.5
+
+5124,2003,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Massachusetts,14634,201.5
+
+5445,2006,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Rhode Island,2718,201.5
+

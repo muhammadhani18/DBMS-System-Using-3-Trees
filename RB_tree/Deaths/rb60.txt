@@ -1,0 +1,6 @@
+5699,2003,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Alaska,60,21.2
+
+6502,2010,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Vermont,60,8
+
+6753,2011,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,District of Columbia,60,10
+

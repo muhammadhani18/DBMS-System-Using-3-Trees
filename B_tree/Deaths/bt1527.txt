@@ -1,0 +1,8 @@
+5355,2006,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,North Dakota,1527,182
+
+6129,2005,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Missouri,1527,24
+
+5355,2006,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,North Dakota,1527,182
+
+6129,2005,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Missouri,1527,24
+

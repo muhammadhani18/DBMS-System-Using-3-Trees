@@ -1,0 +1,8 @@
+3168,2014,Chronic lower respiratory diseases (J40-J47),CLRD,Kentucky,3214,63.8
+
+3513,2011,Chronic lower respiratory diseases (J40-J47),CLRD,Oklahoma,2637,63.8
+
+7878,2002,Cerebrovascular diseases (I60-I69),Stroke,Louisiana,2595,63.8
+
+9945,2009,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,New Mexico,1281,63.8
+

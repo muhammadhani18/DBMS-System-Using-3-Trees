@@ -1,0 +1,10 @@
+3245,2009,Chronic lower respiratory diseases (J40-J47),CLRD,Massachusetts,2559,33.8
+
+7688,2012,Cerebrovascular diseases (I60-I69),Stroke,District of Columbia,207,33.8
+
+8009,2015,Cerebrovascular diseases (I60-I69),Stroke,Montana,458,33.8
+
+8046,2014,Cerebrovascular diseases (I60-I69),Stroke,Nevada,948,33.8
+
+9646,2002,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Illinois,4222,33.8
+

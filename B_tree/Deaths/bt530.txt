@@ -1,0 +1,12 @@
+4622,2000,Diabetes mellitus (E10-E14),Diabetes,Utah,530,34.8
+
+8861,2009,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Massachusetts,530,7.8
+
+9205,2007,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,South Carolina,530,11.6
+
+4622,2000,Diabetes mellitus (E10-E14),Diabetes,Utah,530,34.8
+
+8861,2009,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Massachusetts,530,7.8
+
+9205,2007,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,South Carolina,530,11.6
+

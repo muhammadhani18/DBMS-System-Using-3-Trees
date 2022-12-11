@@ -1,0 +1,14 @@
+1115,2015,Alzheimer's disease (G30),Alzheimer's disease,Delaware,264,22.6
+
+1704,2002,Alzheimer's disease (G30),Alzheimer's disease,Rhode Island,264,19.5
+
+3999,2011,Diabetes mellitus (E10-E14),Diabetes,Hawaii,264,15.6
+
+6423,1999,Influenza and pneumonia (J09-J18),Influenza and pneumonia,South Dakota,264,28.2
+
+6958,2004,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Maine,264,17.1
+
+7091,2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Nebraska,264,11.2
+
+8378,2006,Cerebrovascular diseases (I60-I69),Stroke,Vermont,264,38.1
+

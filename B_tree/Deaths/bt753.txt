@@ -1,0 +1,20 @@
+3430,2004,Chronic lower respiratory diseases (J40-J47),CLRD,New Mexico,753,42
+
+3897,2005,Diabetes mellitus (E10-E14),Diabetes,Colorado,753,19.3
+
+4686,2008,Diabetes mellitus (E10-E14),Diabetes,West Virginia,753,32.7
+
+5993,2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Louisiana,753,15.3
+
+9198,2014,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,South Carolina,753,15.2
+
+3430,2004,Chronic lower respiratory diseases (J40-J47),CLRD,New Mexico,753,42
+
+3897,2005,Diabetes mellitus (E10-E14),Diabetes,Colorado,753,19.3
+
+4686,2008,Diabetes mellitus (E10-E14),Diabetes,West Virginia,753,32.7
+
+5993,2015,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Louisiana,753,15.3
+
+9198,2014,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,South Carolina,753,15.2
+

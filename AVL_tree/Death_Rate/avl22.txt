@@ -1,0 +1,52 @@
+1040,2000,Alzheimer's disease (G30),Alzheimer's disease,Arizona,1045,22
+
+1073,2003,Alzheimer's disease (G30),Alzheimer's disease,California,6585,22
+
+1378,2004,Alzheimer's disease (G30),Alzheimer's disease,Massachusetts,1673,22
+
+1394,2006,Alzheimer's disease (G30),Alzheimer's disease,Michigan,2331,22
+
+1396,2004,Alzheimer's disease (G30),Alzheimer's disease,Michigan,2232,22
+
+1433,2003,Alzheimer's disease (G30),Alzheimer's disease,Mississippi,583,22
+
+1486,2004,Alzheimer's disease (G30),Alzheimer's disease,Nebraska,459,22
+
+1703,2003,Alzheimer's disease (G30),Alzheimer's disease,Rhode Island,303,22
+
+1902,2002,Alzheimer's disease (G30),Alzheimer's disease,Wisconsin,1344,22
+
+1915,2007,Alzheimer's disease (G30),Alzheimer's disease,Wyoming,110,22
+
+3070,2004,Chronic lower respiratory diseases (J40-J47),CLRD,Hawaii,307,22
+
+3828,2002,Diabetes mellitus (E10-E14),Diabetes,Alaska,86,22
+
+4039,2007,Diabetes mellitus (E10-E14),Diabetes,Illinois,2851,22
+
+4076,2006,Diabetes mellitus (E10-E14),Diabetes,Iowa,804,22
+
+4245,1999,Diabetes mellitus (E10-E14),Diabetes,Mississippi,593,22
+
+4341,2011,Diabetes mellitus (E10-E14),Diabetes,New Jersey,2222,22
+
+4412,2012,Diabetes mellitus (E10-E14),Diabetes,North Dakota,185,22
+
+4482,2014,Diabetes mellitus (E10-E14),Diabetes,Pennsylvania,3765,22
+
+4596,2008,Diabetes mellitus (E10-E14),Diabetes,United States,70553,22
+
+5679,2005,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Alabama,1011,22
+
+6180,2008,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Nevada,496,22
+
+6661,2013,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Arkansas,762,22
+
+6862,2010,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Indiana,1516,22
+
+7037,2015,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Mississippi,731,22
+
+7119,2005,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Nevada,438,22
+
+9971,2000,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,New York,4244,22
+

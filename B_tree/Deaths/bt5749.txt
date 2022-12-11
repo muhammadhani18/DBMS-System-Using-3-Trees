@@ -1,0 +1,8 @@
+5029,2007,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Kansas,5749,180.8
+
+8150,2000,Cerebrovascular diseases (I60-I69),Stroke,North Carolina,5749,78.5
+
+5029,2007,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Kansas,5749,180.8
+
+8150,2000,Cerebrovascular diseases (I60-I69),Stroke,North Carolina,5749,78.5
+

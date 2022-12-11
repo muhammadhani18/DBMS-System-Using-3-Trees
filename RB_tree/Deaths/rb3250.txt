@@ -1,0 +1,4 @@
+1744,2016,Alzheimer's disease (G30),Alzheimer's disease,Tennessee,3250,44.2
+
+10133,2008,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Tennessee,3250,51.5
+

@@ -1,0 +1,12 @@
+1401,1999,Alzheimer's disease (G30),Alzheimer's disease,Michigan,1431,15.4
+
+5352,2009,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,North Dakota,1431,165.8
+
+7148,2012,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,New Jersey,1431,13.6
+
+1401,1999,Alzheimer's disease (G30),Alzheimer's disease,Michigan,1431,15.4
+
+5352,2009,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,North Dakota,1431,165.8
+
+7148,2012,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,New Jersey,1431,13.6
+

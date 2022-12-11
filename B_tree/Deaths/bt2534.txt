@@ -1,0 +1,8 @@
+2456,2006,Malignant neoplasms (C00-C97),Cancer,New Hampshire,2534,183.9
+
+9655,2010,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Indiana,2534,38.5
+
+2456,2006,Malignant neoplasms (C00-C97),Cancer,New Hampshire,2534,183.9
+
+9655,2010,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Indiana,2534,38.5
+

@@ -1,0 +1,6 @@
+2745,2005,Malignant neoplasms (C00-C97),Cancer,Utah,2520,140.9
+
+3242,2012,Chronic lower respiratory diseases (J40-J47),CLRD,Massachusetts,2520,31.7
+
+8444,2012,Cerebrovascular diseases (I60-I69),Stroke,Wisconsin,2520,36
+

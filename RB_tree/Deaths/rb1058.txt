@@ -1,0 +1,8 @@
+1088,2006,Alzheimer's disease (G30),Alzheimer's disease,Colorado,1058,28.1
+
+3847,2001,Diabetes mellitus (E10-E14),Diabetes,Arizona,1058,20.3
+
+5711,2009,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arizona,1058,16.2
+
+10182,2011,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Utah,1058,42.9
+

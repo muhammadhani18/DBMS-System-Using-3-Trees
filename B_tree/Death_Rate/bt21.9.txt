@@ -1,0 +1,60 @@
+1120,2010,Alzheimer's disease (G30),Alzheimer's disease,Delaware,215,21.9
+
+1208,2012,Alzheimer's disease (G30),Alzheimer's disease,Idaho,354,21.9
+
+1224,2014,Alzheimer's disease (G30),Alzheimer's disease,Illinois,3266,21.9
+
+1233,2005,Alzheimer's disease (G30),Alzheimer's disease,Illinois,2827,21.9
+
+1278,2014,Alzheimer's disease (G30),Alzheimer's disease,Kansas,790,21.9
+
+1450,2004,Alzheimer's disease (G30),Alzheimer's disease,Missouri,1381,21.9
+
+1476,2014,Alzheimer's disease (G30),Alzheimer's disease,Nebraska,515,21.9
+
+1777,2001,Alzheimer's disease (G30),Alzheimer's disease,Texas,3439,21.9
+
+3006,2014,Chronic lower respiratory diseases (J40-J47),CLRD,District of Columbia,136,21.9
+
+3073,2001,Chronic lower respiratory diseases (J40-J47),CLRD,Hawaii,280,21.9
+
+3971,2003,Diabetes mellitus (E10-E14),Diabetes,Florida,4762,21.9
+
+4040,2006,Diabetes mellitus (E10-E14),Diabetes,Illinois,2795,21.9
+
+4139,2015,Diabetes mellitus (E10-E14),Diabetes,Maine,407,21.9
+
+4282,2016,Diabetes mellitus (E10-E14),Diabetes,Nebraska,501,21.9
+
+4489,2007,Diabetes mellitus (E10-E14),Diabetes,Pennsylvania,3442,21.9
+
+4513,2001,Diabetes mellitus (E10-E14),Diabetes,Rhode Island,265,21.9
+
+4574,2012,Diabetes mellitus (E10-E14),Diabetes,Texas,5136,21.9
+
+4643,2015,Diabetes mellitus (E10-E14),Diabetes,Virginia,2044,21.9
+
+4708,2004,Diabetes mellitus (E10-E14),Diabetes,Wisconsin,1310,21.9
+
+5726,2012,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Arkansas,734,21.9
+
+5772,2002,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Colorado,752,21.9
+
+5787,2005,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Connecticut,956,21.9
+
+5914,2004,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Illinois,2779,21.9
+
+6040,2004,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Maryland,1111,21.9
+
+6108,2008,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Mississippi,626,21.9
+
+6293,2003,Influenza and pneumonia (J09-J18),Influenza and pneumonia,North Dakota,189,21.9
+
+6429,2011,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Tennessee,1480,21.9
+
+6797,2003,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Georgia,1471,21.9
+
+6921,2005,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Kentucky,912,21.9
+
+7494,2009,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,West Virginia,504,21.9
+

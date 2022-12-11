@@ -1,0 +1,28 @@
+2884,2010,Chronic lower respiratory diseases (J40-J47),CLRD,Alaska,176,41.5
+
+4410,2014,Diabetes mellitus (E10-E14),Diabetes,North Dakota,176,19.9
+
+6143,2009,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Montana,176,14.8
+
+6372,2014,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Rhode Island,176,11.7
+
+6737,2009,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Delaware,176,17.7
+
+6811,2007,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Hawaii,176,11.7
+
+8975,2003,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Nebraska,176,10.2
+
+2884,2010,Chronic lower respiratory diseases (J40-J47),CLRD,Alaska,176,41.5
+
+4410,2014,Diabetes mellitus (E10-E14),Diabetes,North Dakota,176,19.9
+
+6143,2009,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Montana,176,14.8
+
+6372,2014,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Rhode Island,176,11.7
+
+6737,2009,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Delaware,176,17.7
+
+6811,2007,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Hawaii,176,11.7
+
+8975,2003,"Intentional self-harm (suicide) (*U03,X60-X84,Y87.0)",Suicide,Nebraska,176,10.2
+

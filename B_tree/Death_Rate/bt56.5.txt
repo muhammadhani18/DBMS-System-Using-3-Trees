@@ -1,0 +1,4 @@
+8060,2000,Cerebrovascular diseases (I60-I69),Stroke,Nevada,872,56.5
+
+10288,2007,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wyoming,299,56.5
+

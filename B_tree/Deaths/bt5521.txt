@@ -1,0 +1,8 @@
+4571,2015,Diabetes mellitus (E10-E14),Diabetes,Texas,5521,21.2
+
+6255,2005,Influenza and pneumonia (J09-J18),Influenza and pneumonia,New York,5521,26.3
+
+4571,2015,Diabetes mellitus (E10-E14),Diabetes,Texas,5521,21.2
+
+6255,2005,Influenza and pneumonia (J09-J18),Influenza and pneumonia,New York,5521,26.3
+

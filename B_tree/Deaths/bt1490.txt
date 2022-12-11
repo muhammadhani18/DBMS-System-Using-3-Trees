@@ -1,0 +1,8 @@
+3749,2009,Chronic lower respiratory diseases (J40-J47),CLRD,West Virginia,1490,63.9
+
+7149,2011,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,New Jersey,1490,14.5
+
+3749,2009,Chronic lower respiratory diseases (J40-J47),CLRD,West Virginia,1490,63.9
+
+7149,2011,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,New Jersey,1490,14.5
+

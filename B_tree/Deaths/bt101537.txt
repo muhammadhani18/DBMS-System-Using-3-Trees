@@ -1,0 +1,4 @@
+10175,2001,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,United States,101537,35.7
+
+10175,2001,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,United States,101537,35.7
+

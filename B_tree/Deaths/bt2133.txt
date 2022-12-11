@@ -1,0 +1,8 @@
+1397,2003,Alzheimer's disease (G30),Alzheimer's disease,Michigan,2133,21.4
+
+2135,2003,Malignant neoplasms (C00-C97),Cancer,Hawaii,2133,157.4
+
+1397,2003,Alzheimer's disease (G30),Alzheimer's disease,Michigan,2133,21.4
+
+2135,2003,Malignant neoplasms (C00-C97),Cancer,Hawaii,2133,157.4
+

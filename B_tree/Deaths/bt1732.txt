@@ -1,0 +1,8 @@
+7818,2008,Cerebrovascular diseases (I60-I69),Stroke,Iowa,1732,43.6
+
+9754,2013,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Maryland,1732,27.9
+
+7818,2008,Cerebrovascular diseases (I60-I69),Stroke,Iowa,1732,43.6
+
+9754,2013,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Maryland,1732,27.9
+

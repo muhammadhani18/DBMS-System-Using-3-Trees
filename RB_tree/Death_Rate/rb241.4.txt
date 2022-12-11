@@ -1,0 +1,6 @@
+2085,1999,Malignant neoplasms (C00-C97),Cancer,District of Columbia,1340,241.4
+
+5048,2006,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Kentucky,10353,241.4
+
+5066,2006,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Louisiana,10026,241.4
+

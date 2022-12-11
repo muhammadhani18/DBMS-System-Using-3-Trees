@@ -1,0 +1,4 @@
+10134,2007,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Tennessee,3257,52.4
+
+10134,2007,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Tennessee,3257,52.4
+

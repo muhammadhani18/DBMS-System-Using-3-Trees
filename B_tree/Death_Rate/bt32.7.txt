@@ -1,0 +1,16 @@
+998,2006,Alzheimer's disease (G30),Alzheimer's disease,Alabama,1497,32.7
+
+1031,2009,Alzheimer's disease (G30),Alzheimer's disease,Arizona,2097,32.7
+
+1342,2004,Alzheimer's disease (G30),Alzheimer's disease,Maine,512,32.7
+
+3481,2007,Chronic lower respiratory diseases (J40-J47),CLRD,North Dakota,265,32.7
+
+4686,2008,Diabetes mellitus (E10-E14),Diabetes,West Virginia,753,32.7
+
+7690,2010,Cerebrovascular diseases (I60-I69),Stroke,District of Columbia,196,32.7
+
+8084,2012,Cerebrovascular diseases (I60-I69),Stroke,New Jersey,3440,32.7
+
+8152,2016,Cerebrovascular diseases (I60-I69),Stroke,North Dakota,311,32.7
+

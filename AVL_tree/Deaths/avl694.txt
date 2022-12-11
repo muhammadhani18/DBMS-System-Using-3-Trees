@@ -1,0 +1,4 @@
+5784,2008,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Connecticut,694,15.1
+
+5969,2003,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Kansas,694,22.3
+

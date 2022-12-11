@@ -1,0 +1,12 @@
+1486,2004,Alzheimer's disease (G30),Alzheimer's disease,Nebraska,459,22
+
+6171,1999,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Nebraska,459,23
+
+6560,2006,Influenza and pneumonia (J09-J18),Influenza and pneumonia,West Virginia,459,21.1
+
+1486,2004,Alzheimer's disease (G30),Alzheimer's disease,Nebraska,459,22
+
+6171,1999,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Nebraska,459,23
+
+6560,2006,Influenza and pneumonia (J09-J18),Influenza and pneumonia,West Virginia,459,21.1
+

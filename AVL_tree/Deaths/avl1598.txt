@@ -1,0 +1,4 @@
+6054,2008,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Massachusetts,1598,20.1
+
+10047,2009,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Oregon,1598,39.3
+

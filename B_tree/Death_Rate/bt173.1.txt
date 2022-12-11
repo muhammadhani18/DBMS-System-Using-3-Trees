@@ -1,0 +1,6 @@
+2199,2011,Malignant neoplasms (C00-C97),Cancer,Iowa,6481,173.1
+
+2220,2008,Malignant neoplasms (C00-C97),Cancer,Kansas,5294,173.1
+
+2672,2006,Malignant neoplasms (C00-C97),Cancer,South Dakota,1570,173.1
+

@@ -1,0 +1,8 @@
+2428,2016,Malignant neoplasms (C00-C97),Cancer,Nevada,5214,157.3
+
+5004,2014,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Iowa,6615,157.3
+
+5075,2015,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Maine,3009,157.3
+
+5581,2013,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Virginia,13663,157.3
+

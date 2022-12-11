@@ -1,0 +1,6 @@
+1983,2011,Malignant neoplasms (C00-C97),Cancer,Arkansas,6497,191.1
+
+2406,2002,Malignant neoplasms (C00-C97),Cancer,Montana,1911,191.1
+
+2577,2011,Malignant neoplasms (C00-C97),Cancer,Oklahoma,7997,191.1
+

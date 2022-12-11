@@ -1,0 +1,8 @@
+3807,2005,Diabetes mellitus (E10-E14),Diabetes,Alabama,1429,29.9
+
+5575,2001,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Vermont,1429,224.1
+
+3807,2005,Diabetes mellitus (E10-E14),Diabetes,Alabama,1429,29.9
+
+5575,2001,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Vermont,1429,224.1
+

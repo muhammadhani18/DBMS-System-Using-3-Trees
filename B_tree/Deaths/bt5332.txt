@@ -1,0 +1,4 @@
+2225,2003,Malignant neoplasms (C00-C97),Cancer,Kansas,5332,185.9
+
+2225,2003,Malignant neoplasms (C00-C97),Cancer,Kansas,5332,185.9
+

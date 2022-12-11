@@ -1,0 +1,12 @@
+1857,2011,Alzheimer's disease (G30),Alzheimer's disease,Washington,3138,43.4
+
+3126,2002,Chronic lower respiratory diseases (J40-J47),CLRD,Indiana,3138,51.5
+
+7296,2008,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Pennsylvania,3138,19.2
+
+1857,2011,Alzheimer's disease (G30),Alzheimer's disease,Washington,3138,43.4
+
+3126,2002,Chronic lower respiratory diseases (J40-J47),CLRD,Indiana,3138,51.5
+
+7296,2008,"Nephritis, nephrotic syndrome and nephrosis (N00-N07,N17-N19,N25-N27)",Kidney disease,Pennsylvania,3138,19.2
+

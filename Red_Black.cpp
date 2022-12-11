@@ -4,91 +4,96 @@
 #include <fstream>
 using namespace std;
 
+#include <iostream>
+#include <string>
+#include <cstring>
+#include <fstream>
+using namespace std;
+
 template <class T>
 struct Node
 {
     T data;
-    Node *parent;
-    Node *left;
-    Node *right;
-    int color;
+    Node* parent;
+    Node* left;
+    Node* right;
+    int col;
 };
 
 template <class Q>
 class RedBlackTree
 {
-private:
-    Node<Q> *root;
-    Node<Q> *TNULL;
+public:
+    Node<Q>* root;
+    Node<Q>* temp;
 
-    void Init(Node<Q> *node, Node<Q> *parent)
+    RedBlackTree()
     {
-        node->data = 0;
-        node->parent = parent;
-        node->left = nullptr;
-        node->right = nullptr;
-        node->color = 0;
+        temp = new Node<Q>;
+        temp->col = 0;
+        temp->left = nullptr;
+        temp->right = nullptr;
+        root = temp;
     }
-
-    // Inorder
-    void print_InOrder(Node<Q> *node)
+    // Inorder traversal
+    void print_InOrder(Node<Q>* t)
     {
-        if (node != TNULL)
+        if (t != temp)
         {
-            print_InOrder(node->left);
-            cout << node->data << " ";
-            print_InOrder(node->right);
+            print_InOrder(t->left);
+            cout << t->data << " ";
+            print_InOrder(t->right);
         }
     }
 
-    Node<Q> *searchTreeHelper(Node<Q> *node, Q key)
+    Node<Q>* Search_Tree(Node<Q>* t, Q key)
     {
-        if (node == TNULL || key == node->data)
+        if (t == temp || key == t->data)
         {
-            return node;
+            return t;
         }
-
-        if (key < node->data)
+        if (key < t->data)
         {
-            return searchTreeHelper(node->left, key);
+            return Search_Tree(t->left, key);
         }
-        return searchTreeHelper(node->right, key);
+        return Search_Tree(t->right, key);
     }
 
-    void deleteFix(Node<Q> *x)
+    //fixing when deleted 
+    void deleteFix(Node<Q>* x)
     {
-        Node<Q> *s;
-        while (x != root && x->color == 0)
+        Node<Q>* s;
+        while (x != root && x->col == 0)
         {
             if (x == x->parent->left)
             {
                 s = x->parent->right;
-                if (s->color == 1)
+                if (s->col == 1)
                 {
-                    s->color = 0;
-                    x->parent->color = 1;
+                    s->col = 0;
+                    x->parent->col = 1;
                     leftRotate(x->parent);
                     s = x->parent->right;
                 }
 
-                if (s->left->color == 0 && s->right->color == 0)
+                if (s->left->col == 0 && s->right->col == 0)
                 {
-                    s->color = 1;
+                    s->col = 1;
                     x = x->parent;
                 }
                 else
                 {
-                    if (s->right->color == 0)
+                    if (s->right->col == 0)
                     {
-                        s->left->color = 0;
-                        s->color = 1;
+                        s->left->col = 0;
+                        s->col = 1;
                         rightRotate(s);
                         s = x->parent->right;
                     }
 
-                    s->color = x->parent->color;
-                    x->parent->color = 0;
-                    s->right->color = 0;
+                    s->col = x->parent->col;
+                    x->parent->col = 0;
+                    s->right->col = 0;
                     leftRotate(x->parent);
                     x = root;
                 }
@@ -96,41 +101,41 @@ private:
             else
             {
                 s = x->parent->left;
-                if (s->color == 1)
+                if (s->col == 1)
                 {
-                    s->color = 0;
-                    x->parent->color = 1;
+                    s->col = 0;
+                    x->parent->col = 1;
                     rightRotate(x->parent);
                     s = x->parent->left;
                 }
 
-                if (s->right->color == 0 && s->right->color == 0)
+                if (s->right->col == 0 && s->right->col == 0)
                 {
-                    s->color = 1;
+                    s->col = 1;
                     x = x->parent;
                 }
                 else
                 {
-                    if (s->left->color == 0)
+                    if (s->left->col == 0)
                     {
-                        s->right->color = 0;
-                        s->color = 1;
+                        s->right->col = 0;
+                        s->col = 1;
                         leftRotate(s);
                         s = x->parent->left;
                     }
 
-                    s->color = x->parent->color;
-                    x->parent->color = 0;
-                    s->left->color = 0;
+                    s->col = x->parent->col;
+                    x->parent->col = 0;
+                    s->left->col = 0;
                     rightRotate(x->parent);
                     x = root;
                 }
             }
         }
-        x->color = 0;
+        x->col = 0;
     }
 
-    void rbTransplant(Node<Q> *u, Node<Q> *v)
+    void rbTransplant(Node<Q>* u, Node<Q>* v)
     {
         if (u->parent == nullptr)
         {
@@ -147,11 +152,11 @@ private:
         v->parent = u->parent;
     }
 
-    void deleteNodeHelper(Node<Q> *node, Q key)
+    void deleteNodeHelper(Node<Q>* node, Q key)
     {
-        Node<Q> *z = TNULL;
-        Node<Q> *x, *y;
-        while (node != TNULL)
+        Node<Q>* z = temp;
+        Node<Q>* x, * y;
+        while (node != temp)
         {
             if (node->data == key)
             {
@@ -168,20 +173,20 @@ private:
             }
         }
 
-        if (z == TNULL)
+        if (z == temp)
         {
             cout << "Key not found in the tree" << endl;
             return;
         }
 
         y = z;
-        int y_original_color = y->color;
-        if (z->left == TNULL)
+        int y_original_col = y->col;
+        if (z->left == temp)
         {
             x = z->right;
             rbTransplant(z, z->right);
         }
-        else if (z->right == TNULL)
+        else if (z->right == temp)
         {
             x = z->left;
             rbTransplant(z, z->left);
@@ -189,7 +194,7 @@ private:
         else
         {
             y = minimum(z->right);
-            y_original_color = y->color;
+            y_original_col = y->col;
             x = y->right;
             if (y->parent == z)
             {
@@ -205,29 +210,30 @@ private:
             rbTransplant(z, y);
             y->left = z->left;
             y->left->parent = y;
-            y->color = z->color;
+            y->col = z->col;
         }
         delete z;
-        if (y_original_color == 0)
+        if (y_original_col == 0)
         {
             deleteFix(x);
         }
     }
 
-    // For balancing the tree after insertion
-    void insertFix(Node<Q> *k)
+    
+    void insertFix(Node<Q>* k) // For balancing the tree after insertion
     {
-        Node<Q> *u;
-        while (k->parent->color == 1)
+        Node<Q>* temp;
+
+        while (k->parent->col == 1)
         {
             if (k->parent == k->parent->parent->right)
             {
-                u = k->parent->parent->left;
-                if (u->color == 1)
+                temp = k->parent->parent->left;
+                if (temp->col == 1) //changing color if red
                 {
-                    u->color = 0;
-                    k->parent->color = 0;
-                    k->parent->parent->color = 1;
+                    temp->col = 0;
+                    k->parent->col = 0;
+                    k->parent->parent->col = 1;
                     k = k->parent->parent;
                 }
                 else
@@ -235,47 +241,53 @@ private:
                     if (k == k->parent->left)
                     {
                         k = k->parent;
-                        rightRotate(k);
+                        rightRotate(k); //rotating right
                     }
-                    k->parent->color = 0;
-                    k->parent->parent->color = 1;
+                    int m = 0;
+
+                    k->parent->col = 0; //changing color of parent to black
+
+                    k->parent->parent->col = 1; //now making it's parent red and then left rotating it
+
                     leftRotate(k->parent->parent);
                 }
             }
-            else
+            else // if parent is not equal to the grandparent's right
             {
-                u = k->parent->parent->right;
+                temp = k->parent->parent->right;
 
-                if (u->color == 1)
+                if (temp->col == 1) //if red
                 {
-                    u->color = 0;
-                    k->parent->color = 0;
-                    k->parent->parent->color = 1;
+                    temp->col = 0; //change it to black
+                    k->parent->col = 0;
+                    k->parent->parent->col = 1;
+                    //switching colors
                     k = k->parent->parent;
                 }
                 else
                 {
-                    if (k == k->parent->right)
+                    if (k == k->parent->right) //if black then left rotate then right rotate to fix balance 
                     {
                         k = k->parent;
                         leftRotate(k);
                     }
-                    k->parent->color = 0;
-                    k->parent->parent->color = 1;
+                    int q = 0;
+                    k->parent->col = 0;
+                    k->parent->parent->col = 1;
                     rightRotate(k->parent->parent);
                 }
             }
-            if (k == root)
+            if (k == root) 
             {
                 break;
             }
         }
-        root->color = 0;
+        root->col = 0;
     }
 
-    void printHelper(Node<Q> *root, string indent, bool last)
+    void printHelper(Node<Q>* root, string indent, bool last)
     {
-        if (root != TNULL)
+        if (root != temp)
         {
             cout << indent;
             if (last)
@@ -289,60 +301,51 @@ private:
                 indent += "|  ";
             }
 
-            string sColor = root->color ? "RED" : "BLACK";
-            cout << root->data << "(" << sColor << ")" << endl;
+            string scol = root->col ? "RED" : "BLACK";
+            cout << root->data << "(" << scol << ")" << endl;
             printHelper(root->left, indent, false);
             printHelper(root->right, indent, true);
         }
     }
 
-public:
-    RedBlackTree()
-    {
-        TNULL = new Node<Q>;
-        TNULL->color = 0;
-        TNULL->left = nullptr;
-        TNULL->right = nullptr;
-        root = TNULL;
-    }
 
     void inorder()
     {
         print_InOrder(this->root);
     }
 
-    Node<Q> *searchTree(Q k)
+    Node<Q>* searchTree(Q k)
     {
-        return searchTreeHelper(this->root, k);
+        return Search_Tree(this->root, k);
     }
 
-    Node<Q> *minimum(Node<Q> *node)
+    Node<Q>* minimum(Node<Q>* node)
     {
-        while (node->left != TNULL)
+        while (node->left != temp)
         {
             node = node->left;
         }
         return node;
     }
 
-    Node<Q> *maximum(Node<Q> *node)
+    Node<Q>* maximum(Node<Q>* node)
     {
-        while (node->right != TNULL)
+        while (node->right != temp)
         {
             node = node->right;
         }
         return node;
     }
 
-    Node<Q> *successor(Node<Q> *x)
+    Node<Q>* successor(Node<Q>* x)
     {
-        if (x->right != TNULL)
+        if (x->right != temp)
         {
             return minimum(x->right);
         }
 
-        Node<Q> *y = x->parent;
-        while (y != TNULL && x == y->right)
+        Node<Q>* y = x->parent;
+        while (y != temp && x == y->right)
         {
             x = y;
             y = y->parent;
@@ -350,15 +353,15 @@ public:
         return y;
     }
 
-    Node<Q> *predecessor(Node<Q> *x)
+    Node<Q>* predecessor(Node<Q>* x)
     {
-        if (x->left != TNULL)
+        if (x->left != temp)
         {
             return maximum(x->left);
         }
 
-        Node<Q> *y = x->parent;
-        while (y != TNULL && x == y->left)
+        Node<Q>* y = x->parent;
+        while (y != temp && x == y->left)
         {
             x = y;
             y = y->parent;
@@ -367,11 +370,11 @@ public:
         return y;
     }
 
-    void leftRotate(Node<Q> *x)
+    void leftRotate(Node<Q>* x)
     {
-        Node<Q> *y = x->right;
+        Node<Q>* y = x->right;
         x->right = y->left;
-        if (y->left != TNULL)
+        if (y->left != temp)
         {
             y->left->parent = x;
         }
@@ -392,11 +395,11 @@ public:
         x->parent = y;
     }
 
-    void rightRotate(Node<Q> *x)
+    void rightRotate(Node<Q>* x)
     {
-        Node<Q> *y = x->left;
+        Node<Q>* y = x->left;
         x->left = y->right;
-        if (y->right != TNULL)
+        if (y->right != temp)
         {
             y->right->parent = x;
         }
@@ -420,17 +423,17 @@ public:
     // Inserting a node
     void insert(Q key)
     {
-        Node<Q> *node = new Node<Q>;
+        Node<Q>* node = new Node<Q>;
         node->parent = nullptr;
         node->data = key;
-        node->left = TNULL;
-        node->right = TNULL;
-        node->color = 1;
+        node->left = temp;
+        node->right = temp;
+        node->col = 1;
 
-        Node<Q> *y = nullptr;
-        Node<Q> *x = this->root;
+        Node<Q>* y = nullptr;
+        Node<Q>* x = this->root;
 
-        while (x != TNULL)
+        while (x != temp)
         {
             y = x;
             if (node->data < x->data)
@@ -459,7 +462,7 @@ public:
 
         if (node->parent == nullptr)
         {
-            node->color = 0;
+            node->col = 0;
             return;
         }
 
@@ -471,7 +474,7 @@ public:
         insertFix(node);
     }
 
-    Node<Q> *getRoot()
+    Node<Q>* getRoot()
     {
         return this->root;
     }
@@ -560,7 +563,7 @@ void DeleteRecord_RBTree(string key, RedBlackTree<string> *t)
     }
 }
 
-void PointSearch_RBTree(RedBlackTree<string> *t, string key)
+void PointSearch_RBTree(RedBlackTree<string> *t, string key,int index)
 {
     if (t->searchTree((key)) == NULL)
     {
@@ -570,7 +573,28 @@ void PointSearch_RBTree(RedBlackTree<string> *t, string key)
     else
     {
         string data = "";
-        string filename = "./B_tree/bt" + key + ".txt";
+        string filename;
+        if(index == 1) {
+            filename = "./RB_tree/ID/rb" + key + ".txt";
+        }
+        if(index == 2) {
+            filename = "./RB_tree/Year/rb" + key + ".txt";
+        }
+        if(index == 3) {
+            filename = "./RB_tree/113_Cause_Name/rb" + key + ".txt";
+        }
+        if(index == 4) {
+            filename = "./RB_tree/Cause_Name/rb" + key + ".txt";
+        }
+        if(index == 5) {
+            filename = "./RB_tree/State/rb" + key + ".txt";
+        }
+        if(index == 6) {
+            filename = "./RB_tree/Deaths/rb" + key + ".txt";
+        }
+        if(index == 7) {
+            filename = "./RB_tree/Death_Rate/rb" + key + ".txt";
+        }
         ifstream fin(filename);
         if (!fin)
         {
@@ -578,9 +602,14 @@ void PointSearch_RBTree(RedBlackTree<string> *t, string key)
             return;
         }
 
-        getline(fin, data, '\n');
-        cout << "The data for " << key << " is: " << data << endl;
+        while(!fin.eof()){
 
+                getline(fin, data, '\n');
+                if(data!="") {
+                    cout << "The data for " << key << " is: " << data << endl;
+                }
+
+            }
         return;
     }
 }
@@ -610,9 +639,8 @@ void RangeSearch_RBTree(RedBlackTree<string> *t)
         }
         else
         {
-
             string filename = "";
-            filename = "./B_tree/" + choice + "/bt" + to_string(i) + ".txt";
+            filename = "./RB_tree/" + choice + "/rb" + to_string(i) + ".txt";
             ifstream fr;
             fr.open(filename);
             if (!fr)
@@ -636,19 +664,515 @@ void RangeSearch_RBTree(RedBlackTree<string> *t)
     }
 }
 
-// int main()
-// {
-//     RedBlackTree<int> bst;
-//     bst.insert(55);
-//     bst.insert(40);
-//     bst.insert(65);
-//     bst.insert(60);
-//     bst.insert(75);
-//     bst.insert(57);
 
-//     bst.printTree();
-//     cout << endl
-//          << "After deleting" << endl;
-//     bst.deleteNode(40);
-//     bst.printTree();
-// }
+void IndexRBTree(RedBlackTree<string> *t, int index)
+{
+    fstream fin;
+
+    int option;
+    int count = 0;
+    string one;
+
+    switch (index)
+    {
+    case 2:
+    {
+        system("CLS");
+
+        for (int i = 1; i <= 10; i++)
+        {
+            string file_name = "NCHS_-_Leading_Causes_of_Death__United_States_";
+            file_name.append(to_string(i));
+            file_name.append(".csv");
+
+            fin.open(file_name);
+            getline(fin, one, '\n');
+
+            count = 1;
+            string Year;
+
+            while (!fin.eof())
+            {
+                for (int i = 0; i < count; i++)
+                    getline(fin, one, ',');
+                
+                getline(fin, Year, ',');
+                
+                ofstream fw("./RB_tree/Year/rb" + Year + ".txt", ios::app);
+                fw << one << ",";
+                getline(fin, one);
+                fw << one << endl;
+                fw.close();
+
+                t->insert(Year);
+                //cout << Year << endl;
+            }
+            fin.close();
+        }
+        system("Pause");
+        break;
+    }
+    case 3:
+    {
+        system("CLS");
+        for (int i = 1; i <= 10; i++)
+        {
+            string file_name = "NCHS_-_Leading_Causes_of_Death__United_States_";
+            file_name.append(to_string(i));
+            file_name.append(".csv");
+
+            fin.open(file_name);
+            getline(fin, one, '\n');
+
+            count = 2;
+            string cause_name;
+            string id;
+            while (!fin.eof())
+            {
+                string temp = "";
+                for (int i = 0; i < count; i++) {
+                    getline(fin, one, ',');
+                    temp+=one;
+                    temp+=',';
+                }
+
+                // Last line
+                if (one == "")
+                    break;
+
+                getline(fin, cause_name, ',');
+
+                string extra = "";
+                bool yes = false;
+                getline(fin, one, '\n');
+                one += "\n";
+                int j = 0;
+                while (one[j] != '\n')
+                {
+                    if (one[j] == '"')
+                    {
+                        yes = true;
+                        break;
+                    }
+                    extra += one[j];
+                    j++;
+                }
+
+                temp+=cause_name;
+                temp+=',';
+                if (yes)
+                {
+                    cause_name += extra;
+                    cause_name += '"';
+                }
+                temp+=one;
+                ofstream fw("./RB_tree/113_Cause_Name/rb" + cause_name + ".txt", ios::app);
+                fw << temp << endl;
+                fw.close();
+
+                t->insert(cause_name);
+            }
+            fin.close();
+        }
+        system("Pause");
+        break;
+    }
+    case 4:
+    {
+        system("CLS");
+        for (int i = 1; i <= 10; i++)
+        {
+            string file_name = "NCHS_-_Leading_Causes_of_Death__United_States_";
+            file_name.append(to_string(i));
+            file_name.append(".csv");
+
+            fin.open(file_name);
+            getline(fin, one, '\n');
+            int m = 0;
+            count = 2;
+            string cause_name;
+
+            while (!fin.eof())
+            {
+                string temp="";
+                for (int i = 0; i < count; i++)
+                {
+                    getline(fin, one, ',');
+                    temp += one;
+                    temp += ',';
+                }
+                if (one == "")
+                    break;
+
+                getline(fin, cause_name, ',');
+
+                string extra = "";
+                bool yes = false;
+                getline(fin, one, '\n');
+                one += "\n";
+                int j = 0;
+                while (one[j] != '\n')
+                {
+                    if (one[j] == '"')
+                    {
+                        yes = true;
+                        break;
+                    }
+                    extra += one[j];
+                    j++;
+                }
+
+                temp +=cause_name;
+                temp+=',';
+                if (yes)
+                {
+                    cause_name += extra;
+                    cause_name += '"';
+                }
+                temp+=one;
+                cause_name = "";
+                int k = 0;
+                if (yes)
+                    k = j + 2;
+
+                while (one[k] != ',')
+                {
+                    cause_name += one[k];
+                    k++;
+                }
+                m++;
+                
+                ofstream fw("./RB_tree/Cause_Name/rb" + cause_name + ".txt", ios::app);
+                fw << temp << endl;
+                fw.close();
+
+                t->insert(cause_name);
+                
+            }
+            
+
+            fin.close();
+        }
+        system("Pause");
+        break;
+    }
+    case 5:
+    {
+        system("CLS");
+        for (int i = 1; i <= 10; i++)
+        {
+            string file_name = "NCHS_-_Leading_Causes_of_Death__United_States_";
+            file_name.append(to_string(i));
+            file_name.append(".csv");
+
+            fin.open(file_name);
+            getline(fin, one, '\n');
+            count = 2;
+            string cause_name;
+
+            while (!fin.eof())
+            {
+                string temp="";
+                for (int i = 0; i < count; i++)
+                {
+                    getline(fin, one, ',');
+                    temp+=one;
+                    temp+=',';
+                }
+                if (one == "")
+                    break;
+
+                getline(fin, cause_name, ',');
+
+                string extra = "";
+                bool yes = false;
+                getline(fin, one, '\n');
+                one += "\n";
+                int j = 0;
+                while (one[j] != '\n')
+                {
+                    if (one[j] == '"')
+                    {
+                        yes = true;
+                        break;
+                    }
+                    extra += one[j];
+                    j++;
+                }
+                temp+=cause_name;
+                temp+=',';
+                if (yes)
+                {
+                    cause_name += extra;
+                    cause_name += '"';
+                }
+                temp+=one;
+                cause_name = "";
+                int k = 0;
+                if (yes)
+                    k = j + 2;
+
+                while (one[k] != ',')
+                {
+                    cause_name += one[k];
+                    k++;
+                }
+                k++;
+                cause_name = "";
+                while (one[k] != ',')
+                {
+                    cause_name += one[k];
+                    k++;
+                }
+                ofstream fw("./RB_tree/State/rb" + cause_name + ".txt", ios::app);
+                fw << temp << endl;
+                fw.close();
+
+                t->insert(cause_name);
+                
+            }
+            fin.close();
+        }
+        system("Pause");
+        break;
+    }
+    case 6:
+    {
+        system("CLS");
+        for (int i = 1; i <= 10; i++)
+        {
+            string file_name = "NCHS_-_Leading_Causes_of_Death__United_States_";
+            file_name.append(to_string(i));
+            file_name.append(".csv");
+
+            fin.open(file_name);
+            getline(fin, one, '\n');
+            count = 2;
+            string cause_name;
+
+            while (!fin.eof())
+            {
+                string temp="";
+                for (int i = 0; i < count; i++)
+                {
+                    getline(fin, one, ',');
+                    temp+=one;
+                    temp+=',';
+                }
+                if (one == "")
+                    break;
+
+                getline(fin, cause_name, ',');
+
+                string extra = "";
+                bool yes = false;
+                getline(fin, one, '\n');
+                one += "\n";
+                int j = 0;
+                while (one[j] != '\n')
+                {
+                    if (one[j] == '"')
+                    {
+                        yes = true;
+                        break;
+                    }
+                    extra += one[j];
+                    j++;
+                }
+                temp+=cause_name;
+                temp+=',';
+                if (yes)   
+                {
+                    cause_name += extra;
+                    cause_name += '"';
+                }
+                temp+=one;
+                cause_name = "";
+                int k = 0;
+                if (yes)
+                    k = j + 2;
+
+                while (one[k] != ',')
+                {
+                    cause_name += one[k];
+                    k++;
+                }
+                k++;
+                cause_name = "";
+                while (one[k] != ',')
+                {
+                    cause_name += one[k];
+                    k++;
+                }
+                k++;
+                cause_name = "";
+                while (one[k] != ',')
+                {
+                    cause_name += one[k];
+                    k++;
+                }
+                ofstream fw("./RB_tree/Deaths/rb" + cause_name + ".txt", ios::app);
+                fw << temp << endl;
+                fw.close();
+
+                t->insert(cause_name);
+                
+            }
+            fin.close();
+        }
+        system("Pause");
+        break;
+    }
+    case 7:
+    {
+        system("CLS");
+        for (int i = 1; i <= 10; i++)
+        {
+            string file_name = "NCHS_-_Leading_Causes_of_Death__United_States_";
+            file_name.append(to_string(i));
+            file_name.append(".csv");
+
+            fin.open(file_name);
+            getline(fin, one, '\n');
+            count = 2;
+            string cause_name;
+
+            while (!fin.eof())
+            {
+                string temp="";
+                for (int i = 0; i < count; i++)
+                {
+                    getline(fin, one, ',');
+                    temp+=one;
+                    temp+=',';
+                }
+                if (one == "")
+                    break;
+
+                getline(fin, cause_name, ',');
+
+                string extra = "";
+                bool yes = false;
+                getline(fin, one, '\n');
+                one += "\n";
+                int j = 0;
+                while (one[j] != '\n')
+                {
+                    if (one[j] == '"')
+                    {
+                        yes = true;
+                        break;
+                    }
+                    extra += one[j];
+                    j++;
+                }
+                temp+=cause_name;
+                temp+=',';
+                if (yes)
+                {
+                    cause_name += extra;
+                    cause_name += '"';
+                }
+                temp+=one;
+                cause_name = "";
+                int k = 0;
+                if (yes)
+                    k = j + 2;
+
+                while (one[k] != ',')
+                {
+                    cause_name += one[k];
+                    k++;
+                }
+                k++;
+                cause_name = "";
+                while (one[k] != ',')
+                {
+                    cause_name += one[k];
+                    k++;
+                }
+                k++;
+                cause_name = "";
+                while (one[k] != ',')
+                {
+                    cause_name += one[k];
+                    k++;
+                }
+                k++;
+                cause_name = "";
+                while (one[k] != '\n')
+                {
+                    cause_name += one[k];
+                    k++;
+                }
+                ofstream fw("./RB_tree/Death_Rate/rb" + cause_name + ".txt", ios::app);
+                fw << temp << endl;
+                fw.close();
+
+                t->insert(cause_name);
+               
+            }
+            fin.close();
+        }
+        system("Pause");
+        break;
+    }
+    case 8:
+    {
+        exit(1);
+    }
+    }
+}
+
+
+void DeleteRecord_RBTree(string key, RedBlackTree<string> *t,int index)
+{
+
+    if (t->searchTree(key) == NULL)
+    {
+        cout << "Key not found to be Deleted\n";
+        return;
+    }
+    else
+    {
+        t->deleteNode(key);
+        string filename;
+        if(index == 1) {
+            filename = "./RB_tree/ID/rb" + key + ".txt";
+        }
+        if(index == 2) {
+            filename = "./RB_tree/Year/rb" + key + ".txt";
+        }
+        if(index == 3) {
+            filename = "./RB_tree/113_Cause_Name/rb" + key + ".txt";
+        }
+        if(index == 4) {
+            filename = "./RB_tree/Cause_Name/rb" + key + ".txt";
+        }
+        if(index == 5) {
+            filename = "./RB_tree/State/rb" + key + ".txt";
+        }
+        if(index == 6) {
+            filename = "./RB_tree/Deaths/rb" + key + ".txt";
+        }
+        if(index == 7) {
+            filename = "./RB_tree/Death_Rate/rb" + key + ".txt";
+        }
+        
+        int length = filename.length();
+        char char_array[length + 1];
+
+        strcpy(char_array, filename.c_str());
+
+        int r = remove(char_array);
+
+        if (r == 0)
+        {
+            cout << "File remove succeessfully\n";
+        }
+        else
+        {
+            cout << "File not removed\n";
+        }
+    }
+}

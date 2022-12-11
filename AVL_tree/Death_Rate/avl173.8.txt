@@ -1,0 +1,6 @@
+1975,2001,Malignant neoplasms (C00-C97),Cancer,Arizona,9143,173.8
+
+5442,2009,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,Rhode Island,2411,173.8
+
+5453,2016,"Diseases of heart (I00-I09,I11,I13,I20-I51)",Heart disease,South Carolina,10195,173.8
+

@@ -1,0 +1,8 @@
+1,2016,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Alabama,2755,55.5
+
+3116,2012,Chronic lower respiratory diseases (J40-J47),CLRD,Indiana,3962,55.5
+
+3119,2009,Chronic lower respiratory diseases (J40-J47),CLRD,Indiana,3745,55.5
+
+10294,2001,"Accidents (unintentional injuries) (V01-X59,Y85-Y86)",Unintentional injuries,Wyoming,272,55.5
+

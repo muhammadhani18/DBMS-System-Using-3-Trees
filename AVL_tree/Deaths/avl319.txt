@@ -1,0 +1,4 @@
+6189,1999,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Nevada,319,22.2
+
+6384,2002,Influenza and pneumonia (J09-J18),Influenza and pneumonia,Rhode Island,319,24.4
+

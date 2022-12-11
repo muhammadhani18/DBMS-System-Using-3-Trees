@@ -1,0 +1,6 @@
+2054,2012,Malignant neoplasms (C00-C97),Cancer,Delaware,1935,177
+
+2350,2004,Malignant neoplasms (C00-C97),Cancer,Minnesota,9093,177
+
+2598,2008,Malignant neoplasms (C00-C97),Cancer,Oregon,7479,177
+
