@@ -1,4 +1,6 @@
 #include <iostream>
+#include <string>
+#include <cstring>
 #include <fstream>
 using namespace std;
 
@@ -6,27 +8,26 @@ template <typename T>
 struct ANode
 {
 	T data;
-	ANode<T>* left;
-	ANode<T>* right;
+	ANode<T> *left;
+	ANode<T> *right;
 	int height;
 	ANode()
 	{
 		left = NULL;
 		right = NULL;
-
 	}
 };
 template <typename Q>
 class AVLTree
 {
 public:
-	ANode<Q>* root;
+	ANode<Q> *root;
 	AVLTree()
 	{
 		root = NULL;
 	}
 
-	int GetHeight(ANode<Q>* current) 
+	int GetHeight(ANode<Q> *current)
 	{
 		if ((current->left != NULL) && (current->right != NULL))
 		{
@@ -45,7 +46,7 @@ public:
 		}
 		return 0;
 	}
-	int balance(ANode<Q>* current)
+	int balance(ANode<Q> *current)
 	{
 		if ((current->left != NULL) && (current->right != NULL))
 		{
@@ -59,33 +60,32 @@ public:
 		{
 			return current->left->height;
 		}
-
 	}
-	ANode<Q>* left_left_rotate(ANode<Q>* temp)
+	ANode<Q> *left_left_rotate(ANode<Q> *temp)
 	{
-		ANode<Q>* temp2;
-		ANode<Q>* temp3;
+		ANode<Q> *temp2;
+		ANode<Q> *temp3;
 		temp2 = temp;
 		temp3 = temp2->left;
 		temp2->left = temp3->right;
 		temp3->right = temp2;
 		return temp3;
 	}
-	ANode<Q>* right_right_rotate(ANode<Q>* temp)
+	ANode<Q> *right_right_rotate(ANode<Q> *temp)
 	{
-		ANode<Q>* temp2;
-		ANode<Q>* temp3;
+		ANode<Q> *temp2;
+		ANode<Q> *temp3;
 		temp2 = temp;
 		temp3 = temp2->right;
 		temp2->right = temp3->left;
 		temp3->left = temp2;
 		return temp3;
 	}
-	ANode<Q>* right_left_rotate(ANode<Q>* temp)
-	{					//temp = n
-		ANode<Q>* temp2;//temp2 =p
-		ANode<Q>* temp3;// temp3 = tp 
-		ANode<Q>* temp4;// temp4 = tp2
+	ANode<Q> *right_left_rotate(ANode<Q> *temp)
+	{					 // temp = n
+		ANode<Q> *temp2; // temp2 =p
+		ANode<Q> *temp3; // temp3 = tp
+		ANode<Q> *temp4; // temp4 = tp2
 		temp2 = temp;
 		temp3 = temp2->right;
 		temp4 = temp2->right->left;
@@ -98,12 +98,11 @@ public:
 		return temp4;
 	}
 
-
-	ANode<Q>* left_right_rotate(ANode<Q>* temp)
+	ANode<Q> *left_right_rotate(ANode<Q> *temp)
 	{
-		ANode<Q>* temp2;
-		ANode<Q>* temp3;
-		ANode<Q>* temp4;
+		ANode<Q> *temp2;
+		ANode<Q> *temp3;
+		ANode<Q> *temp4;
 		temp2 = temp;
 		temp3 = temp2->left;
 		temp4 = temp2->left->right;
@@ -115,24 +114,24 @@ public:
 
 		return temp4;
 	}
-	ANode<Q>* Pre_Order_Successor(ANode<Q>* current) {
+	ANode<Q> *Pre_Order_Successor(ANode<Q> *current)
+	{
 		while (current->right != NULL)
 			current = current->right;
 		return current;
 	}
-	ANode<Q>* In_Order_Successor(ANode<Q>* current) {
+	ANode<Q> *In_Order_Successor(ANode<Q> *current)
+	{
 		while (current->left != NULL)
 			current = current->left;
 		return current;
 	}
 
-
-
-	ANode<Q>* Insert(ANode<Q>* current, Q value)
+	ANode<Q> *Insert(ANode<Q> *current, Q value)
 	{
 		if (current == NULL)
 		{
-			ANode<Q>* temp = new ANode<Q>;
+			ANode<Q> *temp = new ANode<Q>;
 			temp->data = value;
 			current = temp;
 			current->left = NULL;
@@ -150,7 +149,6 @@ public:
 
 		current->height = GetHeight(current);
 
-
 		if ((balance(current) > 1) && (balance(current->left) == 1))
 			current = left_left_rotate(current);
 		else if ((balance(current) < -1) && (balance(current->right) == -1))
@@ -162,29 +160,36 @@ public:
 		return current;
 	}
 
-	ANode<Q>* deleteNode(ANode<Q>* current, Q data) {
+	ANode<Q> *deleteNode(ANode<Q> *current, Q data)
+	{
 
-		if (current->left == NULL && current->right == NULL) {
+		if (current->left == NULL && current->right == NULL)
+		{
 			if (current == this->root)
 				this->root = NULL;
 			delete current;
 			return NULL;
 		}
 
-		ANode<Q>* temp2;
-		if (current->data < data) {
+		ANode<Q> *temp2;
+		if (current->data < data)
+		{
 			current->right = deleteNode(current->right, data);
 		}
-		else if (current->data > data) {
+		else if (current->data > data)
+		{
 			current->left = deleteNode(current->left, data);
 		}
-		else {
-			if (current->left != NULL) {
+		else
+		{
+			if (current->left != NULL)
+			{
 				temp2 = Pre_Order_Successor(current->left);
 				current->data = temp2->data;
 				current->left = deleteNode(current->left, temp2->data);
 			}
-			else {
+			else
+			{
 				temp2 = In_Order_Successor(current->right);
 				current->data = temp2->data;
 				current->right = deleteNode(current->right, temp2->data);
@@ -192,70 +197,49 @@ public:
 		}
 		if (current->height == -2)
 			cout << "Lmao";
-		if (balance(current) == 2 && balance(current->left) == 1) 
-		{ 
-			current = left_left_rotate(current); 
-		}
-		else if (balance(current) == 2 && balance(current->left) == -1) 
+		if (balance(current) == 2 && balance(current->left) == 1)
 		{
-			current = left_right_rotate(current); 
-		}
-		else if (balance(current) == 2 && balance(current->left) == 0) 
-		{ 
 			current = left_left_rotate(current);
 		}
-		else if (balance(current) == -2 && balance(current->right) == -1) 
+		else if (balance(current) == 2 && balance(current->left) == -1)
 		{
-			current = right_right_rotate(current); 
+			current = left_right_rotate(current);
 		}
-		else if (balance(current) == -2 && balance(current->right) == 1) 
-		{ 
-			current = right_left_rotate(current); 
+		else if (balance(current) == 2 && balance(current->left) == 0)
+		{
+			current = left_left_rotate(current);
 		}
-		else if (balance(current) == -2 && balance(current->right) == 0) 
-		{ 
-			current = left_left_rotate(current); 
+		else if (balance(current) == -2 && balance(current->right) == -1)
+		{
+			current = right_right_rotate(current);
 		}
-
+		else if (balance(current) == -2 && balance(current->right) == 1)
+		{
+			current = right_left_rotate(current);
+		}
+		else if (balance(current) == -2 && balance(current->right) == 0)
+		{
+			current = left_left_rotate(current);
+		}
 
 		return current;
 	}
 
+	void PreOrderTraversal(ANode<Q> *current, Q key)
+	{
+		if (current != NULL)
+		{
+			if (current->data == key)
+			{
+				cout << "Key found in AVL tree\n";
+				return;
+			}
+			PreOrderTraversal(current->left, key);
+			PreOrderTraversal(current->right, key);
+		}
+	}
 
-	void PreOrderTraversal(ANode<Q>* current)
-	{
-		if (current != NULL)
-		{
-			cout << current->data << " ";
-			PreOrderTraversal(current->left);
-			PreOrderTraversal(current->right);
-		}
-		else
-			return;
-	}
-	void PostOrderTraversal(ANode<Q>* current)
-	{
-		if (current != NULL)
-		{
-			PostOrderTraversal(current->left);
-			PostOrderTraversal(current->right);
-			cout << current->data << " ";
-		}
-		else
-			return;
-	}
-	void InOrderTraversal(ANode<Q>* current)
-	{
-		if (current != NULL)
-		{
-			InOrderTraversal(current->left);
-			cout << current->data << " ";
-			InOrderTraversal(current->right);
-		}
-		else
-			return;
-	}
-	ANode<Q>* Root()
+	ANode<Q> *Root()
 	{
 		return this->root;
 	}
@@ -263,40 +247,127 @@ public:
 
 void IndexOnIDAVL(string index, AVLTree<string> *t)
 {
-    string s, garbage;
-    string file_name;
+	string s, garbage;
+	string file_name;
 
-    int counter = 0;
+	int counter = 0;
 
-    for (int i = 1; i <= 10; i++)
-    {
-        ifstream fin;
-        file_name = "";
-        file_name = "NCHS_-_Leading_Causes_of_Death__United_States_";
-        file_name.append(to_string(i));
-        file_name.append(".csv");
-        fin.open(file_name);
-        if (!fin)
-        {
-            cout << "File not opened\n";
-        }
-        else
-        {
-            getline(fin, garbage, '\n');
-            while (!fin.eof())
-            {
+	for (int i = 1; i <= 10; i++)
+	{
+		ifstream fin;
+		file_name = "";
+		file_name = "NCHS_-_Leading_Causes_of_Death__United_States_";
+		file_name.append(to_string(i));
+		file_name.append(".csv");
+		fin.open(file_name);
+		if (!fin)
+		{
+			cout << "File not opened\n";
+		}
+		else
+		{
+			getline(fin, garbage, '\n');
+			while (!fin.eof())
+			{
 
+				getline(fin, s, ',');
 
-                getline(fin, s, ',');
+				t->root = t->Insert(t->root, s);
 
-				t->root = t->Insert(t->root,s);
+				ofstream fw("./AVL_tree/ID/avl" + s + ".txt");
+				getline(fin, garbage, '\n');
+				fw << garbage << endl;
+				fw.close();
+			}
+			fin.close();
+		}
+	}
+}
 
-                ofstream fw("./AVL_tree/ID/avl" + s + ".txt");
-                getline(fin, garbage, '\n');
-                fw << garbage << endl;
-                fw.close();
-            }
-            fin.close();
-        }
-    }
+void PointSearch_AVLTree(AVLTree<string> *t, string key)
+{
+	{
+		string data = "";
+		string filename = "./AVL_tree/ID/avl" + key + ".txt";
+		ifstream fin(filename);
+		if (!fin)
+		{
+			cout << "ID with this key not found\n";
+			return;
+		}
+
+		t->PreOrderTraversal(t->root, key);
+		getline(fin, data, '\n');
+		cout << "The data for " << key << " is: " << data << endl;
+
+		return;
+	}
+}
+
+void DeleteRecord_AVLTree(string key, AVLTree<string> *t)
+{
+
+	{
+		cout << "Entered\n";
+		t->root = t->deleteNode(t->root, key);
+		string filename = "./AVL_tree/ID/avl" + key + ".txt";
+		int length = filename.length();
+		char char_array[length + 1];
+
+		strcpy(char_array, filename.c_str());
+
+		int r = remove(char_array);
+
+		if (r == 0)
+		{
+			cout << "File remove succeessfully\n";
+		}
+		else
+		{
+			cout << "File not removed\n";
+		}
+	}
+}
+
+void RangeSearch_AVLTree(AVLTree<string> *t)
+{
+	int starting, ending;
+	string choice;
+	cout << "Enter on which field to perform Range Search\n";
+	cin >> choice;
+	cout << "Enter starting point: ";
+	cin >> starting;
+	cout << "Enter endiing point: ";
+	cin >> ending;
+
+	if (starting > ending)
+	{
+		cout << "Not valid\n";
+		return;
+	}
+	for (int i = starting; i <= ending; i++)
+	{
+
+		string filename = "";
+		filename = "./AVL_tree/" + choice + "/avl" + to_string(i) + ".txt";
+		ifstream fr;
+		fr.open(filename);
+		if (!fr)
+		{
+			cout << "File not opened\n";
+		}
+		else
+		{
+			while (!fr.eof())
+			{
+				string data;
+				getline(fr, data, '\n');
+				if (data != "")
+				{
+					cout << "Data against " << i << " is: " << data << endl;
+				}
+			}
+		}
+		fr.close();
+	}
 }

@@ -60,12 +60,16 @@ int main()
                         cin >> key;
                         PointSearch_BTree(tree,key);
                     } 
+                    if (choice == 3) {
+                        RangeSearch_BTree(tree);
+                    } 
                     if(choice == 5) {
                         string key;
                         cout << "Please enter the key you wana delete: ";
                         cin >> key;
-                        DeleteRecord(key,tree); 
+                        DeleteRecord_BTree(key,tree); 
                     }
+                    
                     cout << endl;
                 }
             }
@@ -92,8 +96,18 @@ int main()
                         string key;
                         cout << "Please enter the "  << index << " : ";
                         cin >> key;
-                        //PointSearch_BTree(tree,key);
+                        PointSearch_AVLTree(avl_tree,key);
+                    }
+                    if (choice == 3) {
+                        RangeSearch_AVLTree(avl_tree);
                     } 
+                    if(choice == 5) {
+                        string key;
+                        cout << "Please enter the key you wana delete: ";
+                        cin >> key;
+                        DeleteRecord_AVLTree(key,avl_tree); 
+                    } 
+                     
                     cout << endl;
                 }
             }
@@ -121,7 +135,16 @@ int main()
                         string key;
                         cout << "Please enter the "  << index << " : ";
                         cin >> key;
-                        //PointSearch_BTree(tree,key);
+                        PointSearch_RBTree(RB_tree,key);
+                    } 
+                    if (choice == 3) {
+                        RangeSearch_RBTree(RB_tree);
+                    } 
+                    if(choice == 5) {
+                        string key;
+                        cout << "Please enter the key you wana delete: ";
+                        cin >> key;
+                        DeleteRecord_RBTree(key,RB_tree); 
                     } 
                     cout << endl;
                 }

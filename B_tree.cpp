@@ -107,7 +107,8 @@ struct BNode
         }
 
         if (key[i] == k)
-            cout << this->filename << "  " << this->key[i] << endl;
+            cout << "Key found\n";
+        return C[i];
 
         if (leaf == true)
             return NULL;
@@ -115,9 +116,11 @@ struct BNode
         return C[i]->search(k);
     }
 
-    int findKey(T k) {
+    int findKey(T k)
+    {
         int idx = 0;
-        while (idx < n && key[idx] < k) {
+        while (idx < n && key[idx] < k)
+        {
             ++idx;
         }
         return idx;
@@ -142,23 +145,28 @@ struct BNode
                 return;
             }
 
-            bool flag;// = ((idx == n) ? true : false);
-            if(idx == n) {
+            bool flag; // = ((idx == n) ? true : false);
+            if (idx == n)
+            {
                 flag = true;
             }
-            else{
+            else
+            {
                 flag = false;
             }
-            if (C[idx]->n < t) {
+            if (C[idx]->n < t)
+            {
 
                 fill(idx);
             }
 
-            if (flag && idx > n) {
+            if (flag && idx > n)
+            {
 
                 C[idx - 1]->Deletion(k);
             }
-            else{
+            else
+            {
 
                 C[idx]->Deletion(k);
             }
@@ -167,7 +175,8 @@ struct BNode
     }
     void removeFromLeaf(int idx)
     {
-        for (int i = idx + 1; i < n; ++i){
+        for (int i = idx + 1; i < n; ++i)
+        {
 
             key[i - 1] = key[i];
         }
@@ -324,14 +333,12 @@ struct BNode
     }
 };
 
-
 //-------------------------------------------------------------------------------------------------//
 //-------------------------------------------------------------------------------------------------//
 //-------------------------------------------------------------------------------------------------//
 //-------------------------------------------------------------------------------------------------//
 //-------------------------------------------------------------------------------------------------//
 //-------------------------------------------------------------------------------------------------//
-
 
 template <class Q>
 class BTree
@@ -394,12 +401,15 @@ public:
                 root->insertIfBNodeNotFull(k, file);
         }
     }
-    void deletion(Q k) {
-        if(root == NULL) {
+    void deletion(Q k)
+    {
+        if (root == NULL)
+        {
             cout << "Tree is empty.\n";
             return;
         }
-        else {
+        else
+        {
             root->Deletion(k);
         }
     }
@@ -494,7 +504,6 @@ void IndexOnID(string index, int order, BTree<string> *t)
             while (!fin.eof())
             {
 
-
                 getline(fin, s, ',');
 
                 t->insert(s, file_name);
@@ -511,32 +520,107 @@ void IndexOnID(string index, int order, BTree<string> *t)
 
 void PointSearch_BTree(BTree<string> *t, string key)
 {
-
-    string data = "";
-    string filename = "./B_tree/bt" + key + ".txt";
-    ifstream fin(filename);
-    if (!fin)
+    if (t->search(key) == NULL)
     {
-        cout << "ID with this key not found\n";
+        cout << "Key not found\n";
         return;
     }
+    else
+    {
+        string data = "";
+        string filename = "./B_tree/bt" + key + ".txt";
+        ifstream fin(filename);
+        if (!fin)
+        {
+            cout << "ID with this key not found\n";
+            return;
+        }
 
-    getline(fin, data, '\n');
-    cout << "The data for " << key << " is: " << data << endl;
+        getline(fin, data, '\n');
+        cout << "The data for " << key << " is: " << data << endl;
 
-    return;
+        return;
+    }
 }
 
-void DeleteRecord(string key,BTree<string>*t) {
-    t->deletion(key);
-    string filename = "bt"+key+".txt";
-    string s = "rm "+filename;
-    
-    int length = s.length();
-    char char_array[length+1];
-    
-    strcpy(char_array, s.c_str());
-    
-    system("cd B_tree/ID");
-    system(char_array);
+void DeleteRecord_BTree(string key, BTree<string> *t)
+{
+
+    if (t->search(key) == NULL)
+    {
+        cout << "Key not found to be Deleted\n";
+        return;
+    }
+    else
+    {
+        cout << "Entered\n";
+        t->deletion(key);
+        string filename = "./B_tree/ID/bt" + key + ".txt";
+        int length = filename.length();
+        char char_array[length + 1];
+
+        strcpy(char_array, filename.c_str());
+
+        int r = remove(char_array);
+
+        if (r == 0)
+        {
+            cout << "File remove succeessfully\n";
+        }
+        else
+        {
+            cout << "File not removed\n";
+        }
+    }
+}
+
+void RangeSearch_BTree(BTree<string> *t)
+{
+    int starting, ending;
+    string choice;
+    cout << "Enter on which field to perform Range Search\n";
+    cin >> choice;
+    cout << "Enter starting point: ";
+    cin >> starting;
+    cout << "Enter endiing point: ";
+    cin >> ending;
+
+    if (starting > ending)
+    {
+        cout << "Not valid\n";
+        return;
+    }
+    for (int i = starting; i <= ending; i++)
+    {
+
+        if (t->search(to_string(i)) == NULL)
+        {
+            cout << i << " not found\n";
+        }
+        else
+        {
+
+            string filename = "";
+            filename = "./B_tree/" + choice + "/bt" + to_string(i) + ".txt";
+            ifstream fr;
+            fr.open(filename);
+            if (!fr)
+            {
+                cout << "File not opened\n";
+            }
+            else
+            {
+                while (!fr.eof())
+                {
+                    string data;
+                    getline(fr, data, '\n');
+                    if (data != "")
+                    {
+                        cout << "Data against " << i << " is: " << data << endl;
+                    }
+                }
+            }
+            fr.close();
+        }
+    }
 }

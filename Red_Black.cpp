@@ -1,8 +1,10 @@
 #include <iostream>
+#include <string>
+#include <cstring>
 #include <fstream>
 using namespace std;
 
-template<class T>
+template <class T>
 struct Node
 {
     T data;
@@ -12,7 +14,7 @@ struct Node
     int color;
 };
 
-template<class Q>
+template <class Q>
 class RedBlackTree
 {
 private:
@@ -28,7 +30,6 @@ private:
         node->color = 0;
     }
 
-
     // Inorder
     void print_InOrder(Node<Q> *node)
     {
@@ -40,9 +41,7 @@ private:
         }
     }
 
-
-
-    Node<Q> *searchTreeHelper(Node<Q> *node, int key)
+    Node<Q> *searchTreeHelper(Node<Q> *node, Q key)
     {
         if (node == TNULL || key == node->data)
         {
@@ -148,7 +147,7 @@ private:
         v->parent = u->parent;
     }
 
-    void deleteNodeHelper(Node<Q> *node, int key)
+    void deleteNodeHelper(Node<Q> *node, Q key)
     {
         Node<Q> *z = TNULL;
         Node<Q> *x, *y;
@@ -307,15 +306,12 @@ public:
         root = TNULL;
     }
 
-    
-
     void inorder()
     {
         print_InOrder(this->root);
     }
 
-    
-    Node<Q> *searchTree(int k)
+    Node<Q> *searchTree(Q k)
     {
         return searchTreeHelper(this->root, k);
     }
@@ -494,7 +490,6 @@ public:
     }
 };
 
-
 void IndexOnIDRB(string index, RedBlackTree<string> *t)
 {
     string s, garbage;
@@ -532,7 +527,113 @@ void IndexOnIDRB(string index, RedBlackTree<string> *t)
             fin.close();
         }
     }
-    t->inorder();
+}
+
+void DeleteRecord_RBTree(string key, RedBlackTree<string> *t)
+{
+
+    if (t->searchTree(key) == NULL)
+    {
+        cout << "Key not found to be Deleted\n";
+        return;
+    }
+    else
+    {
+        cout << "Entered\n";
+        t->deleteNode(key);
+        string filename = "./RB_tree/ID/rb" + key + ".txt";
+        int length = filename.length();
+        char char_array[length + 1];
+
+        strcpy(char_array, filename.c_str());
+
+        int r = remove(char_array);
+
+        if (r == 0)
+        {
+            cout << "File remove succeessfully\n";
+        }
+        else
+        {
+            cout << "File not removed\n";
+        }
+    }
+}
+
+void PointSearch_RBTree(RedBlackTree<string> *t, string key)
+{
+    if (t->searchTree((key)) == NULL)
+    {
+        cout << "Key not found\n";
+        return;
+    }
+    else
+    {
+        string data = "";
+        string filename = "./B_tree/bt" + key + ".txt";
+        ifstream fin(filename);
+        if (!fin)
+        {
+            cout << "ID with this key not found\n";
+            return;
+        }
+
+        getline(fin, data, '\n');
+        cout << "The data for " << key << " is: " << data << endl;
+
+        return;
+    }
+}
+
+void RangeSearch_RBTree(RedBlackTree<string> *t)
+{
+    int starting, ending;
+    string choice;
+    cout << "Enter on which field to perform Range Search\n";
+    cin >> choice;
+    cout << "Enter starting point: ";
+    cin >> starting;
+    cout << "Enter endiing point: ";
+    cin >> ending;
+
+    if (starting > ending)
+    {
+        cout << "Not valid\n";
+        return;
+    }
+    for (int i = starting; i <= ending; i++)
+    {
+
+        if (t->searchTree(to_string(i)) == NULL)
+        {
+            cout << i << " not found\n";
+        }
+        else
+        {
+
+            string filename = "";
+            filename = "./B_tree/" + choice + "/bt" + to_string(i) + ".txt";
+            ifstream fr;
+            fr.open(filename);
+            if (!fr)
+            {
+                cout << "File not opened\n";
+            }
+            else
+            {
+                while (!fr.eof())
+                {
+                    string data;
+                    getline(fr, data, '\n');
+                    if (data != "")
+                    {
+                        cout << "Data against " << i << " is: " << data << endl;
+                    }
+                }
+            }
+            fr.close();
+        }
+    }
 }
 
 // int main()
